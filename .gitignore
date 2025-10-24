@@ -5,6 +5,12 @@ llm/gemini_key.json
 .streamlit/secrets.toml
 caption/credentials.json
 caption/credentials_token.json
+civitai/images/
+civitai/videos/
+civitai/metadata/
+civitai/civitai_imgs*.json
+frameset/images/
+.streamlit/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

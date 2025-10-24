@@ -1,0 +1,1169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Civitai Viewer - Images & Videos with Metadata</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #fafafa;
+            --bg-secondary: #ffffff;
+            --bg-hover: #f5f5f5;
+            --text-primary: #1a1a1a;
+            --text-secondary: #6b7280;
+            --border-color: #e5e7eb;
+            --accent: #6366f1;
+            --accent-hover: #4f46e5;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --video-accent: #ec4899;
+            --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            --sidebar-width: 280px;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .header {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border-color);
+            padding: 1.5rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .header-content {
+            max-width: 100%;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        .header h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .controls {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .search-box {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            font-size: 0.875rem;
+            min-width: 300px;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        .main-layout {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        .sidebar {
+            width: var(--sidebar-width);
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border-color);
+            overflow-y: auto;
+            flex-shrink: 0;
+        }
+
+        .sidebar-content {
+            padding: 1rem;
+        }
+
+        .sidebar-title {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-secondary);
+            padding: 0.5rem 0.75rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .filter-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .filter-label {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+        .filter-item {
+            display: flex;
+            align-items: center;
+            padding: 0.5rem 0.75rem;
+            cursor: pointer;
+            border-radius: 0.375rem;
+            transition: background 0.15s;
+            gap: 0.5rem;
+            user-select: none;
+        }
+
+        .filter-item:hover {
+            background: var(--bg-hover);
+        }
+
+        .filter-item input {
+            cursor: pointer;
+        }
+
+        .filter-item label {
+            flex: 1;
+            cursor: pointer;
+            font-size: 0.875rem;
+        }
+
+        .content-area {
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .stats-bar {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent);
+        }
+
+        .stat-value.success {
+            color: var(--success);
+        }
+
+        .stat-value.video {
+            color: var(--video-accent);
+        }
+
+        .stat-label {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-top: 0.25rem;
+        }
+
+        .item-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .item-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-left: 4px solid var(--accent);
+            border-radius: 0.75rem;
+            overflow: hidden;
+            box-shadow: var(--shadow-sm);
+            transition: box-shadow 0.2s;
+        }
+
+        .item-card.video {
+            border-left-color: var(--video-accent);
+        }
+
+        .item-card:hover {
+            box-shadow: var(--shadow-md);
+        }
+
+        .item-header {
+            padding: 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .item-header:hover {
+            background: var(--bg-hover);
+        }
+
+        .item-info {
+            flex: 1;
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .item-media {
+            width: 250px;
+            height: 250px;
+            background: #f0f0f0;
+            border-radius: 0.5rem;
+            overflow: hidden;
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .item-media img,
+        .item-media video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .item-media.loading {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .video-badge {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            background: rgba(236, 72, 153, 0.9);
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .item-details {
+            flex: 1;
+        }
+
+        .item-title {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .item-meta {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: 0.75rem;
+        }
+
+        .meta-badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 0.375rem;
+            background: var(--bg-primary);
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .meta-badge.votes {
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--success);
+        }
+
+        .meta-badge.nsfw {
+            background: rgba(239, 68, 68, 0.1);
+            color: #ef4444;
+        }
+
+        .preview-text {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .toggle-icon {
+            color: var(--text-secondary);
+            transition: transform 0.3s;
+            margin-top: 0.25rem;
+        }
+
+        .toggle-icon.open {
+            transform: rotate(180deg);
+        }
+
+        .item-content {
+            display: none;
+            padding: 1.5rem;
+            border-top: 1px solid var(--border-color);
+            background: var(--bg-primary);
+        }
+
+        .item-content.active {
+            display: block;
+        }
+
+        .metadata-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .metadata-panel {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            padding: 1.5rem;
+        }
+
+        .panel-header {
+            font-size: 0.875rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .metadata-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--bg-primary);
+            font-size: 0.875rem;
+        }
+
+        .metadata-row:last-child {
+            border-bottom: none;
+        }
+
+        .metadata-label {
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .metadata-value {
+            color: var(--text-primary);
+            font-weight: 400;
+            text-align: right;
+            max-width: 60%;
+            word-break: break-word;
+        }
+
+        .prompt-section {
+            grid-column: 1 / -1;
+        }
+
+        .prompt-text {
+            font-size: 0.875rem;
+            line-height: 1.7;
+            color: var(--text-primary);
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background: var(--bg-primary);
+            padding: 1rem;
+            border-radius: 0.375rem;
+            margin-top: 0.5rem;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: var(--text-secondary);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-secondary);
+        }
+
+        .pagination-controls {
+            margin: 1.5rem 0;
+        }
+
+        .pagination {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            padding: 1rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+        }
+
+        .page-btn {
+            padding: 0.5rem 1rem;
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.375rem;
+            color: var(--text-primary);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .page-btn:hover:not(:disabled) {
+            background: var(--accent);
+            color: white;
+            border-color: var(--accent);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .page-info {
+            font-size: 0.875rem;
+            color: var(--text-primary);
+            font-weight: 500;
+            padding: 0 1rem;
+        }
+
+        .page-items {
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            max-width: 95vw;
+            max-height: 95vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .modal-media {
+            max-width: 100%;
+            max-height: 85vh;
+            object-fit: contain;
+        }
+
+        .modal-info {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            font-size: 0.875rem;
+            color: var(--text-primary);
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: rgba(255, 255, 255, 0.9);
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            font-size: 1.5rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.15s;
+        }
+
+        .modal-close:hover {
+            background: white;
+            transform: scale(1.1);
+        }
+
+        .aspect-ratio-badge {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            background: rgba(99, 102, 241, 0.1);
+            color: var(--accent);
+            border-radius: 0.25rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            margin-left: 0.5rem;
+        }
+
+        @media (max-width: 1200px) {
+            .metadata-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .item-info {
+                flex-direction: column;
+            }
+
+            .item-media {
+                width: 100%;
+            }
+
+            .sidebar {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>🎨 Civitai Viewer - Images & Videos</h1>
+            <div class="controls">
+                <input type="text" id="searchBox" class="search-box" placeholder="Search by ID, creator, or model...">
+            </div>
+        </div>
+    </div>
+
+    <div class="main-layout">
+        <div class="sidebar">
+            <div class="sidebar-content">
+                <div class="sidebar-title">View Options</div>
+
+                <div class="filter-group">
+                    <div class="filter-label">Media Type</div>
+                    <div id="typeFilters">
+                        <div class="filter-item">
+                            <input type="checkbox" id="type-image" value="image" checked>
+                            <label for="type-image">Images</label>
+                        </div>
+                        <div class="filter-item">
+                            <input type="checkbox" id="type-video" value="video" checked>
+                            <label for="type-video">Videos</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-label">Content</div>
+                    <div id="nsfwFilters">
+                        <div class="filter-item">
+                            <input type="checkbox" id="nsfw-sfw" value="false" checked>
+                            <label for="nsfw-sfw">SFW Content</label>
+                        </div>
+                        <div class="filter-item">
+                            <input type="checkbox" id="nsfw-nsfw" value="true" checked>
+                            <label for="nsfw-nsfw">NSFW Content</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-label">Sort By</div>
+                    <div id="sortFilters">
+                        <div class="filter-item">
+                            <input type="radio" id="sort-votes" name="sort" value="votes" checked>
+                            <label for="sort-votes">Most Votes</label>
+                        </div>
+                        <div class="filter-item">
+                            <input type="radio" id="sort-recent" name="sort" value="recent">
+                            <label for="sort-recent">Most Recent</label>
+                        </div>
+                        <div class="filter-item">
+                            <input type="radio" id="sort-id" name="sort" value="id">
+                            <label for="sort-id">ID</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-area">
+            <div class="container">
+                <div id="content">
+                    <div class="loading">Loading Civitai media...</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for viewing original size -->
+    <div id="mediaModal" class="modal" onclick="closeModal()">
+        <button class="modal-close" onclick="closeModal()">×</button>
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <div id="modalMedia"></div>
+            <div class="modal-info" id="modalInfo"></div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = '/civitai/api';
+        const ITEMS_PER_PAGE = 50; // Show 50 items per page
+
+        let allItems = [];
+        let currentData = [];
+        let currentPage = 1;
+        let totalPages = 1;
+
+        let activeFilters = {
+            types: new Set(['image', 'video']),
+            nsfw: new Set(['false', 'true']),
+            sort: 'votes',
+            search: ''
+        };
+
+        async function loadData() {
+            try {
+                const [items, stats] = await Promise.all([
+                    fetch(`${API_BASE}/items`).then(r => r.json()),
+                    fetch(`${API_BASE}/stats`).then(r => r.json())
+                ]);
+
+                allItems = items;
+                console.log('Loaded', allItems.length, 'items');
+
+                displayStats(stats);
+                applyFilters();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('content').innerHTML = `
+                    <div class="empty-state">
+                        <h3>Error loading data</h3>
+                        <p>${error.message}</p>
+                        <p style="margin-top: 1rem; font-size: 0.875rem;">Make sure you have run the scraper and the data directories exist.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function displayStats(stats) {
+            const statsHTML = `
+                <div class="stats-bar">
+                    <div class="stat-item">
+                        <div class="stat-value">${stats.total.toLocaleString()}</div>
+                        <div class="stat-label">Total Items</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">${stats.images.toLocaleString()}</div>
+                        <div class="stat-label">Images</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value video">${stats.videos.toLocaleString()}</div>
+                        <div class="stat-label">Videos</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value success">${stats.avg_votes}</div>
+                        <div class="stat-label">Avg Votes</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">${stats.total_votes.toLocaleString()}</div>
+                        <div class="stat-label">Total Votes</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">${stats.configs}</div>
+                        <div class="stat-label">Scrape Runs</div>
+                    </div>
+                </div>
+            `;
+
+            const content = document.getElementById('content');
+            content.innerHTML = statsHTML + '<div class="pagination-controls"></div><div class="item-list"></div><div class="pagination-controls"></div>';
+        }
+
+        function applyFilters() {
+            currentData = allItems.filter(item => {
+                const matchesType = activeFilters.types.has(item.media_type);
+                const matchesNsfw = activeFilters.nsfw.has(String(item.nsfw));
+                const matchesSearch = !activeFilters.search ||
+                    String(item.id).includes(activeFilters.search) ||
+                    (item.username && item.username.toLowerCase().includes(activeFilters.search.toLowerCase())) ||
+                    (item.meta && item.meta.Model && item.meta.Model.toLowerCase().includes(activeFilters.search.toLowerCase()));
+
+                return matchesType && matchesNsfw && matchesSearch;
+            });
+
+            sortData();
+
+            // Reset to page 1 when filters change
+            currentPage = 1;
+            totalPages = Math.ceil(currentData.length / ITEMS_PER_PAGE);
+
+            renderPagination();
+            renderItems();
+        }
+
+        function sortData() {
+            switch (activeFilters.sort) {
+                case 'votes':
+                    currentData.sort((a, b) => {
+                        const votesA = getTotalVotes(a);
+                        const votesB = getTotalVotes(b);
+                        return votesB - votesA;
+                    });
+                    break;
+                case 'recent':
+                    currentData.sort((a, b) => {
+                        const dateA = new Date(a.createdAt || 0);
+                        const dateB = new Date(b.createdAt || 0);
+                        return dateB - dateA;
+                    });
+                    break;
+                case 'id':
+                default:
+                    currentData.sort((a, b) => a.id - b.id);
+                    break;
+            }
+        }
+
+        function getTotalVotes(item) {
+            const stats = item.stats || {};
+            return (stats.likeCount || 0) +
+                (stats.heartCount || 0) +
+                (stats.laughCount || 0) +
+                (stats.cryCount || 0);
+        }
+
+        function renderPagination() {
+            const controls = document.querySelectorAll('.pagination-controls');
+
+            if (currentData.length === 0) {
+                controls.forEach(c => c.innerHTML = '');
+                return;
+            }
+
+            const startItem = (currentPage - 1) * ITEMS_PER_PAGE + 1;
+            const endItem = Math.min(currentPage * ITEMS_PER_PAGE, currentData.length);
+
+            const paginationHTML = `
+                <div class="pagination">
+                    <button class="page-btn" onclick="goToPage(1)" ${currentPage === 1 ? 'disabled' : ''}>
+                        ⟨⟨ First
+                    </button>
+                    <button class="page-btn" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>
+                        ⟨ Prev
+                    </button>
+                    <span class="page-info">
+                        Page ${currentPage} of ${totalPages} 
+                        <span class="page-items">(${startItem}-${endItem} of ${currentData.length.toLocaleString()} items)</span>
+                    </span>
+                    <button class="page-btn" onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>
+                        Next ⟩
+                    </button>
+                    <button class="page-btn" onclick="goToPage(${totalPages})" ${currentPage === totalPages ? 'disabled' : ''}>
+                        Last ⟩⟩
+                    </button>
+                </div>
+            `;
+
+            controls.forEach(c => c.innerHTML = paginationHTML);
+        }
+
+        function goToPage(page) {
+            if (page < 1 || page > totalPages) return;
+            currentPage = page;
+            renderPagination();
+            renderItems();
+
+            // Scroll to top of content area
+            document.querySelector('.content-area').scrollTop = 0;
+        }
+
+        function renderItems() {
+            const list = document.querySelector('.item-list');
+
+            if (!list) {
+                return;
+            }
+
+            if (currentData.length === 0) {
+                list.innerHTML = `
+                    <div class="empty-state">
+                        <h3>No items match the current filters</h3>
+                        <p>Try adjusting your filter selections</p>
+                    </div>
+                `;
+                return;
+            }
+
+            list.innerHTML = '';
+
+            // Get items for current page
+            const startIdx = (currentPage - 1) * ITEMS_PER_PAGE;
+            const endIdx = Math.min(startIdx + ITEMS_PER_PAGE, currentData.length);
+            const pageItems = currentData.slice(startIdx, endIdx);
+
+            pageItems.forEach(item => {
+                const card = createItemCard(item);
+                list.appendChild(card);
+            });
+        }
+
+        function createItemCard(item) {
+            const card = document.createElement('div');
+            card.className = `item-card ${item.media_type}`;
+
+            const votes = getTotalVotes(item);
+            const stats = item.stats || {};
+            const meta = item.meta || {};
+
+            // Calculate aspect ratio
+            const aspectRatio = item.width && item.height ? (item.width / item.height).toFixed(2) : 'N/A';
+            const isLandscape = item.width > item.height;
+            const isPortrait = item.height > item.width;
+            const isSquare = Math.abs(item.width - item.height) < 10;
+
+            let aspectLabel = isSquare ? 'Square' : isLandscape ? 'Landscape' : 'Portrait';
+
+            const nsfwBadge = item.nsfw ? '<span class="meta-badge nsfw">NSFW</span>' : '';
+            const prompt = meta.prompt ? meta.prompt.substring(0, 150) + '...' : 'No prompt available';
+
+            card.innerHTML = `
+                <div class="item-header">
+                    <div class="item-info">
+                        <div class="item-media loading" data-media="${item.media_file}" data-type="${item.media_type}" data-item-id="${item.id}">
+                            Loading...
+                        </div>
+                        <div class="item-details">
+                            <div class="item-title">Civitai #${item.id}</div>
+                            <div class="item-meta">
+                                <span><strong>Creator:</strong> ${item.username || 'Unknown'}</span>
+                                <span class="meta-badge votes">❤️ ${votes} votes</span>
+                                ${nsfwBadge}
+                                <span class="meta-badge">${item.width}×${item.height}</span>
+                                <span class="aspect-ratio-badge">${aspectLabel} ${aspectRatio}:1</span>
+                                ${item.media_type === 'video' ? '<span class="meta-badge">🎥 Video</span>' : ''}
+                            </div>
+                            <div class="preview-text">${prompt}</div>
+                        </div>
+                    </div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="item-content">
+                    ${createMetadataView(item)}
+                </div>
+            `;
+
+            // Load media
+            const mediaEl = card.querySelector('.item-media');
+            if (item.media_type === 'video') {
+                const video = document.createElement('video');
+                video.controls = true;
+                video.onloadeddata = () => {
+                    mediaEl.innerHTML = '';
+                    mediaEl.classList.remove('loading');
+                    mediaEl.appendChild(video);
+
+                    const badge = document.createElement('div');
+                    badge.className = 'video-badge';
+                    badge.textContent = '🎥 VIDEO';
+                    mediaEl.appendChild(badge);
+                };
+                video.onerror = () => {
+                    mediaEl.textContent = 'Video not found';
+                };
+                video.src = `${API_BASE}/media/${item.media_file}`;
+
+                // Add click to view original
+                mediaEl.style.cursor = 'pointer';
+                mediaEl.addEventListener('click', (e) => {
+                    if (e.target === video) return; // Don't interfere with video controls
+                    openModal(item);
+                });
+            } else {
+                const img = new Image();
+                img.onload = () => {
+                    mediaEl.innerHTML = '';
+                    mediaEl.classList.remove('loading');
+                    mediaEl.appendChild(img);
+
+                    // Add click to view original
+                    mediaEl.style.cursor = 'pointer';
+                    mediaEl.title = 'Click to view original size';
+                    mediaEl.addEventListener('click', () => {
+                        openModal(item);
+                    });
+                };
+                img.onerror = () => {
+                    mediaEl.textContent = 'Image not found';
+                };
+                img.src = `${API_BASE}/media/${item.media_file}`;
+            }
+
+            // Toggle functionality
+            const header = card.querySelector('.item-header');
+            const content = card.querySelector('.item-content');
+            const toggleIcon = card.querySelector('.toggle-icon');
+
+            header.addEventListener('click', (e) => {
+                // Don't toggle if clicking on the media preview
+                if (e.target.closest('.item-media')) {
+                    return;
+                }
+                content.classList.toggle('active');
+                toggleIcon.classList.toggle('open');
+            });
+
+            return card;
+        }
+
+        function openModal(item) {
+            const modal = document.getElementById('mediaModal');
+            const modalMedia = document.getElementById('modalMedia');
+            const modalInfo = document.getElementById('modalInfo');
+
+            // Calculate aspect ratio
+            const aspectRatio = item.width && item.height ? (item.width / item.height).toFixed(2) : 'N/A';
+            const isLandscape = item.width > item.height;
+            const isPortrait = item.height > item.width;
+            const isSquare = Math.abs(item.width - item.height) < 10;
+            let aspectLabel = isSquare ? 'Square' : isLandscape ? 'Landscape' : 'Portrait';
+
+            modalInfo.innerHTML = `
+                <strong>Civitai #${item.id}</strong>
+                <span>${item.width} × ${item.height} pixels</span>
+                <span>${aspectLabel} (${aspectRatio}:1)</span>
+                <span>${item.media_type === 'video' ? '🎥 Video' : '🖼️ Image'}</span>
+            `;
+
+            if (item.media_type === 'video') {
+                modalMedia.innerHTML = `<video class="modal-media" controls autoplay src="${API_BASE}/media/${item.media_file}"></video>`;
+            } else {
+                modalMedia.innerHTML = `<img class="modal-media" src="${API_BASE}/media/${item.media_file}" alt="Civitai #${item.id}">`;
+            }
+
+            modal.classList.add('active');
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('mediaModal');
+            modal.classList.remove('active');
+
+            // Stop video if playing
+            const video = modal.querySelector('video');
+            if (video) {
+                video.pause();
+            }
+        }
+
+        function createMetadataView(item) {
+            const stats = item.stats || {};
+            const meta = item.meta || {};
+
+            // Calculate aspect ratio details
+            const aspectRatio = item.width && item.height ? (item.width / item.height).toFixed(3) : 'N/A';
+            const isLandscape = item.width > item.height;
+            const isPortrait = item.height > item.width;
+            const isSquare = Math.abs(item.width - item.height) < 10;
+            let aspectLabel = isSquare ? 'Square' : isLandscape ? 'Landscape' : 'Portrait';
+            const megapixels = item.width && item.height ? ((item.width * item.height) / 1000000).toFixed(2) : 'N/A';
+
+            let html = '<div class="metadata-grid">';
+
+            // Stats panel
+            html += `
+                <div class="metadata-panel">
+                    <div class="panel-header">Statistics</div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">❤️ Likes</span>
+                        <span class="metadata-value">${stats.likeCount || 0}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">💖 Hearts</span>
+                        <span class="metadata-value">${stats.heartCount || 0}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">😂 Laughs</span>
+                        <span class="metadata-value">${stats.laughCount || 0}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">😢 Cries</span>
+                        <span class="metadata-value">${stats.cryCount || 0}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">💬 Comments</span>
+                        <span class="metadata-value">${stats.commentCount || 0}</span>
+                    </div>
+                </div>
+            `;
+
+            // Media info panel with aspect ratio
+            html += `
+                <div class="metadata-panel">
+                    <div class="panel-header">Media Info</div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">ID</span>
+                        <span class="metadata-value">${item.id}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">Type</span>
+                        <span class="metadata-value">${item.media_type}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">Dimensions</span>
+                        <span class="metadata-value">${item.width} × ${item.height}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">Aspect Ratio</span>
+                        <span class="metadata-value">${aspectRatio}:1 (${aspectLabel})</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">Megapixels</span>
+                        <span class="metadata-value">${megapixels} MP</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">NSFW</span>
+                        <span class="metadata-value">${item.nsfw ? 'Yes' : 'No'}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">NSFW Level</span>
+                        <span class="metadata-value">${item.nsfwLevel || 'None'}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">Created</span>
+                        <span class="metadata-value">${new Date(item.createdAt).toLocaleDateString()}</span>
+                    </div>
+                    <div class="metadata-row">
+                        <span class="metadata-label">Post ID</span>
+                        <span class="metadata-value">${item.postId || 'N/A'}</span>
+                    </div>
+                </div>
+            `;
+
+            // Generation params panel (if available)
+            if (meta.Model || meta.steps) {
+                html += `
+                    <div class="metadata-panel">
+                        <div class="panel-header">Generation Parameters</div>
+                        ${meta.Model ? `<div class="metadata-row"><span class="metadata-label">Model</span><span class="metadata-value">${meta.Model}</span></div>` : ''}
+                        ${meta.steps ? `<div class="metadata-row"><span class="metadata-label">Steps</span><span class="metadata-value">${meta.steps}</span></div>` : ''}
+                        ${meta.sampler ? `<div class="metadata-row"><span class="metadata-label">Sampler</span><span class="metadata-value">${meta.sampler}</span></div>` : ''}
+                        ${meta.cfgScale ? `<div class="metadata-row"><span class="metadata-label">CFG Scale</span><span class="metadata-value">${meta.cfgScale}</span></div>` : ''}
+                        ${meta.seed ? `<div class="metadata-row"><span class="metadata-label">Seed</span><span class="metadata-value">${meta.seed}</span></div>` : ''}
+                        ${meta.Size ? `<div class="metadata-row"><span class="metadata-label">Size</span><span class="metadata-value">${meta.Size}</span></div>` : ''}
+                    </div>
+                `;
+            }
+
+            // Prompt section (if available)
+            if (meta.prompt) {
+                html += `
+                    <div class="metadata-panel prompt-section">
+                        <div class="panel-header">Positive Prompt</div>
+                        <div class="prompt-text">${meta.prompt}</div>
+                    </div>
+                `;
+            }
+
+            // Negative prompt section (if available)
+            if (meta.negativePrompt) {
+                html += `
+                    <div class="metadata-panel prompt-section">
+                        <div class="panel-header">Negative Prompt</div>
+                        <div class="prompt-text">${meta.negativePrompt}</div>
+                    </div>
+                `;
+            }
+
+            html += '</div>';
+            return html;
+        }
+
+        // Event listeners
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            activeFilters.search = e.target.value;
+            applyFilters();
+        });
+
+        document.querySelectorAll('#typeFilters input[type="checkbox"]').forEach(checkbox => {
+            checkbox.addEventListener('change', (e) => {
+                if (e.target.checked) {
+                    activeFilters.types.add(e.target.value);
+                } else {
+                    activeFilters.types.delete(e.target.value);
+                }
+                applyFilters();
+            });
+        });
+
+        document.querySelectorAll('#nsfwFilters input[type="checkbox"]').forEach(checkbox => {
+            checkbox.addEventListener('change', (e) => {
+                if (e.target.checked) {
+                    activeFilters.nsfw.add(e.target.value);
+                } else {
+                    activeFilters.nsfw.delete(e.target.value);
+                }
+                applyFilters();
+            });
+        });
+
+        document.querySelectorAll('input[name="sort"]').forEach(radio => {
+            radio.addEventListener('change', (e) => {
+                activeFilters.sort = e.target.value;
+                applyFilters();
+            });
+        });
+
+        // Initialize
+        loadData();
+    </script>
+</body>
+
+</html>
