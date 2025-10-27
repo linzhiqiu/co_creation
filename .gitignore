@@ -11,6 +11,9 @@ civitai/metadata/
 civitai/civitai_imgs*.json
 frameset/images/
 .streamlit/
+llm/secrets.toml
+outputs/
+uploads/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,28 @@
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Image Generation - FLUX
+diffusers==0.31.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+accelerate>=0.20.0
+safetensors>=0.3.1
+sentencepiece>=0.2.0
+protobuf>=3.20.0,<5.0.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Multimodal LLMs for Captioning and Image Generation
+google-genai>=0.2.0  # NEW SDK for Gemini (including Nano Banana image generation)
+google-generativeai>=0.8.0  # Legacy SDK (still needed for some features)
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Optional: For better performance
+xformers>=0.0.20  # Memory-efficient attention (optional, for CUDA)

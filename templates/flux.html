@@ -1,0 +1,996 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FLUX Image Generator & Captioner</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #fafafa;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: #1a1a1a;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+
+        .header p {
+            font-size: 1.1em;
+            color: #666;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        @media (max-width: 1024px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .card h2 {
+            color: #1a1a1a;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-weight: 600;
+        }
+
+        .card h2::before {
+            content: '';
+            width: 4px;
+            height: 30px;
+            background: #1a1a1a;
+            border-radius: 2px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 500;
+        }
+
+        input[type="text"],
+        textarea,
+        select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 1em;
+            transition: all 0.3s;
+            font-family: inherit;
+        }
+
+        input[type="text"]:focus,
+        textarea:focus,
+        select:focus {
+            outline: none;
+            border-color: #1a1a1a;
+            box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05);
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 100px;
+        }
+
+        .advanced-settings {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        .advanced-settings h3 {
+            color: #555;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .advanced-settings h3::after {
+            content: ' ▼';
+            font-size: 0.8em;
+        }
+
+        .advanced-settings.collapsed h3::after {
+            content: ' ►';
+        }
+
+        .advanced-settings.collapsed .settings-content {
+            display: none;
+        }
+
+        .settings-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+
+        @media (max-width: 640px) {
+            .settings-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 1em;
+        }
+
+        .button {
+            background: #1a1a1a;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            background: #2a2a2a;
+        }
+
+        .button:active {
+            transform: translateY(0);
+        }
+
+        .button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .button.secondary {
+            background: #6c757d;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .loading.active {
+            display: block;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .result {
+            margin-top: 20px;
+            display: none;
+        }
+
+        .result.active {
+            display: block;
+        }
+
+        .result img {
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+        }
+
+        .result-caption {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .result-caption p {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .result-caption .caption-text {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 10px;
+            font-style: italic;
+            color: #333;
+        }
+
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .error.active {
+            display: block;
+        }
+
+        .file-upload {
+            border: 2px dashed #1a1a1a;
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: #f8f9fa;
+        }
+
+        .file-upload:hover {
+            background: #e9ecef;
+            border-color: #2a2a2a;
+        }
+
+        .file-upload.dragover {
+            background: #f0f0f0;
+            border-color: #1a1a1a;
+        }
+
+        .file-upload input[type="file"] {
+            display: none;
+        }
+
+        .file-upload-icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+
+        .preview-image {
+            max-width: 100%;
+            border-radius: 10px;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .preview-image.active {
+            display: block;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .action-buttons button {
+            flex: 1;
+        }
+
+        .info-badge {
+            display: inline-block;
+            background: #e7f3ff;
+            color: #0066cc;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+
+        /* Image Browser Styles */
+        .browser-section {
+            background: white;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .browser-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .browser-title {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+
+        .browser-controls {
+            display: flex;
+            gap: 10px;
+        }
+
+        .small-button {
+            padding: 8px 16px;
+            font-size: 0.9em;
+            background: #f0f0f0;
+            color: #1a1a1a;
+            border: 1px solid #d0d0d0;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .small-button:hover {
+            background: #e0e0e0;
+            border-color: #1a1a1a;
+        }
+
+        .small-button.active {
+            background: #1a1a1a;
+            color: white;
+            border-color: #1a1a1a;
+        }
+
+        .image-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+            max-height: 400px;
+            overflow-y: auto;
+            padding: 10px;
+            background: #fafafa;
+            border-radius: 8px;
+        }
+
+        .image-grid-item {
+            position: relative;
+            aspect-ratio: 1;
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            border: 3px solid transparent;
+            transition: all 0.2s;
+            background: #f0f0f0;
+        }
+
+        .image-grid-item:hover {
+            border-color: #1a1a1a;
+            transform: scale(1.05);
+        }
+
+        .image-grid-item.selected {
+            border-color: #1a1a1a;
+            box-shadow: 0 0 0 2px #1a1a1a;
+        }
+
+        .image-grid-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .image-grid-item .image-name {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 4px 8px;
+            font-size: 0.75em;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .browser-stats {
+            display: flex;
+            gap: 20px;
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .browser-loading {
+            text-align: center;
+            padding: 40px;
+            color: #999;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎨 FLUX / Nano Banana Image Generator & Gemini Captioner</h1>
+            <p>Generate images from text and caption your images to texts</p>
+        </div>
+
+        <div class="main-content">
+            <!-- Image Generation Section -->
+            <div class="card">
+                <h2>Generate Image</h2>
+
+                <form id="generateForm">
+                    <div class="form-group">
+                        <label for="genModel">Generation Model</label>
+                        <select id="genModel" name="genModel" onchange="updateGenerationSettings()">
+                            <option value="flux" selected>FLUX.1-Kontext (Local GPU)</option>
+                            <option value="google">Nano Banana - Gemini 2.5 Flash Image (Cloud API)</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="prompt">Prompt *</label>
+                        <textarea id="prompt" name="prompt" placeholder="Describe the image you want to generate..."
+                            required></textarea>
+                    </div>
+
+                    <div class="advanced-settings collapsed" id="genAdvancedSettings">
+                        <h3 onclick="toggleAdvanced()">Advanced Settings</h3>
+                        <div class="settings-content">
+                            <div class="settings-grid">
+                                <div class="form-group">
+                                    <label for="width">Width</label>
+                                    <input type="number" id="width" name="width" value="512" min="512" max="2048"
+                                        step="64">
+                                </div>
+                                <div class="form-group">
+                                    <label for="height">Height</label>
+                                    <input type="number" id="height" name="height" value="512" min="512" max="2048"
+                                        step="64">
+                                </div>
+                                <div class="form-group flux-only">
+                                    <label for="steps">Inference Steps</label>
+                                    <input type="number" id="steps" name="steps" value="28" min="1" max="100">
+                                </div>
+                                <div class="form-group flux-only">
+                                    <label for="guidance">Guidance Scale</label>
+                                    <input type="number" id="guidance" name="guidance" value="3.5" min="1" max="20"
+                                        step="0.1">
+                                </div>
+                                <div class="form-group">
+                                    <label for="seed">Seed (optional)</label>
+                                    <input type="number" id="seed" name="seed" placeholder="Leave empty for random">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="button">Generate Image</button>
+                </form>
+
+                <div class="loading" id="generateLoading">
+                    <div class="spinner"></div>
+                    <p>Generating your image... This may take 30-60 seconds</p>
+                </div>
+
+                <div class="error" id="generateError"></div>
+
+                <div class="result" id="generateResult">
+                    <img id="generatedImage" src="" alt="Generated image">
+                    <div class="action-buttons">
+                        <button class="button secondary" onclick="downloadImage()">Download</button>
+                        <button class="button" onclick="sendToCaptioner()">Caption This</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Image Captioning Section -->
+            <div class="card">
+                <h2>Caption Image</h2>
+
+                <!-- Image Browser Section -->
+                <div class="browser-section">
+                    <div class="browser-header">
+                        <div class="browser-title">Browse Dataset Images</div>
+                        <div class="browser-controls">
+                            <button class="small-button active" id="btnCivitai" onclick="switchFolder('civitai')">Civitai</button>
+                            <button class="small-button" id="btnFrameset" onclick="switchFolder('frameset')">Frameset</button>
+                            <button class="small-button" onclick="shuffleImages()">🔀 Shuffle</button>
+                            <button class="small-button" onclick="loadFolderImages()">🔄 Refresh</button>
+                        </div>
+                    </div>
+                    <div class="browser-stats">
+                        <span id="folderStats">Loading images...</span>
+                    </div>
+                    <div id="imageGridContainer">
+                        <div class="browser-loading">Loading images...</div>
+                    </div>
+                </div>
+
+                <form id="captionForm">
+                    <div class="form-group">
+                        <label>Or Upload Image</label>
+                        <div class="file-upload" id="fileUpload">
+                            <div class="file-upload-icon">📸</div>
+                            <p>Click to upload or drag and drop</p>
+                            <p style="font-size: 0.9em; color: #888; margin-top: 5px;">PNG, JPG, JPEG, GIF, WEBP (max
+                                16MB)</p>
+                            <input type="file" id="imageFile" name="image" accept="image/*">
+                        </div>
+                        <img class="preview-image" id="previewImage" src="" alt="Preview">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="model">AI Model</label>
+                        <select id="model" name="model">
+                            <option value="gemini-2.5-pro" selected>Gemini 2.5 Pro</option>
+                            <option value="gpt-4o-2024-08-06">GPT-4o (2024-08-06)</option>
+                            <option value="gpt-4.1-2025-04-14">GPT-4.1 (2025-04-14)</option>
+                        </select>
+                    </div>
+
+                    <div class="advanced-settings collapsed">
+                        <h3 onclick="toggleCaptionAdvanced()">Advanced Settings</h3>
+                        <div class="settings-content">
+                            <div class="form-group">
+                                <label for="captionPrompt">Custom Caption Prompt</label>
+                                <textarea id="captionPrompt" name="captionPrompt" rows="6" placeholder="Enter custom prompt for caption generation (leave empty to use default)">You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.</textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="button" disabled id="captionButton">Generate Caption</button>
+                </form>
+
+                <div class="loading" id="captionLoading">
+                    <div class="spinner"></div>
+                    <p>Analyzing image and generating caption...</p>
+                </div>
+
+                <div class="error" id="captionError"></div>
+
+                <div class="result" id="captionResult">
+                    <div class="result-caption">
+                        <p><strong>Generated Caption:</strong></p>
+                        <div class="caption-text" id="captionText"></div>
+                        <span class="info-badge" id="captionProvider"></span>
+                    </div>
+                    <div class="action-buttons">
+                        <button class="button secondary" onclick="copyCaption()">Copy Caption</button>
+                        <button class="button" onclick="useCaptionAsPrompt()">Use as Prompt</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentImageUrl = '';
+        let currentCaption = '';
+        let currentImageBlob = null;
+
+        // Toggle advanced settings
+        function toggleAdvanced() {
+            const advanced = document.querySelector('.card:nth-child(1) .advanced-settings');
+            advanced.classList.toggle('collapsed');
+        }
+
+        function toggleCaptionAdvanced() {
+            const advanced = document.querySelector('.card:nth-child(2) .advanced-settings');
+            advanced.classList.toggle('collapsed');
+        }
+
+        // Update generation settings based on selected model
+        function updateGenerationSettings() {
+            const model = document.getElementById('genModel').value;
+            const fluxOnlyElements = document.querySelectorAll('.flux-only');
+
+            if (model === 'google') {
+                // Hide FLUX-specific settings
+                fluxOnlyElements.forEach(el => el.style.display = 'none');
+            } else {
+                // Show FLUX-specific settings
+                fluxOnlyElements.forEach(el => el.style.display = 'block');
+            }
+        }
+
+        // Generate Image Form
+        document.getElementById('generateForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const model = document.getElementById('genModel').value;
+            const prompt = document.getElementById('prompt').value;
+            const width = parseInt(document.getElementById('width').value);
+            const height = parseInt(document.getElementById('height').value);
+            const seedValue = document.getElementById('seed').value;
+            const seed = seedValue ? parseInt(seedValue) : null;
+
+            // Show loading, hide results/errors
+            document.getElementById('generateLoading').classList.add('active');
+            document.getElementById('generateResult').classList.remove('active');
+            document.getElementById('generateError').classList.remove('active');
+            document.querySelector('#generateForm button').disabled = true;
+
+            // Update loading message based on model
+            const loadingText = document.querySelector('#generateLoading p');
+            if (model === 'google') {
+                loadingText.textContent = 'Generating with Nano Banana (Gemini 2.5 Flash Image)... This may take 10-30 seconds';
+            } else {
+                loadingText.textContent = 'Generating with FLUX... This may take 30-60 seconds';
+            }
+
+            try {
+                const requestBody = {
+                    prompt,
+                    model,
+                    width,
+                    height,
+                    seed
+                };
+
+                // Add FLUX-specific parameters
+                if (model === 'flux') {
+                    const steps = parseInt(document.getElementById('steps').value);
+                    const guidance = parseFloat(document.getElementById('guidance').value);
+                    requestBody.num_inference_steps = steps;
+                    requestBody.guidance_scale = guidance;
+                }
+
+                const response = await fetch('/api/generate', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(requestBody)
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    currentImageUrl = data.image_url;
+                    document.getElementById('generatedImage').src = data.image_url;
+                    document.getElementById('generateResult').classList.add('active');
+                } else {
+                    throw new Error(data.error || 'Generation failed');
+                }
+            } catch (error) {
+                const errorEl = document.getElementById('generateError');
+                errorEl.textContent = `Error: ${error.message}`;
+                errorEl.classList.add('active');
+            } finally {
+                document.getElementById('generateLoading').classList.remove('active');
+                document.querySelector('#generateForm button').disabled = false;
+            }
+        });
+
+        // File Upload Handler
+        const fileUpload = document.getElementById('fileUpload');
+        const imageFile = document.getElementById('imageFile');
+        const previewImage = document.getElementById('previewImage');
+        const captionButton = document.getElementById('captionButton');
+
+        fileUpload.addEventListener('click', () => imageFile.click());
+
+        imageFile.addEventListener('change', (e) => {
+            handleFile(e.target.files[0]);
+        });
+
+        // Drag and drop
+        fileUpload.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            fileUpload.classList.add('dragover');
+        });
+
+        fileUpload.addEventListener('dragleave', () => {
+            fileUpload.classList.remove('dragover');
+        });
+
+        fileUpload.addEventListener('drop', (e) => {
+            e.preventDefault();
+            fileUpload.classList.remove('dragover');
+            handleFile(e.dataTransfer.files[0]);
+        });
+
+        function handleFile(file) {
+            if (file && file.type.startsWith('image/')) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    previewImage.src = e.target.result;
+                    previewImage.classList.add('active');
+                    captionButton.disabled = false;
+                };
+                reader.readAsDataURL(file);
+            }
+        }
+
+        // Caption Form
+        document.getElementById('captionForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const formData = new FormData();
+            formData.append('image', imageFile.files[0]);
+            formData.append('model', document.getElementById('model').value);
+
+            // Add custom prompt if provided
+            const customPrompt = document.getElementById('captionPrompt').value.trim();
+            if (customPrompt) {
+                formData.append('prompt', customPrompt);
+            }
+
+            // Show loading, hide results/errors
+            document.getElementById('captionLoading').classList.add('active');
+            document.getElementById('captionResult').classList.remove('active');
+            document.getElementById('captionError').classList.remove('active');
+            captionButton.disabled = true;
+
+            try {
+                const response = await fetch('/api/caption', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    currentCaption = data.caption;
+                    document.getElementById('captionText').textContent = data.caption;
+                    document.getElementById('captionProvider').textContent = `Model: ${data.model}`;
+                    document.getElementById('captionResult').classList.add('active');
+                } else {
+                    throw new Error(data.error || 'Captioning failed');
+                }
+            } catch (error) {
+                const errorEl = document.getElementById('captionError');
+                errorEl.textContent = `Error: ${error.message}`;
+                errorEl.classList.add('active');
+            } finally {
+                document.getElementById('captionLoading').classList.remove('active');
+                captionButton.disabled = false;
+            }
+        });
+
+        // Action Functions
+        function downloadImage() {
+            const a = document.createElement('a');
+            a.href = currentImageUrl;
+            a.download = 'flux_generated_' + Date.now() + '.png';
+            a.click();
+        }
+
+        async function sendToCaptioner() {
+            // Fetch the generated image as blob
+            const response = await fetch(currentImageUrl);
+            const blob = await response.blob();
+
+            // Create a file from blob
+            const file = new File([blob], 'generated.png', { type: 'image/png' });
+
+            // Create a DataTransfer to set file input
+            const dataTransfer = new DataTransfer();
+            dataTransfer.items.add(file);
+            imageFile.files = dataTransfer.files;
+
+            // Show preview
+            previewImage.src = currentImageUrl;
+            previewImage.classList.add('active');
+            captionButton.disabled = false;
+
+            // Scroll to captioner
+            document.querySelector('.card:nth-child(2)').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function copyCaption() {
+            navigator.clipboard.writeText(currentCaption).then(() => {
+                const btn = event.target;
+                const originalText = btn.textContent;
+                btn.textContent = 'Copied!';
+                setTimeout(() => btn.textContent = originalText, 2000);
+            });
+        }
+
+        function useCaptionAsPrompt() {
+            document.getElementById('prompt').value = currentCaption;
+            document.querySelector('.card:nth-child(1)').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Image Browser Functionality
+        let currentFolder = 'civitai';
+        let allFolderImages = [];
+        let selectedImagePath = null;
+
+        async function loadFolderImages() {
+            const container = document.getElementById('imageGridContainer');
+            const stats = document.getElementById('folderStats');
+
+            try {
+                container.innerHTML = '<div class="browser-loading">Loading images...</div>';
+                stats.textContent = 'Loading...';
+
+                const response = await fetch(`/api/images/${currentFolder}`);
+                const data = await response.json();
+
+                if (data.success) {
+                    allFolderImages = data.images;
+                    renderImageGrid();
+                    stats.textContent = `${data.count} images in ${currentFolder} dataset`;
+                } else {
+                    throw new Error(data.error || 'Failed to load images');
+                }
+            } catch (error) {
+                container.innerHTML = `<div class="browser-loading" style="color: #c33;">Error: ${error.message}</div>`;
+                stats.textContent = 'Error loading images';
+            }
+        }
+
+        function renderImageGrid() {
+            const container = document.getElementById('imageGridContainer');
+
+            if (allFolderImages.length === 0) {
+                container.innerHTML = '<div class="browser-loading">No images found</div>';
+                return;
+            }
+
+            const grid = document.createElement('div');
+            grid.className = 'image-grid';
+
+            // Show first 100 images for performance
+            const displayImages = allFolderImages.slice(0, 100);
+
+            displayImages.forEach(img => {
+                const item = document.createElement('div');
+                item.className = 'image-grid-item';
+                item.dataset.path = img.path;
+                item.dataset.filename = img.filename;
+                item.dataset.folder = img.folder;
+
+                const imgEl = document.createElement('img');
+                imgEl.src = `/api/images/${img.folder}/${img.filename}`;
+                imgEl.alt = img.filename;
+                imgEl.loading = 'lazy';
+
+                const nameEl = document.createElement('div');
+                nameEl.className = 'image-name';
+                nameEl.textContent = img.filename;
+
+                item.appendChild(imgEl);
+                item.appendChild(nameEl);
+
+                item.addEventListener('click', () => selectImage(item, img));
+
+                grid.appendChild(item);
+            });
+
+            container.innerHTML = '';
+            container.appendChild(grid);
+
+            if (allFolderImages.length > 100) {
+                const moreInfo = document.createElement('div');
+                moreInfo.style.textAlign = 'center';
+                moreInfo.style.marginTop = '10px';
+                moreInfo.style.color = '#666';
+                moreInfo.style.fontSize = '0.9em';
+                moreInfo.textContent = `Showing first 100 of ${allFolderImages.length} images`;
+                container.appendChild(moreInfo);
+            }
+        }
+
+        async function selectImage(itemEl, imageData) {
+            // Remove previous selection
+            document.querySelectorAll('.image-grid-item').forEach(el => {
+                el.classList.remove('selected');
+            });
+
+            // Mark as selected
+            itemEl.classList.add('selected');
+            selectedImagePath = imageData;
+
+            // Fetch the image and convert to file
+            try {
+                const response = await fetch(`/api/images/${imageData.folder}/${imageData.filename}`);
+                const blob = await response.blob();
+                const file = new File([blob], imageData.filename, { type: blob.type });
+
+                // Create a DataTransfer to set file input
+                const dataTransfer = new DataTransfer();
+                dataTransfer.items.add(file);
+                imageFile.files = dataTransfer.files;
+
+                // Show preview
+                const imgUrl = `/api/images/${imageData.folder}/${imageData.filename}`;
+                previewImage.src = imgUrl;
+                previewImage.classList.add('active');
+                captionButton.disabled = false;
+
+                console.log('Selected image:', imageData.filename);
+            } catch (error) {
+                console.error('Error loading selected image:', error);
+            }
+        }
+
+        function switchFolder(folder) {
+            currentFolder = folder;
+
+            // Update button states
+            document.getElementById('btnCivitai').classList.toggle('active', folder === 'civitai');
+            document.getElementById('btnFrameset').classList.toggle('active', folder === 'frameset');
+
+            // Clear selection
+            selectedImagePath = null;
+
+            // Load new folder
+            loadFolderImages();
+        }
+
+        function shuffleImages() {
+            // Shuffle the array
+            for (let i = allFolderImages.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [allFolderImages[i], allFolderImages[j]] = [allFolderImages[j], allFolderImages[i]];
+            }
+
+            // Re-render
+            renderImageGrid();
+        }
+
+        // Load images on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            loadFolderImages();
+        });
+    </script>
+</body>
+
+</html>

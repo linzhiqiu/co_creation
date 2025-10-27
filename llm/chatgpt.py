@@ -68,15 +68,3 @@ class ChatGPT(LLM):
         )
         print(f"Received response from model")
         return response.choices[0].message.content.strip()
-            
-if __name__ == "__main__":
-    # chatgpt = ChatGPT(model="gpt-4o-2024-08-06")
-    chatgpt = ChatGPT(model="gpt-4.1-2025-04-14")
-    print(chatgpt.generate(
-        prompt="Describe this video in a concise and fluent manner.",
-        video="https://huggingface.co/datasets/zhiqiulin/video_captioning/resolve/main/OCBYMQzG44U.30.11.mp4",
-        extracted_frames=[0, -1],
-        detail="low",
-        temperature=0.0,
-    ))
-    
