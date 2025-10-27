@@ -1,0 +1,12 @@
+{
+  "image_filename": "3057a007-9783-4556-b332-97cac0cecd96.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric scene set deep within a dense pine forest. The composition is dominated by tall, straight tree trunks that stretch vertically out of frame, their bark textured with deep browns and subtle grays. The forest floor is lush and vibrant, covered in a thick carpet of green moss and low vegetation, interspersed with scattered fallen branches and twigs. The lighting is soft and diffuse, as if filtered through a cloudy sky or a thick canopy, casting a gentle, cool greenish hue over the entire scene. There are no visible animals or people, emphasizing the untouched, tranquil solitude of the wilderness. The camera angle is at eye level, with a moderate depth of field that keeps the foreground and midground in sharp focus while the background trees fade slightly into a misty blur, enhancing the sense of depth and mystery. The overall mood is serene, contemplative, and slightly enigmatic, evoking the quiet majesty and timelessness of an ancient forest.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:26.589540",
+  "word_count": 161,
+  "error_message": null
+}

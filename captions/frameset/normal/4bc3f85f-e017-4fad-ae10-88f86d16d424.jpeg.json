@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bc3f85f-e017-4fad-ae10-88f86d16d424.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a haunting, surreal close-up portrait of a human face and neck, partially obscured and distorted by a thin, translucent material stretched tightly across the skin. The subject’s features are blurred and softened, with the mouth and jawline subtly visible beneath the taut surface, evoking a sense of tension and suffocation. The lighting is low and dramatic, casting deep shadows and warm, reddish-brown tones across the entire image, creating an almost monochromatic palette. The composition is intimate and abstract, with the camera angle tilted and focused closely on the lower half of the face and neck, emphasizing the texture of the stretched material and the contours of the skin beneath. The overall mood is unsettling and introspective, with a cinematic, art-house quality reminiscent of experimental photography or psychological thriller film stills. The depth of field is shallow, keeping the focus on the tactile details of the material and the subtle play of light and shadow, while the background fades into darkness, heightening the sense of isolation and emotional intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:12.664663",
+  "word_count": 169,
+  "error_message": null
+}

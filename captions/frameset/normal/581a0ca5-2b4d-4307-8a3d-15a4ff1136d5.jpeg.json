@@ -1,0 +1,12 @@
+{
+  "image_filename": "581a0ca5-2b4d-4307-8a3d-15a4ff1136d5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a portrait of an East Asian man in his 30s or 40s, positioned centrally against a smooth, warm beige background. He has short, neatly styled black hair and a clean-shaven face. His expression is gentle and approachable, with a subtle, relaxed smile and a calm, direct gaze toward the camera. He is wearing a light, cream-colored shirt with a simple, collarless neckline, adding to the understated and elegant feel of the image. The lighting is soft and even, casting minimal shadows and highlighting the natural tones of his skin. The composition is straightforward, with a shallow depth of field that keeps the focus sharply on the subject while the background remains unobtrusive and blurred. The overall style is minimalistic and modern, evoking a sense of warmth, sincerity, and quiet confidence.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:06.533001",
+  "word_count": 131,
+  "error_message": null
+}

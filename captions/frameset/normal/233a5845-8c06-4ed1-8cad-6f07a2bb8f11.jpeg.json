@@ -1,0 +1,12 @@
+{
+  "image_filename": "233a5845-8c06-4ed1-8cad-6f07a2bb8f11.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric room with a nostalgic, cinematic ambiance. In the foreground, a solitary figure stands in silhouette, partially obscured by shadows and backlit by a soft, bluish light streaming in from the left. The figure appears to be watching an old film projector, which casts a large, slightly faded image onto a textured wall. The projected image shows three smiling people—two adults and a child—posing joyfully together, with the word \"TOGETHER\" boldly superimposed in white, sans-serif text across the center. The background is filled with subtle details: stacks of film reels and a sense of dust and age, evoking a sense of memory and nostalgia. The color palette is muted and cool, dominated by grays, blues, and soft whites, with gentle contrasts between the illuminated projection and the shadowy surroundings. The overall style is cinematic and evocative, with a shallow depth of field that keeps the focus on the projection and the silhouetted observer, creating a poignant, reflective mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:49.184359",
+  "word_count": 161,
+  "error_message": null
+}

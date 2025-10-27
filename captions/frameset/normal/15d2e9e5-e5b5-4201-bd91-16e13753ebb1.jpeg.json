@@ -1,0 +1,12 @@
+{
+  "image_filename": "15d2e9e5-e5b5-4201-bd91-16e13753ebb1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of the side of a modern car, focusing on the sleek, metallic orange door and its handle. The composition is tight, with the car door dominating the frame, and the window above revealing a softly blurred view of the interior, including the steering wheel and dashboard. The lighting is warm and diffuse, suggesting either a sunset or sunrise, casting a gentle golden glow across the car’s surface and creating subtle reflections. The color palette is rich with deep oranges, muted blacks, and hints of gold, evoking a sense of luxury and sophistication. The overall style is hyper-realistic with a shallow depth of field, emphasizing the smooth curves and glossy finish of the car while softly blurring the background and interior details. The camera angle is level with the car door, creating a sense of intimacy and focus on the vehicle’s design elements, with a mood that is both calm and contemplative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:55.082048",
+  "word_count": 155,
+  "error_message": null
+}

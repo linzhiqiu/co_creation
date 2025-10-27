@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ae98d43-8113-409d-8435-4fd287153007.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, symmetrical shot of an old Italian villa’s clock tower, viewed straight-on from a low angle to emphasize its grandeur and architectural details. The building’s facade is weathered, with faded, peeling plaster in warm ochre and cream tones, revealing patches of underlying brickwork. The central feature is a large, round clock set in a red brick frame, its hands frozen at a specific time, and topped with a delicate wrought-iron ornament. The roof is covered in aged terracotta tiles, and the windows are small, rectangular, and symmetrically arranged, their glass reflecting the clear blue sky. The lighting is bright and natural, casting minimal shadows and highlighting the textures of the stone and plaster. The sky is a deep, cloudless blue, creating a striking contrast with the warm, earthy colors of the building. The overall mood is serene and timeless, evoking a sense of history and quiet nostalgia, with a composition reminiscent of classic European cinema.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:48.219201",
+  "word_count": 157,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "30718e81-9bab-46a6-835b-ff3e52263fcc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, wide-angle nighttime desert landscape under a clear sky illuminated by a bright, high moon. In the foreground, textured sand dunes are dotted with tufts of dry grass and scattered with footprints, leading the viewer’s eye into the scene. A solitary figure, small in scale, walks away from the camera toward the distant dunes, evoking a sense of solitude and introspection. The background features low, shadowy hills, their contours softly defined by the moonlight. The color palette is monochromatic, rendered in deep blacks, silvery grays, and soft whites, emphasizing the stark contrasts and serene quiet of the night. The lighting is natural and ethereal, with the moon casting gentle highlights and long, diffuse shadows across the sand. The overall style is reminiscent of fine art black-and-white photography, with a subtle grain and a dreamy, contemplative mood. The composition uses depth of field to keep both the foreground details and distant landscape in sharp focus, enhancing the sense of vastness and isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:30.753134",
+  "word_count": 163,
+  "error_message": null
+}

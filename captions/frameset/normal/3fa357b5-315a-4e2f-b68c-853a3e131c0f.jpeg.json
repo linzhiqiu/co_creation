@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fa357b5-315a-4e2f-b68c-853a3e131c0f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up macro shot of a hand holding a black pen, marking a checkbox on a printed form. The focus is on the checkbox labeled \"Man,\" which has been ticked, while the adjacent box labeled \"Kvinna\" remains empty. The form is written in Swedish, with other visible text including \"Förnamn Ange samtliga förnamn.\" The composition emphasizes the tactile interaction between the pen and paper, with the tip of the pen and the person's fingers slightly out of focus, creating a shallow depth of field. The color palette is cool and subdued, dominated by soft blues and whites, lending a clinical, documentary feel to the image. The lighting is diffuse and natural, highlighting the texture of the paper and the crispness of the printed text. The overall style is realistic and intimate, capturing a moment of personal decision or data entry with clarity and precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:01.384826",
+  "word_count": 143,
+  "error_message": null
+}

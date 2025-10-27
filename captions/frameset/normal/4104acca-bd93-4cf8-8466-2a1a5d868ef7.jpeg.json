@@ -1,0 +1,12 @@
+{
+  "image_filename": "4104acca-bd93-4cf8-8466-2a1a5d868ef7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A long, narrow stone corridor stretches into the distance, flanked by a series of evenly spaced, weathered columns on both sides. The architecture is classical, with a sense of age and solemnity, evoking an ancient temple or forgotten ruin. The scene is bathed in deep, moody blue tones, creating a cold, mysterious atmosphere. The lighting is dim and diffuse, with soft shadows and no direct light source, enhancing the sense of depth and drawing the viewer’s eye toward the vanishing point at the far end of the corridor. The composition is perfectly symmetrical, with the camera positioned at the center of the walkway, emphasizing the repeating patterns of the columns and the receding perspective. The overall style is cinematic and contemplative, with a shallow depth of field that subtly blurs the distant end of the corridor, adding to the enigmatic and haunting mood of the image.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:30.964066",
+  "word_count": 146,
+  "error_message": null
+}

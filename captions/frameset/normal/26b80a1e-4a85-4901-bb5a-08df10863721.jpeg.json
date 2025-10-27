@@ -1,0 +1,12 @@
+{
+  "image_filename": "26b80a1e-4a85-4901-bb5a-08df10863721.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric scene set in a desolate, sandy environment bathed in deep, saturated red lighting. The focal point is a vintage, rugged portable television or monitor, encased in a metal frame with visible wear and dust, resting directly on the textured sand. The device’s small screen glows with a cold, monochrome blue light, displaying a grainy, close-up image of a person’s face—partially obscured, with intense, dramatic expression, as if caught in a moment of tension or communication. The composition is tight and intimate, with the camera positioned at a low angle, emphasizing the device’s presence against the stark, minimal background. The overall mood is mysterious and foreboding, evoking a sense of isolation and surveillance. The color palette is dominated by rich reds and dark shadows, contrasted by the cool, ghostly glow of the screen, creating a striking, neo-noir visual style reminiscent of classic science fiction or psychological thrillers.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:00.728729",
+  "word_count": 150,
+  "error_message": null
+}

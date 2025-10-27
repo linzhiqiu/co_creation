@@ -1,0 +1,12 @@
+{
+  "image_filename": "61ea7e96-49e4-4933-8a68-c60c80f7933a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide, overhead shot of a busy multi-lane highway during overcast weather, capturing a dense traffic jam. The composition centers on a single red SUV, which stands out vividly among a sea of mostly gray, black, and silver vehicles. The cars are arranged in neat, parallel rows, emphasizing the congestion and uniformity of the scene. The road surface is slightly wet, suggesting recent rain, and the muted, cool color palette enhances the somber, subdued mood. The lighting is soft and diffuse, with no harsh shadows, contributing to the overcast ambiance. The camera angle is high and directly above the traffic, creating a sense of detachment and order. The overall style is cinematic and realistic, with a shallow depth of field that keeps all vehicles in sharp focus, highlighting the monotony and stillness of the traffic. The image conveys a feeling of routine urban life, with the red SUV providing a subtle focal point amidst the uniformity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:59.171152",
+  "word_count": 156,
+  "error_message": null
+}

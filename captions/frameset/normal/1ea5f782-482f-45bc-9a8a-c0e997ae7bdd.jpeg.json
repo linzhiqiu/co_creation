@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ea5f782-482f-45bc-9a8a-c0e997ae7bdd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply dressed middle-aged man with a closely cropped beard and intense, contemplative expression sits at a glossy black table, his face partially illuminated by a dramatic shaft of cool, directional light. He gazes intently at a large, elegant hourglass filled with dark sand, which dominates the foreground and is slightly out of focus, creating a sense of depth and urgency. The background is minimalist and shadowy, with soft gradients of charcoal and slate blue, enhancing the moody, cinematic atmosphere. The man’s suit is dark and impeccably tailored, his white shirt and tie adding contrast. The overall color palette is subdued, with cool blues, deep blacks, and silvery highlights. The composition uses a shallow depth of field, focusing on the man’s piercing eyes and the reflective surface of the table, while the hourglass blurs slightly, emphasizing the passage of time and the gravity of the moment. The style is reminiscent of a psychological thriller or noir film, with high contrast lighting and a sense of suspense and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:12.001807",
+  "word_count": 168,
+  "error_message": null
+}

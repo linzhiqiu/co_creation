@@ -1,0 +1,12 @@
+{
+  "image_filename": "348cd3b3-8239-4a92-9f7e-86502c498da0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a haunting, ethereal black-and-white portrait of an elderly woman standing indoors, her figure softly blurred and partially transparent, as if she is a memory or apparition. She wears simple, modest clothing, with a shawl draped over her shoulders, and her expression is calm, almost serene, gazing gently toward the camera. The background is a layered composition: on one side, textured plaster walls catch the light, while on the other, a faint, dreamlike landscape painting or mural with a solitary tree and rolling hills is visible, blending seamlessly with the woman’s form. The lighting is diffuse and low, casting gentle shadows and enhancing the spectral, nostalgic atmosphere. The overall style is reminiscent of early 20th-century photography, with a soft focus, subtle grain, and a poetic, introspective mood. The camera angle is straight-on, with a shallow depth of field that further blurs the boundaries between subject and background, evoking a sense of memory, longing, and the passage of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:01.179445",
+  "word_count": 158,
+  "error_message": null
+}

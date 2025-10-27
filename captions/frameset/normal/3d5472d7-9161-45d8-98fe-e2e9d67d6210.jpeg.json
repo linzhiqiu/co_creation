@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d5472d7-9161-45d8-98fe-e2e9d67d6210.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, futuristic portrait of a young woman with silver-gray bobbed hair and striking, pale blue eyes, staring directly into the camera with an intense, emotionless expression. Her face is adorned with metallic and chrome cybernetic implants, including small, reflective nodes embedded in her skin and intricate wiring extending from her head, suggesting advanced technology integration. A digital display device covers her mouth, glowing with blue LED text, and is surrounded by liquid metal elements that appear to merge seamlessly with her skin. The background is a clean, high-key white, creating a stark contrast that emphasizes the subject’s otherworldly features. The lighting is bright and clinical, casting soft, even illumination across her face and highlighting the reflective surfaces of the implants. The overall style is inspired by high-concept sci-fi and cyberpunk aesthetics, with a sharp focus on the subject’s face and a shallow depth of field that blurs the background, drawing all attention to the intricate details and surreal, futuristic mood of the composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:21.575643",
+  "word_count": 165,
+  "error_message": null
+}

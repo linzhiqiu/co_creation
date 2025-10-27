@@ -1,0 +1,12 @@
+{
+  "image_filename": "56f70cdf-9b8a-4177-83a9-7ca30edb4149.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person interacting with a modern laptop in a softly lit, minimalist indoor setting. The subject, whose face is out of frame, wears a light beige blazer, suggesting a professional or business-casual environment. Their right hand is reaching toward the laptop screen, as if about to touch or adjust it, creating a sense of motion and engagement. The laptop display shows a clean, gradient background in shades of blue and purple, with a digital clock reading \"07:20\" and subtle interface icons, evoking a calm, early morning or evening atmosphere. The lighting is gentle and diffused, casting soft shadows and enhancing the pastel color palette. The composition emphasizes the interaction between the hand and the device, with a shallow depth of field that keeps the focus on the laptop and the gesture, while the background remains abstract and unobtrusive. The overall style is modern, sleek, and slightly cinematic, with a focus on technology and contemporary work life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:36.179912",
+  "word_count": 161,
+  "error_message": null
+}

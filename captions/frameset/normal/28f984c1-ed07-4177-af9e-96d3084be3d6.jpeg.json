@@ -1,0 +1,12 @@
+{
+  "image_filename": "28f984c1-ed07-4177-af9e-96d3084be3d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A clean, modern digital illustration depicting an email inbox interface. The central focus is a large, stylized yellow envelope icon, rendered in a flat, minimalist style with soft gradients for subtle depth. Overlapping the top right corner of the envelope is a bold, bright red notification badge displaying the number \"2353\" in white, signifying a high volume of unread messages. In the background, partially blurred and out of focus, are rows of email subject lines in blue text on a white background, with phrases like \"Email From Large Online Store,\" \"Special,\" \"Discount,\" and \"Email From Hair Salon.\" The composition uses a cool, neutral color palette dominated by whites and blues, contrasted by the warm yellow of the envelope and the striking red of the notification badge. The lighting is even and bright, evoking a crisp, digital workspace. The overall style is clean, vector-based, and reminiscent of modern UI/UX design, with a slight sense of urgency and information overload conveyed by the high unread count. The perspective is straight-on, with a shallow depth of field that keeps the envelope and notification sharply in focus while the background text remains secondary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:48.529769",
+  "word_count": 189,
+  "error_message": null
+}

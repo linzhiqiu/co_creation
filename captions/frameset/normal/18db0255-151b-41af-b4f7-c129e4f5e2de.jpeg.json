@@ -1,0 +1,12 @@
+{
+  "image_filename": "18db0255-151b-41af-b4f7-c129e4f5e2de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary elderly man with gray hair, dressed in a dark brown suit and white shirt, stands in profile at a vintage wooden card catalog in a dimly lit, sparsely furnished library or archive room. He is focused intently on searching through the index cards, his hands delicately sifting through the drawer. The room is bathed in muted, natural light filtering through two large windows in the background, revealing bare tree branches outside and casting a soft, melancholic glow across the scene. On top of the card catalog rests a brown fedora and a matching leather briefcase, suggesting a sense of routine or nostalgia. The color palette is subdued, dominated by earthy browns, olive greens, and gentle shadows, evoking a contemplative, almost cinematic atmosphere. The composition is intimate, with a shallow depth of field that draws attention to the man's quiet action, while the background remains softly out of focus, enhancing the sense of solitude and introspection. The camera angle is slightly above eye level, capturing both the man’s concentration and the orderly rows of drawers, emphasizing the methodical, timeless nature of the setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:07.640695",
+  "word_count": 184,
+  "error_message": null
+}

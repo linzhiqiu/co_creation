@@ -1,0 +1,12 @@
+{
+  "image_filename": "571b758d-96ae-426c-ab2e-e0b5ea5e19c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a stovetop espresso maker (moka pot) sitting atop a gas burner. The focus is on the lower half of the metallic moka pot, which shows subtle wear and patina, suggesting frequent use. The blue flame of the gas burner glows vividly beneath, casting a soft, cool light and creating a gentle contrast with the dark, glossy surface of the stove. The background is softly blurred with creamy bokeh, emphasizing the subject and adding depth to the composition. The color palette is muted and moody, dominated by silvery grays, deep blacks, and the ethereal blue of the flame. The lighting is low and naturalistic, evoking a quiet, early morning or late evening atmosphere. The camera angle is low and intimate, almost at eye level with the burner, capturing the anticipation and ritual of making coffee. The overall style is reminiscent of a contemplative, art-house film, with a shallow depth of field and a focus on texture and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:41.315505",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "31cd0080-434b-4d71-a058-d6b8f7ea6fc1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder view of a person sitting at a desk, intently examining a large printed financial report in Ukrainian. The report features colorful, detailed charts and graphs, including a blue and orange bar graph and a line graph with red and blue lines, all labeled in Ukrainian. The person’s hand is visible, gesturing thoughtfully toward the paper, while their face is partially out of focus at the edge of the frame, emphasizing the document as the main subject. The desk is light wood, scattered with office supplies such as a pen, a pencil, and notepads with colored edges, adding subtle pops of color. The lighting is warm and natural, casting soft shadows and creating a professional, focused atmosphere. The composition uses a shallow depth of field, blurring the background and the person’s features to draw attention to the crisp, vibrant details of the report. The overall style is documentary and realistic, with a slight cinematic quality that conveys concentration and analytical thinking in a modern office setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:02.087466",
+  "word_count": 168,
+  "error_message": null
+}

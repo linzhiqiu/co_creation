@@ -1,0 +1,12 @@
+{
+  "image_filename": "2685a753-87c2-4eee-af14-fe2f6e9035e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone man stands at the center of a dense crowd of figures cloaked in white hooded robes, their faces obscured in shadow, creating an atmosphere of mystery and tension. The man, dressed in a striped shirt with muted earth tones, stands out starkly against the uniformity of the surrounding figures. He appears contemplative or anxious, his posture slightly hunched as he looks downward, hands near his face in a gesture of uncertainty or self-protection. The robed figures encircle him closely, their hoods casting deep shadows that conceal their identities, evoking a sense of isolation and otherness.\n\nThe scene is dramatically lit from above, casting a focused pool of light on the central figure while the edges of the composition fade into darkness, enhancing the sense of confinement and spotlighting the emotional intensity of the moment. The color palette is dominated by cool whites and deep blacks, with the only warmth coming from the subtle tones of the man's clothing. The overall style is cinematic and moody, with a shallow depth of field that blurs the outer figures, drawing the viewer’s eye to the central subject. The camera angle is slightly elevated, looking down on the scene to emphasize the man’s vulnerability and the overwhelming presence of the crowd. The composition and lighting evoke themes of alienation, conformity, and psychological tension, reminiscent of a psychological thriller or dystopian drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:55.846614",
+  "word_count": 229,
+  "error_message": null
+}

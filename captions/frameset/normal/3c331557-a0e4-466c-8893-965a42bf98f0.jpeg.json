@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c331557-a0e4-466c-8893-965a42bf98f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a dimly lit university lecture hall filled with students, viewed from the back of the room, looking down toward the lecturer and the projection screen. The audience is seated in tiered rows, their faces partially illuminated by the soft, bluish glow of the projected image at the front. The lecturer, dressed in a white lab coat, stands at the center, gesturing animatedly as he explains a scientific diagram displayed on the screen behind him. The diagram features hand-drawn illustrations of viruses and a clock, suggesting a topic related to biology or epidemiology. Notably, a figure dressed in a full Darth Vader costume sits at the front, creating a surreal and humorous contrast to the otherwise serious academic setting. The color palette is muted, dominated by cool tones and shadows, with the brightest area being the projection screen. The composition emphasizes the depth of the room, with the focus naturally drawn to the lecturer and the unusual presence of Darth Vader. The overall style is cinematic, with naturalistic lighting and a sense of realism, capturing both the gravity of the academic environment and the unexpected whimsy of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:56.788833",
+  "word_count": 192,
+  "error_message": null
+}

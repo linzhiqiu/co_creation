@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d1eef97-f20a-48b5-8aa7-7cc48162b34c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle cinematic shot of three riders in traditional white robes and red-checkered keffiyehs, mounted on camels, racing across a vast, sunlit desert. The camels are in mid-stride, their long legs extended, capturing a sense of dynamic motion and speed. The riders sit upright, holding reins and thin sticks, focused intently ahead. The background features endless, windswept sand dunes in warm ochre and burnt orange tones, with a distant rocky outcrop under a pale, cloudless sky. The lighting is natural and harsh, casting crisp shadows and emphasizing the arid, expansive landscape. The color palette is dominated by earthy desert hues and the stark white of the riders’ garments, creating a striking contrast. The composition is low and slightly angled, enhancing the sense of movement and the vastness of the environment, with a shallow depth of field that keeps the riders and camels sharply in focus against the blurred, sun-bleached horizon. The overall mood is adventurous and timeless, evoking the spirit of traditional desert life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:19.435131",
+  "word_count": 164,
+  "error_message": null
+}

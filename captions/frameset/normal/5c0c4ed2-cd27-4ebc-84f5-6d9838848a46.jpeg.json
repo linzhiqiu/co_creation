@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c0c4ed2-cd27-4ebc-84f5-6d9838848a46.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A confident middle-aged man stands centered in the frame, arms crossed, wearing a light blue, checkered button-down shirt. He has a warm, genuine smile and wears glasses, exuding intelligence and approachability. The background is a dramatic wall of illuminated server racks, glowing with a grid of blue and white LED lights, creating a high-tech, futuristic atmosphere. The lighting is cool and crisp, with the blue hues from the servers casting a subtle glow on the subject’s face and shoulders, while the rest of the scene remains in soft shadow, emphasizing the man as the focal point. The camera angle is slightly low, lending the subject an air of authority and competence. The depth of field is shallow, keeping the man in sharp focus while the background lights blur gently, adding cinematic depth and a sense of technological sophistication. The overall style is sleek and modern, reminiscent of a tech industry promotional portrait or a scene from a contemporary science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:36.792754",
+  "word_count": 161,
+  "error_message": null
+}

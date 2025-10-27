@@ -1,0 +1,12 @@
+{
+  "image_filename": "459eeaef-445f-4c6d-8268-7e7cf1f82247.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a person in thoughtful contemplation, their face partially obscured by a hand resting under the chin in a classic \"thinking\" pose. The subject wears a crisp white collared shirt, which catches the light and serves as a canvas for a striking projection of binary code—large, glowing digits of ones and zeros—cascading across their face, neck, and clothing. The numbers are rendered in luminous shades of green and white, creating a dynamic interplay of light and shadow on the subject’s skin and fabric. The background is dark and softly blurred, enhancing the dramatic contrast and focusing attention on the illuminated subject. The composition is tight, with the face and hand dominating the frame, and the camera angle is slightly off-center, adding a sense of intrigue and depth. The overall mood is mysterious and intellectual, evoking themes of technology, data, and introspection. The image has a filmic quality, with subtle grain and a shallow depth of field, reminiscent of a scene from a neo-noir or cyberpunk film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:11.054897",
+  "word_count": 170,
+  "error_message": null
+}

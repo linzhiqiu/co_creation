@@ -1,0 +1,12 @@
+{
+  "image_filename": "437c9271-0e4f-4689-a350-68d693a924ef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern car speeds through a dimly lit urban tunnel at night, captured from a low, wide-angle perspective that emphasizes the curve of the road and the tunnel’s receding depth. The car is slightly blurred, conveying a strong sense of motion and urgency, while the tunnel walls are lined with cool blue and white neon lights that cast a futuristic glow across the scene. Overhead, industrial fans and metallic structures add to the gritty, metropolitan atmosphere. The road is empty except for a few trailing headlights in the distance, enhancing the feeling of isolation and velocity. The color palette is dominated by deep blues, cold grays, and stark whites, with sharp contrasts and reflective surfaces. The overall style is cinematic and moody, reminiscent of a high-stakes chase scene in a neo-noir or cyberpunk film, with crisp focus on the environment and dynamic motion blur on the moving vehicle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:25.001181",
+  "word_count": 149,
+  "error_message": null
+}

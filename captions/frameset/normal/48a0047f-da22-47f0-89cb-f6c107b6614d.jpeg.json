@@ -1,0 +1,12 @@
+{
+  "image_filename": "48a0047f-da22-47f0-89cb-f6c107b6614d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, cinematic overhead shot of a young woman seated at a cluttered workbench, immersed in an electronics project. She wears a voluminous, bright red dress with exaggerated sleeves and a matching red bonnet, creating a bold contrast against the cool, industrial setting. Her expression is one of wide-eyed curiosity and excitement, as she looks upward, her pale face framed by a sharp black bob haircut with blunt bangs. The workbench is scattered with circuit boards, wires, tools, and blueprints, suggesting a scene of inventive experimentation. The background features a green floor with a single yellow line running horizontally, adding a graphic element to the composition. The lighting is soft but focused, illuminating her face and the workspace, while the rest of the environment remains subdued. The overall style is whimsical yet precise, with a saturated color palette dominated by reds, greens, and metallic tones, evoking a sense of playful futurism and meticulous creativity. The camera angle is directly overhead, emphasizing the organized chaos of the workspace and the character’s central presence within it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:06.325346",
+  "word_count": 174,
+  "error_message": null
+}

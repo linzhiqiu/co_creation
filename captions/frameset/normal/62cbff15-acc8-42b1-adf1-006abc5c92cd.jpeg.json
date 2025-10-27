@@ -1,0 +1,12 @@
+{
+  "image_filename": "62cbff15-acc8-42b1-adf1-006abc5c92cd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up shot of the front grille and hood of a modern Kia car, focusing on the bold, hexagonal grille pattern and the prominent Kia logo centered above it. The car is painted in a deep, glossy navy blue, reflecting soft, diffused lighting from a geometric, grid-like ceiling above, which creates subtle, abstract reflections across the surface. The left headlight is partially visible, emitting a cool blue-white glow that adds a futuristic touch. The overall color palette is dominated by dark blues, blacks, and silvery chrome accents, with hints of blue light reflections. The composition is symmetrical and tight, emphasizing the sleek, modern design and luxurious finish of the vehicle. The mood is sophisticated and high-tech, with a shallow depth of field that keeps the focus on the car’s front details while softly blurring the background. The lighting is even and controlled, enhancing the car’s contours and metallic sheen, evoking the polished style of a high-end automotive commercial.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:21.209346",
+  "word_count": 160,
+  "error_message": null
+}

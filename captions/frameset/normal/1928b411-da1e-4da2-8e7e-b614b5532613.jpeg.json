@@ -1,0 +1,12 @@
+{
+  "image_filename": "1928b411-da1e-4da2-8e7e-b614b5532613.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand delicately holding a small, clear glass sphere between the thumb and forefinger, positioned in the foreground. The glass sphere acts as a lens, inverting and sharply focusing the landscape behind it. Through the sphere, a crisp, upside-down image of a grassy park with leafless trees and a distant tan building is visible, contrasting with the softly blurred real background. The hand is well-lit, with natural daylight casting gentle shadows and highlighting the skin’s texture. The background features a wide expanse of grass, a road, and a few bare trees under a clear, vibrant blue sky. The overall color palette is natural and subdued, with earthy greens, browns, and blues. The composition uses shallow depth of field to emphasize the glass sphere and the hand, creating a dreamy, contemplative mood. The camera angle is eye-level, and the lighting is bright but soft, evoking a calm, early spring or late autumn afternoon. The style is photographic realism with a touch of surrealism due to the optical effect of the sphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:12.771177",
+  "word_count": 174,
+  "error_message": null
+}

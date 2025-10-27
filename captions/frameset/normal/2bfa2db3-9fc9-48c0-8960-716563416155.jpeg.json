@@ -1,0 +1,12 @@
+{
+  "image_filename": "2bfa2db3-9fc9-48c0-8960-716563416155.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply dressed man in a dark suit and tie stands confidently at the head of a modern conference room, presenting to a group of four business professionals seated around a sleek white table. He is mid-presentation, smiling and gesturing with a marker toward a whiteboard behind him, which displays a simple line graph with two intersecting curves. The attendees, two men and two women, are engaged and attentive, some with laptops open and papers in front of them. The room is bathed in cool, natural light filtering through large floor-to-ceiling windows with horizontal blinds, revealing a blurred cityscape outside. The color palette is dominated by cool blues, greys, and whites, creating a professional and contemporary atmosphere. The composition is cinematic, with a slight wide-angle lens capturing the entire group and emphasizing the depth of the room. The lighting is soft but directional, highlighting the presenter as the focal point while casting gentle shadows that add depth and realism. The overall style is polished and corporate, evoking the mood of a high-stakes business meeting or a pivotal moment in a modern workplace drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:56.726020",
+  "word_count": 183,
+  "error_message": null
+}

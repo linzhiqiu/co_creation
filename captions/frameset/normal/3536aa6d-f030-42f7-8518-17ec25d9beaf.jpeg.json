@@ -1,0 +1,12 @@
+{
+  "image_filename": "3536aa6d-f030-42f7-8518-17ec25d9beaf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young East Asian man standing outdoors in an urban environment. He is captured from the shoulders up, slightly turned to the side, with a calm and thoughtful expression on his face. He wears a light blue crewneck sweatshirt, and his short, dark hair frames his face naturally. The background is softly blurred, featuring muted tones of green, beige, and gray, suggesting the presence of buildings and a parked car, but keeping the focus on the subject. The lighting is soft and diffused, evoking an overcast day and lending a gentle, natural glow to his skin. The overall color palette is subdued and cool, with a shallow depth of field that creates a dreamy, introspective mood. The composition is intimate and realistic, reminiscent of a still from a contemporary indie film, with a focus on subtle emotion and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:18.796625",
+  "word_count": 144,
+  "error_message": null
+}

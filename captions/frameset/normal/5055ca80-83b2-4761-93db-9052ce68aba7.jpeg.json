@@ -1,0 +1,12 @@
+{
+  "image_filename": "5055ca80-83b2-4761-93db-9052ce68aba7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits alone on the polished floor of a dimly lit library aisle, her back resting against a bookshelf. She is dressed casually in a dark top and light blue jeans, with her legs stretched out in front of her and a backpack lying nearby. The only source of illumination is the cool, bluish glow from a laptop screen, which softly lights her face and hands, casting gentle shadows and creating a sense of quiet focus. The surrounding bookshelves are filled with books, their spines forming a textured, colorful backdrop that recedes into darkness. The overall color palette is subdued, dominated by deep browns, muted blues, and soft, cool highlights. The composition is cinematic, with a low, slightly off-center camera angle that emphasizes the solitude and introspective mood of the scene. The depth of field is shallow, keeping the woman and the immediate shelves in sharp focus while the background blurs softly, enhancing the sense of isolation and concentration. The atmosphere is contemplative and intimate, evoking the quiet intensity of late-night study or creative work in a secluded academic space.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:01.714681",
+  "word_count": 182,
+  "error_message": null
+}

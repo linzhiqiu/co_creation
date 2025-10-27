@@ -1,0 +1,12 @@
+{
+  "image_filename": "365d9910-dfb7-4ed4-a380-1226427ba5e1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, iconic image of planet Earth as seen from space, occupying the majority of the frame against a deep, featureless black background. The Earth is partially illuminated, with swirling white clouds, deep blue oceans, and hints of green and brown landmasses visible in a dynamic, marbled pattern. The lighting is natural and soft, with gentle gradients highlighting the planet’s curvature and atmospheric haze. The composition is centered, evoking a sense of isolation and grandeur, with no other objects or stars visible, emphasizing the fragility and beauty of the Earth suspended in the void. The color palette is dominated by cool blues, stark whites, and subtle earth tones, with high contrast between the vibrant planet and the surrounding darkness. The overall style is reminiscent of classic space photography from the Apollo era, with a slightly grainy, documentary quality that enhances the authenticity and historical significance of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:42.788239",
+  "word_count": 149,
+  "error_message": null
+}

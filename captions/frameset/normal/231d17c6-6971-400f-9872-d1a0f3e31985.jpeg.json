@@ -1,0 +1,12 @@
+{
+  "image_filename": "231d17c6-6971-400f-9872-d1a0f3e31985.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric scene viewed through a window, with a soft, naturalistic color palette dominated by deep greens, muted browns, and gentle highlights. The composition features a young woman’s face partially visible on the left side of the frame, her expression somber and contemplative, gazing outward. She wears a high-collared, ruffled blouse in a pale, almost silvery fabric, evoking a historical or period feel. The right side of the image is enveloped in deep shadow, with only subtle hints of the outside landscape—blurred greenery and dappled sunlight—suggesting movement and the passage of scenery, as if seen from a moving vehicle. The lighting is diffuse and moody, with soft natural light filtering through, creating a reflective, introspective atmosphere. The overall style is painterly and intimate, with a shallow depth of field and a sense of quiet isolation, reminiscent of art-house cinema or classic portraiture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:44.849322",
+  "word_count": 144,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e55210b-2524-49c5-8b37-c7f0aca73b7e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands outdoors in a sunlit, natural setting, holding a tablet directly toward the camera at chest height. The tablet, framed in a bright yellow case, displays a vibrant digital portrait of the same woman smiling warmly, her hand gently touching her face, with a yellow flower tucked behind her ear. The background is softly blurred, featuring lush greenery and dappled sunlight, evoking a serene, late afternoon atmosphere. The woman’s dress is pale yellow, harmonizing with the flower and the tablet case, creating a cohesive color palette of warm yellows, soft greens, and natural earth tones. The lighting is golden and diffused, casting a gentle glow on the scene and enhancing the cheerful, inviting mood. The composition is intimate and focused, with a shallow depth of field that isolates the subject and the tablet, drawing attention to the interplay between the real woman and her digital likeness. The overall style is cinematic, with a slight vignette and a sense of narrative, as if capturing a candid moment of self-reflection or digital identity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:45.411137",
+  "word_count": 174,
+  "error_message": null
+}

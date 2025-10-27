@@ -1,0 +1,12 @@
+{
+  "image_filename": "2643b9e0-adab-4845-81df-fed2d18d5a83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer screen displaying a prominent malware warning message in Spanish. The entire background is a solid, vivid red, creating a sense of urgency and alert. In the center-left, a large white warning icon with a red \"X\" is clearly visible, immediately drawing the viewer’s attention. Below the icon, bold white text reads, \"El sitio al que vas a acceder contiene software malicioso,\" warning the user about malicious software. Additional explanatory text in smaller white font provides further details about the potential risks, mentioning attackers and the dangers of stolen information such as photos, passwords, messages, and credit cards. Two interactive options, \"Ocultar detalles\" and \"Volver para estar seguro,\" are visible as clickable buttons, reinforcing the digital interface context. The composition is simple and direct, with a shallow depth of field that blurs the screen’s edges, focusing the viewer’s gaze on the central warning. The lighting is even, with no visible reflections or distractions, emphasizing the seriousness of the message. The overall style is minimalistic and modern, evoking the look of a real-world browser security alert, with a color palette dominated by intense red and stark white, heightening the sense of danger and immediacy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:54.443511",
+  "word_count": 198,
+  "error_message": null
+}

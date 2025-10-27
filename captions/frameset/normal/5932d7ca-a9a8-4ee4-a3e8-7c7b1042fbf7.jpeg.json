@@ -1,0 +1,12 @@
+{
+  "image_filename": "5932d7ca-a9a8-4ee4-a3e8-7c7b1042fbf7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, naturalistic street scene set in a quiet residential neighborhood during daylight. The composition centers on a young woman standing next to a parked black Renault Clio hatchback, viewed from behind at a slight angle. She wears a light blue denim jacket over a white shirt, dark pants, and carries a large black shoulder bag. Her long brown hair is loose, and she gazes thoughtfully toward the car, her expression relaxed and contemplative. The background features suburban houses with red-tiled roofs, lush green trees, and other parked vehicles, all softly out of focus to create a gentle depth of field. The lighting is soft and diffuse, suggesting an overcast or late afternoon ambiance, with natural colors and a muted, realistic palette. The overall style is cinematic yet understated, evoking a sense of everyday life and quiet introspection, with a medium-wide camera angle that captures both the subject and her environment in balanced detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:30.896684",
+  "word_count": 154,
+  "error_message": null
+}

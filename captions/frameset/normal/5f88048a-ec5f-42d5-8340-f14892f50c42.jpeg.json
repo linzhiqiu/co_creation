@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f88048a-ec5f-42d5-8340-f14892f50c42.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene featuring five young men crowded tightly around a cluttered desk in a dimly lit, high-energy environment. The central figure, with curly hair and a white dress shirt adorned with a dark tie and a blue circular badge, sits at a computer keyboard, his expression intense and focused, eyes wide as if under pressure. The other four men lean in from all sides, their faces animated with urgency and excitement, some gripping the central figure’s shoulders or arms, creating a palpable sense of chaos and camaraderie. Their clothing is casual to semi-formal, with jackets, shirts, and tousled hair, suggesting a youthful, rebellious vibe.\n\nThe background is awash in neon blue and orange lighting, casting dramatic, colorful highlights and lens flares across the scene, enhancing the frenetic, almost cyberpunk atmosphere. The desk is cluttered with various objects, including a bottle and electronic equipment, adding to the sense of disorder. The camera angle is close and slightly low, with a shallow depth of field that keeps the focus on the group’s faces and hands, blurring the background for intensity. The overall style is reminiscent of a high-stakes hacker movie or a music video, with bold, saturated colors, dynamic composition, and a sense of urgent motion and youthful energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:09.349897",
+  "word_count": 209,
+  "error_message": null
+}

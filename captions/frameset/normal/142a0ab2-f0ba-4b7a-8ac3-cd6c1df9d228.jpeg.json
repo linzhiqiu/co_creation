@@ -1,0 +1,12 @@
+{
+  "image_filename": "142a0ab2-f0ba-4b7a-8ac3-cd6c1df9d228.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime highway scene viewed from an elevated, slightly angled perspective. The focus is on two sleek, black muscle cars driving side by side in the left lanes, their headlights glowing intensely and casting sharp reflections on the asphalt. The cars exude a sense of power and motion, their dark silhouettes contrasting against the warm, ambient street lighting. Surrounding them are various modern vehicles—SUVs, sedans, and a white pickup truck—filling the multi-lane road, with a dense line of red taillights stretching into the distance on the opposite side, suggesting heavy traffic. The background features subtle hints of palm trees and urban infrastructure, softly blurred to emphasize depth of field. The color palette is dominated by deep blacks, warm oranges, and reds from the streetlights and car lights, creating a moody, high-contrast atmosphere. The overall style is reminiscent of a high-stakes action film, with dynamic composition, a sense of speed, and a dramatic, urban nighttime mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:15.499201",
+  "word_count": 157,
+  "error_message": null
+}

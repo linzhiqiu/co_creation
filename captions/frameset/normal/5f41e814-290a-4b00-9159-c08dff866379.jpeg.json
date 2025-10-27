@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f41e814-290a-4b00-9159-c08dff866379.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic black-and-white portrait of a young man in an urban, concrete parking garage at night. The subject is positioned in the foreground, captured from a low angle to emphasize his presence and intensity. He wears a heavy, dark puffer jacket with the collar pulled up to partially obscure his face, leaving only his piercing eyes visible, which stare directly into the camera with a sense of guarded alertness. His right arm is raised and bent above his head in a dynamic, almost defensive gesture, adding a sense of movement and tension to the composition. The background features stark, geometric concrete architecture and a single overhead light casting a soft, diffused glow, creating deep shadows and dramatic contrast. The overall atmosphere is gritty and mysterious, with a subdued grayscale palette, high contrast lighting, and a shallow depth of field that keeps the focus tightly on the subject while the background recedes into soft blur. The style evokes a sense of urban isolation and cinematic suspense, reminiscent of neo-noir or street photography aesthetics.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:56.410880",
+  "word_count": 174,
+  "error_message": null
+}

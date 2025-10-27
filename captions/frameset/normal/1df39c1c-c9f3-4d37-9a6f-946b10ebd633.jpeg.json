@@ -1,0 +1,12 @@
+{
+  "image_filename": "1df39c1c-c9f3-4d37-9a6f-946b10ebd633.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A grid of television screens floats against a deep black void, each monitor displaying the same man in a dark suit, centered and facing the camera. The man’s expression is calm and focused, his hands gesturing as if explaining or presenting something. Behind him, the background is a high-contrast, scientific image—possibly a close-up of a brain scan or cellular structure—rendered in cool blue and white tones, lending a clinical, analytical atmosphere. Each screen is labeled with a unique alphanumeric code along the bottom edge, emphasizing a sense of surveillance, cataloging, or scientific observation. The composition is symmetrical and orderly, with the screens evenly spaced and their glowing edges creating a stark contrast against the surrounding darkness. The lighting is cool and even, with no visible shadows, enhancing the sterile, technological mood. The overall style is reminiscent of late 20th-century science fiction cinema, evoking themes of observation, multiplicity, and the intersection of humanity and technology. The camera angle is straight-on, with a slight downward tilt, reinforcing the sense of detachment and systematic study.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:54.683799",
+  "word_count": 172,
+  "error_message": null
+}

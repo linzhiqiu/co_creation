@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f59a591-5d4e-4c6e-b374-d511e5f44161.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic street scene set in an ancient European city, with the ruins of grand stone structures and weathered walls forming a dramatic, historical backdrop. The composition is wide and slightly low, capturing a bustling pedestrian walkway filled with people of various ages and styles. In the foreground, several figures walk past, some blurred in motion, dressed in modern casual clothing—coats, scarves, and sunglasses—suggesting a cool, sunlit day. \n\nAt the center, a solitary man stands out, pausing amidst the flow of the crowd. He wears a light brown jacket over a gray shirt, his posture relaxed yet contemplative, gazing off to the side as if lost in thought. The background is softly out of focus, with groups of people sitting on benches, engaged in quiet conversation or simply observing their surroundings. The ancient ruins loom behind them, bathed in a hazy, golden afternoon light that casts long, gentle shadows and gives the scene a nostalgic, almost dreamlike quality.\n\nThe color palette is muted and earthy, dominated by soft browns, grays, and beiges, with subtle hints of green from distant foliage. The lighting is natural and diffused, evoking a serene, reflective mood. The overall style is reminiscent of a contemplative European art film, with a shallow depth of field that draws attention to the central figure while allowing the lively urban environment to blur into a harmonious, atmospheric tableau.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:39.064498",
+  "word_count": 229,
+  "error_message": null
+}

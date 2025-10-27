@@ -1,0 +1,12 @@
+{
+  "image_filename": "22be609c-9e2d-4168-8b03-19a513e7a0d2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set in a dimly lit, institutional interrogation room, viewed through a glass partition that creates a striking double exposure effect. In the foreground, a serious, bespectacled white man in a dark suit and striped tie stands, his expression focused and contemplative, partially reflected in the glass. Behind the glass, a young Black man sits slouched in a chair, wearing a light tan jacket over a mustard-yellow shirt, his face illuminated by a harsh overhead lamp with a wire cage, casting dramatic shadows. The background is sparse and utilitarian, with muted beige walls and a sense of confinement. The color palette is subdued, dominated by earth tones and soft, diffused lighting, enhancing the somber, tense atmosphere. The composition uses depth of field and layered reflections to evoke psychological complexity and emotional distance, reminiscent of classic film noir or 1970s crime dramas. The camera angle is slightly elevated, emphasizing the separation and power dynamics between the two figures, while the overall style is realistic, moody, and introspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:39.863203",
+  "word_count": 168,
+  "error_message": null
+}

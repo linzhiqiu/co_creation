@@ -1,0 +1,12 @@
+{
+  "image_filename": "19e113fd-be2a-4e34-ad0e-d53e02beca92.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young East Asian woman with long, straight black hair, standing against a deep, dark background that fades into blackness. She is dressed in a modern, textured white zip-up top, which contrasts starkly with the darkness behind her. Her eyes are gently closed, and her expression is serene and introspective, evoking a sense of calm and quiet contemplation. The lighting is soft and diffused, with a subtle, ethereal glow illuminating her face and upper body, creating delicate highlights and gentle shadows that enhance the tranquil mood. The overall color palette is cool and muted, dominated by whites, soft grays, and deep blacks, with a slight bluish tint. The composition is centered and symmetrical, with a shallow depth of field that keeps the focus on her face and upper torso, while the background remains blurred and unobtrusive. The style is minimalist and atmospheric, reminiscent of fine art portrait photography or a contemplative scene from an arthouse film, with a dreamlike, almost otherworldly quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:27.828585",
+  "word_count": 167,
+  "error_message": null
+}

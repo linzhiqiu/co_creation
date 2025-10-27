@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b47f380-cacb-45e1-a8fc-3d7d4b42751e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic macro shot of a watchmaker’s hands meticulously assembling a luxury wristwatch. The focus is on the gleaming, brushed metal backplate of the watch, which is being carefully fastened with a precision screwdriver. The watchmaker wears black gloves, emphasizing a sense of professionalism and attention to detail. The lighting is soft and directional, casting gentle highlights on the metallic surface and creating subtle shadows that enhance the depth and texture of the scene. The background is dark and out of focus, drawing all attention to the intricate craftsmanship and the delicate interaction between tool and timepiece. The overall color palette is muted and sophisticated, dominated by silvers, blacks, and soft grays, evoking a mood of quiet concentration and artisanal expertise. The composition is intimate, with a shallow depth of field that blurs the periphery and sharpens the central action, capturing the artistry and precision of high-end watchmaking.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:23.130213",
+  "word_count": 149,
+  "error_message": null
+}

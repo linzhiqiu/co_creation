@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d44d11b-ec67-440a-8f01-30790899a395.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands alone in a minimalist studio setting, illuminated by soft, diffused lighting that creates gentle shadows and a smooth gradient across the seamless backdrop. The image is rendered in high-contrast black and white, emphasizing the sculptural quality of his form and the subtle textures of his skin. He is posed confidently, with his arms raised and hands resting behind his head, accentuating the lines of his torso and the relaxed, almost statuesque posture. He wears only white briefs with a visible waistband, and his expression is contemplative, gazing slightly upward and away from the camera. The background is uncluttered, fading into darkness at the edges, which draws focus entirely to the subject. The composition is cinematic, with a wide aspect ratio and a slight low-angle perspective that enhances the sense of presence and vulnerability. The overall mood is intimate and introspective, blending elements of fine art portraiture and fashion photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:35.583325",
+  "word_count": 153,
+  "error_message": null
+}

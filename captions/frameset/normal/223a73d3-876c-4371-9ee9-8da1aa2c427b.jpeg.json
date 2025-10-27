@@ -1,0 +1,12 @@
+{
+  "image_filename": "223a73d3-876c-4371-9ee9-8da1aa2c427b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a smartphone screen held in a dimly lit environment, with a shallow depth of field that blurs the background and edges of the device. The focus is on the phone’s notification center, displaying incoming news alerts with partially legible URLs and text, suggesting current events or job-related updates. A hand, softly illuminated by the phone’s cool, bluish light, interacts with the screen, with fingertips slightly blurred in motion, emphasizing a sense of immediacy and engagement. The overall color palette is muted and cool, dominated by deep greens and blues, creating a subdued, contemplative mood. The lighting is low-key, with the phone’s glow providing the primary source of illumination, casting gentle highlights on the hand and screen. The composition is intimate and immersive, shot from a close, slightly oblique angle, drawing the viewer into the personal moment of digital interaction. The style evokes a modern, realistic aesthetic with a touch of cinematic tension, suitable for a drama or documentary exploring themes of technology, news, or personal communication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:24.643689",
+  "word_count": 171,
+  "error_message": null
+}

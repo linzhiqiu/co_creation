@@ -1,0 +1,12 @@
+{
+  "image_filename": "6171ffe6-1812-491f-8b05-5e016ee78efd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, immersive nightclub scene viewed from a dramatic, wide-angle perspective that distorts the edges, drawing the viewer’s eye toward the crowded dance floor at the center. The composition is dense with people, their bodies in motion, illuminated by moody, low-key lighting in deep reds, oranges, and shadows. Two bright, vertical light beams cut through the darkness, casting a cinematic glow and highlighting the energy of the crowd. The figures are partially blurred, conveying movement and the frenetic atmosphere of a packed underground club. The background is filled with abstract shapes and hints of industrial architecture, while the foreground is dark and slightly warped, enhancing the sense of depth and immersion. The overall style is gritty and atmospheric, with a sense of chaos and excitement, reminiscent of a scene from a modern, experimental film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:52.899043",
+  "word_count": 135,
+  "error_message": null
+}

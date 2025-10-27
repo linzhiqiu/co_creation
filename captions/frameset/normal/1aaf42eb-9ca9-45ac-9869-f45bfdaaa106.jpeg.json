@@ -1,0 +1,12 @@
+{
+  "image_filename": "1aaf42eb-9ca9-45ac-9869-f45bfdaaa106.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a cyclist paused on a rural path, focusing on their hands as they interact with a smartphone. The cyclist, wearing a white helmet and a black-and-white cycling outfit, is seen from behind and slightly above, with their face out of focus and turned away from the camera. Their right hand is holding the phone, while the left hand is actively tapping the screen, which displays a colorful, map-based app interface with various icons and a navigation menu. The background is softly blurred, revealing lush green grass and a gravel path, evoking a sense of motion and outdoor adventure. The lighting is natural and diffused, suggesting an overcast day, with cool, earthy tones dominating the palette. The composition emphasizes the action of route planning or tracking, with a shallow depth of field drawing attention to the phone and the cyclist’s hands, creating an immersive, documentary-style perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:41.780563",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "38c999a4-5126-43ce-8e0e-f64ec2a2db59.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cluster of small, glossy orange-brown mushrooms emerges from the damp, shadowy forest floor, surrounded by dark, rich soil, decaying pine needles, and patches of deep green moss. The scene is captured in low, moody lighting, with a single, soft beam of light illuminating the mushrooms and casting gentle highlights on their smooth, wet caps, while the background fades into deep shadow, evoking a mysterious, almost magical atmosphere. The camera is positioned at ground level, close to the mushrooms, creating an intimate, immersive perspective with a shallow depth of field that blurs the surrounding environment and draws the viewer’s focus to the delicate textures and organic forms of the fungi. The color palette is dominated by earthy browns, muted greens, and subtle hints of orange, with a cinematic, high-contrast style that emphasizes the interplay of light and darkness. The overall composition feels quiet and contemplative, as if capturing a hidden, enchanted moment within an ancient forest.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:36.962465",
+  "word_count": 156,
+  "error_message": null
+}

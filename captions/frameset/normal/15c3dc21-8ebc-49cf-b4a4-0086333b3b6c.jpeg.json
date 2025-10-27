@@ -1,0 +1,12 @@
+{
+  "image_filename": "15c3dc21-8ebc-49cf-b4a4-0086333b3b6c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern white SUV—specifically a Volvo XC60—drives confidently along a city street at golden hour. The vehicle is captured in dynamic three-quarter view from a low angle, emphasizing its bold front grille, sculpted lines, and large alloy wheels in motion. The sunlight is low in the sky, casting a warm, diffused glow that highlights the car’s glossy finish and creates subtle reflections on its surface. In the background, urban architecture with clean, geometric lines and glass facades recedes into soft focus, while silhouetted trees and a tall building add depth and context. The overall color palette is warm and neutral, with soft golds, muted grays, and crisp whites. The composition conveys a sense of motion and sophistication, with cinematic lighting and a shallow depth of field that keeps the car sharply in focus against a gently blurred cityscape. The mood is aspirational and refined, evoking themes of modern luxury, urban exploration, and understated elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:53.786932",
+  "word_count": 155,
+  "error_message": null
+}

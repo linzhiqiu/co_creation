@@ -1,0 +1,12 @@
+{
+  "image_filename": "217e6748-0d6b-40ea-92ae-0c6e3c79c3c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a cinematic outdoor hunting scene set in the late 19th or early 20th century, featuring two men dressed in period-appropriate, tailored grey hunting attire with dark hats. The main subject stands in the midground, aiming a long rifle skyward, his posture focused and intent. In the foreground, another man is partially visible, holding a rifle at rest, his hands and the barrel of the gun in sharp focus, adding depth and a sense of anticipation to the composition. Two golden retriever hunting dogs sit attentively on the ground near the main subject, their fur contrasting warmly with the muted earth tones of the forest floor. The background is a dense, wintry woodland with bare branches and evergreen foliage, under a cloudy, overcast sky that casts a cool, diffused light across the scene. The color palette is subdued, dominated by greys, browns, and greens, evoking a somber, contemplative mood. The camera angle is slightly low and off-center, with a shallow depth of field that keeps the main action crisp while softly blurring the background, enhancing the sense of immersion and period authenticity.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:09.797250",
+  "word_count": 191,
+  "error_message": null
+}

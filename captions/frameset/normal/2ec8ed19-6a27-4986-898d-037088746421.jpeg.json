@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ec8ed19-6a27-4986-898d-037088746421.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lively urban street scene set in a European city, dominated by a grand, arched concrete bridge in the background. The bridge’s sweeping curves frame a row of mid-rise apartment buildings with red and beige facades, their windows catching the soft daylight. In the foreground, a young woman rides a bicycle down the center of the street, her casual summer attire and relaxed posture suggesting a leisurely pace. Parked cars in various colors, including a prominent red car in the lower left, line both sides of the road, while a few moving vehicles add a sense of everyday bustle. Lush green trees flank the street, their leaves casting dappled shadows on the pavement and contributing to a fresh, vibrant atmosphere. The lighting is natural and even, evoking a late afternoon or early evening mood, with a clear sky and gentle sunlight. The composition is balanced, with the bridge arch drawing the eye upward and the cyclist providing a dynamic focal point. The overall style is realistic and cinematic, with a slight depth of field that keeps both foreground and background elements in crisp focus, capturing the energy and charm of city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:56.003571",
+  "word_count": 192,
+  "error_message": null
+}

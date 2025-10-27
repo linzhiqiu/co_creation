@@ -1,0 +1,12 @@
+{
+  "image_filename": "38bcc90f-261b-4d6d-8ee5-e867d5c6f8db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A rugged, cinematic scene featuring a bearded man in his early thirties, seated in the driver’s seat of a bright orange pickup truck. He wears a brown knit beanie and a dark, fur-lined winter jacket, exuding a sense of quiet determination and introspection. The man gazes forward with a calm, focused expression, hands resting on the steering wheel, as if preparing for a journey or pausing in contemplation. The truck is parked in a vast, open landscape of muted earth tones—rolling, barren hills stretch into the distance under a clear, pale blue sky. The composition is shot in profile from outside the passenger window, capturing the man in sharp focus while the background remains softly blurred, emphasizing depth and isolation. The lighting is natural and diffuse, suggesting early morning or late afternoon, with cool, subdued colors that enhance the tranquil, solitary mood. The overall style is minimalist and cinematic, evoking themes of adventure, solitude, and resilience in a remote, windswept environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:39.000400",
+  "word_count": 161,
+  "error_message": null
+}

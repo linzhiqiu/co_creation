@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d57002a-8445-4275-9adb-201c22cc07b6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with short brown hair and glasses stands behind the counter of a small grocery or convenience store, holding a smartphone out in front of him with the screen facing the camera. He wears a multicolored, striped sweater with a loose fit and a gold name tag that reads \"JOSH.\" His expression is focused and slightly serious as he looks at the phone, suggesting he is scanning or showing something important. The background is filled with neatly arranged shelves stocked with various products, including bottles, jars, and boxes, creating a sense of everyday realism. The color palette is soft and natural, with muted blues, purples, and earth tones dominating the scene. The lighting is even and natural, illuminating the subject and the products behind him without harsh shadows. The camera angle is at eye level, with a shallow depth of field that keeps the man and the phone in sharp focus while gently blurring the background, drawing attention to the action in the foreground. The overall style is cinematic and contemporary, evoking a slice-of-life moment in a modern retail environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:39.512018",
+  "word_count": 182,
+  "error_message": null
+}

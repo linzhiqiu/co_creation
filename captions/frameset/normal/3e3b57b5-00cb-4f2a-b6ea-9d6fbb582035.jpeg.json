@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e3b57b5-00cb-4f2a-b6ea-9d6fbb582035.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in the center of an indoor training facility, juggling three white clubs mid-air with focused concentration. He wears a loose green t-shirt with yellow trim and dark athletic pants, his hair pulled back, exuding a casual yet determined energy. The background features industrial elements: metallic truss structures, black padded walls, and blue gym mats stacked and rolled to the side, suggesting a space dedicated to circus arts or acrobatics. The scene is framed by out-of-focus metal bars in the foreground, creating a sense of depth and a candid, documentary feel, as if the viewer is observing from behind equipment or scaffolding. The lighting is even and soft, with a neutral color palette dominated by grays, blues, and muted greens, enhancing the utilitarian, behind-the-scenes atmosphere. The composition centers the juggler, capturing the motion of the clubs in mid-flight, and the overall style is naturalistic, with a slight cinematic edge due to the framing and depth of field.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:36.829387",
+  "word_count": 160,
+  "error_message": null
+}

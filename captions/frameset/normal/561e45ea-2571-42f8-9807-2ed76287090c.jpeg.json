@@ -1,0 +1,12 @@
+{
+  "image_filename": "561e45ea-2571-42f8-9807-2ed76287090c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a tranquil, immersive forest scene viewed from a low, ground-level perspective looking straight up toward the sky. The composition is dominated by tall, slender tree trunks and a dense canopy of overlapping pine branches and needles, through which dappled sunlight filters. The sun is partially obscured by the foliage, creating a soft, natural backlight that causes the leaves and branches to glow with a gentle, ethereal quality. The color palette is rich with deep forest greens, earthy browns, and subtle golden highlights where the sunlight breaks through. The overall mood is serene and contemplative, evoking a sense of quiet solitude and connection with nature. The style is cinematic and realistic, with a shallow depth of field that keeps the focus on the intricate patterns of the branches and the interplay of light and shadow above. The atmosphere is peaceful, with a hint of mystery, as if inviting the viewer to pause and breathe in the stillness of the woods.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:16.124122",
+  "word_count": 161,
+  "error_message": null
+}

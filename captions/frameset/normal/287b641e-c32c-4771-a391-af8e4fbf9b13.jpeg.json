@@ -1,0 +1,12 @@
+{
+  "image_filename": "287b641e-c32c-4771-a391-af8e4fbf9b13.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a realistic outdoor scene featuring a weathered stone statue of a cherubic child, positioned as the central subject. The statue is depicted with soft, rounded features and curly hair, holding a small object close to its chest. Water gently streams from the statue’s mouth, suggesting it functions as a decorative fountain. The background consists of lush, green shrubbery and a wooden fence with a warm, natural tone, providing a sense of a well-tended garden. The lighting is natural and diffused, evoking a calm, late afternoon ambiance with soft shadows and a serene mood. The color palette is dominated by earthy browns, muted grays, and fresh greens, enhancing the tranquil, timeless atmosphere. The composition is intimate, with a shallow depth of field that keeps the focus on the statue while softly blurring the background, creating a peaceful and contemplative visual impression.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:35.564612",
+  "word_count": 141,
+  "error_message": null
+}

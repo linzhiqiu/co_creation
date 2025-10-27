@@ -1,0 +1,12 @@
+{
+  "image_filename": "22b2f325-bec7-4c08-ac15-03de5206135b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, suspenseful interior scene dominated by a sense of urgency and tension. In the foreground, a large, old-fashioned CRT television sits on a dark surface, its screen displaying a grainy, black-and-white surveillance feed. On the monitor, a lone figure dressed in light-colored, possibly white, clothing stands in a confined, industrial-looking space, their posture tense and distressed, as if calling out or pleading. Above the television, a digital countdown timer glows ominously in bright red LED numbers, reading \"58:55,\" casting a faint red reflection onto the surrounding surfaces. The background is shrouded in deep shadows, with only hints of furniture and textured walls visible, contributing to the claustrophobic and foreboding atmosphere. The color palette is dominated by cold blues, grays, and stark contrasts, with the red digits providing a striking focal point. The composition is tight and centered, with a shallow depth of field that keeps the viewer’s attention on the television and timer, evoking a cinematic, thriller-like mood reminiscent of psychological horror or suspense films. The overall style is gritty and realistic, with a palpable sense of dread and impending danger.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:36.865978",
+  "word_count": 183,
+  "error_message": null
+}

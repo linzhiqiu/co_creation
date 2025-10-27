@@ -1,0 +1,12 @@
+{
+  "image_filename": "2540bc69-68b5-43a5-8bd3-d9e618db143a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking, monochromatic depiction of a spiral galaxy floating in the vastness of space, rendered in grayscale. The galaxy dominates the center of the composition, its elongated, swirling arms filled with countless tiny, luminous stars that gradually fade into the surrounding darkness. Wisps of cosmic dust and nebulous clouds drift across the foreground and edges, adding a sense of depth and ethereal mystery. The background is a deep, velvety black, punctuated by scattered points of starlight and a few distant, faintly glowing celestial bodies. The lighting is soft and diffuse, emphasizing the delicate textures of the galactic arms and the subtle gradients of the interstellar clouds. The overall style is reminiscent of classic astronomical photography, with a high-contrast, almost dreamlike quality that evokes awe and wonder at the scale and beauty of the universe. The camera angle is slightly tilted, offering a dynamic, three-quarter view of the galaxy, and the focus is sharp on the central structure while the periphery gently blurs, enhancing the sense of infinite space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:33.184221",
+  "word_count": 168,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "13c815c6-c866-4639-9cda-7f3c791febc6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up of an open, aged book with yellowed pages, featuring intricate medieval-style illustrations on both sides—one of a robed bishop with a staff, the other of a saintly figure. The text is in French, illuminated by warm, soft lighting, evoking a scholarly, historical atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:01.994967",
+  "word_count": 45,
+  "error_message": null
+}

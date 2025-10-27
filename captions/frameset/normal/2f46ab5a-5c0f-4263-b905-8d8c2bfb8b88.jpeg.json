@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f46ab5a-5c0f-4263-b905-8d8c2bfb8b88.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of the barrels of a double-barreled shotgun, held horizontally and pointed directly at the camera, dominating the foreground. The metal of the shotgun is aged and slightly worn, catching soft, warm ambient light that highlights its texture and subtle patina. A hand, partially visible at the lower left, grips the weapon, with fingers delicately wrapped around the stock, adding a sense of tension and immediacy. The background is artfully blurred with a shallow depth of field, featuring indistinct, rounded shapes that suggest ammunition or metallic objects, rendered in muted tones of brown and gray. The overall color palette is earthy and subdued, with rich browns, deep shadows, and gentle highlights, evoking a moody, suspenseful atmosphere. The composition is intimate and intense, with the barrels looming large in the frame, creating a sense of confrontation and anticipation. The lighting is low and cinematic, with soft focus and a slight film grain, reminiscent of classic thriller or neo-noir cinematography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:04.649355",
+  "word_count": 161,
+  "error_message": null
+}

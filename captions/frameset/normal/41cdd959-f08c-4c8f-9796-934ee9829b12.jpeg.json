@@ -1,0 +1,12 @@
+{
+  "image_filename": "41cdd959-f08c-4c8f-9796-934ee9829b12.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a white smartphone in mid-fall, captured at the precise moment it strikes a polished wooden floor. The phone is angled, its bottom edge making contact with the ground, suggesting imminent impact. The screen is brightly illuminated, displaying a blurred, colorful image dominated by reds and blues, with abstract light streaks that evoke motion and urgency. The background is softly out of focus, with a strong beam of natural light streaming in from the right, casting dramatic shadows and highlighting dust motes in the air. The overall color palette is cool and subdued, with warm highlights from the wood and the phone’s screen providing contrast. The composition uses shallow depth of field to isolate the phone, creating a sense of tension and anticipation. The mood is suspenseful and dynamic, reminiscent of a pivotal moment in a thriller film, with the camera positioned low and close to the ground to emphasize the action and vulnerability of the device.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:47.005107",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "177fc385-9338-427f-b2ff-39eaccc68d51.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A grand, ornate European building is captured from a dramatic, low-angle perspective, with the camera tilted so the structure appears diagonally across the frame. The architecture is richly detailed, featuring elaborate stone carvings, decorative cornices, and sculpted figures along the façade. Several windows with dark shutters punctuate the cream-colored exterior, and a red flag with a gold emblem hangs from one of the balconies, adding a striking accent of color. Sparse, leafless branches intrude into the upper left of the composition, suggesting early spring or late autumn. The sky forms a soft, muted blue backdrop, with gentle, natural daylight casting subtle shadows that enhance the building’s textures. The overall color palette is subdued and elegant, dominated by pale stone, muted blues, and the pop of red from the flag. The image has a cinematic quality, with a shallow depth of field that keeps the building in sharp focus while the sky and branches are slightly blurred, evoking a sense of quiet grandeur and timelessness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:31.891660",
+  "word_count": 164,
+  "error_message": null
+}

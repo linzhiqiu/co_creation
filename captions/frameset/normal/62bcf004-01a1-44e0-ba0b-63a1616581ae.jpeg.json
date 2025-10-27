@@ -1,0 +1,12 @@
+{
+  "image_filename": "62bcf004-01a1-44e0-ba0b-63a1616581ae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a laptop on a desk in a softly lit, cozy nighttime setting. The screen displays a dating website with a pink and white color scheme, featuring a registration form asking for the user's name, gender, country, and interests. The form is centered on the screen, surrounded by subtle cloud graphics and gentle gradients. In the foreground, a pair of hands is poised over the keyboard, suggesting someone is in the process of typing. The background is softly blurred, with warm ambient lighting from a desk lamp casting a gentle glow over scattered papers, a cup and saucer, and a few indistinct objects, creating a sense of intimacy and quiet focus. The overall color palette is warm and muted, dominated by soft pinks, creams, and browns, with a shallow depth of field that draws attention to the screen and hands. The composition evokes a sense of anticipation and introspection, as if capturing a private moment of hope and vulnerability late at night.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:21.134251",
+  "word_count": 166,
+  "error_message": null
+}

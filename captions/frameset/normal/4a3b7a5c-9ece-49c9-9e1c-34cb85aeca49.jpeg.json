@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a3b7a5c-9ece-49c9-9e1c-34cb85aeca49.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A long, empty corridor in an old building, rendered in high-contrast black and white. The hallway is illuminated by natural light streaming in from a distant window at the far end, casting dramatic angular shadows across the floor and walls. The ceiling features exposed wooden beams, adding a rustic, slightly industrial touch to the otherwise plain, smooth walls. Several open doorways line both sides of the corridor, their interiors shrouded in darkness, creating a sense of mystery and depth. At the end of the hallway, a bed or low platform is visible, bathed in soft daylight, with a large rectangular object—possibly a painting or a window—mounted on the wall above it. The overall mood is quiet, contemplative, and slightly eerie, evoking a sense of solitude and abandonment. The composition uses a central vanishing point, drawing the viewer’s eye down the corridor, while the interplay of light and shadow adds a cinematic, almost noir atmosphere. The style is reminiscent of fine art photography or a still from an arthouse film, with a focus on architectural lines, negative space, and moody, evocative lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:38.010499",
+  "word_count": 181,
+  "error_message": null
+}

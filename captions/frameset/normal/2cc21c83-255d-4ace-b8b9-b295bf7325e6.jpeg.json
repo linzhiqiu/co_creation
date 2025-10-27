@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cc21c83-255d-4ace-b8b9-b295bf7325e6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene set in a high-rise apartment with floor-to-ceiling windows overlooking a sprawling cityscape. The room is dimly lit, bathed in cool blue tones and deep shadows, evoking a moody, contemplative atmosphere. In the foreground, two figures stand side by side, silhouetted against the glowing city lights. They are holding hands, their backs to the viewer, gazing out at the urban skyline. Both wear loose, dark clothing that adds to the sense of intimacy and vulnerability. The city outside is alive with illuminated buildings, and in the distance, several skyscrapers are dramatically exploding, with bright bursts of fire and light contrasting against the night. The interior is sparsely furnished, with a desk, office chair, and scattered objects visible in the shadows, suggesting a lived-in but chaotic space. The composition is symmetrical, with the figures centered and framed by the vast windows, creating a sense of scale and emotional gravity. The overall style is reminiscent of late 1990s neo-noir cinema, with a focus on stark contrasts, atmospheric lighting, and a contemplative, almost surreal mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:12.657483",
+  "word_count": 177,
+  "error_message": null
+}

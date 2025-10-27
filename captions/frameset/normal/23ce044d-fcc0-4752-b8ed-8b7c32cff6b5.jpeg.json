@@ -1,0 +1,12 @@
+{
+  "image_filename": "23ce044d-fcc0-4752-b8ed-8b7c32cff6b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary SUV drives along a deserted two-lane highway that runs parallel to a vast, frozen lake. The scene is set during the golden hour, with the sun low on the horizon, casting a warm, diffused glow that contrasts with the cool, muted tones of the landscape. Snow patches line the roadside and the lake’s edge, while distant, shadowy mountains loom beneath a dramatic, overcast sky. The vehicle is captured in profile, its headlights off, emphasizing the tranquility and isolation of the moment. The composition uses a wide, cinematic aspect ratio, with a low camera angle that accentuates the expanse of the environment and the reflective surface of the icy water. The overall color palette is subdued, dominated by soft blues, grays, and hints of amber from the setting sun, creating a contemplative, almost melancholic mood. The image evokes a sense of journey and solitude, with a strong emphasis on natural beauty and atmospheric lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:00.330027",
+  "word_count": 155,
+  "error_message": null
+}

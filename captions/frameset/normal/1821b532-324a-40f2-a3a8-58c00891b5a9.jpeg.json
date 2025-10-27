@@ -1,0 +1,12 @@
+{
+  "image_filename": "1821b532-324a-40f2-a3a8-58c00891b5a9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic painting of a single, well-worn canvas sneaker is displayed against a neutral, softly illuminated gallery wall. The shoe is depicted from a top-down perspective, filling almost the entire rectangular canvas, with its laces loosely untied and splayed in an organic, slightly chaotic arrangement. The color palette is muted and monochromatic, dominated by warm sepia and beige tones that evoke a sense of nostalgia and timelessness. Subtle shadows and highlights emphasize the texture of the fabric, the creases, and the worn areas, lending the image a tactile, almost photographic quality. The lighting is focused and dramatic, creating a gentle vignette effect that draws the viewer’s attention to the center of the composition while the edges fade softly into shadow. The overall style is reminiscent of photorealism, with meticulous attention to detail and a contemplative, almost reverential mood. The background is minimal and unobtrusive, allowing the shoe to become the sole subject and focal point, inviting viewers to reflect on the beauty of everyday objects.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:46.662391",
+  "word_count": 165,
+  "error_message": null
+}

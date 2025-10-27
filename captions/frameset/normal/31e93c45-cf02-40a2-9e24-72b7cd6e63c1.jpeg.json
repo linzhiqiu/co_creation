@@ -1,0 +1,12 @@
+{
+  "image_filename": "31e93c45-cf02-40a2-9e24-72b7cd6e63c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern office scene viewed from the perspective of someone sitting at a desk, with the main focus on an open laptop in the foreground. The laptop screen displays a colorful business analytics dashboard with various charts, graphs, and data visualizations, including bar graphs, pie charts, and a pentagon-shaped radar chart, all labeled in Japanese. The dashboard interface features a clean, professional design with a palette of soft blues, greens, oranges, and grays. The laptop itself is sleek and contemporary, with a thin bezel and a visible macOS dock at the bottom of the screen.\n\nIn the softly blurred background, the office environment is bright and airy, illuminated by abundant natural light streaming through large windows. The out-of-focus figure of a woman in business casual attire, possibly a light pink or beige top, sits on a modern chair, engaged with a tablet or phone, adding a sense of everyday activity and professionalism to the scene. The overall composition uses a shallow depth of field, keeping the laptop and its screen in sharp focus while the background remains gently diffused, creating a sense of depth and drawing attention to the digital workspace. The mood is productive and contemporary, with a color palette dominated by cool neutrals and soft pastels, and the lighting is natural and inviting, evoking a sense of calm efficiency in a modern corporate setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:09.010990",
+  "word_count": 226,
+  "error_message": null
+}

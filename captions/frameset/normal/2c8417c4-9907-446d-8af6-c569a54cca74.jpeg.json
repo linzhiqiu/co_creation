@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c8417c4-9907-446d-8af6-c569a54cca74.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic scene viewed from inside a vehicle, looking out through the windshield onto a narrow, winding rural road. The perspective is from the front seat, with the dashboard and a hint of the steering wheel visible at the bottom edge, partially framing the view. The road curves gently to the right, bordered by lush, overgrown greenery and tall bushes on both sides, with occasional utility poles and wires running parallel to the road. The left side features dense foliage, including banana plants, while the right side is lined with wild shrubs. The sky is overcast with soft, diffused daylight, casting a muted, natural light over the landscape. The color palette is dominated by earthy greens and browns, with subtle blue and gray tones in the sky. The overall style is realistic and slightly nostalgic, evoking a sense of quiet travel and rural solitude. The composition uses a shallow depth of field, with the foreground elements slightly blurred, drawing the viewer’s focus down the empty, sunlit road that disappears into the distance.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:04.474860",
+  "word_count": 174,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2afb68cb-6fd7-44b9-a38e-77778495949e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, post-apocalyptic scene set in a desolate, industrial lot near a body of water. The composition is viewed from a high, almost surveillance-like angle, capturing a wide expanse of cracked concrete ground stained with oil and water. Scattered across the lot are several burnt-out, abandoned vehicles, their frames charred and windows shattered. In the center, a car is engulfed in thick, white smoke and bright flames, suggesting a recent explosion or ongoing fire. Nearby, large industrial barrels and a toppled, weathered road sign add to the sense of chaos and abandonment. The color palette is muted and desaturated, dominated by cold grays, ashen blacks, and hints of rust, evoking a bleak, somber mood. The lighting is overcast and diffuse, with no direct sunlight, enhancing the grim, cinematic atmosphere. The overall style is gritty and realistic, with a shallow depth of field that keeps the focus on the central burning car while the background fades into soft detail, reminiscent of a tense moment in a dystopian thriller or action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:35.245784",
+  "word_count": 171,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "529a272b-39b9-48d1-b748-4b48968960f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric scene featuring the blurred silhouette of a solitary figure standing behind frosted glass panels. The figure’s outline is indistinct, evoking a sense of mystery and anonymity, with no discernible facial features or details—just the vague suggestion of a human form, possibly wearing a coat or jacket. The composition is symmetrical, framed by two vertical black bars that divide the image into three sections, drawing the viewer’s eye to the central figure. The color palette is dominated by cool, muted teal and greenish-blue tones, creating a moody, almost noir ambiance. The lighting is soft and diffused, casting an ethereal glow through the glass and enhancing the sense of depth and separation. The overall style is minimalist and modern, with a shallow depth of field that keeps the background and figure intentionally out of focus, emphasizing abstraction and emotional tension. The mood is enigmatic and contemplative, reminiscent of a suspenseful moment in a psychological thriller or art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:50.452720",
+  "word_count": 160,
+  "error_message": null
+}

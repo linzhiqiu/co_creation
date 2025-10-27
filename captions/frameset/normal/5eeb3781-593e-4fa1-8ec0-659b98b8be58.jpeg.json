@@ -1,0 +1,12 @@
+{
+  "image_filename": "5eeb3781-593e-4fa1-8ec0-659b98b8be58.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young adult standing alone against a pitch-black background, evoking a sense of isolation and introspection. The subject is centered in the frame, wearing a light gray blazer over a pale blue button-up shirt, with their hair loosely pulled back. Their expression is serious and contemplative, with a subtle intensity in their eyes, as if delivering an important message or monologue. The lighting is dramatic and focused, illuminating the subject’s face and upper body with a soft, diffused glow, while the rest of the scene fades into deep shadow. Tiny, faint specks resembling distant stars or dust particles are scattered throughout the darkness, adding a subtle cosmic or ethereal quality. The overall color palette is cool and subdued, dominated by shades of gray, blue, and black. The composition is minimalist, with a shallow depth of field that keeps the background abstract and the viewer’s attention fixed on the subject. The mood is contemplative and cinematic, reminiscent of a pivotal moment in a film where a character confronts their inner thoughts or addresses the audience directly.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:48.604848",
+  "word_count": 180,
+  "error_message": null
+}

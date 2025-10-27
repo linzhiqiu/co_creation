@@ -1,0 +1,12 @@
+{
+  "image_filename": "5be8dba2-f6be-4def-8de2-1cfc71285f74.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a minimalist, atmospheric scene featuring a bright, glowing sun or light source at the center of the composition, partially obscured by a hazy, diffuse layer of fog or mist. The color palette is soft and muted, dominated by warm sepia and beige tones that evoke a sense of calm and quiet introspection. The lighting is gentle and ethereal, with the central light radiating outward, gradually fading into the surrounding haze. There are no discernible subjects, objects, or background details—only the interplay of light and mist, creating a dreamy, almost abstract effect. The overall style is cinematic and contemplative, with a shallow depth of field and a subtle vignette that draws the viewer’s eye toward the luminous center, evoking a sense of mystery and tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:36.454887",
+  "word_count": 126,
+  "error_message": null
+}

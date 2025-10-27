@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f2467fc-0385-4ada-8a7d-3f4cf2a91161.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a modern smartphone, the screen dominating the frame. The phone displays a medical app interface with a prominent red icon of a clipboard marked with a bold red \"X,\" suggesting a canceled or unavailable appointment. The app interface is clean, with a blue header at the top and white background, featuring subtle red and blue accents for notifications and navigation. The hand holding the phone has neatly manicured nails painted in a muted red shade, and the skin tone is medium to dark. The background is softly blurred, rendered in warm, neutral tones, creating a shallow depth of field that keeps the viewer’s focus on the phone screen. The lighting is low and ambient, casting gentle shadows and giving the scene an intimate, slightly somber mood. The overall style is cinematic and realistic, with a natural color palette and a sense of immediacy, as if capturing a private, significant moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:31.988415",
+  "word_count": 157,
+  "error_message": null
+}

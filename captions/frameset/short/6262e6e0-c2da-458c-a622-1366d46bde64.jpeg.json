@@ -1,0 +1,12 @@
+{
+  "image_filename": "6262e6e0-c2da-458c-a622-1366d46bde64.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A massive blimp floats against a deep blue twilight sky, its silhouette stark and imposing. Bright marquee lights on its side spell out “THE WORLD,” glowing vividly in the darkness. The scene is cinematic, mysterious, and slightly ominous, with high contrast and minimal background detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:07.883260",
+  "word_count": 45,
+  "error_message": null
+}

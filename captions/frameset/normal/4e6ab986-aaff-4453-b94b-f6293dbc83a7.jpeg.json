@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e6ab986-aaff-4453-b94b-f6293dbc83a7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, cinematic close-up of a man with sharp, angular features and intense expression, shot from a low, upward-facing angle to emphasize his dominance and enigmatic presence. He has light skin and short, tousled hair, and is dressed in a dark, heavy coat with the collar turned up, partially obscuring his neck. The lighting is moody and low-key, casting deep shadows across his face and highlighting the contours of his cheekbones and brow, while the background is an abstract, industrial structure with geometric lines and a cold, metallic tone. The color palette is dominated by cool blues, grays, and blacks, enhancing the sense of tension and unease. The overall style is reminiscent of neo-noir or psychological thriller films, with a shallow depth of field that keeps the focus tightly on the man's face, blurring the background and adding to the sense of isolation and suspense.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:12.116322",
+  "word_count": 147,
+  "error_message": null
+}

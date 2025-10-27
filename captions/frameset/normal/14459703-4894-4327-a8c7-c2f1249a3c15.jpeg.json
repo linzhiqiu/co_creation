@@ -1,0 +1,12 @@
+{
+  "image_filename": "14459703-4894-4327-a8c7-c2f1249a3c15.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a close-up, cinematic shot of a modern electric car’s digital dashboard display, viewed from the driver’s perspective through the steering wheel. The dashboard screen is illuminated with cool blue and white tones, giving the scene a sleek, futuristic feel. The central focus is a large digital speedometer reading “0 km/h,” flanked by battery percentage (95%) on the left and various status icons on the right, including a yellow lightning bolt. The display also shows the current time (20:25), date (14.03.2022), and a small, stylized top-down image of the car in the center, with the word “READY” in green. The background is dark, with subtle reflections and soft ambient lighting, emphasizing the glow of the digital interface. The composition is tight, with the steering wheel framing the dashboard, creating a sense of immersion and anticipation. The overall style is clean, high-tech, and minimalistic, evoking the atmosphere of a nighttime drive in a state-of-the-art electric vehicle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:17.631262",
+  "word_count": 156,
+  "error_message": null
+}

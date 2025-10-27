@@ -1,0 +1,12 @@
+{
+  "image_filename": "52fa4f10-cce5-4e3b-afca-7e22d49001b1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone mountain biker, dressed in dark, weather-resistant gear and a full-face helmet, rides uphill through a windswept field of tall, golden-brown grass. The biker is captured in profile, mid-motion, gripping the handlebars with determination. The background features rolling hills and distant mountains, partially obscured by a moody, overcast sky that casts a soft, diffused light over the scene. The color palette is muted and earthy, dominated by ochres, browns, and cool grays, evoking a sense of solitude and adventure. The composition uses a wide-angle perspective with a shallow depth of field, keeping the biker sharply in focus while the foreground and background blur gently, emphasizing movement and the vastness of the landscape. The overall style is cinematic and atmospheric, with a natural, almost documentary feel that highlights the raw beauty and challenge of the outdoor environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:03.526316",
+  "word_count": 137,
+  "error_message": null
+}

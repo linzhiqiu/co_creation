@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f02e512-1e17-4633-9897-36316ecf342f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist fashion portrait featuring two women seated back-to-back on a stark white staircase in a narrow, modern corridor. Both women have straight, shoulder-length brown hair and wear tailored blazers—one in black, the other in cream—paired with black skirts and classic black high heels. The woman in the foreground faces the camera with a calm, composed expression, her hands resting on her knees, while the woman behind her turns her head to the side, looking away, creating a sense of symmetry and contrast. The scene is lit with soft, diffused natural light, emphasizing the clean lines and muted color palette of whites, blacks, and subtle skin tones. The composition is centered and balanced, with a shallow depth of field that keeps the focus on the subjects while the background gently fades, enhancing the sense of quiet sophistication and modern elegance. The overall mood is contemplative and stylish, evoking a cinematic, editorial quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:00.935743",
+  "word_count": 154,
+  "error_message": null
+}

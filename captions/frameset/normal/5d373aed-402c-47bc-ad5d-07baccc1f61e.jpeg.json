@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d373aed-402c-47bc-ad5d-07baccc1f61e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide cinematic landscape of a remote, snow-covered valley at dusk, shrouded in a moody, desaturated blue-gray color palette. In the foreground, a narrow, winding stream cuts through the snow, its dark water reflecting the overcast sky. Sparse, leafless shrubs and tufts of dry grass poke through the snow along the banks, adding texture and depth. The midground features a gentle slope leading up to a cluster of rustic wooden cabins nestled among a dense stand of tall, dark pine trees. The cabins are small and subdued, blending into the wintry environment. In the background, towering mountains loom, their jagged peaks partially obscured by thick, low-hanging clouds and mist, creating a sense of isolation and grandeur. The lighting is soft and diffuse, with no direct sunlight, enhancing the cold, somber atmosphere. The overall composition is balanced and tranquil, evoking a sense of solitude and quiet tension, reminiscent of a dramatic, atmospheric film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:05.707265",
+  "word_count": 153,
+  "error_message": null
+}

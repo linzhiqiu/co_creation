@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fe45435-0c6a-45a4-8059-c906d1b49bb7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands at the far end of a wide, empty underpass, silhouetted against the bright daylight spilling in from the tunnel’s exit. The camera is positioned low and centered, creating a strong sense of symmetry and depth as the ceiling and walls of the tunnel converge toward the distant opening. The underpass is cast in deep shadow, with soft, diffused lighting along the sides highlighting the textured concrete walls and emphasizing the tunnel’s vast, cavernous space. The color palette is cool and muted, dominated by shades of gray, blue, and subtle hints of yellow from the artificial lights lining the tunnel. The figure is small and indistinct, adding a sense of isolation and scale. The overall mood is contemplative and cinematic, evoking themes of solitude and transition. The composition uses leading lines and a wide aspect ratio to draw the viewer’s eye toward the illuminated exit and the solitary person, creating a powerful visual narrative of journey and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:06.970800",
+  "word_count": 161,
+  "error_message": null
+}

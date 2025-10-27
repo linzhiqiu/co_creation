@@ -1,0 +1,12 @@
+{
+  "image_filename": "54e32f1d-4e97-447c-9f5c-4bc44622a28e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary outdoor basketball court stretches across the foreground, its asphalt surface slightly damp and reflecting the muted light of an overcast day. Centered in the mid-ground, a young boy stands poised in the act of shooting a basketball, his arms extended upward in a classic follow-through. He wears a dark jacket over a white shirt and white athletic shorts, with black leggings and sneakers, his figure small against the expansive court. Three empty basketball hoops, their white backboards weathered, recede into the distance, emphasizing the emptiness and quiet of the scene.\n\nTowering evergreen trees form a dense, natural backdrop, their deep green needles contrasting with the gray sky and the bare branches of a few deciduous trees. A chain-link fence runs along the edge of the court, further enclosing the space. The color palette is subdued and cool, dominated by grays, greens, and hints of brown, evoking a sense of calm and introspection.\n\nThe composition is wide and cinematic, with a low, slightly off-center camera angle that captures the full breadth of the court and the isolation of the lone player. The depth of field is deep, keeping both the boy and the background in sharp focus, while the soft, diffused lighting enhances the contemplative, almost melancholic mood of the scene. The overall style is naturalistic and understated, reminiscent of indie film cinematography, inviting the viewer to reflect on themes of solitude, practice, and quiet determination.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:50.575748",
+  "word_count": 237,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f8b4bdf-5776-4f4a-8bdb-d09cba867fd2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed industrial scene set inside a modern factory, featuring a large orange robotic arm in the foreground, actively working on a complex assembly. The robotic arm is articulated and mechanical, with visible joints and wiring, and is positioned above a dense, intricate structure composed of yellow metal frames, silver metallic components, and a network of blue and black cables. The machinery is surrounded by safety barriers made of metal mesh, with hints of industrial signage and equipment in the background. The lighting is bright and even, typical of a well-lit manufacturing environment, highlighting the metallic surfaces and the vibrant colors of the machinery. The color palette is dominated by industrial tones: orange, yellow, silver, and blue, with subtle reflections and shadows adding depth. The composition is dynamic, with a slight diagonal angle that emphasizes the motion and precision of the robotic arm, creating a sense of technological advancement and efficiency. The overall style is hyper-realistic, with sharp focus on the mechanical details and a shallow depth of field that subtly blurs the background, drawing attention to the complexity and activity at the center of the frame.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:46.109905",
+  "word_count": 188,
+  "error_message": null
+}

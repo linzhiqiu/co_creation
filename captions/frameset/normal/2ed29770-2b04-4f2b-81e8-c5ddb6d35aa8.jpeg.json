@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ed29770-2b04-4f2b-81e8-c5ddb6d35aa8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic scene set in a vast, dimly lit war room with a strikingly modern, circular design. The focal point is a large, round conference table surrounded by a group of serious, mostly middle-aged men in dark suits and military uniforms, all seated and engaged in intense discussion. The men’s expressions are grave and focused, underscoring the gravity of the situation. Above them, a massive, futuristic ring of bright, fluorescent lights casts a stark, even illumination over the table, creating deep shadows and a high-contrast atmosphere. In the background, the curved wall is dominated by large, illuminated maps and control panels, hinting at a Cold War-era military or governmental setting. The color palette is monochromatic, rendered in rich black and white, enhancing the sense of tension and urgency. The camera angle is wide and slightly low, emphasizing the scale of the room and the importance of the meeting, with a strong sense of depth and perspective. The overall style is reminiscent of classic 1960s political thrillers, with a minimalist, almost surreal architectural aesthetic and a mood of suspense and impending crisis.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:56.831312",
+  "word_count": 182,
+  "error_message": null
+}

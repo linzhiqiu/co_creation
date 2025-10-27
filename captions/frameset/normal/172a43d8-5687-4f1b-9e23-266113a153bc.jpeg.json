@@ -1,0 +1,12 @@
+{
+  "image_filename": "172a43d8-5687-4f1b-9e23-266113a153bc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic close-up of a luxury car’s dashboard display, focusing on the central infotainment screen showing a split-view from the vehicle’s front and top-down cameras. The main camera feed captures a dynamic, slightly distorted wide-angle view of a person in motion—mid-stride, wearing white sneakers, gray shorts, and a dark shirt—crossing directly in front of the car, their figure partially blurred to convey movement. The person’s lower body dominates the frame, with their hand holding a dark bag, and the background reveals an urban or industrial setting with concrete and a building edge. The secondary camera feed on the right displays a crisp, top-down 3D render of the car and its immediate surroundings, emphasizing safety and awareness. The dashboard itself is sleek and modern, with metallic accents, tactile buttons, and air vents framing the screen. The color palette is cool and neutral, with blacks, grays, and silvers, contrasted by the vibrant, realistic colors of the camera feed. Lighting is natural daylight, illuminating the scene with soft, even clarity. The overall style is polished and high-tech, evoking a sense of luxury, precision, and real-world immediacy, as if captured in a commercial for advanced automotive safety features.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:22.744927",
+  "word_count": 195,
+  "error_message": null
+}

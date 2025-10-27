@@ -1,0 +1,12 @@
+{
+  "image_filename": "28823563-0890-48c6-9e50-948eab01cce5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, over-the-shoulder interior shot of a middle-aged man with a receding hairline and a full beard, driving a car. The camera is positioned from the back seat, focusing on the man’s profile as he looks intently out the windshield, hands on the steering wheel. He wears a light-colored, subtly patterned shirt, and the upholstery of the car is a soft beige, complementing the warm, natural daylight that streams in through the windows. The background outside the car is softly blurred, with hints of blue sky and clouds, creating a sense of motion and travel. The lighting is gentle and diffuse, evoking a calm, contemplative mood. The overall style is realistic with a shallow depth of field, drawing attention to the driver’s thoughtful expression and the intimate, enclosed space of the car interior. The color palette is muted and natural, with soft earth tones and cool highlights, reminiscent of an indie film or a quiet road movie.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:37.018715",
+  "word_count": 158,
+  "error_message": null
+}

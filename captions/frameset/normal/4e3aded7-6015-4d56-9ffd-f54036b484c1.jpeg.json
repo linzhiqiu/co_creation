@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e3aded7-6015-4d56-9ffd-f54036b484c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A meticulously composed image of empty stadium seats, viewed from a central, eye-level perspective that emphasizes symmetry and repetition. The foreground and middle ground are dominated by rows of bright red plastic seats, their glossy surfaces catching soft, diffuse light that highlights their curves and subtle reflections. In the background, the color shifts to deep green seats, creating a striking contrast and a sense of depth as the rows recede into the distance. The seats are perfectly aligned, with no visible people or objects, evoking a sense of anticipation and stillness. The color palette is bold and saturated, with the red and green hues standing out against a neutral, unobtrusive background. The overall style is clean and modern, with a shallow depth of field that keeps the focus on the repeating patterns and vibrant colors, while the lighting is even and natural, avoiding harsh shadows. The composition conveys order, calm, and the quiet before an event, reminiscent of architectural or fine art photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:10.842556",
+  "word_count": 163,
+  "error_message": null
+}

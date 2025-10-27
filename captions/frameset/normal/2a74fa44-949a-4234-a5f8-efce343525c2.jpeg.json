@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a74fa44-949a-4234-a5f8-efce343525c2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of a modern car dashboard, focusing on the speedometer and tachometer dials. The speedometer is prominently displayed, with bold white numbers and tick marks ranging up to 260 km/h, set against a sleek, dark, carbon-fiber-textured background. The red needle of the speedometer is pointing to a moderate speed, while the tachometer needle is also visible, indicating engine RPM. In the center of the composition, a bright red triangular warning light with a car icon is illuminated, drawing immediate attention. The lighting is cool and slightly dramatic, with subtle reflections and highlights on the glass and metallic surfaces, emphasizing the precision and high-tech feel of the dashboard. The overall color palette is dominated by deep blacks, silvers, and sharp reds, creating a sense of urgency and modernity. The camera angle is tight and slightly tilted, enhancing the dynamic, cinematic quality of the scene, with a shallow depth of field that keeps the focus on the warning light and dials while softly blurring the background.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:24.931146",
+  "word_count": 166,
+  "error_message": null
+}

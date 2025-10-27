@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d53e967-b138-49a9-8299-583932bae509.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, slightly off-center shot of a vintage electric fan, focusing on the circular metal grille that dominates the frame. The fan’s brand label, reading “Hawaiian Breeze,” is clearly visible at the center, with subtle signs of wear and faint smudges adding a sense of age and authenticity. The metal wires of the grille create a hypnotic, radiating pattern, drawing the viewer’s eye inward. The background is softly blurred, rendered in muted, shadowy tones that contrast with the cool metallic sheen of the fan. The lighting is low and moody, casting gentle highlights and soft shadows across the metal surface, evoking a nostalgic, almost cinematic atmosphere. The overall color palette is subdued, with desaturated greens, grays, and hints of off-white, enhancing the retro, contemplative mood. The composition is intimate and detailed, inviting the viewer to appreciate the texture and form of this everyday object.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:06.723634",
+  "word_count": 144,
+  "error_message": null
+}

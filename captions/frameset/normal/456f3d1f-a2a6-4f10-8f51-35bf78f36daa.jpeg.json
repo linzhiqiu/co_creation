@@ -1,0 +1,12 @@
+{
+  "image_filename": "456f3d1f-a2a6-4f10-8f51-35bf78f36daa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, close-up shot as seen through the viewfinder of an old-fashioned camera. The viewer looks into the dimly lit interior of a large, industrial room with tall, multi-paned windows that let in soft, diffused daylight. The main focus is on a torn, gaping hole in the ceiling, through which a shaft of bright, ethereal light pours in, illuminating dust particles in the air and casting dramatic shadows across the scene. The edges of the image are slightly blurred and vignetted, evoking the optical qualities of vintage glass. The color palette is muted and cool, dominated by grays, silvers, and pale blues, with subtle hints of brown from the brickwork. The overall mood is mysterious and somber, with a sense of abandonment and quiet tension. The composition is framed by the dark, mechanical borders of the camera’s viewfinder, with a hand partially visible gripping the side, adding a tactile, documentary feel. The lighting is naturalistic, with a strong contrast between the bright light from above and the shadowy interior below, creating a haunting, atmospheric effect reminiscent of classic film noir or art photography.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:05.599382",
+  "word_count": 185,
+  "error_message": null
+}

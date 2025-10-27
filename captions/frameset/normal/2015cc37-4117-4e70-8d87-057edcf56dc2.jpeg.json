@@ -1,0 +1,12 @@
+{
+  "image_filename": "2015cc37-4117-4e70-8d87-057edcf56dc2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic urban scene set beneath a large overpass, captured with a slightly tilted, handheld camera angle to evoke a sense of motion and immediacy. In the foreground, a man with a dark complexion is seen from behind, mid-stride, wearing a patterned short-sleeve shirt and a navy blue baseball cap with a white lightning bolt symbol. His posture suggests he is either running or moving quickly toward a group in the background. The group consists of several casually dressed young adults, some standing and others in motion, engaged in what appears to be a casual gathering or street performance. \n\nThe setting is shaded by the massive concrete structure overhead, with strong vertical and horizontal lines from the beams and pillars creating a sense of depth and urban grit. Parked cars line the left side, their colors muted by the shadow, while sunlight filters in from the right, illuminating patches of the scene and casting sharp contrasts. The color palette is dominated by cool grays and browns from the concrete, punctuated by the subdued tones of the cars and the clothing of the figures. \n\nThe overall style is reminiscent of a contemporary street photography or indie film aesthetic, with natural lighting, a shallow depth of field that keeps the focus on the foreground figure, and a candid, energetic atmosphere. The composition draws the viewer’s eye toward the vanishing point under the overpass, enhancing the sense of movement and urban realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:41.610979",
+  "word_count": 239,
+  "error_message": null
+}

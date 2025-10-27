@@ -1,0 +1,12 @@
+{
+  "image_filename": "32e43b13-b5d8-404d-8e6b-b6bf3e7f21ab.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, slightly surreal scene set in the sterile hallway of an institutional building, likely a police station or hospital. The main focus is a convex security mirror mounted high on a wall, capturing a distorted reflection of the environment. In the mirror’s reflection, two figures stand at a reception counter: a uniformed police officer and a civilian, possibly a woman, engaged in conversation. The officer’s posture is authoritative yet calm, while the civilian appears attentive or slightly anxious. The counter is cluttered with office equipment and paperwork, and a mesh security screen separates the figures from the rest of the space. The color palette is muted and clinical, dominated by off-whites, pale beiges, and soft browns, with fluorescent lighting casting a cold, even illumination. The composition uses the mirror’s curvature to create a sense of surveillance and psychological tension, with the rest of the hallway receding into soft focus, emphasizing the isolation and formality of the setting. The camera angle is oblique, heightening the sense of unease and detachment, and the overall style is reminiscent of a tense drama or crime thriller, with a focus on atmosphere and subtle narrative cues.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:28.901761",
+  "word_count": 192,
+  "error_message": null
+}

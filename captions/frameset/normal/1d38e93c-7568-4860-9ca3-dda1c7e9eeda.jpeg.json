@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d38e93c-7568-4860-9ca3-dda1c7e9eeda.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car speedometer illuminated in a dark environment. The focus is on the sleek, curved glass of the instrument cluster, with crisp, glowing blue numerals and tick marks standing out against a deep black background. The needle is pointing just above zero, suggesting the car is stationary or moving very slowly. The composition is angled, creating a sense of depth and drawing the viewer’s eye along the arc of the speedometer. Subtle reflections and soft highlights on the glass add realism and a touch of sophistication. The lighting is low-key, with the blue backlight providing the primary source of illumination, casting a cool, high-tech ambiance. The overall style is moody and modern, evoking the interior of a luxury vehicle at night, with a shallow depth of field that blurs the edges and background, emphasizing the precision and clarity of the speedometer’s details.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:36.151179",
+  "word_count": 148,
+  "error_message": null
+}

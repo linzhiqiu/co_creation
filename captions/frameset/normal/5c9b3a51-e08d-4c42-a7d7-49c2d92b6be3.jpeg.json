@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c9b3a51-e08d-4c42-a7d7-49c2d92b6be3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a retro flip clock sits on a wooden surface, the time displayed as 6:59. The clock is rectangular, with a minimalist white plastic casing and bold black numerals on a clean white background, evoking a sense of mid-century modern design. The lighting is soft and diffused, casting gentle shadows and creating a moody, contemplative atmosphere. The image is rendered in black and white, emphasizing contrasts and textures—the smooth, matte finish of the clock juxtaposed with the subtle grain of the wood beneath it. The background is softly blurred, drawing the viewer’s focus to the clock and enhancing the sense of quiet anticipation, as if capturing the final moment before a significant event. The composition is simple and balanced, with the clock slightly off-center, and the camera angle is level with the surface, providing an intimate, almost cinematic perspective. The overall style is reminiscent of classic film stills, with a timeless, nostalgic quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:52.472256",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e77071c-6e1c-4a10-abad-3d04b8c2e8b4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of a car dashboard, focusing on the tachometer and speedometer dials. The composition is tight, with the camera angled slightly from the side, creating a sense of depth and intimacy. The tachometer needle is illuminated in a vivid red, pointing just above the 2, while the speedometer needle, also glowing red, is visible in the background, pointing near 80. The numbers and markings on the dials are crisp and white, standing out against the glossy black background of the dashboard. The lighting is low and moody, with subtle reflections and highlights on the glass surface, evoking a cinematic, high-contrast atmosphere. The overall color palette is dominated by deep blacks, sharp whites, and striking reds, giving the image a sleek, modern, and slightly dramatic feel. The focus is sharp on the foreground dial, with a shallow depth of field softly blurring the background elements, enhancing the sense of speed and precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:07.179412",
+  "word_count": 153,
+  "error_message": null
+}

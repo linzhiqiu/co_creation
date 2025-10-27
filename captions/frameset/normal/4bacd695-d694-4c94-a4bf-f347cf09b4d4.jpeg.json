@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bacd695-d694-4c94-a4bf-f347cf09b4d4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, intimate portrait of a young East Asian man lying on his back in bed, viewed from directly overhead. His eyes are closed and his expression is calm and peaceful, suggesting he is asleep or in deep rest. He has short, dark hair and wears a simple, light gray t-shirt. The background consists of a white pillow and soft bedding, creating a serene and minimalistic atmosphere. The color palette is muted and cool, dominated by whites, grays, and subtle skin tones, with soft, natural lighting that gently highlights the contours of his face. The composition is symmetrical and centered, with a shallow depth of field that keeps the focus on the subject’s face while softly blurring the edges of the pillow and bedding. The overall style is quiet, contemplative, and cinematic, evoking a sense of vulnerability and tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:08.370936",
+  "word_count": 140,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a56825e-75cc-40ee-a557-ca2d1b035513.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, overhead shot of a small, modern apartment set, viewed directly from above as if on a soundstage. The scene is divided into two rooms by a partial wall, with the left room featuring a cozy bed, a person sitting on the edge, and a dog lying nearby. The right room contains a desk with a lamp, books, and a potted plant, with another person seated at the desk, partially obscured by the wall. The color palette is warm and inviting, with earthy tones of wood, beige, and muted orange, contrasted by cool gray walls and a soft, circular rug. The lighting is dramatic, with a strong, focused beam illuminating the interior, casting deep shadows and creating a sense of intimacy and theatricality. The surrounding area outside the set is dark and industrial, emphasizing the artificial, constructed nature of the scene. The composition is precise and geometric, with clean lines and a sense of depth, evoking a diorama or stage play. The overall mood is contemplative and slightly surreal, blending realism with a touch of stylized artifice.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:40.657142",
+  "word_count": 179,
+  "error_message": null
+}

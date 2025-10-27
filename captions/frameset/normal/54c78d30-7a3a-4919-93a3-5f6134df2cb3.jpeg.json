@@ -1,0 +1,12 @@
+{
+  "image_filename": "54c78d30-7a3a-4919-93a3-5f6134df2cb3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of a young man seated in a dimly lit, minimalist environment. The subject is centered in the frame, gazing directly at the camera with a calm, enigmatic expression. He wears a dark, tailored blazer over a black turtleneck, giving him a sophisticated and slightly mysterious appearance. The lighting is dramatic and focused, casting deep shadows across his face while a narrow beam of light highlights his forehead and the bridge of his nose, creating a chiaroscuro effect. The background is out of focus and dark, punctuated by two soft, horizontal bands of cool white light that add depth and a subtle futuristic ambiance. The color palette is muted, dominated by cool grays, blacks, and soft whites, enhancing the moody, introspective atmosphere. The composition is tight, with a shallow depth of field that isolates the subject from the background, and the camera angle is at eye level, intensifying the sense of intimacy and psychological tension. The overall style is reminiscent of a neo-noir film or a high-end psychological thriller, with precise, intentional lighting and a focus on emotional nuance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:42.825650",
+  "word_count": 181,
+  "error_message": null
+}

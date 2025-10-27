@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c4674bc-0320-49de-97ed-49d604914089.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic close-up of a basketball hoop, shot from a low angle looking upward, with the rim and net sharply in focus against a clear blue sky. The backboard is transparent, allowing the background to show through—a tall, red metal tower structure rises dramatically behind the hoop, adding an urban, industrial feel to the scene. The lighting is natural and warm, suggesting late afternoon or golden hour, casting soft highlights and gentle shadows on the net and rim. The color palette features rich reds from the tower, the deep orange of the rim, and the cool blues of the sky, creating a striking contrast. The composition emphasizes the geometry of the hoop and the tower, with a shallow depth of field that blurs the background slightly, drawing the viewer’s eye to the crisp details of the net and rim. The overall mood is dynamic and aspirational, evoking the spirit of street basketball and urban life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:47.288740",
+  "word_count": 156,
+  "error_message": null
+}

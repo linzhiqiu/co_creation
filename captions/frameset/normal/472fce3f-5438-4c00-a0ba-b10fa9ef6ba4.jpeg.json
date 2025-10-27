@@ -1,0 +1,12 @@
+{
+  "image_filename": "472fce3f-5438-4c00-a0ba-b10fa9ef6ba4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits cross-legged on a patterned rug, viewed from a high, almost bird’s-eye perspective. He is surrounded by a chaotic sprawl of black-and-white photographs, newspaper clippings, and handwritten notes, all scattered haphazardly across the floor. The man’s clothing is casual—muted tones, short sleeves—his posture tense and absorbed, as if lost in obsessive investigation. The lighting is soft and natural, casting gentle shadows that enhance the sense of intimacy and introspection. The color palette is subdued, dominated by earthy browns, grays, and the stark contrast of monochrome prints. The composition is dense and immersive, with a shallow depth of field that draws the viewer’s eye to the intricate details of the photographs and papers. The overall mood is one of mystery and psychological intensity, evoking the atmosphere of a noir thriller or a detective’s private workspace. The camera angle emphasizes the man’s isolation and the overwhelming nature of his task, creating a cinematic tableau rich with narrative tension and visual complexity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:38.717801",
+  "word_count": 162,
+  "error_message": null
+}

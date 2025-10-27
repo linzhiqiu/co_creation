@@ -1,0 +1,12 @@
+{
+  "image_filename": "3954fb4b-7b6c-4d70-ab30-be5c22dfc1c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a vintage laundromat washing machine, centered in the frame. The machine is an old-fashioned model with a teal-colored metal exterior and chrome accents, showing signs of age and use. The round glass door dominates the composition, slightly fogged and reflecting the ambient light. Through the glass, a blurred, indistinct shape of laundry—mostly whites and light colors—can be seen tumbling inside, suggesting motion. The background is dimly lit, with soft, moody lighting that casts gentle shadows and highlights the metallic textures. The color palette is dominated by cool teal, muted silver, and subtle hints of warm light, evoking a nostalgic, almost melancholic atmosphere. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the focus on the washing machine while softly blurring the background details. The overall style is reminiscent of a contemplative indie film, with a quiet, introspective mood and a strong sense of place and time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:48.392933",
+  "word_count": 158,
+  "error_message": null
+}

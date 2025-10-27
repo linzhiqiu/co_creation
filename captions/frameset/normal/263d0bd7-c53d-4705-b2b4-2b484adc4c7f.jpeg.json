@@ -1,0 +1,12 @@
+{
+  "image_filename": "263d0bd7-c53d-4705-b2b4-2b484adc4c7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nighttime urban scene set in an empty outdoor basketball court, illuminated by soft, ambient streetlights and the distant glow of city buildings. The background features a row of trees and low-rise structures, with a few taller buildings silhouetted against the dark sky, their windows faintly lit. The court itself is deserted, its surface reflecting the subtle, cool-toned lighting. Dominating the foreground, the phrase \"Hola transparencia\" appears as if written in midair with glowing, ethereal blue light, resembling a long-exposure light painting. The script is fluid and dynamic, with a sense of motion and energy, standing out vividly against the subdued, moody backdrop. The overall color palette is composed of deep blues, muted purples, and soft yellows, creating a cinematic, contemplative atmosphere. The composition is wide and balanced, with a shallow depth of field that keeps the glowing text crisp while gently blurring the background, emphasizing the message and the serene, open space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:53.683192",
+  "word_count": 153,
+  "error_message": null
+}

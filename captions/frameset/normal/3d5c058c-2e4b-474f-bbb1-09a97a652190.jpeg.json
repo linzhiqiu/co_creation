@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d5c058c-2e4b-474f-bbb1-09a97a652190.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, symmetrical shot of a bookshelf filled with neatly arranged hardcover books, all authored by the same writer, \"Kelvin Kranz.\" The books are tightly packed, their glossy dust jackets in a palette of warm oranges, reds, and cool blues, creating a visually striking gradient across the shelf. Each spine is crisply lit, with the titles and author’s name clearly legible in bold, modern fonts. The lighting is warm and cinematic, casting a soft golden glow that enhances the rich colors and gives the scene a nostalgic, almost dreamlike quality. The background is out of focus, drawing all attention to the books themselves, while the shelf edges frame the composition with a subtle vignette. The overall style is reminiscent of Wes Anderson’s meticulous, color-coordinated set design, with a sense of order, whimsy, and visual harmony. The camera angle is straight-on at eye level, emphasizing symmetry and the tactile appeal of the book spines, inviting the viewer to linger over the details and textures.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:21.178718",
+  "word_count": 163,
+  "error_message": null
+}

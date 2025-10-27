@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a18a30c-5eb5-4bf0-9b50-db4c5ecddc9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric lounge with dark, tufted leather seating and an air of vintage opulence. The scene centers on a large, plush teddy bear being embraced by a person in a hooded jacket, their face hidden from view, creating a sense of intimacy and comfort. The background is adorned with numerous glowing candles placed on ledges and tables, casting a warm, golden light that flickers across the aged, textured walls and ornate frames. The overall color palette is rich and moody, dominated by deep browns, golds, and soft amber highlights, evoking a cinematic, almost noir ambiance. The composition is intimate, with a shallow depth of field that keeps the focus on the central embrace, while the background details blur softly, enhancing the sense of isolation and emotional warmth. The camera angle is slightly low and close, drawing the viewer into the private moment, while the soft, diffused lighting and subtle haze add a dreamlike, melancholic quality to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:06.779468",
+  "word_count": 160,
+  "error_message": null
+}

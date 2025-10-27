@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e847780-9e2b-4e02-93d1-1717eb8c8feb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime urban scene, focusing on a convex traffic mirror mounted at the edge of a dimly lit street. The mirror dominates the left side of the composition, reflecting a solitary figure—a young woman standing on the sidewalk. She wears a dark jacket and a light skirt, her posture relaxed yet contemplative, with her face partially obscured by shadow. The street behind her is empty, illuminated by sparse, cold streetlights that cast pools of bluish-white light and deep, elongated shadows. The background is softly blurred, with hints of industrial buildings and barricades, enhancing the sense of isolation and quiet. The overall color palette is cool and desaturated, with deep blues, muted grays, and subtle highlights. The lighting is moody and low-key, evoking a sense of mystery and introspection. The camera angle is slightly off-center, with a shallow depth of field that keeps the mirror and its reflection in sharp focus while the rest of the scene fades into a dreamy bokeh. The style is reminiscent of neo-noir or atmospheric urban photography, emphasizing solitude, reflection, and the quiet poetry of city nights.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:43.066007",
+  "word_count": 183,
+  "error_message": null
+}

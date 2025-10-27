@@ -1,0 +1,12 @@
+{
+  "image_filename": "38e62e46-0b96-4823-924b-699f62be0ef1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic close-up shot of a motorcycle wheel in motion, captured from a low angle to emphasize speed and energy. The spinning wheel dominates the frame, with the orange rim creating a vivid circular blur against the muted, sunlit background. The metallic spokes and brake disc are partially visible, their details softened by the rapid rotation, conveying a sense of velocity. The lighting is warm and golden, suggesting late afternoon or early evening, with soft shadows and a gentle gradient in the background that hints at an open road or desert landscape. The overall style is cinematic, with a shallow depth of field that keeps the focus tightly on the wheel while the background melts into smooth, horizontal streaks, enhancing the impression of swift movement. The color palette features rich oranges, deep blacks, and warm earth tones, contributing to a bold, energetic, and adventurous mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:41.316241",
+  "word_count": 145,
+  "error_message": null
+}

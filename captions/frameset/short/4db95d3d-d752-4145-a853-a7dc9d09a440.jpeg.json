@@ -1,0 +1,12 @@
+{
+  "image_filename": "4db95d3d-d752-4145-a853-a7dc9d09a440.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling nighttime Times Square scene, neon billboards and LED screens illuminating wet streets, yellow taxis in motion, and crowds of pedestrians. The color palette is vibrant with electric blues, reds, and yellows. Cinematic wide-angle shot, dynamic city energy, reflections glistening on the pavement, urban vibrancy captured in sharp focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:55.108350",
+  "word_count": 50,
+  "error_message": null
+}

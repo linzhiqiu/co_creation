@@ -1,0 +1,12 @@
+{
+  "image_filename": "2fd93fe9-da13-42d6-8333-137cca9df935.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person holding a vintage film camera, poised to take a photograph of a large, fluffy dog standing in a snowy outdoor landscape. The person is wearing a textured, maroon knit beanie and a light blue jacket, with only the back of their head and hands visible, creating a sense of intimacy and focus on the act of photography. The camera is held up to eye level, its metallic surface catching the soft, natural daylight. In the blurred background, the dog stands alert and slightly off-center, its fur blending with the wintry environment. The snow-covered ground and sparse, out-of-focus branches evoke a serene, cold atmosphere. The color palette is dominated by cool whites and blues, with warm accents from the beanie and the dog's fur. The lighting is natural and diffused, suggesting a clear winter day. The composition uses shallow depth of field to emphasize the camera and the photographer’s hands, while the background remains softly blurred, lending a cinematic, contemplative quality to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:18.981503",
+  "word_count": 170,
+  "error_message": null
+}

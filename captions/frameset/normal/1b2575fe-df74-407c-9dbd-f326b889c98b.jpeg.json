@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b2575fe-df74-407c-9dbd-f326b889c98b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand delicately placing a puzzle piece onto a nearly completed jigsaw puzzle. The hand is adorned with several gold bangles, catching the warm, ambient light that bathes the entire scene in soft, golden-brown tones. The focus is shallow, with the hand and the immediate area of the puzzle in sharp detail, while the background and edges blur into a gentle bokeh, creating a sense of intimacy and concentration. The lighting is low and moody, evoking a cozy, contemplative atmosphere, as if the scene is set in the late afternoon or evening. The composition emphasizes the tactile interaction between the hand and the puzzle, highlighting the textures of both the jewelry and the puzzle pieces. The overall style is reminiscent of a quiet, introspective moment, with a painterly quality and a subtle play of light and shadow across the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:51.017966",
+  "word_count": 146,
+  "error_message": null
+}

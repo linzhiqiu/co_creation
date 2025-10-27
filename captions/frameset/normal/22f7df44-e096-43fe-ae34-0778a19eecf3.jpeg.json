@@ -1,0 +1,12 @@
+{
+  "image_filename": "22f7df44-e096-43fe-ae34-0778a19eecf3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A long, rectangular conference table dominates the center of a stark, dimly lit archival room. The table is flanked by simple, black chairs, evenly spaced and empty, creating a sense of anticipation and formality. The background is composed of tall, industrial metal shelving units, each meticulously filled with uniform white archival boxes and binders, their labels facing outward in perfect order. The lighting is subdued and focused, casting soft shadows and emphasizing the cool, muted color palette of grays, whites, and blacks. The ceiling and upper walls fade into darkness, heightening the sense of isolation and quiet. The camera is positioned at the end of the table, using a wide-angle lens to create a deep, symmetrical perspective that draws the viewer’s eye toward the vanishing point at the far end of the room. The overall style is minimalist and clinical, evoking a mood of secrecy, order, and institutional sterility, reminiscent of a scene from a psychological thriller or a modernist art film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:41.407443",
+  "word_count": 162,
+  "error_message": null
+}

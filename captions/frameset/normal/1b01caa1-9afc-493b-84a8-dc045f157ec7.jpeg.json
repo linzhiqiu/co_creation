@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b01caa1-9afc-493b-84a8-dc045f157ec7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, low-angle shot of a young man’s face, gazing downward with a neutral, slightly tired expression. The camera is positioned below his chin, creating a sense of intimacy and immediacy, as if the viewer is looking up at him from the perspective of a phone or digital device. The man has short brown hair, a trimmed beard, and is illuminated by cool, soft lighting that casts gentle shadows and highlights the contours of his face. Reflections and faint, semi-transparent overlays of text in purple and white float in front of him, suggesting augmented reality or a digital interface, with the text slightly blurred to emphasize focus on his face. The background is dark and out of focus, with subtle hints of light and geometric shapes, evoking a modern, high-tech environment. The overall color palette is cool and subdued, dominated by blues, purples, and soft whites, contributing to a contemplative, slightly futuristic mood. The composition uses shallow depth of field to keep the man’s face sharp while the background and digital overlays remain soft, enhancing the cinematic, immersive quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:50.580953",
+  "word_count": 182,
+  "error_message": null
+}

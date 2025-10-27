@@ -1,0 +1,12 @@
+{
+  "image_filename": "2008068c-bf7a-42f6-9c12-a6b78dd68eef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large group of dancers, all dressed in matching dark, modern streetwear, perform a synchronized routine in a spacious, futuristic room. The dancers are arranged in a dynamic, geometric formation, their bodies caught mid-motion in a powerful, unified pose that suggests energy and precision. The floor is textured with a cool, marbled pattern, and the walls curve upward, composed of large, softly glowing panels that emit a diffused, bluish-white light. The overall color palette is cool and monochromatic, dominated by shades of blue, gray, and black, creating a sleek, high-tech atmosphere. The camera angle is high and wide, almost overhead, emphasizing the symmetry and scale of the choreography within the circular space. The lighting is even and soft, with no harsh shadows, lending the scene a cinematic, almost surreal quality. The mood is intense and focused, with a sense of unity and discipline among the dancers, evoking the aesthetic of a high-concept music video or a stylized science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:40.334511",
+  "word_count": 160,
+  "error_message": null
+}

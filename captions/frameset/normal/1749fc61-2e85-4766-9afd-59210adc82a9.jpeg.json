@@ -1,0 +1,12 @@
+{
+  "image_filename": "1749fc61-2e85-4766-9afd-59210adc82a9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody nighttime scene featuring a sleek, modern electric sedan driving along a deserted road. The car is captured in motion from a low, three-quarter front angle, emphasizing its aerodynamic lines and futuristic design. The headlights are sharply illuminated, casting a cool white glow that cuts through the deep blue and black tones of the dusk environment. The background is minimal and slightly blurred, with a concrete barrier running parallel to the road, enhancing the sense of speed and isolation. The overall color palette is dominated by dark blues, blacks, and subtle metallic reflections, with high contrast between the car’s illuminated details and the shadowy surroundings. The lighting is low and atmospheric, evoking a sense of quiet power and modern sophistication. The composition is wide and cinematic, with a shallow depth of field that keeps the focus on the car while the background fades into darkness, creating a dramatic and immersive visual impression.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:27.331367",
+  "word_count": 155,
+  "error_message": null
+}

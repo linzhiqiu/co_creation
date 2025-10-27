@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f9af73b-11d2-4dd7-806c-b06e92703289.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A well-lit supermarket aisle featuring neatly stacked cartons of eggs arranged on metal shelves. The cartons are organized in horizontal rows, with three distinct pastel colors dominating the scene: soft blue, pale yellow, and light gray. Each carton is labeled with clear, bold text indicating \"Grade A\" and \"Medium\" or \"Large\" eggs. The camera angle is straight-on at eye level, emphasizing the orderly repetition and symmetry of the stacks, creating a sense of abundance and choice. The lighting is bright and even, typical of a grocery store, with no harsh shadows, allowing the subtle hues of the cartons to stand out against the neutral shelving. The overall mood is clean, organized, and utilitarian, with a focus on the everyday simplicity and visual harmony of the supermarket environment. The color palette is cool and subdued, with the pastel tones providing a gentle contrast to the metallic shelves and the white price tags, which add small pops of yellow. The composition is tight, filling the frame with the egg cartons and leaving little negative space, drawing the viewer’s attention to the textures and patterns created by the packaging.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:04.838179",
+  "word_count": 186,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "507b5152-e17b-426a-81a7-c018d10231ea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person holding a tablet in their hands, viewed from behind and slightly to the side, with the focus on the tablet screen. On the screen, a messaging app is open, displaying a photo of a smiling child in a red sports jersey holding a soccer ball, standing in front of a wall decorated with gold and white balloons. The child’s expression is joyful and proud, suggesting a celebratory moment, possibly after a sports event. Below the photo, a message is being typed in Spanish: “Te echo de menos,” which translates to “I miss you.” The lighting is soft and warm, creating a cozy, intimate atmosphere, with the background out of focus and dimly lit, emphasizing the emotional connection and the digital interaction. The color palette features muted earth tones in the environment, contrasted by the bright colors of the child’s jersey and balloons on the screen. The overall style is cinematic, with shallow depth of field, naturalistic lighting, and a sense of quiet nostalgia and longing.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:07.564504",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d6036c7-826e-4e62-9ebe-04da604df5b6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic scene set in a dimly lit, industrial warehouse at night. The focal point is a surreal vertical stack of identical red sedans, precisely aligned one atop the other, forming a towering column that dominates the composition. At the very top of the stack sits a single blue sedan, its vibrant color sharply contrasting with the uniform red cars below, drawing the viewer’s eye upward. The ground is slick and reflective, suggesting recent rain or moisture, and a faint mist or smoke drifts through the air, adding an atmospheric, mysterious quality. Industrial elements like exposed beams and a single, harsh spotlight in the background contribute to the gritty, urban mood. The lighting is moody and high-contrast, with deep shadows and pools of light accentuating the contours of the cars and the texture of the warehouse floor. The camera angle is high and slightly off-center, emphasizing the precarious height and surreal nature of the stacked vehicles. The overall style is hyperreal, with crisp details and a sense of heightened reality, reminiscent of a high-budget car commercial or a stylized action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:52.417042",
+  "word_count": 182,
+  "error_message": null
+}

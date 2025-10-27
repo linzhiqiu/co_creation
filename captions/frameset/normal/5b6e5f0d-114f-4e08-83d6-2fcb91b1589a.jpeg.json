@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b6e5f0d-114f-4e08-83d6-2fcb91b1589a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, cinematic night scene of an empty highway bridge, captured from a low, central perspective as if the viewer is gliding swiftly along the road. The composition emphasizes strong leading lines, with the road’s orange center stripe drawing the eye toward a vanishing point on the horizon. Both sides of the bridge are lined with sleek, modern guardrails illuminated by bright, cool white lights, creating striking light trails that blur horizontally, suggesting motion and speed. The sky is a deep, inky black, providing stark contrast to the vivid, artificial lighting. The overall color palette is dominated by cool blues and whites, punctuated by the warm orange of the road stripe. The image has a crisp, high-contrast look with a sense of depth and velocity, evoking the style of a futuristic or neo-noir film. The mood is energetic and slightly surreal, with a focus on symmetry, perspective, and the interplay of light and darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:25.446067",
+  "word_count": 155,
+  "error_message": null
+}

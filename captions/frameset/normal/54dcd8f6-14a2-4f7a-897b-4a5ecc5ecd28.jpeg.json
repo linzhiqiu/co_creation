@@ -1,0 +1,12 @@
+{
+  "image_filename": "54dcd8f6-14a2-4f7a-897b-4a5ecc5ecd28.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of well-dressed young adults, both men and women, gather in a dimly lit, modern room with dark walls and a warm, ambient glow. At the center of the scene stands a striking, life-sized humanoid robot, crafted from intricate, metallic components with a futuristic, industrial design. The robot is dramatically illuminated from below by a circular, glowing blue platform, casting sharp highlights and deep shadows that accentuate its mechanical details.\n\nThe people encircle the robot, their faces lit by the soft blue and amber lighting. Several individuals hold up smartphones, capturing photos or videos, their expressions a mix of excitement, curiosity, and admiration. The group’s attire is semi-formal, with men in suits and women in elegant black dresses, suggesting a special event or unveiling. The background is softly blurred, focusing attention on the robot and the immediate crowd, creating a shallow depth of field.\n\nThe overall composition is cinematic, with the camera positioned at a slightly low angle to emphasize the robot’s imposing presence. The color palette features deep blacks, metallic grays, and warm skin tones, contrasted by the cool blue light from the platform. The mood is one of awe and celebration, blending high-tech wonder with human engagement in a sleek, contemporary setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:45.429372",
+  "word_count": 205,
+  "error_message": null
+}

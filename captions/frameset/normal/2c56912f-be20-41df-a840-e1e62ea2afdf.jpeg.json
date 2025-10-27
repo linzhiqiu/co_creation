@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c56912f-be20-41df-a840-e1e62ea2afdf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a single white car driving along a winding dirt road that curves gently through a rural landscape. On the left side of the image, neat rows of lush green crops create a striking pattern, their lines running parallel and evenly spaced, emphasizing the orderliness of the farmland. To the right, the terrain transitions into a more natural, grassy area with patches of brown and green, suggesting the edge of a field or the beginning of a wild meadow. The car is centered in the frame, its roof and windshield clearly visible, casting a subtle shadow on the road. The lighting is soft and natural, likely captured during late afternoon, with no harsh shadows, lending a warm and tranquil atmosphere to the scene. The overall color palette is dominated by earthy greens and browns, contrasted by the crisp white of the car. The composition is minimalist and balanced, with a strong sense of geometry and symmetry from the crop rows, and a cinematic, almost drone-like perspective that emphasizes the isolation and serenity of the rural setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:03.148189",
+  "word_count": 178,
+  "error_message": null
+}

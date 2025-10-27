@@ -1,0 +1,12 @@
+{
+  "image_filename": "6253d91f-77aa-40f6-bf99-1eb70f424510.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody portrait of a young woman in profile, her face softly illuminated by warm, ambient light. She appears deep in thought, resting her chin on her hand, with a contemplative and slightly melancholic expression. Overlay the scene with large, glowing orange text that repeats the phrase \"world end,\" the letters slightly blurred and projected across her face and the background, creating a sense of digital reflection or inner turmoil. The background is softly out of focus, with muted tones of beige and brown, enhancing the intimate, introspective atmosphere. Use a shallow depth of field to keep the woman’s features and the projected text as the focal points, and employ a gentle bokeh effect to add cinematic depth. The overall style should evoke a sense of quiet tension and emotional complexity, reminiscent of a dramatic film still exploring themes of technology, isolation, and existential reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:12.723805",
+  "word_count": 147,
+  "error_message": null
+}

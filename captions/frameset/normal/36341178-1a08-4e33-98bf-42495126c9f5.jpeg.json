@@ -1,0 +1,12 @@
+{
+  "image_filename": "36341178-1a08-4e33-98bf-42495126c9f5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a serene nighttime landscape featuring a clear, star-filled sky with the Milky Way faintly visible, stretching diagonally across the scene. The foreground is composed of the dark silhouettes of tall pine trees, their jagged tops reaching upward and framing the lower edge of the image. The color palette is dominated by deep midnight blues and subtle purples, with countless white and pale blue stars scattered across the sky, creating a sense of vastness and wonder. The lighting is natural and low, with no artificial sources, emphasizing the contrast between the luminous stars and the inky darkness of the trees and sky. The overall style is cinematic and tranquil, with a wide-angle perspective that captures both the grandeur of the cosmos and the quiet presence of the forest below. The mood is contemplative and awe-inspiring, evoking the stillness and beauty of a remote wilderness under the night sky.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:39.415002",
+  "word_count": 148,
+  "error_message": null
+}

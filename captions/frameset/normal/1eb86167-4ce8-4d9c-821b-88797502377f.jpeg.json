@@ -1,0 +1,12 @@
+{
+  "image_filename": "1eb86167-4ce8-4d9c-821b-88797502377f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure kneels on a dark, expansive floor, illuminated by a single, focused overhead spotlight that carves them out of the surrounding shadows. The subject, dressed in a light-colored, utilitarian jumpsuit, is intently working with a tangle of thick black and colored cables that snake across the ground, their hands absorbed in the task. The background is shrouded in deep darkness, with only faint hints of industrial scaffolding or metallic structures barely visible at the edges, enhancing the sense of isolation and mystery. The color palette is dominated by muted grays, blacks, and the pale tone of the jumpsuit, with subtle highlights from the cables. The lighting is stark and dramatic, creating high contrast and deep shadows, reminiscent of a cinematic, dystopian or sci-fi aesthetic. The camera angle is low and slightly off-center, emphasizing the subject’s concentration and the vast emptiness around them. The overall mood is tense, introspective, and atmospheric, with a strong sense of narrative ambiguity and visual minimalism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:11.938601",
+  "word_count": 162,
+  "error_message": null
+}

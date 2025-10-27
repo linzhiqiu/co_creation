@@ -1,0 +1,12 @@
+{
+  "image_filename": "584f189c-28f6-405b-a04d-84933d8a97d8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands in the center of a vast, dark forest at night, illuminated by a single, dramatic spotlight that creates a stark contrast against the surrounding blackness. The person, dressed in dark, modern clothing, holds a long, glowing sword or staff, which emits a faint, ethereal light. A plume of mist or smoke rises above them, catching the beam of light and creating a ghostly, atmospheric effect that draws the viewer’s eye to the center of the composition. The towering silhouettes of trees frame the scene, their trunks barely visible in the shadows, emphasizing the isolation and vulnerability of the subject. The color palette is dominated by deep blacks and muted earth tones, with the only highlights being the pale, almost silvery light and the subtle glow of the weapon. The overall style is cinematic and moody, with a high-contrast, low-key lighting setup that evokes a sense of mystery and suspense. The camera angle is wide and slightly low, enhancing the scale of the forest and the smallness of the figure, while a shallow depth of field keeps the focus tightly on the subject and the illuminated mist, allowing the darkness to envelop the rest of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:13.980159",
+  "word_count": 200,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bf17124-93cc-4b9d-a116-0f4f4c3a3feb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of people dance energetically around a large bonfire at night, their silhouettes dramatically illuminated by the warm, flickering firelight. The figures are spaced in a loose circle, each caught in a different expressive pose, arms raised or outstretched, suggesting movement and celebration. The background is enveloped in deep darkness, with no visible details beyond the immediate glow of the fire, creating a strong contrast between the bright, golden-orange flames and the surrounding blackness. The ground is rough and grassy, subtly lit by the fire’s light. The overall color palette is dominated by rich, warm tones—yellows, oranges, and deep shadows—evoking a sense of mystery and primal energy. The composition is wide and cinematic, shot from a distance at eye level, allowing the viewer to take in the entire scene and the dynamic arrangement of the dancers. The mood is both haunting and exuberant, with a sense of ritual or communal celebration heightened by the stark lighting and the isolation of the figures against the night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:16.561766",
+  "word_count": 166,
+  "error_message": null
+}

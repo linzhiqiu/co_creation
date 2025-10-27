@@ -1,0 +1,12 @@
+{
+  "image_filename": "3301c2a9-d021-4883-a7b9-c05aba0a56b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution, studio-lit portrait of three young women standing side by side against a soft, neutral background with a subtle gradient. Each woman holds a clear glass cup to her mouth, creating a playful distortion of her lips, which are pressed against the glass and appear exaggerated and puckered. The women are positioned in a shallow depth of field, with the woman in the red shirt in sharp focus in the foreground, while the other two—one in a blue shirt on the left and one in a light gray shirt in the center—are slightly blurred, adding a sense of depth and focus to the composition. Their expressions are neutral to mildly amused, and their hair is styled in contemporary, casual fashion. The color palette is clean and modern, dominated by the bold primary colors of their shirts and the soft, even lighting that eliminates harsh shadows. The overall style is crisp, minimalistic, and playful, with a cinematic quality reminiscent of a fashion editorial or a conceptual art photograph. The camera angle is straight-on at eye level, emphasizing symmetry and the unique visual effect created by the glass cups.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:27.176160",
+  "word_count": 188,
+  "error_message": null
+}

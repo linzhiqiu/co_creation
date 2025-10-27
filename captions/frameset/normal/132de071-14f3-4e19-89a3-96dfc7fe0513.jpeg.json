@@ -1,0 +1,12 @@
+{
+  "image_filename": "132de071-14f3-4e19-89a3-96dfc7fe0513.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, black-and-white photograph of a modern living room with a striking visual twist: the upper half of the image features a man and a woman sitting at a dining table, but they appear to be upside down, as if gravity is reversed for them. Their expressions are calm and natural, engaged in conversation or a shared activity. The lower half of the room is right-side up, with a beagle dog sitting attentively on the wooden floor, gazing upward toward the ceiling (where the people are). The room is tastefully decorated with framed artwork, a bicycle mounted on the wall, and various shelves and objects, all oriented to match the gravity of the people above. Sunlight streams through curtained windows, casting soft, natural shadows and creating a gentle, high-contrast ambiance. The overall composition is balanced and symmetrical, with a wide-angle lens capturing the entire scene, emphasizing the surreal inversion. The style is cinematic and meticulously composed, with crisp details, a neutral grayscale palette, and a sense of quiet wonder and playful impossibility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:53.001580",
+  "word_count": 172,
+  "error_message": null
+}

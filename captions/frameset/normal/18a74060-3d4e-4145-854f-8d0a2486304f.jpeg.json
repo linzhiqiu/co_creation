@@ -1,0 +1,12 @@
+{
+  "image_filename": "18a74060-3d4e-4145-854f-8d0a2486304f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A haunting, cinematic close-up shot of a ventriloquist-style puppet lying on a cold, concrete floor. The puppet’s face is pale white with exaggerated, unsettling features: deep black eye sockets with piercing red irises, and bright red spiral patterns painted on its cheeks. Its lips are painted a stark red, forming a sinister, fixed grin. The puppet’s black, synthetic hair is disheveled, and it wears a formal black suit, the sleeve and gloved hand visible in the frame. The lighting is harsh and moody, casting dramatic shadows and giving the scene a chilling, suspenseful atmosphere. The color palette is dominated by muted greens and grays from the floor, contrasted sharply by the puppet’s white face and the vivid red accents. The camera angle is high and slightly tilted, emphasizing the lifelessness and eerie presence of the puppet. The overall style is reminiscent of psychological horror films, with a focus on unsettling details and a sense of foreboding stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:59.474048",
+  "word_count": 157,
+  "error_message": null
+}

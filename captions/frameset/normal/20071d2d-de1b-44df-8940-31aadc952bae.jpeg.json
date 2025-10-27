@@ -1,0 +1,12 @@
+{
+  "image_filename": "20071d2d-de1b-44df-8940-31aadc952bae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, surreal scene in high-contrast black and white. The composition features a lone, androgynous figure with a sculptural, almost mannequin-like appearance, seated on the ground in a contemplative pose. The figure is positioned near the right side of the frame, partially illuminated by sharp, directional lighting that casts dramatic shadows and highlights the smooth, pale surface of their skin and minimal clothing. \n\nThe background and floor are dominated by bold geometric shapes: large, triangular spikes or prisms jut upward in a rhythmic pattern from the left, while the ground is marked by alternating black and white stripes that create a sense of depth and perspective. To the right, a series of rectangular, glowing platforms or steps rise vertically, their edges outlined with bright white light, adding to the futuristic, abstract atmosphere.\n\nThe overall mood is stark, enigmatic, and theatrical, with a sense of isolation and introspection. The camera angle is slightly tilted, enhancing the surreal, disorienting effect. The lighting is crisp and artificial, emphasizing the interplay of light and shadow, and the entire scene has a polished, avant-garde aesthetic reminiscent of high fashion editorials or experimental stage design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:39.702934",
+  "word_count": 190,
+  "error_message": null
+}

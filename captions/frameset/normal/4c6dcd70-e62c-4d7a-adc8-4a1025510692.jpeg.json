@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c6dcd70-e62c-4d7a-adc8-4a1025510692.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA tranquil, enchanting forest scene bathed in soft, diffused daylight. Tall, slender trees with textured bark rise vertically, their trunks dominating the composition and creating a sense of depth and scale. The forest floor is lush with moss, ferns, and scattered patches of sunlight filtering through the canopy above, casting dappled shadows and illuminating the greenery with a gentle, natural glow. In the left foreground, a small, mysterious pool of water is partially visible, its surface reflecting the surrounding foliage and adding a subtle sense of intrigue. The background fades into a misty, bluish haze, suggesting distance and a serene, almost dreamlike atmosphere. The color palette is composed of earthy browns, deep greens, and cool blues, with hints of golden sunlight. The overall style is painterly and cinematic, with a shallow depth of field that draws the viewer’s eye into the heart of the forest, evoking a sense of wonder and quiet magic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:28.603013",
+  "word_count": 154,
+  "error_message": null
+}

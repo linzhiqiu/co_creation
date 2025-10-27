@@ -1,0 +1,12 @@
+{
+  "image_filename": "42cd9df4-f419-4219-837c-15352601ff90.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern digital clock sits on a dark, glossy surface, its illuminated display casting a soft, ambient glow in an otherwise dimly lit room. The clock face dominates the composition, showing the time as 3:12, with additional information such as the date (11/30), day of the week in Japanese, temperature (24°C), and humidity (31%) clearly visible in crisp, white LED numerals and symbols. The background is blurred and shadowy, with warm, subtle orange-brown tones suggesting a cozy, nighttime interior. To the right, partially out of focus, are coiled cables and a small electronic device, adding a touch of everyday realism. The overall color palette is subdued, with deep blacks, soft whites, and hints of warm amber from the ambient lighting. The camera angle is straight-on at eye level, emphasizing the clarity of the clock’s display, while the shallow depth of field keeps the focus tightly on the clock, lending the scene an intimate, contemplative mood reminiscent of a quiet late-night moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:08.109931",
+  "word_count": 165,
+  "error_message": null
+}

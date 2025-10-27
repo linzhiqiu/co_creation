@@ -1,0 +1,12 @@
+{
+  "image_filename": "635335d4-c3cb-42af-9651-04f49351ae78.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a human hand holding a large, rectangular computer processor chip, prominently displaying the engraved text \"AMD EPYC\" on its metallic surface. The hand is centered in the frame, with fingers gently gripping the edges of the chip, and the thumb visible on one side. The background is an out-of-focus, modern, high-tech environment with a cool, bluish-gray color palette, featuring soft, diffused lighting and geometric ceiling lights that create a sense of depth and minimalism. The overall style is sleek and futuristic, with a shallow depth of field that keeps the focus sharply on the processor and the hand, while the background remains abstract and unobtrusive. The composition conveys a sense of precision, innovation, and technological advancement, reminiscent of a high-end commercial or product reveal in the tech industry.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:34.772737",
+  "word_count": 132,
+  "error_message": null
+}

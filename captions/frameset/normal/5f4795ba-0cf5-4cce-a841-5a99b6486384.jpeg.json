@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f4795ba-0cf5-4cce-a841-5a99b6486384.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, surreal scene set in a room bathed in soft, monochromatic blue lighting, creating an ethereal and dreamlike atmosphere. Two young adults stand near a large, square window cut into the wall, which glows with a warm, pale yellow light, providing a striking contrast to the cool blue surroundings. The subjects are dressed in loose, oversized white clothing that enhances the sense of purity and abstraction—one with long, blue-tinted hair and the other with dark hair styled in a topknot. Their body language suggests a moment of subtle interaction or tension, with one figure facing the window and the other turned toward them, both partially illuminated by the window’s glow. The composition is clean and geometric, with sharp lines and a shallow depth of field that keeps the focus tightly on the figures and the luminous window. The overall style is contemporary and cinematic, evoking a sense of isolation, introspection, and quiet connection within a visually striking, color-saturated environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:57.730697",
+  "word_count": 160,
+  "error_message": null
+}

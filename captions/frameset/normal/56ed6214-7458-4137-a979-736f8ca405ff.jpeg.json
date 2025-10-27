@@ -1,0 +1,12 @@
+{
+  "image_filename": "56ed6214-7458-4137-a979-736f8ca405ff.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic nighttime urban scene featuring three silhouetted figures standing in front of a burning car, its roof and interior engulfed in bright, intense flames that cast a harsh, flickering light. The figures are positioned with their backs to the viewer, their postures tense and contemplative as they face the inferno. The background is dark, with only the fire illuminating the immediate area, creating deep shadows and a strong contrast between light and darkness. Above the car, a glowing sign for a \"FROMAGERIE P'tit Plaisir\" is visible, adding a touch of everyday realism and French urban context. The color palette is dominated by the warm oranges and yellows of the fire, set against the cool, muted blues and blacks of the night. The overall style is cinematic and gritty, with a shallow depth of field that keeps the focus on the figures and the burning car, while the background remains slightly blurred. The composition is balanced and evocative, capturing a moment of tension and chaos, with a sense of narrative ambiguity and emotional weight.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:38.845256",
+  "word_count": 175,
+  "error_message": null
+}

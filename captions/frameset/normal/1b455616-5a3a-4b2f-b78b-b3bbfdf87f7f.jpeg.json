@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b455616-5a3a-4b2f-b78b-b3bbfdf87f7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with short, tousled auburn hair is captured in a candid, slightly anxious moment as she looks upward, her lips parted in anticipation or concern. She wears a dark, patterned jacket over a black graphic t-shirt, the casual attire contrasting with the tension in her expression. The setting is an interior space with muted, natural lighting filtering through a large window in the background, casting a warm, orange glow that softly diffuses into the room. The walls are pale, and a red fire hose cabinet adds a pop of color to the otherwise subdued palette. The composition is intimate, with a shallow depth of field that blurs the foreground and background, focusing attention on the subject’s face and upper body. The camera angle is slightly low and off-center, enhancing the sense of unease and immediacy. The overall style is cinematic, evoking a dramatic, suspenseful atmosphere with a realistic, almost documentary-like quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:55.248409",
+  "word_count": 153,
+  "error_message": null
+}

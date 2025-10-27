@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d7768f9-2d6d-49f7-96de-6746da4e47b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary young man in athletic clothing, including a dark t-shirt and shorts, is captured mid-stride as he runs up a set of concrete stadium steps. The scene is shot from an elevated, diagonal angle, emphasizing the steepness and repetition of the stairs, with metal railings creating strong leading lines that draw the viewer’s eye toward the runner. The background features a blurred view of a fenced sports field with visible yard lines, suggesting a football or soccer stadium. The color palette is muted and nearly monochromatic, dominated by cool grays and soft whites, lending the image a contemplative, almost cinematic quality. The lighting is diffuse and natural, with no harsh shadows, evoking an overcast day and enhancing the sense of solitude and focus. The overall composition conveys determination and perseverance, with a shallow depth of field that keeps the runner in sharp focus while the background remains softly out of focus, heightening the sense of motion and isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:23.571572",
+  "word_count": 159,
+  "error_message": null
+}

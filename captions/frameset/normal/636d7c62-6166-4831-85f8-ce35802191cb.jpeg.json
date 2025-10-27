@@ -1,0 +1,12 @@
+{
+  "image_filename": "636d7c62-6166-4831-85f8-ce35802191cb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA middle-aged man sits alone at a desk in a dimly lit, cozy study, working intently on a laptop. He wears a blue chambray shirt with the sleeves rolled up and a dark tie, his expression focused and contemplative as soft, warm light from a desk lamp illuminates his face and the immediate area. The room is filled with stacks of books, both on the desk and on a large wooden shelf behind him, creating an atmosphere of intellectual solitude and quiet concentration. The background is softly blurred, with muted earth tones and gentle shadows, enhancing the intimate, cinematic mood. The lighting is low-key and naturalistic, with a subtle play of light and shadow that suggests evening or nighttime. The composition is carefully balanced, with the man positioned slightly off-center, and the camera angle is at eye level, drawing the viewer into the scene. The overall style is reminiscent of a contemplative drama film, with a subdued color palette dominated by blues, browns, and warm whites, and a shallow depth of field that keeps the focus on the subject while softly blending the background details.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:46.919033",
+  "word_count": 186,
+  "error_message": null
+}

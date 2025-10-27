@@ -1,0 +1,12 @@
+{
+  "image_filename": "2edbc8c8-b15e-42d4-9b2b-9facc49d530e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, intimate interior scene set in a modest, slightly worn kitchen. The composition is divided by a doorway, with the left foreground dominated by a round wall clock showing the time as 7:10. The clock is mounted on a faded, textured wall, with a visible old-fashioned light switch and exposed wiring, adding a sense of age and realism. Through the doorway, the background reveals a softly lit kitchen with warm, natural light filtering in from a window, casting gentle shadows and creating a cozy, nostalgic atmosphere. The kitchen features wooden cabinets, a white dishwasher, and a countertop cluttered with everyday items like dishes and a box, suggesting recent activity. The color palette is muted and earthy, with soft browns, creams, and hints of blue from the window light. The focus is shallow, with the clock and wall in sharp detail while the kitchen beyond is softly blurred, emphasizing depth and drawing the viewer’s eye through the scene. The overall style is reminiscent of a quiet, contemplative moment in an indie film, evoking a sense of stillness, routine, and lived-in warmth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:58.349565",
+  "word_count": 181,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b74884c-8bd3-4a85-8bac-8587c0a7f523.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in a stark, minimalist architectural environment composed of towering, monolithic concrete walls. The person, dressed in a fitted, dark suit, is positioned near the center-right of the frame, caught mid-step as if cautiously navigating the labyrinthine space. Their posture is tense and alert, with hands slightly raised, suggesting uncertainty or apprehension. The lighting is dramatic and high-contrast, with a single shaft of cool, bluish daylight streaming down from above, illuminating the figure and casting deep, angular shadows across the ground and walls. The color palette is dominated by cold grays, deep blues, and muted blacks, enhancing the sense of isolation and introspection. The composition employs a wide, cinematic aspect ratio, with a high vantage point and deep depth of field, emphasizing the scale and oppressive geometry of the setting. The overall mood is enigmatic and suspenseful, evoking themes of existential searching or psychological tension, reminiscent of a scene from a modernist thriller or an art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:04.269991",
+  "word_count": 160,
+  "error_message": null
+}

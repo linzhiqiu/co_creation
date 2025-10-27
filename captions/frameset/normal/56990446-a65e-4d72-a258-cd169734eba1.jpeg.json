@@ -1,0 +1,12 @@
+{
+  "image_filename": "56990446-a65e-4d72-a258-cd169734eba1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set indoors with three men seated against an ornate, vintage-patterned wallpaper. The central figure, whose face is obscured, holds a large newspaper that is dramatically engulfed in bright, realistic flames at its center, the fire casting a warm, flickering glow on the paper and partially illuminating the faces of the men. The two men flanking the central figure are dressed in stylish, dark clothing with subtle accessories, their expressions calm and composed, contrasting with the chaos of the burning newspaper. The color palette is rich and muted, dominated by deep browns, warm ambers, and soft shadows, creating a sense of tension and surrealism. The lighting is low and atmospheric, with the fire providing the primary source of illumination, enhancing the dramatic effect. The composition is carefully balanced, with the burning newspaper as the focal point, and a shallow depth of field subtly blurring the background to draw attention to the subjects and the flames. The overall style is reminiscent of contemporary editorial photography with a touch of surrealism, evoking a sense of mystery and quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:29.407951",
+  "word_count": 180,
+  "error_message": null
+}

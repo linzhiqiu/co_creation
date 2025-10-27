@@ -1,0 +1,12 @@
+{
+  "image_filename": "533b33c5-b0c9-4c5f-b3fa-7fc2f559a3a7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic scene viewed from a high, top-down perspective: two figures are captured in dynamic motion against a vast, textured concrete floor bathed in cool, desaturated blue-gray tones. One figure, dressed in a fitted, light gray long-sleeve shirt and dark pants, is caught mid-leap, body arched and limbs extended gracefully, as if suspended in flight above the ground. Below, a second figure in darker clothing stands with arms raised, gazing upward toward the airborne person, their posture suggesting anticipation or confrontation. The lighting is soft and diffused, casting subtle shadows that enhance the sense of depth and movement. The composition is minimalist, with the empty expanse of the floor emphasizing the isolation and tension between the two subjects. The overall mood is moody and suspenseful, evoking a sense of frozen action and emotional intensity, reminiscent of a stylized dance or a pivotal moment in a psychological thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:06.961761",
+  "word_count": 148,
+  "error_message": null
+}

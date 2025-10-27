@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d930e43-71cb-4d3b-9c2b-f42adfda4fb2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, dreamlike scene set within an architectural labyrinth of interlocking staircases, inspired by Escher’s impossible constructions. The environment is composed entirely of angular, geometric forms, with sharp lines and right angles, all painted in varying shades of deep blue and cool cyan, creating a monochromatic, almost otherworldly atmosphere. The lighting is soft yet dramatic, casting gentle shadows that enhance the sense of depth and mystery. At the center of the composition, a solitary figure stands on one of the staircases, dressed in minimal, light-colored clothing that contrasts starkly with the blue surroundings. The figure’s posture is contemplative, gazing upward as if searching for an exit or pondering the endless maze. The camera angle is a high, almost top-down perspective, emphasizing the scale and complexity of the architecture while making the human subject appear small and isolated. The overall style is cinematic and meticulously composed, with a strong sense of symmetry and abstraction, evoking feelings of solitude, introspection, and surreal wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:30.728081",
+  "word_count": 161,
+  "error_message": null
+}

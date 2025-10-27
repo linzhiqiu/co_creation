@@ -1,0 +1,12 @@
+{
+  "image_filename": "18ad9290-ae15-40c9-b275-a475af56d5f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA futuristic industrial warehouse interior, bathed in cool, diffused lighting with a slightly desaturated, cinematic color palette of grays, metallic silvers, and muted yellows. The central subject is a humanoid robot with a human-like face and exposed mechanical torso and arms, standing behind a stack of large, rugged storage cases and cardboard boxes. The robot’s arms are raised triumphantly, its expression a mix of determination and satisfaction, suggesting a moment of achievement or command. In the background, additional robots with similar designs are visible, engaged in various tasks, adding depth and a sense of bustling activity. The warehouse is detailed with industrial elements: concrete walls, yellow safety markings, overhead pipes, and numbered signs, all contributing to a gritty, utilitarian atmosphere. The camera angle is at eye level, with a slight wide-angle lens effect that emphasizes the scale of the environment and the prominence of the central figure. The overall style is reminiscent of high-budget science fiction films, with sharp focus on the main subject and a subtle depth of field that softly blurs the background, enhancing the sense of immersion and realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:02.359781",
+  "word_count": 183,
+  "error_message": null
+}

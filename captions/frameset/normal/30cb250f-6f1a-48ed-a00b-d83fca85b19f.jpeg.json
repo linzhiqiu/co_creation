@@ -1,0 +1,12 @@
+{
+  "image_filename": "30cb250f-6f1a-48ed-a00b-d83fca85b19f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, ethereal cosmic scene unfolds, dominated by swirling nebulae rendered in luminous shades of violet, indigo, and deep magenta. Wisps of interstellar gas and dust stretch across the composition, creating a sense of depth and movement as they drift through the darkness of space. Scattered throughout the scene are countless tiny, radiant stars, their white and pale blue points of light punctuating the velvety blackness. The nebulae glow with an inner light, their edges softly diffused, blending seamlessly into the surrounding void. The color palette is cool and mysterious, with subtle gradients of purple and blue interspersed with hints of pink and soft white highlights. The overall style is cinematic and otherworldly, evoking the grandeur and mystery of deep space. The perspective is wide and immersive, as if captured by a high-resolution space telescope, with a gentle sense of depth of field that draws the viewer into the heart of the nebula. The lighting is diffuse and ambient, with no single source, enhancing the dreamlike, infinite quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:41.440378",
+  "word_count": 171,
+  "error_message": null
+}

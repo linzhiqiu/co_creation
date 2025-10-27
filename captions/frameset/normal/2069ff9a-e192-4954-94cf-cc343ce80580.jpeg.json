@@ -1,0 +1,12 @@
+{
+  "image_filename": "2069ff9a-e192-4954-94cf-cc343ce80580.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set in a traditional Japanese room with tatami mat flooring, viewed from a high, almost overhead camera angle. Three people lie side by side on their backs, parallel to the tatami lines, creating a strong sense of symmetry and composition. The central figure is a young woman dressed in a patterned kimono with a bold black and red obi, her hair styled neatly, and her expression serene and composed. Flanking her on either side are two men in Western-style suits: one in a light gray suit with a bow tie, the other in a black-and-white checkered suit, both with their arms relaxed at their sides. The lighting is soft and diffused, casting gentle shadows and emphasizing the muted, earthy tones of the tatami and the subdued colors of the clothing. The overall mood is calm and contemplative, with a subtle tension suggested by the unusual positioning of the characters. The style is reminiscent of classic Japanese cinema, with careful attention to composition, color harmony, and emotional restraint.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:48.884165",
+  "word_count": 170,
+  "error_message": null
+}

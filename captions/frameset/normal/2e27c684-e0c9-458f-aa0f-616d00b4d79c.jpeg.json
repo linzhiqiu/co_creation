@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e27c684-e0c9-458f-aa0f-616d00b4d79c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, close-up side profile of a young woman driving a car during daylight. She has long, light brown hair that catches the soft, natural sunlight streaming through the window, creating gentle highlights. Her expression is focused and contemplative, with her lips slightly pursed and eyes looking intently at the road ahead. She grips the steering wheel with both hands, her posture upright and alert. The interior of the car is modern, with a visible Toyota logo on the steering wheel, and the window frames a blurred, sunlit landscape of green foliage and blue sky, suggesting motion and a sense of journey. The color palette is natural and subdued, with cool blues and greys from the car’s interior contrasting with the warm tones of her hair and the soft daylight. The depth of field is shallow, keeping the subject sharply in focus while the background is softly blurred, enhancing the sense of movement and drawing attention to her expression. The overall style is realistic and cinematic, with a slight filmic grain and a naturalistic approach to lighting, evoking a mood of introspection and quiet determination.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:42.052414",
+  "word_count": 185,
+  "error_message": null
+}

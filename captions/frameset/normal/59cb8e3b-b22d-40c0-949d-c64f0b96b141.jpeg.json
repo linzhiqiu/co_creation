@@ -1,0 +1,12 @@
+{
+  "image_filename": "59cb8e3b-b22d-40c0-949d-c64f0b96b141.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic close-up portrait of a rugged, weathered man in his late 40s, with dark, unkempt hair and a scruffy beard. His face is intensely expressive, contorted in a mix of desperation, anger, and exhaustion, with sweat glistening on his tanned, sunburned skin. He wears a brown corduroy jacket over a faded shirt, the collar slightly open and disheveled. The background is a sunlit, arid landscape dotted with rows of old, weathered gravestones, suggesting a desolate cemetery in the American West. The color palette is earthy and muted, dominated by browns, tans, and dusty greens, with harsh, natural sunlight casting strong shadows and highlighting the texture of the man's face and clothing. The camera angle is tight and slightly low, focusing on the man's face and upper shoulders, with a shallow depth of field that blurs the graveyard behind him, intensifying the emotional impact. The overall style is cinematic, evoking the gritty realism and tension of a classic Western film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:46.613725",
+  "word_count": 161,
+  "error_message": null
+}

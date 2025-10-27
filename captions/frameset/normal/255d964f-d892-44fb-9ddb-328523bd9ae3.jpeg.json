@@ -1,0 +1,12 @@
+{
+  "image_filename": "255d964f-d892-44fb-9ddb-328523bd9ae3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, cinematic shot of a vast underground cavern filled with dramatic stalactites hanging from the ceiling, illuminated by soft, warm artificial lighting that highlights the intricate textures of the rock formations. A group of small human figures, dressed in casual, dark-colored clothing, walk along a narrow metal walkway that cuts horizontally across the lower third of the frame, emphasizing the immense scale of the cave. The background is dominated by the rugged, uneven cave ceiling, densely packed with long, tapering mineral formations, while the lower part of the image fades into shadowy depths, adding a sense of mystery and grandeur. The overall color palette is earthy and subdued, with shades of brown, beige, and ochre, contrasted by the subtle glow of the lights. The composition uses a high vantage point, creating a sense of awe and exploration, and the depth of field keeps both the foreground walkway and the distant cave walls in sharp focus, enhancing the immersive, documentary-like quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:34.615063",
+  "word_count": 164,
+  "error_message": null
+}

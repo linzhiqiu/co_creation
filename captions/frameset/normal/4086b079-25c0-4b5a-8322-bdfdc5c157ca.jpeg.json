@@ -1,0 +1,12 @@
+{
+  "image_filename": "4086b079-25c0-4b5a-8322-bdfdc5c157ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man is lying face-down in deep, fresh snow, struggling to push himself up. He wears a thick, olive-green winter jacket and a knitted beanie hat with bold red, white, and blue stripes. His face is contorted in a grimace, teeth clenched, as he exerts effort against the heavy snow. Snowflakes cling to his clothing and hat, emphasizing the cold and immersive environment. The background is a seamless expanse of pristine white snow, with no visible landmarks or objects, creating a sense of isolation and focus on the subject. The lighting is diffuse and soft, likely from an overcast sky, casting minimal shadows and enhancing the cold, wintry atmosphere. The camera angle is slightly above and in front of the man, capturing his expression and the texture of the snow in sharp detail, with a shallow depth of field that blurs the background and draws attention to the subject’s struggle. The overall style is realistic and cinematic, evoking a sense of challenge and resilience in a harsh winter landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:18.830217",
+  "word_count": 169,
+  "error_message": null
+}

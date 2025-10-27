@@ -1,0 +1,12 @@
+{
+  "image_filename": "3997892e-0668-44d9-a163-51ffcdfcdb57.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic close-up shot of a person interacting with a subway map, their finger gently pressing on the station labeled \"Rochor.\" The focus is on the illuminated, slightly blurred map, with colorful intersecting lines and station names like \"Little India\" and \"Newton\" visible, evoking the complexity of urban transit. The person’s silhouette is out of focus in the foreground, their head and hand softly obscured, creating a sense of anonymity and introspection. The lighting is dim and moody, with cool, muted tones and a shallow depth of field that draws attention to the map’s details while the background fades into darkness. The overall style is reminiscent of a contemplative, modern drama, with a subtle, atmospheric quality that emphasizes the quiet moment of decision or navigation within a bustling city.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:51.354829",
+  "word_count": 130,
+  "error_message": null
+}

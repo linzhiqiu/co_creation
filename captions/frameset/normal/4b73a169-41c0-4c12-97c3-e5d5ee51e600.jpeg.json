@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b73a169-41c0-4c12-97c3-e5d5ee51e600.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit bedroom scene at dawn, captured with a cinematic, moody atmosphere. The focal point is a digital alarm clock on a small bedside table, its red LED display reading \"5:00\" glowing vividly in the darkness. The room is bathed in deep blue tones, suggesting early morning or pre-sunrise light filtering softly through unseen windows. The foreground is blurred, possibly the silhouette of a person lying in bed, adding depth and a sense of quiet anticipation. The background is minimal, with indistinct objects and soft shadows, emphasizing the solitude and stillness of the moment. The overall composition uses a shallow depth of field, drawing the viewer’s eye to the clock while maintaining a sense of mystery and calm. The lighting is low and cool, evoking a contemplative, almost cinematic mood, as if capturing the quiet transition between night and the start of a new day.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:03.278462",
+  "word_count": 146,
+  "error_message": null
+}

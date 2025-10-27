@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e60e17b-4648-4cca-8b7f-038de6b11a3d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a close-up portrait of a man with a serious, slightly pained expression, his face turned partially toward the camera as he glances sideways. He has a short, dark beard with visible stubble and closely cropped hair. His skin tone is medium brown, and his eyes are moist, suggesting strong emotion or the verge of tears. He wears a collared shirt and a brown jacket, the collar slightly visible at the bottom of the frame. The background is softly out of focus, featuring a glass door or window with a faint, textured pattern, and a cool, clinical ambiance, possibly suggesting a hospital or institutional setting. The lighting is naturalistic and subdued, casting gentle shadows that emphasize the texture of his skin and the intensity of his gaze. The color palette is muted, dominated by earthy browns, grays, and soft whites, contributing to a somber, introspective mood. The composition is intimate, with a shallow depth of field isolating the subject and drawing attention to the raw emotion in his expression, reminiscent of a dramatic, character-driven film scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:45.458271",
+  "word_count": 177,
+  "error_message": null
+}

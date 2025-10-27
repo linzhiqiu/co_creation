@@ -1,0 +1,12 @@
+{
+  "image_filename": "17fbe8f2-eb67-46f9-925d-103b2ac30ec1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man dressed in a full-body green motion capture suit stands in the foreground, holding a smartphone up to the camera. The phone screen is clearly visible, displaying a financial app with a bar graph and the logo \"Tangerine\" in orange and white. The man’s face is partially visible, with a neutral, focused expression, and the suit covers his head, leaving only his face exposed. In the background, the entire set is covered in bright green chroma key material, with indistinct figures and props also clad in green, blending into the environment. The lighting is even and bright, eliminating shadows and emphasizing the artificial, studio-like atmosphere. The composition uses a shallow depth of field, keeping the phone and the man in sharp focus while the background is softly blurred. The overall style is cinematic and surreal, highlighting the behind-the-scenes nature of visual effects production, with a playful, slightly absurd tone due to the green suits and the contrast between the mundane phone app and the fantastical set.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:41.488821",
+  "word_count": 167,
+  "error_message": null
+}

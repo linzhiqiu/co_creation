@@ -1,0 +1,12 @@
+{
+  "image_filename": "2735b237-55a0-403c-87ba-18b041069574.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands in profile in a minimalist, modern room, silhouetted against a large window that dominates the background. The window lets in a cold, diffused blue-grey light, casting the entire scene in a subdued, almost melancholic atmosphere. The man is bald, wearing a simple, dark long-sleeve shirt and pants, and his posture is expressive—arms raised and slightly bent, hands extended as if he is reaching out or performing a slow, deliberate gesture. His expression is contemplative, focused on the movement of his hands. The room is sparsely furnished, with a small potted plant and a few indistinct objects resting on a radiator beneath the window, emphasizing the sense of emptiness and introspection. The composition is wide and cinematic, with a shallow depth of field that keeps the man in sharp focus while the background remains softly blurred. The overall style is minimalist and atmospheric, evoking a quiet, introspective mood, with cool tones and soft, natural lighting that enhances the sense of solitude and reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:10.357568",
+  "word_count": 166,
+  "error_message": null
+}

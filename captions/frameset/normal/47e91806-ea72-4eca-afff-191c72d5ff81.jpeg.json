@@ -1,0 +1,12 @@
+{
+  "image_filename": "47e91806-ea72-4eca-afff-191c72d5ff81.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with curly hair, wearing a vibrant red patterned blouse, stands in a softly lit interior hallway. She gazes upward with a contemplative, almost wistful expression, her face illuminated by a gentle, diffused light that casts dramatic shadows on the wall in front of her. One hand is raised, lightly touching the wall as if tracing the shadow or reaching toward the source of light. The background features an open doorway leading to a warmly lit room, with muted beige and amber tones that contrast with the cooler, bluish hues of the hallway. The composition is intimate and cinematic, shot from a low angle that emphasizes the subject’s upward gaze and the play of light and shadow. The depth of field is shallow, keeping the woman and the wall in sharp focus while the background remains softly blurred, enhancing the sense of introspection and quiet mystery. The overall mood is contemplative and atmospheric, with a painterly quality reminiscent of classic film stills, evoking a sense of longing or discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:51.705831",
+  "word_count": 171,
+  "error_message": null
+}

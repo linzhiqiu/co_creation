@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d13650b-a269-4f03-b0f7-d1410350fa20.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply focused, cinematic portrait of a man standing in an elevator, captured from a straight-on, eye-level angle. The subject is a young adult with fair skin, short curly dark hair, and a neatly groomed beard. He wears large, stylish dark-rimmed glasses and a tailored dark blue suit with a matching dress shirt and tie, exuding a modern, professional look. His expression is serious and slightly tense, with wide eyes and a furrowed brow, suggesting anticipation or anxiety. The background consists of smooth, light wood paneling, softly lit with warm, even lighting that creates a subtle contrast with the cooler tones of his attire. The composition is symmetrical and centered, with a shallow depth of field that keeps the focus on the man's face while gently blurring the background, evoking a sense of isolation and introspection. The overall style is clean, polished, and reminiscent of a dramatic film still, with a muted, naturalistic color palette and a sense of quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:16.605246",
+  "word_count": 161,
+  "error_message": null
+}

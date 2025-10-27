@@ -1,0 +1,12 @@
+{
+  "image_filename": "459d50e8-de2b-4f48-8f97-db703736e478.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands typing on a laptop, with the screen displaying a Google Street View scene. The main focus on the screen is a wooden park sign reading “PAVONA PARK,” surrounded by lush green trees and a sunlit, grassy park in the background. The lighting is warm and natural, suggesting late afternoon or early evening, with soft golden sunlight filtering through a window, casting gentle shadows. In the blurred foreground, the person’s hands are poised over the keyboard, suggesting concentration and engagement. To the left, an American flag is partially visible, adding a subtle patriotic touch. The background is softly out of focus, with cream-colored curtains and a hint of a banana and a closed book or DVD case on the table, contributing to a lived-in, domestic atmosphere. The overall color palette is warm and inviting, with earthy greens, browns, and golden tones dominating the scene. The composition uses a shallow depth of field to draw attention to the laptop screen, creating an intimate, contemplative mood reminiscent of a quiet moment of exploration or research.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:09.178422",
+  "word_count": 180,
+  "error_message": null
+}

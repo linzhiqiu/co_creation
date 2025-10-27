@@ -1,0 +1,12 @@
+{
+  "image_filename": "580affe2-a7be-4d06-87c4-de47ee4cd31b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric forest scene with a focus on a large, ancient tree at the center of the composition. The tree’s bark is weathered and textured, with subtle, almost hidden carvings or natural formations that resemble a human face, blending eerily into the trunk. Surrounding the tree are dense, tangled branches and vines, some crossing the foreground and partially obscuring the view, adding depth and a sense of wild overgrowth. The background is a blur of green foliage and shadow, evoking a mysterious, untouched jungle. The color palette is dominated by deep, earthy greens and browns, with muted, natural lighting that filters softly through the canopy, casting gentle highlights and shadows. The overall mood is enigmatic and slightly unsettling, with a shallow depth of field that draws the viewer’s eye to the hidden face in the tree, while the rest of the forest recedes into a soft, moody blur. The style is reminiscent of a suspenseful adventure film, with a focus on texture, atmosphere, and the uncanny blending of nature and the supernatural.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:05.782480",
+  "word_count": 174,
+  "error_message": null
+}

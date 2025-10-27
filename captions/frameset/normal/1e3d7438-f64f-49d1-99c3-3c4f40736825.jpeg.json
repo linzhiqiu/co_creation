@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e3d7438-f64f-49d1-99c3-3c4f40736825.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle cinematic shot of a construction site under a clear blue sky, featuring two large yellow excavators positioned prominently in the foreground. Both excavators face forward, their massive metal buckets resting on a mound of gray gravel that dominates the center and background of the scene. The gravel pile rises high, creating a textured, undulating landscape that contrasts with the smooth, industrial lines of the machinery. The excavators’ arms are slightly raised, suggesting readiness for work, while their cabins and hydraulic components are rendered in sharp detail. The color palette is dominated by cool grays and blues from the gravel and sky, punctuated by the bold, industrial yellow of the excavators. Lighting is natural and bright, casting soft shadows and highlighting the metallic surfaces. The composition is balanced and symmetrical, with the two machines framing the central gravel mound, evoking a sense of scale and industrial power. The overall style is crisp and realistic, with a shallow depth of field that keeps the focus on the excavators and gravel, while the distant background remains softly blurred, enhancing the sense of depth and space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:06.656313",
+  "word_count": 184,
+  "error_message": null
+}

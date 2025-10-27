@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a786f20-5a57-4ae1-a719-5cce930e695f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot focusing on a person’s hands holding a smartphone, capturing a photo of a woman standing against a softly blurred, pastel-colored backdrop. The phone’s screen is in sharp focus, displaying the image of the woman, who is dressed in a white, off-the-shoulder top and looking directly at the camera with a neutral expression. The background is out of focus, featuring abstract, colorful shapes and soft lighting that creates a gentle, airy atmosphere. The composition emphasizes the act of taking a photo, with the phone and hands dominating the foreground, while the subject on the screen is framed centrally. The color palette is light and muted, with whites, soft grays, and hints of pastel colors, evoking a modern, candid, and slightly dreamy mood. The overall style is contemporary and documentary-like, with a natural, unposed feeling and a focus on the interplay between digital and real-life perspectives.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:37.744493",
+  "word_count": 149,
+  "error_message": null
+}

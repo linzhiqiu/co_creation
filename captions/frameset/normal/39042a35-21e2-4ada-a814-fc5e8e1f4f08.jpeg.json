@@ -1,0 +1,12 @@
+{
+  "image_filename": "39042a35-21e2-4ada-a814-fc5e8e1f4f08.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A spacious, modern office atrium bathed in soft, natural daylight streaming through large skylights above. The scene is composed with a wide-angle lens, capturing two levels of the open-plan workspace. The upper floor features a glass and light wood railing, behind which several office workers in business-casual attire are leaning at impossible angles, as if gravity is pulling them sideways rather than down. Their postures are relaxed yet surreal, with some holding coffee cups or folders, and one person in a bright pink jacket standing out among more muted tones of navy, gray, and beige. \n\nOn the lower level, cubicles are arranged in neat rows, with a few employees visible, some seated at desks, others walking or standing. A grand staircase with maroon carpeting and golden handrails descends diagonally through the center of the frame, adding dynamic lines and depth. Potted plants and greenery soften the geometric architecture, while the overall color palette is cool and neutral, punctuated by occasional pops of color from clothing and office decor. The lighting is even and diffuse, creating a calm, almost dreamlike atmosphere. The composition is meticulously balanced, with a slight sense of surrealism and whimsy, reminiscent of a Wes Anderson or Michel Gondry film, blending everyday corporate life with a subtle, gravity-defying twist.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:43.127614",
+  "word_count": 211,
+  "error_message": null
+}

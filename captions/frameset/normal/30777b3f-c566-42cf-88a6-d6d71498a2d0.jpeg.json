@@ -1,0 +1,12 @@
+{
+  "image_filename": "30777b3f-c566-42cf-88a6-d6d71498a2d0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, sunlit desert landscape stretches across the frame, its sandy, pale beige surface almost blending into the horizon. In the distance, a series of low, rounded dunes create gentle undulations, adding subtle texture to the otherwise flat expanse. The sky dominates the upper half of the composition, painted in a deep, vibrant blue and scattered with fluffy, well-defined white clouds, casting soft shadows and lending a sense of depth and openness to the scene. On the far left, a solitary white lighthouse stands as a stark, vertical accent against the horizontal sweep of the desert, its clean lines and bright color contrasting sharply with the natural tones around it. The lighting is bright and crisp, suggesting midday sun, with high clarity and minimal haze. The overall style is cinematic, evoking a sense of isolation and tranquility, with a wide-angle perspective that emphasizes the scale and emptiness of the environment. The color palette is dominated by cool blues and warm sandy hues, creating a striking yet serene visual impression.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:31.437367",
+  "word_count": 169,
+  "error_message": null
+}

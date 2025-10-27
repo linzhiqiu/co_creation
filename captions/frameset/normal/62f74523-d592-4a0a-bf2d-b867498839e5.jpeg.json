@@ -1,0 +1,12 @@
+{
+  "image_filename": "62f74523-d592-4a0a-bf2d-b867498839e5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of a mechanical gear with a striking, hand-painted red and white spiral pattern at its center. The gear is surrounded by an intricate tangle of metallic pipes, springs, and industrial components, all rendered in a gritty, weathered style. The lighting is moody and dramatic, casting deep shadows and bathing the scene in a warm, sepia-toned glow that emphasizes the aged, almost steampunk aesthetic. The focus is sharp on the gear and its hypnotic spiral, while the surrounding machinery fades into a soft blur, creating a shallow depth of field. The overall mood is tense and mysterious, evoking a sense of mechanical menace and psychological intrigue, as if the viewer has stumbled upon a crucial, enigmatic device in a suspenseful thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:28.859241",
+  "word_count": 125,
+  "error_message": null
+}

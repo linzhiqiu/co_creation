@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b1d5be9-9afa-4dff-a45d-bf2f653a679b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot in a dimly lit, upscale restaurant or lounge. In the foreground, a hand holds a modern wireless payment terminal, its screen glowing with a blue interface displaying a contactless payment symbol and the amount \"$42.95.\" The device is sharply in focus, drawing immediate attention, while the background is artfully blurred, revealing softly illuminated patrons engaged in conversation at tables, their forms and faces indistinct. Warm, ambient lighting from candles and overhead fixtures casts a cozy, intimate atmosphere, with rich tones of amber, gold, and deep shadows dominating the color palette. The composition emphasizes the transaction moment, with the out-of-focus background suggesting a lively yet refined social setting. The overall style is cinematic, evoking a sense of modern urban sophistication and the seamless integration of technology into everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:36.406058",
+  "word_count": 133,
+  "error_message": null
+}

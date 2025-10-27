@@ -1,0 +1,12 @@
+{
+  "image_filename": "528be026-11ed-4022-8eda-8d951a363ed6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a coach’s tactical clipboard, featuring a detailed soccer field diagram drawn in blue marker. Bold, dynamic arrows indicate strategic player movements and passing routes, with some arrows curving and intersecting, suggesting an active game plan. A transparent overlay with diagonal hatching and Korean text adds a layer of complexity and focus to a specific area of the field. The clipboard is held at an angle, filling most of the frame, while the blurred background reveals hints of an outdoor sports court and lush greenery, softly lit by natural daylight. The color palette is clean and modern, dominated by crisp whites and cool blues, with subtle green and red tones in the out-of-focus background. The overall style is cinematic and documentary-like, with a shallow depth of field that draws attention to the tactical details, evoking a sense of preparation, strategy, and anticipation before a crucial match.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:48.553812",
+  "word_count": 149,
+  "error_message": null
+}

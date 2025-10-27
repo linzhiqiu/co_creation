@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ac769a1-2b02-4af1-980c-c59665d1c1bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, close-up image of numerous metallic, cylindrical machine parts arranged in a grid-like pattern. The composition is symmetrical, with two sections of neatly organized, shiny silver components on the left and right, separated by a central section filled with a chaotic pile of similar parts. The lighting is cool and industrial, casting sharp reflections and highlights on the polished metal surfaces, emphasizing their smooth, machined texture. The color palette is dominated by silvery grays and deep shadows, creating a sense of precision and mechanical order. The camera angle is directly overhead, providing a flat, almost abstract perspective that accentuates the repetitive geometry and contrast between order and disorder. The overall style is crisp and industrial, with a focus on texture, symmetry, and the interplay of light on metal.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:23.274986",
+  "word_count": 130,
+  "error_message": null
+}

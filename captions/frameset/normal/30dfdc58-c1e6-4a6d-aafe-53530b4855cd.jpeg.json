@@ -1,0 +1,12 @@
+{
+  "image_filename": "30dfdc58-c1e6-4a6d-aafe-53530b4855cd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a multi-lane highway filled with vehicles, captured from directly overhead. The composition is symmetrical and orderly, with cars, SUVs, and a single large truck arranged in neat rows across at least six lanes, creating a sense of urban congestion and routine. The vehicles are spaced with moderate gaps, suggesting slow-moving or stopped traffic. The color palette is dominated by neutral tones—grays, blacks, whites, and silvers—punctuated by a few standout vehicles in red and beige, adding visual interest. The road surface is sunlit, with soft shadows cast beneath each vehicle, indicating midday lighting and clear weather. The overall style is crisp and documentary, with sharp focus and high detail, emphasizing the repetitive patterns and geometry of modern transportation infrastructure. The mood is calm yet slightly tense, evoking the everyday experience of city commuting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:40.052635",
+  "word_count": 137,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "130eba80-6e1e-495f-a8b8-16d1d4e17956.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A stark, minimalist architectural scene set within a narrow, monolithic concrete corridor. The towering walls on either side are smooth, cold, and slightly weathered, their surfaces catching subtle variations of gray under a diffuse, overcast sky. At the end of the corridor, a large, luminous cube made of frosted glass panels emits a soft, ethereal white glow, casting gentle reflections on the polished, wet floor below. The light from the cube creates a striking contrast against the muted, shadowy environment, drawing the viewer’s eye toward the vanishing point. The overall color palette is dominated by cool grays and whites, with a hint of pale green in the sky, evoking a sense of isolation and quiet contemplation. The composition is symmetrical and precise, with a centered perspective that emphasizes depth and the geometric purity of the space. The atmosphere is serene and enigmatic, reminiscent of contemporary art installations or cinematic science fiction, with a focus on light, texture, and spatial tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:51.491354",
+  "word_count": 160,
+  "error_message": null
+}

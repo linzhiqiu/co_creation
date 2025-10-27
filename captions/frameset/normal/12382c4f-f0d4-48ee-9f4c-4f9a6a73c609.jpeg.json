@@ -1,0 +1,12 @@
+{
+  "image_filename": "12382c4f-f0d4-48ee-9f4c-4f9a6a73c609.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody interior scene featuring a woman with long dark hair, dressed in a simple, dark outfit, sitting on a low stool or bench. She is holding an open laptop on her lap, gazing intently at the screen with a focused, contemplative expression. The lighting is soft and dramatic, with a strong, diffused white light source illuminating her from the right, casting gentle shadows and creating a high-contrast atmosphere. The background is dimly lit, with warm, muted tones and vertical lines suggesting curtains or blinds, adding depth and subtle texture. The overall color palette is subdued, dominated by deep blacks, soft browns, and gentle highlights. The composition is intimate, with a shallow depth of field that keeps the woman and her laptop in sharp focus while the background remains blurred. The camera angle is slightly off-center, at eye level, enhancing the sense of quiet concentration and introspection. The style evokes a modern, minimalist aesthetic with a touch of cinematic realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:28.991409",
+  "word_count": 162,
+  "error_message": null
+}

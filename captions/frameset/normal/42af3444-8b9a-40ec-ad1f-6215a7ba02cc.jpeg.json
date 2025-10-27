@@ -1,0 +1,12 @@
+{
+  "image_filename": "42af3444-8b9a-40ec-ad1f-6215a7ba02cc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, intimate portrait of two young men with tousled blond hair standing in a minimalist, modern interior with pale, unfinished plywood walls. The composition is carefully framed: one subject is in the left foreground, facing the camera with a pensive, slightly wary expression, his blue eyes glancing sideways. He wears a dark jacket and a loosely wrapped black scarf, his features softly illuminated by diffused, natural light that creates gentle shadows and a muted, almost melancholic atmosphere. The second young man stands with his back to the camera, positioned slightly to the right and further away, wearing a striking cobalt blue jacket with a dark collar. The background is simple and uncluttered, emphasizing the raw texture of the wood paneling and drawing focus to the subjects. The color palette is subdued, dominated by cool blues, soft beiges, and neutral tones, enhancing the contemplative mood. The overall style is reminiscent of European arthouse cinema, with a shallow depth of field, subtle lighting, and a sense of quiet tension between the two figures.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:16.675472",
+  "word_count": 173,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e8cba24-ba7c-4434-bbea-107aab32ceac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dimly lit, atmospheric workspace at night, featuring a focused man in his early thirties with short brown hair and glasses, seated at a cluttered desk. He wears a casual plaid shirt and is intently working on a laptop, with a second monitor beside him displaying a 3D model in blue tones. The desk is scattered with electronic components, wires, and a magnifying lamp, suggesting a scene of technical creativity or engineering. The background is softly blurred, with warm, out-of-focus lights adding depth and a sense of quiet isolation. The color palette is dominated by cool blues from the screens, contrasted with warm amber highlights from the ambient lighting. The composition uses a shallow depth of field, drawing attention to the man’s concentrated expression and the illuminated screens, evoking a cinematic, contemplative mood reminiscent of late-night innovation or problem-solving.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:17.603867",
+  "word_count": 140,
+  "error_message": null
+}

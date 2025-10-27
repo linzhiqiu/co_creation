@@ -1,0 +1,12 @@
+{
+  "image_filename": "5620d1d9-a1eb-420e-9ffc-27d27b6e5edc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with platinum blonde hair tied in a neat bun sits at a modern desk in a dimly lit, creative studio. She is intently focused on her work, using a stylus and tablet to manipulate a 3D model displayed on a large monitor, while a laptop beside her shows reference images and sketches. The room has an industrial feel, with exposed white brick walls and a mix of cool and warm lighting—soft yellow illumination washes over the right side of the scene, casting dramatic shadows and creating a moody, cinematic atmosphere. Behind her, posters and color charts are pinned to the wall, hinting at a workspace dedicated to digital art or design. The composition is intimate, shot from a side angle with a shallow depth of field that keeps the woman and her screens in sharp focus while the background blurs gently. The color palette is dominated by muted tones—grays, blacks, and the warm yellow glow—emphasizing the contemplative, creative mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:15.891721",
+  "word_count": 165,
+  "error_message": null
+}

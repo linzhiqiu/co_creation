@@ -1,0 +1,12 @@
+{
+  "image_filename": "485fc269-247f-4e8a-b93d-794341a33adf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary, winding road cuts through a vast, darkened landscape of dense forest and open grassy fields, viewed from a high aerial perspective. The scene is enveloped in deep twilight or early dawn, with a moody, desaturated color palette dominated by cool blues, muted greens, and inky shadows. A single car, small and isolated, travels along the illuminated ribbon of asphalt, its headlights faintly visible, emphasizing the sense of solitude and quiet. The surrounding trees cast long, soft-edged shadows, and the road curves gracefully through the natural terrain, creating a strong sense of movement and leading the viewer’s eye through the composition. The lighting is low and atmospheric, with subtle gradients of light and darkness, evoking a cinematic, contemplative mood. The overall style is minimalist and dramatic, with a strong emphasis on negative space, depth, and the interplay between the man-made road and the untamed wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:06.641525",
+  "word_count": 146,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "27a47707-3588-4745-9513-9590fb935adc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a tightly framed portrait of an East Asian woman with a short, straight black bob haircut and blunt bangs, positioned centrally against a smooth, warm beige background. She is wearing a bold, eye-catching button-up shirt with a vivid pattern of wavy red and blue stripes, which adds a dynamic visual contrast to the neutral backdrop. Her facial expression is one of surprise or mild shock, with wide-open eyes and slightly parted lips, conveying a sense of immediacy and candid emotion. The lighting is soft and even, minimizing shadows and highlighting the natural texture of her skin, while the overall color palette balances the warmth of the background with the cool, saturated tones of her clothing. The composition is simple and direct, with a shallow depth of field that keeps the focus sharply on her face and upper torso, evoking a cinematic, documentary-style portrait that captures a spontaneous, authentic moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:18.161298",
+  "word_count": 150,
+  "error_message": null
+}

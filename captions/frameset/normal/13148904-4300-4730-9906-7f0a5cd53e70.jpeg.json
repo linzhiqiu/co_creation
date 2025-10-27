@@ -1,0 +1,12 @@
+{
+  "image_filename": "13148904-4300-4730-9906-7f0a5cd53e70.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a freshly printed sheet of paper emerging from a printer, with a simple line graph on it. The graph features a red line trending upward, labeled \"sales\" on the vertical axis and \"time\" on the horizontal axis. The focus is sharp on the paper and the graph, while the background is softly blurred, creating a shallow depth of field. In the out-of-focus background, a person sits at a desk, facing away from the camera, illuminated by the cool glow of a laptop screen. The setting appears to be a dimly lit office or workspace at night, with warm ambient lighting contrasting against the blue light from the computer. The overall color palette is muted and subdued, with dark tones dominating the environment and the white paper standing out as the brightest element. The composition emphasizes the sense of late-night productivity and quiet determination, with a cinematic, almost contemplative mood. The camera angle is slightly above and behind the printer, drawing the viewer’s eye from the graph to the solitary figure in the background, suggesting a narrative of hard work and progress.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:02.475343",
+  "word_count": 185,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "30fce792-4b26-4dec-b67f-010eb1702035.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage film camera stands alone on a classic wooden tripod, perfectly centered in the frame. The camera is large and boxy, with a prominent film reel housing on top and a matte black finish that contrasts subtly with the warm, rich tones of the background. The setting is an elegant, dimly lit room with dark wooden paneling and vertical decorative moldings, evoking an old-world, cinematic atmosphere. Soft, diffused lighting creates gentle highlights on the camera’s metallic surfaces, while the background remains in deep shadow, adding a sense of depth and drama. The overall color palette is dominated by deep browns, blacks, and muted golds, enhancing the vintage and sophisticated mood. The composition is symmetrical and formal, with the camera as the clear focal point, and a shallow depth of field subtly blurring the background to draw the viewer’s eye to the subject. The style is reminiscent of classic film noir or period dramas, with a moody, contemplative ambiance and a sense of reverence for the art of filmmaking.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:42.906906",
+  "word_count": 169,
+  "error_message": null
+}

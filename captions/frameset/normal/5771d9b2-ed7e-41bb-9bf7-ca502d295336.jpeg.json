@@ -1,0 +1,12 @@
+{
+  "image_filename": "5771d9b2-ed7e-41bb-9bf7-ca502d295336.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, ground-level shot of a single white golf ball resting on a well-manicured green lawn, with the textured blades of grass clearly visible. In the upper left corner, the lower part of a person’s leg and foot is visible, wearing a light gray athletic shoe with a neon yellow sole, suggesting readiness to play. The lighting is natural and even, evoking a calm, late afternoon ambiance with soft shadows and a warm, inviting tone. The composition is minimalistic, focusing attention on the golf ball as the central subject, with the shoe providing context and a sense of anticipation. The overall style is realistic and crisp, with a shallow depth of field that subtly blurs the background, emphasizing the tactile details of the grass and the smooth surface of the golf ball. The mood is quiet and focused, capturing a moment of stillness just before action.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:49.472719",
+  "word_count": 146,
+  "error_message": null
+}

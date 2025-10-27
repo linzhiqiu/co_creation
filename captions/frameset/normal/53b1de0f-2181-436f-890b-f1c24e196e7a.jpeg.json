@@ -1,0 +1,12 @@
+{
+  "image_filename": "53b1de0f-2181-436f-890b-f1c24e196e7a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, contemplative landscape featuring two tall, mature trees with dense, leafy canopies arching toward each other, their branches nearly touching to form a natural frame in the center of the composition. The camera is positioned at a low angle, looking upward, emphasizing the height and grandeur of the trees while drawing the viewer’s eye to the open sky between them. The background is a soft, overcast sky rendered in muted gray tones, diffusing the light and creating a subdued, melancholic atmosphere. The color palette is dominated by cool, desaturated greens and grays, with gentle contrasts between the dark silhouettes of the tree trunks and the lighter, misty sky. The overall style is minimalist and atmospheric, evoking a sense of quiet introspection and natural beauty. The depth of field is deep, keeping both the trees and the sky in sharp focus, while the soft lighting and lack of harsh shadows contribute to the tranquil, almost ethereal mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:16.866062",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cdd61fd-12bb-477e-9994-a1c4788d10ff.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA low-angle, cinematic shot set in a sunlit urban park, with the camera positioned close to the textured ground, creating a dramatic sense of scale and depth. In the foreground, a small, futuristic robotic dog with a white and silver body and blue accents stands on the pavement, its head raised as if curiously observing its surroundings. The robot’s design is sleek and toy-like, with rounded limbs and expressive posture, evoking a sense of playful exploration. Behind the robot, a row of uneven stones forms a subtle barrier, leading the viewer’s eye toward the softly focused background. In the distance, a large fountain sprays water high into the air, its mist catching the sunlight and creating a gentle, ethereal effect. The park is bordered by lush green trees and hints of city buildings, all rendered in a warm, slightly hazy afternoon light. The color palette is dominated by earthy browns, soft greens, and cool blues, with the bright sky providing a serene backdrop. The overall mood is tranquil and whimsical, blending natural and technological elements in a harmonious, almost dreamlike composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:30.281680",
+  "word_count": 182,
+  "error_message": null
+}

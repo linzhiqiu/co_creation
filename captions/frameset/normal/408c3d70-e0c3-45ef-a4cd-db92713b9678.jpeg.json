@@ -1,0 +1,12 @@
+{
+  "image_filename": "408c3d70-e0c3-45ef-a4cd-db92713b9678.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure sprints at full speed across a barren desert landscape at dusk, captured in dramatic silhouette. The subject is mid-stride, muscles tensed, arms pumping, and legs extended, conveying a sense of urgency and motion. Billowing clouds of dust trail behind, partially obscuring the lower half of the runner and adding dynamic texture to the scene. The background features softly rolling hills and distant mountains, their outlines blurred by atmospheric haze. The sky is a gradient of warm golden and muted blue tones, suggesting the sun is setting just out of frame, casting long shadows and bathing the entire scene in a cinematic, amber glow. The composition is wide and panoramic, with the runner positioned off-center, emphasizing the vast emptiness and isolation of the environment. The overall style is reminiscent of a high-stakes action film, with a shallow depth of field that keeps the focus on the figure while the background remains soft and impressionistic. The mood is tense and exhilarating, evoking themes of escape, determination, and resilience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:25.766678",
+  "word_count": 169,
+  "error_message": null
+}

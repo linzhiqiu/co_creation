@@ -1,0 +1,12 @@
+{
+  "image_filename": "13e3f71e-0fa9-4f8c-92e5-18f232611088.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-contrast black and white image focusing on the bold, hand-drawn words \"TO KILL\" written in white against a heavily shaded, textured black background. The letters appear to be created by masking or stenciling, with rough, expressive black strokes surrounding and partially overlapping the text, suggesting the use of charcoal or a thick pencil. The composition is tight and slightly off-center, with the right edge of the frame showing a blurred, ambiguous object or hand, adding a sense of immediacy and tension. The lighting is stark, emphasizing the dramatic interplay between light and shadow, and the overall mood is intense and foreboding, evoking a sense of mystery or suspense. The style is reminiscent of classic film noir title sequences, with a raw, tactile quality and a focus on graphic elements rather than representational imagery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:06.195322",
+  "word_count": 135,
+  "error_message": null
+}

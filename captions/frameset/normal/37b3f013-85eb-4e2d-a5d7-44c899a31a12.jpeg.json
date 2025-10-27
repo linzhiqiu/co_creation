@@ -1,0 +1,12 @@
+{
+  "image_filename": "37b3f013-85eb-4e2d-a5d7-44c899a31a12.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A somber, black-and-white cinematic scene set in a dimly lit, formal interior. The central subject is a middle-aged man with disheveled hair and a weary, pensive expression, leaning forward over a wooden surface as if testifying or speaking in a courtroom or official setting. He wears a dark suit and white shirt, his face illuminated by a soft, focused light that highlights the lines of exhaustion and gravity in his features. In the foreground, slightly out of focus, is a large, vintage microphone, suggesting a public or official address. The background is shadowy, populated by indistinct figures—possibly officials or journalists—seated and partially obscured by darkness and equipment, including what appears to be a film reel or camera, adding to the sense of scrutiny and tension. The composition uses a shallow depth of field, drawing attention to the man's emotional state while the background remains blurred and mysterious. The overall mood is tense and introspective, with high-contrast lighting and a classic film noir aesthetic, evoking a sense of drama and moral weight.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:14.457683",
+  "word_count": 171,
+  "error_message": null
+}

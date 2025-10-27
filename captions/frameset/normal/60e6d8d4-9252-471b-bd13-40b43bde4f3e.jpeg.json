@@ -1,0 +1,12 @@
+{
+  "image_filename": "60e6d8d4-9252-471b-bd13-40b43bde4f3e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic close-up of dozens of white ping pong balls suspended in mid-air, as if frozen in the midst of chaotic motion. The foreground features several sharply focused ping pong balls, their matte surfaces softly illuminated by cool, diffused lighting, while the background recedes into a dreamy blur, with more balls rendered as soft, out-of-focus orbs. The surface beneath the balls is glossy and reflective, subtly mirroring the spheres and adding depth to the composition. Hints of warm, reddish light bleed in from the upper right, creating a gentle color contrast against the predominantly cool blue and gray palette. The overall mood is energetic yet ethereal, with a shallow depth of field and a low, eye-level camera angle that immerses the viewer in the scene. The image evokes a sense of suspended motion and surreal tranquility, reminiscent of high-speed photography or a slow-motion sequence in a contemporary art film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:37.145236",
+  "word_count": 150,
+  "error_message": null
+}

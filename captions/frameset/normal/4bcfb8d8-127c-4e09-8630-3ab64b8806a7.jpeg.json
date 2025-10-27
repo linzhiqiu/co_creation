@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bcfb8d8-127c-4e09-8630-3ab64b8806a7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, atmospheric night scene featuring a nearly full, glowing moon centered against a deep, rich navy blue sky. The moon should be the sole subject, rendered with soft, subtle details of its surface, including gentle craters and faint shading, giving it a realistic yet slightly ethereal quality. The background is a smooth, uninterrupted expanse of dark blue, with no stars, clouds, or other elements, emphasizing the moon’s luminous presence. The lighting is natural and subdued, with the moon casting a gentle, diffuse glow that softly radiates into the surrounding sky. The overall composition is simple and serene, evoking a sense of calm and quiet wonder, with a focus on the contrast between the moon’s pale, creamy light and the velvety darkness of the night. The style is photographic realism with a touch of cinematic stillness, using a centered composition and a slight vignette effect to draw the viewer’s eye directly to the moon.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:11.226556",
+  "word_count": 155,
+  "error_message": null
+}

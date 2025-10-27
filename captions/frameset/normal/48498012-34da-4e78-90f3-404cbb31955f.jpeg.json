@@ -1,0 +1,12 @@
+{
+  "image_filename": "48498012-34da-4e78-90f3-404cbb31955f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic black-and-white scene set in a fog-shrouded, war-torn Japanese village at night. In the foreground, a samurai sword is visible, slightly out of focus, pointing toward two men standing side by side in the midground. Both men wear traditional samurai attire—loose, flowing hakama pants and patterned vests, with swords tucked into their belts. Their expressions are serious and resolute, gazing directly ahead, illuminated by a soft, diffused light that highlights their faces and the textures of their clothing. Behind them, the silhouettes of thatched-roof houses loom through the mist, some partially damaged, contributing to an atmosphere of tension and aftermath. The overall composition is cinematic, with a strong sense of depth created by the layering of the sword, figures, and receding village structures. The lighting is moody and high-contrast, casting deep shadows and enhancing the sense of mystery and foreboding. The style evokes classic Japanese cinema, with careful attention to period detail, dramatic chiaroscuro, and a contemplative, somber mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:00.252757",
+  "word_count": 161,
+  "error_message": null
+}

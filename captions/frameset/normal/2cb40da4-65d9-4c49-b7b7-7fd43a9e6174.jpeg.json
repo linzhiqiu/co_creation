@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cb40da4-65d9-4c49-b7b7-7fd43a9e6174.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a rugged, arid mountain landscape, captured in high resolution with a telephoto lens. The scene features undulating ridges and rocky outcrops, their surfaces covered in sparse, patchy vegetation and scattered tufts of dry grass. The earth tones dominate the color palette, with gradients of sandy beige, muted browns, and hints of pale gray, evoking the harshness of a desert environment. The lighting is natural and bright, suggesting midday sun, which casts minimal shadows and accentuates the textures and contours of the terrain. The composition emphasizes the vastness and isolation of the landscape, with no visible human presence or structures, and the background fading into a lighter, almost washed-out expanse. The overall style is realistic and documentary, with a sense of stillness and quiet, inviting contemplation of the raw, untouched beauty of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:11.456141",
+  "word_count": 137,
+  "error_message": null
+}

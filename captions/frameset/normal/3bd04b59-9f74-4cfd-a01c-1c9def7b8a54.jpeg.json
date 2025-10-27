@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bd04b59-9f74-4cfd-a01c-1c9def7b8a54.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young Japanese man with a traditional topknot hairstyle sits in a contemplative pose, gazing slightly to the side with a serious, focused expression. He wears a patterned kimono with small, subtle dots, rendered in a classic black-and-white palette that evokes mid-20th-century Japanese cinema. The background is minimalist and dark, with smooth, shadowed walls and a simple horizontal wooden beam, emphasizing the subject’s face and upper body. The lighting is soft and diffused, creating gentle contrasts and highlighting the textures of the fabric and the subject’s features without harsh shadows. The composition is intimate and restrained, with a shallow depth of field that keeps the focus tightly on the man, lending the scene a sense of introspection and quiet tension. The overall style is cinematic, reminiscent of classic samurai films, with a timeless, dignified atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:46.849003",
+  "word_count": 135,
+  "error_message": null
+}

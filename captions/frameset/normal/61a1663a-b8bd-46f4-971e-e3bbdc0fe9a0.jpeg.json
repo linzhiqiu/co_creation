@@ -1,0 +1,12 @@
+{
+  "image_filename": "61a1663a-b8bd-46f4-971e-e3bbdc0fe9a0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, noir-inspired scene in stark black and white. The composition features a close-up of a man's face, partially illuminated with dramatic, high-contrast lighting that casts deep shadows and accentuates his intense, wide-eyed expression. He is dressed in a classic suit and tie, with the collar of his white shirt visible, evoking a mid-20th-century aesthetic. The man appears to be lying down or floating in darkness, his face emerging from the void at an unusual, almost disorienting angle. Below him, a small, textured sphere resembling a moon or planet hovers in the blackness, adding an enigmatic, dreamlike quality to the image. The background is entirely black, with no discernible details, heightening the sense of isolation and mystery. The overall style is cinematic and expressionistic, with a shallow depth of field and a haunting, otherworldly mood reminiscent of classic psychological thrillers or avant-garde films.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:06.851255",
+  "word_count": 144,
+  "error_message": null
+}

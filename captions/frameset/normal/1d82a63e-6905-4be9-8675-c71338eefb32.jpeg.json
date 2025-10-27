@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d82a63e-6905-4be9-8675-c71338eefb32.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-30s man with short brown hair and neatly trimmed facial stubble sits at a cluttered office desk, illuminated by cool, diffused overhead lighting that casts soft shadows and highlights the tension in his expression. He wears a white dress shirt and a light gray tie, with large, clear-framed glasses that reflect the glow of his computer screen. His mouth is slightly open and his brows are furrowed, conveying a sense of surprise or concern as he looks intently at something off-screen. \n\nBehind him, the office environment is modern and somewhat sterile, with glass partitions and a blue desk lamp adding a pop of color to the otherwise muted palette of grays, whites, and blues. On his desk, a computer monitor displays a video conference call with several participants' faces visible in small windows, suggesting a remote meeting in progress. To the right, a colorful bar chart is visible on a second screen, hinting at data analysis or business activity. The composition uses a shallow depth of field, keeping the man in sharp focus while the background and screens are slightly blurred, emphasizing his emotional reaction. The overall style is cinematic, with a slight blue tint and a sense of immediacy, as if capturing a pivotal moment in a contemporary workplace drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:45.691370",
+  "word_count": 212,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ddcf8c0-8d34-4de7-b1bb-175be64f9abe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, atmospheric scene set among ancient stone ruins at night. The composition features a row of weathered stone columns standing on a cracked stone floor, their surfaces mottled with age and lichen. The background is dominated by a massive, intricately carved stone wall, its details partially obscured by deep shadows and the faint, uneven illumination of moonlight. The color palette is dominated by cool, desaturated blues and muted grays, evoking a sense of mystery and quiet desolation. The lighting is very low, with soft, diffuse highlights barely outlining the edges of the columns and wall, creating a dramatic interplay of darkness and subtle texture. The overall style is cinematic and somber, with a wide-angle perspective that emphasizes the scale and emptiness of the ruins. The mood is contemplative and slightly eerie, as if the viewer has stumbled upon a forgotten temple in the dead of night, shrouded in silence and history.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:35.694980",
+  "word_count": 153,
+  "error_message": null
+}

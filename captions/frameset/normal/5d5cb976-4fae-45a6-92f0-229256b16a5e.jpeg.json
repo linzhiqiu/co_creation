@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d5cb976-4fae-45a6-92f0-229256b16a5e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dynamic urban street scene featuring two men engaged in conversation in the foreground, captured from a low, slightly upward camera angle that emphasizes the modern architecture behind them. The man on the left stands in partial shadow, wearing a fitted black t-shirt, a tactical harness with visible straps, and a studded belt, his hand raised to the back of his neck in a casual, thoughtful gesture. The man on the right faces him, dressed in a tan utility vest over a dark shirt, his expression animated and engaged. The background showcases a sleek, white building with geometric lines and a prominent, futuristic metallic light fixture hanging above, set against a clear blue sky. The lighting is natural and bright, casting sharp contrasts and deep shadows, lending a crisp, cinematic quality to the scene. The color palette is dominated by cool whites, blues, and neutral earth tones, with high contrast and a sense of midday clarity. The overall style is reminiscent of late-90s action thrillers, with a focus on realism, urban energy, and character-driven tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:08.475516",
+  "word_count": 176,
+  "error_message": null
+}

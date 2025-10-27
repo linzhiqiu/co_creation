@@ -1,0 +1,12 @@
+{
+  "image_filename": "313b3624-fce8-4e6f-a046-82efff84959a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black and white photograph of a golfer practicing at a driving range, captured in dramatic silhouette. The main subject, a lone golfer, stands mid-swing beneath a covered structure, their body and golf club outlined sharply against the bright, sunlit expanse of the open range beyond. The golfer’s posture is dynamic, frozen at the peak of their backswing, conveying a sense of motion and concentration. To the left, a golf bag rests on the ground, its clubs visible, adding context and detail to the scene. The structure’s beams and roof frame the composition, creating strong geometric lines and deep shadows that contrast with the glowing, high-key background. The open field stretches into the distance, dotted with faint trees and low horizon, evoking a sense of space and tranquility. The overall style is cinematic and contemplative, with a high-contrast monochrome palette, soft natural light, and a wide-angle perspective that emphasizes depth and atmosphere. The mood is quiet, focused, and timeless, reminiscent of classic sports photography or documentary film stills.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:49.140871",
+  "word_count": 168,
+  "error_message": null
+}

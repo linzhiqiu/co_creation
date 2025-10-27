@@ -1,0 +1,12 @@
+{
+  "image_filename": "51aba83e-fa0b-4f82-b59c-237d11adcfe3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, close-up shot of two people sitting in the front seats of a car, driving through a sunlit forest. The camera is positioned inside the vehicle, angled from the back seat and slightly to the right, capturing the profile of a woman with long, reddish-brown hair in the passenger seat. She is smiling gently, her face softly illuminated by natural daylight streaming through the window, creating a serene and contemplative mood. The man in the driver’s seat is partially visible in the foreground, his features out of focus, emphasizing the woman as the main subject. The background outside the car window is a blur of green trees, suggesting motion and a sense of travel. The color palette is cool and natural, dominated by greens and soft blues, with subtle contrasts between the interior shadows and the bright, sunlit exterior. The overall style is realistic and intimate, with a shallow depth of field that draws attention to the woman’s expression while maintaining a sense of movement and journey.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:28.837915",
+  "word_count": 168,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "188a5296-96e1-474b-b9eb-a490b8890817.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA lush, sunlit forest landscape stretches across the frame, viewed from a slightly low angle that emphasizes the dense, rolling canopy of trees. The scene is bathed in warm, late afternoon light, casting soft golden highlights on the tops of the foliage while deeper shadows create a sense of depth and texture among the leaves. The trees are abundant and varied, with rich green hues dominating the color palette, subtly transitioning from deep emerald in the foreground to lighter, more yellow-greens as the eye moves toward the distant hilltops. The sky above is a clear, vibrant blue with gentle, wispy clouds, providing a serene backdrop that contrasts beautifully with the verdant greenery below. The overall composition is naturalistic and immersive, evoking a tranquil, untouched wilderness. The image has a cinematic quality, with a shallow depth of field that keeps the foreground slightly out of focus, drawing attention to the sunlit midground and distant treetops. The mood is peaceful and inviting, capturing the quiet majesty of a forest in perfect harmony with the sky.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:56.050105",
+  "word_count": 174,
+  "error_message": null
+}

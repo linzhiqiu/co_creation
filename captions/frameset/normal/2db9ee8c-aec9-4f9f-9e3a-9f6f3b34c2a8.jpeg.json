@@ -1,0 +1,12 @@
+{
+  "image_filename": "2db9ee8c-aec9-4f9f-9e3a-9f6f3b34c2a8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a basketball hoop captures the precise moment a basketball is about to pass cleanly through the white net. The hoop and backboard are positioned in the upper right of the frame, with the metal rim and net sharply in focus, emphasizing the tension and anticipation of the shot. The background is a clear, open sky in soft blue tones, creating a minimalist and serene atmosphere that draws all attention to the action at the hoop. The lighting is natural and even, suggesting late afternoon or early evening, with no harsh shadows, lending a calm and contemplative mood to the scene. The overall color palette is muted and harmonious, dominated by the warm orange of the basketball, the white of the net and backboard, and the tranquil blue of the sky. The composition uses negative space effectively, with a shallow depth of field that blurs any distant elements, ensuring the viewer’s focus remains on the suspended moment of the ball about to score. The style is realistic yet artful, evoking the quiet drama and beauty of everyday sports moments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:33.261337",
+  "word_count": 183,
+  "error_message": null
+}

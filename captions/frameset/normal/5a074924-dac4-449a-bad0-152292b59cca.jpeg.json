@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a074924-dac4-449a-bad0-152292b59cca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide, cinematic landscape shot of a gently rolling grassy field under a vast, partly cloudy sky. In the midground, a cluster of deciduous trees stands out, their autumn leaves a rich, warm orange and russet, contrasting with the deep green of the grass. The trees are partially bare, hinting at late fall, and their branches create intricate silhouettes against the soft, golden light of late afternoon. The sky is expansive, filled with large, fluffy clouds tinged with pink and peach hues from the setting sun. The lighting is natural and diffused, casting long, subtle shadows across the field and enhancing the tranquil, contemplative mood. The composition is balanced, with the horizon line placed low to emphasize the openness of the sky, and the trees positioned slightly off-center for visual interest. The overall style is reminiscent of classic landscape cinematography, with a shallow depth of field that keeps the foreground and background gently blurred, drawing the viewer’s eye to the central trees. The color palette is dominated by earthy greens, warm oranges, and soft blues, evoking a serene, nostalgic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:55.525310",
+  "word_count": 180,
+  "error_message": null
+}

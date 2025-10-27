@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b14f13b-ba90-4c59-86d1-8a1bcf914684.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking aerial view of a dramatic mountain range at sunrise, with jagged, snow-capped peaks piercing through a thick blanket of swirling clouds. The sun hangs low in the sky, casting a warm, golden glow that diffuses through the mist and illuminates the rugged contours of the mountains. The sky is painted in soft gradients of amber, pale yellow, and hints of blue, creating a serene yet majestic atmosphere. The composition emphasizes depth and scale, with the foreground dominated by rolling clouds and the distant peaks fading into the hazy horizon. The lighting is soft and ethereal, enhancing the sense of tranquility and awe. The overall style is cinematic and grand, reminiscent of a nature documentary or an epic adventure film, with a wide-angle perspective that captures the vastness and sublime beauty of the alpine landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:16.438190",
+  "word_count": 136,
+  "error_message": null
+}

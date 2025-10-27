@@ -1,0 +1,12 @@
+{
+  "image_filename": "20e1e371-8a3a-4387-b4f1-bc7245687d6b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tranquil, cinematic aerial view of a long, weathered pier extending diagonally from a deserted sandy beach into calm, dark blue ocean waters at dusk. The scene is bathed in soft, diffused twilight, with the last hints of sunset casting a gentle, warm glow on the sand and faintly illuminating the pier’s surface. The water is glassy and still, reflecting subtle gradients of blue and gray, while the shoreline curves gently, with small, foamy waves lapping quietly against the pier’s base. The pier itself is empty, its structure simple and utilitarian, with a few posts and railings visible, leading to a slightly wider platform at the end. The overall color palette is muted and atmospheric, dominated by cool blues, grays, and sandy beiges, with a touch of pinkish-orange from the fading sun. The composition is minimalist and serene, emphasizing solitude and the vastness of the seascape, with a high, slightly angled perspective that creates a sense of depth and peaceful isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:53.448146",
+  "word_count": 161,
+  "error_message": null
+}

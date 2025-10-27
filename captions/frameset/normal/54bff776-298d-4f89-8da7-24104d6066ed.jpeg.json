@@ -1,0 +1,12 @@
+{
+  "image_filename": "54bff776-298d-4f89-8da7-24104d6066ed.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a chessboard set outdoors on a wooden deck, with large, translucent green and white chess pieces arranged mid-game. The focus is on the green knight in the foreground, its frosted glass-like texture catching soft, natural daylight. The chessboard itself is glossy, reflecting the pieces and the ambient light, with alternating green and white squares. In the background, a wooden railing and blurred architectural elements suggest an open, airy environment, possibly a veranda or patio. The composition uses a shallow depth of field, keeping the chess pieces sharp while the background is softly out of focus, creating a sense of intimacy and concentration. The color palette is dominated by cool greens and whites, with warm brown tones from the wood. The lighting is diffuse and natural, evoking a calm, contemplative mood. The overall style is realistic with a touch of artistic elegance, reminiscent of a thoughtful moment in a quiet, sunlit retreat.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:39.931056",
+  "word_count": 156,
+  "error_message": null
+}

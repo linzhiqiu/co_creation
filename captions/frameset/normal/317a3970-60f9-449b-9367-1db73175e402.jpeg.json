@@ -1,0 +1,12 @@
+{
+  "image_filename": "317a3970-60f9-449b-9367-1db73175e402.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of five young men perform a synchronized dance routine in a futuristic, minimalist setting. They are all dressed in matching deep red suits with black shirts underneath, their outfits sharply tailored and modern. The dancers are captured mid-motion, each in a dynamic pose that conveys energy and precision, their expressions focused and intense. The background is a pristine, white, grid-like room with glossy, reflective floors and walls, illuminated by cool blue-white LED strip lights embedded in the ceiling, creating a high-tech, almost sci-fi atmosphere. The lighting is bright and even, casting soft reflections and subtle shadows that enhance the sense of depth and movement. The camera angle is straight-on at eye level, emphasizing the symmetry and coordination of the group, while the wide shot allows the viewer to take in both the dancers and the striking geometric environment. The overall style is sleek, cinematic, and contemporary, with a color palette dominated by crisp whites, cool blues, and the bold contrast of the red suits, evoking a sense of modernity, discipline, and artistic flair.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:55.943347",
+  "word_count": 175,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a1a99e8-f9a8-4d31-bda2-d254572fc6dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A teenage girl sits at a desk in a softly lit room, intently focused on a laptop in front of her. She wears a turquoise hoodie over a navy blue shirt, her blonde hair pulled back casually. Her posture is relaxed yet engaged, with one elbow propped on the desk and her chin resting on her hand, while her other hand navigates the laptop’s keyboard. The expression on her face is one of concentration, with her eyes slightly squinting at the screen, suggesting deep thought or problem-solving.\n\nIn the blurred background, another figure—likely a young boy—lies on a bed or couch, absorbed in a tablet or book, surrounded by scattered papers and books, adding a sense of everyday life and subtle chaos to the scene. The room is bathed in natural daylight streaming through partially closed blinds, casting a gentle, diffused glow that creates soft shadows and a warm, inviting atmosphere.\n\nThe color palette is dominated by cool blues and soft neutrals, with pops of color from the girl’s clothing and the background objects. The composition uses a shallow depth of field, keeping the girl and her laptop in sharp focus while the background remains softly out of focus, emphasizing her as the central subject. The camera angle is slightly above eye level, creating an intimate, candid perspective that draws the viewer into the scene. The overall style is naturalistic and cinematic, evoking a sense of quiet concentration and the everyday reality of modern youth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:39.811691",
+  "word_count": 245,
+  "error_message": null
+}

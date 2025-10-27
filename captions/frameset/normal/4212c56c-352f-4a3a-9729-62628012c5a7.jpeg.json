@@ -1,0 +1,12 @@
+{
+  "image_filename": "4212c56c-352f-4a3a-9729-62628012c5a7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a wide-angle, high-resolution black and white photograph of a sprawling urban park on a partly cloudy day. The foreground features a gently sloping grassy hill on the right, with a broad, pale dirt or gravel path cutting diagonally through the scene, leading the viewer’s eye toward the distant city skyline. Scattered groups of people are visible in the open fields, some near soccer goals, appearing small and dispersed, emphasizing the vastness of the landscape. The midground is densely wooded, with a thick line of trees separating the park from the city beyond. The background showcases a hazy, expansive city skyline under a sky filled with soft, textured clouds. The overall mood is tranquil and contemplative, with soft, diffused lighting and a subtle sense of depth created by the gradual fading of detail into the distance. The composition balances open space and urban density, evoking a sense of quiet observation and the contrast between nature and city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:52.855582",
+  "word_count": 158,
+  "error_message": null
+}

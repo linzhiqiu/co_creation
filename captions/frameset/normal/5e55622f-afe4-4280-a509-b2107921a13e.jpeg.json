@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e55622f-afe4-4280-a509-b2107921a13e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic action scene set in a vast, arid desert at dusk. The main subject is a rugged, blue off-road Jeep with its doors removed, kicking up a dramatic cloud of dust as it speeds across the sandy terrain. The vehicle is captured in motion, angled slightly toward the left, with its wheels spinning and dirt flying, emphasizing a sense of speed and adventure. The background is a hazy expanse of desert, with low, dark hills silhouetted against a pale, fading sky. The lighting is soft and natural, with the warm, muted tones of sunset casting long shadows and bathing the scene in a subdued, cinematic glow. The overall color palette features earthy browns, dusty grays, and the striking blue of the Jeep, creating a visually compelling contrast. The composition uses a low, wide camera angle to heighten the sense of movement and immersion, with a shallow depth of field that keeps the focus on the vehicle while the background blurs into atmospheric dust and distant landscape. The mood is adventurous and intense, evoking the thrill of off-road exploration in a remote, untamed environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:32.143003",
+  "word_count": 184,
+  "error_message": null
+}

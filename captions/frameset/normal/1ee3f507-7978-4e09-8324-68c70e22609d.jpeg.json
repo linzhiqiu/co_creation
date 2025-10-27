@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ee3f507-7978-4e09-8324-68c70e22609d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene on a deserted outdoor soccer field, illuminated by harsh, cold artificial floodlights that cast long shadows and create a moody, almost melancholic atmosphere. The field is expansive and empty except for a single young boy, dressed in a bright blue soccer uniform with white socks, standing alone near the edge of the penalty box. He faces away from the camera, his posture small and contemplative, emphasizing his solitude. Scattered across the field are dozens of identical soccer balls, arranged in a seemingly random but visually striking pattern, adding a surreal and dreamlike quality to the composition. The background features a tall, dark fence and blurred, glowing lights from distant buildings, enhancing the sense of isolation. The color palette is dominated by deep greens, blues, and muted earth tones, with the artificial lights creating stark contrasts and subtle reflections on the damp grass. The camera angle is wide and slightly elevated, capturing the vast emptiness of the field and the boy’s insignificance within it, evoking a sense of longing, introspection, and quiet determination. The overall style is reminiscent of a contemplative sports drama or an art-house film, with a focus on mood, atmosphere, and emotional resonance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:17.980506",
+  "word_count": 201,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a1acd95-0000-4bc9-bc94-cc6981eabdea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern scientific laboratory, softly lit with cool, natural daylight streaming through large windows, creating a clean and clinical atmosphere. The focal point is a large whiteboard on an easel, positioned prominently in the foreground and slightly off-center, covered with a detailed, hand-drawn mind map in blue, red, and green marker. The central theme, \"Green Production,\" is encircled and radiates outward with connecting lines to various subtopics such as \"Waste Management,\" \"Energy Management,\" \"Lean Management,\" and \"Digital Technologies,\" each with their own branches and annotations. The handwriting is neat and legible, with a mix of uppercase and lowercase letters, and the use of color helps organize the information visually. In the background, the laboratory is filled with scientific equipment—microscopes, glassware, and shelves lined with bottles and instruments—conveying a sense of active research and innovation. The overall composition is balanced, with a shallow depth of field that keeps the whiteboard in sharp focus while gently blurring the laboratory setting behind it. The color palette is dominated by whites, silvers, and soft blues, enhancing the sense of sterility and professionalism. The style is cinematic, reminiscent of a scene from a contemporary science documentary or a high-tech research drama, with a slight vignette effect that draws the viewer’s eye toward the central whiteboard and its intricate web of ideas.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:17.332865",
+  "word_count": 216,
+  "error_message": null
+}

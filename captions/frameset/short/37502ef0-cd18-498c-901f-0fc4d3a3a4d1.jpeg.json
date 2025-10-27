@@ -1,0 +1,12 @@
+{
+  "image_filename": "37502ef0-cd18-498c-901f-0fc4d3a3a4d1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a quiet urban street, featuring a white car parked precisely at the curb beside a pale, weathered building. Muted gray and beige tones dominate the scene, with soft, overcast lighting and minimal shadows, creating a calm, almost cinematic stillness. The composition emphasizes symmetry and urban solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:01.335923",
+  "word_count": 49,
+  "error_message": null
+}

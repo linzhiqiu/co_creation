@@ -1,0 +1,12 @@
+{
+  "image_filename": "20b0d7dc-0b03-4b2b-a6a1-df5af790ec7d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up shot of a gold rectangular wristwatch on a pale wrist, the watch face reflecting soft, warm light. The background is blurred with hints of deep red and blue denim, creating a cozy, intimate atmosphere. The image has a vintage, filmic quality with gentle grain and shallow depth of field.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:47.311421",
+  "word_count": 50,
+  "error_message": null
+}

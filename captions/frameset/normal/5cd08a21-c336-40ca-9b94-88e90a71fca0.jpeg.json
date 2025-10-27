@@ -1,0 +1,12 @@
+{
+  "image_filename": "5cd08a21-c336-40ca-9b94-88e90a71fca0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA wide-angle cinematic shot inside a vast, circular concrete chamber with high walls. The space is filled with hundreds of small photographs suspended on thin wires, creating a mesmerizing, floating grid that curves with the architecture. Five young men stand together at the center of the room, gazing upward in awe at the photos above them. Their clothing is casual and modern—jeans, t-shirts, vests, and jackets in muted tones of gray, black, and white—contrasting subtly with the industrial setting. The lighting is soft and diffused, with a gentle greenish tint filtering from above, casting delicate shadows and highlighting the suspended photos. The overall mood is contemplative and slightly surreal, with a sense of wonder and introspection. The camera angle is low and slightly tilted upward, emphasizing the scale of the chamber and the immersive effect of the floating photographs. The composition draws the viewer’s eye from the group of figures up to the ceiling, creating a powerful sense of depth and verticality. The style is cinematic, with a focus on atmosphere, spatial grandeur, and emotional resonance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:00.229757",
+  "word_count": 177,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ee4a93-6e14-4134-a06d-aa3918f05028.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary, modern glass cabin sits perched on a windswept, rocky hillside in a vast, desolate landscape. The structure is minimalist, with sleek black metal framing and large glass panels that reflect the overcast sky. The cabin is surrounded by sparse, patchy grass and rugged, gray earth, with jagged outcrops and loose stones scattered across the terrain. In the distance, another small, nondescript building is visible, dwarfed by the expansive, barren plains that stretch to the horizon. The sky is heavy with thick, moody clouds, casting a cool, bluish-gray light over the scene and creating a somber, introspective atmosphere. The color palette is dominated by muted earth tones—slate gray, charcoal, faded green, and hints of pale blue—emphasizing the stark isolation of the setting. The composition is wide and cinematic, with a slightly elevated camera angle that captures the cabin in the foreground and the sweeping emptiness beyond, evoking a sense of solitude and quiet resilience against the elements.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:18.751597",
+  "word_count": 158,
+  "error_message": null
+}

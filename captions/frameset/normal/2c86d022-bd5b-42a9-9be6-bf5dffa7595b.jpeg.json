@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c86d022-bd5b-42a9-9be6-bf5dffa7595b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene featuring a sleek, humanoid robot standing on a dimly lit baseball field. The robot is positioned in the foreground, centered in the frame, and is captured from a low, slightly upward camera angle to emphasize its imposing presence. Its metallic body is a deep, reflective purple with subtle highlights and glints of light, giving it a futuristic, high-tech appearance. The robot’s hands are clasped together in front of its chest, as if preparing to pitch a baseball, conveying a sense of focus and anticipation. Its face is expressionless, with glowing green eyes that stand out against the dark, glossy surface of its head. In the blurred background, faintly illuminated by stadium lights, is a scoreboard with indistinct numbers, adding context to the setting. The overall color palette is dominated by cool blues, purples, and blacks, with sharp, dramatic lighting that casts deep shadows and accentuates the robot’s contours. The atmosphere is moody and intense, evoking a sense of suspense and otherworldly competition, with a shallow depth of field that keeps the focus tightly on the robot while the background remains soft and mysterious.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:07.471043",
+  "word_count": 188,
+  "error_message": null
+}

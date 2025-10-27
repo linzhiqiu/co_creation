@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d8fbde6-339f-486b-acb8-514ac8ca69f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA moody, cinematic scene set in a grand, arched stone corridor, reminiscent of European classical architecture. The perspective is centered, drawing the viewer’s eye down the length of the vaulted hallway toward a distant, sunlit exit. The arches create a rhythmic pattern of light and shadow, with the majority of the corridor shrouded in deep, cool darkness, while the far end glows with soft daylight, revealing a glimpse of an exterior building with pale walls and a hint of red. The stone columns and ceiling are rendered in muted grays and blues, emphasizing the cool, somber atmosphere. The floor reflects subtle highlights, adding depth and a sense of stillness. The overall composition is symmetrical, with a strong sense of depth and leading lines. The lighting is low-key, with natural light providing a dramatic contrast between the shadowy interior and the bright opening. The style is evocative of a contemplative, almost mysterious moment, with no visible figures, focusing on architectural beauty and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:45.344454",
+  "word_count": 168,
+  "error_message": null
+}

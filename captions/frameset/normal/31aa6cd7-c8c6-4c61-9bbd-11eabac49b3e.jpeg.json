@@ -1,0 +1,12 @@
+{
+  "image_filename": "31aa6cd7-c8c6-4c61-9bbd-11eabac49b3e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A low-angle, cinematic close-up shot of a small, black, wheeled robot positioned in the center of a dimly lit room. The robot has a boxy, utilitarian design with a rectangular head and visible mechanical joints, evoking a sense of both functionality and character. Its head is slightly tilted, giving it a curious, almost sentient demeanor. The background is softly blurred, revealing rows of empty chairs and tables, suggesting a classroom or conference room setting. The color palette is muted and cool, dominated by shades of black, gray, and subtle hints of red from the chairs, creating a somber, contemplative mood. The lighting is low and diffuse, casting gentle shadows that emphasize the robot’s metallic textures and the carpeted floor beneath it. The composition uses shallow depth of field to draw focus to the robot, with the out-of-focus background enhancing the sense of isolation and intrigue. The overall style is reminiscent of a science fiction film, with a touch of melancholy and wonder, as if capturing a moment of quiet anticipation in a story about artificial intelligence or robotics.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:58.357546",
+  "word_count": 178,
+  "error_message": null
+}

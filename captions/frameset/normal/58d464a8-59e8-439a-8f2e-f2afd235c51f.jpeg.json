@@ -1,0 +1,12 @@
+{
+  "image_filename": "58d464a8-59e8-439a-8f2e-f2afd235c51f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A serene, cinematic forest scene at golden hour, with tall, slender pine trees dominating the foreground. Sunlight streams through the trees, creating dramatic shafts of light and casting long, dappled shadows on the forest floor, which is covered in dry grass and undergrowth. In the midground, beyond the trees, a quiet country road runs horizontally across the image. A single vintage car, painted in a muted color, drives along the road, partially obscured by the trees. The background reveals open fields bathed in warm, soft sunlight, with a gentle haze that enhances the tranquil, nostalgic mood. The color palette is rich in earthy browns, deep greens, and golden yellows, with the sunlight adding a touch of ethereal glow. The composition uses a wide-angle perspective, with a shallow depth of field that keeps the trees sharply in focus while the car and background are slightly softened, evoking a sense of peaceful isolation and cinematic storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:24.825932",
+  "word_count": 154,
+  "error_message": null
+}

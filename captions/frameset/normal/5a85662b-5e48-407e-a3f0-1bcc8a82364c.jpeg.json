@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a85662b-5e48-407e-a3f0-1bcc8a82364c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand digging into a thick layer of pristine white snow in a dense, shadowy forest. The camera is positioned low to the ground, focusing on the hand and the snow, with the person’s legs partially visible on the left side of the frame. The hand is bare and slightly reddened from the cold, grasping a small stick or tool, intent on breaking through the icy surface. The person wears rugged, dark outdoor clothing, with a textured, woolen sleeve visible. The background is softly blurred, revealing tall, dark evergreen trees that create a moody, secluded atmosphere. The lighting is cool and diffused, with a blue-tinted color palette that emphasizes the chill and isolation of the scene. There is a shallow depth of field, drawing attention to the hand and the snow, while the rest of the forest recedes into soft focus. The overall style is reminiscent of a tense, atmospheric thriller, evoking a sense of urgency and survival in the wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:03.095747",
+  "word_count": 167,
+  "error_message": null
+}

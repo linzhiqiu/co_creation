@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a292d75-76f0-4098-9ed1-621c4475ff50.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure runs down the center of a deserted suburban street at night, illuminated by a single overhead streetlamp that casts a dramatic pool of warm light onto the asphalt. The runner, dressed in athletic gear with a dark jacket and light-colored shorts, is captured mid-stride, their face determined and focused. The background fades into deep shadows, with dense, indistinct trees and the faint outline of a street sign barely visible at the edge of the frame. The composition is wide and cinematic, with the runner positioned slightly off-center, emphasizing the vast emptiness and quiet of the scene. The color palette is dominated by cool blues and deep blacks, contrasted by the golden glow of the streetlight and the yellow lines on the road. The overall mood is tense and atmospheric, evoking a sense of isolation and urgency. The camera angle is low and slightly distant, enhancing the sense of scale and solitude, while the shallow depth of field keeps the focus sharply on the runner, allowing the background to blur into darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:33.203036",
+  "word_count": 174,
+  "error_message": null
+}

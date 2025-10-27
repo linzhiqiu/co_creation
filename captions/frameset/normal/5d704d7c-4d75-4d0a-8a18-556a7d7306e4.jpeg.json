@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d704d7c-4d75-4d0a-8a18-556a7d7306e4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, low-angle shot of modern urban architecture, capturing the towering facades of sleek high-rise buildings against a clear, deep blue sky. The perspective is dynamic, with the camera positioned near the ground and tilted upward, emphasizing the height and geometric lines of the structures. One building dominates the center, its surface a mix of smooth concrete and glass, while another building with a grid of windows frames the left edge. A yellow construction crane juts diagonally across the background, hinting at ongoing development. Suspended in the sky near the top right, a small quadcopter drone hovers, its rotors clearly visible, adding a futuristic and slightly surreal touch to the scene. The lighting is natural and crisp, casting subtle shadows that accentuate the architectural details. The color palette is cool and muted, dominated by shades of blue, gray, and metallic tones, with the yellow crane providing a striking accent. The overall style is cinematic and slightly dystopian, evoking a sense of scale, modernity, and technological presence within the urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:13.912477",
+  "word_count": 170,
+  "error_message": null
+}

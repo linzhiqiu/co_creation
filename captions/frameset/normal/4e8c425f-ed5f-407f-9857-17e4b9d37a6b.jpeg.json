@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e8c425f-ed5f-407f-9857-17e4b9d37a6b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, macro shot of a vintage tape recorder or VCR, focusing tightly on the tape counter display. The composition is intimate and cropped, with the metallic and plastic surfaces of the device filling the frame. The tape counter window shows the number \"4\" in a mechanical, analog style, while adjacent to it is a small, rectangular button or slot. The words \"TAPE COUN\" are partially visible, hinting at the full label \"TAPE COUNTER.\" The color palette is subdued and industrial, dominated by muted silvers, blacks, and grays, with subtle reflections and a soft, diffused light that highlights the textures and slight wear on the device. The depth of field is shallow, rendering the background and edges softly out of focus, drawing attention to the tactile details of the counter and controls. The overall mood is nostalgic and technical, evoking a sense of retro technology and analog precision, as if captured by a filmmaker with an eye for the beauty of obsolete machines.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:17.209608",
+  "word_count": 163,
+  "error_message": null
+}

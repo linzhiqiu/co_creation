@@ -1,0 +1,12 @@
+{
+  "image_filename": "378bafb8-d62a-43cb-9c90-0c65f22a9abf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, atmospheric interior scene set in a dimly lit, sparsely furnished office or studio. The composition is shot from a low angle down a narrow hallway, leading the viewer’s eye toward a large window at the far end, which is the primary light source. The window casts a cold, bluish daylight that softly illuminates the silhouettes of two people seated closely together at a desk, their faces and features obscured in shadow, suggesting a private or intense conversation. The figures are backlit, creating a strong contrast between the bright window and the darkened room.\n\nOn the right wall, a row of unusual, sculptural objects—possibly wooden paddles or tools with bird-like heads—are mounted in a neat line, adding an element of intrigue and artistic eccentricity. Above them, a few abstract, dark-toned artworks or cutouts are partially visible. The overall color palette is cool and desaturated, dominated by shades of blue, gray, and muted whites, enhancing the somber, contemplative mood. The lighting is soft but directional, with deep shadows and a gentle falloff, evoking a cinematic, almost noir-like quality. The depth of field is moderate, keeping the foreground wall and background figures in focus, while the far edges of the room fade into darkness. The scene feels intimate, secretive, and slightly mysterious, as if capturing a quiet moment of collaboration or conspiracy in an artist’s workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:15.121168",
+  "word_count": 225,
+  "error_message": null
+}

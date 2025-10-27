@@ -1,0 +1,12 @@
+{
+  "image_filename": "235ac367-efb9-4812-b2f2-459b14125135.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, abstract cityscape at night, captured with a long exposure technique to create dramatic motion blur and streaks of light. The scene is viewed from a low, central perspective, as if the camera is racing forward along a wide urban street or tunnel. The upper half of the image is dominated by a warm, orange-toned ceiling or overpass, its texture rendered in soft, horizontal lines that add a sense of speed and direction. Below, the road surface is cool blue-gray, with the blurred reflections of city lights stretching outward in energetic, diagonal streaks. Neon and white lights from vehicles and streetlamps create vibrant trails—some sharp, some diffused—contributing to a sense of rapid movement and urban energy. The overall color palette contrasts warm oranges and cool blues, with hints of magenta and teal. The composition is symmetrical and immersive, with a strong vanishing point drawing the viewer’s eye into the distance. The style is cinematic and futuristic, evoking the sensation of high-speed travel through a modern metropolis at night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:50.074381",
+  "word_count": 169,
+  "error_message": null
+}

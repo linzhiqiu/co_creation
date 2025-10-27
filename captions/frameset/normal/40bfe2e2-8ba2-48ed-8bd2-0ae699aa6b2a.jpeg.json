@@ -1,0 +1,12 @@
+{
+  "image_filename": "40bfe2e2-8ba2-48ed-8bd2-0ae699aa6b2a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up shot of a vintage computer screen displaying a monochrome, black-and-white interface. The screen features bold, pixelated white text on a deep black background, evoking the look of early 1980s command-line terminals or retro computer systems. The text reads, “ASK YOUR QUESTIONS” with a blinking cursor or prompt symbol, and below it, a partially typed question, “WHO ARE YOU,” with the first letter slightly obscured or glitched, suggesting an old or malfunctioning display. The image should have a soft, slightly blurred quality, as if viewed through an analog CRT monitor, with subtle scanlines and a faint glow around the text. The overall mood is mysterious and nostalgic, reminiscent of classic science fiction or cyberpunk aesthetics, with a minimalist composition that draws the viewer’s focus entirely to the enigmatic message on the screen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:20.808478",
+  "word_count": 134,
+  "error_message": null
+}

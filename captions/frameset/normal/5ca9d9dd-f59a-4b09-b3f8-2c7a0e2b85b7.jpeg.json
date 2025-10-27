@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ca9d9dd-f59a-4b09-b3f8-2c7a0e2b85b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up shot of a vintage car stereo, focusing tightly on the rectangular digital display and surrounding dark, glossy dashboard. The display glows with a muted greenish-yellow backlight, showing minimalistic symbols and a small, realistic fly resting on the screen, adding an unexpected organic element to the otherwise mechanical scene. The stereo is set in a dark, wood-textured panel, with metallic knobs and subtle reflections catching the low, moody lighting. The overall color palette is dominated by deep blues, blacks, and the soft green of the display, evoking a nighttime or dimly lit interior. The composition is centered and symmetrical, with a shallow depth of field that blurs the edges, drawing the viewer’s eye to the illuminated display and the tiny insect. The style is cinematic, reminiscent of a suspenseful or contemplative moment in a film, with a sense of stillness and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:56.353910",
+  "word_count": 145,
+  "error_message": null
+}

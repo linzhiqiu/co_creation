@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c159863-23f7-4d24-bb13-be193c64bf7c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tranquil winter scene set in a remote, snow-covered forest clearing. In the midground, two rustic wooden cabins stand side by side, their roofs blanketed with thick, undisturbed snow. The cabin on the left is smaller, with a simple door and a single window, while the structure on the right is slightly larger, featuring an open front and visible wooden beams, possibly used as a shed or workshop. Tall evergreen trees frame the left side of the composition, their dark green needles contrasting sharply with the bright white snow. Bare deciduous trees and a dense forest stretch into the background, their leafless branches silhouetted against a clear, vivid blue sky. The sunlight is crisp and bright, casting long, defined shadows across the snow, emphasizing the cold, serene atmosphere. The color palette is dominated by cool whites and blues, with warm brown and tan tones from the wooden structures adding a touch of warmth. The overall style is naturalistic and peaceful, with a wide-angle perspective that captures the quiet isolation and beauty of the winter wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:59.219864",
+  "word_count": 175,
+  "error_message": null
+}

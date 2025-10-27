@@ -1,0 +1,12 @@
+{
+  "image_filename": "57e1b17e-cd47-4200-b729-b1ec4bcc1047.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, gritty room with peeling teal paint and grimy, water-stained walls forms the backdrop. The only window is large, multi-paned, and dirty, letting in minimal, cold daylight that casts harsh, angular shadows across the scene. In the center, two figures in matching dark blue jumpsuits are locked in a violent struggle. One figure kneels on the ground, their face partially obscured, while the other stands over them, aggressively grabbing their head and forcing it back, creating a sense of tension and desperation. The lighting is moody and cinematic, with deep shadows and a muted, desaturated color palette dominated by greens, blues, and browns. The camera angle is low and intimate, heightening the intensity and claustrophobia of the moment. The overall style is raw and realistic, evoking a sense of danger and confinement, reminiscent of a psychological thriller or crime drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:59.010951",
+  "word_count": 142,
+  "error_message": null
+}

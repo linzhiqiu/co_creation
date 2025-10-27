@@ -1,0 +1,12 @@
+{
+  "image_filename": "5cf407a6-853c-4d27-a2ae-602ed8974463.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking, cinematic view of Earth from space, captured at a dramatic diagonal angle. The planet’s curved horizon dominates the lower half of the composition, with swirling white clouds and subtle hints of blue and green landmasses visible through the atmosphere. The upper half of the image fades into the deep, infinite blackness of space, punctuated by a few faint, distant stars. The lighting is soft and natural, with sunlight illuminating the edge of the Earth, creating a gentle gradient from bright blue at the horizon to the darkness of space. The overall color palette is cool and subdued, emphasizing blues, whites, and blacks. The image has a sense of vastness and isolation, with a sharp focus on the planet’s surface and a slight atmospheric haze at the edge, enhancing the realism. The style is hyper-realistic and reminiscent of high-budget science fiction films, evoking awe and wonder at the beauty and fragility of Earth as seen from orbit.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:00.192259",
+  "word_count": 158,
+  "error_message": null
+}

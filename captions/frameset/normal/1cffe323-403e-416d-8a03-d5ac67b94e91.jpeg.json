@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cffe323-403e-416d-8a03-d5ac67b94e91.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-shot portrait of a man standing against a solid teal background. The subject is centered in the frame, facing the camera directly with a neutral, slightly open-mouthed expression, as if caught mid-sentence. He wears a light blue, long-sleeved button-up shirt with a subtle texture, the collar open and the shirt untucked. The man has short dark hair, wears glasses with thin frames, and his hands are relaxed at his sides, partially visible at the bottom of the frame. The lighting is soft and even, eliminating harsh shadows and giving the scene a clean, professional look. The color palette is dominated by cool tones, with the teal backdrop providing a vibrant yet calming contrast to the blue shirt. The overall style is minimalistic and modern, with a shallow depth of field that keeps the background smooth and unobtrusive, focusing attention entirely on the subject. The composition and lighting evoke the feel of a corporate headshot or a professional video interview setup.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:31.857228",
+  "word_count": 161,
+  "error_message": null
+}

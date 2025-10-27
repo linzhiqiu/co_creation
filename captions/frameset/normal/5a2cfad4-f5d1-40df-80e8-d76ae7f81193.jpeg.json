@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a2cfad4-f5d1-40df-80e8-d76ae7f81193.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in a dimly lit, deserted urban corridor, the metallic shutters of closed storefronts lining the background and reflecting the sparse, cold fluorescent lighting. He is dressed in a dark suit and tie, his shirt slightly rumpled, and carries a backpack slung over one shoulder, suggesting a blend of formality and vulnerability. His expression is earnest and slightly anxious, with parted lips and wide eyes, as he looks intently at someone just out of frame in the foreground, whose blonde hair is softly illuminated. The camera is positioned at a medium close-up, slightly off-center, creating a sense of intimacy and tension. The color palette is muted, dominated by cool grays, blues, and subdued earth tones, enhancing the somber, nocturnal atmosphere. The overall style is cinematic and realistic, with shallow depth of field focusing on the young man while the background blurs into shadowy obscurity, evoking a sense of isolation and emotional intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:50.767519",
+  "word_count": 155,
+  "error_message": null
+}

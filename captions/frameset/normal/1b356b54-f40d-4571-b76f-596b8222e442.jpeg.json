@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b356b54-f40d-4571-b76f-596b8222e442.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A gritty, cinematic gym scene set in an industrial-style space with exposed, weathered brick walls and minimal lighting. The composition centers on a determined woman in a bright red tank top and black athletic pants, standing in the middle ground and lifting a barbell overhead with both arms fully extended. Her expression is focused and intense, capturing the exertion and concentration of weightlifting. In the foreground, two other athletes—one male and one female—are partially visible, their backs to the camera, also lifting barbells overhead, creating a sense of depth and immersion. The lighting is moody and dramatic, with cool blue and gray tones dominating the palette, punctuated by the pop of red from the central figure’s shirt. The overall style is reminiscent of a sports documentary or motivational film, with a shallow depth of field that keeps the background slightly blurred and emphasizes the physicality and effort of the athletes. The camera angle is at eye level, drawing the viewer into the intensity and camaraderie of the workout session.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:51.834593",
+  "word_count": 169,
+  "error_message": null
+}

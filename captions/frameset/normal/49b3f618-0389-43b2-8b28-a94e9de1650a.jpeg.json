@@ -1,0 +1,12 @@
+{
+  "image_filename": "49b3f618-0389-43b2-8b28-a94e9de1650a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a round, wall-mounted clock with a simple, modern design, featuring bold black numerals and hands. The clock is set against a distressed, textured wall with peeling, cracked paint, evoking a sense of age and decay. The clock face is partially stained with a rusty, brownish discoloration that spreads from the center toward the right side, suggesting water damage or neglect. The lighting is moody and cinematic, casting soft shadows and highlighting the rough texture of the wall. The color palette is muted and desaturated, dominated by cool grays and faded blues, with the warm rust tones on the clock providing a striking contrast. The composition is centered and symmetrical, with the clock as the clear focal point, and a shallow depth of field subtly blurring the background to emphasize the subject. The overall mood is somber and atmospheric, hinting at the passage of time and the slow decay of the environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:26.255012",
+  "word_count": 155,
+  "error_message": null
+}

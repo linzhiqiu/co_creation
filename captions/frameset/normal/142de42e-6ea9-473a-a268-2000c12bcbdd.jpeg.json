@@ -1,0 +1,12 @@
+{
+  "image_filename": "142de42e-6ea9-473a-a268-2000c12bcbdd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, hyper-realistic scene set inside a minimalist architectural model of a modern building. The perspective is from within the model, looking down a central corridor lined with stark, white walls and geometric cutouts for windows and doors. Dominating the composition is an enormous, lifelike human hand descending from the ceiling, its fingers gently pinching a small object, as if interacting with the miniature environment. The hand’s skin texture and lighting are rendered in exquisite detail, contrasting with the smooth, matte surfaces of the model. Soft, natural daylight streams in from the right, casting sharp, angular shadows across the floor and walls, enhancing the sense of scale and depth. The color palette is cool and restrained, with whites, pale grays, and subtle flesh tones. The overall mood is uncanny and contemplative, blending photorealism with a dreamlike, almost cinematic quality. The camera angle is low and centered, emphasizing the monumental scale of the hand relative to the tiny architectural space, with a shallow depth of field that keeps the hand and immediate surroundings in sharp focus while the background recedes softly.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:13.712638",
+  "word_count": 182,
+  "error_message": null
+}

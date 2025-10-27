@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fef2f7a-b309-45d4-8bfb-459c7eb26505.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, cinematic portrait of a man with a neatly trimmed beard and short dark hair, seated at a wooden table in a cozy, softly lit café. He is captured in profile, intently focused on a digital tablet in front of him, holding a white stylus in his right hand as if sketching or writing. He wears a dark, textured sweater, adding to the warm, intimate atmosphere. The background is softly blurred, with hints of another patron and a coffee cup, creating a shallow depth of field that draws attention to the subject. The color palette is muted and earthy, dominated by warm browns, deep blues, and soft creams, with gentle, natural lighting that casts subtle highlights and shadows across the scene. The overall style is reminiscent of a quiet moment in a modern European café, evoking a sense of concentration and calm introspection. The camera angle is slightly above eye level, emphasizing the subject’s engagement with his work while maintaining a relaxed, documentary feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:58.843497",
+  "word_count": 165,
+  "error_message": null
+}

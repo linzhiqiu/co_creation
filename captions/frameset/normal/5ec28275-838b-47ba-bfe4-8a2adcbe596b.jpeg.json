@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ec28275-838b-47ba-bfe4-8a2adcbe596b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A winding mountain road stretches into the distance, curving gently to the left along the edge of a steep hillside. The scene is captured in crisp black and white, evoking a timeless, cinematic quality reminiscent of classic road movies. On the left, rugged rock faces rise sharply, their textures highlighted by the interplay of sunlight and shadow. To the right, a metal guardrail runs parallel to the road, separating the asphalt from a dramatic drop-off that reveals layers of rolling hills and distant mountain ranges fading into the horizon. Wispy clouds float above the peaks, illuminated by soft, diffused daylight that bathes the entire landscape in a gentle glow. The composition is shot from a low, driver’s-eye perspective, emphasizing the inviting curve of the road and the sense of open possibility. The overall mood is serene and contemplative, with a strong sense of depth and space, inviting the viewer to imagine a journey through this tranquil, expansive landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:41.819394",
+  "word_count": 158,
+  "error_message": null
+}

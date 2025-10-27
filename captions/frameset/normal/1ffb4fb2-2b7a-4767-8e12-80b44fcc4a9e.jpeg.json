@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ffb4fb2-2b7a-4767-8e12-80b44fcc4a9e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up portrait of three young people in a moody, intimate setting. The central subject is a young person with tousled brown hair, gazing directly into the camera with a calm, enigmatic expression. They wear a chunky silver chain necklace and hold a lollipop to their lips, exuding a sense of cool detachment. To the left, another young person with dark, slightly messy hair and a black beanie looks off to the side, also holding a lollipop in their mouth, their features softly blurred by a shallow depth of field. On the right, a third figure with short, light hair and a subtle smile is partially visible, adding to the layered composition. The color palette is rich and subdued, dominated by deep blacks, warm skin tones, and soft highlights. The lighting is low and diffused, creating gentle shadows and a dreamy, almost nostalgic atmosphere. The overall style is reminiscent of contemporary youth fashion editorials, with a soft focus and a sense of candid intimacy, as if capturing a fleeting moment among close friends. The camera angle is slightly tilted, enhancing the dynamic, spontaneous feel of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:40.520436",
+  "word_count": 189,
+  "error_message": null
+}

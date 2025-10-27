@@ -1,0 +1,12 @@
+{
+  "image_filename": "36ee4150-1eef-48de-bb45-3c593a14ed44.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic close-up shot of two dome security cameras mounted in the upper corner of an elevator. The cameras are positioned side by side, their glossy, reflective surfaces subtly capturing distorted reflections of the elevator’s interior. The ceiling above is made of textured, frosted glass panels with a grid pattern, diffusing a muted, yellowish light that bathes the scene in a moody, almost sepia-toned palette. The elevator walls are metallic, slightly worn, and tinged with greenish-gray hues, adding to the industrial, utilitarian atmosphere. The composition is tight and angular, emphasizing the intersection of ceiling and walls, with a shallow depth of field that keeps the focus on the cameras while softly blurring the background. The overall style is reminiscent of a suspenseful thriller, evoking a sense of surveillance and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:56.356637",
+  "word_count": 133,
+  "error_message": null
+}

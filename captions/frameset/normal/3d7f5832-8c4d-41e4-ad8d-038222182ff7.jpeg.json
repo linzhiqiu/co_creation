@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d7f5832-8c4d-41e4-ad8d-038222182ff7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands gripping a steering wheel, captured from the passenger seat perspective inside a modern car. The focus is on the hands, which are illuminated by natural daylight streaming through the windshield, casting soft shadows and highlighting the texture of the skin and the leather-wrapped wheel. The background is subtly blurred, with hints of an urban environment visible through the car window—out-of-focus buildings and a muted cityscape suggesting motion and depth. The color palette is cool and subdued, dominated by deep blacks, soft browns, and gentle blue-gray tones, evoking a calm, contemplative mood. The composition emphasizes the tension and intent in the driver’s posture, with a shallow depth of field drawing attention to the tactile details of the hands and steering wheel, while the rest of the scene fades into a gentle bokeh. The overall style is reminiscent of a modern drama or thriller, with naturalistic lighting and a sense of quiet anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:25.369399",
+  "word_count": 159,
+  "error_message": null
+}

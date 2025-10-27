@@ -1,0 +1,12 @@
+{
+  "image_filename": "2034564d-63cc-4817-b35c-6ad68f34a6b9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, cinematic shot of a large university lecture hall filled with students. The camera is positioned from the back and slightly above, capturing the tiered seating that descends toward a well-lit stage at the front. The students, dressed in casual, modern clothing—sweaters, jackets, and hoodies—are scattered throughout the rows, some taking notes, others listening attentively, and a few conversing quietly. At the center of the scene, a professor in a dark suit stands behind a wooden podium, illuminated by soft, warm overhead lighting. Behind him, expansive whiteboards are filled with complex mathematical equations and diagrams, and a large projection screen displays a graph and additional notes. The color palette is muted and natural, dominated by beige, brown, and cream tones, with subtle contrasts from the students’ clothing. The overall mood is studious and contemplative, with a sense of quiet focus. The composition emphasizes the scale of the room and the collective attention of the students, while the depth of field keeps both the foreground and background in clear focus, enhancing the immersive, realistic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:43.606037",
+  "word_count": 175,
+  "error_message": null
+}

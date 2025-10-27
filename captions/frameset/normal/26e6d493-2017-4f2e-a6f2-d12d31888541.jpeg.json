@@ -1,0 +1,12 @@
+{
+  "image_filename": "26e6d493-2017-4f2e-a6f2-d12d31888541.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking black-and-white scene set in a grand, neoclassical courtyard, framed by imposing columns and stone architecture. In the foreground, a solitary figure stands inside a vintage glass telephone booth labeled \"Téléphone,\" partially obscured by the booth’s structure. The person, dressed in a dark overcoat, is engaged in a phone call, their posture introspective and slightly hunched, suggesting a moment of private tension or contemplation. \n\nIn the midground, a surreal procession of young girls dressed in identical white dresses and veils moves in single file across the open plaza, their forms ghostly and ethereal against the stark stone. The girls’ veils and garments create a sense of innocence and ritual, contrasting sharply with the modernity and isolation of the phone booth. The composition uses deep focus, allowing both the foreground and background to remain crisp and detailed, enhancing the sense of space and separation between the subjects.\n\nThe lighting is soft and diffuse, typical of overcast daylight, casting gentle shadows and emphasizing the textures of stone and fabric. The overall mood is enigmatic and dreamlike, with a subtle tension between the mundane and the surreal. The camera angle is eye-level, with a slight distance that allows the viewer to take in the entire tableau, evoking a sense of voyeurism and detachment. The style is reminiscent of European art cinema, with a focus on atmosphere, ambiguity, and visual poetry.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:07.192705",
+  "word_count": 228,
+  "error_message": null
+}

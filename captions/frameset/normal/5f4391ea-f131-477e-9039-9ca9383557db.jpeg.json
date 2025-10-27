@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f4391ea-f131-477e-9039-9ca9383557db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands gripping a steering wheel, shot from the driver’s perspective. The subject wears a bright pink or red long-sleeve garment, with their hands firmly positioned at ten and two o’clock on the wheel, conveying focus and anticipation. The background is a dreamy blur of neon lights in vibrant greens, reds, and blues, evoking the atmosphere of a city at night. The lighting is low and moody, with colorful reflections softly illuminating the hands and steering wheel, creating a sense of movement and energy. The depth of field is shallow, keeping the hands and wheel in sharp focus while the background dissolves into abstract bokeh. The overall style is reminiscent of a neo-noir or synthwave aesthetic, with saturated colors and a sense of cinematic tension, as if capturing a pivotal moment in a nighttime drive.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:56.968317",
+  "word_count": 141,
+  "error_message": null
+}

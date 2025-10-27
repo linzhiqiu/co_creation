@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a067c66-70bb-41a8-a87b-243af94f3145.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, sun-drenched scene featuring the weathered stone bell tower of an old church, partially crumbling yet still standing tall against a vivid, cloudless blue sky. The composition is minimalist, with the tower positioned off-center to the right, its rough, textured surface illuminated by harsh, direct sunlight. The sun itself is captured in the frame, glowing intensely and slightly overexposed, casting a radiant halo that bathes the scene in a warm, nostalgic light. The cross atop the tower is silhouetted against the sky, emphasizing the structure’s age and spiritual significance. The overall mood is serene and contemplative, evoking a sense of timelessness and quiet resilience. The color palette is dominated by soft, sun-bleached blues and warm, sandy earth tones, with high contrast and a slight film grain effect, reminiscent of vintage photography or classic European cinema. The camera angle is slightly low, looking up at the tower, enhancing its grandeur and isolation, while the shallow depth of field keeps the focus on the architectural details and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:05.486780",
+  "word_count": 173,
+  "error_message": null
+}

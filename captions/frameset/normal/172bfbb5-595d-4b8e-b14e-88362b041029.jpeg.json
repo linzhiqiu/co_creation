@@ -1,0 +1,12 @@
+{
+  "image_filename": "172bfbb5-595d-4b8e-b14e-88362b041029.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man sits at a table in a sterile, institutional room, likely an interrogation or interview setting. He has a stocky build, short light brown hair, and a serious, contemplative expression, with his hand partially covering his mouth as if deep in thought or concern. He wears a navy blue Reebok jacket over a yellow t-shirt, and a dark wristwatch is visible on his left wrist. The background features a large window with horizontal blinds, revealing a glimpse of a clinical, fluorescent-lit space beyond, with muted green and white tones. The lighting is cool and even, emphasizing the somber, tense mood of the scene. The camera is positioned at eye level, focusing tightly on the man’s upper body and face, with a shallow depth of field that softly blurs the background, drawing attention to his introspective demeanor. The overall color palette is subdued, dominated by blues, greens, and grays, contributing to a realistic, cinematic atmosphere reminiscent of a crime drama or procedural film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:24.104140",
+  "word_count": 164,
+  "error_message": null
+}

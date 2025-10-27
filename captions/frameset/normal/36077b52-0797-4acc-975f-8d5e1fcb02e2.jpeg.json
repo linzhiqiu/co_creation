@@ -1,0 +1,12 @@
+{
+  "image_filename": "36077b52-0797-4acc-975f-8d5e1fcb02e2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic close-up of a man’s face displayed on a futuristic video screen. The man is in his 30s or 40s, with a strong jawline, short brown hair, and a serious yet slightly expressive look, as if he is speaking or about to speak. His features are sharply defined, and his gaze is direct, engaging the viewer. The lighting is cool and artificial, with subtle blue and red highlights reflecting off his skin, suggesting the glow of electronic screens or neon lights. The background is blurred and indistinct, emphasizing the digital nature of the display and drawing all attention to the man’s face. The image has a slight scanline or digital texture, enhancing the sense of a broadcast or surveillance feed. The overall style is reminiscent of 1980s or early 1990s science fiction films, with a clean, high-contrast look and a sense of technological tension. The composition is tight, with the man’s face filling most of the frame, and the edges of the screen visible, reinforcing the idea that this is a transmission or video call within a high-tech environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:35.231072",
+  "word_count": 182,
+  "error_message": null
+}

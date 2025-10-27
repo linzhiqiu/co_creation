@@ -1,0 +1,12 @@
+{
+  "image_filename": "34f01186-8124-4a1a-b303-934095743ec9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young female scientist stands in a high-tech laboratory, intently focused on a digital tablet she holds in both hands. She wears a crisp white lab coat over a dark green top, her hair neatly tied up, exuding a sense of professionalism and concentration. The background is a striking wall of deep blue, covered with handwritten equations, technical diagrams, and a dense array of colorful sticky notes—pinks, oranges, yellows, and blues—each note suggesting a flurry of ideas and ongoing research. To the right, the edge of a robotic arm and a glowing vertical light bar add a futuristic, innovative atmosphere. The lighting is cool and even, with a soft, cinematic quality that highlights the subject’s focused expression and the vibrant colors of the notes. The composition uses a shallow depth of field, keeping the scientist sharply in focus while the background details blur slightly, emphasizing her central role in the scene. The overall mood is one of intelligence, discovery, and cutting-edge science, reminiscent of a modern sci-fi film or a tech startup’s creative workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:14.094681",
+  "word_count": 174,
+  "error_message": null
+}

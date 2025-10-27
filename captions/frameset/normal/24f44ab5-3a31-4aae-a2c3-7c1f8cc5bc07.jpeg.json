@@ -1,0 +1,12 @@
+{
+  "image_filename": "24f44ab5-3a31-4aae-a2c3-7c1f8cc5bc07.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime city scene viewed from an elevated perspective, looking down the center of a wide, multi-lane boulevard. The street is lined with bare trees adorned with delicate strings of small, glowing fairy lights, creating a festive yet subdued atmosphere. Several cars, spaced apart, travel in both directions, their headlights casting soft pools of light on the wet, reflective asphalt. The overall color palette is monochromatic, rendered in black and white, emphasizing contrasts between the illuminated street, the dark sky, and the shimmering reflections. The lighting is gentle and ambient, with streetlights casting a diffuse glow and enhancing the sense of quiet urban solitude. The composition is symmetrical, with the road’s central dividing line leading the viewer’s eye into the distance, evoking a sense of depth and calm. The mood is contemplative and serene, reminiscent of classic film noir or fine art street photography, with a focus on geometry, light, and the subtle interplay between human presence and the urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:28.093770",
+  "word_count": 162,
+  "error_message": null
+}

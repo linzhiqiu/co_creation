@@ -1,0 +1,12 @@
+{
+  "image_filename": "343868c3-8667-4b1b-9b4c-df1bc18d1d84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A professional office scene featuring a young woman with long dark hair, dressed in a navy blue blazer over a white blouse, seated at a modern desk. She is engaged in a focused video call or virtual meeting, gesturing with one hand while looking intently at her open laptop. The desk is organized, with a turquoise water bottle, a matching tray, and a potted plant adding pops of color to the otherwise neutral workspace. In the background, a large whiteboard with a weekly schedule written in Portuguese is visible, softly out of focus, suggesting a collaborative and organized work environment. The lighting is bright and natural, streaming in from the left, creating a clean, airy atmosphere. The composition is balanced, with a shallow depth of field that keeps the woman sharply in focus while gently blurring the background, evoking a sense of professionalism, concentration, and modern office life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:51.374595",
+  "word_count": 148,
+  "error_message": null
+}

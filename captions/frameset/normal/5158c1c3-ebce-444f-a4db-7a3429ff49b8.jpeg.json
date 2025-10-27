@@ -1,0 +1,12 @@
+{
+  "image_filename": "5158c1c3-ebce-444f-a4db-7a3429ff49b8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt to generate this image:\n\n\"Three men collaborating intently around a laptop in a well-lit indoor setting. The central figure, a young man with short hair and a mustache, wears a red plaid shirt and sits focused on the screen. To his left, a bald man with glasses and a trimmed beard, dressed in a dark shirt, leans in attentively. On the right, a man in a light blue polo shirt with a lanyard and ID badge stands, slightly bent over, observing the laptop and engaging with the others. The background features a light-colored wall with a wooden panel, and the overall color palette is warm and natural, with soft, even lighting that highlights the subjects’ faces and expressions of concentration. The composition is tight and intimate, shot at eye level with a shallow depth of field that keeps the focus on the trio and their collaborative energy, evoking a sense of teamwork and problem-solving in a professional or educational environment.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:27.274781",
+  "word_count": 164,
+  "error_message": null
+}

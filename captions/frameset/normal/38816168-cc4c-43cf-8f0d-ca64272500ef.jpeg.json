@@ -1,0 +1,12 @@
+{
+  "image_filename": "38816168-cc4c-43cf-8f0d-ca64272500ef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene featuring a rugged, determined man standing in heavy rain at night. He has long, wet hair partially covered by a headband, and his expression is intense and contemplative as he looks upward, illuminated by a soft, diffused light that highlights the raindrops cascading down his face and leather jacket. The background is dark and indistinct, shrouded in shadow and mist, enhancing the dramatic, moody atmosphere. The color palette is dominated by cool blues and grays, with subtle highlights on the wet surfaces. The camera angle is slightly low, capturing the subject from the chest up and emphasizing his stoic presence against the relentless downpour. The overall style is reminiscent of a gritty action film, with a shallow depth of field that keeps the focus tightly on the man's face and the texture of the rain, evoking a sense of resilience and tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:30.112105",
+  "word_count": 146,
+  "error_message": null
+}

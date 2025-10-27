@@ -1,0 +1,12 @@
+{
+  "image_filename": "19fca908-0936-43fc-9c67-583d20994e85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A photorealistic scene of a modern kitchen, focusing on a stainless steel refrigerator adorned with two vibrant children's paintings taped to the doors. The left painting features a large, pink flower with a green stem and leaves, and a yellow sun in the corner, rendered in a playful, expressive style. The right painting depicts a colorful rainbow arcing over green hills, with a bright yellow sun, a blue sky, and a tree with multicolored leaves or blossoms, all painted with loose, joyful brushstrokes. The refrigerator has a built-in water and ice dispenser, and the metallic surface reflects soft, natural daylight, creating a gentle, inviting atmosphere. The background includes a glimpse of white cabinetry and a dark countertop, with the overall color palette dominated by cool silvers and whites, punctuated by the vivid, primary colors of the children's artwork. The composition is straightforward and documentary, with a slight depth of field that keeps the focus on the refrigerator and the artwork, evoking a sense of warmth, family, and everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:28.327534",
+  "word_count": 169,
+  "error_message": null
+}

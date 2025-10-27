@@ -1,0 +1,12 @@
+{
+  "image_filename": "181f68e6-a639-40d6-8def-3817515a0b6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, shallow depth-of-field shot taken from the perspective of the back seat of a modern car, focusing on a woman sitting in the front passenger seat. She is dressed in a teal outfit, her hands gently resting on her lap, one hand placed over her stomach in a relaxed, contemplative gesture. The interior of the car is sleek and minimalistic, with a large touchscreen visible on the dashboard, hinting at advanced technology. The background outside the car window is softly blurred, revealing the indistinct forms of urban buildings and parked cars, contributing to a sense of quiet isolation. The lighting is natural and diffused, suggesting an overcast day or shaded environment, with soft highlights and muted colors that create a calm, introspective mood. The composition emphasizes intimacy and tranquility, with the camera angle slightly off-center, drawing attention to the subject’s posture and the serene atmosphere inside the vehicle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:44.220559",
+  "word_count": 149,
+  "error_message": null
+}

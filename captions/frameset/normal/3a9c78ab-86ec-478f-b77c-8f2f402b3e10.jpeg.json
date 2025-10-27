@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a9c78ab-86ec-478f-b77c-8f2f402b3e10.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, atmospheric landscape scene of a desolate, rocky shoreline at low tide, viewed from a low angle. The foreground is dominated by dark, wet sand and scattered stones, with intricate, organic patterns formed by receding water. The surface glistens subtly, reflecting the dim, overcast sky above. The horizon is barely visible, shrouded in mist and shadow, evoking a sense of isolation and quiet. The color palette is muted and monochromatic, with deep grays, charcoal blacks, and hints of cold blue. The lighting is soft and diffuse, as if captured during twilight or just before dawn, with no direct sunlight. The overall style is cinematic and contemplative, emphasizing texture, depth, and the stark beauty of the natural environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:19.264813",
+  "word_count": 119,
+  "error_message": null
+}

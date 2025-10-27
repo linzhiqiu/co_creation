@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ebd00f9-2228-4b7b-b7a7-e17a8f6c3d81.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast close-up portrait of a person's face, focusing on the nose, lips, and part of the cheek, with the rest of the features fading into deep shadow. The lighting is extremely low-key, with a single, soft light source illuminating only the central part of the face, creating a mysterious and intimate atmosphere. The skin texture is visible, and the lips are slightly parted, suggesting a contemplative or somber mood. The background is completely black, and the edges of the face dissolve into darkness, emphasizing the chiaroscuro effect. The overall color palette is monochromatic, dominated by deep blacks and muted grays, evoking a noir or fine art photography style. The composition is tight and intimate, with a shallow depth of field and a cinematic, almost haunting quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:13.712949",
+  "word_count": 129,
+  "error_message": null
+}

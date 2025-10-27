@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e4ae826-37dd-4e63-9831-0ab7f1a4abc9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of several handwritten order tickets clipped to a metal rail, as seen in a busy restaurant kitchen. The focus is shallow, with the nearest ticket in sharp detail while the others blur into the background, creating a strong sense of depth. The tickets are slightly crumpled, with blue lines and cursive writing visible, evoking a sense of urgency and activity. The color palette is cool and muted, dominated by soft blues and greys, with warm, out-of-focus amber tones in the background suggesting the glow of kitchen lights. The lighting is low and moody, casting gentle shadows and highlighting the texture of the paper. The composition is cinematic, with a narrow depth of field and a slight tilt, immersing the viewer in the behind-the-scenes atmosphere of a working kitchen. The overall style is reminiscent of a dramatic film, capturing the anticipation and organized chaos of food service.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:42.348894",
+  "word_count": 149,
+  "error_message": null
+}

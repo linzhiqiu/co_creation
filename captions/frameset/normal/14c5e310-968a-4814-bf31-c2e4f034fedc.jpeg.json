@@ -1,0 +1,12 @@
+{
+  "image_filename": "14c5e310-968a-4814-bf31-c2e4f034fedc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA moody, cinematic scene set deep within a dense, misty forest of tall pine trees. The foreground is dominated by the upper section of a modern military vehicle, partially camouflaged with netting and natural foliage, blending seamlessly into the woodland environment. Prominently mounted on the vehicle is a high-tech periscope or sensor array, its lens and electronic components catching a faint glint of ambient light. The muted, overcast lighting casts a cool, bluish-gray tone across the entire image, enhancing the sense of secrecy and tension. The background is softly blurred, with tree trunks and branches receding into a foggy, atmospheric haze, creating a strong sense of depth and isolation. The overall composition is balanced and immersive, with a shallow depth of field focusing attention on the vehicle’s technology while the forest looms quietly around it. The style is reminiscent of a suspenseful war film or a tactical thriller, evoking a mood of anticipation and stealth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:29.258448",
+  "word_count": 156,
+  "error_message": null
+}

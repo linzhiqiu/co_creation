@@ -1,0 +1,12 @@
+{
+  "image_filename": "232ab04e-c2e6-4038-9ab6-c45fe2cfc195.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a reflective tabletop scattered with peanut shells and delicate flower petals, bathed in moody, cinematic lighting. The foreground is in soft focus, emphasizing the textures of the shells and petals, while the background blurs into abstract shapes and glowing bokeh, suggesting neon or fluorescent lights. A cylindrical object, possibly a drink can or cup with a colorful label, sits out of focus in the upper left, adding a casual, lived-in atmosphere. The color palette is dominated by cool purples and blues, with subtle hints of magenta and yellow highlights, creating a dreamy, nocturnal ambiance. The overall style is reminiscent of neo-noir or art-house cinematography, with a contemplative, almost melancholic mood, and a strong emphasis on tactile detail and atmospheric lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:46.528367",
+  "word_count": 126,
+  "error_message": null
+}

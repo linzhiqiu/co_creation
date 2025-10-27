@@ -1,0 +1,12 @@
+{
+  "image_filename": "56e59f04-8e66-4b7f-a8b9-633970e1d3b6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a coastal Mediterranean town, captured from directly overhead in soft, diffused daylight. The composition features a dense cluster of whitewashed buildings with flat and terracotta-tiled roofs, arranged in an organic, labyrinthine pattern along narrow, winding streets. The structures are tightly packed, creating a mosaic of geometric shapes and subtle shadows. To the left, the rugged coastline and rocky terrain transition into the town, while to the right, the deep blue sea gently laps against the edge of the settlement. The color palette is dominated by sun-bleached whites, muted earth tones, and the cool blues of the water, evoking a serene, timeless atmosphere. The overall style is cinematic and contemplative, with a slight haze softening the scene, suggesting early morning or late afternoon light. The image conveys a sense of tranquility and history, emphasizing the harmonious relationship between architecture and natural landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:34.100022",
+  "word_count": 146,
+  "error_message": null
+}

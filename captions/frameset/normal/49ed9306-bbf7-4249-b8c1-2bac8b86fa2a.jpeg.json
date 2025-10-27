@@ -1,0 +1,12 @@
+{
+  "image_filename": "49ed9306-bbf7-4249-b8c1-2bac8b86fa2a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial photograph of a busy multi-lane highway during daylight, captured from a perfectly vertical, top-down perspective. The composition features several rows of cars, SUVs, and a few trucks, all neatly aligned in their respective lanes, creating a sense of order and repetition. The vehicles are a mix of neutral tones—black, white, gray, and silver—with occasional pops of color such as a red car and a tan vehicle, adding visual interest. The asphalt is sunlit, with subtle shadows cast by the vehicles, suggesting midday lighting and clear weather. The overall color palette is muted and realistic, dominated by the grays of the road and the subdued hues of the cars. The image has a crisp, documentary style with sharp focus and high detail, emphasizing the geometric patterns formed by the traffic. There is no visible background beyond the road surface, keeping the viewer’s attention on the organized congestion and the rhythmic flow of urban life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:32.329158",
+  "word_count": 156,
+  "error_message": null
+}

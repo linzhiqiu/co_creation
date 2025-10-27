@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f26cadc-ad4e-45de-89e3-2bc3c55636cd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, low-angle shot looking up at an old, weathered basketball hoop inside a dimly lit, abandoned gymnasium. The focus is on a basketball caught mid-air as it swishes cleanly through the rusty metal rim and frayed net, capturing the precise moment of a perfect shot. The backboard is aged, with peeling paint and visible rust, adding a sense of nostalgia and grit. Sunlight streams in through high, dusty windows, casting dramatic beams and soft lens flares across the scene, illuminating floating dust particles and creating a hazy, dreamlike atmosphere. The color palette is muted and earthy, dominated by browns, grays, and faded reds, with subtle highlights from the sunlight. The overall style is evocative and cinematic, with shallow depth of field emphasizing the hoop and ball, while the background remains softly blurred, enhancing the sense of isolation and focus on the fleeting moment of triumph.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:21.279223",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1530534c-e5c2-46fc-b9b7-6664e09e7157.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a tranquil, minimalist seascape at dusk, viewed from above at a slight angle. The composition focuses on the gentle meeting of shallow tidal ripples and smooth, undisturbed water, with subtle, organic patterns where the two textures converge. The color palette is dominated by deep indigos, muted purples, and soft, warm amber highlights, evoking the last light of sunset reflecting off the water’s surface. The lighting is low and diffuse, casting a serene, almost meditative mood across the scene. There are no human figures or objects—just the abstract interplay of light, shadow, and water. The overall style is cinematic and contemplative, with a shallow depth of field that softly blurs the edges, emphasizing the delicate gradients and natural forms. The image should feel peaceful, introspective, and timeless, inviting the viewer to linger in the quiet beauty of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:39.686340",
+  "word_count": 139,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "490f5921-0873-49b6-b67c-29e62911cbc2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic cityscape of a modern downtown area, viewed from an elevated vantage point during daytime under a cloudy sky. The composition features a dense cluster of mid-rise and high-rise buildings with a mix of glass, steel, and brick facades, showcasing contemporary urban architecture. In the foreground, winding roads and overpasses curve through a patchwork of trees and older, low-rise residential buildings with red and beige exteriors. The city is surrounded by a backdrop of distant mountains, partially shrouded in mist, adding depth to the scene. The color palette is cool and subdued, dominated by shades of blue, gray, and muted greens, with occasional pops of red and orange from rooftops and vehicles. The lighting is soft and diffused, suggesting an overcast day, which enhances the moody, contemplative atmosphere. The overall style is reminiscent of a dramatic film still, with a slight vignette and shallow depth of field that draws the viewer’s eye toward the heart of the city.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:14.669999",
+  "word_count": 159,
+  "error_message": null
+}

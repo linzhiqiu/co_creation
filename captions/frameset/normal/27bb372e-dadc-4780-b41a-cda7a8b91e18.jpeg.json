@@ -1,0 +1,12 @@
+{
+  "image_filename": "27bb372e-dadc-4780-b41a-cda7a8b91e18.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a moody, atmospheric nighttime scene of an ancient, crumbling adobe fortress or village, set under a dramatic, cloud-filled sky. The architecture features tall, irregularly shaped walls and towers, with rough, weathered surfaces and organic, rounded edges, evoking a sense of age and abandonment. The color palette is dominated by deep blues, muted grays, and subtle hints of moonlight, casting the entire scene in shadow and lending a mysterious, almost haunting quality. The lighting is low and diffuse, with only faint illumination from the cloud-obscured moon, creating strong contrasts and deep, enveloping darkness. The composition is wide and cinematic, with the silhouette of the fortress rising against the turbulent sky, emphasizing the scale and isolation of the setting. The overall style is realistic yet painterly, with a focus on texture, atmosphere, and the interplay of light and shadow to evoke a sense of quiet desolation and ancient mystery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:19.481338",
+  "word_count": 149,
+  "error_message": null
+}

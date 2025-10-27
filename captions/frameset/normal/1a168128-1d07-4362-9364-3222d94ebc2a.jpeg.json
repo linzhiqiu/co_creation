@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a168128-1d07-4362-9364-3222d94ebc2a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, wide-angle action shot of three cyclists racing down a winding mountain road. The lead cyclist, dressed in a fitted blue cycling jersey and black shorts, is captured in sharp focus at the center of the frame, leaning into a curve with intense concentration. Two other cyclists follow closely behind, similarly attired in professional cycling gear, their bodies angled to match the road’s bend. The scene is set on a sunlit day, with clear blue skies and wispy clouds overhead. The road curves dramatically to the right, bordered by a metal guardrail and rugged, shrub-covered slopes on the left. The camera is positioned low and slightly ahead of the cyclists, creating a sense of speed and motion blur in the foreground and along the road edges. The color palette is natural and vibrant, with earthy browns and greens contrasting against the cyclists’ bright attire and the crisp blue sky. The overall style is cinematic and energetic, emphasizing movement, athleticism, and the thrill of outdoor adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:31.859780",
+  "word_count": 166,
+  "error_message": null
+}

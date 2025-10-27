@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e5e948b-337f-4ea4-8e0f-575eac949dfc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, close-up side profile of a young woman driving a car, captured from the passenger seat. She has long, straight brown hair and a calm, contemplative expression, her gaze focused ahead. The lighting is natural and soft, with daylight streaming through the car window, gently illuminating her face and casting subtle shadows that enhance her features. The background outside the window is softly blurred, suggesting motion and creating a shallow depth of field, with hints of greenery and a touch of red, evoking a serene, summery atmosphere. The color palette is muted and realistic, dominated by gentle earth tones and soft highlights, contributing to a quiet, introspective mood. The composition is intimate and balanced, with the subject’s face in sharp focus and the car interior framing her, evoking a sense of solitude and thoughtful journey. The overall style is reminiscent of modern cinematic drama, with a focus on naturalism and emotional subtlety.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:11.056113",
+  "word_count": 153,
+  "error_message": null
+}

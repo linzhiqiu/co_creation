@@ -1,0 +1,12 @@
+{
+  "image_filename": "169e3816-dd93-4347-ac1f-9ebb6e4780d7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a printed sheet of numbers, with a red pen in the foreground actively circling the number \"38\" in bold red ink. The focus is sharp on the pen tip and the circled number, while the surrounding numbers and text blur softly into the background, creating a sense of immediacy and concentration. The lighting is cool and subdued, casting a bluish tint over the paper and enhancing the contrast with the vivid red ink. The composition is intimate and precise, evoking the tension and focus of analysis or grading, with the pen’s motion slightly blurred to suggest action. The overall style is cinematic and contemplative, reminiscent of a dramatic moment in a film where a critical detail is being highlighted or discovered.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:08.760999",
+  "word_count": 127,
+  "error_message": null
+}

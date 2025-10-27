@@ -1,0 +1,12 @@
+{
+  "image_filename": "53e31586-7554-4a44-8979-dfcd81870e32.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure sits in the center of a dimly lit, empty auditorium, the rows of vacant seats receding into shadowy obscurity behind them. The subject, positioned in the foreground and facing the camera, wears a large, futuristic virtual reality headset that obscures their eyes, lending an air of mystery and detachment. Their hair is styled in tight braids, and they are dressed in casual, modern clothing with a light jacket. The entire scene is bathed in a deep, monochromatic red light, casting dramatic shadows and creating a surreal, almost dystopian atmosphere. The lighting is low and diffuse, with no harsh highlights, emphasizing the immersive, otherworldly mood. The composition is symmetrical and centered, with a shallow depth of field that keeps the focus on the subject while the background remains softly blurred. The overall style is cinematic, evoking a sense of isolation, introspection, and technological immersion, as if the viewer is witnessing a pivotal moment in a science fiction narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:20.994216",
+  "word_count": 160,
+  "error_message": null
+}

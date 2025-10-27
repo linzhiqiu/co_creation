@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b9390be-8ac0-42c3-a494-9aa1f001b32d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic aerial view of a dense forest canopy, captured from directly overhead. The scene is dominated by a rich tapestry of evergreen trees, their needle-like foliage forming a textured mosaic of deep greens, muted olives, and subtle hints of golden sunlight filtering through the upper branches. The lighting is soft and diffused, suggesting either early morning or late afternoon, with gentle shadows adding depth and dimension to the treetops. The composition is symmetrical and immersive, with the trees filling the entire frame, creating a sense of endless wilderness. The edges of the image are slightly blurred, evoking a shallow depth of field and drawing the viewer’s focus toward the center of the forest. The overall mood is tranquil and mysterious, with a natural color palette and a slightly desaturated, moody tone reminiscent of fine art landscape photography or a contemplative nature documentary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:08.466207",
+  "word_count": 143,
+  "error_message": null
+}

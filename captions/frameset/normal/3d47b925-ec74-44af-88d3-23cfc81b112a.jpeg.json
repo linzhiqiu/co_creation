@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d47b925-ec74-44af-88d3-23cfc81b112a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic black and white landscape photograph capturing a towering, rugged mountain range under a partly cloudy sky. The composition is dominated by the sheer, textured rock faces of the mountains, their striations and jagged edges rendered in sharp detail. The camera angle is low, looking up at the imposing cliffs, emphasizing their monumental scale and verticality. The lighting is natural and diffuse, with soft shadows accentuating the depth and contours of the rock formations. Wispy clouds drift across the upper portion of the frame, adding a sense of openness and contrast to the solid mass of the mountains. The overall mood is stark and timeless, evoking a sense of awe and solitude, with a classic, almost cinematic quality reminiscent of vintage landscape photography. The absence of color focuses attention on the interplay of light, shadow, and texture, highlighting the raw beauty and grandeur of the natural scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:19.906238",
+  "word_count": 148,
+  "error_message": null
+}

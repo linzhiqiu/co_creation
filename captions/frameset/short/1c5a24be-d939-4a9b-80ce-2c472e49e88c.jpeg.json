@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c5a24be-d939-4a9b-80ce-2c472e49e88c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A post-apocalyptic cityscape bathed in sepia tones, with crumbling, skeletal skyscrapers silhouetted against a hazy, backlit sky. Debris floats through the air, and shafts of sunlight pierce the ruins, creating a haunting, cinematic atmosphere of desolation and quiet aftermath. Wide-angle, deep focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:12.936409",
+  "word_count": 42,
+  "error_message": null
+}

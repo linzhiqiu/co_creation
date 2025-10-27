@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a123d8f-d787-469e-bb9e-2fcfd9af2704.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic, cinematic landscape at dusk, featuring an active volcano erupting with glowing molten lava. The scene is dominated by the intense orange and red hues of the lava, which illuminate the dark, rugged silhouette of the volcanic crater. Billowing plumes of smoke and steam rise from the eruption, catching the fiery light and creating a striking contrast against the deep blue and indigo tones of the twilight sky. Scattered clouds are faintly visible on the horizon, adding depth and atmosphere to the composition. The overall lighting is low, with the volcano serving as the primary light source, casting an eerie, otherworldly glow across the scene. The camera angle is elevated, offering a wide, sweeping view of the volcanic landscape and emphasizing the raw power and isolation of the eruption. The mood is intense and awe-inspiring, capturing the primal energy of nature in a moment of dramatic transformation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:04.359690",
+  "word_count": 149,
+  "error_message": null
+}

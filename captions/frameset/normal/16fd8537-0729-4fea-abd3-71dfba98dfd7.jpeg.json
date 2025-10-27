@@ -1,0 +1,12 @@
+{
+  "image_filename": "16fd8537-0729-4fea-abd3-71dfba98dfd7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a meticulously composed overhead shot of a theatrical stage set, designed to resemble a small town mapped out on a dark, matte floor. The scene is viewed directly from above, evoking a blueprint or diorama, with white lines and handwritten labels demarcating streets, houses, and notable locations such as \"Olivia and June,\" \"The Hiding,\" \"House of Jeremiah,\" and \"Ben's Garage.\" Scattered across the stage are minimal, realistic set pieces: a vintage car, a few pieces of furniture, and small props that suggest domestic life, all arranged within their respective outlined spaces. \n\nAt the center, a small group of people stands together, their figures casting soft, diffused shadows, suggesting gentle, even stage lighting. The color palette is subdued and cool, dominated by deep blues and grays, with occasional warm brown and beige accents from the props and furniture. The overall style is minimalist and conceptual, with a strong sense of artificiality and theatricality—walls and rooms are implied rather than built, and the boundaries between spaces are purely graphic. The composition is precise and geometric, with a sense of order and clarity, while the elevated camera angle flattens the scene, emphasizing the schematic, almost surreal quality of the environment. The mood is contemplative and slightly detached, inviting the viewer to observe the town and its inhabitants as if studying a model or a plan, rather than immersing in a lived-in world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:33.174633",
+  "word_count": 230,
+  "error_message": null
+}

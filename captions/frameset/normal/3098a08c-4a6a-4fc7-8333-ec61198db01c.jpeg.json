@@ -1,0 +1,12 @@
+{
+  "image_filename": "3098a08c-4a6a-4fc7-8333-ec61198db01c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-tech television studio control room scene, focusing on a close-up of a teleprompter setup. The teleprompter screen displays bold white text on a black background, with phrases like “BEST TO FAKE IT… (SMILE)” and “(WHITE)” clearly visible, evoking a sense of behind-the-scenes media production. Below the teleprompter, a digital clock with bright yellow numbers reads “15:28:37,” adding a sense of urgency and real-time broadcast atmosphere. In the background, out-of-focus monitors and complex technical equipment fill the space, with one screen showing a large stylized letter “A.” The color palette is dominated by cool blues and blacks, with sharp contrasts and crisp lighting that highlights the sleek, modern technology. The composition uses a shallow depth of field, drawing attention to the teleprompter while the background remains blurred, enhancing the immersive, professional, and slightly mysterious mood of a live broadcast environment. The overall style is reminiscent of a contemporary thriller or documentary, with a focus on precision, tension, and the unseen mechanics of media production.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:36.139071",
+  "word_count": 166,
+  "error_message": null
+}

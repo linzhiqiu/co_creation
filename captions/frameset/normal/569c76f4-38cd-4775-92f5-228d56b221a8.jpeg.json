@@ -1,0 +1,12 @@
+{
+  "image_filename": "569c76f4-38cd-4775-92f5-228d56b221a8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a man with pale skin and an intense, focused expression, leaning in very close to a computer monitor. The man’s face is partially shadowed, emphasizing his furrowed brow and determined gaze as he stares at the screen. He wears a simple, dark shirt, and the lighting is soft but slightly cool, casting subtle blue and orange tones across his face and the background. The computer monitor dominates the right side of the frame, displaying a retro-style operating system with a whimsical, blue and teal circular patterned wallpaper. At the center of the screen is a prominent progress bar labeled “loading,” stuck at 99%, adding a sense of tension and anticipation. The background is softly blurred, with hints of warm, orange ambient light suggesting a cozy, dimly lit room. The overall composition uses a shallow depth of field to keep the viewer’s attention on the man’s face and the computer screen, creating a dramatic, almost suspenseful atmosphere reminiscent of a psychological thriller or a scene from a late-90s tech drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:26.017412",
+  "word_count": 174,
+  "error_message": null
+}

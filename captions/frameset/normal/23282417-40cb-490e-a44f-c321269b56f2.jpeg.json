@@ -1,0 +1,12 @@
+{
+  "image_filename": "23282417-40cb-490e-a44f-c321269b56f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with wet, tousled hair and a distressed expression sits slumped against the metal wall of a dimly lit ship’s interior. He wears a dark, military-style jacket, his face illuminated by a cold, bluish light that casts deep shadows and heightens the sense of tension and exhaustion. The background is blurred, but the suggestion of a narrow stairway and industrial details evoke the claustrophobic confines of a naval vessel. The composition is intimate and close, with the camera positioned at a low angle, emphasizing the subject’s vulnerability and isolation. The overall color palette is dominated by desaturated blues and greys, creating a somber, cinematic atmosphere reminiscent of wartime dramas. The lighting is low-key and moody, with soft focus and shallow depth of field drawing attention to the man’s anxious gaze upward, as if searching for hope or awaiting an uncertain fate.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:45.247051",
+  "word_count": 143,
+  "error_message": null
+}

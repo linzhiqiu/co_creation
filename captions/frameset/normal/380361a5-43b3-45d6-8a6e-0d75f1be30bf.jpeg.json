@@ -1,0 +1,12 @@
+{
+  "image_filename": "380361a5-43b3-45d6-8a6e-0d75f1be30bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, industrial interior with a gritty, cinematic atmosphere. The scene is composed in a wide, horizontal frame, emphasizing depth and space. Six figures walk in single file from left to right, their silhouettes partially illuminated by warm, golden overhead lighting that casts dramatic shadows on the concrete walls and tiled floor. The first figure wears a light blue bucket hat and a pale jacket, followed by others in casual and business attire, one carrying a briefcase. Their expressions are mostly obscured by shadow, adding an air of mystery and tension. The group ascends a metal staircase at the far right, which is bathed in a soft, focused light, creating a strong contrast with the darker surroundings. Scattered metal buckets and debris litter the floor, enhancing the sense of neglect and realism. The color palette is dominated by ochre, amber, and muted earth tones, with subtle highlights reflecting off wet surfaces. The overall style is reminiscent of neo-noir or crime thrillers, with a low camera angle and shallow depth of field that draws attention to the figures and their purposeful movement through the stark, industrial environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:22.521613",
+  "word_count": 187,
+  "error_message": null
+}

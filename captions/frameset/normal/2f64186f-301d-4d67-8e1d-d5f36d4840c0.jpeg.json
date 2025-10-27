@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f64186f-301d-4d67-8e1d-d5f36d4840c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single person sits on a modern, mustard-yellow sofa positioned in the exact center of a vast, minimalist room with seamless pale blue-gray walls and floor, creating a sense of infinite space. The subject, seen from behind, wears a striking red-orange jacket that contrasts vividly with the muted background and the sofa. Their arms are stretched out along the backrest, evoking a relaxed yet commanding posture. The lighting is soft and diffuse, casting gentle, shadowless illumination that enhances the clean, almost surreal atmosphere. The composition is perfectly symmetrical, with the sofa and figure forming a strong horizontal line across the lower third of the frame, emphasizing isolation and introspection. The camera angle is straight-on at eye level, with a deep depth of field that keeps every element crisp and clear. The overall style is cinematic and contemplative, reminiscent of high-concept editorial photography or a scene from an art-house film, with a cool, desaturated color palette punctuated by the warm tones of the sofa and clothing.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:08.091611",
+  "word_count": 165,
+  "error_message": null
+}

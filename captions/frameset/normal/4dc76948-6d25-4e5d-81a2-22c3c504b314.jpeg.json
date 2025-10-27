@@ -1,0 +1,12 @@
+{
+  "image_filename": "4dc76948-6d25-4e5d-81a2-22c3c504b314.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large satellite dish dominates the foreground, angled upward against a deep, star-speckled night sky. The scene is set on a gentle grassy slope, with the dish’s white surface catching the faint, cool blue illumination of moonlight. In the background, additional satellite dishes recede into the darkness, partially obscured by shadow and distance, adding depth and a sense of technological isolation. Dense, dark trees line the horizon, their forms barely distinguishable in the low light, enhancing the remote and mysterious atmosphere. The overall color palette is composed of rich midnight blues and muted greens, with stark white highlights on the satellite dishes. The lighting is soft and naturalistic, evoking a quiet, contemplative mood. The camera angle is low and slightly tilted, emphasizing the scale of the satellite dish and the expanse of the night. The composition is cinematic, with a strong sense of depth and solitude, reminiscent of classic science fiction or atmospheric thrillers.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:58.245354",
+  "word_count": 154,
+  "error_message": null
+}

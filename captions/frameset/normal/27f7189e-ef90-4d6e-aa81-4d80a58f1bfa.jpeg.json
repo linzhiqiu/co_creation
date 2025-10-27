@@ -1,0 +1,12 @@
+{
+  "image_filename": "27f7189e-ef90-4d6e-aa81-4d80a58f1bfa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime urban scene set in a quiet, dimly lit residential area. The composition is anchored by a stark white building on the right, its wall adorned with graffiti tags and a barred window. A large, looming human shadow is cast dramatically onto the wall, suggesting the presence of an unseen figure just out of frame, adding an air of suspense and mystery. The left side of the image reveals a deserted sidewalk lined with large, irregular boulders, leading the viewer’s eye toward a distant parking lot filled with cars and softly glowing streetlights. In the background, tall apartment buildings with illuminated windows rise against the night sky, contributing to the urban atmosphere. The color palette is subdued, dominated by cool purples, deep blues, and muted yellows from artificial lighting. The overall style is gritty and realistic, with a slight film grain and low-key lighting that enhances the sense of isolation and tension. The camera angle is at street level, with a wide depth of field that keeps both the foreground and background in focus, emphasizing the emptiness and stillness of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:24.508121",
+  "word_count": 185,
+  "error_message": null
+}

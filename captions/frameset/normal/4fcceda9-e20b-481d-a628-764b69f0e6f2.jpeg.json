@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fcceda9-e20b-481d-a628-764b69f0e6f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage computer workstation in a softly lit office environment, evoking a late 1990s or early 2000s aesthetic. The main subject is a beige CRT monitor displaying multiple overlapping windows of an old Windows operating system, with classic blue title bars and gray dialog boxes, suggesting multitasking or technical work. The monitor sits atop a matching beige desktop tower, with part of a printer visible to the right. The background is softly out of focus, revealing a window with diffused daylight and indistinct office elements, such as papers pinned to a corkboard and blurred office equipment. The color palette is muted and nostalgic, dominated by beige, off-white, and cool blue tones from the screen, with gentle natural light creating a calm, slightly melancholic atmosphere. The composition is straightforward, with the monitor centered and shot at eye level, emphasizing the retro technology and evoking a sense of quiet productivity or digital nostalgia.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:49.444038",
+  "word_count": 155,
+  "error_message": null
+}

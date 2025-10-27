@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d68ad81-e164-4aa7-ba05-416fce883bcc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set at sunset in Paris, with the iconic Eiffel Tower rising majestically in the softly blurred background. The foreground is dominated by the out-of-focus silhouette of a drummer and his drum kit, their metallic surfaces catching the warm, golden-pink light of dusk. The cityscape stretches out beneath a pastel sky, suffused with gentle gradients of peach, lavender, and rose, evoking a dreamy, romantic atmosphere. The composition uses a shallow depth of field, with the drummer and instruments rendered as abstract shapes and glints, while the Eiffel Tower stands sharp and clear in the distance, anchoring the scene. The overall style is evocative of a music video or a travel film, with a sense of motion and anticipation, and a color palette that emphasizes warmth, nostalgia, and the magic of twilight in Paris.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:21.977549",
+  "word_count": 135,
+  "error_message": null
+}

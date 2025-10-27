@@ -1,0 +1,12 @@
+{
+  "image_filename": "348e9816-037f-4c03-9bae-95f46ea9690a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands on a deserted, leaf-strewn sidewalk, his figure slightly hunched and hands tucked into the pockets of a long, dark overcoat. He wears a brimmed hat that casts a shadow over his face, lending him an air of mystery and introspection. The scene is captured at a dramatic Dutch angle, tilting the entire composition and imbuing it with a sense of unease and psychological tension. Bare, spindly trees line the walkway, their stark branches casting intricate, elongated shadows across the pavement and the adjacent wall, which stretches into the distance and dominates the right side of the frame. The color palette is muted and sepia-toned, with a yellowish-green cast that evokes a vintage, almost dreamlike atmosphere. The lighting is soft but directional, suggesting late afternoon or early evening, and the overall style is cinematic, reminiscent of classic noir or psychological thrillers. The depth of field is moderate, keeping the man and the immediate environment in sharp focus while the background gently blurs, drawing attention to the subject and the unsettling mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:02.740474",
+  "word_count": 177,
+  "error_message": null
+}

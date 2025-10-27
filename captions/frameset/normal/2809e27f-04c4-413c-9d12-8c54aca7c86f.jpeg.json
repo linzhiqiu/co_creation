@@ -1,0 +1,12 @@
+{
+  "image_filename": "2809e27f-04c4-413c-9d12-8c54aca7c86f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist overhead shot set at night, focusing on a dark, almost black body of water. In the composition, place two distinct, luminous elements floating on the water’s surface: on the left, a cool, bluish-white glowing orb radiates soft, ethereal light, subtly illuminating the rippling water around it; on the right, a large, circular structure is dramatically engulfed in bright, orange-yellow flames, casting a warm, flickering glow and reflecting fiery light onto the water. The two light sources contrast sharply in both color and intensity, creating a sense of tension and mystery. The background remains deep and shadowy, with only the faintest hints of texture from the water. The overall mood is enigmatic and cinematic, with a high-contrast color palette dominated by inky blacks, cool blues, and vivid oranges. The style is atmospheric and abstract, evoking a sense of otherworldliness and suspense, as if capturing a pivotal, symbolic moment from a science fiction or psychological thriller film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:26.207081",
+  "word_count": 159,
+  "error_message": null
+}

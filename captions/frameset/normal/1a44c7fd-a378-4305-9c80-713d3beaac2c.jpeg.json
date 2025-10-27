@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a44c7fd-a378-4305-9c80-713d3beaac2c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, highly stylized image of a large blue star shape as the central subject, rendered completely out of focus to produce a dreamy, abstract effect. The star is set against a warm, softly illuminated background in tones of peach and beige, creating a gentle contrast with the deep blue of the star. The image is dominated by circular bokeh highlights, especially concentrated at the center of the star, where a bright, glowing light source creates a halo of overlapping, translucent orbs. The overall composition is simple and minimalistic, with the star slightly off-center and the edges fading into the background. The color palette is limited but striking, featuring rich blues and warm neutrals. The lighting is soft and diffused, enhancing the ethereal, cinematic quality of the scene. The camera angle is straight-on, with a shallow depth of field that blurs all details, focusing instead on the interplay of light, color, and shape to evoke a sense of wonder and abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:34.007428",
+  "word_count": 162,
+  "error_message": null
+}

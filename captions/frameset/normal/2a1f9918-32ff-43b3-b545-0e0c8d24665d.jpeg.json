@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a1f9918-32ff-43b3-b545-0e0c8d24665d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand-painted canvas sign, hanging outdoors amidst tropical foliage, likely in a wartime jungle or island setting. The sign is weathered and slightly wrinkled, suggesting exposure to the elements, and is bordered by rough, hand-stitched seams. The text, written in bold, black, all-capital letters, reads: \"MOTOR TORPEDO BOAT SQUADRON THREE\" at the top, followed by a list of missions and results, including references to air attacks, moving headquarters, messenger trips, and the fall of Manila. The background is partially visible, with leafy plants and dappled sunlight creating a high-contrast, black-and-white palette reminiscent of 1940s documentary or war photography. The composition is straightforward and documentary in style, with the sign filling most of the frame, shot at eye level for clarity and emphasis. The overall mood is utilitarian and urgent, evoking the resourcefulness and improvisation of military life in the Pacific theater during World War II.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:12.618089",
+  "word_count": 149,
+  "error_message": null
+}

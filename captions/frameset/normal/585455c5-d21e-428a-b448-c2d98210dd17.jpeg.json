@@ -1,0 +1,12 @@
+{
+  "image_filename": "585455c5-d21e-428a-b448-c2d98210dd17.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a young man intently working on a robotic hand. He is wearing a plain white t-shirt, and his face is partially visible in profile, focused and absorbed in his task. His hands delicately manipulate a small tool, adjusting colorful wires and intricate components inside the translucent, mechanical structure of the robotic hand. In the softly blurred background, another person in a blue shirt is partially visible, observing the process. The lighting is natural and diffused, casting gentle highlights on the subject’s skin and the glossy surface of the robot. The color palette is muted and realistic, with soft skin tones, white and blue clothing, and the vibrant hues of the exposed wires providing subtle pops of color. The composition uses a shallow depth of field, drawing attention to the hands and the mechanical details, while the background remains softly out of focus, creating an intimate, documentary-style atmosphere that emphasizes concentration, innovation, and human-technology interaction.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:12.922876",
+  "word_count": 159,
+  "error_message": null
+}

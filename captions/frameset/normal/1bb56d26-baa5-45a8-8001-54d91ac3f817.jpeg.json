@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bb56d26-baa5-45a8-8001-54d91ac3f817.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph of a hand holding a modern smartphone vertically, with the camera app open and focused on a cluster of vibrant yellow wildflowers. The phone’s screen displays a sharp, detailed image of the flowers, while the real flowers in the background are softly blurred, creating a dreamy bokeh effect. The hand is positioned in the lower right corner, with natural skin tones and a relaxed grip. The background is filled with a sea of yellow blossoms and green foliage, rendered in warm, sunlit tones. The overall color palette is dominated by rich yellows, soft greens, and subtle earth tones, evoking a sense of spring or early summer. The lighting is natural and diffused, suggesting an overcast or golden hour setting. The composition emphasizes the interplay between digital and real worlds, with the phone acting as a window that brings the out-of-focus background into crisp clarity. The style is modern, cinematic, and intimate, with a focus on texture, color harmony, and the tactile experience of capturing nature through technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:04.602253",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "12bcbceb-c66d-4eb0-acf9-bdd15d17859f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a hyper-realistic, cinematic interior view from the front seats of a modern luxury SUV, focusing on the sleek, high-tech dashboard and steering wheel. The cabin is spacious and finished in matte black leather with subtle metallic accents, exuding sophistication and comfort. The centerpiece is a large, vertically oriented touchscreen display on the center console, illuminated with a crisp, blue-toned interface showing a digital car graphic. The digital instrument cluster behind the steering wheel glows softly, displaying detailed vehicle information. Through the expansive windshield and side windows, reveal a breathtaking panoramic landscape: rolling green forests, a tranquil lake, and majestic mountains bathed in the warm, golden-pink light of sunset. The lighting inside the car is soft and natural, with gentle reflections on the dashboard, creating a serene and inviting atmosphere. The composition is symmetrical, shot from the back seat at eye level, with a shallow depth of field that keeps the car’s interior in sharp focus while the scenic background appears slightly softened, enhancing the sense of luxury and adventure. The overall style is clean, modern, and aspirational, evoking the feeling of embarking on a journey in ultimate comfort and style.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:42.134351",
+  "word_count": 192,
+  "error_message": null
+}

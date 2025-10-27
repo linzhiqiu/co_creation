@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bc61dd9-3f4f-4031-b0b3-5f8989a6d9f7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-contrast, black-and-white close-up photograph of a Go board, viewed from directly above. The composition centers on a small cluster of Go stones: three black stones aligned horizontally in the foreground, and three white stones directly above them, also in a horizontal row. The stones are perfectly round, with a smooth, slightly glossy surface that catches the light, creating subtle highlights and soft shadows. The grid of the Go board is sharply defined, with bold black lines intersecting at right angles on a pale, lightly textured wooden surface. The lighting is even and diffused, emphasizing the clarity and simplicity of the scene while casting gentle shadows that add depth and dimensionality. The overall mood is contemplative and serene, evoking the quiet intensity and strategic elegance of the game. The image is minimalist, with a strong sense of order and balance, and the monochrome palette enhances the timeless, meditative quality of the composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:33.789290",
+  "word_count": 152,
+  "error_message": null
+}

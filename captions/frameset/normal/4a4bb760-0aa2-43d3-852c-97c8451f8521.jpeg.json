@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a4bb760-0aa2-43d3-852c-97c8451f8521.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, highly detailed image of a circular mechanical object resembling the lens or central mechanism of a projector or industrial device. The composition is centered, with the round object dominating the frame, surrounded by evenly spaced, radiating white fins or slats that create a sense of symmetry and depth. The central area features a dark, metallic core with subtle engravings and a small, geometric emblem, adding a sense of precision engineering. The lighting is low and moody, casting soft shadows that accentuate the texture and three-dimensionality of the object, while a faint blue reflection on the left hints at a nearby light source. The color palette is dominated by cool grays, blacks, and whites, with a slight metallic sheen, evoking a modern, industrial, and slightly mysterious atmosphere. The overall style is cinematic and technical, with a shallow depth of field that keeps the focus sharp on the central mechanism, blurring the outer edges for dramatic effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:39.312285",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5eb89cb2-dc64-4cff-96b6-a04c3c98dcdb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist composition featuring a single green houseplant with broad, glossy leaves, positioned at the center of the frame. The plant is dramatically illuminated by a focused, circular spotlight from above, casting deep, crisp shadows of the leaves onto a pale, softly textured background. The surrounding space is enveloped in deep black, creating a strong sense of isolation and contrast that draws the viewer’s eye to the plant. The color palette is dominated by rich greens and subtle gradients of white and gray, with the darkness enhancing the vibrancy of the foliage. The overall mood is contemplative and serene, with a cinematic, almost theatrical quality. The camera angle is directly overhead, emphasizing symmetry and the interplay of light and shadow, while the shallow depth of field keeps the focus sharp on the plant and its immediate shadows, allowing the background to gently fade into darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:45.267381",
+  "word_count": 147,
+  "error_message": null
+}

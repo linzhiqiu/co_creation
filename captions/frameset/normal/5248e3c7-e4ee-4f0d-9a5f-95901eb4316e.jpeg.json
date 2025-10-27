@@ -1,0 +1,12 @@
+{
+  "image_filename": "5248e3c7-e4ee-4f0d-9a5f-95901eb4316e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping, cinematic landscape of a glacier, captured from a high, wide-angle perspective. The foreground is dominated by jagged, dark volcanic rock, its rough texture contrasting sharply with the smooth, icy expanse of the glacier that stretches across the midground. The glacier itself is a striking mix of pale blue, white, and subtle gray tones, with deep crevasses and ridges creating dramatic lines and patterns across its surface. Small, dark mounds of debris are scattered atop the ice, adding visual interest and a sense of scale. In the distant background, a strip of vibrant green moss or grass covers the foothills, providing a vivid pop of color against the otherwise cool, monochromatic palette. The lighting is natural and diffuse, suggesting an overcast sky that softens shadows and enhances the textures of both ice and rock. The overall mood is stark, majestic, and slightly otherworldly, evoking the raw, untamed beauty of a remote arctic or volcanic landscape. The composition emphasizes depth and scale, with a strong sense of vastness and isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:41.100503",
+  "word_count": 170,
+  "error_message": null
+}

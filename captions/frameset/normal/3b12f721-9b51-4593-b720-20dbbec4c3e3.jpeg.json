@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b12f721-9b51-4593-b720-20dbbec4c3e3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, white prototype car with a minimalist, unbranded design is driving slowly down the center of an industrial factory assembly line. The car’s headlights are on, shining brightly and creating a dramatic glare that partially obscures the front details, adding a sense of mystery and innovation. The vehicle is surrounded by metal railings and yellow safety barriers, with overhead beams and industrial lighting casting a cool, diffused glow throughout the scene. The background features a spacious, high-ceilinged warehouse with visible structural elements and machinery, rendered in muted tones of gray, silver, and yellow. The camera angle is low and centered, emphasizing the symmetry and depth of the corridor, with strong leading lines drawing the viewer’s eye toward the car. The overall mood is high-tech and cinematic, evoking themes of advanced engineering and the future of transportation. The color palette is dominated by cool metallics, whites, and soft yellows, with a crisp, clean visual style and a slight sense of motion as the car advances down the line.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:33.389368",
+  "word_count": 168,
+  "error_message": null
+}

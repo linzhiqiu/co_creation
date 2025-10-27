@@ -1,0 +1,12 @@
+{
+  "image_filename": "40a2abda-a22c-4705-8845-d443c8084092.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern digital interface scene, split into two main sections. On the left, a clean instructional panel with a white background and soft blue accents, featuring two illustrated guides: one for connecting a mobile device, depicted with a stylized smartphone and connection icons, and another for connecting a PC, shown with a laptop and a download arrow. Each guide includes bold blue hyperlinks and concise step-by-step text instructions, using a clear sans-serif font for readability. On the right, a sleek blue sidebar with a subtle gradient, displaying a \"Connect\" panel that lists five user names in white rounded rectangles, each with a small circular icon, suggesting selectable user profiles. The overall color palette is cool and calming, dominated by blues, whites, and subtle grays, with high contrast for legibility. The lighting is even and soft, evoking a professional, user-friendly tech environment. The composition is flat and front-facing, with crisp vector-style graphics and a minimalistic, contemporary UI design aesthetic, reminiscent of modern app onboarding screens or smart device setup interfaces.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:20.790227",
+  "word_count": 169,
+  "error_message": null
+}

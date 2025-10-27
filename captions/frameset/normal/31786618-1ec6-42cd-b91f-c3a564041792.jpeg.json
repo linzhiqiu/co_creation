@@ -1,0 +1,12 @@
+{
+  "image_filename": "31786618-1ec6-42cd-b91f-c3a564041792.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast image of a fragmented plaster sculpture of a human head, positioned in three-quarter view against a deep black background. The sculpture is partially broken, with the right side of the face missing large sections, revealing jagged, irregular edges and hollow spaces. The left side of the face remains mostly intact, with subtle, lifelike facial features softly illuminated by a single, focused light source from the left, casting deep shadows and accentuating the texture of the plaster. The lighting creates a stark division between light and shadow, emphasizing the contours and the sense of loss or incompleteness. The overall color palette is muted, dominated by off-white and gray tones of the plaster, contrasted sharply with the black void behind. The composition is minimalist and contemplative, evoking themes of fragility, memory, and identity, with a cinematic, almost surreal quality. The camera angle is slightly below eye level, with a shallow depth of field that keeps the focus on the sculpture’s surface details while the background remains completely out of focus, enhancing the sense of isolation and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:52.810660",
+  "word_count": 179,
+  "error_message": null
+}

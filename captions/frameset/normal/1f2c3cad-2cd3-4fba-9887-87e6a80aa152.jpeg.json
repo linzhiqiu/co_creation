@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f2c3cad-2cd3-4fba-9887-87e6a80aa152.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene set in a grand European city square, dominated by a massive, chaotic pile of cardboard boxes and debris stacked high beneath an ornate, old-fashioned streetlamp. The lamp glows warmly, casting dramatic pools of golden light and deep shadows across the mound of refuse, highlighting the textures and irregular shapes of the cardboard. In the foreground, two figures stand close together, partially turned away from the viewer, their body language suggesting intimacy or comfort as they face the spectacle. The background features the elegant façade of a historic stone building, its architectural details softly illuminated by additional streetlights, evoking a sense of faded grandeur. The color palette is muted and earthy, with browns, beiges, and ochres dominating the scene, contrasted by the warm yellow of the lamps and the deep black of the night sky. The composition is balanced, with the towering pile and lamp as the central focal point, and the figures providing a human element and sense of scale. The overall mood is contemplative and surreal, blending realism with a touch of the absurd, reminiscent of European art-house cinema. Use a wide-angle lens for depth, and maintain a painterly, atmospheric quality throughout.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:23.150944",
+  "word_count": 199,
+  "error_message": null
+}

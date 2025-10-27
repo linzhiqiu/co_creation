@@ -1,0 +1,12 @@
+{
+  "image_filename": "15036894-4485-4910-bfca-a2f443ec440e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up shot of a modern car dashboard, focusing sharply on the digital display at the center. The display shows a list of selectable drive modes—Tour, Sport, Track, and Snow/Ice—with \"Sport\" mode highlighted in blue, indicating it is currently selected. The surrounding analog gauges, including speedometer and tachometer, are softly blurred, creating a shallow depth of field that draws the viewer’s attention to the digital interface. The color palette is dominated by deep blacks, cool blues, and subtle red accents from the illuminated dashboard elements, giving the scene a sleek, high-tech, and slightly cinematic feel. The lighting is low and moody, with soft reflections and gentle glows from the dashboard lights, evoking the ambiance of a car interior at dusk or nighttime. The composition is tight and intimate, as if inviting the viewer into the driver’s perspective, emphasizing the tactile and immersive experience of selecting a performance mode. The overall style is modern, precise, and atmospheric, with a focus on technology and the anticipation of dynamic driving.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:35.907991",
+  "word_count": 166,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "281039de-fd9b-40ec-b8d3-4c19d63ad59c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A weathered, metallic rural mailbox with the name \"KENT\" in bold black letters dominates the left foreground, its surface marked by scratches and a faded red flag. The mailbox is mounted on a simple wooden post, set beside a dusty gravel road that curves gently into the distance. The road is flanked by tall, sunlit grass, and a faint cloud of dust lingers in the air, suggesting recent movement. In the background, partially blurred by a shallow depth of field, stands a classic American farmhouse surrounded by a cluster of leafy green trees, evoking a sense of quiet isolation and nostalgia. The color palette is muted and earthy, with soft golden sunlight casting long shadows and bathing the scene in a warm, late-afternoon glow. The overall composition is cinematic, with a low, slightly angled camera perspective that draws the viewer’s eye from the mailbox toward the distant house, creating a sense of depth and storytelling. The mood is tranquil yet tinged with anticipation, as if capturing a pivotal moment in a rural drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:28.412161",
+  "word_count": 173,
+  "error_message": null
+}

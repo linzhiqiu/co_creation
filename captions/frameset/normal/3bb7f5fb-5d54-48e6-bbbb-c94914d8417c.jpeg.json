@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bb7f5fb-5d54-48e6-bbbb-c94914d8417c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph capturing a moment of bird study in an outdoor, natural setting. In the foreground, an ornithology field guide is open on a wooden table, displaying detailed, full-color illustrations and descriptions of small birds, including a yellow and green songbird and a gray flycatcher, with Spanish text. The book’s pages are crisp and well-lit, drawing the viewer’s eye to the vivid bird illustrations. In the softly blurred background, a man in a navy blue zip-up jacket with white stripes on the sleeves is carefully handling a small bird, his face partially out of focus and intent on his delicate task. The lighting is natural and diffused, suggesting a shaded spot under trees, with dappled sunlight creating a gentle, serene atmosphere. The overall color palette is cool and natural, with greens, blues, and earth tones dominating the scene. The composition emphasizes the intimacy and care of scientific observation, with a cinematic, documentary style that highlights both the beauty of the birds and the quiet concentration of the researcher.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:47.770098",
+  "word_count": 171,
+  "error_message": null
+}

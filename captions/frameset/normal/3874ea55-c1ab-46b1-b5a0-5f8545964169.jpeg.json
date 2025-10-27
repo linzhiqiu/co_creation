@@ -1,0 +1,12 @@
+{
+  "image_filename": "3874ea55-c1ab-46b1-b5a0-5f8545964169.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime highway scene, viewed from a low, slightly trailing angle behind a modern dark SUV as it drives toward a brightly lit tunnel entrance. The car’s taillights glow red, casting subtle reflections on the smooth asphalt. The road is empty, flanked by metal guardrails and illuminated by sparse, cool-toned streetlights that create pools of light and deep shadows. The tunnel ahead radiates a warm, inviting yellowish glow, contrasting with the deep blue and black tones of the night sky and surrounding landscape. The overall mood is moody and atmospheric, evoking a sense of solitude and anticipation. The composition emphasizes the car’s movement and the vanishing point at the tunnel, with a shallow depth of field that keeps the focus on the vehicle and the illuminated tunnel entrance, while the background fades into darkness. The style is reminiscent of a dramatic road movie, with crisp, high-contrast lighting and a cinematic widescreen aspect ratio.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:30.811866",
+  "word_count": 154,
+  "error_message": null
+}

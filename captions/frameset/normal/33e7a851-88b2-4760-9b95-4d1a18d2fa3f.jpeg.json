@@ -1,0 +1,12 @@
+{
+  "image_filename": "33e7a851-88b2-4760-9b95-4d1a18d2fa3f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of an athlete standing on a red running track, captured from the waist down. The subject’s legs and white athletic shorts are heavily smeared with mud and dirt, suggesting a recent, intense game or practice. The athlete wears red, mud-stained socks, and their skin is marked with scrapes and grime, emphasizing the physical toll of the activity. Scattered around the track are sports equipment: a white soccer ball, a navy blue and yellow gym bag, a white duffel bag, and blue water bottles, all slightly out of focus, creating a sense of depth and realism. The lighting is natural and slightly diffuse, evoking a late afternoon or overcast day, with soft shadows and a muted, earthy color palette dominated by reds, browns, and off-whites. The composition is raw and documentary-like, with a shallow depth of field that draws attention to the athlete’s battered legs and the gritty texture of the scene, capturing the aftermath of a hard-fought match.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:44.671796",
+  "word_count": 162,
+  "error_message": null
+}

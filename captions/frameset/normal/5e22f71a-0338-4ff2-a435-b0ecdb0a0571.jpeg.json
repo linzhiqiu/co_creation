@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e22f71a-0338-4ff2-a435-b0ecdb0a0571.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, dramatic scene set in a Cold War-era military command center. The central subject is a middle-aged male officer in a crisp, decorated military uniform, seated at a large table. He holds a red telephone receiver to his ear, his expression intense and deeply focused, conveying urgency and concern. The background features a massive, illuminated world map with radiating lines and dots, suggesting global military operations or missile trajectories. The lighting is stark and high-contrast, casting sharp shadows and emphasizing the gravity of the moment. The image is rendered in black and white, enhancing the somber, historical atmosphere. The camera angle is slightly low and close, creating a sense of immediacy and psychological pressure. The overall style is cinematic, reminiscent of classic 1960s political thrillers, with a shallow depth of field that keeps the officer in sharp focus while the background map looms ominously behind him.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:23.944569",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e42f5a4-9b0c-4f82-b2c3-450a2209a373.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt to generate this image:\n\n\"Create a cinematic scene set in a bustling grocery store produce aisle. In the foreground, a young male store employee with short curly hair, wearing a dark green apron over a gray long-sleeve shirt, stands beside a box of apples. He gestures animatedly with one arm extended, as if giving directions or explaining something to a customer. Facing him is a woman with long brown hair, dressed in a light pink coat over a white top, pushing a shopping cart filled with groceries. She looks at the employee with a slight, engaged smile. The background is filled with vibrant displays of fresh fruits and vegetables, including apples, oranges, and lemons, arranged in neat rows under bright fluorescent lighting. Other shoppers and store staff are visible further down the aisle, adding depth and a sense of everyday activity. The color palette is naturalistic, with warm tones from the produce and soft, diffused lighting that gives the scene a gentle, realistic feel. The camera angle is eye-level, with a shallow depth of field that keeps the main subjects in sharp focus while softly blurring the background, evoking a slice-of-life, cinematic atmosphere.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:30.920699",
+  "word_count": 197,
+  "error_message": null
+}

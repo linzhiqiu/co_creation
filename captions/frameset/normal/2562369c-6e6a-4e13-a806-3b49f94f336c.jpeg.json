@@ -1,0 +1,12 @@
+{
+  "image_filename": "2562369c-6e6a-4e13-a806-3b49f94f336c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene featuring two figures dressed in dark, utilitarian clothing and black ski masks, their faces partially obscured. The subjects are close together, one resting their head on the other's shoulder in a gesture of exhaustion or comfort, suggesting a moment of vulnerability or solidarity. The background is stark and minimal, with a muted, industrial rooftop setting under overcast skies, defined by cold, desaturated tones of gray and blue. The lighting is soft and diffuse, casting gentle shadows and enhancing the somber, tense atmosphere. The camera is positioned at a close, intimate angle, focusing on the upper bodies and faces of the subjects, with a shallow depth of field that blurs the background and draws attention to their emotional connection. The overall style is reminiscent of a gritty, modern thriller, emphasizing realism and emotional intensity through subdued color palette and naturalistic composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:31.307134",
+  "word_count": 144,
+  "error_message": null
+}

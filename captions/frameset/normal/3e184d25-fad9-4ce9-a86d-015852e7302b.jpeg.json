@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e184d25-fad9-4ce9-a86d-015852e7302b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph of a billiards table, focusing on a scattered arrangement of pool balls. The composition is tight, with the camera positioned at a low, slightly angled perspective, emphasizing the texture of the felt and the spherical forms of the balls. The balls are numbered and striped or solid, with the numbers 5, 6, 9, and 13 clearly visible among others, their glossy surfaces catching soft, diffused light that creates gentle highlights and subtle shadows. The background is out of focus, drawing attention to the foreground cluster of balls and enhancing the sense of depth. The overall mood is classic and nostalgic, reminiscent of vintage photography or early cinema, with a grainy texture and high contrast that accentuates the shapes and numbers. The lighting is even but subdued, evoking a quiet, contemplative atmosphere typical of an old pool hall.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:33.504360",
+  "word_count": 141,
+  "error_message": null
+}

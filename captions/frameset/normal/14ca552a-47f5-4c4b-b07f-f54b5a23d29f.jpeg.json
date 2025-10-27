@@ -1,0 +1,12 @@
+{
+  "image_filename": "14ca552a-47f5-4c4b-b07f-f54b5a23d29f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic nighttime cityscape viewed from a high vantage point, capturing the illuminated skyline of a modern metropolis. The scene features a cluster of tall residential and office buildings, their windows aglow with warm yellow and white lights, interspersed with red aviation beacons atop the rooftops. In the background, a river reflects the city lights, adding depth and a sense of tranquility to the urban sprawl. The horizon is dotted with more distant lights, suggesting the vastness of the city. The color palette is dominated by deep blacks and cool blues of the night sky, contrasted by the vibrant, scattered points of artificial light. The overall mood is serene yet bustling, evoking a sense of quiet observation above the energetic city below. The composition is wide and panoramic, with a slight hint of a balcony railing in the foreground, enhancing the feeling of looking out from a private, elevated perspective. The lighting is naturalistic, with no visible light sources except for the city’s own illumination, and the image has a crisp, cinematic quality with a moderate depth of field, keeping the entire cityscape in sharp focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:31.079591",
+  "word_count": 187,
+  "error_message": null
+}

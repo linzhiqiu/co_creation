@@ -1,0 +1,12 @@
+{
+  "image_filename": "26b77240-eecc-496f-b72f-593c419bc3cc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person working on a laptop inside a car during daylight. The focus is on the hands typing on the keyboard, with the laptop screen displaying lines of colorful code in a dark-themed text editor. The background is softly blurred, revealing the car’s interior, including a door handle and window, with natural light streaming in from outside, creating a gentle, high-contrast ambiance. The color palette is muted and cool, dominated by grays and blacks from the car and laptop, with subtle warm highlights from the sunlight. The composition emphasizes the act of coding on the move, capturing a sense of concentration and modern mobility. The camera angle is slightly above and to the side, providing a clear view of both the hands and the screen, with a shallow depth of field that keeps the focus on the subject while softly blending the background. The overall style is realistic and documentary-like, evoking a mood of quiet productivity and technological engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:58.275744",
+  "word_count": 164,
+  "error_message": null
+}

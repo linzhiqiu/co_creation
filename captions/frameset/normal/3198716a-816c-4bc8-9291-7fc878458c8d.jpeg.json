@@ -1,0 +1,12 @@
+{
+  "image_filename": "3198716a-816c-4bc8-9291-7fc878458c8d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A person in a red and blue plaid shirt and dark beanie stands in front of a large projected image of the Earth, as seen from space, with North America and Greenland prominently displayed. The individual is reaching up with one arm, hand outstretched, as if pointing or gesturing toward Greenland on the map. The lighting is dim, with the glow of the projection casting both the person’s shadow and a soft, ambient light across the scene. The composition is dynamic, with the figure positioned to the left, partially silhouetted against the bright, detailed satellite imagery. The color palette is dominated by cool blues and whites from the map, contrasted by the warm reds of the shirt. The overall style is documentary-like, with a candid, educational atmosphere, and a slight cinematic quality created by the interplay of shadow and light, as well as the off-center framing and sense of depth from the projection. The Google Earth logo is visible in the lower right corner, grounding the scene in a modern, technological context.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:57.543804",
+  "word_count": 172,
+  "error_message": null
+}

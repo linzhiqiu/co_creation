@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f6fc23c-d6b3-49a3-a310-e1bb0569e505.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands confidently atop a small stone pedestal in the foreground, centered in the frame, with the iconic glass pyramids of the Louvre Museum in Paris as the dramatic backdrop. He wears a casual, urban outfit: a gray zip-up hoodie layered over a green shirt, black jogger pants, and clean white sneakers. His hands are tucked into his jacket pockets, and he gazes calmly ahead, exuding a sense of quiet contemplation. The background features the geometric lines and reflective surfaces of the Louvre’s glass pyramids, their modernity contrasting with the ornate, historic architecture of the museum visible to the left. A small group of people, some with cameras and tripods, gather and interact near the pyramids, adding a sense of everyday life and subtle movement to the scene.\n\nThe color palette is muted and natural, dominated by soft grays, beiges, and the gentle golden-pink hues of an overcast sky at dusk or dawn, casting a diffused, cinematic light across the plaza. The composition is balanced and symmetrical, with the central pyramid rising directly behind the subject, creating a strong visual axis. The camera angle is eye-level, with a moderate depth of field that keeps both the subject and the background in clear focus, emphasizing the relationship between the individual and the iconic location. The overall style is contemporary and documentary-like, with a touch of urban exploration and a contemplative, almost cinematic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:52.341182",
+  "word_count": 234,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a223415-03fc-4b29-8387-4c007e51a08c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic black-and-white portrait of a young woman standing outdoors at dusk. She is centered in the frame, captured from the waist up, with her arms gracefully extended above her head, fingers interlaced in a delicate, expressive gesture. Her short hair frames her face, which is calm and introspective, eyes gently closed or cast downward, conveying a sense of quiet contemplation. She wears a loose, patterned shirt that adds subtle texture to the composition. The background is softly blurred, featuring the indistinct outlines of urban structures and glowing streetlights, evoking an industrial cityscape at twilight. The lighting is low and diffused, casting gentle shadows and enhancing the atmospheric, almost dreamlike quality of the scene. The overall style is reminiscent of classic street photography, with a shallow depth of field and a focus on mood and emotion rather than sharp detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:05.229245",
+  "word_count": 142,
+  "error_message": null
+}

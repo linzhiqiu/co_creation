@@ -1,0 +1,12 @@
+{
+  "image_filename": "283708d2-dca9-437a-b4c0-1fa83062217b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, softly lit scene of a child’s hands gently exploring an open educational book on a wooden table. The book features detailed, colorful anatomical illustrations of the human digestive system, including a cross-section of the head and torso, with labeled organs and pathways. The child’s fingers are lightly tracing the diagram, suggesting curiosity and engagement. The lighting is natural and diffused, casting a warm, inviting glow over the scene and highlighting the texture of the wood grain beneath the book. The composition is intimate and focused, with a shallow depth of field that softly blurs the background, drawing attention to the hands, the book, and the vivid illustrations. The overall mood is calm, studious, and quietly inquisitive, evoking a sense of discovery and learning.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:29.249122",
+  "word_count": 125,
+  "error_message": null
+}

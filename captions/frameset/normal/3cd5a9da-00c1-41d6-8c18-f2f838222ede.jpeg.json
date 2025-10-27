@@ -1,0 +1,12 @@
+{
+  "image_filename": "3cd5a9da-00c1-41d6-8c18-f2f838222ede.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, cinematic landscape featuring a long, empty road stretching into the distance, flanked by arid, rocky hills under a partly cloudy sky. The central subject is a vintage brown station wagon driving away from the viewer, positioned in the lower third of the frame, emphasizing a sense of journey and solitude. The most striking element is the mirrored effect applied to the upper half of the image, creating an illusion where the sky and hills are reflected upside down, forming a dreamlike, symmetrical composition. The color palette is dominated by earthy browns, muted greens, and soft blues, with natural daylight casting gentle, even illumination across the scene. The camera angle is positioned behind and slightly above the car, providing a wide, expansive view of the landscape and the surreal mirrored horizon. The overall style is reminiscent of art-house cinema, blending realism with a touch of the fantastical, evoking a sense of mystery and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:11.052280",
+  "word_count": 155,
+  "error_message": null
+}

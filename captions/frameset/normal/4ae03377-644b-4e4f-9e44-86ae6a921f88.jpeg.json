@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ae03377-644b-4e4f-9e44-86ae6a921f88.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, tense surveillance room at night. The main subject, a man with dark hair, is seen from behind, hunched over a cluttered desk as he intently watches a grainy black-and-white security feed on a laptop screen. The desk is dominated by a large, metallic electronic device with buttons and dials, and a prominent digital clock display glowing in bold red numbers reading \"03:52:19,\" casting a faint red hue onto nearby surfaces. Scattered across the desk are a handgun, a remote control, and various cables, adding to the sense of urgency and danger. The background is shadowy, with hints of dark wood paneling and a framed landscape painting, but most details are obscured by darkness. The overall color palette is moody and subdued, with deep shadows, muted browns, and the stark contrast of the red digital clock. The composition is intimate and claustrophobic, shot from a slightly elevated angle over the man's shoulder, emphasizing his isolation and focus. The lighting is low-key, with the primary illumination coming from the electronic devices, creating a suspenseful, cinematic atmosphere reminiscent of a thriller or crime drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:48.165904",
+  "word_count": 184,
+  "error_message": null
+}

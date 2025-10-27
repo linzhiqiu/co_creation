@@ -1,0 +1,12 @@
+{
+  "image_filename": "605aa823-d59c-4650-bd2d-6e608b20098c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit university lecture hall, viewed from the back with a wide, cinematic angle that captures the sense of space and subdued atmosphere. The room is filled with rows of silhouetted students seated in shadow, their faces indistinct, all facing a large projection screen at the front. On the screen, a single, brightly illuminated image of a red chili pepper stands out starkly against a white background, drawing the viewer’s eye. The lecturer, a solitary figure in neutral-toned clothing, stands near the chalkboard and podium, partially illuminated by the soft, diffused overhead lighting. The chalkboard behind the lecturer is covered with faint, partially erased writing and diagrams, adding an academic touch. The color palette is muted and cool, dominated by grays, soft blues, and the warm glow of the projector, with the red chili pepper providing a vivid focal point. The overall style is moody and atmospheric, with a shallow depth of field that blurs the audience and foreground, emphasizing the isolation of the lecturer and the surreal focus on the chili pepper. The composition evokes a contemplative, almost surreal mood, blending realism with a touch of cinematic abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:25.287972",
+  "word_count": 190,
+  "error_message": null
+}

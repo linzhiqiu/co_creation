@@ -1,0 +1,12 @@
+{
+  "image_filename": "47ce9925-e3da-403a-aa30-4d680abb9d30.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody close-up shot of an athlete sitting on a bench in a dimly lit locker room, holding a volleyball in their hands. The focus is on the hands gently gripping the ball, which features a classic pattern of white, yellow, and navy blue panels. The athlete is dressed in a gray hoodie and white athletic shorts, with only their arms, hands, and part of their legs visible, creating a sense of anticipation and introspection. Soft, diffused light streams in from the side, casting gentle shadows and highlighting the texture of the ball and the fabric of the clothing. The background is out of focus, with muted tones of gray and green, enhancing the contemplative, almost cinematic atmosphere. The overall color palette is subdued, with cool and neutral hues dominating, and the composition uses shallow depth of field to draw attention to the subject’s hands and the volleyball, evoking a sense of quiet determination and focus before a game.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:54.235560",
+  "word_count": 160,
+  "error_message": null
+}

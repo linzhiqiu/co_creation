@@ -1,0 +1,12 @@
+{
+  "image_filename": "224dfa8d-a480-4b73-b929-39499d433690.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a person standing in a dimly lit, industrial setting with a grungy, textured background. The subject’s face is dramatically adorned with numerous metallic and glass-like studs or implants, arranged in an almost symmetrical pattern that covers most of their face, giving a futuristic, cyberpunk aesthetic. Their expression is somber and introspective, with downcast eyes and a neutral mouth, conveying a sense of melancholy or contemplation. The lighting is moody and atmospheric, dominated by cool blue tones that cast sharp highlights and deep shadows across the subject’s features, enhancing the reflective surfaces of the facial adornments. The subject has slicked-back dark hair and wears a dark, utilitarian jacket, blending into the shadowy environment. The camera angle is at eye level, with a shallow depth of field that keeps the focus tightly on the subject’s face while softly blurring the chaotic, graffiti-marked wall in the background. The overall style is reminiscent of neo-noir or dystopian sci-fi films, with a strong emphasis on texture, contrast, and emotional intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:25.840928",
+  "word_count": 170,
+  "error_message": null
+}

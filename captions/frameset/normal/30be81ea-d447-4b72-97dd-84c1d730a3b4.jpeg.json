@@ -1,0 +1,12 @@
+{
+  "image_filename": "30be81ea-d447-4b72-97dd-84c1d730a3b4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, abstract scene reminiscent of a retro-futuristic oscilloscope display. The composition is dominated by glowing neon light trails in electric pink, red, and blue hues, creating dynamic, sweeping curves and sharp lines that intersect across the frame. The background is dark, allowing the luminous colors to stand out with high contrast and intensity. Superimposed over the entire image is a precise black grid with crosshairs, evoking scientific measurement or vintage analog technology. The lighting is intense and saturated, with a soft glow and slight bloom effect around the brightest areas, enhancing the sense of energy and motion. The overall style is cinematic and experimental, with a shallow depth of field that blurs the edges of the light trails, giving the image a sense of depth and movement. The mood is energetic, mysterious, and slightly nostalgic, capturing the essence of electronic music visuals or classic sci-fi instrumentation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:36.688579",
+  "word_count": 147,
+  "error_message": null
+}

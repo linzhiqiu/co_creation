@@ -1,0 +1,12 @@
+{
+  "image_filename": "53760805-8a8f-46e2-8837-1e4fb7c59ca1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, intimate black-and-white portrait of a baby held in the arms of an adult, likely a parent, whose face is partially visible in the softly blurred background. The baby’s face is the focal point, illuminated by gentle, directional light from the side, creating dramatic shadows and a high-contrast effect that highlights the roundness of the cheeks and the glistening, expressive eyes. The adult’s features are mostly in shadow, adding a sense of protection and tenderness to the composition. The background is softly out of focus, with subtle bokeh suggesting a window or patterned light source, further emphasizing the emotional connection between the subjects. The overall mood is contemplative and serene, with a cinematic, almost timeless quality, achieved through the use of shallow depth of field, careful lighting, and a monochromatic palette that enhances the emotional resonance of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:11.271779",
+  "word_count": 140,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b988a5e-7e3f-4539-b9f5-6d6d161b1872.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A symmetrical row of elegant, dark glass bottles with geometric purple labels, arranged in a gentle arc against a deep black background. The bottles’ metallic clasps gleam under dramatic, low-key lighting, creating striking reflections on a glossy surface. The composition is sleek, modern, and visually hypnotic, evoking luxury and sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:26.574639",
+  "word_count": 50,
+  "error_message": null
+}

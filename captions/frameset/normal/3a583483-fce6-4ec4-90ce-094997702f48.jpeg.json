@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a583483-fce6-4ec4-90ce-094997702f48.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, macro photograph of a computer or television screen displaying the words \"UNFINISHED BUSINESS\" in bold, uppercase letters. The text is rendered in a heavy, serif font with a shadow or outline effect, giving it a slightly three-dimensional appearance. The image is tightly cropped so that only the text is visible, filling most of the frame. The individual RGB subpixels of the screen are clearly visible, creating a grid-like, pixelated texture across the entire image. The color palette is dominated by the warm, slightly yellowish glow of the screen, with the text itself appearing in dark, almost black tones, and the background in a muted, off-white or beige hue. The lighting is even and artificial, characteristic of a backlit display, with no natural shadows or highlights. The overall style is hyper-detailed and technical, evoking a sense of digital immediacy and focus on the medium itself. The composition is straightforward and symmetrical, emphasizing the message and the tactile quality of the screen’s surface.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:14.227038",
+  "word_count": 163,
+  "error_message": null
+}

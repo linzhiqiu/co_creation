@@ -1,0 +1,12 @@
+{
+  "image_filename": "52a67a3b-07b5-43d9-8640-bc2fe07c6e6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cyberpunk-inspired scene set in a dimly lit, cluttered workspace. The composition centers on a close-up of a hand reaching for a classic Rubik’s Cube, positioned between two vintage computer keyboards. The lighting is atmospheric, dominated by neon green and blue hues that cast an eerie, futuristic glow across the desk and objects. In the background, an old CRT monitor displays a blurry, monochrome image, while another screen shows cryptic data. A realistic, anatomical model of a human brain sits prominently on the desk, illuminated by the green light, adding a surreal and scientific touch. The surface of the desk is worn and textured, hinting at years of use. The overall style is cinematic, with a shallow depth of field that keeps the focus on the hand and Rubik’s Cube, while the background elements fade into a soft blur. The mood is mysterious and intellectual, evoking themes of hacking, puzzles, and the intersection of technology and the human mind.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:49.354814",
+  "word_count": 160,
+  "error_message": null
+}

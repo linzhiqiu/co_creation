@@ -1,0 +1,12 @@
+{
+  "image_filename": "282efeee-b067-4fb0-bf27-4d32472863ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA high-resolution, cinematic interior shot of a modern luxury SUV dashboard, viewed from the front passenger seat perspective. The focus is on the sleek, high-tech center console featuring two large digital touchscreens. The upper screen displays a live feed from the vehicle’s front camera, showing a forested off-road trail with tall green trees and dappled sunlight, while the lower screen presents a detailed interface with vehicle controls and a digital rendering of the SUV. The dashboard is finished in matte black with metallic accents, and the steering wheel is partially visible on the left, held by a driver wearing a dark shirt and blue jeans. The lighting is natural and soft, filtered through the car windows, creating a calm, immersive atmosphere. The background outside the windshield is a lush, green forest, slightly blurred to emphasize the interior technology. The overall style is clean, modern, and sophisticated, with a shallow depth of field and a focus on the interplay between advanced technology and the natural environment outside.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:28.773005",
+  "word_count": 167,
+  "error_message": null
+}

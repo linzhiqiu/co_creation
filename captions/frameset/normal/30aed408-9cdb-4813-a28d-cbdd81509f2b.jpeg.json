@@ -1,0 +1,12 @@
+{
+  "image_filename": "30aed408-9cdb-4813-a28d-cbdd81509f2b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person driving a modern Volkswagen car, focusing on their hands gripping the steering wheel at the ten and two o’clock positions. The driver is dressed in a dark suit jacket with a crisp white shirt, suggesting a professional or business context. The dashboard is sleek and contemporary, featuring a digital display, analog speedometer and tachometer, and a central infotainment screen with the words “App Connect” visible. The Volkswagen logo is prominently centered on the steering wheel. The color palette is cool and muted, with soft natural daylight filtering into the car, creating a calm, almost subdued atmosphere. The composition is tight, with a shallow depth of field that keeps the focus on the hands, steering wheel, and dashboard details, while the background fades gently out of focus. The overall style is clean and modern, evoking a sense of precision, professionalism, and understated luxury.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:33.515426",
+  "word_count": 149,
+  "error_message": null
+}

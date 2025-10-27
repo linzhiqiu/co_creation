@@ -1,0 +1,12 @@
+{
+  "image_filename": "50f7e980-cc09-4376-95a7-f2551266898a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, cinematic scene set in a dark, minimalist studio environment. In the foreground, a contemporary dancer is captured mid-movement, her body low to the ground in a dramatic, expressive pose. She wears a sleeveless, dark gray top and black leggings, her hair pulled back, and her face turned upward with a look of intensity and passion. Behind her, a sleek, deep blue sedan is parked at a slight angle, its headlights softly illuminating the dancer and casting subtle reflections on the polished floor. The car’s modern design and glossy finish stand out against the shadowy, gradient background, which fades from deep black to a muted blue, creating a sense of depth and focus. The lighting is moody and directional, highlighting the contours of both the dancer and the vehicle, while leaving the periphery in soft darkness. The overall composition is balanced and dynamic, with a cool-toned color palette and a sense of motion frozen in time, evoking a blend of elegance, power, and modernity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:16.123251",
+  "word_count": 165,
+  "error_message": null
+}

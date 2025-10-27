@@ -1,0 +1,12 @@
+{
+  "image_filename": "41f51db7-efac-4b52-b61c-9c2293e5d7fc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a human hand delicately guiding dark, textured fabric through a sewing machine. The focus is shallow, with the fingertips and the fabric in sharp detail while the background and edges blur into a soft, creamy bokeh. The lighting is natural and moody, with gentle highlights catching the contours of the fingers and the weave of the fabric, creating a tactile sense of texture. The color palette is muted and earthy, dominated by deep blues, grays, and warm skin tones, evoking a sense of craftsmanship and intimacy. The composition is intimate and immersive, with the camera positioned at fabric level, emphasizing the precision and care in the sewing process. The overall style is reminiscent of an artful documentary or a high-end commercial, capturing the quiet beauty and focus of handmade work.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:48.843453",
+  "word_count": 135,
+  "error_message": null
+}

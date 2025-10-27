@@ -1,0 +1,12 @@
+{
+  "image_filename": "15128be6-d334-44e3-955a-194db3a9324d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white wartime scene set in a wide, open landscape under a sky streaked with scattered clouds. In the foreground, a lone soldier in period military uniform and helmet stands alert, holding a rifle at the ready, his posture tense and vigilant. Behind him, tall, wild grasses and reeds dominate the midground, partially obscuring a group of soldiers who are scattered across a low embankment. These figures, also in uniform, are caught in various dynamic poses—some crouching, some standing, others aiming or preparing their weapons, suggesting a moment of anticipation or imminent action. The composition is cinematic, with a deep depth of field that draws the eye from the solitary figure in the front to the clustered activity in the background. The lighting is natural, casting crisp shadows and highlighting the textures of the grass and uniforms, while the monochrome palette emphasizes the stark, gritty atmosphere of the scene. The camera angle is slightly low, enhancing the sense of scale and tension, and the overall style evokes classic war photography or documentary film stills, capturing both the isolation and collective urgency of soldiers in the field.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:38.279601",
+  "word_count": 186,
+  "error_message": null
+}

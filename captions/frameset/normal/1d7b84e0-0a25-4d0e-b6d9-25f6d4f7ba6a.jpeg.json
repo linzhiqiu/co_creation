@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d7b84e0-0a25-4d0e-b6d9-25f6d4f7ba6a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up of a car tire on a wet street at night, illuminated by moody, blue-toned lighting. The scene is set in heavy rain, with water droplets visibly splashing around the tire and glistening on the asphalt. The car’s body is partially visible, reflecting the ambient light and the blurred, warm glow of distant streetlights or neon signs in the background. The focus is sharp on the tire and the immediate ground, while the background fades into a soft, atmospheric blur, creating a shallow depth of field. The overall color palette is dominated by cool blues and deep blacks, contrasted by subtle hints of orange and red reflections. The composition evokes a sense of suspense and drama, reminiscent of a neo-noir film, with a low camera angle that emphasizes the texture of the rain-soaked environment and the tension of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:39.879238",
+  "word_count": 142,
+  "error_message": null
+}

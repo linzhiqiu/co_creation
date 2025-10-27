@@ -1,0 +1,12 @@
+{
+  "image_filename": "323c4f30-6c35-47ce-bba9-e3cc3e6f2db8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, softly lit scene of a person sitting at a wooden table, writing in a notebook with a blue pen. The focus is on the person's hands and the open notebook, with handwritten notes visible but slightly out of focus, emphasizing the act of writing rather than the content. The person wears a light blue shirt and a dark wristwatch, their face and upper body blurred in the background, creating a sense of intimacy and concentration. On the table, there is a clear glass of water, a small stack of books, and a potted plant in a teal ceramic pot, adding subtle color accents to the otherwise muted, natural palette of soft browns, blues, and greens. The lighting is gentle and diffused, suggesting natural daylight streaming in from a nearby window, casting soft shadows and enhancing the calm, contemplative mood. The composition uses a shallow depth of field, drawing the viewer’s attention to the hands and notebook, while the background elements remain softly blurred, contributing to a serene, introspective atmosphere reminiscent of a quiet morning or afternoon spent journaling or studying.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:10.788227",
+  "word_count": 182,
+  "error_message": null
+}

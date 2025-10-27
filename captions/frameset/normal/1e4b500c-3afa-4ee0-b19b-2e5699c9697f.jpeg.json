@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e4b500c-3afa-4ee0-b19b-2e5699c9697f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up portrait of a humanoid robot with a smooth, pale, almost porcelain-like face and subtle, human-like features. The robot’s expression is neutral and contemplative, with slightly parted lips and piercing, light blue eyes that convey a sense of intelligence and emotion. Its neck and shoulders reveal intricate mechanical components—sleek, metallic joints and cables—contrasting with the organic smoothness of its face and upper torso. The background is industrial and dimly lit, featuring large, dark, metallic panels that are slightly out of focus, enhancing the subject’s prominence. The lighting is soft and diffused, casting gentle highlights on the robot’s face and metallic parts, creating a moody, introspective atmosphere. The overall color palette is cool and muted, dominated by shades of gray, silver, and white, with subtle blue undertones. The composition is centered and symmetrical, with a shallow depth of field that isolates the robot from its environment, evoking a sense of isolation and quiet dignity. The style is hyper-realistic with a touch of futuristic minimalism, reminiscent of high-end science fiction cinematography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:05.774257",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ede7074-620f-4c19-9d82-9730683dcf14.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a sparse pine forest under a partly cloudy sky, with tall, slender trees scattered across a dry, sandy ground dotted with low shrubs and tufts of grass. In the midground, partially obscured by the trees, is a single, bright yellow truck or trailer, its color standing out vividly against the muted earth tones and deep greens of the landscape. The composition emphasizes the vastness and quiet isolation of the setting, with the vehicle appearing small and almost hidden within the natural environment. The lighting is natural daylight, casting soft, diffuse shadows and lending a realistic, slightly subdued color palette dominated by greens, browns, and yellows. The overall style evokes a sense of solitude and stillness, with a cinematic quality reminiscent of classic American road movies or Westerns, using a static camera angle and deep focus to capture both the foreground details and the distant trees in sharp clarity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:56.370453",
+  "word_count": 152,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1fb40deb-2e0f-4070-9701-ee72102c7b9a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set atop a rugged, windswept rocky outcrop under a pale, overcast sky. Two fantasy characters stand side by side, gazing intently into the distance. On the left, depict a tall, slender elf with long, pale blond hair, dressed in muted earth-toned clothing and a flowing cloak. He holds a longbow in one hand, exuding calm vigilance and quiet strength. On the right, portray a stout dwarf clad in ornate, silver-accented armor and a detailed helmet, with a thick braided beard and a sturdy axe resting at his side. His posture is resolute and proud. The camera angle is low, looking up at the figures to emphasize their heroic stature against the vast, empty sky. The color palette is subdued, dominated by grays, browns, and soft greens, with natural, diffused lighting that enhances the somber, epic mood. The overall style is realistic with a touch of high fantasy, evoking a sense of camaraderie and readiness for adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:33.958101",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "549a6c75-e77d-4d4a-a1fa-39fdb39d3f6a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a rugged stone jetty extending into shallow, clear water. The jetty is constructed from large, irregularly shaped brown and gray rocks, creating a textured, uneven surface. Scattered across the rocks are several white, weathered wooden planks and pieces of driftwood, adding a sense of abandonment and natural decay. The water surrounding the jetty is calm and transparent, revealing submerged stones and patches of yellowish algae near the shore. The color palette is dominated by earthy browns, muted grays, and soft blues, with subtle hints of green and yellow in the water. The lighting is diffuse and natural, suggesting an overcast day, which softens shadows and enhances the subdued, tranquil mood. The composition is top-down, emphasizing the geometric arrangement of the rocks and the organic placement of the driftwood, creating a sense of isolation and quiet stillness. The overall style is documentary and contemplative, with a focus on texture, natural forms, and the passage of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:38.065340",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d41f3a8-aba9-4edb-ae4e-41a20c19d706.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, cinematic scene set in a narrow, weathered alleyway between old, textured buildings with peeling paint and exposed brickwork. The perspective is from a low, upward angle, emphasizing the height and confinement of the space. In the foreground, a lone figure stands, partially silhouetted against a pale, overcast sky. The subject is holding a long firearm, aiming it upwards with a tense, alert posture. The person wears a light-colored jacket with bold, graphic patterns in red, black, and white, adding a modern contrast to the rustic surroundings. The lighting is natural and subdued, casting soft shadows and highlighting the rough surfaces of the walls. The overall color palette is muted and cool, dominated by grays, greens, and earth tones, evoking a gritty, suspenseful atmosphere. The composition uses strong vertical lines from the buildings and the gun, creating a sense of anticipation and unease, reminiscent of a tense moment in a neo-noir or crime thriller film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:22.880082",
+  "word_count": 158,
+  "error_message": null
+}

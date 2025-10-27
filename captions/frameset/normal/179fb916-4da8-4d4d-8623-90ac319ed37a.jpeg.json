@@ -1,0 +1,12 @@
+{
+  "image_filename": "179fb916-4da8-4d4d-8623-90ac319ed37a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer monitor displaying a surveillance interface, with the main focus on a live video feed of a dimly lit, urban alleyway. The alley is framed by tall, industrial buildings with concrete walls and overhead walkways, creating a tunnel-like effect. In the center of the video feed, a solitary figure stands or walks along the alley, partially illuminated by soft, natural daylight filtering in from the open end of the passage. The interface overlays include green and blue data blocks, status bars, and lines marking the path or tracking the subject, giving the scene a high-tech, security-focused atmosphere. The color palette is dominated by cool grays, blues, and muted tones, with the monitor’s glow casting a subtle light on the otherwise shadowy environment. The camera angle is over-the-shoulder, with the silhouette of an observer in the foreground, slightly out of focus, emphasizing the act of surveillance. The overall style is cinematic and tense, evoking a sense of mystery and anticipation, as if capturing a pivotal moment in a modern thriller or espionage film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:33.509115",
+  "word_count": 177,
+  "error_message": null
+}

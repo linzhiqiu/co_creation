@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d40a3a5-e1f8-4042-b7d1-b3bf3638d32a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist studio photograph featuring a collection of small, matte blue cubes scattered across the lower portion of the frame. The cubes are arranged randomly, creating a sense of casual disorder, and their deep blue color stands out vividly against a smooth, untextured background in a muted, dusty pink hue. The lighting is soft and even, casting gentle shadows beneath the cubes and enhancing their three-dimensional form without introducing harsh contrasts. The composition is centered and symmetrical, with ample negative space above the cubes, drawing the viewer’s eye to the interplay between the geometric shapes and the serene backdrop. The overall style is clean and modern, with a subtle, almost surreal quality reminiscent of contemporary art photography. The camera angle is straight-on at eye level, and the depth of field is deep, keeping all elements in sharp focus for a crisp, graphic effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:15.970041",
+  "word_count": 143,
+  "error_message": null
+}

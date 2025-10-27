@@ -1,0 +1,12 @@
+{
+  "image_filename": "13abe823-558b-4ef4-8fb6-fb2929a80e31.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, cinematic shot of a group of children riding bicycles along a train station platform, heading away from the camera. The children are dressed in casual, slightly worn clothing, with backpacks and jackets in muted earth tones and reds, suggesting a sense of adventure and resourcefulness. Each bicycle is uniquely modified with makeshift trailers or carts attached, carrying an eclectic assortment of objects—such as an old television, a pumpkin, and various household items—evoking a sense of journey or escape. The platform is lined with trees and bordered by train tracks on the right, with a metal pedestrian bridge and station structures visible in the distance, adding depth and perspective. The sky is overcast, casting a soft, diffused light that enhances the subdued, natural color palette and creates a gentle, melancholic mood. The camera is positioned low and slightly behind the group, emphasizing motion and the sense of moving forward together. The overall style is reminiscent of a coming-of-age film, blending realism with a touch of whimsy and nostalgia.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:03.569134",
+  "word_count": 169,
+  "error_message": null
+}

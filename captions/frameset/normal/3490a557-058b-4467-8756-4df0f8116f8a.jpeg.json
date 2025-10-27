@@ -1,0 +1,12 @@
+{
+  "image_filename": "3490a557-058b-4467-8756-4df0f8116f8a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure walks across a vast, sun-bleached desert landscape under a cloudless, deep blue sky. The person, dressed in a white shirt and dark pants, is positioned in the lower right corner of the frame, emphasizing their smallness against the immense, arid expanse. Their posture is relaxed yet purposeful, suggesting a journey or search. Sparse, low-lying desert shrubs dot the sandy foreground, while a dramatic range of rugged, sunlit mountains stretches across the horizon in the background, their rocky textures rendered in warm earth tones. The lighting is natural and bright, casting crisp shadows and highlighting the stark contrast between the pale desert floor and the vivid sky. The composition uses a wide, panoramic aspect ratio with a low camera angle, creating a sense of isolation and cinematic grandeur. The overall mood is contemplative and slightly melancholic, evoking themes of solitude and introspection in an unforgiving, beautiful wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:02.737006",
+  "word_count": 149,
+  "error_message": null
+}

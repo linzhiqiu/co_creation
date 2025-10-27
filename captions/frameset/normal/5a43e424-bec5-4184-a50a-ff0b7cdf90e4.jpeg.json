@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a43e424-bec5-4184-a50a-ff0b7cdf90e4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cozy, dimly lit Japanese ramen restaurant interior, viewed from outside through a slightly reflective window, creating a soft, cinematic double exposure effect. The scene is bustling with patrons seated at small wooden tables and benches, engaged in quiet conversation or eating. The clientele is a mix of middle-aged and elderly Japanese men in dark business suits, a few women, and a single foreign man with striking platinum blond hair, dressed in dark casual clothing, sitting alone and looking at his phone beside a steaming bowl of ramen. A waitress in a blue apron moves between tables, serving food. The walls are adorned with handwritten Japanese menus and wooden plaques, and the kitchen is visible in the background, with chefs at work. Warm, ambient lighting from overhead fixtures casts a golden glow, enhancing the intimate, nostalgic atmosphere. The overall color palette is rich in warm browns, deep blues, and soft yellows, with subtle reflections and a shallow depth of field that draws focus to the central figures while softly blurring the edges, evoking the mood of a quiet evening in a traditional Tokyo eatery.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:58.223273",
+  "word_count": 185,
+  "error_message": null
+}

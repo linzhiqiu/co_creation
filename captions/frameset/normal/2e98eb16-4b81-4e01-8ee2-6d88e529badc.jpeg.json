@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e98eb16-4b81-4e01-8ee2-6d88e529badc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nearly empty subway car stretches into the distance, its interior bathed in cool, fluorescent lighting that casts a subtle greenish-blue tint over the scene. The camera is positioned at a low, central angle, emphasizing the symmetry and depth of the train car, with rows of turquoise-blue seats lining both sides and metallic poles reflecting the artificial light. At the far end, a single figure sits alone on the right, dressed in striking, colorful clothing that stands out against the muted palette—perhaps a patterned jacket and black knee-high boots. The person’s posture is relaxed, legs crossed, gazing forward or slightly to the side, their expression contemplative and distant. Overhead, advertisements in bright colors add a touch of visual noise, contrasting with the otherwise subdued, almost sterile environment. The overall mood is quiet and introspective, evoking a sense of solitude and urban isolation. The style is cinematic, reminiscent of a late-night scene in a city, with a shallow depth of field that keeps the focus on the lone passenger while the rest of the car recedes softly into the background.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:49.315548",
+  "word_count": 179,
+  "error_message": null
+}

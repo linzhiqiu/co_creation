@@ -1,0 +1,12 @@
+{
+  "image_filename": "164a3e70-973d-45fd-9c3a-74f716705d99.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s face in profile, pressed closely against a dimly lit wall. The subject’s eye is illuminated by a narrow beam of light streaming through a small, rough-edged hole in the wall, creating a dramatic contrast between light and shadow. The rest of the face and background are shrouded in deep darkness, emphasizing the intensity and curiosity in the subject’s gaze as they peer through the hole. The color palette is muted and moody, dominated by warm skin tones and deep shadows, with the only bright element being the sharp, white light around the eye and the hole. The composition is intimate and tense, with a shallow depth of field focusing on the eye and the illuminated area, while the rest of the image fades into soft blur. The overall style is suspenseful and atmospheric, reminiscent of a psychological thriller, with a voyeuristic quality heightened by the close proximity and the act of peering through the wall.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:03.851310",
+  "word_count": 162,
+  "error_message": null
+}

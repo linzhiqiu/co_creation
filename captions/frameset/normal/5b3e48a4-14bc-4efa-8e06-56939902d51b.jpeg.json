@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b3e48a4-14bc-4efa-8e06-56939902d51b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands outdoors in a sunlit, natural setting, facing the camera with a calm, neutral expression. She has long, straight brown hair and wears a sleeveless, bright orange dress that contrasts vividly with the muted, sandy tones of the background. The background is softly blurred, featuring green shrubbery and a pale blue sky, creating a shallow depth of field that keeps the focus on the subject. The lighting is natural and even, suggesting midday sunlight, which gently illuminates her face and dress without harsh shadows. The overall color palette is warm and earthy, with the orange dress providing a striking focal point. The composition is centered and balanced, with the woman occupying the middle of the frame, evoking a serene and contemplative mood. The style is cinematic, reminiscent of a still from an independent film, with a soft, naturalistic look and a sense of quiet introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:20.337839",
+  "word_count": 148,
+  "error_message": null
+}

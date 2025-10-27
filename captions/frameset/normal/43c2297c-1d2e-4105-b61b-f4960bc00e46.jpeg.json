@@ -1,0 +1,12 @@
+{
+  "image_filename": "43c2297c-1d2e-4105-b61b-f4960bc00e46.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, close-up shot of a white sports car in motion, focusing on the front wheel as it speeds along a dark, blurred road. The camera angle is low and tight, capturing the spinning alloy rim with a sense of velocity, while the neon green brake caliper stands out vividly against the otherwise monochromatic palette. The background is a soft blur of cool blues and grays, emphasizing the car’s rapid movement and creating a cinematic sense of speed. The lighting is natural and slightly subdued, with subtle reflections on the car’s glossy white bodywork. The overall style is sleek and modern, with a shallow depth of field that keeps the wheel and brake caliper in sharp focus while the rest of the scene fades into motion blur, evoking the adrenaline and precision of high-performance driving.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:29.319459",
+  "word_count": 135,
+  "error_message": null
+}

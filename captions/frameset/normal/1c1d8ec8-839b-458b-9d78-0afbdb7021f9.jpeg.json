@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c1d8ec8-839b-458b-9d78-0afbdb7021f9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white cinematic scene set in feudal Japan, viewed from the dark, shadowy interior of a thatched hut. The camera frames the scene through the triangular opening of the hut, creating a strong sense of depth and contrast between the dim foreground and the brighter, rain-soaked exterior. In the center of the composition, a lone samurai stands in the rain, his armor and clothing soaked, exuding a sense of stoic determination and vulnerability. His posture is upright and resolute, with one hand resting on his sword. In the midground, several figures—likely peasants or soldiers—sit or crouch under the shelter, partially obscured in shadow, watching the samurai intently. The background features rustic wooden fences and rough-hewn structures, reinforcing the rural, war-torn setting. The overall mood is tense and dramatic, with high-contrast lighting emphasizing the wet textures and the somber atmosphere. The style is reminiscent of classic Japanese cinema, with a carefully composed, almost theatrical arrangement, and a focus on chiaroscuro and atmospheric depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:13.051437",
+  "word_count": 162,
+  "error_message": null
+}

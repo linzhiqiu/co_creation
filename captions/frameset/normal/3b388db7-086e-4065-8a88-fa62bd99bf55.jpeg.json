@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b388db7-086e-4065-8a88-fa62bd99bf55.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, close-up shot of a complex industrial machine, captured from a perfectly centered, symmetrical overhead angle. The composition emphasizes the intricate arrangement of metallic components, gears, and clamps, with a strong focus on the central mechanism, which features a textured, carbon-fiber-like material and precise, machined parts. The color palette is dominated by cool metallic tones—silvers, grays, and blacks—accentuated by subtle hints of blue and occasional touches of brass and red wiring. The lighting is crisp and even, highlighting the polished surfaces and casting soft reflections that enhance the sense of precision engineering. The overall style is hyper-realistic and technical, evoking the aesthetic of high-end industrial photography or a cinematic close-up in a science fiction film. The depth of field is deep, keeping all elements in sharp focus to showcase the machine’s complexity and craftsmanship, while the tight framing and lack of background context draw the viewer’s attention entirely to the mechanical subject, creating a sense of awe and fascination with advanced technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:33.569800",
+  "word_count": 164,
+  "error_message": null
+}

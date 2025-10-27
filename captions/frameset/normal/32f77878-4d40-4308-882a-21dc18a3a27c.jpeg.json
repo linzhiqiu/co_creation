@@ -1,0 +1,12 @@
+{
+  "image_filename": "32f77878-4d40-4308-882a-21dc18a3a27c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, nostalgic scene composed of four identical frames arranged in a 2x2 grid, each capturing a close-up of an outstretched hand gliding through the air outside a moving car window. The hand, tanned and relaxed, is positioned horizontally, fingers slightly splayed, evoking a sense of freedom and playfulness. The car’s side mirror is visible, reflecting part of the hand and the blurred landscape beyond. The background features softly focused, sunlit hills and greenery, suggesting a rural or countryside setting. The color palette is warm and natural, with earthy greens, browns, and muted blues, bathed in gentle daylight. The overall style is reminiscent of 1970s road movies, with a shallow depth of field and a dreamy, almost wistful mood. The camera angle is at eye level from inside the car, emphasizing the intimate, personal perspective of a road trip moment. The repetition of the image in a grid format adds an artistic, almost pop-art quality, inviting reflection on memory and the passage of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:28.991580",
+  "word_count": 164,
+  "error_message": null
+}

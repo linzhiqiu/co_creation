@@ -1,0 +1,12 @@
+{
+  "image_filename": "29f04bf9-6a02-4801-9315-f5f78d15fe42.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A series of twelve cinematic frames arranged in a grid, each capturing a solitary figure walking across a stark, minimalist landscape. The subject is a person dressed in a long, flowing black coat and dark shoes, with their head slightly bowed and hands at their sides, exuding a sense of quiet introspection. The figure’s shadow is sharply defined, stretching alongside them and emphasizing the midday sun. The ground is divided into three vertical bands: a wide, pale beige strip in the center flanked by narrower, deep black strips on either side, creating a bold, graphic composition reminiscent of abstract art or modernist photography.\n\nThe camera angle is high and directly overhead, producing a flat, almost diagrammatic perspective that accentuates the geometric layout and the rhythmic progression of the figure’s movement from left to right across the frames. The color palette is restrained and elegant, dominated by the contrast between the creamy beige and matte black of the ground, with the figure’s dark clothing blending into the black strip at times, creating a play of visibility and concealment. The lighting is bright and even, casting crisp shadows and lending the scene a sense of clarity and stillness. The overall style is minimalist and contemplative, evoking the aesthetics of fine art photography or a carefully composed film sequence, with a focus on repetition, movement, and the interplay between human presence and abstract space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:18.705333",
+  "word_count": 231,
+  "error_message": null
+}

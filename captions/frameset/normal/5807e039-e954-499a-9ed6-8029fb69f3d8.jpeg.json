@@ -1,0 +1,12 @@
+{
+  "image_filename": "5807e039-e954-499a-9ed6-8029fb69f3d8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands in a dimly lit, modern interrogation room with a minimalist, almost clinical atmosphere. The man, dressed in a loose, light-colored trench coat over dark clothing, stands to the left of the frame, his posture tense and slightly apprehensive as he gazes toward the right. His expression is wary, with a hint of anxiety, as if anticipating a confrontation or awaiting questioning. The background features a striking wall of dark, textured panels arranged in a geometric pattern, adding depth and a sense of cold detachment to the space. \n\nDominating the right side of the composition is a long, sleek table, its surface starkly illuminated by a single, rectangular overhead light fixture that casts a harsh, bluish-white glow. The rest of the room is shrouded in deep shadows, emphasizing the isolation of the subject and the clinical sterility of the environment. The color palette is dominated by cool tones—blues, greys, and blacks—contributing to a somber, suspenseful mood. The camera angle is slightly off-center, with a wide aspect ratio that enhances the sense of emptiness and psychological tension. The overall style is cinematic, reminiscent of neo-noir or psychological thriller films, with a strong emphasis on mood, lighting, and architectural detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:05.851727",
+  "word_count": 201,
+  "error_message": null
+}

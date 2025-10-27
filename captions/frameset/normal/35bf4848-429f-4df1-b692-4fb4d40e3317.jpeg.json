@@ -1,0 +1,12 @@
+{
+  "image_filename": "35bf4848-429f-4df1-b692-4fb4d40e3317.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking black-and-white portrait of a young woman standing on a city street, captured in a cinematic, wide-aspect ratio. The subject is centered in the frame, gazing directly at the camera with a calm, composed expression, exuding quiet confidence and introspection. She wears a dark trench coat over a high-necked top, her hair neatly pulled back, emphasizing her sharp features and the clean lines of her outfit. The background features classic urban architecture: stone buildings with ornate details, a tall column, and bare tree branches silhouetted against the sky, suggesting late autumn or winter. The lighting is soft and diffuse, likely natural daylight, creating gentle shadows and a subtle contrast that enhances the textures of the stone and the fabric. The overall mood is contemplative and slightly melancholic, with a sense of stillness and depth. The shallow depth of field keeps the focus on the woman while softly blurring the background, adding to the cinematic quality and drawing the viewer’s attention to her presence within the urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:35.379570",
+  "word_count": 168,
+  "error_message": null
+}

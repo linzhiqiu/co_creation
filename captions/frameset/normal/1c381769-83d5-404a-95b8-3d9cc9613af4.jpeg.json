@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c381769-83d5-404a-95b8-3d9cc9613af4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up shot of a person’s face, focusing on their hand gently covering their mouth. The composition is intimate, with the camera angle positioned at eye level, capturing the fine details and textures of the skin—every wrinkle, pore, and subtle line is visible. The lighting is soft and natural, casting gentle shadows that accentuate the contours of the fingers and the curve of the nose just above the hand. The color palette is muted and natural, dominated by warm skin tones and a hint of cool background blur, creating a shallow depth of field that keeps the focus tightly on the hand and lower face. The overall mood is contemplative and introspective, evoking a sense of quiet emotion or thoughtfulness. The style is cinematic, reminiscent of a still from an art-house film, with a strong emphasis on realism and emotional subtlety.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:13.717653",
+  "word_count": 142,
+  "error_message": null
+}

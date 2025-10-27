@@ -1,0 +1,12 @@
+{
+  "image_filename": "607637c2-cd33-4830-a0d8-cec31250735e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a moody, cinematic interior of an empty gymnasium, captured in wide-angle from a low vantage point. The scene is dominated by tall, industrial concrete or wooden paneled walls, segmented by thick vertical beams that cast long, soft-edged shadows. Two basketball hoops are mounted on opposite sides, their white backboards starkly contrasting against the muted, grayish-brown walls. The gym floor is dark and glossy, reflecting faint ambient light, with a subtle hint of basketballs and a storage cart barely visible in the shadows. The lighting is low and atmospheric, with a gentle, diffused glow filtering in from an unseen source, creating a sense of quiet solitude and stillness. The overall color palette is subdued and desaturated, with cool grays, deep shadows, and soft highlights, evoking a contemplative, almost melancholic mood. The composition emphasizes negative space and architectural lines, with a strong sense of depth and emptiness, reminiscent of a scene from an art-house film or a contemplative sports drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:33.011379",
+  "word_count": 160,
+  "error_message": null
+}

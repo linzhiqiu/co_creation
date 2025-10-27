@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b5be6d9-6e10-4ad9-ba0f-53a38d2a3a9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic shot of a modern, burnt orange SUV driving along an urban highway at dusk. The vehicle is captured from a low rear three-quarter angle, emphasizing its sleek lines and robust build as it moves swiftly down the road. The background features the shadowy underbelly of an overpass, with concrete barriers and railings adding to the urban, slightly industrial atmosphere. The lighting is soft and moody, with cool blue and grey tones dominating the environment, contrasting with the warm, metallic orange of the car. The overall color palette is muted and naturalistic, evoking a sense of early evening or approaching night. The image has a shallow depth of field, with the car in sharp focus while the background is slightly blurred, enhancing the sense of motion. The composition is balanced and cinematic, with a subtle sense of speed and movement, as if the scene is a still from a high-quality car commercial or a modern film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:54.791202",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3900629b-6d6e-4568-99ed-ffba10ff1046.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit room, featuring two people in close profile facing each other, their faces partially obscured by dramatic backlighting. The man on the left is cast mostly in shadow, his features only faintly visible, while the woman on the right is softly illuminated, her expression serious and contemplative. Between them, a glowing light table displays several photographs with vivid red tones, adding a subtle pop of color to the otherwise muted palette of grays and browns. The background reveals large, frosted windows with a grid pattern, diffusing daylight and creating a soft, atmospheric glow. The overall composition is intimate and tense, with a shallow depth of field focusing attention on the two figures and the illuminated photographs, while the rest of the room fades into gentle blur. The style evokes classic film noir, with high contrast lighting, careful use of shadow, and a sense of mystery and emotional intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:39.544664",
+  "word_count": 156,
+  "error_message": null
+}

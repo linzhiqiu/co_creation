@@ -1,0 +1,12 @@
+{
+  "image_filename": "425198de-ae80-449f-8b6e-93495a3be710.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A neon-lit urban street at night, dominated by vibrant red, blue, and yellow signage for a sex shop and video projection booth. A vintage white car is parked in the foreground, while two figures walk past, bathed in colorful artificial light. The scene exudes a moody, cinematic, retro atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:56.006080",
+  "word_count": 49,
+  "error_message": null
+}

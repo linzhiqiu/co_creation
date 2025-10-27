@@ -1,0 +1,12 @@
+{
+  "image_filename": "314bf3d8-0217-42c0-98d2-5e9483d9f9bc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic landscape scene featuring a powerful waterfall cascading over a rugged, moss-covered cliff. The composition is wide and dramatic, with the waterfall positioned on the right side, its white, foaming water contrasting sharply against the dark, earthy rock face. The cliff is topped with lush green moss, adding a touch of vibrant color to the otherwise muted palette. The sky above is overcast, casting a soft, diffused light that gives the scene a moody, atmospheric quality. The overall color palette is subdued, dominated by deep greens, browns, and cool grays, evoking a sense of solitude and natural grandeur. The camera angle is slightly low and off-center, emphasizing the height and power of the waterfall while capturing the texture of the cliff and the mist rising from the falling water. The depth of field is deep, keeping both the foreground and background in sharp focus, enhancing the sense of scale and immersion in this wild, untouched landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:50.261135",
+  "word_count": 158,
+  "error_message": null
+}

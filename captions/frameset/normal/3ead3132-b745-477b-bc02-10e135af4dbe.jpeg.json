@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ead3132-b745-477b-bc02-10e135af4dbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create an overhead, slightly off-center view of two people walking together on a paved path, partially obscured by a dense canopy of golden-yellow autumn leaves in the foreground. The subjects are mid-stride, one wearing a green jacket and the other in a blue jacket, their faces turned toward each other in conversation, evoking a sense of companionship and movement. The ground is scattered with fallen leaves, adding texture and seasonal atmosphere. The color palette is dominated by warm yellows and golds from the foliage, contrasted with the cooler tones of the clothing and the neutral gray of the pavement. The lighting is soft and diffuse, suggesting an overcast day, with a shallow depth of field that blurs the leaves in the foreground, drawing the viewer’s focus to the figures below. The overall style is cinematic and intimate, with a natural, candid mood and a sense of fleeting autumnal beauty.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:45.835582",
+  "word_count": 150,
+  "error_message": null
+}

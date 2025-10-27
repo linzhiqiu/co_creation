@@ -1,0 +1,12 @@
+{
+  "image_filename": "292f8ffa-7ed3-4cf2-aff1-1d9ecd8ac67e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic still life set in a dimly lit, industrial-style laboratory or workshop. The main focus is a large metallic balance scale, suspended in the foreground, with a shallow, round tray. In the tray, place a small, white, highly detailed figurine of a human, standing upright and gazing forward, next to a sleek black tablet displaying a minimalist interface with the words \"INTERACTED BY GRAVITY\" in white text. The scale is delicately balanced, with thin wires and a curved metal arm supporting the tray.\n\nIn the background, arrange a cluttered worktable with a stack of thick books, a closed laptop, and a few scattered objects, including a small blue sphere and a mechanical device. The setting is enclosed by concrete or dark gray walls, giving a cold, utilitarian atmosphere. The lighting is low and focused, casting soft, directional shadows and highlighting the metallic surfaces and the white figure, creating a sense of depth and intrigue. The color palette is dominated by cool grays, silvers, and blacks, with subtle hints of white and blue. The overall style is hyper-realistic with a touch of surrealism, evoking a sense of scientific curiosity and quiet contemplation. The camera angle is slightly above eye level, with a shallow depth of field that keeps the scale and its contents sharply in focus while softly blurring the background details.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:55.290384",
+  "word_count": 224,
+  "error_message": null
+}

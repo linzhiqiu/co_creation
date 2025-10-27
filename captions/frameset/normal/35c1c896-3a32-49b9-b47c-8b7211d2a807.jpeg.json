@@ -1,0 +1,12 @@
+{
+  "image_filename": "35c1c896-3a32-49b9-b47c-8b7211d2a807.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist portrait featuring two men with closely cropped hair and intense, pale blue eyes. The composition is unconventional: the left side of the frame is dominated by a close-up of one man's face, capturing only half of his visage in sharp focus, his expression neutral and direct. Behind him, slightly out of focus and centered in the background, is the second man, whose face is fully visible but softened by the shallow depth of field. Both subjects have smooth, almost porcelain-like skin with a subtle sheen, and their expressions are calm, enigmatic, and introspective. The background is a soft, diffuse off-white, lending an ethereal, dreamlike quality to the image. The color palette is cool and muted, emphasizing pale skin tones and icy blue eyes, with minimal contrast. The lighting is soft and even, eliminating harsh shadows and enhancing the surreal, almost hyperreal atmosphere. The overall style is reminiscent of 1980s avant-garde portrait photography, with a cinematic, slightly surreal edge, and a focus on symmetry, intimacy, and emotional ambiguity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:30.254207",
+  "word_count": 171,
+  "error_message": null
+}

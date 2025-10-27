@@ -1,0 +1,12 @@
+{
+  "image_filename": "28c90154-cdd2-4a8f-a4f4-55187f41c49d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a white golf ball caught in mid-air, perfectly wedged within the diamond-shaped holes of a taut net. The net is sharply in focus, its white threads crisply illuminated by cool, artificial lighting, creating a striking contrast against the deep, out-of-focus background. Behind the net, the background is rendered in a dreamy bokeh, with large, circular orbs of blue and white light suggesting distant stadium lights or city streetlamps at night. The overall color palette is dominated by cool blues and whites, evoking a sense of nighttime or an indoor sports facility under bright floodlights. The composition is symmetrical and precise, with the golf ball centered in the frame, emphasizing the moment of impact and suspension. The mood is tense and dramatic, with a sense of frozen motion, as if time has stopped at the exact instant the ball struck the net. The style is reminiscent of high-definition sports photography or a stylized film still, with shallow depth of field and a focus on texture and contrast.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:43.246841",
+  "word_count": 171,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ac1502d-d398-448d-88a1-6994d3c82c31.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a man in the midst of intense physical exertion, captured from a slightly high angle. The subject’s face is glistening with sweat, his mouth slightly open as if catching his breath, and his expression conveys exhaustion and determination. He wears a simple, dark athletic shirt, the fabric clinging to his skin. The background is an abstract, out-of-focus wash of warm orange and red tones, creating a dramatic, almost surreal atmosphere. The lighting is low and moody, casting deep shadows and highlighting the contours of his face, with a strong emphasis on the warm color palette that bathes the entire scene. The image has a shallow depth of field, keeping the focus tightly on the man’s face while the background melts into soft, indistinct color. The overall style is reminiscent of a gritty sports drama or an evocative editorial photograph, emphasizing raw emotion and physical intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:22.130218",
+  "word_count": 150,
+  "error_message": null
+}

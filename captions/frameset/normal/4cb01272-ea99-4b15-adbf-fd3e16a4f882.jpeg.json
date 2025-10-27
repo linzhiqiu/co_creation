@@ -1,0 +1,12 @@
+{
+  "image_filename": "4cb01272-ea99-4b15-adbf-fd3e16a4f882.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A warmly lit, shallow depth-of-field scene set in an auto parts store aisle. In the foreground, a friendly male store employee with a bald head and trimmed beard, wearing a red vest over a plaid shirt, is attentively showing a large black container of motor oil to a young woman customer. The woman has long, light brown hair styled in a loose braid and is dressed casually in a pale pink shirt, her expression open and engaged as she listens. The shelves behind them are neatly stocked with various bottles of automotive fluids in green, yellow, and white packaging, creating a colorful, organized backdrop. The lighting is soft and natural, with a gentle glow highlighting the subjects’ faces and casting subtle reflections on the plastic bottles. The camera angle is at eye level, focusing closely on the interaction, with the background softly blurred to emphasize the connection between the two people. The overall mood is inviting and professional, evoking a sense of helpful customer service and everyday authenticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:34.732926",
+  "word_count": 168,
+  "error_message": null
+}

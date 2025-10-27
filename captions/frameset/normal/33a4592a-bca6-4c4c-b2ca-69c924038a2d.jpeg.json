@@ -1,0 +1,12 @@
+{
+  "image_filename": "33a4592a-bca6-4c4c-b2ca-69c924038a2d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-contrast black-and-white image set in a modern office environment, viewed from an elevated, slightly diagonal angle. The scene features several individuals seated at computer workstations arranged in cubicles, with the focus on two men in the foreground. One man, wearing a headset and a heavy jacket, looks up directly toward the camera with a serious, contemplative expression. The other man, dressed in a patterned jacket, is absorbed in his work, typing on a keyboard and looking at his monitor. The background reveals more workers at their stations, partially obscured by the cubicle walls and glass panels that line the upper half of the room, reflecting the institutional, almost surveillance-like atmosphere. The lighting is soft but stark, casting subtle shadows and emphasizing the geometric lines of the workspace. The overall mood is tense and introspective, evoking a sense of isolation and focus within a structured, corporate setting. The composition uses deep depth of field to keep all elements sharp, enhancing the sense of order and control.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:38.553779",
+  "word_count": 168,
+  "error_message": null
+}

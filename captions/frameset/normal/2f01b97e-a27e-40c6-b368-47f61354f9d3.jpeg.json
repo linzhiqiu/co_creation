@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f01b97e-a27e-40c6-b368-47f61354f9d3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young woman with long, straight black hair, set against a dreamy, out-of-focus background filled with soft, colorful bokeh lights in shades of teal, blue, and gold. The subject gazes directly into the camera with a calm, enigmatic expression, her lips slightly parted and painted a bold red. She gently touches her lips with her fingers, showcasing delicate rings and subtle tattoos on her hand. Her makeup is striking yet refined, with defined brows and a small beauty mark beneath one eye. The lighting is soft and diffused, casting a gentle glow on her face and creating a sense of intimacy and allure. The overall style is moody and atmospheric, with a shallow depth of field that blurs the background into abstract circles of light, evoking a sense of nighttime mystery and cinematic elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:00.342971",
+  "word_count": 140,
+  "error_message": null
+}

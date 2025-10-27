@@ -1,0 +1,12 @@
+{
+  "image_filename": "17cb91b9-2eca-4040-8a01-1de1594d5711.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide, high-angle shot of a busy urban freeway at night, viewed from above the median divider. The scene is split symmetrically by the concrete barrier, with multiple lanes of traffic flowing in both directions. On the left side, cars are moving away from the camera, their headlights casting bright, elongated beams on the asphalt, creating a sense of motion blur. On the right, vehicles approach, their taillights glowing red and white, some blurred to emphasize speed. The road surface is slick and reflective, suggesting recent rain or humidity, and the overall color palette is cool and desaturated, dominated by grays, blues, and the stark contrast of artificial lights. The background fades into darkness, with the tunnel-like concrete walls enclosing the scene and a few illuminated billboards or posters visible on the right. The lighting is harsh and urban, with overhead streetlights creating pools of brightness and deep shadows, enhancing the cinematic, almost noir atmosphere. The composition emphasizes the relentless flow of city life, the anonymity of the vehicles, and the stark geometry of the urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:37.448354",
+  "word_count": 177,
+  "error_message": null
+}

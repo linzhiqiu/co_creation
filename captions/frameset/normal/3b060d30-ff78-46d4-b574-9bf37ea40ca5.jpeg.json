@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b060d30-ff78-46d4-b574-9bf37ea40ca5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet, empty park at night, illuminated by a series of old-fashioned street lamps casting pools of soft, diffused light onto winding pathways and wooden benches. The scene is rendered in black and white, evoking a classic film noir atmosphere with deep shadows and high contrast. The foreground features a gently curving path bordered by grass, with a weathered wooden bench positioned beneath the nearest glowing lamp. In the background, more benches and lamps recede into the darkness, partially obscured by dense, shadowy trees and foliage. The overall composition is tranquil yet slightly mysterious, with a sense of solitude and stillness. The lighting is moody and atmospheric, emphasizing the interplay between light and shadow, while the camera angle is slightly low and off-center, drawing the viewer’s eye along the path into the depths of the park. The style is cinematic, with a shallow depth of field that keeps the focus on the illuminated areas while allowing the background to fade into soft darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:28.709206",
+  "word_count": 163,
+  "error_message": null
+}

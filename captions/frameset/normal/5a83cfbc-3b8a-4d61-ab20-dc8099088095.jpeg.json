@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a83cfbc-3b8a-4d61-ab20-dc8099088095.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A still life composition featuring a cluster of apples arranged organically on a textured surface. The apples vary in size and shape, with most displaying rich, deep red hues interspersed with touches of yellow and green, their skins rendered with expressive, visible brushstrokes that suggest a sense of tactile realism. The background is an abstract, painterly field of swirling greens, blues, and ochres, evoking a sense of movement and depth while remaining non-representational. The lighting is soft and diffuse, casting gentle highlights and subtle shadows that enhance the roundness and volume of the fruit. The overall style is reminiscent of late 19th-century Post-Impressionist painting, with a vibrant, dynamic color palette and energetic, directional brushwork. The composition is intimate and closely framed, focusing attention on the apples and their interplay of color and form, while the background recedes into a harmonious blur, creating a sense of depth and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:02.333383",
+  "word_count": 148,
+  "error_message": null
+}

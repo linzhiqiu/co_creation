@@ -1,0 +1,12 @@
+{
+  "image_filename": "569fbf45-f74f-41e6-99bf-bd6eb1226cbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, photorealistic aerial view of a sprawling landscape at golden hour, capturing a dramatic contrast between rugged mountain ranges and a densely populated urban area. The mountains are rendered in rich, earthy tones of ochre, deep green, and brown, their ridges and valleys sharply defined by long, angled shadows from the low sun. The city sprawls across the flatter terrain, with a complex network of roads, highways, and scattered buildings visible, interspersed with patches of greenery and small bodies of water. The lighting is warm and natural, casting a soft golden glow over the entire scene, enhancing the textures of the terrain and creating a sense of depth and scale. The composition is dynamic, with the mountains dominating the foreground and midground, while the city stretches into the distance, fading into a hazy horizon. The overall style is cinematic and immersive, with a high level of detail and realism, reminiscent of satellite imagery or a scene from a nature documentary filmed from a high-altitude drone.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:29.179280",
+  "word_count": 167,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "46f406dd-b1fc-4a6a-9331-4766786b1e5b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, dimly lit open-plan office at dusk, viewed from a wide-angle perspective that captures several empty workstations in the foreground and midground. The desks are cluttered with computer monitors, desk lamps, stacks of paperwork, and office supplies, evoking a sense of recent activity and ongoing work. The lighting is a mix of cool fluorescent overhead lights and the warm, ambient glow from outside, where the sky transitions from blue to deep orange, visible through large floor-to-ceiling windows. The glass walls at the back of the office reveal a glimpse of another room, adding depth and a sense of transparency to the space. The overall color palette is subdued, dominated by grays, blacks, and muted whites, with subtle pops of color from sticky notes and folders. The atmosphere is quiet and contemplative, suggesting the end of a long workday. The composition is balanced and cinematic, with a shallow depth of field that keeps the focus on the central workspace while allowing the background to softly blur, enhancing the mood of solitude and after-hours dedication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:34.397503",
+  "word_count": 174,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "28b04506-ea28-4c65-b165-94cd2fe4736d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of a young woman in three-quarter profile, standing indoors near a window. She wears a light, cream-colored headscarf that drapes elegantly over her shoulders, paired with a matching modest top. Her expression is serene and contemplative, with soft, natural makeup accentuating her strong brows and delicate features. The background features a series of geometric, triangular cutouts in a wall, through which warm, diffused sunlight streams, casting subtle patterns and a gentle glow across the scene. Beyond the window, a blurred desert landscape with soft sand dunes and distant mountains is visible, rendered in muted earth tones. The color palette is warm and subdued, dominated by beiges, creams, and soft browns, creating a tranquil and introspective mood. The lighting is soft and natural, with a shallow depth of field that keeps the focus on the woman while the background remains artfully out of focus. The overall style is reminiscent of fine art photography or a still from an auteur film, with careful attention to composition, texture, and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:45.305274",
+  "word_count": 170,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "60bb023b-02a1-4078-aff5-552887837451.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of an elderly woman with striking white hair, styled neatly and parted to the side. She is positioned in the center of the frame, captured from a slightly low, close-up angle that emphasizes her expressive face and hands, which are raised in front of her as if she is mid-gesture or about to speak. Her expression is intent and focused, with a hint of curiosity or determination in her eyes. She wears a delicate, cream-colored knit cardigan over a white blouse with a classic collar, evoking a sense of timeless elegance and warmth.\n\nThe background is a softly lit, opulent interior, featuring ornate wallpaper in muted blue and gold tones, and antique furnishings that suggest a grand, historic home or parlor. The lighting is natural and diffused, streaming in from large windows out of frame, creating a gentle, flattering glow on her face and hair while casting soft shadows that add depth and dimension. The color palette is cool and subdued, dominated by pale blues, creams, and warm neutrals, enhancing the serene and dignified atmosphere.\n\nThe overall style is reminiscent of a high-quality film still, with shallow depth of field that keeps the woman in sharp focus while the background is softly blurred. The composition draws the viewer’s attention to her expressive features and poised hands, conveying a sense of narrative and emotional depth. The mood is intimate, contemplative, and quietly powerful, as if capturing a pivotal moment in a personal story.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:39.866600",
+  "word_count": 246,
+  "error_message": null
+}

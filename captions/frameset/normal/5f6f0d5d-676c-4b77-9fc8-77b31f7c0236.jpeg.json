@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f6f0d5d-676c-4b77-9fc8-77b31f7c0236.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man stands with his back to the camera in a softly lit, architecturally inspired workspace. He wears a muted teal button-up shirt and glasses, his posture focused as he works on a laptop placed on a white desk. The desk is scattered with architectural models, including a prominent, curved structure made of white and wooden panels, and geometric objects like a pine cone and a red-and-white molecular model. The background features a large window with intricate, circular metalwork casting gentle shadows into the room, and the daylight outside is diffused, creating a calm, contemplative atmosphere. The color palette is subdued and natural, with earthy browns, soft grays, and the cool blue-green of the man’s shirt. The composition is intimate and documentary-style, shot from behind at a slight angle, with a shallow depth of field that keeps the man and his workspace in crisp focus while the background remains softly blurred. The overall mood is thoughtful and creative, evoking the quiet concentration of an architect or designer immersed in their work.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:02.809635",
+  "word_count": 171,
+  "error_message": null
+}

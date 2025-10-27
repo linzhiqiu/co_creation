@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b4aa686-6045-4c5a-adc3-3b890bfe1a89.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman rides a bicycle along a suburban street, captured in a dynamic, slightly tilted composition that conveys a sense of motion and spontaneity. She wears a navy blue sweatshirt with a subtle graphic, light blue jeans, and tan boots, with a large mauve shoulder bag slung across her body. Her dark hair flows freely in the wind, and she gazes upward and to the side with a thoughtful, almost hopeful expression, as if caught in a moment of daydreaming or anticipation. The background is softly blurred, featuring autumnal trees with warm orange and green foliage, a white fence, and hints of a residential neighborhood, enhancing the feeling of movement and depth. The color palette is warm and natural, with golden hour lighting casting a gentle, flattering glow on the scene. The overall style is cinematic, reminiscent of coming-of-age films, with a shallow depth of field and a slight motion blur that emphasizes the subject’s journey and the fleeting nature of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:52.000099",
+  "word_count": 164,
+  "error_message": null
+}

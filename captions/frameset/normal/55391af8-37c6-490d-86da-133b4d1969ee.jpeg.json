@@ -1,0 +1,12 @@
+{
+  "image_filename": "55391af8-37c6-490d-86da-133b4d1969ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man sits at a cluttered desk, illuminated by a harsh, greenish overhead light that casts dramatic shadows and gives the scene a tense, moody atmosphere. He wears a white dress shirt with the sleeves rolled up and a loosely knotted black tie, suggesting fatigue or stress. His expression is serious and focused as he types on a laptop, the glow of the screen reflecting softly on his face. In the foreground, the blurred arm and torso of another figure, dressed in a similar shirt, leans over the desk, adding a sense of urgency and confrontation. The background is dark and indistinct, emphasizing the isolation of the workspace and heightening the cinematic, noir-inspired mood. The composition uses a shallow depth of field, drawing attention to the young man’s face and hands, while the rest of the scene fades into shadowy obscurity. The overall color palette is cool and desaturated, dominated by greens and muted grays, enhancing the suspenseful, late-night office setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:57.595483",
+  "word_count": 162,
+  "error_message": null
+}

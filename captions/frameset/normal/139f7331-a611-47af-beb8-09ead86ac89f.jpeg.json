@@ -1,0 +1,12 @@
+{
+  "image_filename": "139f7331-a611-47af-beb8-09ead86ac89f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA medium-wide shot set in a softly lit, pastel-hued workshop or classroom. The focal point is a large pegboard mounted on the back wall, meticulously arranged with an array of geometric, mechanical-looking objects and tools, all uniformly painted in a matte, bubblegum pink. The objects—ranging from gears and rods to brackets and levers—are organized with obsessive precision, creating a visually striking pattern against the neutral brown pegboard. In the foreground, three people stand with their backs to the camera, gazing at the display. Their clothing is casual and understated, with muted tones like denim and khaki, ensuring the pink tools remain the visual centerpiece. The lighting is soft and even, evoking a calm, contemplative mood. The composition is symmetrical and balanced, with the pegboard dominating the frame and the viewers’ heads forming a gentle arc at the bottom. The overall style is reminiscent of a Wes Anderson film—quirky, meticulous, and slightly surreal, with a pastel color palette and a sense of quiet curiosity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:59.976817",
+  "word_count": 164,
+  "error_message": null
+}

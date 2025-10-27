@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e96f633-5215-4262-8ccf-ffc88e7007cc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, cinematic scene set in a high-rise office overlooking a cityscape of modern skyscrapers at sunset. The central subject is a poised, older individual with short, curly gray hair, wearing a striking, tailored white suit with a high collar and no visible buttons. They sit at a sleek white desk, holding one hand to their temple in a gesture of intense concentration or telepathy. Their expression is serious and focused. The most distinctive feature is their reflective, high-tech visor that covers their eyes, suggesting advanced technology or augmented reality.\n\nTo the right, partially in frame, sits a muscular, bald figure with pale, almost bluish skin, covered in intricate black tattoos and wearing a black, futuristic armored vest with glowing white lines. This character’s presence adds an element of otherworldliness and contrast to the scene.\n\nThe background features tall, geometric skyscrapers bathed in warm, golden-pink light, with soft lens flares and a shallow depth of field that keeps the focus on the subjects. The overall color palette is a blend of cool whites and grays, contrasted with the warm hues of the sunset and the subtle metallic sheen of the visor. The lighting is soft but directional, creating a dramatic, high-contrast look reminiscent of a sci-fi film. The camera angle is straight-on at eye level, emphasizing the authority and composure of the central figure, while the composition balances futuristic minimalism with a sense of narrative intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:13.342973",
+  "word_count": 236,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "16381115-247e-432b-8a1e-d6b88d8afa61.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of an old, weathered pocket watch lying on a rough, textured surface. The watch face is partially obscured by shadows, with the glass cover scratched and fogged, adding a sense of age and mystery. Roman numerals are visible on the dial, and the hands of the clock are frozen at a specific time, suggesting a moment suspended in history. The color palette is muted and desaturated, dominated by tones of sepia, gray, and faded silver, evoking a somber, nostalgic mood. The lighting is low and dramatic, with a strong contrast between light and shadow, highlighting the grime and imperfections on the watch. The composition is intimate and detailed, with a shallow depth of field that blurs the background and edges, drawing the viewer’s focus to the intricate textures and the passage of time etched into the object. The overall style is reminiscent of a noir film or a melancholic period drama, emphasizing atmosphere and emotional resonance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:02.943959",
+  "word_count": 160,
+  "error_message": null
+}

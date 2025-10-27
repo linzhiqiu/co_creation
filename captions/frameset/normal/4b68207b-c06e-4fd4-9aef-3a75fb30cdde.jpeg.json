@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b68207b-c06e-4fd4-9aef-3a75fb30cdde.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a striking architectural scene viewed from a dramatic low-angle, looking straight up from the ground within a square courtyard formed by tall, modernist apartment buildings. The buildings frame the image with repeating geometric patterns of balconies and windows, creating a tunnel-like effect that draws the eye toward the open sky at the center. The central focus is a single, monolithic structure rising vertically, its concrete surface stark and unadorned, leading the viewer’s gaze upward. The color palette is cool and muted, dominated by shades of gray and pale blue, evoking a sense of urban minimalism and quiet grandeur. The lighting is soft and diffuse, with no harsh shadows, suggesting an overcast day. The overall style is clean, symmetrical, and cinematic, with a strong sense of depth and perspective, emphasizing the scale and geometry of the architecture. The mood is contemplative and slightly surreal, highlighting the interplay between human-made structures and the open sky above.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:03.051801",
+  "word_count": 156,
+  "error_message": null
+}

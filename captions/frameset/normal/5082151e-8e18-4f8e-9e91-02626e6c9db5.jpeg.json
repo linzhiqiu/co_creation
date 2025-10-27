@@ -1,0 +1,12 @@
+{
+  "image_filename": "5082151e-8e18-4f8e-9e91-02626e6c9db5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car’s dashboard display, focusing on the rearview camera screen. The central subject is the digital monitor, which shows a clear, wide-angle view of the scene behind the vehicle. In the camera feed, the rear bumper and license plate of another car are prominently visible, slightly distorted by the lens, with yellow parking guide lines overlaying the image. The background outside the car is softly blurred, hinting at an urban street with subtle hints of greenery and pavement. The dashboard itself is sleek and glossy black, with chrome accents and tactile buttons flanking the screen, all rendered in sharp detail. The lighting is natural daylight, diffused and even, creating gentle reflections on the dashboard’s surface. The overall color palette is cool and neutral, dominated by blacks, grays, and metallic tones, with subtle pops of color from the car’s controls and the license plate. The composition is symmetrical and immersive, placing the viewer in the driver’s seat, evoking a sense of modern technology and everyday realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:07.788409",
+  "word_count": 171,
+  "error_message": null
+}

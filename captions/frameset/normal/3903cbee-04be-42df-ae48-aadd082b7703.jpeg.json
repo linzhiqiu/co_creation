@@ -1,0 +1,12 @@
+{
+  "image_filename": "3903cbee-04be-42df-ae48-aadd082b7703.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene set in a dimly lit bedroom at dawn. The composition is intimate and close-up, focusing on a woman lying on her side in bed, her head resting on a blue pillow. She gazes wearily toward the camera, her expression tired and contemplative, with only one eye clearly visible. In the foreground, an illuminated digital clock displays \"5:30 am\" in large, glowing white numbers, casting a faint light onto the surrounding area. The color palette is cool and subdued, dominated by deep blues and soft grays, evoking a sense of early morning quiet and fatigue. The lighting is low and naturalistic, with gentle shadows and a soft, diffused glow suggesting the first light of day filtering through a window. The overall style is cinematic, with a shallow depth of field that keeps the focus on the woman's face and the clock, while the background remains softly blurred. The camera angle is level with the bed, creating an intimate, almost voyeuristic perspective that draws the viewer into the quiet, introspective mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:41.065375",
+  "word_count": 176,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "62ce523e-0353-42a7-bf91-f83f6612c1f8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a spacious, sunlit indoor basketball gymnasium with polished wooden floors reflecting the tall, rectangular windows that line the left wall. The gym is mostly empty, creating a sense of quiet and focus. In the center of the frame, a young athlete in a teal tank top and shorts is captured mid-jump shot, arms extended upward, releasing a basketball toward the hoop. Nearby, a coach or teammate in dark athletic wear stands observing, hands on hips, providing a sense of mentorship and concentration. A rack of basketballs sits between them, emphasizing the practice setting. The lighting is natural and soft, streaming in from the large windows and casting long, diffused shadows across the floor. The color palette is cool and airy, dominated by light blues, soft browns, and the warm glow of sunlight. The composition uses leading lines from the court markings and window reflections to draw the eye toward the central action, while the high ceiling and exposed beams add a sense of openness and scale. The overall mood is calm, focused, and aspirational, evoking themes of dedication and quiet determination.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:25.035506",
+  "word_count": 185,
+  "error_message": null
+}

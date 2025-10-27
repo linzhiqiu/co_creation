@@ -1,0 +1,12 @@
+{
+  "image_filename": "377b7b58-9f4c-4069-a6e3-e4c61f98478d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, high-resolution image of a modern industrial machine component, focusing on the intricate details of a mechanical belt and pulley system. The scene should capture the sleek, metallic surfaces of the pulleys and the textured, black rubber belts, all set within a clean, angular metal frame. The color palette is dominated by cool blues and silvers, evoking a sense of precision and advanced technology. The lighting is soft and diffused, creating gentle reflections on the metal and emphasizing the smooth, polished finish of the components. The composition is tight and cropped, with a shallow depth of field that blurs the background and draws attention to the sharp, in-focus details of the machinery. The overall style is clinical and futuristic, reminiscent of high-tech laboratories or advanced manufacturing environments, with a minimalist aesthetic that highlights the engineering and craftsmanship of the machine.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:06.741858",
+  "word_count": 142,
+  "error_message": null
+}

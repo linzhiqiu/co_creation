@@ -1,0 +1,12 @@
+{
+  "image_filename": "4aee2482-6023-4a47-8ce6-a978e9422d11.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic overhead shot of a dimly lit, triangular stairwell in an old building. The camera looks straight down from above, capturing the geometric symmetry of the staircase as it spirals around a central void. Two figures are descending the stairs: one wears a bright red jacket, standing out vividly against the muted, sepia-toned palette of the walls and steps, while the other is dressed in darker, more subdued clothing. The lighting is soft and diffused, casting gentle shadows and creating a moody, atmospheric effect. The composition emphasizes the sharp angles and lines of the stairwell, with the figures positioned off-center to draw the eye along the path of the stairs. The overall style is reminiscent of a suspenseful thriller or art-house film, with a shallow depth of field and a slight haze that adds to the sense of mystery and tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:50.239086",
+  "word_count": 143,
+  "error_message": null
+}

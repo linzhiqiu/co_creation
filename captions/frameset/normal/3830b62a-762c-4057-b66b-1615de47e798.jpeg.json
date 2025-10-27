@@ -1,0 +1,12 @@
+{
+  "image_filename": "3830b62a-762c-4057-b66b-1615de47e798.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA wide-angle cinematic shot of an urban courtyard framed by modernist concrete buildings, with two figures walking away from the camera toward the center of the scene. The taller figure, dressed in a muted brown suit and carrying a briefcase, is accompanied by a smaller figure, possibly a child, in casual clothing. The architecture is stark and geometric, with large windows reflecting soft, diffused daylight. The ground is paved with circular patterns, and the background features leafy green trees and a high-rise apartment building, adding depth and contrast to the otherwise subdued environment. The color palette is dominated by desaturated greens, grays, and beiges, creating a moody, almost melancholic atmosphere. The lighting is natural but filtered, casting gentle shadows and lending a slightly overcast, contemplative feel. The composition emphasizes symmetry and negative space, with the figures centrally placed and receding into the distance, evoking a sense of quiet isolation and introspection. The overall style is reminiscent of minimalist, art-house cinema, with a focus on stillness, subtle emotion, and urban solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:24.736491",
+  "word_count": 171,
+  "error_message": null
+}

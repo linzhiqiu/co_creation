@@ -1,0 +1,12 @@
+{
+  "image_filename": "4511e25d-dff1-4cab-b988-428d1b5e2081.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, over-the-shoulder interior shot of a person driving a Jeep along a deserted rural highway. The camera is positioned from the passenger seat, focusing on the driver’s left hand gripping the steering wheel, with the Jeep logo clearly visible at the center. The driver, partially visible in profile, wears a faded blue denim jacket, their face softly lit by diffuse, overcast daylight filtering through the windshield. Outside, the landscape is expansive and muted, with rolling hills and distant mountains under a cloudy, gray sky. The road stretches ahead, flanked by dry grass and sparse roadside structures, evoking a sense of solitude and quiet journey. The color palette is subdued and natural, dominated by cool blues, grays, and earthy tones, with soft, natural lighting and a shallow depth of field that keeps the focus on the interior while gently blurring the background. The overall mood is contemplative and introspective, reminiscent of a road movie or a reflective travel sequence, with a subtle sense of motion and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:55.242667",
+  "word_count": 167,
+  "error_message": null
+}

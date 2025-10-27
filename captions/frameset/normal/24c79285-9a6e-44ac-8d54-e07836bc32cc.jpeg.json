@@ -1,0 +1,12 @@
+{
+  "image_filename": "24c79285-9a6e-44ac-8d54-e07836bc32cc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, vertigo-inducing scene set in the cavernous interior of a futuristic, high-rise building. The composition is viewed from a dramatic, high-angle perspective, looking straight down a vast, multi-story atrium lined with sleek, geometric architectural elements. The walls and floors are clad in smooth, metallic and glass surfaces, with a palette dominated by cool grays, muted golds, and subtle blue tones, creating a sense of modernity and sterility. \n\nIn the center of the image, a solitary human figure stands on a narrow walkway or bridge that spans the chasm, their form small and isolated against the immense scale of the environment. The figure’s posture is upright and contemplative, emphasizing their vulnerability and insignificance within the monumental space. The lighting is diffuse and natural, streaming in from large windows or skylights, casting soft reflections and subtle shadows that enhance the depth and dimensionality of the scene. \n\nThe overall style is cinematic and precise, reminiscent of classic science fiction films, with a strong sense of architectural order and symmetry. The camera angle exaggerates the verticality and height of the space, creating a dizzying sense of scale and tension. The mood is contemplative and slightly surreal, evoking themes of isolation, modernity, and the overwhelming nature of urban environments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:21.141134",
+  "word_count": 205,
+  "error_message": null
+}

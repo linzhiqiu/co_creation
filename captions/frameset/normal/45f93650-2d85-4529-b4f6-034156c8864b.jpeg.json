@@ -1,0 +1,12 @@
+{
+  "image_filename": "45f93650-2d85-4529-b4f6-034156c8864b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic cityscape at dusk, viewed from a low angle on a street flanked by tall, shadowy skyscrapers. The composition is strikingly tilted, creating a sense of dynamic tension and urban energy. In the center background, the One World Trade Center rises majestically, its glass facade reflecting the warm, golden-orange glow of the setting sun. The surrounding buildings are cast in deep shadow, their details obscured, emphasizing the contrast between the illuminated tower and the darkened city. Scattered streetlights and traffic signals add small pops of red, green, and yellow, while the headlights and taillights of distant cars create a trail of glowing dots along the street. The overall color palette is a moody blend of deep blues, blacks, and warm sunset tones, with high contrast and a slightly desaturated, cinematic look. The lighting is natural, with the last rays of sunlight highlighting architectural edges and casting long shadows. The atmosphere is urban, intense, and slightly surreal, evoking a sense of awe and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:17.002859",
+  "word_count": 165,
+  "error_message": null
+}

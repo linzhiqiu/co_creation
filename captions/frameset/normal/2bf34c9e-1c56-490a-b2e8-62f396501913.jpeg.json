@@ -1,0 +1,12 @@
+{
+  "image_filename": "2bf34c9e-1c56-490a-b2e8-62f396501913.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-contrast studio scene featuring three modern smartphones standing upright in a tight, triangular arrangement on a small, circular platform. The platform is mounted on a simple, cylindrical pedestal, centered in the frame against a seamless, gradient gray background that fades smoothly from dark at the edges to lighter near the center, creating a subtle spotlight effect. The smartphones' screens are illuminated, displaying indistinct app interfaces and images, casting a soft, cool glow that highlights their sleek, black edges. The lighting is dramatic and focused, with a single overhead source creating gentle reflections on the devices and subtle shadows beneath the platform, emphasizing the clean lines and geometric composition. The overall mood is futuristic and contemplative, with a restrained color palette dominated by grays, blacks, and the faint blue-white light from the screens. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the phones and platform sharply in focus while the background remains softly blurred, enhancing the sense of isolation and technological elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:00.721131",
+  "word_count": 172,
+  "error_message": null
+}

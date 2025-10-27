@@ -1,0 +1,12 @@
+{
+  "image_filename": "4de57a82-1d02-4420-b9d8-40ddfb5e6c9a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of an East Asian man with short, dark hair, dressed in a sleek black turtleneck and blazer. His eyes are closed, and his expression is serene yet introspective, suggesting a moment of deep thought or meditation. Surrounding him in the foreground and midground are suspended shards of glass, frozen in mid-air, catching and refracting the cool, blue-toned light that fills the scene. The background is softly blurred with bokeh effects, enhancing the dreamlike, ethereal atmosphere. The lighting is moody and dramatic, with soft highlights and gentle shadows sculpting the subject’s face, while the overall color palette is dominated by icy blues, silvers, and subtle hints of white. The composition uses a shallow depth of field to keep the focus on the man’s face, while the floating glass fragments add a sense of motion and surrealism, evoking a feeling of suspended time and introspective calm.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:05.250701",
+  "word_count": 149,
+  "error_message": null
+}

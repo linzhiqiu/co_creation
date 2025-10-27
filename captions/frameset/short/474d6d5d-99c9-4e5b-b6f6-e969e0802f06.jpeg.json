@@ -1,0 +1,12 @@
+{
+  "image_filename": "474d6d5d-99c9-4e5b-b6f6-e969e0802f06.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a bulletin board displays handwritten notes on pastel paper—pink, green, and purple—taped to a gray background. The focus is on a pink card labeled “Family,” with neat handwriting, surrounded by other colorful, overlapping papers. Soft, natural lighting creates a calm, introspective mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:38.356758",
+  "word_count": 46,
+  "error_message": null
+}

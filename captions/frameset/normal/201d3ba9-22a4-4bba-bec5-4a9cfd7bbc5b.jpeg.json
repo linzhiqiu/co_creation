@@ -1,0 +1,12 @@
+{
+  "image_filename": "201d3ba9-22a4-4bba-bec5-4a9cfd7bbc5b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a smartphone held in a person's hand, displaying a satellite map view on the screen. The map shows a rugged, arid landscape with patches of sparse vegetation and dry riverbeds, rendered in muted earth tones of beige, brown, and olive green. Several blue location markers are clustered around a central blue dot, indicating a specific point of interest or tracking multiple locations. The hand holding the phone is partially visible at the edge of the frame, with natural daylight casting soft, diffused shadows, suggesting an outdoor setting. The background is blurred, creating a shallow depth of field that draws attention to the phone screen and its details. The overall style is realistic and cinematic, with a focus on clarity and subtle color grading to enhance the sense of immediacy and purpose. The composition emphasizes the importance of the map and the act of navigation or search, evoking a mood of exploration or investigation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:39.585012",
+  "word_count": 157,
+  "error_message": null
+}

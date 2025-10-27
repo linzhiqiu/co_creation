@@ -1,0 +1,12 @@
+{
+  "image_filename": "584a2dd1-9ec3-4101-b87d-cade65e73adf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic black-and-white image featuring a large wooden cross standing prominently in the foreground, slightly off-center to the left. Draped around the cross is a long, flowing white cloth, caught mid-motion as it billows gracefully in the wind, creating a sense of movement and ethereal lightness. The background consists of a vast, moody sky filled with textured, rolling clouds, rendered in soft grayscale tones, with distant dark mountains silhouetted along the horizon. The lighting is soft yet directional, casting gentle highlights on the fabric and subtle shadows on the cross, enhancing the depth and three-dimensionality of the scene. The overall composition is contemplative and serene, evoking themes of spirituality and transcendence, with a painterly, almost timeless quality reminiscent of classic religious art or high-contrast fine art photography. The camera angle is slightly low, lending the cross a sense of monumentality against the expansive sky, while a shallow depth of field keeps the focus on the cross and cloth, allowing the background to softly recede.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:10.226881",
+  "word_count": 165,
+  "error_message": null
+}

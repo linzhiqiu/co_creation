@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c163cea-18f7-4aeb-9074-adf21cd7a354.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution digital photograph of a computer monitor displaying a dermatological imaging software interface. The screen is divided into two main sections, each showing a close-up, black-and-white, high-contrast image of a woman's face, focusing on her nose, cheeks, and eyes. The left image presents a three-quarter view, while the right image shows a more frontal angle. Both images are overlaid with a grid and a central square, highlighting a specific area of the skin for analysis. The woman's skin texture, pores, and subtle facial features are rendered in sharp detail, with a glossy, almost metallic sheen that emphasizes the clinical, scientific context. The software interface features toolbars, dropdown menus, and a list of options on the right, all rendered in a clean, utilitarian style typical of medical or scientific applications. The color palette is dominated by cool tones: the grayscale facial images contrast with the soft blue and white hues of the software interface and the faint blue glow of the monitor. The lighting is even and neutral, with no dramatic shadows, reinforcing the analytical, objective mood. The overall composition is symmetrical and orderly, with a focus on precision and clarity, evoking the atmosphere of a modern medical laboratory or research facility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:14.919406",
+  "word_count": 202,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3934c087-8bf6-412b-9c11-3af0a9bb14b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a smartphone, with the screen displaying a paused video of a wedding ceremony. The phone is held in the left hand, fingers gently curled around the edges, and the background is softly blurred, suggesting an urban or outdoor setting with cool, muted tones of blue and gray. On the phone’s screen, a couple stands facing each other, dressed in formal wedding attire—a groom in a light-colored suit and a bride in a white dress—framed by vibrant purple floral arrangements and soft, warm lighting that contrasts with the cooler tones outside the screen. The video interface is visible, with playback controls and a red progress bar, adding a modern, digital touch. The overall composition emphasizes the intimacy of the moment being watched, with a shallow depth of field drawing focus to the phone and its contents, while the hand and background remain out of focus. The lighting is natural and subdued, evoking a contemplative, cinematic mood, as if capturing a fleeting, personal moment of reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:46.111051",
+  "word_count": 171,
+  "error_message": null
+}

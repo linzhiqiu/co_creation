@@ -1,0 +1,12 @@
+{
+  "image_filename": "22ef7bbf-ebf9-4f5c-8f21-f281218a3aef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary, cinematic nighttime scene set in a nearly empty, rain-soaked parking lot. The image is captured from a high, slightly angled overhead perspective, emphasizing the geometric lines of the parking spaces and the reflective, wet asphalt. At the center, a deep red SUV with headlights glowing faintly blue is parked beside a tall, concrete lamp post. The vehicle’s taillights cast a vivid red glow onto the slick ground, mingling with the cool blue and magenta reflections from neon lights offscreen, creating a moody, cyberpunk-inspired color palette.\n\nA single figure stands beside the driver’s door, partially illuminated by the car’s lights and the ambient neon glow. The person is dressed in a long, pale coat or robe, their posture suggesting a moment of pause or contemplation as they interact with the vehicle. The overall atmosphere is quiet and introspective, with a sense of isolation heightened by the empty expanse of the lot and the dramatic interplay of colored lights on the wet surface. The composition uses deep shadows, saturated colors, and a shallow depth of field to evoke a stylish, film noir or neo-noir aesthetic, reminiscent of modern thriller or science fiction cinematography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:42.695763",
+  "word_count": 193,
+  "error_message": null
+}

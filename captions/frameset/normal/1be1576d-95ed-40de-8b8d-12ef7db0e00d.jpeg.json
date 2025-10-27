@@ -1,0 +1,12 @@
+{
+  "image_filename": "1be1576d-95ed-40de-8b8d-12ef7db0e00d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an extreme close-up portrait of two young individuals, their faces positioned side by side so that only half of each face is visible, with their eyes as the central focus. The lighting is dramatic and stylized, bathing their skin in a vibrant mix of magenta and blue neon hues, creating a soft, ethereal glow and smooth gradients across their features. The expressions are neutral yet intense, with both subjects gazing directly into the camera, evoking a sense of intimacy and quiet intensity. The background is dark and unobtrusive, allowing the colored lighting and the subjects’ eyes to dominate the composition. The overall style is cinematic and modern, with a shallow depth of field that keeps the focus sharp on the eyes while the rest of the image gently blurs, enhancing the dreamlike, atmospheric quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:05.686574",
+  "word_count": 138,
+  "error_message": null
+}

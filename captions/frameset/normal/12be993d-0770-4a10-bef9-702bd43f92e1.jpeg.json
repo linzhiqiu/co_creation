@@ -1,0 +1,12 @@
+{
+  "image_filename": "12be993d-0770-4a10-bef9-702bd43f92e1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, high-contrast black and white photograph of an arched, vaulted ceiling with a grid-like pattern of recessed squares. The perspective is from below, looking upward, emphasizing the symmetry and architectural rhythm of the structure. At the base of the arch, include a large, segmented window with a rounded top, through which soft, diffused daylight streams in, creating a subtle glow and silhouetting the window’s geometric framework. Suspended from the ceiling are a few cylindrical pendant lights, their forms partially obscured by shadow. The overall mood is contemplative and grand, with deep shadows and bright highlights accentuating the depth and curvature of the architecture. The composition is centered and balanced, evoking a sense of awe and reverence, reminiscent of classic architectural photography with a focus on form, light, and texture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:40.635362",
+  "word_count": 132,
+  "error_message": null
+}

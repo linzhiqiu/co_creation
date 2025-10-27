@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e862c13-d6cc-4202-9c2d-8190767ef98b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast image of a cyclist captured from a top-down perspective, as if viewed from directly above. The subject is a single person riding a road bike, wearing a fitted cycling jersey, shorts, and a helmet. The cyclist’s posture is dynamic, leaning forward with hands gripping the handlebars, conveying a sense of speed and focus. The lighting is moody and cinematic, with a strong, warm reddish-orange spotlight illuminating the cyclist and casting deep shadows around the edges, creating a vignette effect that draws the eye to the center. The background is minimal and abstract, fading into darkness, emphasizing the isolation and intensity of the moment. The overall color palette is dominated by deep reds, oranges, and blacks, with subtle highlights accentuating the contours of the cyclist and the bike. The style is modern and stylized, with a sense of motion and energy, reminiscent of a high-end sports advertisement or editorial photograph.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:16.690598",
+  "word_count": 153,
+  "error_message": null
+}

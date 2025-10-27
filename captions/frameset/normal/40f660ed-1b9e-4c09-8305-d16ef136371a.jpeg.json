@@ -1,0 +1,12 @@
+{
+  "image_filename": "40f660ed-1b9e-4c09-8305-d16ef136371a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, stylish open-plan office scene featuring a young professional woman seated at a cluttered wooden desk in the foreground. She wears a smart olive-green blazer over a white blouse, with her hair neatly tied back and round eyeglasses, exuding a composed and focused demeanor. She is engaged in a phone conversation, holding a corded handset to her ear with a slight, confident smile, while her other hand rests near a notepad and various office supplies. The desk is scattered with paperwork, books, a potted succulent, pens, and a laptop, conveying a sense of busy productivity.\n\nIn the softly blurred background, two other office workers are visible: one man in motion, walking past a wall adorned with minimalist decor and shelves filled with files and boxes, and another woman seated at a desk, absorbed in her work. The workspace is bathed in natural daylight streaming from the left, complemented by the warm glow of modern pendant lamps hanging from the ceiling. The color palette is muted and sophisticated, with earthy greens, soft browns, and neutral tones, creating a calm yet industrious atmosphere.\n\nThe composition uses a shallow depth of field to keep the main subject sharply in focus while gently blurring the background, enhancing the sense of depth and realism. The camera angle is eye-level, directly facing the main subject, evoking a candid, documentary-style aesthetic. The overall mood is professional, dynamic, and inviting, with a touch of cinematic warmth and authenticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:27.771444",
+  "word_count": 241,
+  "error_message": null
+}

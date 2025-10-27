@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c961660-8ae7-40ad-a167-dd44204bbc5e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime portrait of a stoic Japanese man standing outdoors, illuminated by cool, moody blue lighting that suggests moonlight. The man is dressed in traditional dark samurai attire with a high collar and his hair is styled in a topknot, evoking a historical or feudal era. His expression is calm and serious, with a sense of quiet intensity and contemplation. The background is softly blurred, with hints of dark foliage and trees, enhancing the sense of depth and isolation. The overall color palette is dominated by deep blues and blacks, with subtle highlights on the man's face and clothing. The composition is intimate, focusing on the man's upper body and face, with a shallow depth of field that draws attention to his features while the background recedes into darkness. The style is reminiscent of classic samurai films, with a restrained, atmospheric quality and a sense of quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:30.920784",
+  "word_count": 150,
+  "error_message": null
+}

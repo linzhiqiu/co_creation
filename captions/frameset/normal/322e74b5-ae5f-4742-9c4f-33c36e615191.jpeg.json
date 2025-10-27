@@ -1,0 +1,12 @@
+{
+  "image_filename": "322e74b5-ae5f-4742-9c4f-33c36e615191.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene inspired by classic spy films, viewed from the inside of a stylized gun barrel. The foreground is dominated by the swirling, metallic grooves of the barrel, rendered in high-contrast black and white, creating a dramatic, tunnel-like vignette. At the center of the composition, framed perfectly within the circular opening, is the silhouette of a sharply dressed figure in a suit and hat, walking confidently from left to right. The background is a soft, diffused white, enhancing the stark silhouette and emphasizing the iconic, mysterious atmosphere. The lighting is moody and directional, casting the figure in deep shadow while highlighting the reflective textures of the gun barrel. The overall style is sleek, graphic, and instantly recognizable, evoking the suspense and elegance of mid-20th-century espionage cinema. The camera angle is perfectly aligned with the axis of the barrel, creating a sense of depth and focus on the central figure, with a slight blur on the barrel’s edges to enhance the tunnel vision effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:09.142732",
+  "word_count": 165,
+  "error_message": null
+}

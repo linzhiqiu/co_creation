@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a327586-cf35-4b37-a9f0-03d66ec766d9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of four male rugby players are captured in a dynamic nighttime training session, illuminated by dramatic, low-key lighting that creates deep shadows and highlights their muscular forms. The players are positioned in a diagonal line, crouched low and intensely focused, as they push against a large, cylindrical blue tackling pad on a grassy field. Each athlete wears dark athletic shorts, knee-high socks with white stripes, and fitted rugby shirts in shades of navy blue and white. One player sports a white headband, adding to the sense of athletic determination. The background is mostly shrouded in darkness, with only faint hints of distant lights, emphasizing the intensity and isolation of the training moment. The color palette is dominated by cool blues and deep blacks, with subtle highlights on the players’ skin and uniforms. The composition uses a shallow depth of field, focusing sharply on the players and the tackling pad, while the background fades into obscurity. The overall style is cinematic and gritty, evoking the raw energy and discipline of late-night sports training.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:16.853646",
+  "word_count": 174,
+  "error_message": null
+}

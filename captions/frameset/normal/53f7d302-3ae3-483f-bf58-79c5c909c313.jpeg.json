@@ -1,0 +1,12 @@
+{
+  "image_filename": "53f7d302-3ae3-483f-bf58-79c5c909c313.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial photograph captures a dramatic hillside neighborhood in bright, late afternoon sunlight. The composition centers on two luxurious, multi-story mansions perched precariously at the edge of a steep, rugged cliff. The homes feature Mediterranean-inspired architecture, with terracotta-tiled roofs, large windows, and elegant balconies. The left house is modern with clean lines and a glass-walled patio, while the right house is grander, with ornate details and a circular driveway. \n\nThe foreground is dominated by the golden-brown, sunlit cliff face, covered in sparse green vegetation and casting deep shadows that emphasize the steep drop. The manicured lawns and driveways of the houses contrast sharply with the wild, untamed slope below. A few small figures—possibly residents or visitors—are visible near the driveways, adding a sense of scale and life to the scene.\n\nIn the background, rolling hills covered in dense, green trees stretch into the distance, dotted with more upscale homes. The sky is clear and pale blue, bathing the entire scene in crisp, natural light. The overall color palette is warm and vibrant, with rich greens, earthy browns, and the soft, creamy tones of the houses. The image has a cinematic quality, with a wide-angle perspective and a sense of depth created by the sharp foreground cliff and the receding landscape. The mood is affluent and serene, yet tinged with a hint of precariousness due to the dramatic cliffside setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:28.949623",
+  "word_count": 230,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a423e7f-3ec8-4bf3-842f-482105267c5d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene featuring the sleek, glossy hood of a classic red sports car in the foreground, its curves catching soft, diffused teal and blue lighting that creates a cool, atmospheric ambiance. The car’s surface reflects subtle highlights, emphasizing its polished finish and elegant lines. To the right, partially out of frame, stands a mysterious figure dressed in a dark, tailored coat, their silhouette sharply contrasted against the car and the softly lit, minimal background. The figure’s hand is relaxed and slightly extended toward the car, suggesting a moment of contemplation or anticipation. The composition is tight and intimate, with a shallow depth of field that blurs the background, focusing attention on the interplay between the car’s vibrant color and the figure’s shadowy presence. The overall style evokes a neo-noir or retro-futuristic aesthetic, with cinematic lighting, a cool color palette, and a sense of intrigue and sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:11.824175",
+  "word_count": 148,
+  "error_message": null
+}

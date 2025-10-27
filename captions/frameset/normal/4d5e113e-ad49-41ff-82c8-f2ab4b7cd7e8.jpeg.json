@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d5e113e-ad49-41ff-82c8-f2ab4b7cd7e8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a barista operating a professional espresso machine in a cozy, warmly lit café. The focus is on the barista’s hands as they skillfully adjust the portafilter and prepare to pull a shot of espresso, with a small metal pitcher positioned beneath the spout to catch the coffee. The barista wears a dark, short-sleeved, plaid shirt, and their arms are slightly blurred in motion, conveying a sense of expertise and fluidity. The espresso machine is large, metallic, and polished, reflecting the ambient golden and copper tones of the café’s lighting. The background is softly out of focus, hinting at a bustling, inviting environment without distracting from the main action. The overall color palette is warm, with rich browns, golds, and subtle hints of orange, evoking a sense of comfort and artisanal craftsmanship. The composition uses a shallow depth of field and a slight angle from the side, emphasizing the tactile, hands-on process of making coffee and the intimate atmosphere of the setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:51.145397",
+  "word_count": 166,
+  "error_message": null
+}

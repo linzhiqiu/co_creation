@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a2d0cfa-5d4f-46b3-b713-d42885f3b789.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person sharpening a large chef’s knife on a whetstone. The composition focuses on the hands—one gripping the knife handle, the other steadying the blade as it glides across the stone. The background is softly blurred, drawing attention to the tactile action and the metallic sheen of the blade. The lighting is moody and natural, with soft daylight filtering in from the side, casting gentle highlights and subtle shadows that emphasize the texture of the knife, the stone, and a white cloth draped nearby. The color palette is muted and earthy, dominated by cool grays, off-whites, and the dark silhouette of the person’s clothing. The overall style is intimate and atmospheric, with a shallow depth of field and a sense of quiet concentration, evoking the meticulous ritual of knife sharpening in a professional kitchen or artisan’s workshop.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:15.004268",
+  "word_count": 142,
+  "error_message": null
+}

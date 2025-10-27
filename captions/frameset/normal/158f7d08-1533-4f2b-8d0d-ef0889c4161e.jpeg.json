@@ -1,0 +1,12 @@
+{
+  "image_filename": "158f7d08-1533-4f2b-8d0d-ef0889c4161e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, atmospheric scene set in near-total darkness, featuring two figures standing side by side, both wearing bulky, futuristic hazmat or deep-sea diving suits. The suits are illuminated only by the faint, cold blue glow of a single, bright light source attached to one of the figures’ chests, casting a soft, diffused halo that barely reveals the contours of their helmets and the cables trailing from their suits. The background is completely black, enveloping the subjects in shadow and mystery, with no discernible environment visible. The composition is symmetrical, with the two figures facing each other or slightly turned inward, their postures tense and alert, suggesting anticipation or exploration. The color palette is dominated by deep blacks and muted blues, enhancing the sense of isolation and suspense. The lighting is minimal and moody, with high contrast and a strong sense of depth, evoking a science fiction or psychological thriller aesthetic. The camera angle is at eye level, framing the figures from the knees up, and the overall style is reminiscent of a still from a high-budget, atmospheric film, emphasizing suspense, mystery, and the unknown.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:46.216516",
+  "word_count": 186,
+  "error_message": null
+}

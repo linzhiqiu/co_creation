@@ -1,0 +1,12 @@
+{
+  "image_filename": "56204c74-0d93-42ac-a8cb-ff91413869a8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tranquil, cinematic forest scene captured in a wide-angle, eye-level shot. Tall, slender pine trees rise in perfectly spaced, parallel rows, their trunks forming vertical lines that draw the viewer’s gaze deep into the image. The forest floor is carpeted with soft, green moss and scattered patches of sunlight, creating a dappled effect that highlights the gentle undulations of the ground. A narrow, earthy path runs straight down the center, leading the eye toward a vanishing point in the distance, evoking a sense of depth and quiet mystery. The color palette is dominated by earthy browns, muted greens, and golden sunlight, with cool shadows adding contrast and atmosphere. The lighting is natural and soft, suggesting early morning or late afternoon, with long shadows stretching across the path. The overall mood is serene and contemplative, with a sense of untouched wilderness and peaceful solitude. The composition is symmetrical and balanced, emphasizing the order and beauty of the natural landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:17.095130",
+  "word_count": 158,
+  "error_message": null
+}

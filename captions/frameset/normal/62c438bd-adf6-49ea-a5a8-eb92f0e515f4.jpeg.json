@@ -1,0 +1,12 @@
+{
+  "image_filename": "62c438bd-adf6-49ea-a5a8-eb92f0e515f4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping, cinematic landscape of a vast desert, dominated by a large, undulating sand dune in the foreground. The dune’s surface is smooth and sculpted by the wind, with delicate ripples and a sharp, elegant crest that curves gracefully across the frame. The sand is a rich, warm ochre, with subtle gradients of gold and burnt orange, creating a sense of depth and texture. In the distance, the desert stretches out toward a hazy horizon, where rugged, dark rock formations rise against a pale, cloudless sky. The lighting is soft and diffuse, suggesting either early morning or late afternoon, casting gentle shadows that accentuate the contours of the sand. The overall style is minimalist and atmospheric, with a shallow depth of field that keeps the foreground dune in sharp focus while the background mountains blur slightly, enhancing the sense of scale and isolation. The composition is wide and immersive, evoking a feeling of solitude and the sublime beauty of untouched wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:21.474985",
+  "word_count": 161,
+  "error_message": null
+}

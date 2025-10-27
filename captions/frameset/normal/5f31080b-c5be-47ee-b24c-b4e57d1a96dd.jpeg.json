@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f31080b-c5be-47ee-b24c-b4e57d1a96dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic street scene at dusk featuring two stray cats resting on a weathered curb. The foreground cat is black and white, lying on its side with a relaxed posture, while the second cat, further back, is gray and slightly out of focus, blending into the muted background. The curb is painted in faded blue and white stripes, chipped and worn, adding a sense of urban decay. The ground is rough asphalt, and tufts of grass grow through cracks near the cats, emphasizing the neglected environment. The background is softly blurred, with a cool, desaturated color palette dominated by blues and grays, creating a somber, contemplative mood. The lighting is low and diffuse, suggesting early evening or overcast weather, with soft shadows and a gentle falloff. The composition uses a shallow depth of field, drawing attention to the cats while the background recedes into a dreamy bokeh. The camera angle is low, at the cats’ eye level, enhancing intimacy and immediacy. The overall style is reminiscent of a still from an art-house film, evoking quiet solitude and the hidden life of the city’s edges.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:58.585335",
+  "word_count": 185,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "328b8823-c452-438e-bf63-407f24d66692.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, moody mountain landscape shrouded in mist and low-hanging clouds. The scene features rugged, rocky slopes with patches of lingering snow scattered across the dark, textured terrain. The mountains rise steeply, their jagged peaks partially obscured by thick, swirling fog that creates a sense of mystery and isolation. The color palette is subdued and cool, dominated by muted grays, deep greens, and off-whites, with soft, diffused natural lighting that enhances the overcast, atmospheric mood. The composition is wide and cinematic, with a sense of depth created by the receding layers of mountains and the enveloping mist. The overall style is realistic and contemplative, evoking the raw beauty and solitude of high alpine wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:17.328899",
+  "word_count": 114,
+  "error_message": null
+}

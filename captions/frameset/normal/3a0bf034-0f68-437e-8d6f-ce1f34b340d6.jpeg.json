@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a0bf034-0f68-437e-8d6f-ce1f34b340d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit, abandoned office space. The room is large and open, with exposed pipes and industrial ceiling details, casting deep shadows across the floor. Scattered debris, broken furniture, and discarded office chairs are visible, emphasizing the sense of neglect and disarray. In the background, a single figure stands silhouetted against the harsh, bluish daylight streaming through an open doorway, creating a dramatic contrast between the cold exterior light and the shadowy, muted interior. The figure’s posture is contemplative, almost ghostly, adding a sense of mystery and solitude. The color palette is dominated by cool blues, grays, and desaturated tones, with soft, diffused lighting and a slight haze that enhances the atmosphere of abandonment. The camera angle is low and wide, capturing the expanse of the room and the interplay of light and shadow, with a shallow depth of field that draws attention to the illuminated doorway and the lone figure, while the foreground remains blurred and indistinct. The overall style evokes a sense of suspense and melancholy, reminiscent of neo-noir or post-apocalyptic cinema.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:07.350505",
+  "word_count": 180,
+  "error_message": null
+}

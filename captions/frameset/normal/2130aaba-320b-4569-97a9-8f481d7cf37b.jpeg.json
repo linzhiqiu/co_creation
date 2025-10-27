@@ -1,0 +1,12 @@
+{
+  "image_filename": "2130aaba-320b-4569-97a9-8f481d7cf37b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic street scene featuring a modern, blue Kia Carnival minivan driving down a quiet, urban neighborhood street. The vehicle is captured in a three-quarter front view, moving from left to right, with its LED headlights and daytime running lights illuminated, reflecting subtly on the wet pavement. The minivan’s sleek, contemporary design is emphasized, with clean lines and a glossy finish. Inside, two people are visible through the windshield, engaged in conversation, their expressions relaxed and focused on the road ahead.\n\nThe background consists of residential buildings with muted yellow and beige siding, interspersed with greenery and bare trees, suggesting a cool, overcast day. The sidewalk is empty, and the overall atmosphere is calm and slightly subdued. The color palette is dominated by cool blues and grays, with soft natural lighting diffused by cloud cover, creating a gentle, realistic mood. The camera angle is at street level, slightly low, lending a sense of immediacy and presence, while a shallow depth of field keeps the focus on the vehicle and its occupants, subtly blurring the background for a cinematic effect. The overall style is naturalistic, with a hint of documentary realism, capturing an everyday moment with clarity and understated elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:03.400988",
+  "word_count": 200,
+  "error_message": null
+}

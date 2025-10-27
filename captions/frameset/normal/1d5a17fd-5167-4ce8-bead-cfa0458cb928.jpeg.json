@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d5a17fd-5167-4ce8-bead-cfa0458cb928.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic aerial view looking straight down at a swirling formation of clouds, with a large, irregularly shaped opening in the center revealing a patch of clear blue sky below. The clouds are thick, soft, and voluminous, rendered in varying shades of white and gray, with subtle gradients that suggest depth and movement. The lighting is diffuse and natural, as if illuminated by sunlight filtered through the upper atmosphere, creating gentle highlights and shadows within the cloud masses. The overall color palette is cool and muted, dominated by blues, grays, and whites, evoking a serene yet mysterious mood. The composition is centered on the open space in the clouds, drawing the viewer’s eye into the heart of the image, while the surrounding cloud edges are slightly blurred, suggesting motion and the ephemeral nature of the scene. The style is hyper-realistic with a touch of painterly softness, reminiscent of a high-resolution nature documentary or a contemplative moment in a film, emphasizing the vastness and beauty of the sky.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:40.197889",
+  "word_count": 168,
+  "error_message": null
+}

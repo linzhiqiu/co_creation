@@ -1,0 +1,12 @@
+{
+  "image_filename": "12e3b933-cac2-41a5-b245-5966d8356f80.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic scene set on a deserted, rain-slicked road at night, deep within a dense, shadowy forest. The camera is positioned at extreme low angle, almost ground level, with a shallow depth of field that draws sharp focus to a large, menacing scorpion dominating the foreground. The scorpion’s glossy, segmented exoskeleton glistens under the moody, blue-tinted lighting, its pincers open and tail arched in a threatening pose. The yellow centerline of the road runs diagonally beneath the scorpion, leading the viewer’s eye toward a distant, mysterious orange glow at the vanishing point, partially obscured by mist and silhouetted trees. The background is enveloped in deep blues and indigos, with hints of purple lightning illuminating the sky, casting dramatic highlights and long, eerie shadows. The overall style is reminiscent of a suspenseful sci-fi thriller, with a strong sense of tension, atmosphere, and cinematic drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:49.533060",
+  "word_count": 144,
+  "error_message": null
+}

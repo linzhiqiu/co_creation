@@ -1,0 +1,12 @@
+{
+  "image_filename": "36933962-5871-4c2c-9f0d-f7778ef145f8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast silhouette of an archer in mid-action, drawing a bow with a poised arrow. The figure is dressed in a form-fitting, dark bodysuit that obscures all facial and bodily details, emphasizing the sleek, anonymous outline. The archer is captured in a dynamic, side-profile pose, one knee raised as if kneeling or preparing to release the arrow, with the bowstring fully drawn. The background is a smooth gradient of deep blue fading to a lighter blue at the center, creating a subtle halo effect around the figure and enhancing the sense of focus and intensity. The lighting is strong and directional from behind, ensuring the subject is rendered entirely in shadow, with no visible features except the crisp, clean edges of the silhouette. The overall style is minimalist and cinematic, with a shallow depth of field that keeps the archer sharply defined against the soft, abstract backdrop. The mood is tense and suspenseful, evoking themes of precision, stealth, and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:47.182327",
+  "word_count": 162,
+  "error_message": null
+}

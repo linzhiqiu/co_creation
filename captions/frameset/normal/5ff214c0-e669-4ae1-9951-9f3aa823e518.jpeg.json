@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ff214c0-e669-4ae1-9951-9f3aa823e518.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a spacious, dimly lit industrial warehouse. In the foreground, a modern rock band is performing: four men stand and one sits at a drum kit. The drummer is positioned to the left, partially illuminated, while the other musicians—guitarists and a vocalist—stand in a loose semicircle, engaged in conversation or preparing to play. One wears a wide-brimmed hat, adding a touch of bohemian flair. The band members are dressed in dark, casual clothing, with silhouettes sharply defined by dramatic backlighting.\n\nScattered across the concrete floor are several old CRT televisions, each displaying static or colored screens, casting an eerie glow and adding a retro-futuristic vibe. The background features high industrial ceilings, exposed beams, and large windows tinted red, with a row of bright stage lights forming a halo above the band, creating a smoky, atmospheric haze. The color palette is dominated by deep reds, cool blues, and muted earth tones, with strong contrasts between shadow and light. The camera angle is wide and slightly low, capturing the full band and much of the environment, with a shallow depth of field that keeps the focus on the musicians while the background blurs softly. The overall style is reminiscent of a music video or an indie film, evoking a sense of anticipation, creativity, and raw energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:11.393297",
+  "word_count": 219,
+  "error_message": null
+}

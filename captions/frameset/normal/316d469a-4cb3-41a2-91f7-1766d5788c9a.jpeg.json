@@ -1,0 +1,12 @@
+{
+  "image_filename": "316d469a-4cb3-41a2-91f7-1766d5788c9a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, low-perspective shot of a lush green soccer field under a bright blue sky dotted with fluffy white clouds. In the foreground, three neon yellow training mannequins with black mesh bodies and blue check marks stand in a row, casting soft shadows on the grass. Behind the mannequins, slightly out of focus, a single soccer player in athletic training gear—gray top and dark shorts—dribbles a white ball, mid-action, suggesting movement and concentration. The background features distant trees and a few scattered figures, hinting at a larger training session. The lighting is natural and vibrant, with crisp midday sunlight enhancing the vivid greens and blues, while the overall composition uses shallow depth of field to draw attention to the mannequins and the player. The image conveys a sense of dynamic preparation and focus, with a cinematic, documentary-style realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:53.226074",
+  "word_count": 138,
+  "error_message": null
+}

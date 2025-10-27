@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ed8f422-443b-40f3-967a-9c064ae0a287.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of an open book lying on a wooden surface, with the pages filled with dense, bilingual text—one language in bold, the other in a lighter font, possibly a dictionary or language learning book. The focus is sharp on the center of the pages, with the edges softly blurred, creating a shallow depth of field that draws the viewer’s eye to the printed words. The lighting is warm and subdued, casting gentle shadows across the paper, evoking a quiet, studious atmosphere. The color palette is dominated by creamy whites and soft browns, with subtle hints of blue highlighting certain words or sections. The composition is intimate and slightly angled, as if viewed from the perspective of someone about to read or study, emphasizing the tactile texture of the paper and the inviting, contemplative mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:23.220684",
+  "word_count": 141,
+  "error_message": null
+}

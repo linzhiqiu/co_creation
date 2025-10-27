@@ -1,0 +1,12 @@
+{
+  "image_filename": "35add8fa-b6f1-4498-88f0-888e3229fbef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a pristine, ultra-modern data center rendered in a minimalist, almost clinical style. The room is spacious and immaculately clean, with glossy white floors that reflect the overhead grid of bright, evenly spaced fluorescent lights. Four large server racks, filled with blinking blue and yellow indicator lights, are symmetrically arranged along the sides, creating a corridor-like effect that draws the viewer’s eye toward the back of the room. In the center background, a man sits at a simple, metallic desk facing away from the camera, intently working on a computer. Next to him, a woman stands, also facing away, as if about to enter a plain, unmarked door set into the far wall. Both figures wear understated, casual clothing in muted tones, blending seamlessly with the sterile environment. The overall color palette is dominated by whites and cool grays, with subtle pops of color from the server lights. The lighting is soft but intense, eliminating shadows and enhancing the sense of order and precision. The composition is perfectly balanced and symmetrical, evoking a sense of calm, control, and technological sophistication, reminiscent of a high-concept science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:30.343369",
+  "word_count": 190,
+  "error_message": null
+}

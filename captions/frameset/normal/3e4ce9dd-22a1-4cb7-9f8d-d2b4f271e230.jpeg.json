@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e4ce9dd-22a1-4cb7-9f8d-d2b4f271e230.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, highly detailed macro shot of a textured surface resembling a mesh or netting, with a repeating diamond pattern. The material should appear synthetic, possibly metallic or plastic, with a subtle sheen that catches the light. The lighting is low-key and dramatic, with a soft, diffused spotlight illuminating the center of the frame, creating a gentle gradient from light to shadow across the surface. Hints of cool blue and muted magenta tones are visible in the highlights, adding depth and a slightly futuristic or abstract feel. The background fades into darkness at the edges, emphasizing the intricate texture and three-dimensional quality of the mesh. The overall mood is mysterious and atmospheric, with a focus on pattern, light, and shadow, evoking a sense of curiosity and tactile intrigue. The composition is tight, with a shallow depth of field that keeps the focus on the central area of the pattern, while the periphery softly blurs into obscurity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:40.701561",
+  "word_count": 157,
+  "error_message": null
+}

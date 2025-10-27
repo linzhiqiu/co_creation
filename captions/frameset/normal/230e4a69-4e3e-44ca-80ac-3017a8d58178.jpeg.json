@@ -1,0 +1,12 @@
+{
+  "image_filename": "230e4a69-4e3e-44ca-80ac-3017a8d58178.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure in dark, athletic clothing is captured mid-stride, running energetically up a steep, pale stone ramp. The runner’s silhouette is sharply defined against a vast, minimalist architectural backdrop composed of large, light-colored tiles that curve and undulate, creating a sense of scale and abstraction. The background is almost monochromatic, dominated by cool, muted tones of off-white, gray, and subtle blue, with soft, diffuse daylight casting gentle shadows and highlighting the texture of the tiles. The composition is strikingly geometric, with strong diagonal lines formed by the ramp and the horizontal bands of the wall, emphasizing movement and dynamism. The camera angle is wide and slightly low, accentuating the monumental scale of the setting and the smallness of the human figure, evoking a sense of solitude, ambition, and perseverance. The overall style is modern, minimalist, and cinematic, with a focus on clean lines, negative space, and a contemplative, almost surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:45.677257",
+  "word_count": 152,
+  "error_message": null
+}

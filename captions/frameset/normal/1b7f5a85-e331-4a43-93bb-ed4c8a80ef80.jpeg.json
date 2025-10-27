@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b7f5a85-e331-4a43-93bb-ed4c8a80ef80.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with blonde hair tied in a high ponytail is captured in the midst of an intense workout, climbing or pulling herself up on a wooden structure in a sunlit garage or workshop. She wears a black sports bra, her skin glistening slightly with sweat, and her expression is focused and determined, though her face is softly blurred by a shallow depth of field. The camera angle is close and intimate, positioned at shoulder height, emphasizing her effort and the tension in her arms.\n\nIn the background, a sleek, white service robot with a digital face and articulated arm stands on a wheeled base, observing or waiting to assist. The garage is cluttered with various tools, ropes, and equipment, lending an authentic, lived-in feel. Sunlight streams in from the open garage door, casting a warm, natural glow that contrasts with the cool, shaded interior. The color palette is dominated by earthy tones—muted browns, greens from the foliage outside, and the soft blue of the sky—punctuated by the robot’s clean white and black design.\n\nThe overall style is cinematic and contemporary, with a documentary-like realism. The composition draws the viewer’s eye from the woman’s exertion in the foreground to the robot’s calm presence in the background, subtly highlighting the intersection of human effort and advanced technology. The mood is one of quiet determination and futuristic possibility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:55.298922",
+  "word_count": 227,
+  "error_message": null
+}

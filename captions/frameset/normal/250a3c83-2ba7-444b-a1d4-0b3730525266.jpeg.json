@@ -1,0 +1,12 @@
+{
+  "image_filename": "250a3c83-2ba7-444b-a1d4-0b3730525266.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic scene set in a modern robotics laboratory. The central subject is a humanoid robot with a lifelike, expressive human face and blue eyes, but with a bald head and exposed mechanical components around the neck, shoulders, and chest. The robot’s mouth is slightly open, conveying a sense of surprise or awe, and its gaze is directed slightly upward, suggesting a moment of realization or discovery. The robot’s body features intricate metallic and electronic details, with visible wiring and mechanical joints, and a few identification stickers attached to its chest.\n\nThe background is softly blurred, emphasizing the robot as the focal point, but hints at an industrial workspace with muted colors, cardboard boxes, and a large sign reading “ROBOFORCE AI LABOR SOLUTIONS” in red, accompanied by a stylized logo. The overall color palette is cool and neutral, dominated by grays, silvers, and soft whites, with subtle highlights reflecting off the robot’s metallic surfaces. The lighting is diffuse and naturalistic, casting gentle shadows and enhancing the realism of the scene. The camera angle is at eye level, with a shallow depth of field that isolates the robot from its environment, creating an intimate and immersive atmosphere reminiscent of high-end science fiction films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:32.509542",
+  "word_count": 204,
+  "error_message": null
+}

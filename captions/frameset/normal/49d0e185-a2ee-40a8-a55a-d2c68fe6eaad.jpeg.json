@@ -1,0 +1,12 @@
+{
+  "image_filename": "49d0e185-a2ee-40a8-a55a-d2c68fe6eaad.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a mechanic’s hand working on a high-performance motorcycle engine. The focus is on the metallic, silver engine component, with intricate details and engraved markings clearly visible. The mechanic’s hand, slightly rough and stained from work, is firmly gripping the part, suggesting precision and expertise. The background is softly blurred, hinting at an industrial workshop environment with hints of orange machinery and dark, out-of-focus tools. The color palette is dominated by cool metallic silvers and greys, contrasted with warm skin tones and pops of orange from the surrounding equipment. The lighting is natural and diffused, creating soft highlights on the metal surfaces and subtle shadows that add depth and realism. The overall style is hyper-realistic with a shallow depth of field, emphasizing the tactile textures of both the engine and the hand, and evoking a sense of craftsmanship and mechanical focus. The camera angle is slightly tilted, adding a dynamic, immersive quality to the composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:27.157554",
+  "word_count": 159,
+  "error_message": null
+}

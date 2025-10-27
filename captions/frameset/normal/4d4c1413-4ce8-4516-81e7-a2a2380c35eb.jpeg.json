@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d4c1413-4ce8-4516-81e7-a2a2380c35eb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A shadowy figure, dressed entirely in black with a wide-brimmed hat and a face obscured by a dark mask, stands in a dimly lit, claustrophobic room. The subject is caught mid-action, forcefully grinding the blade of a shovel against a spinning whetstone, sending a dramatic spray of orange sparks arcing through the air. The lighting is moody and cinematic, with deep shadows and a cool, bluish tint dominating the scene, punctuated by the warm, vivid glow of the flying sparks. The background is sparse and slightly out of focus, featuring indistinct furniture that hints at a domestic setting, adding an unsettling contrast to the menacing activity in the foreground. The camera angle is low and dynamic, emphasizing the intensity and physicality of the figure’s movement, while a shallow depth of field keeps the viewer’s attention locked on the action and the cascade of sparks. The overall style is gritty and suspenseful, evoking the tension of a thriller or neo-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:51.370494",
+  "word_count": 160,
+  "error_message": null
+}

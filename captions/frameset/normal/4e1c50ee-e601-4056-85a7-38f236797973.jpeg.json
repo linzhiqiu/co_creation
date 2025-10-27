@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e1c50ee-e601-4056-85a7-38f236797973.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, post-apocalyptic scene set outdoors in an industrial wasteland. The central subject is a young woman lounging nonchalantly on a worn, blue-patterned sofa. She wears a black mini skirt, a white t-shirt, black knee-high socks with white stripes, and heeled ankle boots. Her long hair is loose, and she wears dark sunglasses, exuding a sense of cool detachment. She is absorbed in a colorful magazine, legs stretched out comfortably.\n\nTo her left, a stack of old, bulky CRT televisions and monitors forms a makeshift tower, adding to the retro-futuristic atmosphere. The background features a partially destroyed building with exposed beams and crumbling concrete, shrouded in thick, drifting smoke that diffuses the harsh daylight. The color palette is muted and desaturated, dominated by cool blues, grays, and ashen whites, enhancing the bleak, dystopian mood.\n\nThe lighting is natural but filtered through the smoke, creating soft shadows and a slightly hazy effect. The camera angle is low and wide, capturing the subject in full and emphasizing the scale of the ruined environment. The overall style is reminiscent of a gritty, high-concept music video or an indie film, with a strong sense of narrative and atmosphere. The composition balances the subject’s relaxed pose against the chaos of the background, evoking a mood of defiant calm amidst destruction.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:09.719442",
+  "word_count": 216,
+  "error_message": null
+}

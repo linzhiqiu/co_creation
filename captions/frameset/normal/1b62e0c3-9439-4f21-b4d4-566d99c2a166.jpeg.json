@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b62e0c3-9439-4f21-b4d4-566d99c2a166.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic scene set inside a dimly lit, high-tech control room or command center, bathed in deep blue and cyan lighting that casts dramatic shadows and highlights the metallic surfaces. Three men are the central focus: one in a white dress shirt and tie, leaning forward with intense focus over a large, metallic case that glows with an eerie green light; another man in a dark suit stands behind him, his expression serious and watchful, partially illuminated by the blue ambient light; the third man, dressed in a dark uniform, stands opposite, engaged in a grave conversation, his posture rigid and authoritative. The background is filled with racks of electronic equipment, blinking control panels, and shelves lined with tapes or files, contributing to the sense of urgency and secrecy. The composition is tight and claustrophobic, with a low camera angle that enhances the gravity of the moment. The overall style is reminiscent of a 1990s techno-thriller, with a cool, monochromatic color palette, sharp contrasts, and a palpable sense of suspense and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:03.322400",
+  "word_count": 173,
+  "error_message": null
+}

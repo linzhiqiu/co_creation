@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a03d796-6714-4e11-82bb-7b0d73d6c2f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, cavernous workshop filled with scaffolding and the skeletal framework of a large, spherical structure dominates the background. The scene is bathed in cool, bluish shadows, with dramatic, high-contrast lighting that creates deep pockets of darkness and highlights the architectural complexity of the space. In the foreground, a solitary man stands at a cluttered worktable, illuminated by an eerie greenish light that casts a surreal glow on his white shirt and dark vest, making him the focal point of the composition. He appears absorbed in his work, examining papers or blueprints with a focused, contemplative expression. The overall mood is mysterious and slightly otherworldly, evoking a sense of creative obsession and the grandeur of ambitious construction. The camera angle is slightly low and wide, emphasizing the scale and depth of the environment, while the intricate interplay of light and shadow adds a painterly, almost cinematic quality to the scene. The color palette is dominated by cool blues, muted browns, and the striking green illumination, enhancing the sense of intrigue and artistic intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:50.825710",
+  "word_count": 174,
+  "error_message": null
+}

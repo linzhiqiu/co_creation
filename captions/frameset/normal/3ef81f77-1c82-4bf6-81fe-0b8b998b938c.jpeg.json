@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ef81f77-1c82-4bf6-81fe-0b8b998b938c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic landscape at dusk, featuring a series of rugged mountain silhouettes layered in the foreground and midground. The mountains are rendered in deep, cool shades of blue and charcoal, creating a striking contrast against the luminous sky. The sky is filled with thick, moody clouds, illuminated by the warm, golden-orange light of the setting sun, casting a soft, diffused glow across the scene. The overall composition is wide and cinematic, with a low horizon line that emphasizes the grandeur and scale of the mountains. The lighting is soft and atmospheric, with subtle rays of sunlight filtering through the clouds, enhancing the sense of depth and mystery. The mood is tranquil yet awe-inspiring, evoking a sense of solitude and the sublime beauty of nature. The style is realistic with painterly qualities, reminiscent of classic landscape photography or romantic landscape paintings, focusing on the interplay of light, shadow, and natural forms.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:50.665620",
+  "word_count": 150,
+  "error_message": null
+}

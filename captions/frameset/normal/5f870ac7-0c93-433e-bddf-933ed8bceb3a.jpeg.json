@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f870ac7-0c93-433e-bddf-933ed8bceb3a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary student sits quietly at a desk in the middle of a sunlit, empty classroom. The young person, dressed in a dark school uniform with a white shirt and white sneakers, gazes pensively toward the window, their posture relaxed yet introspective. The classroom is filled with rows of wooden desks and chairs, all unoccupied except for the one where the student sits. Soft, natural light streams in through large windows on the left, casting gentle shadows across the polished floor and creating a warm, nostalgic atmosphere. The walls are adorned with a chalkboard, a bulletin board with papers, and shelves holding books and supplies, adding subtle details to the academic setting. The overall color palette is muted and natural, with earthy browns, soft greens, and the golden glow of afternoon sunlight. The composition is cinematic, with a shallow depth of field that draws focus to the lone figure, evoking a sense of quiet contemplation and solitude. The camera angle is slightly elevated and off-center, enhancing the feeling of space and isolation within the classroom.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:05.512621",
+  "word_count": 175,
+  "error_message": null
+}

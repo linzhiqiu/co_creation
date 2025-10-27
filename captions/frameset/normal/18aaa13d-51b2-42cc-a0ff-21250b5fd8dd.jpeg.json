@@ -1,0 +1,12 @@
+{
+  "image_filename": "18aaa13d-51b2-42cc-a0ff-21250b5fd8dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of an old CRT security monitor displaying a split-screen view from multiple surveillance cameras. The monitor dominates the right side of the frame, its curved glass surface reflecting a cool blue glow. The surveillance footage on the screen shows various outdoor scenes in muted, slightly washed-out colors, with time stamps and security labels overlaid in white and blue text. The left side of the composition reveals part of a cluttered, dimly lit room: a round, vintage wall clock with gold trim and black numerals, a metal shelf with scattered objects, and a rolled-up document labeled in red. The lighting is low and moody, casting soft shadows and emphasizing the utilitarian, slightly neglected atmosphere. The overall color palette is subdued, with cool blues from the monitor contrasting against the warm, yellowish ambient light of the room. The camera angle is slightly tilted, creating a sense of unease and realism, with a shallow depth of field that keeps the focus on the monitor while the background details blur gently. The style evokes a gritty, documentary-like realism, reminiscent of a late-night security office or a scene from a suspenseful thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:02.494574",
+  "word_count": 192,
+  "error_message": null
+}

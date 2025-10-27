@@ -1,0 +1,12 @@
+{
+  "image_filename": "1dbeb309-6b6e-437a-a712-a2f1c9264524.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, imposing bipedal robot stands in the center of a spacious, industrial warehouse, its dark metallic frame illuminated by cool, diffused overhead lighting. The robot’s design is angular and utilitarian, with visible hydraulic joints, cables, and mechanical limbs, evoking a sense of advanced but functional technology. Its head is slightly lowered, facing a man who stands directly in front of it, creating a moment of tense interaction. The man, dressed in casual work attire—jeans and a jacket—holds a futuristic-looking device or weapon, his posture alert and cautious as he faces the machine. The background features industrial elements: yellow safety railings, metal stairs, and orange support beams, with a large black-and-white mural of a moose and bold text on the far wall, adding a sense of scale and context. The color palette is dominated by cool grays, blues, and metallic tones, punctuated by the orange and yellow accents of the warehouse infrastructure. The composition is cinematic, shot at eye level with a wide aspect ratio, emphasizing the size difference between man and machine and the vastness of the space. The overall mood is tense and dramatic, with a sense of anticipation and high-tech realism, reminiscent of a science fiction film set in a near-future industrial environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:52.000907",
+  "word_count": 206,
+  "error_message": null
+}

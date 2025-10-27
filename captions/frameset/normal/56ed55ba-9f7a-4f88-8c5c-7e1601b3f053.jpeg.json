@@ -1,0 +1,12 @@
+{
+  "image_filename": "56ed55ba-9f7a-4f88-8c5c-7e1601b3f053.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic scene set in a devastated, post-apocalyptic landscape. In the foreground, a determined woman with short, curly dark hair stands protectively beside a young girl with long, disheveled blonde hair. The woman wears a dark, rugged bomber jacket over a simple shirt, while the girl is dressed in dirty, tattered clothing, both showing signs of hardship and survival. Their expressions are intense and alert, gazing off into the distance as if anticipating imminent danger. The background is chaotic and war-torn, with scattered debris, crouched figures, and several large fires burning, casting a harsh, orange glow that contrasts with the cold, blue-gray overcast sky. The lighting is dramatic, with strong backlighting from the flames creating deep shadows and highlighting the urgency of the moment. The composition uses a shallow depth of field to keep the focus on the two central figures, while the background remains slightly blurred, enhancing the sense of peril and uncertainty. The overall style is gritty and realistic, evoking the atmosphere of a high-stakes science fiction action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:42.379144",
+  "word_count": 172,
+  "error_message": null
+}

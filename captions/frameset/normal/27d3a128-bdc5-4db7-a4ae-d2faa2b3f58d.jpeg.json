@@ -1,0 +1,12 @@
+{
+  "image_filename": "27d3a128-bdc5-4db7-a4ae-d2faa2b3f58d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, high-angle wide shot of a large dance troupe performing a synchronized routine on a stark, white-tiled stage set against a deep black background. The dancers are arranged in a precise, geometric formation, creating a powerful sense of symmetry and unity. At the center, a lead performer stands out, dressed in a striking red and black outfit, while the surrounding dancers wear matching dark gray uniforms with short sleeves and skirts, their hair styled uniformly. The dancers are captured mid-movement, many kneeling with arms raised in dynamic, angular poses, conveying energy and intensity. The lighting is focused and theatrical, casting crisp shadows and emphasizing the contrast between the illuminated stage and the enveloping darkness beyond. The overall mood is bold and cinematic, with a minimalist color palette dominated by black, white, and gray, punctuated by the central figure’s vivid red. The composition and depth of field draw the viewer’s eye to the center, highlighting the choreography’s precision and the collective power of the group.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:24.383104",
+  "word_count": 165,
+  "error_message": null
+}

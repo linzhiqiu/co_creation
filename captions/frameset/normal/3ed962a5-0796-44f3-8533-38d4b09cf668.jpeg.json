@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ed962a5-0796-44f3-8533-38d4b09cf668.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic scene featuring a retro-futuristic military installation under a bright, partly cloudy sky. The focal point is a large, mechanical structure resembling a turret or cannon, mounted on a metallic platform. The device has a segmented, tubular barrel that emits a dramatic burst of white, lightning-like energy tendrils, giving a sense of powerful, otherworldly technology. Surrounding the main apparatus are various industrial details: a large array of circular floodlights, satellite dishes, and vents, all rendered in muted metallic grays and silvers. The background includes a hint of green treetops, contrasting with the blue sky and fluffy clouds above. The overall color palette is cool and slightly desaturated, evoking a mid-20th-century science fiction aesthetic. The composition is shot from a low angle, emphasizing the scale and imposing presence of the machinery, with crisp daylight illuminating the scene and casting soft shadows, enhancing the sense of realism and cinematic drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:47.275071",
+  "word_count": 150,
+  "error_message": null
+}

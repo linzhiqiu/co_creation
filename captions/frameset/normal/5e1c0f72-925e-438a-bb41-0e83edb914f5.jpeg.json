@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e1c0f72-925e-438a-bb41-0e83edb914f5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a sunlit beach scene featuring a row of land yachts with white sails and blue accents, each mounted on three-wheeled carts lined up diagonally across the sandy expanse. In the foreground, two adults stand conversing—one in a white shirt and red pants, the other in a light blue shirt and shorts—both facing the land yachts. Scattered orange traffic cones mark a course on the sand, adding pops of color and guiding the eye toward the horizon. The background reveals a line of low, white beach cabins and lush green trees beneath a bright blue sky dotted with fluffy white clouds. The overall color palette is warm and vibrant, dominated by sandy beige, crisp whites, and vivid blues, with natural sunlight casting soft, realistic shadows. The composition is balanced and cinematic, with a sense of depth created by the receding line of yachts and the open, airy atmosphere. The mood is relaxed and leisurely, evoking a summery, coastal vibe with a hint of playful competition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:26.733859",
+  "word_count": 168,
+  "error_message": null
+}

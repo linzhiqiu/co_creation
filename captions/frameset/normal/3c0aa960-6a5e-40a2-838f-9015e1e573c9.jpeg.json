@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c0aa960-6a5e-40a2-838f-9015e1e573c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a high-resolution, wide-angle image of an indoor velodrome track, viewed from a slightly elevated, front-facing perspective. The scene is devoid of people, focusing entirely on the sweeping, steeply banked wooden cycling track. The wood surface is worn and textured, with visible grain, scuff marks, and subtle color variations, conveying a sense of history and use. Prominent colored lines—red, blue, and black—curve smoothly along the track, marking racing lanes and boundaries. At the top edge of the image, a row of advertising banners is visible, featuring various logos and text in bold, contrasting colors. The lighting is even and bright, typical of an indoor sports arena, casting soft, diffuse shadows that emphasize the curvature and depth of the track. The overall color palette is warm, dominated by the honey and amber tones of the wood, punctuated by the vivid lines and the cool whites and blues of the banners. The composition is minimalist and geometric, highlighting the dramatic angle and scale of the velodrome, with a sense of anticipation and quiet before the action.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:54.885396",
+  "word_count": 175,
+  "error_message": null
+}

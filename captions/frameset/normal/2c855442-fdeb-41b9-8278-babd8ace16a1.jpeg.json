@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c855442-fdeb-41b9-8278-babd8ace16a1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody scene set inside a dimly lit boxing ring. The composition is wide and low, shot from the perspective of the ring floor, emphasizing the vast emptiness and isolation of the space. Two figures sit in opposite corners of the ring, each partially shrouded in shadow—one is a boxer, slouched and contemplative, the other appears to be a coach or trainer, holding a towel or paper, their features obscured by darkness. The lighting is stark and dramatic: a large, harsh fluorescent ceiling light dominates the center, casting a cold, almost clinical glow, while two smaller, warm spotlights on the back wall create deep, cinematic shadows and a sense of depth. The ropes of the ring frame the scene, adding strong horizontal lines and a sense of confinement. The color palette is muted and desaturated, with tones of deep blue, black, and hints of yellow from the lights, evoking a somber, introspective mood. The overall style is reminiscent of classic film noir or gritty sports dramas, with high contrast, soft focus in the background, and a palpable sense of tension and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:09.775241",
+  "word_count": 185,
+  "error_message": null
+}

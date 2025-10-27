@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b2128f4-b7c2-43cb-8543-ff7ea52d1f36.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody interior scene focused on a single, round wall clock with a white face and black numerals, centered against a worn, textured brown wall. The clock reads exactly 3:00. The wall is marked with faint scratches, scuffs, and subtle graffiti, suggesting years of use and neglect. The lighting is low and atmospheric, with soft, natural light coming from the left, casting gentle shadows and emphasizing the rough surface of the wall. The overall color palette is muted and earthy, dominated by browns, grays, and off-whites, evoking a sense of quiet, somber stillness. The composition is minimalist, with the clock as the clear focal point, and the background kept simple to enhance the feeling of isolation and the passage of time. The camera angle is straight-on, at eye level, with a shallow depth of field that keeps the clock and wall in sharp focus while the edges fade into darkness, creating a contemplative, almost melancholic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:37.068934",
+  "word_count": 159,
+  "error_message": null
+}

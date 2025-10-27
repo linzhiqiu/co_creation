@@ -1,0 +1,12 @@
+{
+  "image_filename": "40c79e31-5354-4c1d-bf2b-69c24623d85f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-contrast, black-and-white photograph featuring two wristwatches suspended against a deep black background. The left watch is entirely white, with a glossy ceramic band and a luminous face, its details sharply defined by crisp, directional lighting. The right watch is dark, possibly black or metallic, and is being gently held by a human hand entering from the right side of the frame. The hand is softly illuminated, its contours and knuckles subtly highlighted, adding a sense of tactility and realism. Both watches are positioned at a slight angle, as if being compared or selected, with the white watch floating freely and the dark watch partially obscured by the hand. The composition is minimalist and elegant, with a shallow depth of field that keeps the focus tightly on the watches and the hand, while the background remains a pure, featureless void. The overall mood is sophisticated and contemplative, evoking themes of choice, luxury, and the passage of time. The lighting is studio-quality, emphasizing the textures and materials of the watches, and the monochrome palette enhances the timeless, classic aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:24.290196",
+  "word_count": 178,
+  "error_message": null
+}

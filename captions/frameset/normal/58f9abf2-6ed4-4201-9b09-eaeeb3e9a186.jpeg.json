@@ -1,0 +1,12 @@
+{
+  "image_filename": "58f9abf2-6ed4-4201-9b09-eaeeb3e9a186.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, cinematic street scene set in broad daylight, featuring two young men sitting casually on the roof of a sleek, black Tesla Model X driving down an empty urban road. The man on the left wears a dark short-sleeve shirt and light pants, his posture relaxed with one leg dangling off the side of the car. The man on the right sports a tan bucket hat, sunglasses, and light-colored casual clothing, sitting cross-legged and exuding a carefree attitude. Both appear nonchalant and adventurous, gazing ahead as the car moves.\n\nThe background reveals a sunlit, slightly desaturated cityscape with a mix of urban and suburban elements: a faded beige church or community building with a sign reading \"VIDA NUEVA,\" a white RV parked behind a chain-link fence, and tall, leafy trees casting soft shadows. The sky is pale blue with wispy clouds, and the overall color palette is warm and muted, evoking a nostalgic, summery vibe. The lighting is natural and slightly overexposed, enhancing the sense of midday heat and open space.\n\nThe composition is dynamic, with the car centered in the frame and the camera positioned at street level, creating a sense of motion and immediacy. The depth of field is moderate, keeping both the subjects and the background in focus, while the slight blur of the road hints at movement. The overall style is reminiscent of an indie film or a music video, blending realism with a touch of rebellious, youthful energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:33.607013",
+  "word_count": 244,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c326b19-8334-4d2c-8cac-13d3925d33ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a BMW car hood, focusing tightly on the iconic BMW emblem. The badge is slightly off-center to the left, with the letters \"B\" and \"W\" partially obscured, creating a sense of intrigue and abstraction. The surface of the hood is a cool, metallic blue-gray, with subtle water droplets and small imperfections visible, suggesting recent rain or a humid environment. The lighting is soft and diffuse, with no harsh shadows, emphasizing the smooth texture of the paint and the reflective quality of the emblem. The overall color palette is restrained and cool, dominated by silvery blues and blacks, with hints of white in the emblem. The composition is minimalist, with a shallow depth of field that keeps the focus on the emblem and the immediate surface, while the background fades into gentle blur. The mood is contemplative and slightly mysterious, evoking a sense of quiet observation and attention to detail, reminiscent of a still from a modern art film or a high-end automotive commercial.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:15.296346",
+  "word_count": 168,
+  "error_message": null
+}

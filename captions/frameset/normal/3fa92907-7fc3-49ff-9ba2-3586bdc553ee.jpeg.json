@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fa92907-7fc3-49ff-9ba2-3586bdc553ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, minimalist studio portrait of a man mid-jump against a seamless, neutral gray background. The subject is a young adult male with short hair, dressed in a fitted black jacket, a dark gray t-shirt, and slim black pants, paired with shiny black dress shoes. He is captured in mid-air, his body slightly twisted with one arm bent and the other extended, conveying a sense of motion and energy. His facial expression is focused and intense, adding a dramatic flair to the scene. The lighting is soft and even, eliminating harsh shadows and emphasizing the clean, modern aesthetic. The composition is spacious, with the subject positioned off-center to the left, leaving ample negative space on the right, enhancing the sense of movement and isolation. The overall style is cinematic and contemporary, with a shallow depth of field that keeps the background smooth and unobtrusive, drawing all attention to the subject’s dynamic pose and stylish attire.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:03.937752",
+  "word_count": 156,
+  "error_message": null
+}

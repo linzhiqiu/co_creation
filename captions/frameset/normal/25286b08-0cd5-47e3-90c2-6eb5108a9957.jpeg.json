@@ -1,0 +1,12 @@
+{
+  "image_filename": "25286b08-0cd5-47e3-90c2-6eb5108a9957.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-angle, cinematic urban street scene captured in the cool, muted tones of early morning or late afternoon. The composition centers on a crosswalk where a sleek black car is stopped, partially blocking the pedestrian stripes, while a gray delivery van marked \"ICON\" is parked adjacent to a long row of bicycles secured to metal racks. The street is quiet, with only a few vehicles and no visible pedestrians, evoking a sense of calm and stillness. The background features modern, glass-fronted buildings and a few scattered white cars, with a delivery truck parked further up the street. The lighting is soft and diffused, casting gentle shadows and highlighting the subtle textures of the asphalt and pavement. The overall style is realistic and slightly desaturated, with a restrained color palette dominated by grays, blacks, and whites, punctuated by the occasional muted color of the bicycles. The camera angle is elevated, providing a broad, almost surveillance-like perspective that emphasizes the geometry of the crosswalk, the orderly arrangement of the bikes, and the quiet urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:29.395496",
+  "word_count": 173,
+  "error_message": null
+}

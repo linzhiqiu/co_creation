@@ -1,0 +1,12 @@
+{
+  "image_filename": "313b787e-97d6-44e1-89fc-3cbc1daf6a2f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot focusing on a pair of hands delicately assembling a mechanical component. The subject’s fingers are carefully tightening small screws into a circular, metallic gear-like plate, which is mounted on white cylindrical supports. The background is softly blurred, drawing all attention to the intricate manual work and the texture of the metal and skin. The lighting is soft and natural, highlighting the subtle sheen of the metal and the gentle contours of the hands. The color palette is muted and cool, dominated by silvery grays, soft whites, and warm skin tones, creating a calm, focused atmosphere. The composition emphasizes precision and craftsmanship, with the camera angle positioned at a slight diagonal to capture both the dexterity of the hands and the mechanical detail, evoking a sense of careful engineering and human ingenuity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:47.363754",
+  "word_count": 136,
+  "error_message": null
+}

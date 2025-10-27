@@ -1,0 +1,12 @@
+{
+  "image_filename": "2237c449-cfbe-4a1a-81a9-81458cbb527d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-resolution image of a grand neoclassical colonnade, viewed from a central perspective that emphasizes symmetry and depth. The scene features tall, imposing stone columns arranged in parallel rows, stretching into the distance and converging toward a vanishing point at the far end. The columns are bathed in soft, natural daylight, casting long, dramatic shadows across the smooth stone floor, creating a rhythmic pattern of light and dark. The color palette is muted and elegant, dominated by warm beige and pale stone tones, with subtle variations in texture on the columns and floor. The background is a solid stone wall, adding to the sense of enclosure and monumentality. The overall mood is serene, contemplative, and timeless, with a strong sense of architectural grandeur. The composition is clean and uncluttered, with no people or extraneous objects, allowing the viewer to focus entirely on the interplay of light, shadow, and classical form.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:24.995447",
+  "word_count": 152,
+  "error_message": null
+}

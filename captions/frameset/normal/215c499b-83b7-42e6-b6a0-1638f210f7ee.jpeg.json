@@ -1,0 +1,12 @@
+{
+  "image_filename": "215c499b-83b7-42e6-b6a0-1638f210f7ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a vintage typewriter in action, with the camera focused tightly on the metal typebars and the platen holding a sheet of pale blue paper. The paper is partially filled with a sequence of random letters, numbers, and symbols, typed in a classic monospaced typewriter font, evoking a sense of coded or encrypted text. The lighting is soft and slightly warm, casting gentle shadows that accentuate the mechanical details and the texture of the paper. The composition emphasizes the tactile, analog nature of the typewriter, with the viewer’s perspective angled slightly from above, creating a sense of intimacy and focus. The color palette is muted, dominated by the cool blue of the paper, the dark metallic tones of the typewriter, and subtle highlights reflecting off the metal. The overall mood is mysterious and contemplative, reminiscent of classic spy films or noir thrillers, with a shallow depth of field that blurs the background and draws attention to the typed text and the intricate machinery in the foreground.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:02.934894",
+  "word_count": 170,
+  "error_message": null
+}

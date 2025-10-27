@@ -1,0 +1,12 @@
+{
+  "image_filename": "61b751a8-91a2-49ae-9138-cbaaf228a334.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, retro-futuristic control room filled with analog equipment and panels covered in switches and dials. In the foreground, the silhouette of a person is partially visible, observing a bank of monitors. The main monitor displays a stark, clinical scene: a young child with short blond hair, dressed in a plain white outfit, sits alone on a simple chair at a black table in a minimalist, white-walled room. The child’s posture is upright and still, their expression neutral and unreadable, evoking a sense of isolation and observation. The color palette is dominated by cool blues and muted grays, with the glow of the monitor screens casting a cold, artificial light that contrasts with the darkness of the control room. The composition uses a shallow depth of field, focusing on the monitor’s image while the control panels and the observer remain slightly out of focus, enhancing the voyeuristic, clinical atmosphere. The overall style is reminiscent of 1970s science fiction cinema, with a sense of psychological tension and sterile detachment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:57.975501",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d248aba-b947-4226-8aed-259d41bcc5b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A professional scene set in a modern conference room or classroom, featuring a man in a deep blue suit standing at the front, facing a large projection screen. The man, seen in profile, is gesturing with his right hand, pointing towards a list of network IP addresses and routing information displayed in black text on a white background. The projection dominates the right side of the frame, with crisp, clear digital text, while the left side shows the presenter, partially silhouetted by the bright light from the screen. In the foreground, out-of-focus laptop screens and blurred heads of attendees suggest an engaged audience, adding depth and a sense of immersion. The color palette is cool and subdued, with blues, whites, and soft grays, and the lighting is natural but slightly dimmed to enhance the visibility of the projection. The composition uses a shallow depth of field, focusing on the presenter and the projected data, evoking a professional, educational, and slightly cinematic atmosphere, as if capturing a key moment in a technical workshop or IT training session.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:35.502841",
+  "word_count": 176,
+  "error_message": null
+}

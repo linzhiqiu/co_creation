@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c74c472-a76a-436a-807c-3a8f0e8fd2c7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, dystopian urban scene set in a flooded, futuristic city. The central subject is a woman standing confidently in shallow, murky water, her posture strong and assertive. She wears a form-fitting, high-tech bodysuit with subtle circuit-like patterns, giving her a cybernetic, almost otherworldly appearance. Her short, dark hair is slightly tousled, and she holds a sleek handgun in one hand, exuding determination and readiness. At her feet, partially submerged, lies a motionless figure in dark tactical gear, suggesting a recent confrontation.\n\nThe background features towering, weathered high-rise buildings with a mix of industrial and cyberpunk architectural elements—exposed pipes, large ventilation fans, and neon signage barely visible in the overcast daylight. The color palette is dominated by muted grays, blues, and metallic tones, with occasional hints of faded neon. The lighting is diffuse and natural, filtered through a cloudy sky, creating a somber, gritty atmosphere. The camera angle is low and slightly wide, emphasizing the protagonist’s dominance and the scale of the urban decay around her. The overall style is realistic with a cinematic edge, evoking the mood of a high-stakes sci-fi thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:04.729531",
+  "word_count": 184,
+  "error_message": null
+}

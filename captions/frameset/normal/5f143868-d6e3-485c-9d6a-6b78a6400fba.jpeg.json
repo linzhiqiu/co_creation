@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f143868-d6e3-485c-9d6a-6b78a6400fba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, cinematic scene featuring a single person lying inside an open tanning bed. The subject, a young adult with light skin and short hair, is positioned on their back, wearing only dark shorts. Their upper body is partially illuminated by the warm, orange glow emanating from the tanning bed’s interior, casting dramatic shadows and creating a moody, intimate atmosphere. The person’s right arm is extended upward, reaching toward the control panel above, while their left arm rests across their torso. The background is almost entirely shrouded in darkness, emphasizing the isolation and focus on the subject. The composition is shot from a slightly elevated side angle, capturing the length of the tanning bed and the relaxed posture of the figure. The color palette is dominated by deep shadows and the soft, amber light, evoking a sense of quiet introspection. The overall style is reminiscent of a contemplative indie film, with a shallow depth of field and a strong emphasis on chiaroscuro lighting to highlight the contrast between light and dark.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:52.329141",
+  "word_count": 172,
+  "error_message": null
+}

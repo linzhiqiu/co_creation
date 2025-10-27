@@ -1,0 +1,12 @@
+{
+  "image_filename": "1285be10-0c7b-4a3a-9059-89f066fa56c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic landscape of dense pine forest shrouded in thick, rolling fog, with dark mountain ridges fading into the mist. The monochrome palette emphasizes deep blacks and soft grays, creating a mysterious, atmospheric scene with soft, diffused lighting and a sense of depth and isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:34.162169",
+  "word_count": 46,
+  "error_message": null
+}

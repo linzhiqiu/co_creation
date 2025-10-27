@@ -1,0 +1,12 @@
+{
+  "image_filename": "45b5cc8f-4d02-412d-94c2-e3ceb65a7f6c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, cinematic supermarket scene set in a brightly lit, modern grocery store aisle. The camera is positioned at eye level, capturing a wide, symmetrical view down the aisle, with shelves on both sides stocked with various packaged goods. The fluorescent lighting creates a soft, even illumination, giving the scene a slightly washed-out, pastel color palette dominated by whites, creams, and muted tones. \n\nIn the center of the composition, a man dressed in full medieval knight’s armor, complete with a breastplate and arm guards, walks away from the camera, pushing a shopping cart filled with groceries. His presence is strikingly anachronistic against the mundane, contemporary setting. To the right, a casually dressed woman in modern clothing—jeans and a green jacket—walks in the opposite direction, carrying a shopping basket. The background features clear signage indicating aisle numbers and product categories, enhancing the everyday realism of the location.\n\nThe overall mood is whimsical and slightly absurd, blending the ordinary with the fantastical. The depth of field is moderate, keeping both the foreground and background in focus, emphasizing the juxtaposition of the knight and the modern environment. The composition is balanced and orderly, with a subtle sense of motion as the characters pass each other, creating a moment of quiet, surreal humor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:13.114964",
+  "word_count": 209,
+  "error_message": null
+}

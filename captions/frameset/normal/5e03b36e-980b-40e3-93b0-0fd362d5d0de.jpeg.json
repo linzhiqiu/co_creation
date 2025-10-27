@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e03b36e-980b-40e3-93b0-0fd362d5d0de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A powerful, gleaming white semi-truck with chrome accents and a prominent front grille is parked on an expansive, open stretch of asphalt, likely an airstrip or a deserted road. The truck is attached to a long, blue flatbed trailer with a partially open side, revealing a person sitting casually on the edge, legs dangling. The scene is set during golden hour, with the soft, warm light of a setting sun casting long shadows and bathing the truck in a gentle, amber glow. The sky is vast, painted with pastel hues of peach, pink, and blue, with scattered clouds adding depth and atmosphere. The background is minimal, with a low horizon line and distant, indistinct buildings or hangars, emphasizing the sense of space and freedom. The composition is cinematic, shot from a low angle to accentuate the truck’s imposing presence, with a shallow depth of field that keeps the focus on the vehicle and its solitary occupant. The overall mood is tranquil and contemplative, evoking themes of journey, solitude, and the open road.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:22.201035",
+  "word_count": 172,
+  "error_message": null
+}

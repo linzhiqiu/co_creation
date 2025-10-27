@@ -1,0 +1,12 @@
+{
+  "image_filename": "433c8f1a-7b16-4fc7-8b8b-36c01884f59c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic black-and-white portrait of a young woman with curly hair, captured in a minimalist studio setting. She is dressed in a sleeveless black top and black pants, exuding a modern, understated elegance. The woman is positioned in a three-quarter profile, kneeling with one knee raised, her left hand lifted near her face as if caught mid-gesture or in the midst of speaking. Her expression is focused and intent, with slightly parted lips, conveying a sense of thoughtfulness or communication. The background is a seamless, softly lit gradient of gray, free of distractions, emphasizing the subject. The lighting is soft and diffused, creating gentle shadows that sculpt her features and highlight the texture of her hair. The composition is balanced and intimate, with a shallow depth of field that keeps the focus on the woman while subtly blurring the background, evoking a sense of quiet intensity and modern sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:19.438168",
+  "word_count": 150,
+  "error_message": null
+}

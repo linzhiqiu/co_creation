@@ -1,0 +1,12 @@
+{
+  "image_filename": "55edda1d-b227-4dc4-9025-bbba768c675f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person writing in a notebook at a wooden table. The subject’s hand, holding a blue pen, is in sharp focus as it moves across the open pages, while the rest of the figure—dressed in a loose, white shirt—is softly blurred, creating a shallow depth of field. The composition emphasizes the act of writing, with the notebook and pen as central elements. To the right, part of a laptop is visible, hinting at a modern, studious environment, while a smartphone lies on the table in the foreground, slightly out of focus. The lighting is natural and soft, casting gentle shadows and giving the scene a calm, contemplative mood. The color palette is muted and understated, with warm wood tones, cool whites, and subtle metallic accents from the pen and laptop. The overall style is intimate and realistic, evoking a sense of quiet concentration and thoughtful work.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:13.171191",
+  "word_count": 151,
+  "error_message": null
+}

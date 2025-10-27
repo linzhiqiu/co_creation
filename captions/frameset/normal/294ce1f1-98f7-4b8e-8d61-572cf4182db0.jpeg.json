@@ -1,0 +1,12 @@
+{
+  "image_filename": "294ce1f1-98f7-4b8e-8d61-572cf4182db0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic scene set in a dimly lit room bathed in deep red light. The focal point is an old-fashioned CRT television placed against a wall, its screen displaying a grainy, slightly distorted image of a shirtless man wearing glasses and a beanie, leaning forward and looking directly into the camera with an intense, almost confrontational expression. The background wall features a bold, abstract black-and-white pattern, adding a sense of surrealism and visual tension. The composition is tight and intimate, with the television dominating the frame and the red lighting casting dramatic shadows, evoking a sense of mystery and psychological unease. The overall style is reminiscent of neo-noir or experimental art films, with a strong emphasis on color contrast, low-key lighting, and a voyeuristic perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:54.746672",
+  "word_count": 127,
+  "error_message": null
+}

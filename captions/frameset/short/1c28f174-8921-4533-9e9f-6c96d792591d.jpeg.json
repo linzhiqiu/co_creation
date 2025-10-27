@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c28f174-8921-4533-9e9f-6c96d792591d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up shot of hands squeezing a white cheesecloth bundle over a glass bowl, with fresh milk or curds dripping down. The focus is sharp on the hands and liquid, with a soft, dark background. Natural, diffused lighting highlights the textures and translucency, evoking a sense of artisanal food preparation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:09.173877",
+  "word_count": 49,
+  "error_message": null
+}

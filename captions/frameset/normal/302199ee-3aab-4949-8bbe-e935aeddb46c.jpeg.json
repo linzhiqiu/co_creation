@@ -1,0 +1,12 @@
+{
+  "image_filename": "302199ee-3aab-4949-8bbe-e935aeddb46c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a modern smartphone, viewed from a slightly elevated angle. The phone screen displays a security camera feed, showing two workers in high-visibility vests moving large wooden crates on a concrete surface, possibly in a warehouse or loading dock area. The video interface is clearly visible, with playback controls, a timeline, and a list of video clips beneath the main feed. The hand gripping the phone is partially visible, with the thumb resting on the side and the wrist clad in a gray sleeve. The background is softly blurred, rendered in cool, desaturated tones of blue and gray, creating a moody, cinematic atmosphere. The lighting is diffuse and natural, suggesting an overcast day or indoor ambient light, with subtle reflections on the phone screen. The overall composition emphasizes the act of surveillance and observation, with a shallow depth of field drawing focus to the phone and its contents, while the rest of the scene fades into gentle abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:21.372198",
+  "word_count": 164,
+  "error_message": null
+}

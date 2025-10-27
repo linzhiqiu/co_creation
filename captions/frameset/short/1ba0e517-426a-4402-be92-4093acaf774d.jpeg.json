@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ba0e517-426a-4402-be92-4093acaf774d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic black-and-white close-up of a human face, centered with a wide, intense eye staring forward. Radiating light streaks burst outward from the face, evoking a sense of speed or psychological intensity. High contrast, surreal, with a dynamic, almost cosmic energy and a sense of motion blur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:55.482806",
+  "word_count": 48,
+  "error_message": null
+}

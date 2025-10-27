@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c69e6ce-13b9-4488-8101-9f324ed04b4e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black and white photograph captures two people riding bicycles side by side along a dirt path in a natural, slightly overgrown setting. The subjects, both wearing light-colored shirts and caps, are positioned centrally and are cycling toward the camera, their expressions focused and relaxed. The background features dense, leafy trees and bushes, creating a sense of seclusion and tranquility. The image is shot from a low, frontal angle, with a shallow depth of field that blurs the edges and foreground, drawing attention to the cyclists as the main focal point. The lighting is soft and even, suggesting an overcast day or diffused sunlight, which enhances the nostalgic, timeless quality of the scene. The overall style evokes a vintage or documentary feel, with a slightly grainy texture and gentle vignetting around the corners, reminiscent of early 20th-century photography or classic film stills.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:17.157603",
+  "word_count": 142,
+  "error_message": null
+}

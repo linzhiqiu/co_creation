@@ -1,0 +1,12 @@
+{
+  "image_filename": "22763792-ed76-4083-998a-589c7a5e6047.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, close-up shot of a person holding a Nikon DSLR camera up to their face, preparing to take a photograph. The composition is tight, focusing on the camera body and the subject’s hand, with only a partial view of the person's face visible, emphasizing their eye behind a pair of dark sunglasses. The lighting is low-key and moody, casting deep shadows and highlighting the textures of the camera and the subtle contours of the subject’s skin. The color palette is muted, dominated by blacks, grays, and soft highlights, creating a cinematic, almost noir atmosphere. The depth of field is shallow, with the camera and the subject’s hand in sharp focus while the background fades into darkness, enhancing the sense of intimacy and concentration. The overall style is reminiscent of a suspenseful film scene, with a sense of anticipation and intensity captured through the close framing and dramatic lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:29.586732",
+  "word_count": 150,
+  "error_message": null
+}

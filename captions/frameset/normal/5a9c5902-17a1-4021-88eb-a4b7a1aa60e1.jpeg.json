@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a9c5902-17a1-4021-88eb-a4b7a1aa60e1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, cinematic portrait of a man in mid-motion, running directly toward the camera against a seamless, deep black background. The subject is a fit, long-haired man with light brown hair flowing dramatically behind him, suggesting speed and movement. He wears a casual taupe t-shirt layered under a sleek black leather jacket, which adds a modern, edgy vibe. His expression is intense and focused, with eyes locked forward and lips slightly parted, conveying determination and urgency. The lighting is crisp and directional, highlighting the contours of his face and the texture of his hair and jacket, while casting subtle shadows that enhance the sense of depth. The composition is tightly framed, with the man centered and his outstretched arms and hands slightly blurred to emphasize motion. The overall style is high-contrast and minimalist, with a shallow depth of field that isolates the subject from the background, creating a powerful, action-oriented visual reminiscent of a movie poster or a high-fashion editorial.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:06.437938",
+  "word_count": 161,
+  "error_message": null
+}

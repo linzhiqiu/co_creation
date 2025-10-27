@@ -1,0 +1,12 @@
+{
+  "image_filename": "40b756c3-85e0-4ee8-9f8a-823d0bf73c81.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with short brown hair and glasses stands in a modern, sunlit office space. He wears a casual, blue plaid button-up shirt and looks slightly off-camera with a thoughtful, attentive expression. The background features large industrial-style windows that let in soft, natural daylight, casting gentle shadows and creating a warm, inviting atmosphere. Exposed brick walls and a whiteboard covered with colorful sticky notes and diagrams add a creative, collaborative feel to the setting. The composition is medium-close, with the man in sharp focus and the background softly blurred, emphasizing depth of field. The color palette is muted and natural, with earthy tones from the brick, neutral grays, and pops of color from the sticky notes and an orange chair. The overall style is documentary and candid, evoking a sense of authenticity and intellectual engagement, as if capturing a moment during a thoughtful discussion or interview in a creative workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:23.233816",
+  "word_count": 151,
+  "error_message": null
+}

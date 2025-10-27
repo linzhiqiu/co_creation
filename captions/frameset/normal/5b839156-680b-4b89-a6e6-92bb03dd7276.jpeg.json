@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b839156-680b-4b89-a6e6-92bb03dd7276.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a stylish man seated in a dramatic, low-lit environment. He wears a crisp white dress shirt with the sleeves rolled up, a dark tailored vest, and a classic black fedora tilted forward, partially shadowing his intense, contemplative expression. His posture is relaxed yet confident, with one arm resting casually and his gaze directed downward, exuding an air of mystery and cool detachment. The background is softly blurred, featuring industrial scaffolding and subtle geometric lines, enhancing the sense of depth and focus on the subject. The color palette is muted and sophisticated, dominated by deep blues, blacks, and soft whites, with warm highlights accentuating the contours of his face and clothing. The lighting is moody and directional, casting gentle shadows that sculpt the figure and evoke a noir-inspired, cinematic atmosphere. The composition is tight, with a shallow depth of field that isolates the subject, creating an intimate and evocative visual narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:28.453947",
+  "word_count": 155,
+  "error_message": null
+}

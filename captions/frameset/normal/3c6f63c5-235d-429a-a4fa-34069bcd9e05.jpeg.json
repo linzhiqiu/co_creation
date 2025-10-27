@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c6f63c5-235d-429a-a4fa-34069bcd9e05.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, low-angle shot looking up at an older man with a rugged, weathered face and a gray beard, partially obscured by a pair of makeshift, rectangular goggles. He wears a dark cap and is peering downward, his expression intent and focused, as if examining something closely. The background is a vast, open sky with soft, natural daylight illuminating the scene, and a large, fluffy white cloud drifts behind him, creating a sense of openness and isolation. The color palette is muted and natural, dominated by soft blues and whites, with subtle earth tones in the man's skin and clothing. The composition uses a shallow depth of field, keeping the man's face and goggles in sharp focus while the sky and clouds blur gently, enhancing the sense of perspective and intimacy. The overall style is reminiscent of a gritty, post-apocalyptic or survivalist film, with a raw, immersive quality and a sense of immediacy, as if the viewer is lying on the ground looking up at the man looming overhead.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:13.434832",
+  "word_count": 169,
+  "error_message": null
+}

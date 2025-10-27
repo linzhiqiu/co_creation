@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c8e3726-dd3f-44fa-acf3-55a01947c405.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up frontal shot of a modern Ford pickup truck at sunset. The camera is positioned at grille level, capturing the bold, imposing front fascia with the Ford emblem prominently centered. The truck’s LED headlights form sharp, vertical lines on either side, glowing with a cool white light that contrasts against the warm, golden hues of the setting sun in the background. The sky is softly gradient, transitioning from pale blue to amber, with subtle clouds and a hint of silhouetted landscape on the horizon. The truck’s metallic paint reflects the ambient light, emphasizing its rugged contours and chrome details. The overall mood is powerful and dramatic, with a shallow depth of field that keeps the focus on the truck’s front while gently blurring the background, evoking a sense of strength and reliability. The style is reminiscent of a high-end automotive commercial, with crisp clarity, balanced lighting, and a slightly wide-angle lens to enhance the vehicle’s presence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:20.670051",
+  "word_count": 159,
+  "error_message": null
+}

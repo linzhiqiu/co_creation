@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a0a26aa-b1e0-4365-8ce3-1c30657a0967.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a simple, round wall clock with a white face and bold black numerals, positioned in the upper half of the frame so that only the top portion of the clock is visible. The clock’s hands indicate the time is just before 11 o’clock, with the minute hand approaching the 11 and the hour hand slightly before the 11. The background is a smooth, pale lavender wall, softly illuminated with subtle, diffuse lighting that creates a gentle gradient and a faint shadow halo around the clock, adding depth and a sense of quiet tension. The overall color palette is muted and minimal, dominated by whites, blacks, and soft purples. The composition is stark and uncluttered, evoking a sense of anticipation or suspense, with a cinematic, almost clinical precision. The camera angle is straight-on, emphasizing symmetry and simplicity, while the shallow depth of field keeps the focus sharp on the clock face, allowing the background to softly recede. The mood is contemplative and slightly tense, reminiscent of a pivotal moment in a psychological drama or thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:33.319784",
+  "word_count": 178,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "17c159bc-45a3-404c-b97f-4e221006615a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high school science classroom scene, captured in a naturalistic, documentary style. The composition centers on a middle-aged male teacher standing in front of a large blackboard, mid-gesture as he enthusiastically explains a concept about light and the spectrum, with simple diagrams and the words \"LIGHT\" and \"spectrum\" chalked on the board. The teacher wears a short-sleeved, button-up shirt and a tie, his expression animated and engaged. In the foreground, two students sit at wooden lab tables, backs to the camera—one in a denim jacket, the other in a striped sweater—listening attentively. Open textbooks and notebooks are scattered on the tables, adding to the sense of an active lesson. The classroom is softly lit by natural daylight, creating a warm, slightly muted color palette with gentle shadows. The camera angle is at student eye-level, with a moderate depth of field that keeps both the teacher and the students in focus, emphasizing the dynamic interaction. The overall mood is studious and authentic, evoking the everyday atmosphere of a real classroom.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:37.584234",
+  "word_count": 169,
+  "error_message": null
+}

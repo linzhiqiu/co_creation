@@ -1,0 +1,12 @@
+{
+  "image_filename": "243423b8-804f-47ef-b833-15c9481fad1c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in a cozy, cluttered room bathed in warm, ambient light. He is positioned in the foreground, holding a modern black iPhone with three camera lenses close to the viewer, as if taking a selfie or recording a video. The camera angle is wide and slightly tilted, creating a dynamic, immersive perspective that emphasizes the phone and the man's gesture. He wears a white t-shirt with a subtle graphic, and his expression is focused yet relaxed, with a slight smile. Behind him, the room is filled with personal items: a bookshelf crowded with books, figurines, and a glowing lamp, as well as a large wall clock and various papers and objects scattered on a desk. The color palette features deep blues and warm yellows, with soft, diffused sunlight streaming through a curtain, casting gentle shadows and giving the scene a cinematic, lived-in feel. The overall style is casual and intimate, with a shallow depth of field that keeps the man and the phone sharply in focus while the background remains softly blurred, enhancing the sense of depth and personal space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:07.044823",
+  "word_count": 183,
+  "error_message": null
+}

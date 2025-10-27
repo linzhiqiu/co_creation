@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b63d9fd-bb87-495f-b45b-43dbbc58a5dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in partial silhouette, facing a large wall composed of frosted glass blocks that diffuse a soft, pale light into the space. The subject, a young man with short, tousled dark hair, is dressed in a dark suit jacket, his posture contemplative as he gazes toward the glowing grid. The scene is shot from behind and slightly to the side, obscuring the subject’s face and emphasizing his introspective mood. The color palette is muted and subdued, dominated by cool grays, soft whites, and deep shadows, creating a quiet, almost melancholic atmosphere. The lighting is gentle and ambient, with the glass wall acting as a luminous backdrop that softly outlines the figure’s profile. The composition is minimalist, with clean lines and a strong geometric presence from the grid of glass blocks. The camera angle is at eye level, with a shallow depth of field that keeps the focus on the subject and the textured glass, while the background remains abstract and indistinct. The overall style evokes a cinematic, contemplative mood, reminiscent of art-house films, with an emphasis on solitude, introspection, and the interplay of light and architecture.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:27.070300",
+  "word_count": 189,
+  "error_message": null
+}

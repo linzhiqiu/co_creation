@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ef9ec09-74d2-4864-824b-8b2bb23ba15f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set on a narrow, winding forest road at dusk. The composition is dominated by a vintage military jeep, headlights glowing warmly in the dim, bluish twilight, casting soft reflections on the wet, muddy road. The jeep is positioned slightly off-center, facing the viewer, with its front details—such as a spare tire and a visible license plate—clearly illuminated. Two figures stand in the foreground, their backs to the camera, partially silhouetted and out of focus, adding a sense of tension and anticipation. The dense, leafless trees on either side of the road create a tunnel-like effect, their dark forms blending into the shadowy background. The overall color palette is muted and desaturated, with deep blues, grays, and earthy browns, punctuated by the yellow glow of the headlights. The lighting is low and naturalistic, evoking a somber, suspenseful atmosphere. The camera angle is at eye level, with a shallow depth of field that keeps the jeep sharp while the foreground figures remain blurred, enhancing the sense of mystery and narrative intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:17.335539",
+  "word_count": 173,
+  "error_message": null
+}

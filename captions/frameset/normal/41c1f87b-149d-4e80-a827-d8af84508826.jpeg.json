@@ -1,0 +1,12 @@
+{
+  "image_filename": "41c1f87b-149d-4e80-a827-d8af84508826.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with short, graying hair is intently working in an industrial workshop. He is captured in profile, wearing a plain black t-shirt, his arms focused on assembling or adjusting a large, dark metal mechanical component. The background is softly blurred, filled with indistinct machinery and shelving, evoking the atmosphere of a busy factory or machine shop. The lighting is cool and diffused, casting gentle shadows and highlighting the textures of both the man’s skin and the metal parts. The color palette is dominated by muted blues, grays, and blacks, creating a subdued, almost cinematic mood. The camera angle is slightly behind and to the side of the subject, with a shallow depth of field that draws attention to the man’s concentration and the details of his hands at work, while the rest of the environment fades into a soft bokeh. The overall style is realistic and documentary-like, capturing the quiet intensity and craftsmanship of industrial labor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:45.678626",
+  "word_count": 158,
+  "error_message": null
+}

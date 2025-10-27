@@ -1,0 +1,12 @@
+{
+  "image_filename": "54c93188-853a-4fb0-a06b-8462e293286b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a human hand pressing a large, illuminated red button labeled \"ROCKET LAUNCHER\" on a dark, metallic control panel. The finger is caught mid-action, just as it makes contact with the glowing button, emphasizing tension and anticipation. The panel features industrial details, including a toggle switch and a small, round, orange indicator light that is also lit, casting a warm glow. The background is out of focus, drawing all attention to the hand and the button, with the lighting creating dramatic highlights and shadows that enhance the sense of urgency and high stakes. The color palette is dominated by deep blacks, metallic grays, and the vivid red-orange of the illuminated elements, evoking a high-tech, action-movie atmosphere. The composition uses shallow depth of field and a slightly angled perspective, adding to the dynamic, immersive quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:40.549476",
+  "word_count": 141,
+  "error_message": null
+}

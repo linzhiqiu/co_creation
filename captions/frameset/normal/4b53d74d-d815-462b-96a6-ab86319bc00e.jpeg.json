@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b53d74d-d815-462b-96a6-ab86319bc00e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, slightly angled shot of a computer screen displaying an online banking interface. The focus is on a section showing masked account numbers and their corresponding balances, with one account ending in \"0056\" showing a balance of $4,234.87 and another ending in \"2340\" with a balance of $8,056.52. The background features a clean, white and light gray color palette with subtle blue and red accents, typical of modern financial websites. The text is crisp and clear, with a sans-serif font, and the lighting is even, suggesting the image was taken indoors under soft ambient light. The composition emphasizes the financial information, with the rest of the interface, including navigation links and additional account details, slightly blurred or cropped at the edges, creating a sense of focus and immediacy. The overall style is documentary and realistic, evoking the everyday experience of online banking and personal finance management.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:01.050393",
+  "word_count": 147,
+  "error_message": null
+}

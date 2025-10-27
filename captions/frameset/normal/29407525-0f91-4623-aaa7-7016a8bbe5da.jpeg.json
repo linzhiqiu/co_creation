@@ -1,0 +1,12 @@
+{
+  "image_filename": "29407525-0f91-4623-aaa7-7016a8bbe5da.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-resolution scan of two overlapping sheets of white paper, each featuring handwritten Italian text in black ink. The upper portion of the image shows a partial view of the top sheet, with flowing, cursive handwriting that is partially obscured by the lower sheet. The lower sheet is more prominently displayed, with clear, legible, and slightly rounded handwriting spelling out the phrase \"è incomprensibile.\" The composition emphasizes the contrast between the more formal, connected script above and the simpler, more modern handwriting below. The lighting is soft and even, eliminating shadows and highlighting the texture of the paper and the ink’s subtle variations. The overall style is minimalistic and documentary, focusing on the tactile and personal qualities of handwritten communication. The color palette is monochromatic, dominated by the stark contrast of black ink on white paper, evoking a sense of intimacy and authenticity. The camera angle is directly overhead, creating a flat, objective perspective that draws attention to the written words and the interplay between the two sheets.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:54.949001",
+  "word_count": 169,
+  "error_message": null
+}

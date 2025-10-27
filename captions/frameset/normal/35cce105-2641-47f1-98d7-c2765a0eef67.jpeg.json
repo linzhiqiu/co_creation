@@ -1,0 +1,12 @@
+{
+  "image_filename": "35cce105-2641-47f1-98d7-c2765a0eef67.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hands holding a smartphone, with the focus on the screen displaying an active text message conversation. The person is in the process of typing a message, with their thumbs poised over the virtual keyboard, and the text “Ha” partially entered in the input field. The conversation above shows blue and gray message bubbles, with phrases like “I got him there. Now it’s your turn” and “I see him outside.” The lighting is soft and natural, casting gentle highlights and subtle reflections on the phone’s surface, suggesting daylight streaming in from a nearby window. The background is blurred, creating a shallow depth of field that keeps all attention on the phone and the hands, while hints of warm, neutral tones suggest an indoor setting. The overall style is cinematic and intimate, with a documentary-like realism that captures the immediacy and tension of the moment. The composition centers the phone and hands, using a slight angle to add dynamism and draw the viewer into the private exchange unfolding on the screen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:29.741810",
+  "word_count": 175,
+  "error_message": null
+}

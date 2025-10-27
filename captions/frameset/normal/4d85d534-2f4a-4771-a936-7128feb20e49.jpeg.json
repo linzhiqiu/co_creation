@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d85d534-2f4a-4771-a936-7128feb20e49.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure walks toward the camera along a dimly lit, industrial walkway, flanked on both sides by metal railings that cast dramatic, elongated shadows against a stark, curved wall. The subject, a young man, is dressed in a checkered jacket over a light shirt, his expression somber and contemplative, partially obscured by the shadowy lighting. The scene is rendered in high-contrast black and white, evoking a classic film noir aesthetic. The lighting is low and directional, creating deep shadows and a sense of isolation, while the camera is positioned at a low angle, looking slightly upward to emphasize the imposing geometry of the railings and the emptiness of the space. The overall mood is tense and introspective, with a minimalist, almost surreal quality, as the interplay of light and shadow dominates the composition. The depth of field is moderate, keeping the subject in sharp focus while the background fades into soft darkness, enhancing the sense of solitude and psychological intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:52.976444",
+  "word_count": 161,
+  "error_message": null
+}

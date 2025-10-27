@@ -1,0 +1,12 @@
+{
+  "image_filename": "498c51c4-41c6-4063-9cf5-bf40d44f4ddb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene set on a rural two-lane road, captured from a low, rear-facing camera angle mounted on the hood of a classic black muscle car. The car’s chrome hood ornament is sharply in focus in the foreground, gleaming in the bright midday sunlight. Ahead, a white vintage muscle car skids sideways across the yellow center line, tires screeching and kicking up dust, suggesting a high-speed chase or dramatic maneuver. The background features open fields bordered by wire fencing, with rolling hills and scattered trees under a clear blue sky. The color palette is natural and sunlit, dominated by earthy browns, greens, and the stark contrast of the black and white cars. The lighting is crisp and natural, casting strong shadows and highlighting the metallic surfaces. The composition emphasizes speed and tension, with a shallow depth of field that blurs the distant landscape, focusing attention on the action between the two vehicles. The overall style evokes classic car chase sequences from 1970s cinema, with a sense of motion, danger, and adrenaline.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:22.378850",
+  "word_count": 172,
+  "error_message": null
+}

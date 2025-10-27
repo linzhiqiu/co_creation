@@ -1,0 +1,12 @@
+{
+  "image_filename": "260c1a7f-1119-415a-837d-9ab0b3a9352d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic scene depicting a tall industrial smokestack positioned in the lower right corner, silhouetted against a dark, moody sky. Billowing, dense clouds of black and gray smoke pour horizontally from the stack, dominating the upper half of the composition and creating a sense of movement and pollution. At the top of the smokestack, a vivid, intense orange and yellow flame bursts forth, casting a subtle glow that contrasts sharply with the otherwise muted, desaturated color palette. The lighting is low and atmospheric, evoking dusk or early night, with deep shadows and a somber, almost apocalyptic mood. The camera angle is slightly low and wide, emphasizing the scale and isolation of the smokestack against the vast, turbulent sky. The overall style is realistic with a touch of cinematic grit, focusing on environmental themes and industrial impact.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:47.076737",
+  "word_count": 137,
+  "error_message": null
+}

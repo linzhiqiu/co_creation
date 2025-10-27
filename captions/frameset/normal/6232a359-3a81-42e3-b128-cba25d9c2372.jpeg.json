@@ -1,0 +1,12 @@
+{
+  "image_filename": "6232a359-3a81-42e3-b128-cba25d9c2372.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, warmly lit scene at a modern gas station, featuring an older man with a gray beard and mustache, wearing a light brown flat cap and a short-sleeved, button-up blue shirt. He stands near a gas pump, smiling broadly with a friendly, approachable expression, his body turned slightly to the side as if engaged in pleasant conversation. The background includes the clean, geometric lines of blue and white gas pumps, with clear signage and a digital display reading “FULL TANK, CLEAN ENGINE.” The overall color palette is cool and fresh, dominated by blues, whites, and subtle neutral tones, with soft natural daylight illuminating the scene. The composition uses a shallow depth of field, keeping the man in crisp focus while gently blurring the background, creating a sense of intimacy and immediacy. The camera angle is at eye level, enhancing the authenticity and warmth of the moment, reminiscent of a commercial or lifestyle photograph that emphasizes genuine human connection in everyday settings.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:06.860129",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "18f71195-94ce-4a97-8404-80919ff2c2a2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, atmospheric shot of a suspension bridge disappearing into dense, pale greenish-gray fog. The camera angle is slightly tilted upward and off-center, emphasizing the towering vertical cables and the geometric symmetry of the bridge’s structure. The bridge’s steel towers and cables recede into the mist, gradually fading from view, creating a sense of mystery and depth. The color palette is muted and monochromatic, dominated by cool tones of green, gray, and blue, evoking a moody, ethereal ambiance. The lighting is diffuse and soft, with no direct sunlight, enhancing the foggy, dreamlike quality of the scene. The composition is minimalist, with the bridge’s lines and forms leading the viewer’s eye into the obscured distance, suggesting isolation and quiet introspection. The overall style is reminiscent of a contemplative art film, with a focus on atmosphere, negative space, and visual poetry.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:06.439870",
+  "word_count": 139,
+  "error_message": null
+}

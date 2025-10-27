@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e752a7e-c9fa-4db0-8e90-5654f4e6cd12.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man in his early thirties stands in the middle of a grocery store aisle, pushing a shopping cart filled with baked goods. He is dressed casually in a light gray t-shirt layered under an unbuttoned denim shirt, with dark hair neatly styled. His expression is focused and slightly pensive as he looks down at his smartphone, seemingly checking a list or message. The shelves on either side are densely packed with a variety of colorful packaged goods, creating a sense of abundance and everyday routine. The lighting is soft and natural, with a gentle, even illumination that highlights the textures of the products and the man's thoughtful demeanor. The camera angle is at eye level, centered on the subject, with a shallow depth of field that subtly blurs the background, drawing attention to the man and his immediate surroundings. The overall color palette is warm and inviting, dominated by earthy tones from the shelves and the man's clothing, evoking a cinematic, slice-of-life atmosphere that feels both intimate and relatable.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:41.588408",
+  "word_count": 170,
+  "error_message": null
+}

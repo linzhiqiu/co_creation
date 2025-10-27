@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d090d00-643c-42cd-88a9-11c974db4fea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young man with sharp, expressive features and tousled dark hair, styled in a modern, slightly messy look. He is dressed in a stylish, oversized white jacket with layered textures and subtle translucent panels, giving a futuristic and fashion-forward vibe. The subject is captured mid-motion, with both hands raised and fingers pointing upward, creating dynamic diagonal lines that add energy to the composition. His facial expression is intense and engaging, with slightly parted lips and a focused gaze directed toward the camera, conveying a sense of confidence and charisma.\n\nThe background is a deep, gradient blend of dark teal and green, softly blurred to emphasize the subject and create a moody, atmospheric effect. The lighting is soft yet directional, casting gentle highlights on the subject’s face and clothing, while subtle shadows add depth and dimension. The overall color palette is cool and muted, dominated by whites, dark greens, and hints of blue, enhancing the modern and slightly mysterious mood. The camera angle is slightly below eye level, adding a sense of presence and importance to the subject, while a shallow depth of field keeps the focus sharply on the figure, allowing the background to recede into a smooth, cinematic blur. The style is reminiscent of high-fashion editorial photography or a stylish music video, with a polished, contemporary aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:06.236400",
+  "word_count": 223,
+  "error_message": null
+}

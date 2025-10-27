@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c4ff55b-e020-49bf-8b97-6264a36d5421.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, atmospheric scene featuring a solitary outdoor basketball hoop. The backboard is old and weathered, with visible rust stains and peeling paint, evoking a sense of abandonment and nostalgia. The metal hoop is slightly bent, and the net hangs loosely, some strands frayed. The background is a pale, overcast sky, almost white, with no discernible features, creating a stark contrast that emphasizes the isolation of the hoop. The color palette is muted and cool, dominated by whites, grays, and faded blues, enhancing the somber, melancholic mood. The composition is simple and uncluttered, with the basketball hoop positioned off-center and shot from a low angle, giving it a sense of quiet dignity. The lighting is soft and diffuse, with no harsh shadows, contributing to the overall feeling of stillness and introspection. The style is cinematic and contemplative, reminiscent of indie films or fine art photography that capture the beauty in everyday decay and forgotten places.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:14.436169",
+  "word_count": 156,
+  "error_message": null
+}

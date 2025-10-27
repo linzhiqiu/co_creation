@@ -1,0 +1,12 @@
+{
+  "image_filename": "19e8d166-cb8a-41e1-85cb-f0c7370b7829.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking, high-resolution image of the Milky Way galaxy stretches diagonally across a vast, dark expanse of space. The central band of the galaxy is rendered in exquisite detail, with swirling clouds of interstellar dust and gas illuminated in subtle hues of deep brown, muted pink, and soft amber, creating a sense of cosmic depth and texture. Countless stars, varying in brightness and size, are scattered throughout the scene, twinkling against the inky blackness of the universe. The composition is wide and cinematic, with the galactic core slightly off-center, emphasizing the grandeur and scale of the cosmos. The lighting is natural and low, evoking the quiet majesty of the night sky, while the color palette is dominated by dark neutrals punctuated by warm, ethereal highlights. The overall style is realistic and awe-inspiring, reminiscent of astrophotography captured with a long exposure and a wide-angle lens, with a sharp focus that reveals both the intricate structure of the Milky Way and the delicate scatter of distant stars.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:25.426559",
+  "word_count": 165,
+  "error_message": null
+}

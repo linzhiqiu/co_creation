@@ -1,0 +1,12 @@
+{
+  "image_filename": "5de9b45b-c7e8-4af6-9e27-9c525303a015.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, cinematic cityscape of mid-rise urban rooftops under a pale, overcast sky. The scene is set during the day, with soft, diffused natural light casting gentle shadows and giving the image a muted, almost desaturated color palette dominated by cool grays, off-whites, and subtle hints of beige and blue. The composition is layered, with a foreground of modern, boxy rooftops featuring HVAC units and industrial details, leading the eye toward a dense cluster of older, architecturally varied buildings in the midground. \n\nProminently, a large billboard stands out among the rooftops, displaying the words “HONOR OUR IMAGINE OUR FUTURE” in bold, black letters against a textured, collage-like background. The billboard’s message and artistic style add a thought-provoking, slightly hopeful tone to the otherwise utilitarian cityscape. In the background, taller buildings and water towers rise, their silhouettes softened by atmospheric perspective. The overall mood is contemplative and urban, with a sense of quiet anticipation. The camera angle is slightly elevated, as if shot from a nearby rooftop, providing a broad, immersive view of the city’s architectural diversity and layered skyline. The style is realistic, with a touch of cinematic melancholy, evoking the feeling of a transitional moment in a modern metropolis.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:23.616766",
+  "word_count": 200,
+  "error_message": null
+}

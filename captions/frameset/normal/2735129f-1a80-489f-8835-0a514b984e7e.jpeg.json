@@ -1,0 +1,12 @@
+{
+  "image_filename": "2735129f-1a80-489f-8835-0a514b984e7e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands waist-deep in the still, dark water of a vast lake at dusk. The person, wrapped in a white garment that contrasts starkly with the deep blue surroundings, is positioned at the center of the frame, creating a sense of isolation and introspection. Gentle ripples radiate outward in perfect circles from where the figure stands, subtly distorting the glassy surface and adding a sense of quiet movement to the otherwise tranquil scene. The lighting is soft and moody, dominated by cool blue tones that evoke a feeling of melancholy and serenity. The background fades into a misty, indistinct horizon, emphasizing the expanse and emptiness of the water. The composition is minimalist, with a high, slightly elevated camera angle that looks down on the subject, enhancing the sense of vulnerability and solitude. The overall style is cinematic and contemplative, with a shallow depth of field that keeps the focus on the figure while the water and distant background blur gently into abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:09.221283",
+  "word_count": 164,
+  "error_message": null
+}

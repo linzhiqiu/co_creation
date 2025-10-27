@@ -1,0 +1,12 @@
+{
+  "image_filename": "2338f4ff-2cda-4d1f-8c2e-eef52141cb6a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of silhouetted figures stands on a vast, dark plain, facing a towering vertical beam of blinding white light that pierces the horizon. The scene is minimalist and cinematic, with deep shadows, a cool color palette, and a sense of awe and mystery, evoking science fiction and cosmic wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:44.414361",
+  "word_count": 50,
+  "error_message": null
+}

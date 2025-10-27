@@ -1,0 +1,12 @@
+{
+  "image_filename": "46fa8742-6d42-4d96-9bb7-0c37c152f6a1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, minimalist scene set against a deep black background, evoking a sense of isolation and focus. Centered in the composition is a man with medium brown skin and voluminous, curly hair, standing upright and facing forward. He wears a light gray hoodie and matching sweatpants, paired with clean white sneakers. His expression is neutral, almost contemplative, and his hands rest calmly at his sides.\n\nFlanking him symmetrically on both the left and right are two identical men, each dressed in the same light gray tracksuit and white sneakers, but with close-cropped hair and wearing gray beanies. Each of these men holds a small cluster of bright red balloons in their right hand, the vivid color of the balloons providing a striking contrast to the otherwise muted, monochromatic palette. The balloons float upward, their strings taut, adding a whimsical yet slightly uncanny element to the scene.\n\nThe lighting is soft and even, with no visible shadows, creating a flat, almost studio-like effect that further emphasizes the figures and the surreal quality of the composition. The camera angle is straight-on at eye level, with a shallow depth of field that keeps all three figures in sharp focus while the background remains a featureless void. The overall style is cinematic and slightly dreamlike, with a strong sense of symmetry and visual balance, inviting the viewer to contemplate the relationship between the central figure and his mirrored counterparts.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:36.755272",
+  "word_count": 236,
+  "error_message": null
+}

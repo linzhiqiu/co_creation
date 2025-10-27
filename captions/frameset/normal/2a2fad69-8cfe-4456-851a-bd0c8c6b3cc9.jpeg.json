@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a2fad69-8cfe-4456-851a-bd0c8c6b3cc9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A long freight train speeds across a vast, arid desert landscape under a clear blue sky. The train, composed of dark tanker cars and stacked shipping containers in muted greens and reds, stretches into the distance, emphasizing its immense length. The foreground is dominated by dry, golden grasses and sparse, scrubby vegetation typical of a Southwestern American desert. In the background, hazy blue mountains rise against the horizon, partially shrouded by soft, white clouds. The lighting is bright and natural, casting crisp shadows and highlighting the sun-bleached tones of the terrain. The camera angle is low and wide, positioned near the ground and parallel to the train tracks, creating a strong sense of motion as the train blurs past the viewer. The overall style is cinematic and expansive, evoking a sense of isolation, movement, and the relentless passage of time in a remote, open landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:15.088924",
+  "word_count": 145,
+  "error_message": null
+}

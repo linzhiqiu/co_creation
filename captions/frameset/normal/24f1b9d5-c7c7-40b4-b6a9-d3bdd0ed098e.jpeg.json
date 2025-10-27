@@ -1,0 +1,12 @@
+{
+  "image_filename": "24f1b9d5-c7c7-40b4-b6a9-d3bdd0ed098e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder view of a computer screen displaying a presentation editing software, with a focus on a slide deck in progress. The left side of the image shows a vertical column of slide thumbnails, each with minimalist, modern design elements—soft beige and peach backgrounds, clean sans-serif typography, and subtle geometric shapes. The main slide in the center features the word \"Inclusive.\" in large, elegant text, set against a background of overlapping pastel circles. The interface includes a muted red overlay, with visible menu options like \"Paste,\" \"Copy,\" \"Reset,\" and \"Section\" at the top, rendered in a crisp, modern UI style. The lighting is soft and diffused, creating a calm, professional atmosphere. The color palette is dominated by warm neutrals—peach, beige, and soft red—conveying a sense of inclusivity and approachability. The composition is slightly angled, as if viewed from the perspective of someone actively working on the presentation, with a shallow depth of field that keeps the focus on the slides and interface details, while the edges gently blur. The overall style is clean, contemporary, and subtly cinematic, evoking the quiet concentration of creative work in a digital workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:24.174062",
+  "word_count": 189,
+  "error_message": null
+}

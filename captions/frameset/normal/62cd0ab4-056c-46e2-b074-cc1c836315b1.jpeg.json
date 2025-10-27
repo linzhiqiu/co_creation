@@ -1,0 +1,12 @@
+{
+  "image_filename": "62cd0ab4-056c-46e2-b074-cc1c836315b1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car dashboard at night, focusing on the illuminated speedometer and tachometer dials. The gauges are backlit with a warm red-orange glow, their numbers and needles sharply defined against the dark background. Several warning and indicator lights are lit up in vivid yellow and red hues above the dials, adding a sense of urgency and realism. In the center, a digital display shows the time as 8:20 and the temperature as 8.0°C, rendered in crisp red LED digits. The foreground is softly blurred, suggesting the edge of a steering wheel, creating a shallow depth of field that draws the viewer’s eye to the sharp details of the dashboard. The overall color palette is dominated by deep blacks, warm reds, and subtle amber highlights, evoking a moody, nocturnal atmosphere. The lighting is low and focused, with reflections and glows enhancing the high-tech, immersive feel. The composition is tight and intimate, as if the viewer is sitting in the driver’s seat, ready to start the engine.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:23.499805",
+  "word_count": 170,
+  "error_message": null
+}

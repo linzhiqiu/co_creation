@@ -1,0 +1,12 @@
+{
+  "image_filename": "63275cdb-f797-4a77-918b-46cfddaa42d0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic warehouse scene set in a dimly lit, industrial loading area. In the foreground, a bearded man wearing a dark flat cap and apron stands in profile, intently using a tablet with a blue-toned interface, his face illuminated by the screen’s glow. Behind him, the background is softly out of focus, showing three workers unloading large cardboard boxes from the back of a pickup truck. The workers are dressed in casual, practical clothing—t-shirts and aprons—moving with purposeful energy. The truck’s red taillights cast a subtle, warm glow, contrasting with the cool, muted tones of the warehouse interior. Stacks of boxes line the shelves, and diffuse daylight filters in from an open loading bay, creating a hazy, atmospheric effect. The overall color palette is subdued, dominated by grays, browns, and soft blues, with naturalistic lighting and a shallow depth of field that draws attention to the man with the tablet while maintaining a sense of bustling activity in the background. The composition feels documentary-style, capturing a moment of coordinated teamwork and modern logistics in an industrial setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:30.522881",
+  "word_count": 177,
+  "error_message": null
+}

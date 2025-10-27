@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c572e1e-31fa-4b2a-80f8-4a355ef2e442.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic shot of an empty highway tunnel, captured from a low, central perspective as if the viewer is gliding swiftly down the middle of the road. The tunnel is long and slightly curved, with evenly spaced, warm yellow-orange lights lining the ceiling, casting a soft, moody glow on the smooth asphalt and concrete walls. The road markings—a crisp white dashed center line and solid edge lines—draw the eye toward the vanishing point in the distance, enhancing the sense of speed and depth. The color palette is dominated by muted grays, deep shadows, and the warm highlights from the tunnel lights, creating a dramatic contrast. The overall style is reminiscent of a suspenseful road movie or a neo-noir thriller, with a shallow depth of field and subtle motion blur on the road surface, emphasizing movement and anticipation. The composition is symmetrical and immersive, evoking a feeling of solitude, focus, and forward momentum.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:02.560721",
+  "word_count": 153,
+  "error_message": null
+}

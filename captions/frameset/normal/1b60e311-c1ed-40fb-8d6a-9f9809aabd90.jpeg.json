@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b60e311-c1ed-40fb-8d6a-9f9809aabd90.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial shot of a solitary car driving along a winding, narrow road that hugs the rugged coastline. The landscape is vast and arid, covered in low, scrubby vegetation and dry earth, with rolling hills stretching into the distance. To the left, the expansive ocean glistens under soft daylight, its waves gently meeting the shore, while the right side of the frame is dominated by undulating, brownish hills and sparse plant life. The color palette is muted and earthy, with deep browns, dusty greens, and the cool blue-gray of the sea. The lighting is natural and subdued, suggesting either early morning or late afternoon, casting long, gentle shadows and lending a contemplative, cinematic mood to the scene. The composition emphasizes the isolation and scale of the environment, with the car appearing small and almost insignificant against the sweeping, open landscape. The camera angle is high and wide, creating a sense of depth and vastness, and the overall style is reminiscent of a road movie or a dramatic travel sequence, evoking themes of solitude, journey, and the beauty of untamed nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:56.196298",
+  "word_count": 181,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c7d7cab-a4c5-43a8-b8ca-6f88e08258bb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime cityscape viewed from a high vantage point, looking down a wide urban avenue. The scene is bathed in deep, moody blues and teals, punctuated by the vibrant red and white lights of cars in dense traffic, their reflections shimmering on the wet pavement. The street is flanked by tall, shadowy buildings, their windows faintly illuminated, creating a canyon-like effect. Streetlights and neon signs cast a soft, diffused glow, adding to the atmospheric, almost dreamlike quality of the image. The composition uses a shallow depth of field, with the distant lights softly blurred, evoking a sense of depth and urban isolation. The overall style is reminiscent of neo-noir or late-night city photography, with a focus on color contrast, reflections, and the interplay of artificial light in a rain-soaked metropolis.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:04.377431",
+  "word_count": 131,
+  "error_message": null
+}

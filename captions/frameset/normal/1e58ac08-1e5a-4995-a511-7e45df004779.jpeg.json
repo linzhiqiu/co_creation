@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e58ac08-1e5a-4995-a511-7e45df004779.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, conceptual still life scene with a clean, neutral background in soft gray tones. In the foreground, arrange three modern, adjustable-height tables with sleek, circular tops and black metal supports. Two of the tables are positioned at different heights and angles, their white surfaces tilted toward each other, creating a dynamic, geometric composition. The third table, lower and centered, features a muted olive-green top. On this table, place a single, vibrant orange ceramic mug, its color providing a striking contrast against the subdued palette.\n\nSuspended in mid-air between the tilted white surfaces, include a small, perfectly round orange ball, as if frozen in motion, echoing the color of the mug and adding a sense of playful surrealism. The lighting is soft and diffuse, casting gentle shadows and emphasizing the clean lines and smooth textures of the objects. The overall style is contemporary and abstract, with a focus on balance, symmetry, and color contrast. The camera angle is straight-on at eye level, with a shallow depth of field that keeps all elements crisp and in focus, enhancing the sense of intentional, almost architectural arrangement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:04.327323",
+  "word_count": 185,
+  "error_message": null
+}

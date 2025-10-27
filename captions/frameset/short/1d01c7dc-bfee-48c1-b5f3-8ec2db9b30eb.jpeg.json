@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d01c7dc-bfee-48c1-b5f3-8ec2db9b30eb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Extreme close-up of a finger with glossy, teal-blue nail polish pressing a black keyboard key. The lighting is soft and cool, highlighting the shimmer and texture of the nail. The background is blurred, creating a shallow depth of field and a focused, intimate, cinematic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:27.985241",
+  "word_count": 45,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cc2523f-f3db-4d18-8cd6-6393fbfb4cdf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage-inspired interior scene featuring a classic wooden wall clock with ornate detailing, mounted on a subtly textured, cream-colored wallpaper. The clock’s face is slightly aged, with black Roman numerals and elegant black hands, showing the time as just past 10:10. Below the clock face, a glass panel reveals a brass pendulum, softly catching the ambient light. To the left of the clock, a small decorative ship’s wheel hangs on the wall, adding a nautical touch. Gentle, natural daylight streams in from the left, diffused by a sheer white curtain, casting a soft, warm glow and delicate shadows across the scene. The composition is calm and balanced, with a muted, neutral color palette dominated by warm browns, creams, and hints of gold. The camera angle is straight-on at eye level, emphasizing the symmetry and timeless atmosphere, with a shallow depth of field that keeps the focus on the clock and wall details, evoking a sense of nostalgia and quiet domesticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:26.861862",
+  "word_count": 160,
+  "error_message": null
+}

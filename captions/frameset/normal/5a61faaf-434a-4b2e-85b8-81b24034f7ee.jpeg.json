@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a61faaf-434a-4b2e-85b8-81b24034f7ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman standing alone by a vast, tranquil body of water at dusk. She is positioned slightly off-center, gazing pensively downward and to the side, with a subtle, contemplative expression. Her light blonde hair is tousled by a gentle breeze, with a few strands blowing across her face, adding a sense of movement and naturalism. She wears a flowing, elegant white dress with soft, sheer fabric that drapes gracefully over her shoulders, evoking a sense of purity and vulnerability.\n\nThe background is minimalist and expansive, with a soft, blurred horizon separating the pale, muted water from the overcast sky. The color palette is subdued and harmonious, dominated by warm beige, cream, and soft pastel tones, creating a serene and melancholic atmosphere. The lighting is diffuse and natural, with a gentle golden glow that softly illuminates her face and highlights the texture of her dress, while casting delicate shadows.\n\nThe composition uses a shallow depth of field, keeping the woman in sharp focus while the background remains dreamlike and abstract. The overall style is reminiscent of an art-house film or fine art photography, with a sense of quiet introspection and emotional depth. The camera angle is at eye level, inviting the viewer into the subject’s emotional world, while the wide aspect ratio enhances the feeling of solitude and open space.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:05.916633",
+  "word_count": 225,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4aa67c64-9d59-4bb4-998c-f487000028b0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a high-precision industrial milling machine in action, focusing on the cutting head as it carves into a cylindrical metal workpiece. The composition is tight, with the black, angular cutting tool dominating the upper left of the frame, its sharp edges and mechanical details rendered in crisp detail. The metallic cylinder below is smooth and matte, catching soft, diffused light that highlights its subtle texture and cool silver-gray tone. Tiny metal shavings and sparks are visible at the point of contact, frozen in mid-air, suggesting motion and the intensity of the machining process. The background is softly blurred, with cool blue and gray hues, creating a shallow depth of field that isolates the machinery and emphasizes the precision and technical sophistication of the scene. The overall mood is industrial and focused, with a subdued, almost clinical color palette and a sense of quiet power. The lighting is cool and directional, casting gentle shadows and accentuating the clean, modern aesthetic of the workshop environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:46.292633",
+  "word_count": 167,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "296c2f2a-46a5-4e84-831e-5bd25c1e97cc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A top-down, bird’s-eye view photograph of a person standing on a tiled sidewalk. The person’s feet, clad in clean white sneakers and light blue jeans, are visible at the bottom center of the frame, suggesting the viewer is seeing from their perspective. The sidewalk is composed of large, square, gray concrete tiles, with a distinctive row of yellow tactile paving tiles running horizontally across the middle of the image. One yellow tile is missing, revealing a patch of dark, exposed earth and scattered debris beneath. In the upper right, a black metal grate interrupts the pattern of tiles, adding an industrial touch. The color palette is muted and urban, dominated by grays, yellows, and the soft white of the shoes. The lighting is natural and diffuse, with no harsh shadows, evoking an overcast day. The composition is geometric and orderly, with strong lines and a sense of symmetry, while the missing tile introduces an element of imperfection and visual interest. The overall mood is contemplative and grounded, with a subtle focus on everyday urban textures and the unnoticed details of city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:00.604599",
+  "word_count": 182,
+  "error_message": null
+}

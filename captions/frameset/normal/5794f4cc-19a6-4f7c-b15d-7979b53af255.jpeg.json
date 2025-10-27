@@ -1,0 +1,12 @@
+{
+  "image_filename": "5794f4cc-19a6-4f7c-b15d-7979b53af255.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime city street scene after a recent rain. The street is slick and reflective, with glistening puddles mirroring the glow of streetlights and neon signs. The composition is from a low, eye-level perspective, looking straight down the road, with the vanishing point drawing the viewer’s gaze into the distance. Headlights from oncoming cars create bright, diffused beams that cut through the darkness and reflect off the wet asphalt, adding a sense of depth and motion. The sidewalks are lined with dark, leafy trees, their silhouettes softly illuminated by the ambient city lights. The color palette is dominated by deep blacks, cool blues, and muted greens, punctuated by the warm yellow and white of the streetlights and the occasional red or teal neon. The overall mood is moody and atmospheric, evoking a sense of quiet solitude. The lighting is soft and diffused, with gentle highlights and subtle shadows, enhancing the reflective surfaces and the tranquil, almost cinematic quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:52.592658",
+  "word_count": 163,
+  "error_message": null
+}

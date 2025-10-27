@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a0a5fb8-2fa5-45ec-ab9a-dc4dd380fc0f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody scene set in a dimly lit industrial space with a rough, textured brick wall as the backdrop. The color palette is dominated by deep oranges and warm ambers, casting a dramatic, almost surreal glow across the environment. In the center of the composition, place a large, geometric, abstract sculpture made of two thick, rectangular forms arranged in a staggered, angular pattern, resembling a stylized, open square or bracket. The sculpture emits a cool, neon blue light from within, creating a striking contrast against the warm background and casting soft blue reflections on the polished, dark floor.\n\nIn the foreground, position a solitary figure seen from behind, seated or kneeling, gazing intently at the illuminated sculpture. The figure wears a dark shirt with a subtle logo or text on the back, partially visible but not distracting from the overall composition. The lighting is low-key, with the primary illumination coming from the sculpture itself, creating a sense of mystery and contemplation. The camera angle is high and centered, looking down slightly to emphasize the symmetry and depth of the scene. The overall style is atmospheric and minimalist, evoking a sense of introspection and futuristic art installation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:31.214163",
+  "word_count": 199,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bbecf93-586f-4226-b3fb-8c9f53738fd3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene set in a London Underground station, specifically the Piccadilly line. The composition is angled low and slightly tilted, creating a sense of motion and urgency as a red, white, and blue tube train rushes past on the left side of the frame, its windows blurred with speed. The right side of the image features the curved, tiled walls of the platform, adorned with the iconic roundel signs and bold blue and red color accents. A few commuters stand or walk along the platform, some blurred in motion, others pausing, dressed in everyday urban attire. Overhead, the arched ceiling is lined with white tiles and segmented by colorful bands, while fluorescent lights cast a cool, even illumination throughout the space. The overall color palette is dominated by crisp whites, deep blues, and vibrant reds, with metallic and concrete textures adding to the urban atmosphere. The depth of field is moderate, keeping the foreground sharp while the background recedes into a slight blur, emphasizing the length and perspective of the tunnel. The mood is energetic and metropolitan, capturing the fleeting, transient nature of city life in a modern, documentary style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:03.456190",
+  "word_count": 192,
+  "error_message": null
+}

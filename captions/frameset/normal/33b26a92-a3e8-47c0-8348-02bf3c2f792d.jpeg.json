@@ -1,0 +1,12 @@
+{
+  "image_filename": "33b26a92-a3e8-47c0-8348-02bf3c2f792d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A first-person perspective shot from the handlebars of a vintage bicycle, riding down the center of an empty urban street. The focus is on the weathered, chrome handlebars, which are slightly rusted and textured, with a white ceramic teacup balanced precariously in the middle, resting on a stack of tan coasters. The yellow double lines of the road run straight ahead, drawing the viewer’s eye into the soft, out-of-focus background of red-brick industrial buildings and muted cityscape. The color palette is subdued and slightly desaturated, with cool grays and browns dominating, and a gentle, overcast daylight casting diffuse, natural light across the scene. The depth of field is shallow, keeping the handlebars and teacup crisp while the background blurs, creating a sense of motion and immediacy. The overall style is cinematic and contemplative, evoking a quiet, whimsical moment of balance and solitude in an urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:38.662735",
+  "word_count": 146,
+  "error_message": null
+}

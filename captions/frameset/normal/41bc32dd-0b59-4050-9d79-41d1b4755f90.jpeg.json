@@ -1,0 +1,12 @@
+{
+  "image_filename": "41bc32dd-0b59-4050-9d79-41d1b4755f90.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, wide-angle landscape scene at dawn, featuring a vast, desolate terrain with rolling, rocky hills and patches of mossy green ground in the foreground. The sky is overcast with dramatic, textured clouds, and the sun is just beginning to rise, casting a soft, diffused light that creates a moody, ethereal atmosphere. Dominating the center of the composition, a large, perfectly rectangular black monolith floats mysteriously above the ground, its surface matte and featureless, contrasting starkly with the natural environment. The overall color palette is muted and cool, with shades of gray, green, and blue, enhancing the sense of isolation and otherworldliness. The camera is positioned at a low angle, emphasizing the scale of the monolith against the expansive sky, with a shallow depth of field that keeps the monolith and the immediate landscape in sharp focus while the distant hills and clouds remain slightly softened. The mood is enigmatic and contemplative, evoking a sense of awe and cosmic mystery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:46.387002",
+  "word_count": 162,
+  "error_message": null
+}

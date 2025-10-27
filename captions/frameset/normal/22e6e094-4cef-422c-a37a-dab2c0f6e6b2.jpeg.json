@@ -1,0 +1,12 @@
+{
+  "image_filename": "22e6e094-4cef-422c-a37a-dab2c0f6e6b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of six young adults sits around a classroom table, engaged in lively conversation. The scene is set in a modern classroom with large windows dominating the background, letting in soft, natural daylight that gently illuminates the room but leaves much of the group in partial silhouette. The figures are casually dressed, with one person in the foreground wearing a light blue sweater, another in a baseball cap and patterned shirt, and a man on the right in a black shirt and beanie, leaning forward with a broad, animated smile. The mood is relaxed and friendly, with everyone appearing engaged and at ease, some smiling or laughing. The color palette is cool and subdued, with soft blues and grays, and the lighting creates a high-contrast effect, emphasizing the outlines and expressions of the group while keeping the details subtle. The camera angle is slightly low and off-center, capturing the group from behind one participant and creating a sense of intimacy and inclusion. The overall style is cinematic and naturalistic, with a shallow depth of field that keeps the focus on the group while the background cityscape outside the windows remains softly blurred.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:43.191971",
+  "word_count": 193,
+  "error_message": null
+}

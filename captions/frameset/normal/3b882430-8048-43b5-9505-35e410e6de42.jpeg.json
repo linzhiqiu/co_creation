@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b882430-8048-43b5-9505-35e410e6de42.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, high-key photograph featuring a single, modern security camera mounted on a white wall. The camera is small, cube-shaped, with a matte black front panel and a subtle lens at its center, accented by a tiny blue indicator light. The mounting bracket and the rest of the camera body are stark white, blending seamlessly into the pale, almost clinical background. The composition is sparse, with the camera positioned slightly off-center, creating a sense of negative space and isolation. The lighting is soft and diffuse, eliminating harsh shadows and giving the scene a sterile, almost futuristic atmosphere. The color palette is dominated by whites and cool tones, with the black face of the camera providing a striking contrast. The overall style is clean, modern, and slightly abstract, evoking themes of surveillance, technology, and minimalism. The camera angle is straightforward, with a shallow depth of field that keeps the focus sharp on the camera while the background remains smooth and unobtrusive.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:39.604428",
+  "word_count": 160,
+  "error_message": null
+}

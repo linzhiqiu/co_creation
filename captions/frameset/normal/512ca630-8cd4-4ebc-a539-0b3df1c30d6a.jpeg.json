@@ -1,0 +1,12 @@
+{
+  "image_filename": "512ca630-8cd4-4ebc-a539-0b3df1c30d6a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic black-and-white scene set in a stark, modernist urban environment. The composition is framed as if looking through a large rectangular window or opening, with the edges of the concrete wall visible in the foreground, creating a sense of voyeurism or detachment. In the center of the frame, a solitary young person stands facing forward, their expression neutral and contemplative. They wear a checkered jacket over a light shirt and dark pants, their posture straight and still, evoking a sense of isolation or introspection.\n\nThe background features tiled walls and geometric panels, with harsh fluorescent lighting casting sharp, high-contrast shadows and illuminating the scene with a cold, clinical quality. The overall mood is minimalist and slightly surreal, with a strong sense of symmetry and negative space. The camera angle is straight-on, emphasizing the architectural lines and the subject’s central placement. The depth of field is deep, keeping both the foreground window frame and the distant background in sharp focus, enhancing the sense of spatial separation and emotional distance. The style is reminiscent of classic European art-house cinema, with a focus on mood, composition, and psychological tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:21.017901",
+  "word_count": 189,
+  "error_message": null
+}

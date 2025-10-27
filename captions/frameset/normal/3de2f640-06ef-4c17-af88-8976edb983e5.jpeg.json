@@ -1,0 +1,12 @@
+{
+  "image_filename": "3de2f640-06ef-4c17-af88-8976edb983e5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, modern workspace at night, illuminated primarily by the cool, focused glow of a desk lamp. In the foreground, a person sits at a cluttered desk, their face out of focus and turned away from the camera, drawing attention instead to their hand, which holds up a brightly colored box of \"CRUMBZ\" snack crackers. The box is rendered in playful, bold typography with cartoonish cracker illustrations, standing out vividly against the otherwise muted, teal-toned environment. On the desk, an open laptop displays a design program with a digital mockup of the same cracker box, suggesting a design or marketing project in progress. Scattered papers, a smartphone, and other office paraphernalia add to the sense of creative work. The background is softly blurred, with hints of posters and design boards pinned to the wall, reinforcing the professional, creative atmosphere. The overall composition uses shallow depth of field to focus on the product and the act of design, with cinematic, moody lighting that evokes late-night dedication and concentration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:34.364180",
+  "word_count": 168,
+  "error_message": null
+}

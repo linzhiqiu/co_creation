@@ -1,0 +1,12 @@
+{
+  "image_filename": "1944e121-c254-463a-9c63-e713856c7522.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a dramatic, symmetrical architectural scene viewed from directly below, focusing on a grand glass dome ceiling. The dome is composed of radiating metal ribs and intricate gridwork, converging at a central circular hub. The glass panels are tinted in subtle shades of blue and gold, catching soft, natural daylight that filters through, creating a luminous, airy atmosphere. The overall color palette is cool and elegant, with hints of warm highlights where the sunlight touches the glass. The composition is perfectly centered, emphasizing the radial symmetry and geometric precision of the structure. The style is realistic with a touch of cinematic grandeur, evoking the awe-inspiring scale and artistry of historic European architecture. The camera angle is a low, upward-facing shot, capturing the full expanse of the dome and drawing the viewer’s eye toward the vanishing point at the center. The mood is majestic and contemplative, celebrating the beauty of light, structure, and design.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:13.578536",
+  "word_count": 154,
+  "error_message": null
+}

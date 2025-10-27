@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e3823f6-64ad-45fa-9447-155b213a9bc1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, atmospheric scene viewed from a first-person perspective, as if looking up through a long, dark tunnel or shaft. At the center of the composition, a small, distant square opening emits a soft, ethereal pinkish-red glow, illuminating the surrounding darkness with a gentle gradient of light that fades into deep shadows. Suspended near the opening, a solitary human figure is barely visible, silhouetted against the glowing light, evoking a sense of isolation and mystery. The overall color palette is dominated by deep blacks and muted reds, with subtle hints of pink and orange radiating from the central light source. The image should have a cinematic, dreamlike quality, with a strong sense of depth and negative space, emphasizing the vast emptiness surrounding the illuminated exit. The mood is contemplative and enigmatic, inviting viewers to ponder the narrative behind the lone figure and the distant light.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:01.657939",
+  "word_count": 147,
+  "error_message": null
+}

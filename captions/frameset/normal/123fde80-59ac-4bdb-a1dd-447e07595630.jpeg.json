@@ -1,0 +1,12 @@
+{
+  "image_filename": "123fde80-59ac-4bdb-a1dd-447e07595630.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with shoulder-length brown hair and glasses sits at a wooden table in a modern, casual café setting. She wears a colorful, horizontally striped t-shirt in shades of blue, yellow, red, and white. Her expression is animated and enthusiastic, with a wide, slightly awkward smile, as she holds up a smartphone in her left hand and points to its screen with her right index finger. The phone’s display is clearly visible, showing a mobile app interface with text and icons. The background is softly blurred, featuring a warm, natural color palette with wooden textures and muted tones. Other people are present in the background: a man in a blue shirt sits at another table, working on a laptop, while a woman in a yellow top and light cardigan stands, holding a cup, partially out of focus. The lighting is bright and natural, streaming in from the left, creating a welcoming and lively atmosphere. The composition uses a shallow depth of field to keep the focus on the woman and her phone, with a slight cinematic quality reminiscent of a commercial or lifestyle advertisement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:31.368873",
+  "word_count": 185,
+  "error_message": null
+}

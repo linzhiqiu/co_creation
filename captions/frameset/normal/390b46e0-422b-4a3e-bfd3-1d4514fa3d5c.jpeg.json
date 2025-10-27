@@ -1,0 +1,12 @@
+{
+  "image_filename": "390b46e0-422b-4a3e-bfd3-1d4514fa3d5c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, high-resolution image of a windswept snow surface, captured at a dramatic diagonal angle. The snow is sculpted into smooth, undulating ridges and ripples, with delicate shadows accentuating the texture and depth. The color palette is dominated by cool blues and soft whites, with the low, slanting sunlight casting a golden sheen across the snow, creating a striking interplay of light and shadow. The overall mood is serene and minimalist, evoking the quiet beauty of a winter landscape. The composition is abstract and immersive, with no visible horizon or background elements, focusing entirely on the intricate patterns and natural artistry of the snow. The lighting is crisp and clear, suggesting early morning or late afternoon, and the image has a cinematic, almost painterly quality, emphasizing the subtle variations in tone and form.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:41.422618",
+  "word_count": 134,
+  "error_message": null
+}

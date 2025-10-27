@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e7700ca-3661-42c1-8987-d17df1416e8e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand interacting with a modern car’s digital navigation touchscreen. The hand, adorned with a simple metallic ring, is in sharp focus as the index finger gently touches the illuminated map interface, selecting a route. The screen displays a detailed, blue-toned map with crisp white lines and text, evoking a sense of advanced technology and precision. The background is softly blurred, hinting at the car’s sleek interior and a sunlit urban environment outside the window, visible through the glass. The lighting is natural, with soft daylight casting subtle reflections on the glossy screen and highlighting the textures of the hand and dashboard. The overall style is realistic and contemporary, with a shallow depth of field that draws attention to the interaction between human and machine, capturing a moment of modern travel and digital connectivity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:47.821554",
+  "word_count": 140,
+  "error_message": null
+}

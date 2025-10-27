@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ab547c5-7e4c-49a0-b7cd-549b3f035705.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of two broken tree branches, their rough, splintered ends facing upward and positioned side by side in the foreground. The bark is textured and weathered, with visible knots and subtle variations in brown and gray tones. The background is a soft-focus expanse of dark green grass, dotted with faint, out-of-focus patches of lighter green, suggesting a natural outdoor setting. The lighting is subdued and overcast, casting gentle, diffuse shadows that enhance the organic textures of the wood without creating harsh contrasts. The composition is symmetrical, with the branches centered and occupying the lower half of the frame, while the blurred grass fills the upper portion, creating a sense of depth. The overall mood is quiet and contemplative, with a naturalistic color palette and a shallow depth of field that draws attention to the tactile details of the broken wood. The camera angle is slightly above the branches, looking down at them, evoking a sense of stillness and subtle melancholy.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:09.293972",
+  "word_count": 162,
+  "error_message": null
+}

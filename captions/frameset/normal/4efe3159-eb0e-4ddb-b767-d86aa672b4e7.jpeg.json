@@ -1,0 +1,12 @@
+{
+  "image_filename": "4efe3159-eb0e-4ddb-b767-d86aa672b4e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, contemporary scene featuring a large wall composed of multiple television screens arranged in a grid, each displaying synchronized yet fragmented images that together form a cohesive visual collage. The screens showcase a glamorous woman with long, wavy blonde hair, wearing a leopard print top and a blue denim jacket, striking various confident poses. Interspersed among her images are close-ups of a white can labeled \"Coke One,\" adding a pop-art, commercial aesthetic. The woman’s expressions range from sultry to playful, with her gaze sometimes directed at the viewer and other times away, creating a dynamic sense of movement and personality.\n\nThe entire installation is set against a vivid, monochromatic red background, which envelops the scene in a bold, modern atmosphere. The lighting is even and bright, emphasizing the glossy surfaces of the screens and the vibrant colors of the imagery. The overall composition is symmetrical and meticulously organized, with the grid structure lending a sense of order and rhythm. The style is reminiscent of high-fashion advertising and contemporary art installations, with a cinematic, almost futuristic quality. The camera angle is straight-on, capturing the full expanse of the screen wall, and the depth of field is deep, keeping every detail sharp and in focus. The mood is energetic, stylish, and slightly provocative, blending commercial allure with artistic sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:29.916422",
+  "word_count": 219,
+  "error_message": null
+}

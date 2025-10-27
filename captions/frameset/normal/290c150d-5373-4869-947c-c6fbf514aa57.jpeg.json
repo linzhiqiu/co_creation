@@ -1,0 +1,12 @@
+{
+  "image_filename": "290c150d-5373-4869-947c-c6fbf514aa57.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene of a lone female runner captured from behind as she jogs along a narrow dirt path toward the ocean. The runner wears a bright coral athletic jacket and black shorts, her hair tied back in a ponytail, and her stride is mid-motion, conveying energy and determination. The path is flanked by dry, brownish brush and sparse vegetation, suggesting a coastal or semi-arid landscape. In the distance, the calm blue sea stretches across the horizon beneath a softly glowing sky tinged with pastel hues of pink, orange, and lavender, indicating either early morning or late afternoon light. The composition uses a shallow depth of field, keeping the runner in sharp focus while the background gently blurs, enhancing the sense of movement and solitude. The overall mood is peaceful yet invigorating, with natural lighting that bathes the scene in a warm, golden glow, evoking a sense of freedom and connection with nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:59.808610",
+  "word_count": 154,
+  "error_message": null
+}

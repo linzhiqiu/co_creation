@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f1fd56a-8de4-4860-90a0-55a77762babc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic science fiction scene set in a futuristic, sterile space station corridor. The corridor is angular and geometric, with white walls and floor panels illuminated by cool blue ambient lighting that casts a soft, clinical glow. The architecture features repeating patterns and recessed lighting strips, emphasizing a sense of isolation and technological precision. In the foreground, a solitary man sits slumped against the wall, wearing a worn, light gray jumpsuit with subtle yellow stripes on his socks. His posture is weary and defeated, head bowed and shoulders hunched, conveying exhaustion and emotional distress. The corridor is empty and quiet, enhancing the mood of loneliness and introspection. The camera angle is slightly low and off-center, capturing the depth of the hallway and the man’s vulnerability within the vast, impersonal environment. The overall color palette is dominated by whites, grays, and cool blues, with soft, diffused lighting and minimal shadows, evoking a sense of melancholy and existential solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:02.153057",
+  "word_count": 159,
+  "error_message": null
+}

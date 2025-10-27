@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ce200a1-37a9-4f66-8e71-30fd331000d3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA tense interrogation scene set in a stark, modern room with minimalistic, industrial design. The main subject, a young Black man with a close-cropped haircut, sits at a metal table, leaning forward with his arms crossed and an intense, slightly defensive expression. He wears a fitted, light gray long-sleeve shirt that accentuates his athletic build. The lighting is cool and subdued, casting soft shadows that emphasize the contours of his face and the somber mood. The background is dark and uncluttered, with matte black and gray walls, and a hint of a shadowy figure in tactical gear standing in the background, partially obscured and out of focus, adding an element of suspense and authority. The camera angle is eye-level, creating a sense of intimacy and immediacy, while the shallow depth of field keeps the focus tightly on the subject’s face and upper body, blurring the background for dramatic effect. The overall style is cinematic, reminiscent of a high-stakes thriller, with a muted color palette dominated by grays and blacks, and a subtle, moody atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:58.928161",
+  "word_count": 175,
+  "error_message": null
+}

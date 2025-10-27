@@ -1,0 +1,12 @@
+{
+  "image_filename": "42b30347-02c5-4831-a7ec-f51bc24af044.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, high-key photograph of a white iPhone centered on a seamless light gray background. The phone screen displays a simple \"Hello\" greeting in bold black text, evoking a clean, modern aesthetic. Soft, even lighting eliminates shadows, emphasizing clarity and sleek design, with a top-down, symmetrical composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:04.117451",
+  "word_count": 47,
+  "error_message": null
+}

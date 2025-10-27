@@ -1,0 +1,12 @@
+{
+  "image_filename": "2fd84b2f-1ff3-4df5-a257-0397878d26dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene of a nearly empty highway, viewed from a low, rear-facing perspective as if following a car in motion. The main subject is a single car with glowing red taillights, driving away into the distance along the center lane. The road is slick and dark, reflecting the warm, golden glow of evenly spaced streetlights that recede into the horizon, creating a sense of depth and vanishing point. The background is enveloped in deep blackness, with only faint hints of city lights dotting the far left side, suggesting an urban environment beyond the highway. The overall color palette is dominated by rich blacks, muted yellows, and the vibrant red of the taillights. The lighting is low and moody, with a strong contrast between the illuminated road and the surrounding darkness. The composition emphasizes solitude and motion, evoking a contemplative, almost noir atmosphere, with a subtle grainy texture reminiscent of classic film photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:16.526590",
+  "word_count": 155,
+  "error_message": null
+}

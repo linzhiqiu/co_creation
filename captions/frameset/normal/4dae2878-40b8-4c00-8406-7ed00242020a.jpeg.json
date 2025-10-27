@@ -1,0 +1,12 @@
+{
+  "image_filename": "4dae2878-40b8-4c00-8406-7ed00242020a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a whiteboard featuring a hand-drawn sports strategy diagram, likely for basketball or soccer. The composition is dominated by bold, overlapping X’s and O’s in blue and pink marker, with a central circle bisected by a vertical line and a dynamic pink arrow indicating movement or direction. To the right, a numbered list of player names is written in blue marker, partially in focus, adding a sense of authenticity and immediacy. The image is shot with a shallow depth of field, creating a soft blur around the edges and drawing attention to the central markings and arrow. The lighting is natural and diffuse, with no harsh shadows, giving the scene a candid, documentary feel. The overall color palette is clean and minimal, with the stark white of the board contrasting against the vivid blue and pink ink. The style is reminiscent of a behind-the-scenes sports film or a coaching session, capturing the intensity and focus of strategic planning.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:55.117037",
+  "word_count": 161,
+  "error_message": null
+}

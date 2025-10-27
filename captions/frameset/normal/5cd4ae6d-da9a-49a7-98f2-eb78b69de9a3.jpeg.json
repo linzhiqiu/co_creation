@@ -1,0 +1,12 @@
+{
+  "image_filename": "5cd4ae6d-da9a-49a7-98f2-eb78b69de9a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, monochromatic black-and-white image of a sculpted bust of an older man with a full, voluminous beard and long, flowing hair. The bust is rendered in a realistic style, capturing the deep-set eyes, prominent brow, and expressive facial features, conveying a sense of gravitas and intellectual intensity. The sculpture is positioned against a plain, softly lit background, with subtle shadows enhancing the contours and texture of the face and beard. The lighting is dramatic, coming from above and slightly to the side, creating strong contrasts and a sense of depth. The composition is centered and tightly framed, focusing attention on the bust’s face and upper torso, with a slight vignette effect around the edges that adds a vintage, cinematic quality reminiscent of early 20th-century photography or silent film stills. The overall mood is serious and contemplative, evoking the aura of a historical or philosophical figure.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:57.531054",
+  "word_count": 147,
+  "error_message": null
+}

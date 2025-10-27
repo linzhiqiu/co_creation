@@ -1,0 +1,12 @@
+{
+  "image_filename": "296646d1-df89-48e2-9a77-75345c8176de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime street scene, viewed from a low, head-on angle directly in front of a sleek black Mercedes-Benz sports car driving down an empty urban road. The car’s headlights blaze brightly, casting sharp beams and reflections on the asphalt, while its taillights and the city’s traffic signals create vivid red and yellow glows that streak and blur, suggesting motion. The background features softly illuminated buildings, scattered streetlights, and traffic signals suspended above the intersection, all rendered with a shallow depth of field that gives the image a dreamy, filmic quality. The color palette is dominated by deep blacks, warm reds, and golden yellows, with subtle greenish hues from the streetlights. The overall mood is moody and atmospheric, evoking a sense of late-night solitude and urban cool, reminiscent of neo-noir cinematography. The lighting is low and ambient, with the car’s lights providing the primary illumination, and the composition centers the vehicle, emphasizing its power and presence against the quiet city backdrop.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:59.779783",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "30b52275-8c80-4ed8-8819-dcfa7c891e70.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person holding a tablet in their hands, the screen displaying a bold, high-contrast campaign poster. The poster features a black-and-white portrait of a smiling young girl with straight hair and bangs, her face outlined by a vibrant, multi-colored border in shades of orange, yellow, and pink. Large, capitalized black text reads “VOTE! EMMA” with black stars flanking the name, creating a sense of urgency and excitement. The background is softly blurred, suggesting an indoor school hallway with indistinct figures and lockers, rendered in warm, neutral tones. The lighting is natural and diffused, giving the scene a candid, documentary feel. The composition draws the viewer’s eye directly to the tablet and the campaign poster, with a shallow depth of field isolating the subject from the background. The overall style is modern and realistic, with a focus on youthful energy and the immediacy of student life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:34.416953",
+  "word_count": 150,
+  "error_message": null
+}

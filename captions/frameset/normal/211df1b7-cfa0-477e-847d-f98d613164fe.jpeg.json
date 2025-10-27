@@ -1,0 +1,12 @@
+{
+  "image_filename": "211df1b7-cfa0-477e-847d-f98d613164fe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person holding a smartphone in both hands, the screen prominently displaying a banking app with a stark warning: a large exclamation mark icon, the words “ZERO BALANCE,” and a blunt message below reading “YOU’RE BROKE.” The hands are well-groomed, with natural nails, and the phone is a modern model with a metallic frame. The background is softly blurred, suggesting a shallow depth of field, but hints of a yellow jacket and muted, urban tones are visible, indicating the person is likely outdoors or in a public space. The lighting is natural and diffused, creating a realistic, slightly somber mood. The color palette is subdued, with the green and white interface of the app standing out against the neutral tones of the hands and background. The composition centers the phone and its alarming message, drawing the viewer’s attention to the emotional impact of the moment. The overall style is cinematic and documentary-like, capturing a candid, relatable slice of modern life with a focus on personal finance anxiety.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:58.680636",
+  "word_count": 171,
+  "error_message": null
+}

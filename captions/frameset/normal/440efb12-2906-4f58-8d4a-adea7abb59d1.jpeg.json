@@ -1,0 +1,12 @@
+{
+  "image_filename": "440efb12-2906-4f58-8d4a-adea7abb59d1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA solitary man in a dark overcoat walks through an empty, industrial alley at night, carrying a briefcase in one hand. The scene is framed from a distance, with the man positioned slightly off-center, moving left to right across the composition. The background features a tall, corrugated metal fence, starkly illuminated by harsh, artificial lighting that casts deep shadows and accentuates the gritty textures of the urban environment. Spray-painted in bold, black letters across the fence is the provocative phrase: \"REVOLUTION IS THE OPIUM OF THE INTELLECTUALS,\" accompanied by a peace symbol. The surrounding architecture is utilitarian and austere, with exposed brick walls and large, open gates that create a sense of isolation and foreboding. The color palette is dominated by muted earth tones, deep shadows, and cold, bluish highlights, evoking a somber, contemplative mood. The overall style is cinematic and minimalist, with a strong sense of atmosphere, tension, and urban alienation, reminiscent of classic film noir or political thrillers. The camera angle is slightly low and wide, emphasizing the scale of the environment and the smallness of the lone figure within it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:45.017445",
+  "word_count": 184,
+  "error_message": null
+}

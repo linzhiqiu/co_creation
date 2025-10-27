@@ -1,0 +1,12 @@
+{
+  "image_filename": "24bce2da-3476-42d9-ba4b-bf2c3a136820.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A narrow, shadowy passageway runs along the side of a weathered ship, its metal walls painted in faded red and illuminated by a moody, low-key lighting that casts deep shadows and a subtle crimson glow. The camera is positioned low and slightly off-center, creating a sense of depth and claustrophobia as the corridor recedes toward the open deck. At the far end of the passage, a solitary figure in an orange rain jacket and dark pants is hunched over, engaged in work, their posture suggesting focus and fatigue. The figure is partially silhouetted against the pale, overcast daylight filtering in from the open deck, where the sky and distant rigging are just visible. The overall color palette is dominated by muted reds, cool blues, and greys, evoking a cold, maritime atmosphere. The composition uses strong leading lines and a shallow depth of field to draw the viewer’s eye toward the worker, emphasizing the gritty, industrial environment. The mood is somber and cinematic, reminiscent of a tense moment in a seafaring drama, with a palpable sense of isolation and hard labor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:19.966010",
+  "word_count": 180,
+  "error_message": null
+}

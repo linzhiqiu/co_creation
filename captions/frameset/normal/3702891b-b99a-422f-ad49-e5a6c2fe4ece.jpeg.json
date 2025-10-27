@@ -1,0 +1,12 @@
+{
+  "image_filename": "3702891b-b99a-422f-ad49-e5a6c2fe4ece.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young child lies on their side, partially propped up on one elbow, deeply absorbed in drawing with a marker on a piece of paper. The scene is captured in soft, moody black and white, with gentle, diffused lighting that casts subtle shadows and highlights the texture of the child’s sweater and hair. The child’s face is partially obscured, their expression calm and introspective, focused on their creative activity. The composition is intimate and close-up, with a shallow depth of field that blurs the foreground and background, drawing attention to the child’s hand gripping the marker and the scattered drawing tools nearby. The background is indistinct, with soft, out-of-focus shapes suggesting a quiet indoor setting. The overall mood is contemplative and serene, evoking a sense of childhood solitude and concentration. The camera angle is low and slightly off-center, enhancing the candid, documentary feel of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:59.769385",
+  "word_count": 146,
+  "error_message": null
+}

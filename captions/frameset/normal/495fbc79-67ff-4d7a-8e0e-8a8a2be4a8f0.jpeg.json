@@ -1,0 +1,12 @@
+{
+  "image_filename": "495fbc79-67ff-4d7a-8e0e-8a8a2be4a8f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of a young man standing center frame in a minimalist, modern studio. He wears a simple black t-shirt and has tousled dark hair, with one hand raised to the back of his head in a casual, contemplative gesture. His expression is serious and introspective, partially obscured by dramatic, low-key lighting that casts deep shadows across his face, creating a moody and mysterious atmosphere. The background features bold, saturated blue walls with geometric shapes and subtle props, including abstract plants and a sculptural object, all softly illuminated. Two vertical arrays of warm, round studio lights glow on either side, adding a contrasting golden hue to the otherwise cool color palette. The composition is symmetrical, with a shallow depth of field that keeps the focus on the subject while gently blurring the background elements. The overall style is reminiscent of an art-house film or editorial fashion shoot, with a strong emphasis on color contrast, shadow play, and emotional intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:29.333362",
+  "word_count": 160,
+  "error_message": null
+}

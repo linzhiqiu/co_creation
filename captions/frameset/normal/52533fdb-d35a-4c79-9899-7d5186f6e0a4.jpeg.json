@@ -1,0 +1,12 @@
+{
+  "image_filename": "52533fdb-d35a-4c79-9899-7d5186f6e0a4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bearded man stands in a cluttered storage room filled with shelves stacked with cardboard boxes, electronics, and miscellaneous equipment. He wears a navy blue collared shirt with a subtle embroidered logo, and his expression is a mix of amusement and pride as he holds up a small, silver digital camera toward the viewer, as if showing it off. The lighting is cool and slightly dim, casting soft shadows and giving the scene a moody, cinematic quality reminiscent of a documentary or indie film. The background is busy but out of focus, emphasizing the man and the camera as the central subjects. The color palette is dominated by muted blues, grays, and browns, with a slight teal tint that enhances the industrial, utilitarian atmosphere. The camera angle is slightly low and close, creating an intimate, candid feel, while the shallow depth of field keeps the focus on the man’s face and the object in his hand, blurring the details of the storage room behind him.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:41.305573",
+  "word_count": 165,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f3babcc-8693-4558-9b23-994374446458.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, high-contrast scene set in a futuristic, industrial interior with sharp architectural lines and a symmetrical, geometric background. The camera is positioned behind a central figure with tousled, light brown hair, dressed in a black leather jacket layered over a dark hoodie, creating a sense of depth and focus on the subject’s back. The figure stands confidently in the foreground, arms slightly raised, as if orchestrating or confronting the action ahead. In the midground, two figures in dark clothing and helmets are caught in dynamic motion, sliding or being pulled across a glossy, white floor that reflects the ambient light, adding a sense of movement and tension. The lighting is cool and diffused, with a blue-gray palette that enhances the modern, almost clinical atmosphere. The composition uses a shallow depth of field, keeping the central figure sharply in focus while the background and moving figures are slightly blurred, emphasizing the drama and urgency of the moment. The overall style is reminiscent of a high-budget science fiction film, with meticulous attention to architectural detail, mood, and visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:59.057795",
+  "word_count": 179,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "524b0b05-4f3d-4c6f-85cd-085e11ad1960.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of an elevator display panel, centered in the frame. The display is sleek and modern, with a glossy black surface bordered by metallic silver edges. Bright red LED lights form a large, capital letter \"T\" in the center, flanked on both sides by upward-pointing arrows, also rendered in red LEDs. The background is softly blurred, suggesting the interior of an elevator with muted beige and brown tones, creating a subtle contrast with the vivid red lights. The lighting is even and slightly cool, emphasizing the reflective quality of the display panel. The composition is symmetrical and minimalistic, focusing attention on the illuminated symbols and evoking a sense of anticipation or transition. The overall style is clean and contemporary, with a hint of cinematic suspense, as if capturing a pivotal moment in a modern film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:40.441315",
+  "word_count": 137,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "22494b89-d5ec-4694-887f-3cc38848cba0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with a bald head and neatly trimmed gray beard sits at the head of a conference table, leading a meeting. He wears a pale yellow button-down shirt and has a calm, attentive expression, gesturing with one hand while holding a stack of papers in the other. In front of him is an open laptop, and scattered documents and pens are visible on the table. The background features a whiteboard with the handwritten words \"NEW HIRE TRAINING\" in large, uneven letters. The scene is framed from a slightly low, eye-level angle, with the blurred silhouettes of two participants in the foreground, creating a sense of depth and focus on the speaker. The lighting is soft and diffused, casting gentle shadows and lending a professional, welcoming atmosphere. The color palette is muted and natural, dominated by soft whites, beiges, and subtle grays, evoking a realistic, documentary style suitable for a corporate training session.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:26.873912",
+  "word_count": 154,
+  "error_message": null
+}

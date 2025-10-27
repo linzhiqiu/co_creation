@@ -1,0 +1,12 @@
+{
+  "image_filename": "5885bcaf-a5ec-4432-aa78-3137da2c5ca2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly realistic underwater scene viewed from the bottom of an Olympic-sized swimming pool, looking up toward the water’s surface. The composition is symmetrical, with bold yellow lane dividers stretching from the foreground into the distance, creating strong leading lines that draw the eye upward. The pool floor is marked with dark blue and black lines, adding geometric structure and depth. The water is crystal clear, with a deep blue hue dominating the color palette, and gentle ripples on the surface casting dynamic, wavy reflections and light patterns onto the pool floor and walls. The lighting is bright and natural, as if illuminated by daylight filtering through the water, creating a serene and tranquil atmosphere. The overall style is hyper-realistic, with sharp details and a sense of stillness, emphasizing the quiet, immersive quality of being underwater in an empty, pristine swimming pool.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:24.614472",
+  "word_count": 143,
+  "error_message": null
+}

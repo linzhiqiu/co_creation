@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f17cd58-2b55-479f-a67a-14e2f1d6e6d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A softly lit, intimate tailor’s studio bathed in natural daylight streaming through a large window, with sheer curtains framing a view of lush green foliage outside. In the center foreground stands a classic dressmaker’s mannequin, draped with a white measuring tape, its neutral fabric surface catching the gentle light. Behind the mannequin, a rack of colorful, patterned garments hangs in a slightly blurred row, suggesting a creative workspace filled with textiles and fashion in progress. The left side of the frame features a cluttered worktable with sewing supplies and a leafy potted plant, adding a touch of life and authenticity. The overall color palette is muted and natural, with soft greens, creams, and subtle pops of color from the clothing. The composition is balanced and cinematic, with a shallow depth of field that keeps the mannequin in sharp focus while the background recedes into a gentle blur, evoking a quiet, contemplative mood and the artistry of bespoke tailoring.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:19.241374",
+  "word_count": 158,
+  "error_message": null
+}

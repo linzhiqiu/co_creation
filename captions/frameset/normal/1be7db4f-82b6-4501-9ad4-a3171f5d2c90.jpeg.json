@@ -1,0 +1,12 @@
+{
+  "image_filename": "1be7db4f-82b6-4501-9ad4-a3171f5d2c90.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, slightly low-angle shot of a street sign pole at a city intersection, featuring green street signs labeled \"Ave A\" and \"E 7 St\" along with a black and white \"ONE WAY\" sign. The pole is topped with a security camera, adding an urban, surveilled atmosphere. The background is a clear, pale blue sky with soft daylight, creating a crisp and airy mood. In the foreground, the right side of the frame is partially blurred by an out-of-focus object, adding depth and a sense of candid realism to the composition. The color palette is dominated by cool blues and greens, with subtle metallic grays from the pole and a hint of warm color from the blurred object. The overall style is documentary-like, with natural lighting, shallow depth of field, and a focus on the everyday details of city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:08.617138",
+  "word_count": 140,
+  "error_message": null
+}

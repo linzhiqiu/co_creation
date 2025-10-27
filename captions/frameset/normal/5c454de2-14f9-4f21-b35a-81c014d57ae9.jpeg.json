@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c454de2-14f9-4f21-b35a-81c014d57ae9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, surreal scene set inside a dimly lit urban tunnel at night. The tunnel is illuminated by a row of harsh, fluorescent lights running along the ceiling, casting stark reflections on the wet, grimy concrete walls. In the foreground, a black sedan and a white van drive side by side down the center of the tunnel, their headlights creating dramatic pools of light and deep shadows. Most strikingly, several human figures in casual, dark clothing are seen defying gravity, clinging to or walking along the curved walls and ceiling of the tunnel, their bodies oriented at impossible angles. The camera angle is slightly low and off-center, emphasizing the tunnel’s depth and curvature, and enhancing the disorienting, dreamlike quality of the scene. The color palette is dominated by muted grays, greens, and blues, with the artificial lighting lending a cold, almost dystopian atmosphere. The overall style is hyperrealistic with a touch of science fiction, evoking a sense of mystery and otherworldliness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:48.209642",
+  "word_count": 161,
+  "error_message": null
+}

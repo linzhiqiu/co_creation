@@ -1,0 +1,12 @@
+{
+  "image_filename": "486631b4-7a70-48b6-93de-529b397f5cbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large university lecture hall filled with students, viewed from an elevated, slightly off-center angle that captures several rows of tiered wooden desks. The majority of the students are young adults, dressed predominantly in various shades of blue—denim jackets, hoodies, sweaters, and shirts—creating a cohesive, cool-toned color palette that unifies the crowd. In striking contrast, one student at the center of the composition wears a vivid green polo shirt and is the only person raising their hand, drawing immediate focus. This student’s expression is attentive and engaged, while most others appear passive, looking forward or down at their desks. The lighting is soft and natural, likely from large windows out of frame, casting gentle shadows and giving the scene a realistic, almost cinematic quality. The background is minimal, with the focus on the students and the repetitive geometry of the desks. The overall mood is contemplative and slightly subdued, emphasizing individuality within conformity. The depth of field is moderate, keeping all students in focus, and the composition uses symmetry and color contrast to highlight the central figure’s action and presence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:05.447822",
+  "word_count": 180,
+  "error_message": null
+}

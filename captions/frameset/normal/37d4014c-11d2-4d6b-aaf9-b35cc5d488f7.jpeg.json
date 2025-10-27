@@ -1,0 +1,12 @@
+{
+  "image_filename": "37d4014c-11d2-4d6b-aaf9-b35cc5d488f7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, naturalistic outdoor scene focused on a young man with neatly styled, dark brown hair, viewed in profile from the left side. He wears a simple, deep blue t-shirt, and his expression is calm and introspective, gazing downward as if lost in thought. The background features a modern patio with a low white wall, lush green foliage, and a large potted bamboo plant, evoking a serene, private garden atmosphere. A blurred lounge chair with a patterned cushion and a green umbrella add subtle detail and depth, while another figure dressed in black is partially visible, out of focus, enhancing the sense of candid realism. The color palette is cool and subdued, dominated by greens, blues, and soft grays, with natural daylight casting gentle, even illumination across the scene. The composition uses a shallow depth of field, keeping the subject sharply in focus while softly blurring the background, creating an intimate, contemplative mood reminiscent of an indie film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:17.244157",
+  "word_count": 160,
+  "error_message": null
+}

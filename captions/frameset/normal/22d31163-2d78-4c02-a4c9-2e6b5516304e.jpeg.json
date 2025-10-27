@@ -1,0 +1,12 @@
+{
+  "image_filename": "22d31163-2d78-4c02-a4c9-2e6b5516304e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary commercial jet airplane soars through a dramatic, overcast sky filled with dense, swirling storm clouds. The aircraft is captured in mid-flight, slightly angled upward, its landing gear still visible, suggesting either takeoff or approach. The scene is rendered in striking black and white, emphasizing the contrast between the sleek, metallic surface of the plane and the textured, tumultuous clouds that dominate the background. The lighting is diffuse and moody, with soft highlights on the fuselage and deep shadows in the cloud formations, creating a sense of tension and anticipation. The composition is minimalist, with the plane positioned off-center, allowing the vast, brooding sky to envelop the frame. The overall style is cinematic and atmospheric, evoking a sense of isolation and the sublime power of nature. The camera angle is slightly below and to the side of the aircraft, enhancing the feeling of movement and scale, while a moderate depth of field keeps both the plane and the dramatic sky in sharp focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:38.836053",
+  "word_count": 164,
+  "error_message": null
+}

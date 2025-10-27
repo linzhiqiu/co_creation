@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e3fdf23-e088-48da-ab9b-4cdd2de024d4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, high-intensity action scene set inside a vast, dimly lit industrial warehouse at night. The camera is positioned in a low, first-person perspective, as if mounted on the front of a fast-moving vehicle or motorcycle, racing across a gritty, debris-strewn concrete floor. The environment is filled with heavy machinery, steel beams, and industrial structures, all cast in deep shadows and illuminated by scattered, harsh overhead lights that create dramatic pools of yellowish glow. The motion blur in the foreground and along the ground conveys a powerful sense of speed and urgency, with the background elements streaking past in a rush. The color palette is dominated by muted browns, grays, and ochres, punctuated by the warm, industrial lighting. The overall style is cinematic and immersive, evoking the adrenaline and tension of a chase sequence, with a shallow depth of field and a slightly gritty, realistic texture. The mood is intense and suspenseful, capturing the raw energy and danger of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:25.563408",
+  "word_count": 161,
+  "error_message": null
+}

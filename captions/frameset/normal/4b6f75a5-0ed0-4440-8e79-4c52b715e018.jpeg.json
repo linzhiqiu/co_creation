@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b6f75a5-0ed0-4440-8e79-4c52b715e018.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic portrait of a bald man in a dimly lit, clinical setting, seated in profile facing left. His expression is calm and neutral, with a slight focus in his blue eyes. The most striking feature is a surreal, third eye centered on his forehead, perfectly integrated into his skin. Surrounding this third eye and extending across his face are luminous, neon-green lines, precisely painted in concentric, curved patterns that accentuate his facial structure and create a futuristic, almost alien appearance. The man wears a simple white shirt, and the background is softly blurred, rendered in cool, desaturated tones of blue and gray, evoking a laboratory or experimental environment. The lighting is soft and diffused, casting gentle shadows that enhance the contours of his face and the vividness of the neon lines. The overall style is cinematic and slightly uncanny, with a shallow depth of field that keeps the focus tightly on the subject’s face and the surreal modifications, emphasizing a mood of scientific curiosity and otherworldly transformation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:03.798722",
+  "word_count": 169,
+  "error_message": null
+}

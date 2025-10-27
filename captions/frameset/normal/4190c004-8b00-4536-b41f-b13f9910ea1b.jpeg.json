@@ -1,0 +1,12 @@
+{
+  "image_filename": "4190c004-8b00-4536-b41f-b13f9910ea1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a laptop screen displaying the Netflix homepage, with the interface prominently featuring the \"See what's next\" slogan in bold white text. The screen showcases a selection of popular TV shows and movies, including recognizable titles like \"13 Reasons Why,\" \"Narcos,\" \"Breaking Bad,\" and \"Orange is the New Black,\" their cover art partially visible in a grid layout. The laptop is angled slightly to the right, with the screen dominating the frame, and the faint silhouette of a person’s head or shoulder blurred in the foreground, suggesting someone is browsing. The lighting is dim and warm, casting a soft, ambient glow that hints at a cozy, evening setting—possibly in a bedroom, as suggested by the out-of-focus plaid fabric in the background. The color palette is muted, with dark grays and blacks from the laptop and interface, punctuated by the vibrant reds and greens of the Netflix branding and show thumbnails. The overall style is cinematic, with a shallow depth of field that keeps the focus on the screen while subtly blurring the surrounding environment, evoking a sense of anticipation and quiet intimacy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:40.631679",
+  "word_count": 185,
+  "error_message": null
+}

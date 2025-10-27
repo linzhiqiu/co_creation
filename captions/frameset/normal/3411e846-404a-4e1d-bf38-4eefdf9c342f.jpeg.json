@@ -1,0 +1,12 @@
+{
+  "image_filename": "3411e846-404a-4e1d-bf38-4eefdf9c342f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single teal SUV drives along a winding, sunlit highway carved into a rugged, rocky hillside. The scene is captured from a high, slightly diagonal aerial perspective, emphasizing the car’s isolation and the sweeping expanse of the landscape. The road is bordered by a low white concrete barrier on one side and a metal guardrail on the other, with faded yellow lane markings running down the center. The background consists of steep, textured rock faces in muted earth tones—browns, grays, and ochres—contrasting with the smooth, pale surface of the road. The lighting is bright and natural, casting soft shadows and highlighting the arid, almost desolate atmosphere. The overall color palette is subdued and cinematic, dominated by dusty neutrals and the cool blue-green of the vehicle. The composition conveys a sense of motion and solitude, with a shallow depth of field that keeps the car and road in sharp focus while the foreground and background blur slightly, enhancing the feeling of speed and travel through an expansive, remote landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:48.113619",
+  "word_count": 168,
+  "error_message": null
+}

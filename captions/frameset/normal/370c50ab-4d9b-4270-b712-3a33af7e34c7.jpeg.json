@@ -1,0 +1,12 @@
+{
+  "image_filename": "370c50ab-4d9b-4270-b712-3a33af7e34c7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with pale skin and dark, slightly disheveled hair sits in a dimly lit, cluttered room, facing a large computer monitor that casts a greenish glow across his face. He wears a simple, loose-fitting black t-shirt, and his expression is one of intense focus mixed with confusion and apprehension, lips slightly parted as if caught mid-thought. The background is shadowy and out of focus, revealing shelves stacked with books and miscellaneous objects, contributing to the sense of a cramped, lived-in workspace. The overall color palette is dominated by deep greens and muted earth tones, with low-key, moody lighting that creates dramatic shadows and a sense of isolation. The camera angle is slightly off-center, capturing the subject from the chest up in a medium close-up, with a shallow depth of field that blurs the background and emphasizes the subject’s emotional state. The scene evokes a tense, cyber-noir atmosphere, reminiscent of late-night hacking or a pivotal moment of discovery in a science fiction thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:00.323693",
+  "word_count": 164,
+  "error_message": null
+}

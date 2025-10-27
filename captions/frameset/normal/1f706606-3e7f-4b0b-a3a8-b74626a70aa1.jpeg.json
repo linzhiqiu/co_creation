@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f706606-3e7f-4b0b-a3a8-b74626a70aa1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, slightly desaturated photograph of a small, rural European train station on an overcast day. The foreground is dominated by a red-and-white striped railway crossing barrier, positioned horizontally and partially out of focus, creating a sense of separation and anticipation. Behind the barrier, a simple, weathered station building with peeling white paint and wooden siding stands, its windows open and slightly askew, hinting at age and quiet neglect. The building is adorned with a few colorful signs in German, adding authenticity and a touch of local character. To the right, a classic railway crossing sign and a tangle of overhead wires and poles evoke a sense of infrastructure and travel. The background features leafy green trees and neighboring houses with sloped roofs, all under a cloudy, pale blue sky. The overall color palette is muted, with cool blues, greys, and soft greens, punctuated by the red of the barrier and signage. The composition is balanced and documentary in style, with a shallow depth of field that draws the eye to the station building while maintaining a sense of place and quiet atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:29.595900",
+  "word_count": 183,
+  "error_message": null
+}

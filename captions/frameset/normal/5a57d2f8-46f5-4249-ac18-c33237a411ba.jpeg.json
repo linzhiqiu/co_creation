@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a57d2f8-46f5-4249-ac18-c33237a411ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking black-and-white portrait of an elderly, bald man with closed eyes, his expression serene and contemplative. The man’s face is weathered, marked by age spots and deep lines, conveying a sense of wisdom and vulnerability. Emerging from his mouth is a large, delicate lily flower, its petals soft and slightly wilted, creating a surreal and poetic juxtaposition between human fragility and natural beauty. The subject is photographed from the shoulders up, bare-chested, against a plain, softly lit background that fades into a gentle gradient, emphasizing the figure and the flower. The lighting is diffuse and even, highlighting the textures of the skin and the subtle details of the flower without harsh shadows. The composition is centered and intimate, with a shallow depth of field that keeps the focus on the man’s face and the flower, blurring the background for a dreamlike effect. The overall mood is contemplative and artistic, evoking themes of mortality, silence, and the intersection of humanity and nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:57.236434",
+  "word_count": 162,
+  "error_message": null
+}

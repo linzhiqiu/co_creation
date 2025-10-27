@@ -1,0 +1,12 @@
+{
+  "image_filename": "47c28baf-c067-4842-b028-13f697ca328c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man in a red jersey and white knee pads prepares to shoot a basketball on an empty blue outdoor court, framed centrally. The background features a chain-link fence, urban park, and muted apartment buildings. The lighting is natural daylight, evoking a calm, contemplative urban sports atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:46.182913",
+  "word_count": 47,
+  "error_message": null
+}

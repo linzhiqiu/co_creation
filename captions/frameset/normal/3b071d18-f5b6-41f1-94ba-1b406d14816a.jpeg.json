@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b071d18-f5b6-41f1-94ba-1b406d14816a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, centered shot of a classic cylindrical red postbox with a domed top, set against a plain, slightly textured light gray wall. The postbox is the sole subject, dominating the frame with its vibrant, glossy red paint that contrasts sharply with the muted background. The front of the postbox features a rectangular black plaque with gold and white text in both English and Chinese, adding an element of cultural specificity. The mail slot is visible just above the plaque, and the overall surface of the postbox shows subtle signs of wear, giving it a sense of history and use. The lighting is soft and diffuse, eliminating harsh shadows and lending a gentle, almost nostalgic atmosphere to the scene. The composition is symmetrical and straightforward, with a shallow depth of field that keeps the postbox in sharp focus while the background remains softly blurred, emphasizing the subject. The overall style is clean and documentary, with a hint of vintage charm, reminiscent of a carefully composed photograph in a travel magazine or an artful still from a film exploring urban details.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:29.140586",
+  "word_count": 181,
+  "error_message": null
+}

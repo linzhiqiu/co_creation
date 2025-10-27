@@ -1,0 +1,12 @@
+{
+  "image_filename": "1dfc5e04-eb3c-48e1-a4dc-d7cab710b1d7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up of a calendar page, sharply focused on a bold red \"IMPORTANT\" stamp with an exclamation mark spanning two dates. Handwritten notes and pastel sticky notes add personal touches. Soft, natural lighting enhances the paper texture, evoking urgency and anticipation in a documentary, everyday style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:51.340454",
+  "word_count": 46,
+  "error_message": null
+}

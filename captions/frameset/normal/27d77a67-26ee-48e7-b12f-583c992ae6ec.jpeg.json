@@ -1,0 +1,12 @@
+{
+  "image_filename": "27d77a67-26ee-48e7-b12f-583c992ae6ec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits at a futuristic control desk in a dimly lit room, illuminated by the cool blue glow of multiple computer monitors and control panels. She wears a white shirt and a headset with a microphone, her expression focused and intent as she interacts with the technology before her. The desk is cluttered with high-tech equipment, including several screens displaying complex data, graphs, and interface elements. To her right, a large monitor displays a video call with another woman, who is smiling warmly and dressed in a white blouse, set against a softly lit, neutral background with vertical blinds. The overall color palette is dominated by deep blues and soft whites, creating a high-tech, cinematic atmosphere reminiscent of a control center or mission command room. The lighting is low-key, with the primary illumination coming from the screens, casting a soft, ethereal glow on the operator’s face and hands. The composition uses a medium-wide angle, with a shallow depth of field that keeps the operator and her immediate workspace in sharp focus while the background fades into darkness, emphasizing the sense of isolation and concentration. The mood is tense yet professional, evoking themes of communication, technology, and remote connection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:22.713864",
+  "word_count": 200,
+  "error_message": null
+}

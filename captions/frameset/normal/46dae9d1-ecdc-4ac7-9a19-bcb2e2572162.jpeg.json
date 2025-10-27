@@ -1,0 +1,12 @@
+{
+  "image_filename": "46dae9d1-ecdc-4ac7-9a19-bcb2e2572162.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single male figure, dressed in dark, paint-splattered clothing, is captured mid-motion as he balances dynamically atop a large, abstract canvas spread across the floor. The man’s posture suggests he is either dancing or performing, with one arm outstretched and his body leaning forward, conveying a sense of energy and creative spontaneity. Surrounding the canvas are numerous paint cans and brushes, some upright and others scattered, hinting at an ongoing, expressive art process.\n\nThe scene is set in a spacious, modern studio with a minimalist, industrial aesthetic. The background is mostly dark, with one wall fading into deep shadow, creating a dramatic contrast. Overhead, geometric neon light fixtures in cool blue and white tones cast a stark, futuristic glow, illuminating the artist and the canvas while leaving the periphery in semi-darkness. The color palette is dominated by cool blues, blacks, and whites, with splashes of color from the paint on the canvas and the artist’s clothing. The lighting is crisp and directional, emphasizing the textures of the paint and the reflective surfaces around the canvas.\n\nThe composition is wide and cinematic, shot from a slightly elevated angle that captures the entire workspace and the artist’s movement within it. The overall style is modern and avant-garde, with a focus on the interplay between light, shadow, and creative action. The mood is intense and immersive, evoking the raw energy of artistic creation in a contemporary, almost theatrical setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:34.473971",
+  "word_count": 236,
+  "error_message": null
+}

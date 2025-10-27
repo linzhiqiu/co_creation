@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fbf8cf3-a7bd-472b-bad0-6c2fba3e4890.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a pair of rough, dirt-stained hands holding a smartphone horizontally, the screen displaying a grainy, monochromatic aerial image that resembles a forest or landscape shrouded in mist. The hands are weathered, with visible grime under the fingernails, suggesting recent outdoor activity or survival conditions. The person’s sleeve, visible at the edge of the frame, is a muted red, contrasting subtly with the otherwise desaturated, cool-toned color palette. The background is softly blurred, hinting at an outdoor, natural environment with deep greens and shadows, but keeping the focus entirely on the hands and the phone. The lighting is diffuse and overcast, lending a somber, cinematic mood to the scene. The composition is intimate and immersive, with a shallow depth of field that draws the viewer’s attention to the tension and story implied by the hands and the mysterious image on the phone. The overall style is gritty and realistic, evoking themes of survival, discovery, or suspense.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:47.871773",
+  "word_count": 159,
+  "error_message": null
+}

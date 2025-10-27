@@ -1,0 +1,12 @@
+{
+  "image_filename": "3cdf7a50-134d-47af-b5f2-752f0a23e3f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman standing in a minimalist, futuristic setting. She is positioned in three-quarter profile, gazing thoughtfully over her shoulder toward the camera. Her expression is calm and enigmatic, with a subtle sense of intrigue. She wears a sleek, shimmering jacket that catches the light, reflecting metallic red hues across her shoulder and arm. The lighting is dramatic and stylized: a strong, directional red light bathes the left side of her face and body, creating bold contrast with the cooler, neutral tones of the background. Behind her, a single diagonal white neon light cuts through the dark, smoky gray backdrop, adding a sense of depth and modernity. The overall color palette is dominated by deep reds, silvers, and grays, with high contrast and a soft, cinematic focus. The composition is clean and balanced, evoking a sense of mystery and sophistication, reminiscent of high-fashion editorial photography or a stylish science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:10.478484",
+  "word_count": 156,
+  "error_message": null
+}

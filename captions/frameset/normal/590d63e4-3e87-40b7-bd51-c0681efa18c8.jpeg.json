@@ -1,0 +1,12 @@
+{
+  "image_filename": "590d63e4-3e87-40b7-bd51-c0681efa18c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic landscape scene set in a sunlit, arid desert. The central focus is a solitary acacia tree with a wide, flat canopy and a dark, gnarled trunk, casting a dramatic shadow on the rocky, sandy ground below. The background features rolling, rugged hills and distant mountains in earthy tones of brown, ochre, and muted green, under a sky filled with soft, scattered clouds. The color palette is natural and subdued, dominated by warm earth tones and the deep green of the tree’s foliage. The lighting is bright and natural, suggesting midday, with crisp shadows and clear visibility. The composition is balanced, with the tree perfectly centered, emphasizing its isolation and resilience in the harsh environment. The overall style is realistic, with a slight cinematic quality—think wide-angle lens, deep depth of field, and a sense of vastness and solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:32.576160",
+  "word_count": 140,
+  "error_message": null
+}

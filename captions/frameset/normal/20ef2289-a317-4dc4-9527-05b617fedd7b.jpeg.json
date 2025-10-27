@@ -1,0 +1,12 @@
+{
+  "image_filename": "20ef2289-a317-4dc4-9527-05b617fedd7b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric scene set in a cold, snowy landscape at dusk. The composition focuses on the textured, uneven surface of snow, rendered in deep, cool blue tones that evoke a sense of chill and quiet. The main visual element is a series of large, indistinct shadows cast across the snow, suggesting the presence of figures or animals just out of frame, their forms blurred and mysterious. The lighting is soft and diffuse, with no direct sunlight, enhancing the sense of cold and isolation. The camera angle is low, almost at ground level, emphasizing the expanse of snow and the abstract quality of the shadows. The overall mood is contemplative and enigmatic, with a subtle sense of movement implied by the shifting forms. The style is reminiscent of classic film stills, with a focus on mood, texture, and the interplay of light and shadow rather than explicit detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:53.878811",
+  "word_count": 149,
+  "error_message": null
+}

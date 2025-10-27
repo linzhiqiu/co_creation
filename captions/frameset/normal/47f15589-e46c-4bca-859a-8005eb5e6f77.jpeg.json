@@ -1,0 +1,12 @@
+{
+  "image_filename": "47f15589-e46c-4bca-859a-8005eb5e6f77.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, low-angle shot as if viewed from inside a large, dark wooden box with four geometric cutouts—a circle, a triangle, and two squares—on its top surface. Through the cutouts, a young child is visible, peering down into the box with a curious and slightly amused expression. The child wears a cozy, oversized orange sweater, and their hair is slightly tousled. The background is softly lit with neutral, off-white tones, suggesting an indoor setting with diffused daylight. The color palette is warm and muted, dominated by the deep blue of the box’s surface, the rich brown of the wood, and the soft orange of the child’s clothing. The composition emphasizes the geometric shapes, framing the child’s face and upper body through the openings, creating a playful and intimate perspective. The overall style is naturalistic with a touch of whimsy, using shallow depth of field to keep the focus on the child’s expression and the shapes, while the interior of the box remains in shadow, enhancing the sense of depth and enclosure.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:54.283297",
+  "word_count": 173,
+  "error_message": null
+}

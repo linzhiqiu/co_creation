@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e889102-7ce7-413d-a8e5-ac9bc339daee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, cinematic shot set in a brightly lit supermarket aisle, featuring a young girl in the foreground running joyfully toward the camera. She wears a vibrant red jacket over a white shirt, her expression beaming with excitement and energy. Behind her, slightly out of focus, are two adults—presumably her parents—pushing a shopping cart and smiling as they watch her. The shelves on either side are well-stocked with colorful grocery items, creating a lively and bustling atmosphere. The lighting is soft and natural, with cool white tones from the overhead fluorescent lights, giving the scene a clean, modern feel. The camera is positioned at a low angle, close to the ground, enhancing the sense of motion and the child’s exuberance. The depth of field is shallow, keeping the girl sharply in focus while gently blurring the background, drawing attention to her movement and expression. The overall style is reminiscent of a family-oriented commercial or a feel-good film, capturing a candid, heartwarming moment of everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:47.796290",
+  "word_count": 165,
+  "error_message": null
+}

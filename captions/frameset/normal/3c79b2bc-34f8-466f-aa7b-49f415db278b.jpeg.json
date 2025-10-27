@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c79b2bc-34f8-466f-aa7b-49f415db278b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply dressed middle-aged man stands in a dimly lit, noir-inspired setting, wearing a dark overcoat, a crisp white shirt, a tie, and a classic black fedora. His expression is composed and slightly enigmatic, with a subtle, knowing smile. The most striking feature of the scene is the surreal repetition of his figure, as if he is reflected multiple times in a series of tall, narrow mirrors arranged side by side. Each reflection is slightly offset, creating a mesmerizing, almost hypnotic visual rhythm that stretches across the frame. The background is dark and indistinct, drawing all attention to the man and his multiplied images. The lighting is dramatic, with strong contrasts and deep shadows, evoking a vintage black-and-white film aesthetic. The overall composition is symmetrical and precise, with a sense of depth created by the receding reflections. The mood is mysterious and slightly disorienting, reminiscent of classic psychological thrillers or dream sequences. The camera angle is straight-on at eye level, emphasizing the uncanny effect of the repeated figure and the elegant, timeless style of the subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:03.697390",
+  "word_count": 176,
+  "error_message": null
+}

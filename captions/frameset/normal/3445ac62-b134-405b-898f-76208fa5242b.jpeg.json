@@ -1,0 +1,12 @@
+{
+  "image_filename": "3445ac62-b134-405b-898f-76208fa5242b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A contemporary art installation in an industrial-style gallery space. The focal point is a set of four large, flat-screen monitors arranged in a 2x2 grid at eye level. Each screen displays a high-resolution, close-up image of a dense cluster of bright yellow tennis balls, their neon color and fuzzy texture vividly rendered. The tennis balls fill the entire frame of each screen, creating a striking, repetitive pattern that draws the viewer’s eye. The background of the gallery is minimalist and slightly worn, with exposed concrete walls, subtle stains, and visible structural beams, evoking a raw, urban atmosphere. To the right, abstract blue sculptural forms resembling elongated blocks or pillars add a pop of color and geometric contrast. The lighting is soft and diffuse, with natural daylight filtering in, casting gentle shadows and enhancing the textures of both the digital and physical elements. The overall composition is balanced and modern, with a focus on bold color contrasts, repetition, and the interplay between digital imagery and physical space. The camera angle is straight-on at eye level, emphasizing symmetry and inviting the viewer to engage directly with the installation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:50.437021",
+  "word_count": 186,
+  "error_message": null
+}

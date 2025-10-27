@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c8d9ccd-7bf4-42d2-8132-131f341f7d54.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A softly lit, intimate still life scene featuring a small potted rose plant with deep green leaves and vibrant red blossoms, placed in a simple, unglazed ceramic pot. The plant is positioned slightly off-center to the right, while a single white candle burns on the left, its warm flame casting a gentle, golden glow across the composition. The background is a smooth, dark gradient, fading from deep blue to charcoal, creating a sense of quiet depth and focus on the subjects. The lighting is low and atmospheric, with a subtle interplay of warm candlelight and cool ambient tones, producing delicate highlights on the leaves and petals. The overall style is cinematic and painterly, with a shallow depth of field that softly blurs the background and edges, emphasizing the lush textures and colors of the rose plant. The mood is tranquil and contemplative, evoking a sense of warmth and solitude, as if capturing a fleeting, peaceful moment in a quiet room.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:05.172939",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "452cd01a-e25f-4794-9e4f-c1234f076b7c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary outdoor basketball court in an urban setting, captured in the soft, angled light of late afternoon. The court is empty, with a single basketball hoop and backboard standing prominently in the foreground, slightly off-center. The ground is scattered with a few dry leaves, hinting at early autumn. In the background, a large, weathered brick apartment building dominates the scene, its repetitive grid of windows casting deep, geometric shadows across the facade. A tall chain-link fence encloses the court, adding to the sense of isolation. The color palette is muted and natural, with warm browns and grays from the bricks, cool blue-gray tones on the court, and subtle golden highlights from the sunlight. The overall mood is quiet and contemplative, evoking a sense of stillness and urban solitude. The composition is cinematic, with a wide-angle perspective and shallow depth of field, emphasizing the emptiness of the space and the stark contrast between the manmade structures and the soft, natural light.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:01.086910",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "45322546-f197-456e-91e0-e923e873318f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man in mid-motion runs through a dense, shadowy forest, his body angled forward as if fleeing or chasing something unseen. He wears a light-colored, textured sweater beneath a tailored, muted blazer, and dark trousers, his attire contrasting with the wildness of the woods. His expression is tense and focused, partially obscured by the dim, bluish-green lighting that bathes the entire scene, evoking a sense of urgency and suspense. The background is a blur of tall, mossy tree trunks and softly illuminated foliage, with dappled light filtering through the canopy, creating a moody, cinematic atmosphere. The camera angle is slightly low and off-center, capturing the subject in dynamic motion and emphasizing the depth of the forest. The overall style is reminiscent of a thriller or dramatic film, with a cool, desaturated color palette and shallow depth of field that draws attention to the figure while allowing the background to recede into a mysterious, almost dreamlike haze.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:57.811052",
+  "word_count": 156,
+  "error_message": null
+}

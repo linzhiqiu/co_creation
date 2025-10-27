@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f80d497-9e4d-401c-87c7-0f2b6e659d9c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bright, sunlit scene featuring three young children gathered around a table, deeply engaged in a board game. The central focus is a boy with curly brown hair, wearing a navy and white striped t-shirt with a small pocket, who is making a peace sign with his fingers while concentrating on the game. To his left, another child in a pale yellow shirt is reaching towards the board, partially visible and focused on the gameplay. In the foreground, the back of a third child in a soft pink shirt is slightly out of focus, adding depth and a candid, documentary feel to the composition. The background is minimal and softly lit, with white walls and gentle natural light streaming in, creating a warm, inviting atmosphere. The color palette is soft and pastel, dominated by whites, creams, and muted tones, enhancing the sense of innocence and playfulness. The camera angle is at table height, capturing the children’s expressions and hands in action, with a shallow depth of field that draws attention to the central child and the board game, while subtly blurring the periphery for an intimate, cinematic effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:40.997980",
+  "word_count": 188,
+  "error_message": null
+}

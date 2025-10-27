@@ -1,0 +1,12 @@
+{
+  "image_filename": "387e715b-2a02-43ee-997c-a4b6a6f0f342.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic scene set in a dimly lit, modern interior. The composition features a solitary figure seated at a desk, their silhouette partially obscured and blurred, blending into the shadowy background. The lighting is low and atmospheric, with a dramatic, ethereal beam of light cutting diagonally across the frame, casting soft, diffused highlights and creating a sense of mystery and introspection. On the desk, include minimalistic objects such as a cup, a lamp, and a few scattered items, all rendered with soft edges and subtle reflections. The background is abstract, dominated by large, out-of-focus shapes and a cool, muted color palette of deep blues, grays, and pale whites. The overall style is reminiscent of experimental film photography, with intentional motion blur, double exposure effects, and a shallow depth of field that draws attention to the interplay of light and shadow, evoking a contemplative, dreamlike atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:32.431104",
+  "word_count": 147,
+  "error_message": null
+}

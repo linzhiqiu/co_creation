@@ -1,0 +1,12 @@
+{
+  "image_filename": "289e47b1-b1dd-4d46-9273-25f8dc6d8afb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young child sits alone at a wooden desk in a brightly lit classroom, viewed from behind at a low, intimate angle that centers the back of the child’s head and shoulders. The child wears a short-sleeved, white shirt with thin, horizontal pastel stripes, and their posture is slightly hunched, suggesting focus or introspection. The classroom is filled with other children, but they are softly blurred in the background, creating a shallow depth of field that draws all attention to the solitary figure in the foreground. Sunlight streams through large windows on the left, casting a warm, golden glow across the room and illuminating colorful artwork and posters on the walls. The overall color palette is vibrant, with greens, yellows, and soft blues dominating the scene, while the lighting is natural and inviting, evoking a sense of nostalgia and quiet contemplation. The composition and cinematic quality of the image suggest a moment of solitude or reflection within the lively environment of a school classroom.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:39.883826",
+  "word_count": 164,
+  "error_message": null
+}

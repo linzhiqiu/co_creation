@@ -1,0 +1,12 @@
+{
+  "image_filename": "286536bf-26e3-4bde-be17-0263673e4488.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, moody interior scene featuring a close-up, top-down view of a dark, textured floor. On the floor, a series of white, stylized footprints are arranged in a pattern, each pair facing slightly different directions, with subtle curved arrows indicating a turning or dancing motion. The footprints are crisp and clean, standing out starkly against the deep brown and charcoal hues of the floor, which has a slightly mottled, industrial appearance. The lighting is soft and diffuse, casting gentle shadows and creating a subdued, contemplative atmosphere. The composition is minimalist, with the footprints leading the viewer’s eye diagonally across the frame, evoking a sense of movement and instruction, as if guiding someone through a dance routine or a choreographed path. The overall style is cinematic and understated, with a shallow depth of field that keeps the focus on the footprints while the background remains unobtrusive and out of focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:33.916400",
+  "word_count": 150,
+  "error_message": null
+}

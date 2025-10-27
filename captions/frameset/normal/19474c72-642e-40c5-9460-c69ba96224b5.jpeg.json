@@ -1,0 +1,12 @@
+{
+  "image_filename": "19474c72-642e-40c5-9460-c69ba96224b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic close-up portrait of a humanoid robot with a smooth, white, expressionless face and large, reflective, lifelike eyes. The robot’s features are symmetrical and slightly androgynous, with subtle mechanical details around the jaw and temples, and a seamless, polished surface that catches the cool, industrial lighting. The background is softly blurred, revealing an expansive, high-tech factory filled with yellow robotic arms and metallic machinery, evoking a sense of advanced automation and futuristic industry. The color palette is dominated by cool blues, silvers, and metallic grays, with hints of yellow from the machinery. The lighting is diffuse and even, highlighting the robot’s face and creating a sense of depth and realism. The camera angle is straight-on, at eye level, with a shallow depth of field that keeps the focus on the robot’s face while the background remains out of focus, enhancing the sense of isolation and introspection. The overall mood is contemplative and slightly uncanny, blending elements of science fiction and realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:14.416568",
+  "word_count": 164,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "57b0dcc1-41e3-47aa-9512-de9088c89a77.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic close-up of a mechanical engine component, focusing on the intricate details of gears, bolts, and metallic surfaces. The scene is bathed in deep, moody red and orange lighting, casting rich highlights and shadows that accentuate the contours and textures of the metal. The composition is tight, with the camera positioned at a low angle, emphasizing the complexity and power of the machinery. The depth of field is shallow, drawing attention to the central gear and chain while softly blurring the background elements. The overall style is cinematic and industrial, evoking a sense of intensity and motion, as if the engine is in operation. The image should convey a tactile, almost visceral quality, with gleaming reflections and subtle hints of movement, capturing the raw energy and precision engineering of the mechanical subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:51.298889",
+  "word_count": 134,
+  "error_message": null
+}

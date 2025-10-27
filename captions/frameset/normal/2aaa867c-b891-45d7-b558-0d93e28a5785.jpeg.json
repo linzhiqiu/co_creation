@@ -1,0 +1,12 @@
+{
+  "image_filename": "2aaa867c-b891-45d7-b558-0d93e28a5785.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a warmly lit, contemporary interior scene featuring a friendly, humanoid service robot as the central subject. The robot stands in the foreground, facing the viewer, with a sleek white and black body, articulated arms, and a rectangular head. Its \"face\" is a digital screen displaying a pixelated red and black pattern, suggesting expressive digital features. The robot's design is modern and approachable, with visible branding on its body. In the softly blurred background, include a wooden table with a minimalist lamp emitting a gentle, golden glow, and hints of green foliage outside a window, adding a touch of natural light and color. The overall color palette is warm and neutral, with soft beiges, light woods, and subtle green accents. The composition uses a shallow depth of field, keeping the robot in sharp focus while the background elements are tastefully out of focus, creating a cinematic, inviting atmosphere. The camera angle is at eye level, enhancing the sense of interaction and approachability. The mood is calm, optimistic, and subtly futuristic, blending advanced technology with the comfort of a modern home environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:30.572768",
+  "word_count": 182,
+  "error_message": null
+}

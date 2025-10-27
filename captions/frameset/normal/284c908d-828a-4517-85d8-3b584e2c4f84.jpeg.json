@@ -1,0 +1,12 @@
+{
+  "image_filename": "284c908d-828a-4517-85d8-3b584e2c4f84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic black-and-white portrait of a woman with light hair styled in straight bangs, standing in a dimly lit, industrial setting. She gazes directly at the camera with a serious, slightly parted-lip expression, conveying a sense of vulnerability and intensity. The woman wears a sleeveless top, and two metallic objects are positioned against her chest, catching the light and adding a subtle reflective element. The background features out-of-focus vertical bars and brickwork, enhancing the gritty, urban atmosphere. Use soft, diffused lighting to highlight the contours of her face and shoulders, creating gentle shadows and a moody, dramatic ambiance. The composition is intimate, with a shallow depth of field that keeps the focus on her face and upper body, while the background remains blurred, emphasizing her emotional presence within the frame.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:30.168879",
+  "word_count": 131,
+  "error_message": null
+}

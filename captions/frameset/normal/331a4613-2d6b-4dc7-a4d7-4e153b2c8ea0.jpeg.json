@@ -1,0 +1,12 @@
+{
+  "image_filename": "331a4613-2d6b-4dc7-a4d7-4e153b2c8ea0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a vintage slide carousel, focusing on the curved array of white plastic slide holders arranged in a circular pattern. The image is composed with a shallow depth of field, creating a soft, blurred background that emphasizes the sharp, tactile details of the carousel’s ridged edges and the subtle numbering along its rim. The lighting is moody and low-key, casting gentle highlights and deep shadows that accentuate the texture and form of the plastic and metal components. The color palette is muted and cool, dominated by shades of black, gray, and off-white, with a slight teal tint that adds a nostalgic, filmic quality. The overall style is reminiscent of a contemplative, atmospheric scene from a modern drama or a documentary, inviting the viewer to focus on the object’s craftsmanship and the quiet sense of anticipation it evokes. The camera angle is intimate and slightly oblique, drawing attention to the repetitive geometry and the tactile allure of analog technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:29.374939",
+  "word_count": 162,
+  "error_message": null
+}

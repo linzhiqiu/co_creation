@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f328d97-3c25-4991-9e2f-8c2fd1fdd611.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a chimpanzee lying on a bed, partially covered with an orange towel, its head resting on a white pillow. The chimpanzee’s arm is stretched out, with its hand gently resting on the keyboard of an open laptop placed on a wooden bedside table. In the foreground, a crumpled juice box adds a touch of casual realism. The lighting is soft and natural, streaming in from an unseen window, creating a calm, intimate atmosphere. The color palette is warm and muted, with earthy tones from the chimpanzee’s fur, the orange towel, and the wooden table, contrasted by the crisp white of the pillow and the subtle metallic sheen of the laptop. The composition uses a shallow depth of field, focusing on the chimpanzee’s hand and the laptop, while the background remains softly blurred, enhancing the sense of quiet, contemplative solitude. The overall style is reminiscent of a slice-of-life film still, blending gentle humor with a touch of melancholy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:54.771775",
+  "word_count": 162,
+  "error_message": null
+}

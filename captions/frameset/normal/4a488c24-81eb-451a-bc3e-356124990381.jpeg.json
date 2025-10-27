@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a488c24-81eb-451a-bc3e-356124990381.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A softly lit, nostalgic classroom scene set in what appears to be a mid-20th-century or rural school. The composition centers on a young boy with curly hair, seated at a worn wooden desk in the foreground, intently writing in a notebook with a pencil. His expression is focused and contemplative, illuminated by gentle, diffused sunlight streaming through a window to the left, casting warm, golden tones and subtle shadows across the room. In the background, several other children, similarly dressed in simple, earth-toned clothing, are also engaged in their work, their faces partially obscured by the shallow depth of field. The classroom is sparsely decorated, with faded educational posters on the walls and a sense of age and history in the scratched, well-used desks. The overall color palette is muted and sepia-toned, evoking a sense of memory and timelessness. The camera angle is slightly low and intimate, drawing the viewer into the boy’s world, while the soft focus and natural lighting create a cinematic, almost painterly atmosphere reminiscent of classic coming-of-age films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:38.918744",
+  "word_count": 172,
+  "error_message": null
+}

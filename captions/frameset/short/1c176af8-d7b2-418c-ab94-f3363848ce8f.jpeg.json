@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c176af8-d7b2-418c-ab94-f3363848ce8f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up of a futuristic car dashboard display, featuring a high-resolution screen showing a 3D vehicle graphic on a sandy terrain, energy flow indicators, and digital climate controls. Soft ambient lighting, sleek modern design, and a secondary navigation screen with a compass and map, all rendered in cool blue and neutral tones.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:07.473237",
+  "word_count": 51,
+  "error_message": null
+}

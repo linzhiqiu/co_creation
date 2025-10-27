@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a2c0f38-68dc-49f7-9745-5c23ba5a03cf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure walks across vast, undulating sand dunes under a muted, overcast sky. The person is dressed in dark, simple clothing that contrasts starkly with the soft, warm tones of the desert landscape. The dunes stretch endlessly into the distance, their smooth curves and gentle slopes creating a sense of isolation and scale. The color palette is dominated by sandy beiges, muted browns, and subtle grays, with the lighting diffused and subdued, casting minimal shadows and lending a dreamlike, almost cinematic quality to the scene. The composition is wide and expansive, with the lone figure positioned off-center, emphasizing the immensity and emptiness of the environment. The camera angle is slightly elevated, offering a sweeping view of the rolling dunes and enhancing the sense of depth and solitude. The overall mood is contemplative and atmospheric, evoking themes of journey, introspection, and the sublime beauty of desolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:35.799668",
+  "word_count": 146,
+  "error_message": null
+}

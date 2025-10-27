@@ -1,0 +1,12 @@
+{
+  "image_filename": "150f2e24-612f-4b31-a27d-bcf82f4fd73a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of Niagara Falls on a dramatic, partly cloudy day. The composition captures the powerful, cascading waterfalls dominating the left and center of the frame, with mist rising from the base and drifting across the turquoise-blue river. The water churns with white foam, creating dynamic movement and texture. In the foreground, a cluster of buildings, docks, and boats—some with red-roofed structures—nestle among lush green trees, bustling with groups of tourists. The right side of the image features a small plaza with tents and people, adding a sense of scale and activity. The background is a dense, verdant forest stretching to the horizon, while the sky above is filled with dramatic, dark clouds interspersed with patches of sunlight, casting a moody yet vibrant light over the scene. The overall style is vivid and realistic, with high contrast and sharp detail, evoking the grandeur and energy of a famous natural landmark seen from a cinematic, high-angle perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:36.993651",
+  "word_count": 158,
+  "error_message": null
+}

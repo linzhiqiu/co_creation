@@ -1,0 +1,12 @@
+{
+  "image_filename": "38e5499e-4837-48ca-8e34-b38fe73a94b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a striking architectural scene viewed from the ground, looking directly upward through a rectangular courtyard framed by tall, historic stone walls. The perspective is perfectly centered, emphasizing the symmetry of the surrounding building, with rows of arched windows and intricate brickwork forming a border around the open sky. One prominent medieval tower rises dramatically into the frame from the left side, its stone facade detailed and weathered, adding a sense of grandeur and history. The sky above is bright and expansive, filled with soft, scattered clouds that contrast beautifully with the warm, earthy tones of the architecture. The lighting is natural daylight, casting gentle shadows and highlighting the textures of the stone. The overall style is cinematic and immersive, with a deep sense of depth and scale, evoking the awe of standing in a centuries-old Italian courtyard and gazing up at the sky.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:38.629894",
+  "word_count": 145,
+  "error_message": null
+}

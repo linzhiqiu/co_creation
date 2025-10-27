@@ -1,0 +1,12 @@
+{
+  "image_filename": "379474c8-4a64-4e8e-9a9a-a0e280454790.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder view of a person working at a desk, focused on an open laptop displaying detailed spreadsheet software. The screen shows two main sections: the top half features a table titled \"Today's Doggie Appointments\" with rows of text and a highlighted cell, while the bottom half displays a monthly summary with bar graphs and a colorful pie chart. The person's hands, dressed in a light blue shirt, are actively typing or pointing at the keyboard, suggesting engagement and concentration. The desk is organized, with a telephone, a stapler, and a stack of papers visible in the periphery, all rendered in soft focus to keep attention on the laptop screen. The color palette is muted and professional, dominated by grays, blacks, and subtle blues, with the bright colors of the charts providing visual contrast. The lighting is even and natural, evoking a calm, productive office environment. The composition uses a shallow depth of field to emphasize the hands and the laptop, creating an intimate, documentary-style perspective that immerses the viewer in the daily routine of office work.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:10.037137",
+  "word_count": 178,
+  "error_message": null
+}

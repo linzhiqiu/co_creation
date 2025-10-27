@@ -1,0 +1,12 @@
+{
+  "image_filename": "216f6c71-48b7-4eee-9434-456c09870cc5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide shot of a sunlit sports field with scattered players in athletic attire, mid-action, under a soft blue sky with wispy clouds. The foreground features a white metal fence and a dark walkway, while distant trees and subtle buildings frame the serene, open landscape. Natural lighting, gentle focus, tranquil mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:04.204315",
+  "word_count": 51,
+  "error_message": null
+}

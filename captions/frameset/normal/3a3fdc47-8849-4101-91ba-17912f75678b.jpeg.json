@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a3fdc47-8849-4101-91ba-17912f75678b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, softly lit office scene featuring a young man with dark hair, dressed in a dark blazer and white shirt, seated at a cluttered desk. He is focused intently on writing or drawing on a notepad, his posture slightly hunched in concentration. The workspace is filled with academic books, papers pinned haphazardly to the wall, and a large desktop computer in the background, suggesting a scholarly or creative environment. Prominently in the foreground, a large smartphone stands upright, displaying an incoming call from a woman named Christine, her portrait photo visible on the screen. The color palette is muted and natural, with warm beige and brown tones dominating the scene, contrasted by the cool glow of the computer monitor and the phone screen. The composition uses a shallow depth of field, keeping the man and the phone in sharp focus while the background is softly blurred, creating an intimate, cinematic atmosphere. The camera angle is slightly off-center, capturing both the subject’s profile and the digital intrusion of the phone call, emphasizing a sense of modern distraction and personal isolation within a busy intellectual setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:12.965148",
+  "word_count": 185,
+  "error_message": null
+}

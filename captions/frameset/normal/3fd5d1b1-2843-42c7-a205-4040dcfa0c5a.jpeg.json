@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fd5d1b1-2843-42c7-a205-4040dcfa0c5a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot from the driver’s perspective inside a modern electric vehicle, focusing on the sleek, high-resolution dashboard display. The screen shows a detailed bird’s-eye view and side camera feed of the car as it maneuvers into a parking space, with crisp yellow guide lines and realistic shadows. The steering wheel, partially visible on the left, is contemporary and minimalistic, hinting at luxury. The background outside the windshield is softly blurred with lush green foliage, suggesting a calm, tree-lined street on a bright day. The color palette is cool and sophisticated, dominated by blacks, silvers, and subtle blue accents on the interface, with natural daylight streaming in to create gentle reflections and a sense of clarity. The overall style is clean, modern, and slightly futuristic, with a shallow depth of field that keeps the focus on the digital display and the act of precision parking.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:05.677789",
+  "word_count": 146,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bdf1709-927d-4c94-a8b4-e337badaaeea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, dreamlike scene featuring a large, pale blue maze occupying the foreground and midground. Within the maze, several women are positioned in different sections: one sits atop a wall in the center, wearing a white sleeveless top and vivid red tights, her short dark hair and upright posture giving her a sense of alertness and contemplation. Other women, each with distinct clothing—one in a deep burgundy hooded garment, another in a dark bob haircut and minimalist outfit—are scattered throughout the maze, each isolated in their own compartment, gazing in various directions.\n\nAbove the maze, dominating the upper portion of the composition, is an enormous, softly lit face of a young woman, her eyes cast downward as if observing the maze and its inhabitants with a gentle, introspective curiosity. The background is a gradient sky in pastel hues, lending an ethereal, otherworldly atmosphere.\n\nFloating in the sky are abstract geometric shapes: a green cylindrical lampshade and a pink, cone-like object, adding to the surreal quality. The color palette is muted and pastel, with soft blues, pinks, and reds, creating a harmonious yet slightly uncanny mood. The lighting is diffuse and even, with no harsh shadows, enhancing the dreamlike, painterly effect. The overall style is reminiscent of a cinematic tableau, with a shallow depth of field that keeps the focus on the maze and its figures, while the giant face and floating objects evoke a sense of scale and psychological depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:11.673716",
+  "word_count": 241,
+  "error_message": null
+}

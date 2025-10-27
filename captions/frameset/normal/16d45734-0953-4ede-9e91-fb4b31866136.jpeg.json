@@ -1,0 +1,12 @@
+{
+  "image_filename": "16d45734-0953-4ede-9e91-fb4b31866136.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking, high-resolution view of Earth from space, captured from a low orbit perspective. The curvature of the planet is clearly visible, with the upper edge fading into the deep blackness of space. The surface below is dominated by rugged mountain ranges, partially covered in snow, interspersed with swirling, textured cloud formations. The color palette features cool blues and whites, with subtle hints of brown and green peeking through the clouds and snow. The lighting is natural and crisp, with sunlight illuminating the landscape and casting soft shadows that accentuate the topography. The overall style is hyper-realistic and cinematic, evoking the awe-inspiring grandeur of our planet as seen from above. The composition emphasizes the vastness and fragility of Earth, with a sweeping, wide-angle view that captures both the intricate details of the terrain and the serene expanse of the atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:16.122117",
+  "word_count": 140,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "206056aa-5d58-4bdd-85ab-7656d3097e6e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary white car travels along a winding, narrow road that cuts through a dense, dark green forest. The scene is captured from a high, top-down aerial perspective, emphasizing the sinuous curve of the road as it snakes through the thick canopy of trees. The forest appears lush and shadowy, with the foliage forming a textured, almost abstract pattern around the road. The lighting is soft and diffused, suggesting either an overcast day or the gentle light of early morning or late afternoon, casting minimal shadows and enhancing the moody, contemplative atmosphere. The color palette is dominated by deep greens and muted earth tones, with the stark white of the car providing a striking contrast and focal point. The overall style is cinematic and minimalist, with a strong sense of isolation and tranquility, evoking themes of journey and solitude. The composition is carefully balanced, with the road forming a graceful curve across the frame, and the car positioned off-center to draw the viewer’s eye along the path.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:45.689023",
+  "word_count": 167,
+  "error_message": null
+}

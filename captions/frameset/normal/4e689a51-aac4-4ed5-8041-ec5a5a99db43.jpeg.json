@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e689a51-aac4-4ed5-8041-ec5a5a99db43.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A university lecture hall scene, viewed from an elevated, rear angle that captures both the audience and the lecturer. The room is dimly lit with soft, naturalistic lighting, creating a subdued, academic atmosphere. The lecturer, a man in a beige sweater and dark trousers, stands at the front near a large set of blackboards filled with complex mathematical equations and diagrams written in chalk. He gestures animatedly with a long wooden pointer, emphasizing a particular section of the board. The students, seated in tiered rows of dark chairs, are mostly in shadow, their faces partially illuminated by the ambient light reflecting off the boards. The color palette is muted, dominated by earthy browns, deep blacks, and soft grays, with subtle highlights from the chalk and the lecturer’s sweater. The composition uses a wide lens to emphasize the depth of the room, with a shallow depth of field that keeps the focus on the lecturer and the blackboards, while the students in the foreground are slightly blurred, enhancing the sense of immersion and academic intensity. The overall style is reminiscent of a dramatic, realistic film, evoking a contemplative, intellectual mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:16.029665",
+  "word_count": 189,
+  "error_message": null
+}

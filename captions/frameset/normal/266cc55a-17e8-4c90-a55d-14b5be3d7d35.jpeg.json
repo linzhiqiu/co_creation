@@ -1,0 +1,12 @@
+{
+  "image_filename": "266cc55a-17e8-4c90-a55d-14b5be3d7d35.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary, vintage sedan sits abandoned in a desolate, snow-covered landscape at night. The car is partially buried under a thick layer of undisturbed snow, its dark silhouette barely discernible against the cold, blue-tinged environment. Jagged rocks and sparse, leafless trees surround the vehicle, their forms softened by the heavy snowfall. The scene is illuminated by faint, natural moonlight, casting deep shadows and creating a somber, mysterious atmosphere. The color palette is dominated by deep blues and muted whites, evoking a sense of isolation and cold. The camera angle is high and slightly off-center, looking down at the car from above, emphasizing its vulnerability and the vast emptiness of the wintry wilderness. The overall style is cinematic and moody, with a strong emphasis on atmosphere, stillness, and the quiet tension of an abandoned place lost in the night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:54.106913",
+  "word_count": 138,
+  "error_message": null
+}

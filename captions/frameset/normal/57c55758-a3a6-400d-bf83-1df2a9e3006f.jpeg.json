@@ -1,0 +1,12 @@
+{
+  "image_filename": "57c55758-a3a6-400d-bf83-1df2a9e3006f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A meticulously composed overhead shot of a person standing at the head of a large, bright blue table, their torso and hands visible but face out of frame, creating a sense of anonymity and intrigue. The subject wears a deep burgundy zip-up jacket, contrasting sharply with the vivid blue surroundings. On the table, four neat columns of identical yellow envelopes are arranged with geometric precision, their bold color popping against the blue surface. The background features matching blue cabinets and drawers, with a few subtle details like a vintage rotary phone and a potted fern adding character without distracting from the main composition. The lighting is soft and diffused, casting gentle shadows and enhancing the saturated, almost surreal color palette. The overall style is cinematic and slightly retro, with a strong sense of order and symmetry, evoking themes of mystery, organization, or anticipation. The camera angle is directly overhead, emphasizing the graphic quality and structure of the scene, while the shallow depth of field keeps the focus on the table and envelopes, subtly blurring the background for a painterly effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:59.281531",
+  "word_count": 180,
+  "error_message": null
+}

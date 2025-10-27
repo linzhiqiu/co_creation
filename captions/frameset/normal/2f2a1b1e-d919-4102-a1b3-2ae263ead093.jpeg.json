@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f2a1b1e-d919-4102-a1b3-2ae263ead093.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a silver tablet device resting on a soft, striped fabric surface, possibly a bed or couch. The focus is on the upper edge and back of the tablet, with its camera and subtle design details clearly visible, while the rest of the scene is rendered in a gentle blur. In the background, indistinct shapes and muted colors suggest the presence of a person in casual, blue-toned clothing, but their features and actions are left intentionally out of focus, creating a sense of intimacy and quiet domesticity. The color palette is soft and cool, dominated by silvers, blues, and greys, with natural, diffused daylight filtering in to create a calm, serene atmosphere. The composition is minimalist and cinematic, with the camera positioned at a low angle, emphasizing the tactile quality of the device and the inviting softness of the environment. The overall mood is tranquil and contemplative, evoking a moment of quiet technology use in a cozy, lived-in space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:04.077004",
+  "word_count": 164,
+  "error_message": null
+}

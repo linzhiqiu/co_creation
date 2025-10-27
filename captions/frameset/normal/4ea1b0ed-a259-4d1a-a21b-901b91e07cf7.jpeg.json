@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ea1b0ed-a259-4d1a-a21b-901b91e07cf7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, low-angle shot of a basketball hoop in an indoor gymnasium, capturing the precise moment a basketball passes cleanly through the net. The focus is on the rim and net, with the ball partially visible as it descends, creating a sense of motion and anticipation. The background features the wooden ceiling and muted lighting typical of a classic gym, with soft, diffused light casting gentle shadows and highlighting the texture of the net and the worn metal rim. The color palette is subdued, dominated by earthy browns, grays, and off-whites, evoking a nostalgic, cinematic atmosphere. The composition emphasizes the circular geometry of the hoop and the dynamic energy of the ball’s movement, with a shallow depth of field that blurs the background and draws the viewer’s eye to the action at the rim. The overall style is realistic and evocative, reminiscent of a sports documentary or a dramatic sports film, capturing the tension and beauty of a pivotal moment in the game.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:18.702608",
+  "word_count": 163,
+  "error_message": null
+}

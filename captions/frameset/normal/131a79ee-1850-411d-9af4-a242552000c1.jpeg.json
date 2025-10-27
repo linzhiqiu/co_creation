@@ -1,0 +1,12 @@
+{
+  "image_filename": "131a79ee-1850-411d-9af4-a242552000c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph of a hand writing on a whiteboard with a marker. The focus is on the handwritten names and numbers on the board, specifically the entries for numbers 18, 19, and 20, with the names \"Abt Salome\" and \"Tiwari Mansi\" clearly visible, the latter marked with a checkmark. The hand, slightly blurred in the foreground, is in the act of writing or drawing, adding a sense of motion and immediacy. The composition uses a shallow depth of field, keeping the text sharp while the hand and marker are softly out of focus, creating a dynamic sense of depth. The lighting is soft and even, with no harsh shadows, emphasizing the clean, clinical environment. The monochrome palette enhances the documentary, candid feel, evoking a sense of focus and quiet concentration. The camera angle is slightly off-center, capturing the action from the writer’s perspective, immersing the viewer in the moment of documentation or record-keeping.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:50.844694",
+  "word_count": 155,
+  "error_message": null
+}

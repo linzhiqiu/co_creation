@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f6fdb5a-0975-4228-a78d-dc4a4471d916.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, wide-angle scene of a solitary dancer performing gracefully on a vast, barren salt flat at dusk. The subject is a woman with long braids, captured in mid-motion with one leg extended and arms elegantly poised, her silhouette sharply defined against the glowing horizon. She wears a form-fitting, shimmering bodysuit that subtly catches the ambient light, adding a sense of ethereal movement. The background features a dramatic gradient sky, transitioning from deep indigo at the top to a fiery orange-red near the horizon, with distant mountains barely visible in the fading light. The ground is illuminated by a soft, low light, creating a stark contrast between the dancer’s dark figure and the pale, expansive surface. The overall mood is mysterious and evocative, with high contrast lighting, deep shadows, and a sense of isolation and artistry. The composition emphasizes negative space, with the dancer positioned slightly off-center, and a shallow depth of field that keeps the focus on her dynamic pose while the background remains softly blurred.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:09.850258",
+  "word_count": 168,
+  "error_message": null
+}

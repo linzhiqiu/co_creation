@@ -1,0 +1,12 @@
+{
+  "image_filename": "224360fd-0c8d-46ff-99bb-a0adb422163c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with fair skin and dark brown hair featuring vibrant red highlights sits indoors, partially obscured by the edge of a large black laptop in the foreground. She wears a subtle, contented smile, her expression focused yet relaxed, as if engaged in a pleasant online conversation or creative work. The background is softly out of focus, filled with lush green plants cascading down white vertical railings, creating a fresh, natural ambiance. The lighting is soft and diffuse, suggesting daylight streaming in from nearby windows, casting gentle, even illumination across her face and the surrounding foliage. The camera angle is slightly low and close, with a shallow depth of field that keeps the woman’s face sharp while blurring the laptop and background, lending an intimate, candid feel to the composition. The overall color palette is natural and calming, dominated by greens, whites, and the warm tones of her hair, evoking a modern, cozy, and creative workspace atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:25.065742",
+  "word_count": 158,
+  "error_message": null
+}

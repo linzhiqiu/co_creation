@@ -1,0 +1,12 @@
+{
+  "image_filename": "23c1b130-983f-4064-9a83-550fed092dfa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a rugged, slightly dirty hand gripping a metallic ratchet wrench, poised to tighten or loosen a bolt on a piece of industrial machinery. The hand is strong and weathered, with visible dirt under the fingernails, suggesting manual labor and experience. The wrench is shiny and well-used, catching the soft, diffused light that highlights the textures of both the tool and the hand. The background is blurred, composed of metallic pipes and mechanical components, rendered in cool, muted tones of steel gray and silver, creating a shallow depth of field that draws focus to the hand and tool. The lighting is naturalistic and moody, with gentle shadows and a subtle, cinematic contrast that emphasizes the tactile realism of the scene. The overall style is reminiscent of a documentary or industrial film, with a focus on authenticity, craftsmanship, and the intimate details of manual work.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:59.392164",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fba3400-df90-4c34-ba1d-f7ed19831373.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit gymnasium with five figures standing in a row, each holding a large black rectangular object obscuring their faces. They wear minimal, form-fitting white clothing, illuminated by a single overhead spotlight, casting deep shadows. The background features a stark brick wall and wooden gym bars, evoking a surreal, enigmatic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:00.280144",
+  "word_count": 52,
+  "error_message": null
+}

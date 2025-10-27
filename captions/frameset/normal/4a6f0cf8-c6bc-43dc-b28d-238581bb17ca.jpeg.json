@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a6f0cf8-c6bc-43dc-b28d-238581bb17ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, modern corridor rendered in near-total darkness, with smooth, matte black walls and floor creating a sense of depth and mystery. The only illumination comes from a sharp, linear strip of white light running along the upper edge of the right wall and ceiling, casting a soft, diffused glow that accentuates the geometric lines and stark architecture. At the end of the corridor, a narrow vertical slit of warm light breaks through, suggesting an unseen doorway or opening beyond. The composition is cinematic and moody, with high contrast between the deep shadows and the crisp highlights, evoking a sense of anticipation and intrigue. The camera angle is slightly off-center, drawing the viewer’s eye toward the distant light source, while the overall style is reminiscent of contemporary architectural photography, emphasizing negative space and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:42.764627",
+  "word_count": 139,
+  "error_message": null
+}

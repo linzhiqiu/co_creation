@@ -1,0 +1,12 @@
+{
+  "image_filename": "5cea33bc-49b3-4389-91dc-e44a69f35335.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, shallow depth-of-field scene set on a city street in soft, overcast daylight. In the foreground, an older woman with long gray hair, tied back, stands beside a dark, reflective car, her hand on the door handle as if about to open it. She wears a light beige trench coat over a dark turtleneck, her expression calm and contemplative, gazing slightly downward. The car’s surface mirrors the muted urban environment, adding subtle visual interest. In the softly blurred background, a man in a dark suit holds a clipboard, his posture suggesting he is observing or waiting, but his features are indistinct due to the focus. The background buildings are rendered in warm, neutral tones, contributing to the subdued, realistic color palette dominated by grays, beiges, and soft browns. The composition uses a medium shot with a slight side angle, emphasizing the woman’s interaction with the car while maintaining a sense of narrative ambiguity. The overall mood is introspective and quietly dramatic, reminiscent of a modern European drama film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:01.018883",
+  "word_count": 169,
+  "error_message": null
+}

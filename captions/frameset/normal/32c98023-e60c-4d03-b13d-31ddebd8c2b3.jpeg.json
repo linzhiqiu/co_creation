@@ -1,0 +1,12 @@
+{
+  "image_filename": "32c98023-e60c-4d03-b13d-31ddebd8c2b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed macro photograph capturing a dense cluster of crystalline structures, resembling delicate ice or frost formations. The image is dominated by cool blue tones, creating a serene and ethereal atmosphere. The crystals are sharply defined in the foreground, with their jagged, needle-like shapes pointing in various directions, while the background gradually fades into a soft, dark gradient, enhancing the sense of depth. The lighting is diffuse and gentle, casting subtle highlights and shadows that accentuate the intricate textures and translucency of the crystals. The overall composition is abstract and immersive, inviting the viewer to explore the minute details and organic patterns. The style is reminiscent of scientific photography or fine art macro imagery, with a shallow depth of field that draws attention to the sharpness and complexity of the crystalline forms, evoking a sense of wonder and quiet beauty.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:23.243734",
+  "word_count": 141,
+  "error_message": null
+}

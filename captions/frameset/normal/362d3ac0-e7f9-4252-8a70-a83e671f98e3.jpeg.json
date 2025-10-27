@@ -1,0 +1,12 @@
+{
+  "image_filename": "362d3ac0-e7f9-4252-8a70-a83e671f98e3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic urban street scene captured from a slightly tilted, cinematic perspective, as if shot handheld or with a Steadicam. The foreground is dominated by the open door of a rugged, dark-colored SUV, with a person’s arm in a light blue sleeve casually resting on the door, suggesting a relaxed, spontaneous moment. The vehicle is parked or moving slowly along a city street lined with red-brick apartment buildings, their facades catching the cool daylight. Bare tree branches frame the upper left, hinting at late winter or early spring. The background features a few parked and moving cars, soft-focused to create a shallow depth of field that draws attention to the vehicle and the gesture of the arm. The color palette is muted and natural, with earthy reds, browns, and grays, contrasted by the pale blue of the sleeve and the soft, diffused sunlight. The overall mood is candid and slightly gritty, evoking the feel of an indie film or street photography, with a sense of movement and urban authenticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:36.510743",
+  "word_count": 169,
+  "error_message": null
+}

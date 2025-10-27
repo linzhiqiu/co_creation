@@ -1,0 +1,12 @@
+{
+  "image_filename": "6348781c-8cd6-47a5-a43d-3d0bfea72fc0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern electric SUV, finished in a deep metallic black, speeds along an empty, sunlit urban highway. The car is viewed from a high, three-quarter rear angle, emphasizing its aerodynamic lines and glossy surface, which reflects the soft daylight and the faint outlines of nearby buildings. The vehicle’s taillights form a continuous red strip across the rear, adding a futuristic touch. The road is wide and clean, with crisp white lane markings and a concrete barrier on the left, while a row of blurred green trees and glassy high-rises create a sense of motion and urban sophistication in the background. The lighting is natural and diffused, casting gentle highlights and subtle shadows that accentuate the car’s contours. The overall color palette is cool and understated, dominated by blacks, greys, and muted greens, evoking a calm, high-tech, and aspirational mood. The composition is cinematic, with a shallow depth of field that keeps the car in sharp focus while the background blurs slightly, enhancing the sense of speed and dynamic movement.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:35.531293",
+  "word_count": 170,
+  "error_message": null
+}

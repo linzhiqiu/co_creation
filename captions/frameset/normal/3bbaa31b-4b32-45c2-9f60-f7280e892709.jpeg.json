@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bbaa31b-4b32-45c2-9f60-f7280e892709.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-angle, almost aerial view of a narrow city street dramatically bisecting two contrasting buildings in late afternoon light. On the left, a flat-roofed, utilitarian structure in muted gray and white tones sits in deep shadow, its rooftop details barely visible. On the right, a grand, ornate building with classical architectural elements—arched windows, decorative cornices, and intricate stonework—basks in warm, golden sunlight, its facade glowing with creamy beige and soft ochre hues. The street between them is a canyon of darkness, with a line of parked cars catching slivers of sunlight, creating a striking contrast between light and shadow. The composition emphasizes the sharp division between the illuminated and shaded sides, evoking a sense of urban geometry and cinematic tension. The overall style is reminiscent of 1970s film photography, with naturalistic lighting, high contrast, and a slightly grainy texture, capturing the mood of a quiet, sun-drenched city afternoon.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:45.988014",
+  "word_count": 148,
+  "error_message": null
+}

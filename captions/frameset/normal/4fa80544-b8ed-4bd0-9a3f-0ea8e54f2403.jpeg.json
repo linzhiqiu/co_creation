@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fa80544-b8ed-4bd0-9a3f-0ea8e54f2403.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man lies sprawled across a large bed, viewed from a perfectly centered overhead perspective. He wears a light gray t-shirt and dark pants, his arms stretched wide in a relaxed, almost starfish-like pose. The bedding is a mix of soft, muted yellows and beiges, with a loosely draped yellow comforter partially covering his legs and a teal blanket adding a pop of color at the foot of the bed. The pillows are arranged haphazardly, enhancing the sense of casual comfort.\n\nThe room is cozy and thoughtfully decorated, with a woven headboard and patterned black-and-white rug beneath the bed. On either side, wooden nightstands hold personal items: a lamp, a book, a clock, and a pair of glasses, suggesting a lived-in, intimate space. The lighting is gentle and natural, streaming in from a window on the right, filtered through sheer white curtains and casting a soft, diffused glow across the scene. Warm, earthy tones dominate the color palette, punctuated by the teal and red accents of the blankets and curtains.\n\nThe overall style is cinematic and intimate, with a shallow depth of field that keeps the focus on the subject and the immediate surroundings, while the overhead camera angle creates a sense of detachment and quiet observation. The composition is balanced and harmonious, evoking a mood of peaceful solitude and morning stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:49.165412",
+  "word_count": 223,
+  "error_message": null
+}

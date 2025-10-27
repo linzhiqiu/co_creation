@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f3129af-a30a-44c5-b7be-0769fe901be8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a dimly lit, vintage office filled with rows of small, brass-labeled drawers and old-fashioned machinery. The central subject is an androgynous humanoid figure with pale skin, dressed in a dark, formal suit and a high-collared, glossy red shirt. The most striking feature is the exposed upper part of the head, revealing a metallic, cybernetic structure with visible circuits, suggesting a blend of human and machine. The figure’s expression is focused and slightly intense, with parted lips as if speaking or about to speak. The lighting is cool and moody, casting soft blue and gray tones across the scene, with subtle highlights on the metallic elements and the subject’s face. The camera angle is at eye level, creating an intimate and direct connection with the viewer, while the background remains softly out of focus, emphasizing the subject and enhancing the sense of depth. The overall style is reminiscent of a neo-noir or retro-futuristic film, combining elements of classic analog technology with sleek, modern cybernetics.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:36.958170",
+  "word_count": 169,
+  "error_message": null
+}

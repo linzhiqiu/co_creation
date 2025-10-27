@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e476c67-6984-474e-bc23-29ef99323d86.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban subway station with three parallel escalators, filled with blurred, fast-moving commuters in dark coats. The scene is shot from above at a diagonal angle, capturing dynamic motion and energy. Cool metallic tones dominate, with soft, diffused lighting and a cinematic, slightly desaturated color palette.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:22.921745",
+  "word_count": 47,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "32a6ecdb-ed72-4ce8-b284-ad25744fd5c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic interior scene viewed through a fisheye or convex lens, creating a circular, slightly distorted frame. The main focus is a set of white French doors with glass panes, partially open to reveal a glimpse of an outdoor patio and a bare tree in the background, suggesting late autumn or early winter. Sheer white curtains hang softly, diffusing the cold, natural daylight that spills into the dimly lit room. The interior is mostly in shadow, with muted gray and blue tones dominating the color palette, enhancing the somber, introspective mood. The composition is off-center, with the doors and the outdoor view occupying the right side of the frame, while the left side fades into deep shadow, emphasizing negative space. The overall style is atmospheric and contemplative, with a subtle sense of isolation and quiet, reminiscent of an art-house film or a psychological thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:19.185515",
+  "word_count": 145,
+  "error_message": null
+}

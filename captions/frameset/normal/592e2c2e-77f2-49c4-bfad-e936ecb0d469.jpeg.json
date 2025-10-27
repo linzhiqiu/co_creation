@@ -1,0 +1,12 @@
+{
+  "image_filename": "592e2c2e-77f2-49c4-bfad-e936ecb0d469.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of an arrow nocked on a bow, captured in sharp focus as it points outward, ready to be released. The arrowhead is centered in the frame, its metallic surface catching soft, diffused natural light. The background is rendered in a creamy, shallow depth of field, with abstract, blurred shapes suggesting a forest or woodland setting—tall, dark tree trunks and muted foliage in subdued earth tones. The overall color palette is moody and desaturated, dominated by cool greys, deep browns, and hints of green, evoking a somber, tense atmosphere. The lighting is gentle and overcast, with no harsh shadows, enhancing the contemplative, almost suspenseful mood. The composition is minimalist, with the arrow and bowstring forming strong diagonal lines, and the camera angle is slightly off-center, lending a sense of anticipation and focus to the moment before action. The style is reminiscent of a dramatic, high-quality film still, emphasizing texture, tension, and the quiet intensity of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:35.413209",
+  "word_count": 160,
+  "error_message": null
+}

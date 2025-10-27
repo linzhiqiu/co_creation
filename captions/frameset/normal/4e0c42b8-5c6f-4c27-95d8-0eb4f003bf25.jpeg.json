@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e0c42b8-5c6f-4c27-95d8-0eb4f003bf25.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary, straight highway stretches endlessly through a vast, arid desert landscape, captured from a high, wide aerial perspective that emphasizes the road’s isolation and the expanse of the surrounding sand. The scene is dominated by warm, muted earth tones—sandy beiges and ochres of the desert, contrasted by the cool, slate blue-gray of the asphalt. A single dark-colored car travels along the empty road, its small size accentuating the scale and emptiness of the environment. To the right of the car, a lone camel stands on the roadside, adding a touch of life and regional character to the otherwise barren scene. Sparse utility poles and a distant wire fence run parallel to the road, receding into the horizon and enhancing the sense of depth and distance. The lighting is natural and even, suggesting midday under a pale, cloudless sky, with minimal shadows and a dry, almost desaturated atmosphere. The overall composition conveys a mood of solitude, vastness, and quiet, with a cinematic, contemplative quality reminiscent of road movies or desert epics.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:06.013658",
+  "word_count": 171,
+  "error_message": null
+}

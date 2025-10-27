@@ -1,0 +1,12 @@
+{
+  "image_filename": "32b5be90-af4b-4e2e-89ee-f25506aad741.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, cinematic office scene set in a brightly lit, color-saturated room. In the foreground, two middle-aged men are engaged in an intense conversation. The man on the left stands, leaning assertively over a cluttered desk, wearing a bold, orange and black patterned short-sleeve shirt with a tropical motif. His expression is serious and confrontational, his bald head catching the light. The man on the right sits in a red leather chair, dressed in a lavender button-down shirt, his posture relaxed but attentive, holding a newspaper. The desk between them is scattered with colorful office supplies—pens, papers, and folders—adding to the lively, almost chaotic atmosphere.\n\nBehind them, the background is divided by glass walls with horizontal blinds, casting dramatic striped shadows across the scene and the characters’ faces, enhancing the tension. Through the glass, a blurred figure can be seen in another room, adding depth and a sense of narrative intrigue. The walls are painted in bold primary colors—yellows, reds, and blues—contributing to the retro, almost comic-book aesthetic. The lighting is bright and even, with a warm tone that heightens the saturated color palette. The camera angle is at eye level, with a slight wide lens effect that emphasizes the space and the dynamic between the two men. The overall style is reminiscent of a stylized crime or comedy film, with meticulous attention to color, composition, and mood, evoking a sense of heightened reality and dramatic tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:25.523205",
+  "word_count": 237,
+  "error_message": null
+}

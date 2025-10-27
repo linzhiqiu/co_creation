@@ -1,0 +1,12 @@
+{
+  "image_filename": "559194b6-2a92-4def-85bf-d281a4611761.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic black-and-white portrait scene featuring three young men standing in front of a police lineup background with horizontal lines. The central figure is in sharp focus, positioned slightly forward, wearing a light-colored suit jacket over a dark shirt, with neatly styled medium-length hair and a serious, intense expression. Behind him, two other men are slightly out of focus, adding depth to the composition. The man on the left holds a mugshot placard with numbers and text, his long dark hair framing his face, while the man on the right has lighter, short hair and wears a dark shirt with a chain necklace. The lighting is dramatic and high-contrast, emphasizing facial features and creating a moody, noir atmosphere. The overall style is reminiscent of a stylish crime drama or music video, with a shallow depth of field that draws attention to the central figure and a balanced, symmetrical composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:01.092174",
+  "word_count": 150,
+  "error_message": null
+}

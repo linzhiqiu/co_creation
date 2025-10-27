@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e6198f7-bec5-4f4e-97ca-6c24747fce9f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic black and white photograph capturing two men in mid-stride as they run with intense focus. The man in the foreground has a full beard and tousled hair, his face set in determination, while the man slightly behind him has a shaved head and a lean profile. Both wear lightweight, dark athletic jackets that catch the light, emphasizing the texture of the fabric. The background is shadowy and industrial, with heavy beams and a sense of depth, but details are obscured by darkness, drawing attention to the runners. The lighting is stark and directional, casting sharp highlights and deep shadows, creating a high-contrast, cinematic atmosphere. The composition is tight, with the camera positioned at a low angle and close to the subjects, enhancing the sense of motion and urgency. The overall mood is gritty and intense, evoking themes of perseverance and competition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:32.326353",
+  "word_count": 143,
+  "error_message": null
+}

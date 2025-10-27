@@ -1,0 +1,12 @@
+{
+  "image_filename": "40a6672d-35db-420e-93cf-892639bb5a49.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet, somber graveyard scene set in early spring or late winter, with patches of melting snow revealing tufts of brownish-green grass beneath. Several simple white wooden crosses, each bearing small black nameplates, stand upright in the foreground and midground, casting soft shadows on the snow. One dark, rounded headstone with a cross motif is visible among the white markers, adding contrast and visual interest. The ground is uneven, with gentle slopes and sparse, dry vegetation poking through the snow. The lighting is natural and diffuse, suggesting an overcast sky or soft morning light, lending a muted, contemplative atmosphere to the scene. The color palette is subdued, dominated by whites, earthy greens, and browns, with the stark white of the crosses standing out against the landscape. The composition is slightly off-center, with a casual, documentary-style framing that captures the quiet isolation and reflective mood of the cemetery. The overall style is realistic, with a touch of melancholy, evoking themes of memory, passage of time, and the persistence of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:22.055419",
+  "word_count": 169,
+  "error_message": null
+}

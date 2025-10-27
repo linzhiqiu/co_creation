@@ -1,0 +1,12 @@
+{
+  "image_filename": "505fcf06-b367-4fca-888b-e6558aa3637d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-contrast black and white photograph of a single athletic woman with short hair, captured in mid-motion against a seamless, softly lit studio backdrop. She is dressed in a fitted sports bra and high-waisted leggings, her toned physique accentuated by the lighting. The subject is positioned in profile, leaning back with her arms extended forward and slightly upward, fingers splayed in an expressive gesture. Her facial expression is focused and serene, embodying strength and grace. The composition is clean and uncluttered, with ample negative space emphasizing the subject’s dynamic pose. The lighting is diffuse and even, casting gentle shadows that sculpt her form without harshness. The overall style is modern and cinematic, with a shallow depth of field that keeps the background smooth and unobtrusive, drawing all attention to the dancer’s movement and silhouette.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:05.037037",
+  "word_count": 136,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fc3346c-6b3d-410f-b2e7-ae0ced2b82ab.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, cinematic scene set inside a cozy, sunlit café. The composition is viewed through a window, creating a soft, reflective layer that merges the interior with hints of the leafy, sun-dappled outdoors. In the foreground, a young woman with long dark hair sits on a stool, dressed casually in a black-and-white striped t-shirt and dark jeans. She gazes thoughtfully at her phone, her expression pensive and absorbed, with natural light gently illuminating her face and casting subtle shadows. Opposite her, a man with short hair and visible tattoos, wearing a plain white t-shirt with \"GALLERY DEPT.\" printed on the back, sits with his back to the camera, partially out of focus, adding depth and intimacy to the scene.\n\nThe background features a classic espresso machine, stacks of pink and white cups, and glassware, all softly blurred to emphasize the subjects. The color palette is warm and muted, dominated by earthy browns, soft grays, and gentle sunlight filtering through the window, creating a tranquil, contemplative mood. The overall style is naturalistic and cinematic, with a shallow depth of field, a slight bokeh effect, and a sense of quiet everyday realism. The camera angle is at eye level, as if the viewer is an unseen observer outside the café, capturing a fleeting, introspective moment between two people in a familiar urban setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:10.748429",
+  "word_count": 221,
+  "error_message": null
+}

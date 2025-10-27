@@ -1,0 +1,12 @@
+{
+  "image_filename": "14fa0f68-e36e-4fba-8763-0934e81367e8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a MacBook Pro laptop screen displaying a virtual meeting interface, reminiscent of Google Meet or Zoom, with four participants. The screen shows four video tiles, each with a circular avatar: two with green backgrounds and initials (\"H\" and \"A\"), one with an orange background and Arabic script, and one grayscale avatar featuring a man in traditional Middle Eastern attire. The interface includes familiar video call controls along the bottom, such as microphone, camera, and hang-up buttons, as well as a project name labeled \"Project recap.\" The laptop's keyboard is softly illuminated in the foreground, with the screen's reflection casting a subtle glow on the keys. The background is softly blurred, hinting at a modern workspace with neutral tones and gentle daylight filtering in, creating a calm, professional atmosphere. The color palette is dominated by cool greens, muted grays, and soft ambient light, with a shallow depth of field focusing attention on the screen. The overall style is realistic and documentary, capturing the everyday experience of remote work in a contemporary setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:34.027680",
+  "word_count": 175,
+  "error_message": null
+}

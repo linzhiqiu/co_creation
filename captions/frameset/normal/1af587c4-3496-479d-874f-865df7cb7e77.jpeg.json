@@ -1,0 +1,12 @@
+{
+  "image_filename": "1af587c4-3496-479d-874f-865df7cb7e77.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in a modern, dimly lit room, delivering a presentation. He wears a fitted, short-sleeved, gray athletic shirt and patterned shorts, exuding a casual yet focused demeanor. His hands are mid-gesture, suggesting he is explaining or emphasizing a point, and his expression is serious and engaged. Behind him, a large digital screen dominates the background, displaying bold, colorful graphics: a circular timer with green and red segments, and several panels with large percentage numbers in red and white, evoking a high-tech, data-driven environment. The lighting is soft and slightly cool, with subtle lens flares and reflections adding a cinematic quality. The foreground is softly blurred, hinting at an audience or another figure, creating a sense of depth and immersion. The overall style is contemporary and dynamic, with a shallow depth of field and a focus on the speaker, reminiscent of a motivational or educational scene in a sports science or tech startup setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:47.206407",
+  "word_count": 156,
+  "error_message": null
+}

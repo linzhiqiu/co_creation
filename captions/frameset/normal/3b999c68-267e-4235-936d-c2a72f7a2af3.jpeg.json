@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b999c68-267e-4235-936d-c2a72f7a2af3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person working at a modern desk, focused on a sleek laptop displaying a clean, user-friendly web interface. The screen shows a step-by-step form with green and blue progress bars, rounded buttons, and clear, sans-serif text, suggesting a professional or business context. The person is dressed in a crisp white shirt, with only their shoulder and part of their head visible, slightly out of focus to emphasize the laptop screen. The background is softly blurred, featuring bright, natural daylight streaming through large windows, creating a calm, airy atmosphere. The color palette is dominated by whites, soft grays, and the gentle glow of the laptop screen, with pops of green and blue from the interface. The overall style is minimalistic and contemporary, with a shallow depth of field and a gentle, diffused lighting that enhances the sense of focus and productivity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:41.714951",
+  "word_count": 145,
+  "error_message": null
+}

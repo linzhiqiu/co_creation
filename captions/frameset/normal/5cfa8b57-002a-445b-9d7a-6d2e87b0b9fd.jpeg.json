@@ -1,0 +1,12 @@
+{
+  "image_filename": "5cfa8b57-002a-445b-9d7a-6d2e87b0b9fd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a paintbrush pressing into a glossy pool of thick, swirling paint on a flat surface. The brush bristles are saturated with vibrant red and teal hues, blending together in rich, marbled patterns. The background is softly blurred with a warm, creamy bokeh, drawing all focus to the tactile interaction between brush and paint. The lighting is soft and diffused, creating gentle highlights on the wet paint and subtle shadows beneath the brush, enhancing the sense of depth and texture. The overall color palette is dominated by deep reds, cool teals, and neutral tones, with a slightly desaturated, filmic quality. The composition is intimate and immersive, shot from a low angle at the level of the surface, evoking a sense of creative anticipation and the tactile pleasure of painting. The mood is contemplative and artistic, with a shallow depth of field that isolates the subject and emphasizes the physicality of the paint.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:02.123657",
+  "word_count": 156,
+  "error_message": null
+}

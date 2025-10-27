@@ -1,0 +1,12 @@
+{
+  "image_filename": "36b3083d-ae3b-4ed8-bdb7-bd5a0cc7538c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of intricate mechanical components inside a machine, focusing on a set of large, metallic bolts, rods, and gears. The image is dominated by cool blue and steel-gray tones, creating a cold, industrial atmosphere. The lighting is low and moody, with sharp highlights reflecting off the polished metal surfaces, emphasizing their texture and precision. The background is dark and out of focus, drawing attention to the crisp details of the machinery in the foreground. The composition uses a shallow depth of field, blurring the edges and background elements to create a sense of depth and intimacy with the mechanical subject. The overall style is reminiscent of a high-tech, industrial documentary or a dramatic engineering sequence in a film, capturing the power and complexity of the machine with a sense of reverence and intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:49.997642",
+  "word_count": 136,
+  "error_message": null
+}

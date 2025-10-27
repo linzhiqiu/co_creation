@@ -1,0 +1,12 @@
+{
+  "image_filename": "234c7328-669d-45c8-944a-877ca8be9699.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph of an intense chess game in progress. The composition centers on a hand delicately grasping a black chess piece, poised mid-move above a slightly tilted chessboard. The board rests on a simple, light-colored table, its surface catching soft, diffused light that creates gentle highlights and deep shadows, enhancing the tactile textures of the chess pieces and the board. The background is softly blurred, suggesting the presence of another player and a cozy, intimate indoor setting, but keeping the focus on the hand and the game. The overall mood is contemplative and dramatic, with high contrast and a cinematic, documentary style reminiscent of classic film photography. The camera angle is slightly above and to the side, capturing the tension and concentration of the moment, while the shallow depth of field isolates the action, drawing the viewer’s eye to the poised hand and the strategic move about to unfold.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:53.185163",
+  "word_count": 151,
+  "error_message": null
+}

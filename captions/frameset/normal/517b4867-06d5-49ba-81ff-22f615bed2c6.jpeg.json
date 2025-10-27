@@ -1,0 +1,12 @@
+{
+  "image_filename": "517b4867-06d5-49ba-81ff-22f615bed2c6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cozy, warmly lit living room at night, decorated for Christmas with wrapped presents stacked near a softly glowing lamp and a poinsettia on a side table. In the foreground, two small, retro-futuristic flying saucers hover mid-air, their metallic surfaces illuminated by concentric rings of cool white and blue lights. The saucers emit a gentle, otherworldly glow that contrasts with the ambient golden tones of the room. The background features classic holiday decor, including a Christmas tree partially visible, and a framed landscape painting on the wall. The camera angle is low and cinematic, focusing on the hovering saucers with a shallow depth of field that softly blurs the background, enhancing the sense of wonder and surrealism. The overall style blends mid-century sci-fi aesthetics with the warmth and intimacy of a holiday home, creating a whimsical, magical atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:22.869918",
+  "word_count": 139,
+  "error_message": null
+}

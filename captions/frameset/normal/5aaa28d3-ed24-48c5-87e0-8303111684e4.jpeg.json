@@ -1,0 +1,12 @@
+{
+  "image_filename": "5aaa28d3-ed24-48c5-87e0-8303111684e4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with light hair and glasses sits alone at a desk in a dimly lit office, his face illuminated by the warm, focused glow of a desk lamp. He wears a dark shirt, and his expression is serious and contemplative as he looks slightly off to the side, lost in thought. The desk is cluttered with papers, office supplies, and a computer keyboard, suggesting a busy or stressful work environment. In the background, shelves hold stacks of documents and a stereo system, all cast in deep shadow, creating a strong contrast between the lit foreground and the dark, moody background. The color palette is dominated by muted earth tones and deep shadows, with the golden light from the lamp providing a dramatic, cinematic quality. The composition uses a shallow depth of field, focusing sharply on the man while the background remains softly blurred, enhancing the sense of isolation and introspection. The overall style is reminiscent of a tense, atmospheric thriller, with careful attention to lighting and mood to evoke a sense of solitude and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:08.305072",
+  "word_count": 178,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "47bc9d33-a6ce-4cfc-8c1c-e2df9f6a324c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a striking black-and-white scene featuring a large, hyper-realistic portrait of a glamorous woman with classic 1950s Hollywood features—voluminous, wavy blonde hair, arched eyebrows, and full lips slightly parted in a sultry, enigmatic expression. The portrait dominates the left side of the composition, rendered in soft grayscale tones with dramatic, high-contrast lighting that accentuates the subject’s facial contours and vintage allure. On the right side, set against a stark, minimalist white wall, include the blurred, ghostly silhouette of a person in motion, their features indistinct and ethereal, as if captured mid-stride. The overall mood is cinematic and contemplative, with a shallow depth of field and a sense of fleeting presence juxtaposed against the timeless, iconic image. The composition should evoke themes of memory, celebrity, and the passage of time, with a sophisticated, gallery-like atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:49.955430",
+  "word_count": 135,
+  "error_message": null
+}

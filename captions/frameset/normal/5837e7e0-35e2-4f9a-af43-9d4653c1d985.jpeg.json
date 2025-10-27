@@ -1,0 +1,12 @@
+{
+  "image_filename": "5837e7e0-35e2-4f9a-af43-9d4653c1d985.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-shot of two men standing side by side in a modern office environment, intently examining and discussing a large whiteboard or wall-mounted chart filled with diagrams, graphs, and data. The man on the left, wearing glasses, a dark blazer, and a checkered shirt, is smiling and gesturing with his hand, pointing at a specific section of the chart. The man on the right, dressed in a collared shirt, is partially turned toward the first man, engaged in the conversation. The background is softly blurred, emphasizing the interaction and the details on the board. The color palette is cool and subdued, with soft, diffused lighting creating a professional yet approachable atmosphere. The composition uses a shallow depth of field to focus on the subjects’ faces and hands, capturing a candid, collaborative moment with a cinematic, documentary-style realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:13.045249",
+  "word_count": 137,
+  "error_message": null
+}

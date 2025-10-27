@@ -1,0 +1,12 @@
+{
+  "image_filename": "15e1fc11-aa32-4cf4-8431-ed2e3f363f5d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA sleek black SUV with illuminated taillights drives along a gently curving highway at dusk, heading toward a grand, modern suspension bridge that stretches across a calm body of water. The bridge is adorned with evenly spaced streetlights, their warm glow reflecting softly on the water’s surface and receding into the misty blue distance. The sky is a deepening gradient of twilight blues and purples, with the last hints of sunset fading on the horizon. The road is empty except for the single vehicle, emphasizing a sense of solitude and quiet anticipation. The camera angle is positioned behind and slightly above the car, capturing both the vehicle’s movement and the sweeping expanse of the bridge ahead. The overall style is cinematic, with a wide aspect ratio, subtle depth of field, and a cool, moody color palette punctuated by the warm lights. The atmosphere evokes a contemplative, almost melancholic journey, blending urban infrastructure with natural tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:56.180541",
+  "word_count": 156,
+  "error_message": null
+}

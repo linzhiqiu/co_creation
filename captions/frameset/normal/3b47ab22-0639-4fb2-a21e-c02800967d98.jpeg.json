@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b47ab22-0639-4fb2-a21e-c02800967d98.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands confidently at the center of a minimalist, dimly lit studio, framed perfectly within a large, glowing triangular structure made of thin, illuminated rods. The triangle dominates the composition, its apex nearly touching the ceiling, creating a sense of geometric precision and focus. Behind her, the background is dramatically split into two vibrant color fields: the left side is bathed in a rich magenta light, while the right side glows with a cool cyan, the colors blending subtly at the center to create a striking, surreal atmosphere.\n\nThe woman wears a simple, fitted white t-shirt and dark pants, her posture relaxed yet purposeful, hands loosely at her sides. Her expression is calm and introspective, gazing directly at the camera, inviting the viewer into the scene. Arranged behind her, evenly spaced and partially silhouetted by the colored lights, are several easels holding blank canvases or boards, suggesting an environment of creativity and potential.\n\nThe lighting is soft but highly stylized, with the colored gels casting gentle shadows and enhancing the sense of depth. The overall style is cinematic and modern, with a wide-angle lens capturing the full breadth of the scene and a shallow depth of field that keeps the focus on the subject while allowing the background to softly recede. The mood is contemplative and slightly futuristic, evoking themes of art, possibility, and self-discovery within a visually arresting, color-saturated space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:37.384805",
+  "word_count": 233,
+  "error_message": null
+}

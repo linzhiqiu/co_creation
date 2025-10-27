@@ -1,0 +1,12 @@
+{
+  "image_filename": "44ae4327-6da3-4a63-a072-e98c397e0151.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, cinematic bedroom scene viewed from a low, wide-angle perspective. The room is painted a deep green, with sunlight streaming through a window, casting warm, natural light and soft shadows across the space. The bed is unmade, with a young man lying on it, wearing a sleep mask, partially covered by a blanket. The walls are adorned with posters and a few hanging clothes, adding a lived-in, personal touch. \n\nThe most striking element is a large, semi-transparent, distorted reflection of another man's face—eyes wide, mouth open in an exaggerated, playful expression—looming above, as if seen through water or glass. This face dominates the upper part of the composition, creating a dreamlike, almost hallucinatory effect. The lighting is natural but heightened, with a slight cinematic color grading that emphasizes the contrast between the warm sunlight and the cool green walls. The overall style is whimsical and imaginative, blending realism with surreal visual storytelling, reminiscent of a scene from a visually inventive indie film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:49.193576",
+  "word_count": 165,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b622a97-903a-45b3-b78f-42c526d5d4e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with graying hair and a mustache stands behind a street food stall, leaning forward with a gentle, contented smile as he operates a red blender. He wears a light pastel kurta and a pink towel draped over his shoulder, evoking a sense of warmth and familiarity. The background is dominated by a large, hand-painted yellow wall with bold, partially visible red and blue lettering, suggesting a bustling Indian street food scene. In the foreground, a metal tray piled with round bread buns sits atop a stove, slightly out of focus, adding depth and authenticity to the composition. The lighting is soft and natural, casting even illumination across the scene, while the color palette is vibrant yet grounded, with warm yellows, reds, and earth tones. The camera angle is at eye level, creating an intimate, documentary-style feel, and the shallow depth of field draws attention to the man's expressive face and hands, capturing a moment of quiet pride and everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:23.016834",
+  "word_count": 163,
+  "error_message": null
+}

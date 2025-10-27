@@ -1,0 +1,12 @@
+{
+  "image_filename": "630b21e6-e674-4215-8169-f9f521b9c63c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern digital timer, its glossy black circular face displaying the numbers \"00:47\" in bright white LED digits. The timer is magnetically attached to the edge of a metallic surface, possibly a workbench or industrial table, with a small metal tool resting nearby. The background is softly blurred, revealing hints of a blue and white striped cabinet and indistinct objects, suggesting a workshop or garage environment. The lighting is cool and slightly dim, casting subtle reflections on the timer’s surface and creating a moody, cinematic atmosphere. The color palette is dominated by deep blues, grays, and blacks, with the timer’s white digits providing a stark, luminous contrast. The composition uses a shallow depth of field, focusing sharply on the timer while the background fades into a soft bokeh, evoking a sense of anticipation and precision. The overall style is reminiscent of a high-quality film still, with careful attention to detail, texture, and ambient light.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:28.452294",
+  "word_count": 158,
+  "error_message": null
+}

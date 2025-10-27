@@ -1,0 +1,12 @@
+{
+  "image_filename": "368ba605-4b78-4117-87ce-8e86ac50a170.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist scene featuring two outstretched hands reaching toward each other, separated by a reflective glass or mirror. The background is a soft, pale blue, evoking calm and introspection. The lighting is natural and even, emphasizing the delicate tension and symmetry between the hands, with a subtle, modern aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:42.895337",
+  "word_count": 49,
+  "error_message": null
+}

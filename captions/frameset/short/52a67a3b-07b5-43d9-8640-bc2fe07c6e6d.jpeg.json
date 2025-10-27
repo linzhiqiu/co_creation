@@ -1,0 +1,12 @@
+{
+  "image_filename": "52a67a3b-07b5-43d9-8640-bc2fe07c6e6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, neon-lit desk scene with a vintage computer, glowing green monitor, and a large artificial brain model. A hand reaches for a Rubik’s Cube beside retro keyboards and a clipboard with schematics. The atmosphere is cyberpunk, with cinematic shadows and a mysterious, futuristic ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:49.068603",
+  "word_count": 45,
+  "error_message": null
+}

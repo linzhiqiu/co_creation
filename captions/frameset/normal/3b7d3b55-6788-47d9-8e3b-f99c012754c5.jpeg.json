@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b7d3b55-6788-47d9-8e3b-f99c012754c5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of an older, bald man with a deeply lined face, his skin glistening with sweat under intense, golden-yellow lighting. He is pressing his hands against both sides of his head, fingers splayed near his ears, as if straining to listen or block out a sound. His eyes are nearly closed, his expression tense and pained, conveying a sense of psychological distress or deep concentration. The background is out of focus, rendered in warm, amber tones that create a claustrophobic, almost oppressive atmosphere. The lighting is harsh and directional, casting dramatic shadows that accentuate the texture of his skin and the contours of his face. The overall style is cinematic and moody, reminiscent of psychological thrillers, with a shallow depth of field that isolates the subject and heightens the emotional intensity of the scene. The camera angle is slightly low and intimate, drawing the viewer into the character’s internal struggle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:39.269384",
+  "word_count": 152,
+  "error_message": null
+}

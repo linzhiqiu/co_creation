@@ -1,0 +1,12 @@
+{
+  "image_filename": "263beb1b-ca66-40be-a780-163b1463fef1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up shot of a commercial airplane’s fuselage, focusing on a section of the aircraft adorned with a bold, modern blue and white circular logo that partially surrounds the passenger windows. The composition is tight, with the windows forming a horizontal line across the frame, and the logo’s sweeping curves adding dynamic visual interest. The color palette is cool and subdued, dominated by shades of blue, white, and gray, evoking a sense of overcast weather. The lighting is soft and diffused, suggesting a cloudy sky, with no harsh shadows. The background is blurred, emphasizing the plane’s surface and logo, while a subtle out-of-focus foreground element—possibly another part of the aircraft—adds depth and a sense of realism. The overall style is sleek and modern, with a shallow depth of field and a slightly desaturated, cinematic tone, capturing the quiet anticipation of an airport scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:53.012149",
+  "word_count": 145,
+  "error_message": null
+}

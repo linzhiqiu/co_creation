@@ -1,0 +1,12 @@
+{
+  "image_filename": "18ae07a2-19ec-4708-b5c1-67c4d71abf77.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic wide shot captures a dense forest of tall eucalyptus trees, their slender trunks and leafy canopies reaching up toward a bright, clear sky. The sun is high, casting a soft, natural daylight that filters through the foliage, creating dappled patterns of light and shadow on the treetops. Dominating the upper center of the composition, a single helicopter hovers in midair, its rotors blurred in motion, silhouetted against the sun. The camera angle is slightly low, looking up through the trees, emphasizing the height and verticality of the forest while drawing the viewer’s eye to the helicopter above. The color palette is naturalistic, with rich greens and earthy browns contrasted by the pale blue of the sky. The overall mood is tense and anticipatory, evoking a sense of surveillance or search, with the helicopter’s presence adding a dynamic, almost intrusive element to the otherwise tranquil woodland scene. The style is realistic, with a slight cinematic haze from the sunlight, and a deep depth of field that keeps both the trees and the helicopter in sharp focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:03.240741",
+  "word_count": 177,
+  "error_message": null
+}

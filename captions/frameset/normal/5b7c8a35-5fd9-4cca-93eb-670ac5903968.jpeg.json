@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b7c8a35-5fd9-4cca-93eb-670ac5903968.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A contemplative, cinematic black-and-white portrait of a lone figure standing indoors before a traditional Japanese shoji screen. The subject, a person with long hair tied back in a loose bun, is dressed in a simple, dark kimono or robe, evoking a timeless, serene atmosphere. Their face is partially in shadow, with a gentle, introspective expression, and they hold the edge of their garment close to their chest, suggesting a moment of quiet reflection. The background features the geometric grid of the shoji, softly illuminated by diffused natural light, creating a striking contrast between the silhouetted figure and the luminous panels. The composition is intimate and minimalist, with a shallow depth of field that keeps the focus on the subject while subtly blurring the background. The overall mood is tranquil and meditative, reminiscent of classic Japanese cinema, with soft, even lighting and a restrained, elegant grayscale palette. The camera angle is at eye level, capturing the subject in profile and emphasizing the interplay of light and shadow across their features.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:29.414606",
+  "word_count": 169,
+  "error_message": null
+}

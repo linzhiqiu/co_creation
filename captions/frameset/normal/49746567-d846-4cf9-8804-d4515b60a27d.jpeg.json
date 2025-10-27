@@ -1,0 +1,12 @@
+{
+  "image_filename": "49746567-d846-4cf9-8804-d4515b60a27d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, bustling coffee shop filled with a diverse group of young adults engaged in lively conversation and laughter. The scene is set in a warmly lit, eclectic interior with vintage decor—bookshelves packed with books, chalkboard menus, hanging Edison bulbs, and mismatched furniture including armchairs, sofas, and wooden tables. The color palette is rich and inviting, dominated by warm browns, soft yellows, and muted earth tones, creating a nostalgic, welcoming atmosphere. \n\nIn the foreground, a group of friends sits around a low table, animatedly talking and gesturing, their expressions joyful and relaxed. Some are leaning in, others are mid-laugh, capturing a candid, spontaneous moment. To the left, a couple sits closely together, engaged in a quiet conversation, while in the background, more patrons are scattered throughout the space, some standing, some seated, all absorbed in their own interactions. \n\nThe lighting is soft and diffused, with natural light streaming in from unseen windows and warm overhead bulbs casting a gentle glow, enhancing the intimate, communal vibe. The camera angle is wide and slightly elevated, allowing a clear view of the entire room and its occupants, with a shallow depth of field that keeps the focus on the central group while softly blurring the background details. The overall style is cinematic and naturalistic, evoking the feel of an indie film or a lifestyle magazine spread, with a sense of warmth, connection, and everyday magic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:24.149629",
+  "word_count": 232,
+  "error_message": null
+}

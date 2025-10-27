@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ea1a43d-7fee-4fab-ab86-45a6aa434236.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a laptop screen in a dimly lit room, with the main focus on a digital art program displaying a high-contrast black silhouette of a running person against a stark white background. The laptop is angled slightly, with the screen occupying most of the frame, and the interface of the editing software clearly visible, including toolbars and layers on the right side. The lower edge of the screen reveals a row of colorful application icons, hinting at a MacBook. The lighting is soft and natural, possibly from a window in the background, casting subtle reflections and a cool, bluish tone across the scene. In the foreground, a blurred dark shape partially obscures the left side, adding depth and a sense of candid observation. The overall mood is focused and creative, with a shallow depth of field drawing attention to the digital artwork and the act of creation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:44.935091",
+  "word_count": 151,
+  "error_message": null
+}

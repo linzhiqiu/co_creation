@@ -1,0 +1,12 @@
+{
+  "image_filename": "2fc6078b-a3a2-4698-b08f-c5d482788cb5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, futuristic laboratory interior, bathed in cool blue and muted red tones, with a strong sense of tension and anticipation. In the foreground, a shirtless, athletic man with platinum blonde hair and intense expression stands in a fighting stance, fists raised, ready to confront a large, imposing robotic arm that looms toward him from the left. The man’s body is covered in tattoos, and he wears loose, white pants, his muscles highlighted by the dramatic, directional lighting that casts deep shadows and accentuates his form. In the background, a mannequin-like figure stands illuminated on a pedestal, surrounded by a grid of small lights, adding an eerie, clinical atmosphere. The left side of the scene features a large digital display with cryptic code and text, reinforcing the high-tech, cyberpunk aesthetic. The composition uses a shallow depth of field, focusing sharply on the man and the robot, while the background remains slightly blurred, creating a cinematic, suspenseful mood reminiscent of a sci-fi thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:18.638366",
+  "word_count": 163,
+  "error_message": null
+}

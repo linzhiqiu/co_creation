@@ -1,0 +1,12 @@
+{
+  "image_filename": "46326782-0ab5-4d6a-89e4-fcb30e4e70a4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a vast, industrial warehouse with high ceilings and exposed pipes. The floor is covered in a striking, vivid red, creating a bold contrast with the cool, bluish lighting that fills the space. Suspended fluorescent lights hang unevenly from the ceiling, casting dramatic, angular shadows and adding a sense of tension and energy. In the center of the composition, a group of eight dancers, all dressed in dark, form-fitting outfits, are captured mid-choreography, their movements synchronized and dynamic. Their poses convey intensity and focus, with strong, angular lines in their bodies. The background features large, bare walls and a row of glowing red windows on the left, enhancing the moody, futuristic atmosphere. The camera angle is wide and slightly low, emphasizing the scale of the space and the unity of the group. The overall style is sleek and modern, with a high-contrast color palette of deep reds and cool blues, evoking a sense of drama and urban sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:19.898627",
+  "word_count": 163,
+  "error_message": null
+}

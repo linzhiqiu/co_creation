@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f52315f-6b09-4fe1-b283-861ad8c33f83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, symmetrical scene set in a stark, modernist interior. The composition is dominated by a wide, dark corridor with sleek, black walls and a polished floor, creating a sense of depth and minimalism. In the foreground, two women stand on either side of the entrance, facing forward with stoic, expressionless faces. They wear striking, matching crimson coats over black outfits, their hair styled in sharp, geometric bobs, evoking a futuristic, almost robotic aesthetic. The lighting is cool and subdued in the foreground, casting soft reflections and emphasizing the clean architectural lines.\n\nBeyond the entrance, in the warmly lit background, a solitary figure sits on a bench in a contemplative pose, head bowed, hands clasped. The background is bathed in a golden-yellow glow, contrasting with the cold blue-gray tones of the foreground. The walls behind the seated figure are smooth and feature subtle, abstract patterns, enhancing the sense of a high-tech, dystopian environment. The overall style is reminiscent of neo-noir or cyberpunk cinema, with a strong emphasis on symmetry, color contrast, and mood. The camera is positioned at eye level, perfectly centered, with a deep depth of field that keeps both the foreground and background subjects in sharp focus, creating a sense of tension and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:07.872557",
+  "word_count": 206,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e4cb1ee-a0a8-422e-bc5b-101b103aa003.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up portrait of a man’s face as seen through the distorted, horizontal scan lines of an old CRT television screen. The subject’s features are partially obscured by the digital noise and color banding, giving the image a retro, analog feel. The man’s expression is neutral or slightly serious, with his gaze directed forward, but the details are softened and blurred by the screen’s interference. The background is a cool, abstract blue, further emphasizing the electronic, broadcast quality of the scene. The color palette is dominated by deep blues, reds, and subtle skin tones, with the overall lighting appearing artificial and slightly harsh, as if illuminated by the glow of the TV. The composition is tightly cropped on the face, with a shallow depth of field and a sense of visual static, evoking a cinematic, cyberpunk or dystopian atmosphere reminiscent of surveillance footage or vintage news broadcasts.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:27.965819",
+  "word_count": 148,
+  "error_message": null
+}

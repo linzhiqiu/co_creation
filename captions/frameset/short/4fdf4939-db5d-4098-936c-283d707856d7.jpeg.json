@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fdf4939-db5d-4098-936c-283d707856d7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mesmerizing abstract pattern featuring large, vivid red circles arranged in a geometric grid, set against a textured blue background with intricate star-like shapes and sparkling white dots. The image evokes a stained glass or mosaic effect, with sharp contrasts, rich colors, and a sense of depth and luminosity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:48.573297",
+  "word_count": 49,
+  "error_message": null
+}

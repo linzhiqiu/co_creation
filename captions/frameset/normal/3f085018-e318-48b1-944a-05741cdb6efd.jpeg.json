@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f085018-e318-48b1-944a-05741cdb6efd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit, rustic workspace. A woman with long, dark hair sits at a cluttered wooden desk, intently focused on a digital tablet displaying a black-and-white architectural image. She wears a simple, dark long-sleeve top, her expression concentrated and thoughtful as she interacts with the screen using a stylus. The room is softly illuminated by two warm, vintage-style lamps—one with a pleated shade and another with a unique, cage-like design—casting a golden glow that creates deep shadows and a cozy, introspective atmosphere. The background features old, weathered windows and scattered papers, enhancing the sense of creative solitude. The composition is intimate, shot from a side angle with a shallow depth of field, drawing attention to the subject and her work while softly blurring the background. The overall color palette is muted and earthy, dominated by warm yellows, browns, and soft shadows, evoking a sense of quiet focus and artistic dedication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:54.670707",
+  "word_count": 156,
+  "error_message": null
+}

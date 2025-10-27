@@ -1,0 +1,12 @@
+{
+  "image_filename": "49da01b1-fe21-45d7-95f3-3b3f3b32abbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand holding a modern smartphone, with the screen prominently displaying a payment interface for a “Dance Class” costing $200. The phone is angled slightly toward the viewer, making the digital interface clear and legible. The interface features a clean, minimalist design with a green header, a large bold dollar amount in the center, and a prominent red button labeled “Dance Class” next to a white “PAY NOW” button. The background is softly blurred, suggesting an indoor setting with neutral tones and subtle lighting, creating a shallow depth of field that keeps the focus on the phone and hand. The lighting is natural and diffused, casting gentle shadows and giving the scene a realistic, documentary feel. The overall color palette is muted, with the phone’s screen providing the main source of color contrast. The composition is intimate and direct, evoking a sense of immediacy and modern convenience, as if capturing a candid moment of digital transaction in everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:30.056833",
+  "word_count": 164,
+  "error_message": null
+}

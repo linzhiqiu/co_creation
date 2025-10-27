@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f230e90-eec4-40ed-af0d-cbde13eb1bec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman standing confidently in front of a dark, velvety blue backdrop. She is centered in the frame, surrounded by five vertical neon light tubes that emit a cool, electric blue glow, creating a striking contrast against the deep background. The woman wears a loose, white satin bomber jacket adorned with delicate pink and green floral patterns, adding a touch of softness and elegance to the otherwise futuristic scene. Her hair is tousled and chin-length, framing her face as she gazes directly at the camera with a subtle, enigmatic expression. She extends one hand forward, pointing assertively toward the viewer, creating a sense of engagement and immediacy. The lighting is moody and stylized, with the neon tubes casting dramatic highlights and soft shadows, enhancing the depth and three-dimensionality of the composition. The overall style is reminiscent of a modern music video or fashion editorial, with a bold color palette dominated by blues, whites, and hints of pink, and a shallow depth of field that keeps the focus sharply on the subject while the background remains softly blurred.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:19.187560",
+  "word_count": 183,
+  "error_message": null
+}

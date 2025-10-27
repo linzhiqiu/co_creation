@@ -1,0 +1,12 @@
+{
+  "image_filename": "434d3186-7a0d-44ca-bc76-63a5104dd736.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene set in a dimly lit, open parking lot beside a utilitarian building. In the foreground, a deer stands in partial silhouette, its form softly blurred and backlit by the harsh, artificial glow spilling from an open garage door. The animal’s posture is alert, ears perked, as it gazes toward a young man crouched several meters away. The man, dressed in casual dark clothing and a beanie, is frozen mid-motion, holding a camera up to his face as if about to take a photograph. Behind him, an old white pickup truck is parked parallel to the building, its details rendered in cool, muted tones. The background is shadowy, with dense foliage barely visible beyond the reach of the lights. The color palette is dominated by deep blues, grays, and the warm amber of the overhead lights, creating a moody, contemplative atmosphere. The composition uses a shallow depth of field, focusing on the tension between human and animal, with strong contrasts between light and shadow. The overall style is reminiscent of an indie film still, evoking a sense of quiet suspense and unexpected encounter.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:20.872182",
+  "word_count": 186,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "13ebf0be-0782-4825-9832-67d2c7b8461c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, naturalistic scene set in a cluttered, sunlit workshop. In the foreground, a young man with curly hair, wearing a loose, multicolored striped polo shirt and orange shorts, sits casually on the edge of a metal worktable, his back to the camera. He gazes toward the center of the room, where an older man with white hair, dressed in a blue work jumpsuit, is focused on operating a large, industrial machine. The workshop is filled with mechanical parts, tools, and equipment scattered across tables and shelves, creating a sense of organized chaos. Sunlight streams in through high, dusty windows, casting a soft, diffused glow and subtle shadows across the space. The color palette is muted and earthy, dominated by grays, browns, and faded industrial tones, with pops of color from the young man’s clothing. The composition uses a medium-wide shot with a shallow depth of field, drawing attention to the figures while allowing the background details to softly recede. The overall mood is contemplative and authentic, evoking a sense of quiet routine and generational connection within a working environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:09.875556",
+  "word_count": 180,
+  "error_message": null
+}

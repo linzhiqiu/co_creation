@@ -1,0 +1,12 @@
+{
+  "image_filename": "33ae2e64-4631-48aa-9b26-4ba8b8458aae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a warm, softly lit portrait of a middle-aged man with short, light brown hair and a gentle, contemplative expression. He is dressed in a formal dark suit with a white shirt and a muted red tie, exuding a sense of quiet dignity. The background features vintage, patterned wallpaper in earthy tones, adding a nostalgic, old-world charm to the scene. A framed landscape painting hangs on the wall, slightly out of focus, contributing to the intimate, homely atmosphere. The composition uses a shallow depth of field, keeping the man’s face in sharp focus while the background is softly blurred, enhancing the subject’s presence. The color palette is dominated by warm, golden hues, with soft, diffused lighting that creates a cozy, inviting mood. The overall style is reminiscent of classic portrait photography, with a cinematic quality that emphasizes character and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:38.210764",
+  "word_count": 140,
+  "error_message": null
+}

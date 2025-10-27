@@ -1,0 +1,12 @@
+{
+  "image_filename": "600dd4c7-d8ac-406c-a3f1-79f699f031fb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a vast, meticulously cultivated green agricultural field, captured from directly overhead. The field is covered in neat, parallel rows of crops, creating a rhythmic, geometric pattern across the landscape. Three dark, modern tractors are spaced apart, moving through the rows, their shadows cast sharply on the ground, emphasizing the midday sunlight and clear weather. A long, white irrigation system cuts diagonally across the frame, adding a dynamic linear element that contrasts with the vertical crop lines. The color palette is dominated by rich, vibrant greens of the crops, punctuated by the deep blacks and grays of the tractors and the stark white of the irrigation pipe. The lighting is bright and natural, with high contrast and crisp details, evoking a sense of productivity and order. The overall style is cinematic and documentary-like, with a focus on symmetry, scale, and the intersection of technology and nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:15.586976",
+  "word_count": 150,
+  "error_message": null
+}

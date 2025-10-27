@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c7e51e3-0f37-41ad-b87a-4598c526da2e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, cinematic scene viewed through a doorway, capturing two people working together on a home renovation project. The subjects—a woman in a black and white striped shirt and a man in a dark t-shirt—stand side by side, facing a pale, softly patterned wall. The woman is focused on the wall, possibly measuring or marking it, while the man observes attentively, suggesting collaboration and concentration. The room is filled with natural, diffused light, creating a gentle, realistic atmosphere with soft shadows. In the foreground, out of focus, are various woodworking tools and supplies on a table, including a circular saw and wooden planks leaning against the wall, emphasizing the DIY context. The color palette is muted and warm, with creamy walls, light wood tones, and subtle pops of color from the tools. The composition uses a voyeuristic perspective, as if the viewer is peeking into a private moment, with the doorway framing the scene and adding depth. The overall style is reminiscent of an indie film, with a shallow depth of field, naturalistic lighting, and an intimate, documentary-like mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:03.235416",
+  "word_count": 179,
+  "error_message": null
+}

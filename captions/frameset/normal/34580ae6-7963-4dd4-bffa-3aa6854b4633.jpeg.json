@@ -1,0 +1,12 @@
+{
+  "image_filename": "34580ae6-7963-4dd4-bffa-3aa6854b4633.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a surreal, cinematic image looking straight up from the ground in a narrow, enclosed urban courtyard. The camera angle is sharply tilted, emphasizing the vertigo-inducing height and the claustrophobic geometry of the surrounding buildings. The walls are weathered and textured, with peeling paint and patches of exposed concrete, evoking a sense of age and decay. Several windows, some open and some closed, jut out at odd angles, their glass panes reflecting the pale daylight. The sky above is a stark, almost overexposed blue, framed tightly by the irregular, looming facades. The color palette is muted and desaturated, dominated by grays, browns, and faded whites, with subtle hints of green from a small plant visible in one window. The lighting is natural but slightly harsh, casting soft shadows and highlighting the rough surfaces. The overall mood is dreamlike and slightly unsettling, with a strong sense of depth and perspective distortion, reminiscent of Eastern European art-house cinema or the visual style of Andrei Tarkovsky.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:53.371789",
+  "word_count": 164,
+  "error_message": null
+}

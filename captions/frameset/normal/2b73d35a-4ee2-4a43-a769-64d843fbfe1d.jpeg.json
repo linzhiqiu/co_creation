@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b73d35a-4ee2-4a43-a769-64d843fbfe1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic close-up of a young man hiding in a dimly lit closet, gripping a silver revolver with both hands. His expression is intense and anxious, eyes wide and focused, lips pressed in determination. He is partially obscured by hanging clothes, their dark and muted colors blending into the shadowy background, with only a hint of a sequined garment catching a glint of light. The lighting is low-key, casting deep shadows across his face and emphasizing the dramatic mood. The color palette is subdued, dominated by dark blues, blacks, and muted reds, with the metallic sheen of the gun providing a stark contrast. The composition is tight and claustrophobic, with a shallow depth of field that blurs the background, drawing all attention to the man's face and the weapon. The overall style is reminiscent of a suspenseful neo-noir thriller, evoking a sense of danger and psychological tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:43.917238",
+  "word_count": 148,
+  "error_message": null
+}

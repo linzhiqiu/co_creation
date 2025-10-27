@@ -1,0 +1,12 @@
+{
+  "image_filename": "3db71050-a608-4d4d-a0ff-3b042539f4c3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, behind-the-scenes studio scene featuring a young man with shoulder-length, messy, two-toned hair—dark at the roots and bleached blonde at the ends—sitting in profile. He wears a loose, plain black t-shirt and has a neutral, slightly tense expression, gazing forward as if anticipating something. In the foreground, a hand holds a large, white 3D scanning device pointed at the subject’s face, suggesting a digital capture process. The background is an industrial workspace: a folding table holds a laptop displaying a 3D model on its screen, surrounded by cables and equipment. Behind the table, vertical stacks of wooden planks and various studio gear are visible, partially obscured by a white curtain to the right. The lighting is soft and diffuse, with a naturalistic, slightly cool color palette dominated by muted grays, off-whites, and the black of the subject’s shirt. The composition is documentary-style, with a shallow depth of field that keeps the focus on the subject and the scanning device, while the background remains softly blurred, evoking a sense of creative process and technical artistry.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:29.924474",
+  "word_count": 175,
+  "error_message": null
+}

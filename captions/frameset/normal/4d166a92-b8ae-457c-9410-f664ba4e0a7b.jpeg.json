@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d166a92-b8ae-457c-9410-f664ba4e0a7b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern white Tesla Model X drives down a wide, sunlit urban boulevard, captured from a slightly elevated front angle that emphasizes the car’s aerodynamic lines and glossy finish. The street is nearly empty, with only a few distant vehicles and palm trees lining the sidewalks, creating a sense of calm and spaciousness. Inside the car, two people are visible through the windshield: the driver, focused on the road, and a passenger, both dressed in casual, contemporary clothing. The lighting is bright and natural, casting soft shadows and highlighting the clean, futuristic aesthetic of the vehicle. The color palette is dominated by cool tones—crisp whites, muted grays, and subtle blues—enhancing the modern, high-tech atmosphere. The overall style is cinematic, with a shallow depth of field that keeps the car in sharp focus while gently blurring the background, evoking a sense of motion and sophistication. The composition conveys a mood of quiet confidence and forward-thinking innovation, suitable for a commercial or editorial feature on electric vehicles and urban mobility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:44.191933",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ea0f243-8b50-4121-8c55-95521110ed11.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic outdoor sports training scene set on a lush, expansive green field during the golden hour, with soft, natural sunlight casting gentle shadows. The focus is on a single athlete, captured mid-action from the waist down, emphasizing movement and agility. The subject wears a gray athletic t-shirt, navy blue shorts, and light blue soccer cleats, sprinting or weaving between a series of bright yellow training cones arranged in a diagonal line across the grass. The background is softly blurred, with hints of trees and foliage, creating a shallow depth of field that draws attention to the athlete and the cones. The overall composition conveys energy and focus, with a cinematic, slightly low-angle perspective that enhances the sense of speed and athleticism. The color palette is dominated by vibrant greens and yellows, with cool blue accents from the athlete’s shoes, and the lighting is warm and natural, evoking a sense of early morning or late afternoon practice.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:51.269595",
+  "word_count": 157,
+  "error_message": null
+}

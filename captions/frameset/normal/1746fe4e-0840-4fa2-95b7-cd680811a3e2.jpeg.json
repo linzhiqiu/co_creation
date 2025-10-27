@@ -1,0 +1,12 @@
+{
+  "image_filename": "1746fe4e-0840-4fa2-95b7-cd680811a3e2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary young person stands in a minimalist, almost cavernous room, captured in a high-contrast black and white photograph. The subject, with medium-length hair, wears a tailored, patterned blazer over a dark shirt and wide-legged trousers, paired with sleek boots—evoking a retro, 1970s-inspired fashion sensibility. Their expression is neutral, contemplative, and their posture relaxed yet slightly formal, as if caught mid-step or in a moment of quiet introspection.\n\nBehind them sits a low, plush, dark velvet sofa, its deep texture and rounded form providing a striking visual anchor against the otherwise bare, pale wall. The floor is smooth and light, curving gently at the edges, enhancing the sense of spaciousness and simplicity. The lighting is soft and diffuse, casting gentle shadows that emphasize the subject’s silhouette and the sofa’s contours, while the overall scene is suffused with a subtle grain, lending a cinematic, vintage quality.\n\nThe composition is carefully balanced, with the subject slightly off-center, creating a sense of openness and isolation. The camera angle is eye-level, with a wide field of view that accentuates the emptiness of the space and the subject’s solitary presence. The mood is introspective, quiet, and slightly melancholic, reminiscent of classic art photography or auteur cinema, where every element is pared down to its essentials, inviting contemplation and emotional resonance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:37.526027",
+  "word_count": 215,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "225d1b01-dc22-4e35-a94a-70e44ea024bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, slightly angled shot of a modern laptop screen displaying a user interface for an AI-powered document summarization tool. The interface features a clean, minimalist design with a white dialog box centered on the screen, labeled “Summarize any document” in bold text. Below the heading, there is a simple icon of a document with a paperclip, and a blue “Summarize” button at the bottom. The HP logo and “AI Companion” branding are visible at the top of the dialog box. The desktop background is a sleek, abstract blue wave pattern, and several application icons are neatly aligned along the left edge of the screen. The lighting is natural and soft, suggesting daylight coming from a nearby window, with subtle reflections on the laptop’s glossy screen. The overall color palette is cool and professional, dominated by shades of blue, white, and gray, evoking a sense of modernity and technological sophistication. The composition emphasizes clarity and focus, with a shallow depth of field that blurs the laptop’s keyboard and background, drawing attention to the interface and its functionality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:28.321641",
+  "word_count": 177,
+  "error_message": null
+}

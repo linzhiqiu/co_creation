@@ -1,0 +1,12 @@
+{
+  "image_filename": "40a5a083-e1a1-40c3-8fc0-4f621a6958c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast black and white photograph of a solitary figure in mid-motion, captured in profile against a seamless, softly lit studio backdrop. The subject is a person with voluminous, wavy hair, dressed in an elegant, flowing black dress and high-heeled shoes. They are caught in the act of kicking one leg high into the air, with their arms bent and hands poised near their waist, conveying a sense of dynamic movement and theatrical flair. The lighting is focused and directional, casting gentle shadows that accentuate the contours of the figure and create a subtle gradient on the background. The overall mood is mysterious and stylish, with a minimalist composition that emphasizes the silhouette and expressive gesture of the subject. The image has a cinematic, fashion editorial quality, with a shallow depth of field and a slight vignette that draws attention to the central action.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:19.867910",
+  "word_count": 146,
+  "error_message": null
+}

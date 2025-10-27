@@ -1,0 +1,12 @@
+{
+  "image_filename": "35463c50-d324-4635-833e-22fd4ea1d985.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with curly hair sits at a minimalist desk in a stark, modern room, illuminated by moody, cinematic lighting. He wears a fitted white turtleneck, which stands out against the cool, bluish-gray tones of the walls and floor. The man’s expression is contemplative and slightly tense as he looks off to the side, his hand resting on an open notebook, suggesting a moment of creative or intellectual focus. \n\nA dramatic red light band cuts horizontally across the background, casting a subtle glow that adds a futuristic, almost surreal atmosphere. Overhead, a harsh spotlight with a visible bulb creates sharp shadows and lens flares, while a floating white object—possibly a book or paper—hovers in midair, adding a sense of motion and intrigue. The composition is carefully balanced, with geometric shapes and strong diagonal lines from the shadows and furniture, evoking a sense of isolation and introspection. The overall style is reminiscent of a high-concept art film, with a shallow depth of field and a cool, desaturated color palette punctuated by the striking red accent.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:20.164324",
+  "word_count": 175,
+  "error_message": null
+}

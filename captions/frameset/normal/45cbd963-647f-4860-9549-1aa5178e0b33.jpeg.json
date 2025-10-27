@@ -1,0 +1,12 @@
+{
+  "image_filename": "45cbd963-647f-4860-9549-1aa5178e0b33.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man with disheveled hair and a scruffy beard sits slumped against the metallic wall of a dimly lit industrial chamber. He wears dark, loose-fitting clothing that blends into the deep shadows enveloping much of his figure, leaving only his face and part of his upper body partially illuminated by a moody, golden-hued light. His expression is weary and somber, with heavy-lidded eyes and a downturned mouth, conveying exhaustion or despair. The background features a large, embossed metal panel with intricate geometric designs and a circular emblem bearing faint, engraved text, suggesting a high-tech or corporate environment. The overall color palette is dominated by muted golds, bronzes, and deep shadows, creating a claustrophobic and oppressive atmosphere. The composition uses a low, slightly off-center camera angle, emphasizing the subject’s isolation and vulnerability within the stark, industrial setting. The lighting is low-key and dramatic, casting strong contrasts and deep shadows, reminiscent of a gritty science fiction or dystopian film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:17.134557",
+  "word_count": 158,
+  "error_message": null
+}

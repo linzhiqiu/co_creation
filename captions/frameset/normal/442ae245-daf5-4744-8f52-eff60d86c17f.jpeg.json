@@ -1,0 +1,12 @@
+{
+  "image_filename": "442ae245-daf5-4744-8f52-eff60d86c17f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph focusing on a digital display panel attached to a green and white milk carton. The display shows dates and times in a segmented LED font, with both Korean and English text, including the words \"OPEN\" and \"D2.\" The carton features bold Korean lettering and a red circular logo, with additional text in green and white. The background is softly blurred, creating a bokeh effect that draws attention to the crisp, illuminated display and the carton’s branding. The lighting is natural and diffused, giving the scene a clean, fresh, and slightly clinical atmosphere. The composition is tight and intimate, with the camera positioned at a slight angle, emphasizing the modern, everyday technology and the importance of freshness and expiration information. The color palette is dominated by greens, whites, and pops of red, contributing to a sense of cleanliness and reliability. The overall style is documentary and contemporary, with a focus on detail and clarity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:36.867024",
+  "word_count": 158,
+  "error_message": null
+}

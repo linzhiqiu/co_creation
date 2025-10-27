@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e28ac80-3926-492c-a1c2-3fcbd58e1cd8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a visually striking, cinematic composition featuring a blurred, dynamic action scene set at night in the heart of a city. The central focus is a rectangular frame within the image, showing a first-person perspective in motion—perhaps someone running or moving quickly—captured with intentional motion blur and streaks of light, evoking urgency and adrenaline. The lighting in this section is warm, with glowing streetlights and illuminated pavement, contrasted by deep shadows and indistinct forms, suggesting urban architecture.\n\nSurrounding this central action, the background is a grayscale, upside-down cityscape filled with towering skyscrapers and dense fog, creating a surreal, dreamlike atmosphere. The city lights are muted, and the overall palette is monochromatic, emphasizing the stark contrast between the vivid, kinetic center and the calm, inverted periphery. The composition uses a shallow depth of field in the action frame, with soft focus and abstracted details, while the background remains sharp but subdued.\n\nThe overall style is reminiscent of neo-noir or experimental film, with a sense of disorientation and heightened drama. The camera angle is unconventional, combining a subjective, immersive viewpoint in the center with a wide, almost omniscient perspective in the background. The mood is tense, mysterious, and slightly surreal, blending realism with abstraction to create a powerful visual narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:00.078524",
+  "word_count": 209,
+  "error_message": null
+}

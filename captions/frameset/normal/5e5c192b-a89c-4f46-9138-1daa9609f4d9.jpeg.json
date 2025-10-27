@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e5c192b-a89c-4f46-9138-1daa9609f4d9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person holding a modern smartphone in their left hand, the screen brightly illuminated and displaying a translation app. The app shows the Cantonese character \"興奮\" at the top, with the English translation \"excited\" below it in bold, clear text. The person’s hand is slightly aged, with visible veins and a gentle grip on the phone, suggesting a sense of curiosity or attentiveness. The background is softly blurred, creating a shallow depth of field that keeps the focus entirely on the phone’s screen and the hand holding it. The lighting is natural but slightly cool, with soft highlights reflecting off the phone’s edges, evoking a calm, contemplative mood. The person’s clothing, partially visible in the foreground, features a patterned black-and-white fabric, adding subtle texture without distracting from the main subject. The overall composition is intimate and cinematic, as if capturing a quiet, meaningful moment of learning or communication.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:30.899156",
+  "word_count": 153,
+  "error_message": null
+}

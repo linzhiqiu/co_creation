@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c9c3084-61a2-4cd4-9d00-82387a3a910b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph of a transparent design sheet overlaid with large, bold, modern sans-serif letters in various shades of gray and black. The letters are arranged in a grid, some upright and others rotated, with visible construction lines and typographic guides, evoking the meticulous process of typeface design. In the upper right corner, a human hand with soft, natural skin tones gently touches the sheet, adding a subtle sense of scale and interaction. The lighting is soft and diffused, creating gentle highlights and minimal shadows, while the overall color palette is cool and neutral, dominated by grays, blacks, and translucent whites. The composition is precise and graphic, with a focus on the interplay between the geometric letterforms and the tactile presence of the hand, conveying a mood of careful craftsmanship and creative focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:21.896886",
+  "word_count": 135,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "30d2463d-93ee-4f3f-87c7-dfae72ec6045.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic car interior with a panoramic windshield, seen from the back seat, looking forward over the shoulders of two passengers. The dashboard is sleek and minimalistic, dominated by a large, semi-transparent augmented reality display that overlays a 3D topographic map, route information, and weather data directly onto the windshield. The display highlights a trail called \"Logan Peak\" with dynamic graphics, including clouds and elevation lines, giving a sense of advanced navigation technology. The passengers wear modern, light-colored jackets, their hands resting casually on the dashboard, suggesting a relaxed, autonomous driving experience. Outside, the car glides along a winding forest road flanked by tall, dense pine trees, with soft, natural daylight filtering through the canopy. The color palette is cool and natural, with deep greens from the forest, muted grays and blacks from the car interior, and subtle neon accents from the digital interface. The overall style is cinematic and immersive, with a shallow depth of field focusing on the dashboard and hands, while the forested background is slightly blurred, evoking a sense of motion and futuristic tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:40.136326",
+  "word_count": 178,
+  "error_message": null
+}

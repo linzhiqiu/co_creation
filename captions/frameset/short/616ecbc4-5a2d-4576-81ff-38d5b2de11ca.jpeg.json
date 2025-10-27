@@ -1,0 +1,12 @@
+{
+  "image_filename": "616ecbc4-5a2d-4576-81ff-38d5b2de11ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, black-and-white still life of a stack of old, textured hardcover books, arranged at angles against a wooden backdrop. Dramatic, high-contrast lighting casts deep shadows, emphasizing the worn spines and rough edges. The composition evokes a vintage, contemplative atmosphere with a cinematic, noir-inspired style.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:48.821134",
+  "word_count": 45,
+  "error_message": null
+}

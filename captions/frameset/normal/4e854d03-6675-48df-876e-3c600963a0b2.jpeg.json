@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e854d03-6675-48df-876e-3c600963a0b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern high-speed train glides smoothly across a long, elevated concrete viaduct that stretches horizontally through the center of the image. The train is streamlined and silver, with a minimalist design, and its length emphasizes the sense of speed and motion, even though it appears almost still in the frame. The viaduct is supported by tall, evenly spaced pillars, and is lined with slender black catenary poles for the electric wires, adding a rhythmic vertical element to the composition.\n\nIn the foreground, lush green trees with early spring foliage partially frame the lower edge of the scene, their organic shapes contrasting with the engineered lines of the bridge. The background features gently rolling hills covered in a patchwork of green and yellow fields, fading into a misty, overcast sky that bathes the entire landscape in soft, diffused light. The color palette is dominated by natural greens and yellows, muted by the hazy atmosphere, with the train and viaduct providing cool gray and metallic accents.\n\nThe overall style is cinematic and expansive, with a wide-angle perspective that captures the grandeur of the landscape and the impressive scale of the infrastructure. The camera angle is slightly elevated, offering a panoramic view that emphasizes the train’s journey through the countryside. The mood is tranquil and contemplative, evoking a sense of modernity harmoniously integrated with nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:19.040953",
+  "word_count": 223,
+  "error_message": null
+}

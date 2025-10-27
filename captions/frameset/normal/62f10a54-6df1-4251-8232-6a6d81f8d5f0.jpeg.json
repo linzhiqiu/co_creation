@@ -1,0 +1,12 @@
+{
+  "image_filename": "62f10a54-6df1-4251-8232-6a6d81f8d5f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person using a sleek, modern silver laptop at night. The focus is on the laptop screen, which displays a sophisticated 3D modeling software interface with a wireframe model of a geometric object, possibly an architectural structure. Prominently in the center of the screen is a translucent blue pop-up window labeled \"FILE TRANSFER,\" featuring cloud icons and a progress bar, suggesting an active data transfer. The user's hands are poised on the keyboard, fingers mid-action, conveying concentration and engagement. The background is softly blurred, hinting at a tiled or paved surface, with cool, ambient lighting that casts gentle reflections on the laptop and subtly illuminates the scene. The overall color palette is dominated by cool grays, blues, and silvers, creating a high-tech, cinematic atmosphere. The composition uses a shallow depth of field to draw attention to the screen and hands, evoking a sense of focus, modernity, and digital workflow.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:26.656083",
+  "word_count": 154,
+  "error_message": null
+}

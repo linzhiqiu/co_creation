@@ -1,0 +1,12 @@
+{
+  "image_filename": "56c92a0c-a3e5-43e4-b4f5-6546b78747d8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with short, light brown hair sits in a softly lit, modern interior, positioned slightly off-center to the right of the frame. He wears a muted blue polo shirt, and his expression is open and engaged, as if he is mid-conversation or sharing a thoughtful reflection. The background is softly blurred, featuring a teal wall that adds a calm, cool tone to the scene, with indistinct objects suggesting a lived-in space. A vertical white architectural element divides the left side of the composition, adding depth and structure. The lighting is natural and diffused, casting gentle shadows that highlight the subject’s facial features without harshness. The overall color palette is subdued, dominated by cool blues and soft neutrals, creating a contemplative and intimate mood. The camera angle is at eye level, with a shallow depth of field that keeps the focus on the subject while subtly abstracting the background, evoking a cinematic, documentary-style portrait.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:32.407730",
+  "word_count": 155,
+  "error_message": null
+}

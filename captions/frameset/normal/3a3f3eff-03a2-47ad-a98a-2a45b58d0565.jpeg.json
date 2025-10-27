@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a3f3eff-03a2-47ad-a98a-2a45b58d0565.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, intimate interior shot from the backseat of a car, looking forward through the windshield. Two people sit in the front seats: the driver, a woman with long hair, and a passenger, a man. The woman’s left hand is on the steering wheel, while her right hand gently rests on the man’s knee, suggesting a moment of quiet connection. The dashboard and steering wheel are visible, rendered in soft, natural light. Outside the windshield, a narrow dirt road stretches ahead, flanked by dense autumnal forest with rich, warm hues of orange and brown foliage. The lighting is subdued and moody, with the forest bathed in a gentle, diffused glow, creating a sense of calm and introspection. The composition uses a shallow depth of field, focusing on the figures and the road ahead, while the edges of the frame are softly vignetted, drawing the viewer’s eye toward the center. The overall style is reminiscent of an indie film, evoking themes of journey, intimacy, and quiet reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:10.741704",
+  "word_count": 167,
+  "error_message": null
+}

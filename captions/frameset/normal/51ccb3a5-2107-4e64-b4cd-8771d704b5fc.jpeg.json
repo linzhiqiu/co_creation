@@ -1,0 +1,12 @@
+{
+  "image_filename": "51ccb3a5-2107-4e64-b4cd-8771d704b5fc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a futuristic, high-security corridor. The hallway is long and narrow, with walls, ceiling, and floor made entirely of reflective, dark glass or polished metal panels, creating a mesmerizing, almost infinite series of reflections. The color palette is dominated by cool blues, deep blacks, and subtle silvery highlights, giving the space a cold, clinical, and high-tech atmosphere. At the far end of the corridor, two figures stand behind a sleek, modern desk or control station, their silhouettes partially illuminated by soft, diffused overhead lighting. The figures are small in the frame, emphasizing the vastness and symmetry of the corridor. The lighting is low and moody, with blue and white highlights glinting off the reflective surfaces, creating a sense of depth and mystery. The camera angle is centered and eye-level, drawing the viewer’s gaze straight down the corridor toward the figures, enhancing the sense of perspective and isolation. The overall style is reminiscent of a science fiction thriller, with a focus on geometric precision, stark contrasts, and an atmosphere of tension and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:34.698948",
+  "word_count": 178,
+  "error_message": null
+}

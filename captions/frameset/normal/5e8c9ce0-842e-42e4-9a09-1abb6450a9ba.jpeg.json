@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e8c9ce0-842e-42e4-9a09-1abb6450a9ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, overhead shot of a light wooden desk with a soft, warm color palette and gentle, natural lighting that evokes a cozy, studious atmosphere. Centered in the composition is an open, illustrated book or encyclopedia, its pages filled with colorful diagrams, small illustrations, and blocks of Italian text. Prominently featured are a portrait of a distinguished man with a mustache and bow tie, a hand-drawn book, and scientific illustrations, all rendered in a clean, educational style. Two small hands rest on either side of the book, suggesting a child or young student engaged in reading. Surrounding the book are scattered school supplies—colored pencils, a blue notebook with a playful tiger pattern, and a yellow highlighter—adding to the sense of an active learning environment. The image has a subtle film grain and soft focus around the edges, enhancing the nostalgic, vintage classroom feel. The overall mood is inviting, intellectual, and quietly focused, with a balanced, symmetrical composition and a shallow depth of field that draws the viewer’s attention to the open book and the act of discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:39.043704",
+  "word_count": 178,
+  "error_message": null
+}

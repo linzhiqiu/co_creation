@@ -1,0 +1,12 @@
+{
+  "image_filename": "4213a90d-2861-47f9-a753-46e1abb89b5d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A widescreen photograph captures the focal point of a living room: a flat-screen Samsung television, flanked by two tall black speakers, sits atop a black entertainment console cluttered with assorted electronics, remote controls, and scattered discs. The TV screen dominates the composition, displaying a cinematic scene of a young woman with dark hair, illuminated by moody, bluish lighting, gripping a steering wheel as she drives a car at night. Her expression is tense and focused, eyes fixed ahead, with the blurred glow of streetlights and police car lights visible through the rain-streaked windshield behind her, evoking a sense of suspense and urgency. The room itself is dimly lit, with soft, neutral tones and minimal background detail, drawing all attention to the vivid, high-contrast drama unfolding on the television. The overall style is realistic and cinematic, with a shallow depth of field that keeps the viewer’s gaze locked on the TV screen, while the surrounding environment remains subdued and slightly out of focus, enhancing the immersive, voyeuristic mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:53.990329",
+  "word_count": 170,
+  "error_message": null
+}

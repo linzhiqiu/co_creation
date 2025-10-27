@@ -1,0 +1,12 @@
+{
+  "image_filename": "40c36b43-30fa-4093-a48b-eb8b44925102.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking landscape scene featuring a serene, reflective lake in the foreground, bordered by lush green vegetation and dense clusters of trees on either side. In the distance, a dramatic range of snow-capped mountains rises sharply, their jagged peaks partially shrouded by low-hanging, moody clouds. The sky is overcast, with heavy, dark gray clouds casting a soft, diffused light over the entire scene, creating a somber yet majestic atmosphere. The color palette is dominated by deep greens, cool blues, and muted grays, with subtle highlights where sunlight breaks through the clouds and touches the mountain tops and treetops. The composition is wide and cinematic, with a low vantage point that emphasizes the expanse of the landscape and the grandeur of the mountains. The water’s surface is calm, mirroring the sky and mountains, adding a sense of tranquility and depth. The overall style is realistic and painterly, evoking the mood of a dramatic, untamed wilderness just before or after a storm.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:23.606423",
+  "word_count": 160,
+  "error_message": null
+}

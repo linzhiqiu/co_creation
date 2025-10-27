@@ -1,0 +1,12 @@
+{
+  "image_filename": "348d4ff5-f55a-4b18-8e1c-7dde546f54d1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, low-angle shot partially submerged at water level, capturing two young people floating serenely on their backs in a sun-dappled lake. The foreground is dominated by the soft, rippling surface of the water, rendered in muted green and golden hues, with gentle reflections and a dreamy, shallow depth of field. The subjects’ faces are relaxed and peaceful, eyes closed or gazing upward, their wet hair slicked back, suggesting a moment of quiet introspection or escape. In the background, the shoreline is softly out of focus, revealing a rustic wooden dock and dense, shadowy trees, bathed in warm, late afternoon sunlight. The overall color palette is naturalistic and subdued, with earthy greens, browns, and hints of sunlit amber. The lighting is natural and diffused, evoking a tranquil, nostalgic summer atmosphere. The composition emphasizes intimacy and immersion, with the camera almost at water level, creating a sense of presence and immediacy, while subtle lens flare and bokeh add a touch of ethereal realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:02.173226",
+  "word_count": 162,
+  "error_message": null
+}

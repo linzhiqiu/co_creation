@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bcaf501-77cb-4f60-a21b-412b31245861.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure dressed in light, loose-fitting desert clothing and a wide-brimmed hat walks across a vast, sun-bleached sandy landscape, casting a long, sharp shadow beneath the harsh midday sun. The scene is captured from a high, top-down aerial perspective, emphasizing the isolation and scale of the environment. Sparse, scrubby bushes dot the undulating dunes, their muted green and brown tones blending with the pale beige and ochre sand. The lighting is stark and natural, creating strong contrasts and crisp outlines, while the overall color palette is dominated by warm, earthy hues. The composition conveys a sense of solitude and endurance, with the figure appearing small and vulnerable against the expansive, arid terrain. The style is cinematic and contemplative, evoking themes of survival and journey through a desolate wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:36.840434",
+  "word_count": 129,
+  "error_message": null
+}

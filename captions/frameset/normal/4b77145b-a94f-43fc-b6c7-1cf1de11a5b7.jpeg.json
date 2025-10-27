@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b77145b-a94f-43fc-b6c7-1cf1de11a5b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a portrait of a young man standing against a solid, muted yellow background. He has short, tousled light brown hair and a fair complexion. He wears a mustard yellow button-up shirt layered over a plain white t-shirt, with the shirt unbuttoned for a relaxed, casual look. His expression is neutral and contemplative, with a direct gaze toward the camera, conveying a sense of quiet introspection. The lighting is soft and even, eliminating harsh shadows and giving the scene a gentle, natural feel. The composition is centered and straightforward, with the subject occupying the middle of the frame and the background free of distractions. The color palette is warm and harmonious, dominated by yellows and earth tones, enhancing the calm and minimalist atmosphere. The overall style is clean and modern, with a shallow depth of field that keeps the focus sharply on the subject while subtly blurring the background for a professional, studio portrait effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:05.154715",
+  "word_count": 155,
+  "error_message": null
+}

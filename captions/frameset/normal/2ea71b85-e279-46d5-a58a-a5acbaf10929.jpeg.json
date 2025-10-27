@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ea71b85-e279-46d5-a58a-a5acbaf10929.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, weathered metal barrel lies on its side in a dark, shadowy environment, partially illuminated by a cold, bluish light that accentuates its worn, industrial texture. The barrel is marked with a faded warning label, suggesting hazardous or toxic contents. From beneath the barrel, an eerie, vibrant green liquid seeps out, casting an unnatural glow onto the surrounding ground and creating a stark contrast with the otherwise muted, desaturated color palette. The scene is composed with a cinematic, low-angle perspective, emphasizing the barrel’s size and the ominous nature of the leaking substance. The lighting is moody and atmospheric, with deep shadows and selective highlights that evoke a sense of danger and environmental decay. The overall style is reminiscent of a suspenseful science fiction or post-apocalyptic film, with a focus on texture, color contrast, and a foreboding, mysterious mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:49.902884",
+  "word_count": 139,
+  "error_message": null
+}

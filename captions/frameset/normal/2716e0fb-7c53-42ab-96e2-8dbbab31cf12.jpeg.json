@@ -1,0 +1,12 @@
+{
+  "image_filename": "2716e0fb-7c53-42ab-96e2-8dbbab31cf12.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic landscape scene of a vast mountain range at dusk, viewed from a high vantage point. The composition features multiple layers of undulating mountain ridges receding into the distance, each layer rendered in progressively lighter shades of blue and teal, creating a sense of depth and atmospheric perspective. The foreground mountains are dark and shadowed, while the distant peaks are softly illuminated by the fading light, with a few snow-capped summits catching the last rays of the sun. A single small cloud floats in the clear sky, adding a touch of detail to the otherwise expansive and tranquil atmosphere. The color palette is dominated by cool blues, muted teals, and deep shadows, evoking a serene and contemplative mood. The lighting is soft and diffused, with a gentle gradient in the sky from deep blue at the top to a lighter hue near the horizon. The overall style is reminiscent of fine art landscape photography or a wide-angle shot from an epic nature documentary, with a strong emphasis on mood, scale, and the majesty of the natural world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:08.288288",
+  "word_count": 179,
+  "error_message": null
+}

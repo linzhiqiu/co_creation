@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c453736-b9e3-460f-a21e-5d7af698c873.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged, bald man stands outdoors in an urban setting, holding a smartphone up in front of him as if searching for a signal or reading something important. He wears a gray blazer over a blue collared shirt, his expression one of concern or confusion as he gazes slightly upward, lost in thought. The background is softly blurred, featuring the glass facade of a modern building with indistinct reflections and a passerby in motion, adding a sense of everyday city life. The color palette is muted and natural, with cool tones dominating the scene. The lighting is soft and diffused, suggesting an overcast day, and the camera is positioned at eye level with a shallow depth of field, keeping the man in sharp focus while the background remains out of focus. The overall style is cinematic, evoking a contemplative, introspective mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:01.579528",
+  "word_count": 141,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ce67f8e-085f-49f2-9409-8c46e5071a2c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dark, industrial sci-fi interior, viewed from a wide, slightly elevated angle, evoking a sense of foreboding and dystopia. The scene is dominated by a large, rectangular opening in the center of a grimy, metallic wall, its edges jagged and broken as if violently breached. Through the opening, two shadowy human figures stand silhouetted against a faint, cold blue light, their forms partially obscured by mist and distance, adding an air of mystery and tension. The foreground is filled with rows of mechanical arms or robotic machinery, receding into the smoky gloom, suggesting a factory or assembly line environment. Overhead, thick cables and pipes snake across the ceiling, contributing to the oppressive, cluttered atmosphere. Two small, flickering monitors hang on either side of the scene, casting eerie neon pink and blue glows, displaying cryptic, distorted images. The color palette is dominated by deep blues, blacks, and metallic grays, punctuated by the harsh, artificial light from the screens and the subtle, diffused illumination from the breach. The overall style is cinematic, with high contrast, heavy shadows, and a shallow depth of field that draws the viewer’s eye toward the central figures and the ominous opening, creating a mood of suspense and unease reminiscent of cyberpunk or neo-noir films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:18.927789",
+  "word_count": 208,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "415d7662-c9a0-44bd-9f97-1a210c46fc08.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic, wide-angle landscape at dusk, featuring a range of dark, jagged mountains silhouetted against a turbulent sky. The scene is dominated by heavy, brooding storm clouds that stretch across the frame, their deep blues and charcoal grays creating a sense of impending weather. A faint, diffused light breaks through the clouds near the horizon, casting a subtle, cold glow that outlines the mountain peaks and adds depth to the composition. The overall color palette is moody and desaturated, emphasizing cool tones and high contrast between the inky foreground and the lighter, storm-lit sky. The image has a cinematic quality, with a low horizon line and a sense of vastness and isolation, evoking a feeling of awe and foreboding. There are no human figures or signs of civilization, allowing the raw power of nature to take center stage. The lighting is natural and subdued, with soft gradients and no harsh highlights, enhancing the atmospheric and contemplative mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:35.983443",
+  "word_count": 161,
+  "error_message": null
+}

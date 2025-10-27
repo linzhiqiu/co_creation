@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ac9519f-fbf3-4d3c-a193-9aca3851b2e2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up shot of a car’s side-view mirror at dusk, capturing the blurred reflection of a quiet suburban street receding into the distance. The mirror dominates the foreground, its edges softly framing the scene, while the car’s dark, glossy exterior is just visible along the left edge. In the reflection, the road is lined with silhouetted trees and faint utility poles, their forms rendered in deep blues and muted purples under the fading twilight. Distant headlights and taillights create small, glowing orbs of red and white, trailing gently along the road, suggesting motion and the passage of time. The background outside the mirror is out of focus, revealing a warmly lit house with glowing yellow windows, evoking a sense of comfort and nostalgia. The overall color palette is cool and subdued, dominated by indigo, navy, and soft amber highlights. The lighting is natural and low, with the last light of day casting a gentle, melancholic mood. The composition uses shallow depth of field to emphasize the mirror’s reflection, creating a dreamy, introspective atmosphere reminiscent of a contemplative road movie.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:11.787830",
+  "word_count": 180,
+  "error_message": null
+}

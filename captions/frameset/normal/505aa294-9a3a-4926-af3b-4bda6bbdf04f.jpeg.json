@@ -1,0 +1,12 @@
+{
+  "image_filename": "505aa294-9a3a-4926-af3b-4bda6bbdf04f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a deserted, dimly lit underground subway station. The architecture features yellow-tiled walls and a low ceiling with harsh, circular fluorescent lights casting stark reflections on the wet, glossy floor. The atmosphere is thick with mist or smoke, creating a moody, mysterious ambiance. In the center of the frame, a solitary figure stands or walks toward the camera, their silhouette partially obscured by the haze, evoking a sense of suspense or isolation. The camera angle is dramatically tilted, adding a sense of unease and disorientation. The color palette is dominated by muted yellows, greens, and cool blues, with high contrast between the artificial lighting and the shadowy corners. The overall style is reminiscent of neo-noir or psychological thriller films, with a strong emphasis on mood, tension, and visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:01.454556",
+  "word_count": 135,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "32eaab01-9927-4631-96f4-6eccd2fb1ee4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, cinematic scene set in a sleek, modern interior with broad, softly lit steps ascending in the background. In the foreground, a humanoid robot with a glossy black and metallic body, accented by glowing orange joints and limbs, is captured in a dynamic, crouched pose, as if preparing to spring into action or perform. The robot’s design is both athletic and mechanical, with a helmet-like head and articulated limbs that suggest advanced robotics. \n\nIn the background, atop the stairs, a woman in a short, shimmering silver dress stands with one arm raised, her posture elegant and poised, as if she is either presenting the robot or reacting to its performance. The lighting is dramatic, with cool, diffused tones and subtle spotlights that highlight the robot’s reflective surfaces and the woman’s dress, creating a sense of depth and focus. The color palette is dominated by silvers, blacks, and oranges, with soft shadows and a slight blur in the periphery, suggesting a shallow depth of field. The composition is balanced and theatrical, with the robot centered and the woman elevated, evoking a sense of spectacle and anticipation. The overall style is reminiscent of high-end science fiction cinema, blending elements of performance art and advanced technology in a visually striking tableau.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:26.143021",
+  "word_count": 209,
+  "error_message": null
+}

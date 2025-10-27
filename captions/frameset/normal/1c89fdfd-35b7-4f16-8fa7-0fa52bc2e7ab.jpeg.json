@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c89fdfd-35b7-4f16-8fa7-0fa52bc2e7ab.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-action scene set inside a grand, gothic cathedral with soaring vaulted ceilings and tall, arched stained glass windows. The focal point is a motorcyclist in mid-air, captured at the peak of a daring jump as they burst through a large stained glass window, sending shards of colored glass and debris flying in all directions. The rider is dressed in dark, rugged clothing and a helmet, their posture tense and dynamic, emphasizing the intensity of the moment. The lighting is moody and cinematic, with cool blue and gray tones dominating the palette, punctuated by the vibrant reds, blues, and yellows of the shattered stained glass. Dust and particles catch the light, adding a sense of chaos and motion. The camera angle is wide and slightly low, emphasizing the scale of the cathedral and the height of the jump, with a shallow depth of field that keeps the motorcyclist and the explosion of glass in sharp focus while the background recedes into atmospheric haze. The overall style is reminiscent of a high-budget action film, blending gothic architecture with modern adrenaline-fueled spectacle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:23.753177",
+  "word_count": 182,
+  "error_message": null
+}

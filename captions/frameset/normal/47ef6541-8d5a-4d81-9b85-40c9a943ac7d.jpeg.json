@@ -1,0 +1,12 @@
+{
+  "image_filename": "47ef6541-8d5a-4d81-9b85-40c9a943ac7d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a man holding a small SD memory card between his thumb and forefinger, with the card positioned prominently in the foreground and sharply in focus. The man’s face is partially blurred in the background, his expression intense and focused as he examines the card. He is dressed in a dark suit jacket and white shirt, suggesting a formal or professional context. The lighting is dramatic and moody, with warm, golden highlights illuminating the man’s hand and the edges of the SD card, while the background falls off into deep shadows, creating a sense of intrigue and tension. The camera angle is low and intimate, with a shallow depth of field that isolates the subject and emphasizes the importance of the small object. The overall style is reminiscent of a suspenseful thriller or espionage film, with a rich, cinematic color palette dominated by warm tones and deep contrasts, evoking a sense of secrecy and high stakes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:57.157898",
+  "word_count": 160,
+  "error_message": null
+}

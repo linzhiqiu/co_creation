@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c684a3a-1f03-4d40-89be-26e53233061b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit bar scene focused on a pool table, captured with a shallow depth of field. In the foreground, several billiard balls—striped and solid—are sharply in focus, their glossy surfaces reflecting the soft, moody lighting. The teal felt of the table is richly textured, dominating the lower half of the composition. In the background, slightly out of focus, a person in casual clothing lines up a shot, their cue stick extended toward the balls. The figure’s face is obscured, emphasizing the anticipation and tension of the moment. The color palette is subdued, with deep blues, muted greens, and warm amber highlights from the ambient bar lighting. The overall style is cinematic, evoking a sense of quiet concentration and intimacy, with a low camera angle at table height and a gentle bokeh effect that isolates the action on the table from the shadowy, indistinct background.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:59.830579",
+  "word_count": 145,
+  "error_message": null
+}

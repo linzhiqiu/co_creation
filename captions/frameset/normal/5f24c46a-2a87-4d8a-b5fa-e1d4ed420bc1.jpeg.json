@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f24c46a-2a87-4d8a-b5fa-e1d4ed420bc1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime urban scene featuring a blue compact crossover SUV parked on a wet, reflective brick pavement. The car’s headlights and amber parking lights are on, casting a warm glow that contrasts with the cool blue tones dominating the image. Raindrops glisten on the car’s surface, enhancing the sense of recent rainfall. In the background, modern glass and concrete buildings are softly illuminated by ambient city lights, with a tall streetlamp providing additional cool white light that creates dramatic reflections on the ground. The camera angle is low and slightly off-center, emphasizing the car’s presence and the texture of the wet pavement. The foreground is partially obscured by the blurred silhouette of a person, adding depth and a sense of narrative intrigue. The overall color palette is a moody mix of deep blues, cool grays, and warm yellows, with high contrast and a shallow depth of field that keeps the focus on the car while the background remains softly out of focus. The scene evokes a sense of suspense and urban solitude, reminiscent of a neo-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:55.572590",
+  "word_count": 178,
+  "error_message": null
+}

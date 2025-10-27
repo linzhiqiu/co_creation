@@ -1,0 +1,12 @@
+{
+  "image_filename": "512a1351-b501-4973-88c0-a0b3acf593d1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person taking a photo of a dessert with a smartphone. The scene is composed with the phone and the dessert as the central focus, the phone screen clearly displaying the dessert from above. The person’s hand is visible, holding the phone and about to tap the screen, suggesting an action in progress. In the blurred background, a cup of coffee sits on a saucer, adding context and warmth to the scene. The color palette is monochromatic, rendered in soft black and white tones, giving the image a timeless, elegant feel. The lighting is diffuse and natural, with gentle highlights and minimal shadows, creating a calm and inviting atmosphere. The depth of field is shallow, with the phone and dessert in sharp focus while the background elements are softly blurred, drawing the viewer’s attention to the act of photographing. The overall style is modern and minimalistic, reminiscent of lifestyle photography or a cinematic still, capturing a quiet, everyday moment with artistic sensitivity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:18.762220",
+  "word_count": 167,
+  "error_message": null
+}

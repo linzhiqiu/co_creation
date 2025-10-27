@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ee4f744-f2a0-4480-854a-0181fca5b562.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A confident warehouse worker stands at the center of a vast, high-ceilinged storage facility, arms crossed and smiling with quiet pride. He wears a dark blue work jumpsuit with a visible patch on the chest, and a blue shirt underneath. His short blond hair is slightly tousled, and his expression is friendly and approachable. The background is filled with tall metal shelving units stacked with various boxes and packages, receding into the distance and creating a strong sense of depth and scale. The lighting is bright and even, with cool tones dominating the color palette—blues, grays, and muted yellows from the boxes—giving the scene a clean, industrial feel. The camera is positioned at eye level with a shallow depth of field, keeping the worker in sharp focus while the shelves blur softly into the background. The overall style is cinematic, evoking a sense of professionalism, efficiency, and pride in manual labor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:16.042040",
+  "word_count": 151,
+  "error_message": null
+}

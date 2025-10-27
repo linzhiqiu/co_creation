@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b070d24-cec8-4efa-99aa-2caa74e60f22.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic suburban scene set in front of a modest house with a small, fenced yard. The central subject is an elderly woman with short white hair, dressed in a light blue denim jacket and matching pants, standing just inside the black metal gate. She is slightly hunched over, reaching down to pick up a cardboard package resting on the walkway. To her left, a futuristic delivery drone hovers in midair, its rotors kicking up a dramatic cloud of dust and debris, suggesting a recent landing or takeoff. The house behind her features a porch with wooden siding and a few visible windows, while vibrant red flowers and lush green foliage line the fence, adding a pop of color to the otherwise muted, overcast palette. The lighting is soft and diffused, evoking a calm, late afternoon atmosphere. The composition is balanced, with the woman and the drone as focal points, and a shallow depth of field subtly blurring the background to emphasize the action in the foreground. The overall style blends realism with a touch of speculative fiction, capturing a moment of everyday life intersecting with advanced technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:17.851982",
+  "word_count": 188,
+  "error_message": null
+}

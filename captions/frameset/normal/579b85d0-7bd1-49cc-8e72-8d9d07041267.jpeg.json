@@ -1,0 +1,12 @@
+{
+  "image_filename": "579b85d0-7bd1-49cc-8e72-8d9d07041267.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a vast, golden-brown wheat field at harvest time, captured from directly overhead. In the center-right of the composition, a single red combine harvester moves horizontally across the field, leaving a distinct, lighter-colored swath of freshly cut wheat in its wake. The harvester is detailed, with visible machinery and a small cab, and its path creates a strong visual contrast against the textured, unharvested rows. The field is marked by subtle, dark lines—possibly tractor tracks or irrigation lines—that form a loose grid pattern, adding geometric structure to the scene. The color palette is dominated by warm earth tones: ochres, tans, and muted yellows, with the red of the harvester providing a striking accent. The lighting is natural and even, suggesting midday sunlight, with minimal shadows and a crisp, documentary style. The overall mood is industrious and serene, emphasizing the scale of agricultural work and the beauty of rural landscapes. The image has a sense of order and repetition, with the harvester’s progress highlighting human intervention in nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:54.487380",
+  "word_count": 169,
+  "error_message": null
+}

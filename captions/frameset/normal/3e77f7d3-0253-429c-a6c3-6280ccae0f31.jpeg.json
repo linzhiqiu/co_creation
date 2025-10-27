@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e77f7d3-0253-429c-a6c3-6280ccae0f31.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, atmospheric scene set in a large, dimly lit room with walls covered in a geometric, soundproofing pattern of protruding cubes, all bathed in an intense green light. On the left side of the frame stands a solitary figure dressed in dark, formal clothing, their posture rigid and hands at their sides, partially obscured by shadow. On the right, another figure, also clad in dark attire, stands behind a rectangular pedestal or block, holding a white electric bass guitar. The guitar is connected to the block by a visible chain, adding a sense of tension and confinement. The overall composition is wide and symmetrical, emphasizing the distance and isolation between the two figures. The lighting is moody and monochromatic, casting deep shadows and giving the scene a mysterious, almost otherworldly quality. The camera angle is straight-on at eye level, with a deep depth of field that keeps both the textured background and the subjects in sharp focus. The mood is tense and enigmatic, evoking a sense of performance, confrontation, or psychological drama within a stylized, cinematic environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:42.641163",
+  "word_count": 178,
+  "error_message": null
+}

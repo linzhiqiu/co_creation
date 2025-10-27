@@ -1,0 +1,12 @@
+{
+  "image_filename": "21c5a0eb-b581-498f-9d51-cd20907b5b37.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person's left hand gently pointing at a technical schematic or engineering diagram printed on white paper. The hand, with neatly trimmed nails and natural skin tones, occupies the lower left portion of the frame, with the index finger extended to indicate a specific labeled box on the diagram. The schematic features a series of interconnected rectangular boxes, each filled with alphanumeric codes, lines, and symbols, suggesting an electrical or architectural plan. The background is softly out of focus, emphasizing the hand and the section of the diagram being indicated. The color palette is warm and subdued, with soft natural lighting casting gentle shadows and giving the scene a calm, studious atmosphere. The composition is intimate and documentary in style, with a shallow depth of field drawing attention to the interaction between the hand and the technical drawing, evoking a sense of careful analysis and precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:22.943382",
+  "word_count": 150,
+  "error_message": null
+}

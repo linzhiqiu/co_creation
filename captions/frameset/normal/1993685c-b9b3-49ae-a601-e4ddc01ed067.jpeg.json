@@ -1,0 +1,12 @@
+{
+  "image_filename": "1993685c-b9b3-49ae-a601-e4ddc01ed067.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bright, inviting scene set inside a large home improvement store, with wide aisles lined by tall display panels showcasing various flooring samples in neutral tones. In the foreground, three adults walk side by side: a friendly Home Depot employee in an orange apron, gesturing animatedly and speaking, leads a smiling man and woman. The man, dressed in a pale pink button-down shirt and jeans, pushes a shopping cart containing potted plants, while the woman, in a green blouse and dark jeans, walks beside him, engaged and cheerful. The lighting is even and natural, highlighting the clean, organized environment and the vibrant colors of the plants and the employee’s apron. The camera angle is eye-level, creating an approachable, documentary feel, with a moderate depth of field that keeps the group in sharp focus while softly blurring the background displays. The overall mood is warm, helpful, and collaborative, evoking a sense of friendly customer service and productive shopping.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:21.446905",
+  "word_count": 157,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3055691b-d654-4005-b8c1-53347543ffec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking, high-altitude view of the Earth’s atmosphere as seen from the edge of space. The composition is wide and panoramic, capturing a vast expanse of billowing, sunlit clouds stretching across the lower half of the frame. Above the clouds, the sky transitions from a pale, glowing horizon to a deep, inky blue-black, evoking the thinning atmosphere and the curvature of the planet. The sun is positioned in the upper left corner, radiating intense, diffused light that creates soft lens flares and subtle reflections across the image, enhancing the sense of altitude and exposure. The color palette is dominated by cool blues, soft whites, and hints of golden sunlight, with gentle gradients and atmospheric haze lending a dreamlike, ethereal quality. The overall style is cinematic and awe-inspiring, reminiscent of footage captured from a weather balloon or spacecraft, with a sense of stillness and grandeur. The camera angle is slightly tilted, as if peering out from a high-altitude capsule, emphasizing the vastness and fragility of the Earth below.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:28.194273",
+  "word_count": 167,
+  "error_message": null
+}

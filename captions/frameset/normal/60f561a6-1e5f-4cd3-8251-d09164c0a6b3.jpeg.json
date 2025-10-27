@@ -1,0 +1,12 @@
+{
+  "image_filename": "60f561a6-1e5f-4cd3-8251-d09164c0a6b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged, bald man with a neatly trimmed gray beard and glasses stands at the center of a cozy, warmly lit kitchen. He wears a deep green apron over a burgundy long-sleeve shirt, his sleeves rolled up as he enthusiastically gestures with both hands in a classic Italian manner, fingers pinched together, conveying excitement and passion. His expression is animated and joyful, mouth open in mid-exclamation, eyes wide with delight, as if he is explaining or presenting something to an audience.\n\nThe scene is viewed through a circular frame, reminiscent of a camera lens or ring light, which softly blurs the edges and draws focus to the subject. The background features a tiled wall in earthy tones, shelves lined with bottles, jars, and kitchen utensils, and a botanical poster, all bathed in a golden, dappled light that creates a warm, inviting atmosphere. The lighting is cinematic, with dramatic shadows and highlights that accentuate the man’s features and the textures of the kitchen. The overall color palette is rich and autumnal, dominated by deep greens, warm browns, and soft amber hues. The composition is intimate and dynamic, with a shallow depth of field that keeps the man sharply in focus while the background remains softly blurred, enhancing the sense of immediacy and engagement. The style evokes the look of a high-quality cooking show or a vibrant food commercial, blending realism with a touch of theatrical flair.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:43.574626",
+  "word_count": 235,
+  "error_message": null
+}

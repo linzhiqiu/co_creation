@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ad557a4-dde4-4580-aa6f-829e4eca2723.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide cinematic landscape at dusk, featuring a long, elegant bridge stretching across a calm body of water. The bridge is supported by evenly spaced pillars, their reflections creating rhythmic vertical lines on the glassy surface below. In the distance, snow-capped mountains rise against a dramatic sky, tinged with soft hues of lavender, pink, and pale orange from the setting sun. The lighting is gentle and diffuse, casting a tranquil, almost ethereal glow over the scene. The overall color palette is cool and subdued, dominated by blues, purples, and muted pastels, with subtle warm highlights near the horizon. The composition is balanced and expansive, with the bridge forming a graceful arc from left to right, leading the viewer’s eye across the frame. The mood is serene and contemplative, evoking a sense of quiet solitude and natural beauty. The camera angle is low and wide, emphasizing the scale of the landscape and the stillness of the water, with a deep depth of field that keeps both the foreground and distant mountains in sharp focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:35.985607",
+  "word_count": 173,
+  "error_message": null
+}

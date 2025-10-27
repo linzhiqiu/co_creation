@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c7c3ad6-a8a3-4aff-9f7e-6d06a9311cde.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man with a shaved head sits behind the wheel of an older, dusty sedan, driving down a sunlit rural road. The camera is positioned outside the car, directly in front of the windshield, capturing the driver’s intense, contemplative expression as he stares ahead, hands gripping the steering wheel. He wears a light-colored jacket over a neutral shirt, his face partially shadowed by the car’s roof, emphasizing his somber mood. The background reveals a blur of green foliage and dry grass, with a wooden utility pole and clear blue sky suggesting a remote, quiet setting. The color palette is muted and earthy, dominated by tans, greens, and soft sunlight, evoking a sense of isolation and introspection. The composition uses a shallow depth of field, keeping the driver in sharp focus while the background and car interior are slightly blurred, heightening the emotional intensity. The overall style is cinematic and naturalistic, reminiscent of a tense drama or road movie, with a subtle sense of motion conveyed by the angled perspective and the suggestion of movement outside the car.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:32.049667",
+  "word_count": 178,
+  "error_message": null
+}

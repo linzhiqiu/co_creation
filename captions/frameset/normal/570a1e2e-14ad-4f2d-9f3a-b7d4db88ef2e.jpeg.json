@@ -1,0 +1,12 @@
+{
+  "image_filename": "570a1e2e-14ad-4f2d-9f3a-b7d4db88ef2e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set beneath a weathered concrete overpass or bridge. The central subject is a solitary figure standing with their back to the camera, positioned in the middle of the frame. The person wears a light gray vest layered over a black hoodie, with the hood down, and light-colored pants. Their hair is tied up in a loose bun. The figure’s posture is relaxed, arms hanging loosely by their sides, conveying a sense of contemplation or solitude.\n\nThe environment is stark and industrial, with tall, rough concrete pillars receding into the background, creating a strong sense of depth and perspective. The ground is covered in small, scattered gravel, adding texture to the scene. Soft, natural daylight filters in from the left, casting gentle shadows and highlighting the textures of the concrete and the subject’s clothing. The color palette is muted and desaturated, dominated by grays, beiges, and soft earth tones, enhancing the somber, introspective mood.\n\nThe camera angle is at eye level, directly behind the subject, with a shallow depth of field that keeps the figure in sharp focus while the background gradually blurs. The overall style is reminiscent of a contemplative indie film, evoking feelings of isolation, reflection, and quiet resilience.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:41.177710",
+  "word_count": 205,
+  "error_message": null
+}

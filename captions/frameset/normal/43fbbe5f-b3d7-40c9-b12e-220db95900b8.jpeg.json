@@ -1,0 +1,12 @@
+{
+  "image_filename": "43fbbe5f-b3d7-40c9-b12e-220db95900b8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young male fast food worker stands indoors, facing the camera in a well-lit, modern restaurant environment. He wears a black uniform consisting of a T-shirt, apron, and a branded visor cap, with a name tag reading \"Todd\" pinned to his chest. His expression is attentive and slightly earnest, as if engaged in conversation with a customer. To the right of the frame, a lush green potted plant partially obscures the view, adding a touch of natural color and softness to the otherwise clean, neutral-toned background. The lighting is bright and even, with soft natural highlights that create a welcoming, approachable atmosphere. The depth of field is shallow, keeping the worker and the plant in sharp focus while gently blurring the background, which features indistinct restaurant fixtures and counters. The overall style is realistic and contemporary, with a slight cinematic quality achieved through careful composition and a balanced color palette of blacks, greens, and soft whites.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:31.867289",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d773131-178f-4bbb-a1b6-d00e5eccb4e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, color-blocked scene featuring two young girls seated at a diagonally split table, one half bright yellow and the other a muted brown. The girl on the left, dressed in a chocolate brown t-shirt, sits on the brown side of the table, while the girl on the right, wearing a vibrant yellow t-shirt, sits on the yellow side. Both girls have long hair styled in braids and are intently focused on assembling small puzzle pieces scattered on the table in front of them. Each girl has a large, exaggerated banana-shaped prop held in her mouth, adding a whimsical and slightly absurd touch to the composition.\n\nThe background is divided to match the table: the left wall is yellow with a repeating pattern of brown chocolate heart shapes, while the right wall is brown with a repeating pattern of bright yellow bananas. The lighting is soft and even, creating a gentle, almost dreamlike atmosphere with minimal shadows. The camera angle is eye-level, capturing the scene head-on and emphasizing the symmetry and color contrast. The overall style is playful and conceptual, with a strong graphic quality and a carefully controlled color palette dominated by yellows and browns. The mood is contemplative yet quirky, evoking a sense of surrealism and visual harmony.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:31.913447",
+  "word_count": 210,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e925913-bfa4-46cc-90f0-e31ad2be438f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white cinematic portrait of a young man in profile, standing indoors near a wooden-framed window. The man has neatly styled dark hair and wears a collared shirt beneath a dark coat, evoking a mid-20th-century European aesthetic. His expression is serious and contemplative, with his gaze directed out the window, suggesting introspection or anticipation. The background outside the window is softly blurred, hinting at a rainy or overcast day, with faint outlines of trees and a building visible, enhancing the mood of quiet melancholy. The lighting is soft and natural, diffused through the window, casting gentle highlights on the man’s face and hair while leaving subtle shadows that add depth and dimension. The composition is intimate and tightly framed, with the subject’s head and shoulders dominating the foreground, and the window providing a geometric structure that frames his profile. The overall style is reminiscent of classic European art-house cinema, with a focus on emotional nuance, atmospheric detail, and a restrained, elegant visual language.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:20.605484",
+  "word_count": 163,
+  "error_message": null
+}

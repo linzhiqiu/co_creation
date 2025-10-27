@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a979567-197c-4f4d-af53-b7ada42612eb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, minimalist black-and-white photograph featuring a single human hand as the central subject. The hand is positioned palm-forward, fingers slightly spread, and occupies the center of the frame, emerging from a deep, featureless black background. The lighting is stark and directional, casting soft shadows that accentuate the contours and lines of the palm and fingers, while the rest of the scene remains enveloped in darkness. The hand wears a simple ring on the middle finger, adding a subtle focal point and hint of narrative. The overall mood is somber and introspective, with high contrast and a grainy texture reminiscent of classic film noir or vintage photography. The composition is uncluttered, with a shallow depth of field that keeps the hand in sharp focus while the background remains completely black, evoking a sense of isolation and quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:18.391623",
+  "word_count": 139,
+  "error_message": null
+}

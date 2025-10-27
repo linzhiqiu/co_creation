@@ -1,0 +1,12 @@
+{
+  "image_filename": "404cb0fa-fd06-417e-8ba0-27b75b30eef4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene of a large, modern hardware store with the prominent sign \"HOMEBASE\" illuminated on the upper facade. The building is bathed in a moody, atmospheric glow from tall street lamps, their light diffusing through a light mist or drizzle, creating soft halos and reflections on the wet asphalt of the empty parking lot in the foreground. The store’s glass windows reveal a faint, cool blue interior light, contrasting with the warm, golden tones of the exterior lamps. The overall color palette is dominated by deep blues, blacks, and muted yellows, evoking a sense of quiet and solitude. The composition is wide and symmetrical, with the store centered in the frame, shot from a low angle to emphasize the scale of the building against the night sky. The mood is contemplative and cinematic, reminiscent of a scene from a modern drama or thriller, with a strong sense of atmosphere and depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:15.091487",
+  "word_count": 154,
+  "error_message": null
+}

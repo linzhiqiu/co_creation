@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cb9024f-b024-40be-bbf1-a02f5ecfce5e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic close-up of a futuristic car hood, viewed from a low, head-on angle. The composition centers on a sleek, symmetrical air intake with a glowing orange-red light strip running vertically down the middle, casting a subtle reflection on the glossy black surface. The hood features intricate, perforated patterns and sculpted vents, emphasizing advanced aerodynamics and high-performance engineering. The lighting is dramatic and focused, with the background fading into deep black, isolating the car’s surface and creating a sense of mystery and power. The color palette is dominated by glossy blacks, metallic silvers, and the striking, luminous orange accent. The overall style is modern, minimalistic, and evocative of luxury automotive advertising, with a shallow depth of field that draws attention to the central illuminated detail and the smooth, reflective textures.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:12.904086",
+  "word_count": 131,
+  "error_message": null
+}

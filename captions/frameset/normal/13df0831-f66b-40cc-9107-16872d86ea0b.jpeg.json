@@ -1,0 +1,12 @@
+{
+  "image_filename": "13df0831-f66b-40cc-9107-16872d86ea0b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a moody, atmospheric scene viewed from the forest floor, looking straight up at a dense canopy of trees. The leaves and branches form an intricate, almost lace-like pattern against a dusky, twilight sky. The color palette is dominated by deep, shadowy greens and cool, muted blues, evoking the onset of night. The lighting is very low, with only faint, diffused light filtering through the foliage, casting the entire scene in a mysterious, somber tone. The composition emphasizes the height and density of the trees, with overlapping branches and leaves creating a sense of depth and enclosure. The overall style is cinematic and immersive, with a naturalistic, slightly desaturated look that enhances the quiet, contemplative mood of the forest at dusk.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:07.169623",
+  "word_count": 122,
+  "error_message": null
+}

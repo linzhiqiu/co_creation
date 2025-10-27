@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f80db65-122d-46c8-a32a-d4b672a4349d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a modern city intersection at golden hour, captured from directly overhead. The composition is symmetrical, with two wide, multi-lane streets crossing at right angles, flanked by tall office buildings with glass and concrete facades. The sunlight casts long, dramatic shadows from the buildings onto the streets below, creating a striking interplay of light and shadow. Sparse traffic is visible: a few white and silver cars are driving or parked along the roads, their shadows elongated by the low sun. The sidewalks are mostly empty, with only a few indistinct figures and some scattered street furniture. The color palette is dominated by warm golden tones from the sunlight, contrasted with cool grays and blues of the buildings and asphalt. The overall style is crisp and cinematic, with sharp details and a sense of depth created by the height and perspective. The mood is calm and contemplative, evoking the quiet of early morning or late afternoon in a bustling urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:07.703951",
+  "word_count": 164,
+  "error_message": null
+}

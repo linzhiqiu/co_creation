@@ -1,0 +1,12 @@
+{
+  "image_filename": "23c517cc-b673-4e4b-92cf-990d29bdc4f5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, documentary-style image from the perspective of someone standing on the deck of a sailboat at sea. The main focus is a large, partially unfurled sail in the foreground, prominently displaying the text \"SeaLegacy 1\" in bold red letters. The sail is taut, catching the wind, with visible seams and rigging lines adding texture and detail. The ocean stretches out to the horizon, its surface choppy and dark, reflecting the moody, overcast sky above. Heavy clouds dominate the background, with a faint, diffused light breaking through near the horizon, suggesting either dawn or dusk. The color palette is cool and muted, with deep blues and grays, accented by the red on the sail. The overall atmosphere is dramatic and adventurous, evoking a sense of exploration and resilience. The composition uses a low, slightly tilted camera angle to emphasize the scale of the sail and the vastness of the open sea, with a shallow depth of field that keeps the sail sharp while the background remains softly focused. The lighting is natural and subdued, enhancing the realism and immersive quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:59.349213",
+  "word_count": 184,
+  "error_message": null
+}

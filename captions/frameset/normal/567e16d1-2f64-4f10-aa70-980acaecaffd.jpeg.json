@@ -1,0 +1,12 @@
+{
+  "image_filename": "567e16d1-2f64-4f10-aa70-980acaecaffd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern silver SUV drives across a vast, minimalist landscape that blurs the line between reality and abstraction. The vehicle is positioned slightly off-center, angled as if in motion, with its wheels kicking up subtle blue-tinted shadows on the pale, almost white sand. In the background, a softly rendered, misty mountain rises, partially obscured by a swirling, cloud-like formation that adds a dreamlike quality to the scene. The color palette is cool and restrained, dominated by silvers, whites, and muted blues, with gentle gradients and soft edges that evoke a watercolor painting. The lighting is diffuse and ethereal, with no harsh shadows, creating a serene, otherworldly atmosphere. The overall composition is cinematic and contemplative, with a shallow depth of field that keeps the focus on the car while allowing the background to dissolve into gentle abstraction. The style is a blend of hyperrealism and impressionism, merging crisp automotive detail with painterly, atmospheric surroundings.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:24.672846",
+  "word_count": 154,
+  "error_message": null
+}

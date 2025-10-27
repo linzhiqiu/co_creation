@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fc9011f-b545-4c0a-b143-7760619d8c65.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern washing machine control panel, captured from a slightly low, front-facing angle to emphasize the digital display. The main focus is on the illuminated blue-green LED screen, which prominently reads \"BEGIN CYCLE\" in bold, clear letters. The surrounding buttons and dials are sharply in focus, showcasing various settings such as \"Temperature,\" \"Spin Speed,\" and \"Soil Level,\" with subtle reflections on the glossy white and silver surfaces. The lighting is soft and diffused, creating a calm, domestic atmosphere with minimal shadows. In the background, a hint of a pale yellow fabric is visible, slightly out of focus, adding a touch of warmth and context to the scene. The overall color palette is cool and clean, dominated by whites, silvers, and the blue glow of the display, evoking a sense of modernity and efficiency. The composition is tight and uncluttered, with a shallow depth of field that draws the viewer’s attention directly to the digital message and the tactile details of the machine’s interface.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:47.563878",
+  "word_count": 167,
+  "error_message": null
+}

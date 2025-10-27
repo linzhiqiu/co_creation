@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b11ee8d-4488-4275-96c9-27878cda7936.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a chalkboard filled with hand-drawn white chalk diagrams, featuring geometric shapes and intersecting lines. The main focus is on a metallic pointer with a rounded tip, held horizontally and directed toward a specific part of the diagram, emphasizing a circular shape with overlapping lines and several \"X\" marks. The chalkboard background is a deep matte black, providing strong contrast to the crisp, slightly imperfect white chalk lines. The lighting is soft and even, minimizing shadows and highlighting the texture of the chalk and the smoothness of the pointer. The composition is tight and intimate, with a shallow depth of field that blurs the edges of the board, drawing attention to the pointer and the diagram it indicates. The overall style is reminiscent of a classroom or a strategic planning session, evoking a sense of focused analysis and intellectual engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:52.479894",
+  "word_count": 143,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "21793071-181b-4136-a3dd-e2b19c3e4835.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph of a computer screen displaying the Google homepage. The iconic, colorful Google logo is prominently visible in the upper right quadrant, slightly out of focus, while the search bar is centered and in sharp focus. In the search bar, the phrase “Why does my baby” is typed, and a dropdown list of autocomplete suggestions appears below, including queries like “why does my baby drool so much,” “why does my baby hate tummy time,” and “why does my baby eat more at night.” The composition is angled, with the left edge of the screen slightly blurred, creating a sense of intimacy and immediacy. The color palette is dominated by the clean whites and soft grays of the Google interface, punctuated by the vibrant primary colors of the logo. The lighting is soft and natural, evoking a quiet, contemplative mood, as if capturing a private moment of parental concern and curiosity. The overall style is realistic and documentary-like, with a focus on authenticity and emotional resonance, reminiscent of a scene from a modern drama or a lifestyle editorial.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:07.470640",
+  "word_count": 181,
+  "error_message": null
+}

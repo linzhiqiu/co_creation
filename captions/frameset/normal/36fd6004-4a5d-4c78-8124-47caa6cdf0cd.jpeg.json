@@ -1,0 +1,12 @@
+{
+  "image_filename": "36fd6004-4a5d-4c78-8124-47caa6cdf0cd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with short dark hair is seen from behind and in profile, standing in front of a large, old-fashioned window with frosted glass and ornate geometric patterns. He is wearing a loose, light-colored t-shirt with subtle text on the back. The man is holding a hammer in one hand and appears to be securing dark wooden planks across the window, suggesting a sense of urgency or preparation. The lighting is soft and diffused, with natural daylight streaming through the window, casting a gentle glow around the subject and creating a slight halo effect. The overall color palette is muted and subdued, dominated by pale neutrals and the dark wood, evoking a quiet, contemplative mood. The composition is intimate, with a shallow depth of field that keeps the focus on the man and his actions, while the background remains softly blurred. The camera angle is slightly low and close, enhancing the sense of immediacy and drawing attention to the interplay of light and shadow on the subject and the window. The scene has a cinematic, almost melancholic quality, reminiscent of a quiet moment in a dramatic film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:57.713292",
+  "word_count": 188,
+  "error_message": null
+}

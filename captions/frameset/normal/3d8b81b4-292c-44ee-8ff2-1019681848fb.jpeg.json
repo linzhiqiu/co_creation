@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d8b81b4-292c-44ee-8ff2-1019681848fb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand holding a smartphone, with their thumb poised to select a food item on a vibrant food delivery app interface. The phone screen dominates the composition, displaying a colorful array of restaurant dishes—primarily pizzas and curries—each presented in high-resolution thumbnail images with vivid reds, yellows, and greens that pop against the clean, white app background. The app interface features clear, modern typography, star ratings, and price tags in Norwegian kroner, with subtle pink and blue accent icons for favorites and recommendations. The lighting is soft but focused, illuminating the phone screen brightly while the hand and background fade into a gentle, unobtrusive darkness, creating a sense of intimacy and immediacy. The overall style is realistic and contemporary, with a shallow depth of field that blurs the background, drawing all attention to the interaction between the user and the digital menu. The mood is inviting and practical, evoking the anticipation of choosing a delicious meal.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:27.250077",
+  "word_count": 161,
+  "error_message": null
+}

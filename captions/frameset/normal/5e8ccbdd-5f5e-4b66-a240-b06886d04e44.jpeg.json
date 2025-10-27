@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e8ccbdd-5f5e-4b66-a240-b06886d04e44.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder view of a person reading an illustrated history book in warm, ambient lighting. The focus is on the open pages of the book, which features detailed illustrations and text about the invention of fire. On the left page, there is a vivid, realistic painting of an early human holding a flaming torch, the fire rendered in bright oranges and yellows that contrast with the earthy tones of the figure’s skin and surroundings. On the right page, there are two lifelike drawings of hands demonstrating primitive fire-making techniques, with careful attention to anatomical detail and the textures of wood and stone. The reader’s hands, dark-skinned and gently resting on the pages, are visible in the foreground, adding a sense of intimacy and human presence. The background is softly blurred, revealing hints of a cozy, dimly lit room with books and artwork, enhancing the sense of quiet concentration. The overall color palette is dominated by warm browns, golds, and creams, with soft shadows and a shallow depth of field that draws the eye to the book’s content. The composition feels cinematic and contemplative, evoking a mood of curiosity and quiet discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:37.234041",
+  "word_count": 192,
+  "error_message": null
+}

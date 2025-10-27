@@ -1,0 +1,12 @@
+{
+  "image_filename": "21ede066-5449-426a-b3dd-19292cf6d4af.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic urban street scene set in a quiet, early morning city. In the foreground, feature two cars parked side by side: a modern, compact red Smart car with sleek, contemporary lines and a glossy finish, and a classic black vintage sedan with chrome detailing and a boxy silhouette. The cars are positioned at a slight angle, emphasizing their contrasting eras and designs. \n\nThe background showcases a row of old brick buildings with large windows, some adorned with blue-green trim and ornate street lamps. Warm, ambient light spills from a cozy café on the right, its windows glowing with the soft yellow of hanging chandeliers, suggesting early activity inside. A single pedestrian, dressed in a light blue coat and white pants, walks briskly past the café, adding a sense of motion and life to the otherwise tranquil scene.\n\nThe color palette is a harmonious blend of muted earth tones from the buildings, punctuated by the vibrant red of the Smart car and the deep black of the vintage sedan. The lighting is natural and diffused, evoking a calm, overcast morning with soft shadows and gentle highlights. The composition is balanced, with a slight depth of field that keeps both the cars and the architectural details in sharp focus, while subtly blurring the more distant background. The overall style is realistic with a touch of nostalgic charm, reminiscent of a scene from a modern European film that juxtaposes past and present through its visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:19.972060",
+  "word_count": 245,
+  "error_message": null
+}

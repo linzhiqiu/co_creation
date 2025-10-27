@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c50ab27-05e3-455e-a1d8-923ac405af0f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban street scene captured from a slightly elevated, head-on perspective, showcasing dense, bumper-to-bumper traffic. The composition is filled with a variety of vehicles—yellow taxis, white sedans, black SUVs, delivery vans, and a large, dark bus—creating a sense of congestion and urban chaos. The vehicles are tightly packed, their glossy surfaces reflecting the muted daylight. On the left, an ambulance with flashing lights is partially visible, hinting at urgency and the constant movement of city life. In the background, orange-and-white construction barriers line the street, adding a sense of disruption and ongoing development. Pedestrians are faintly visible on the sidewalks, blurred by the shallow depth of field, emphasizing the focus on the traffic. The color palette is dominated by cool grays, whites, and blacks, punctuated by the yellow of the taxis and the orange of the barriers. The lighting is natural but subdued, suggesting an overcast day or late afternoon, with soft shadows and a slightly desaturated, cinematic tone. The overall style is realistic and documentary-like, with a wide aspect ratio and a sense of depth created by the receding lines of vehicles and the layered composition. The mood is tense and dynamic, capturing the relentless energy and congestion of a major city at rush hour.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:27.637627",
+  "word_count": 207,
+  "error_message": null
+}

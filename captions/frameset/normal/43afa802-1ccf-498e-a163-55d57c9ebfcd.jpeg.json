@@ -1,0 +1,12 @@
+{
+  "image_filename": "43afa802-1ccf-498e-a163-55d57c9ebfcd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A top-down view of a modern, organized workspace featuring a person working at a dark wooden desk. The central focus is a sleek, silver tablet or laptop with a detachable keyboard, displaying a 3D modeling software with a dark interface and a rendered image of a minimalist, rectangular object. The person’s hands are visible: the left hand holds a green sticky note and a pen, while the right hand operates a black computer mouse. Surrounding the main device are technical sketches and blueprints of geometric objects, some with handwritten notes and sticky notes attached. Two large computer monitors frame the scene at the top, displaying additional design software and a close-up render of a device, contributing to a high-tech, creative atmosphere. The lighting is soft and diffused, casting gentle shadows and emphasizing the clean, professional environment. The color palette is dominated by muted earth tones, grays, and the subtle glow of screens, evoking a focused, modern, and slightly cinematic mood. The composition is symmetrical and balanced, with a shallow depth of field that keeps the viewer’s attention on the workspace and the creative process unfolding.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:31.651567",
+  "word_count": 185,
+  "error_message": null
+}

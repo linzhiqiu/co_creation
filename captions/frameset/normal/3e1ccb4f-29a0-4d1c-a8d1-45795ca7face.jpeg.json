@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e1ccb4f-29a0-4d1c-a8d1-45795ca7face.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone female dancer performs an elegant, athletic pose in the center of a sunlit, open-air parking garage. She balances on one hand, her body arched gracefully with one leg extended high in a dramatic split, capturing a moment of strength and poise. The dancer wears a simple, form-fitting leotard that accentuates her silhouette against the stark, minimalist architecture. The scene is bathed in natural daylight, with crisp shadows cast on the concrete floor, emphasizing the geometric lines and open spaces of the structure. The background features clean, white walls and large rectangular openings that frame a clear blue sky, creating a striking contrast between the dancer’s dynamic form and the serene, architectural environment. The overall color palette is cool and subdued, dominated by whites, grays, and blues, lending a calm, modern atmosphere. The composition is wide and cinematic, with a low camera angle and deep depth of field, highlighting both the dancer’s movement and the expansive, airy setting. The mood is contemplative and powerful, evoking a sense of freedom and discipline within an urban landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:34.421686",
+  "word_count": 176,
+  "error_message": null
+}

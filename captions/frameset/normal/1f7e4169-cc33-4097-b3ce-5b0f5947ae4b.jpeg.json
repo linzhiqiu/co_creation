@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f7e4169-cc33-4097-b3ce-5b0f5947ae4b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up cinematic shot of a sleek, modern quadcopter drone hovering just above an outstretched human hand. The drone is sharply in focus, its dark metallic body and spinning propellers catching the soft, natural light. A small red indicator light glows on the drone, adding a subtle accent to the otherwise muted color palette. The background is a dreamy, softly blurred forest scene with tall trees and dappled sunlight filtering through the leaves, rendered in earthy greens, browns, and hints of gold. The hand, delicate and gently cupped, is positioned in the lower right of the frame, suggesting a moment of interaction or control. The overall mood is calm and contemplative, with a shallow depth of field isolating the drone and hand from the tranquil woodland backdrop. The lighting is natural and diffused, evoking a serene, early morning or late afternoon atmosphere. The composition emphasizes the relationship between technology and nature, with a sense of anticipation and quiet wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:31.060615",
+  "word_count": 159,
+  "error_message": null
+}

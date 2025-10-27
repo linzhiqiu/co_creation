@@ -1,0 +1,12 @@
+{
+  "image_filename": "1244df85-1345-40c9-9269-ff0c00008bdc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in the foreground, slightly out of focus, gazing up at a modern office building. The building’s facade is composed of a grid of large, dark-tinted windows framed by concrete, with bold red accents outlining the window frames and architectural features. Dominating the center of the building is a large, stylized neon sign in the shape of a “Z,” glowing in red and black, drawing the viewer’s eye upward. Leafless trees with spindly branches partially obscure the lower part of the building, adding a sense of winter or early spring. The color palette is muted and cool, with shades of gray, blue, and red, creating a somber, contemplative mood. The lighting is natural and overcast, diffusing the scene with soft, even light and subtle shadows. The camera angle is low and slightly off-center, emphasizing the scale of the building and the insignificance of the lone figure, whose back is turned to the viewer. The overall style is cinematic, with a shallow depth of field that blurs the foreground and sharpens the architectural details, evoking a sense of mystery and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:30.532059",
+  "word_count": 183,
+  "error_message": null
+}

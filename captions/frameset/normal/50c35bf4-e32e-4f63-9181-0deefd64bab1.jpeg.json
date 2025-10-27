@@ -1,0 +1,12 @@
+{
+  "image_filename": "50c35bf4-e32e-4f63-9181-0deefd64bab1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, close-up shot of a soccer ball in mid-motion, captured just as it skids across a sunlit outdoor court. The ball is unusually cube-shaped, with worn black and white panels, and a cloud of dust trails behind it, emphasizing its speed and impact. In the blurred background, a group of young people in casual sportswear stand near the edge of the court, their forms softened by a shallow depth of field. The setting is an urban schoolyard or playground, with a multi-story building featuring balconies and windows bathed in warm afternoon sunlight. The color palette is vibrant yet natural, dominated by earthy reds and yellows of the court, the faded whites and blacks of the ball, and the soft blue sky above. The camera angle is low and dramatic, almost at ground level, lending a sense of immediacy and energy to the scene. The overall style is cinematic, with a slight sense of surrealism due to the cube-shaped ball, and the lighting is bright and natural, casting soft shadows and enhancing the sense of motion and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:12.187719",
+  "word_count": 178,
+  "error_message": null
+}

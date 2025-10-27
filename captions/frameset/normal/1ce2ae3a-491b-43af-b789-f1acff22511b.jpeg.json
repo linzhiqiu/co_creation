@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ce2ae3a-491b-43af-b789-f1acff22511b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a vast, dimly lit room dominated by an enormous blackboard that stretches from floor to ceiling, completely covered in intricate mathematical equations, diagrams, and scientific notations written in white chalk. In the foreground, a solitary figure stands with their back to the viewer, dressed in dark, modern clothing—a black jacket and pants—conveying a sense of focus and contemplation. The person is slightly hunched forward, deeply engrossed in the calculations, with one hand raised as if writing or pointing at the board. The lighting is soft and moody, casting gentle shadows and creating a dramatic contrast between the illuminated figure and the dark, complex background. The color palette is subdued, dominated by deep blacks, cool grays, and subtle highlights, evoking an atmosphere of intellectual intensity and solitude. The composition uses a wide-angle perspective, emphasizing the scale of the blackboard and the smallness of the human figure, with a shallow depth of field that keeps the focus on the subject and the immediate area of the board. The overall style is reminiscent of a thought-provoking science drama, blending realism with a touch of surreal grandeur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:30.923625",
+  "word_count": 189,
+  "error_message": null
+}

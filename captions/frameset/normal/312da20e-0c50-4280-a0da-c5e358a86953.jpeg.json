@@ -1,0 +1,12 @@
+{
+  "image_filename": "312da20e-0c50-4280-a0da-c5e358a86953.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly polished, futuristic sci-fi scene set inside a pristine, white, high-tech laboratory or spaceship interior. The central subject is a sleek, egg-shaped robot with a glossy white body, floating slightly above the ground. The robot has a smooth, seamless design with glowing blue eyes set in a black visor, giving it a gentle yet alert expression. Its arms are retracted, and a red security clamp with a glowing red light is attached to its side, suggesting containment or quarantine.\n\nSurrounding the robot are several articulated robotic arms, each with a different function: one holds a blue-and-white striped umbrella, another is equipped with a fire extinguisher, and others are poised as if ready to interact with the robot. A green glowing indicator light is positioned above the robot, adding a sense of monitoring or surveillance.\n\nThe background is composed of curved, white, seamless walls and panels, with soft, diffused lighting that creates a sterile, almost ethereal atmosphere. The color palette is dominated by clean whites and silvers, accented by the blue of the robot’s eyes and the umbrella, the red of the clamp and fire extinguisher, and the green indicator light. The composition is symmetrical and balanced, with a slight depth of field that keeps the focus on the central robot while softly blurring the background elements. The overall style is cinematic, evoking a sense of advanced technology, order, and gentle humor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:47.782365",
+  "word_count": 233,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a8ca113-2bfb-4199-aeaa-b4102805697b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, close-up view of a tree stump’s cross-section, captured from directly above. The image focuses on the intricate concentric growth rings, radiating outward from the center, each ring clearly defined and varying subtly in width and color. Prominent natural cracks extend from the core, creating organic, irregular lines that break up the symmetry of the rings. The wood’s surface displays a warm, earthy palette of golden browns, ochres, and hints of muted orange, with subtle shadows accentuating the texture and depth of the grain. The lighting is soft and diffuse, highlighting the tactile quality of the wood without harsh reflections. The composition is centered and symmetrical, emphasizing the natural geometry and age of the tree, with a shallow depth of field that keeps the entire surface in sharp focus. The overall style is naturalistic and documentary, evoking a sense of time, history, and organic beauty.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:03.172282",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c3f41af-e78d-47be-9e55-ba473f6f591d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a wide-angle, daylight cityscape featuring a striking, modern residential building with a geometric, modular design. The building’s facade is composed of a grid of glass and white panels, with irregularly placed windows and balconies, creating a dynamic, almost pixelated appearance. The structure is surrounded by a clean, urban environment with neatly arranged trees and a small courtyard area. In the foreground, include elevated train tracks running parallel to the bottom edge of the frame, their metallic rails and concrete supports leading the viewer’s eye into the scene. The background features additional contemporary buildings and a partly cloudy sky, with soft, natural lighting that casts gentle shadows and highlights the crisp lines of the architecture. The overall color palette is cool and muted, dominated by whites, grays, and subtle blues, evoking a sense of calm, order, and modernity. The composition should emphasize depth and perspective, with a slightly elevated camera angle that captures both the architectural details and the urban context, reminiscent of high-end architectural photography or a scene from a minimalist, Scandinavian-inspired film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:59.967016",
+  "word_count": 175,
+  "error_message": null
+}

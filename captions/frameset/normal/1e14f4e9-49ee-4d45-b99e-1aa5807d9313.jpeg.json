@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e14f4e9-49ee-4d45-b99e-1aa5807d9313.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast black-and-white close-up of a man with disheveled hair, his face partially obscured by deep shadows. The subject leans in toward the camera, his expression intense and slightly anxious, as if caught in a moment of revelation or desperation. The lighting is stark and directional, casting one side of his face into darkness while the other is illuminated, emphasizing the contours and texture of his skin. In the background, out of focus but discernible, are complex mechanical or scientific apparatuses, suggesting a cluttered laboratory or workshop environment. The composition uses a slightly tilted, almost voyeuristic camera angle from below, enhancing the sense of psychological tension and claustrophobia. The overall style is reminiscent of classic film noir or psychological thrillers, with a gritty, cinematic quality and a palpable sense of unease.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:54.191967",
+  "word_count": 133,
+  "error_message": null
+}

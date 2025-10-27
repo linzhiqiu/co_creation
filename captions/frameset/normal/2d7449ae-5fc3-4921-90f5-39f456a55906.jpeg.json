@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d7449ae-5fc3-4921-90f5-39f456a55906.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a robotic arm delicately holding a computer processor chip with its mechanical grippers. The focus is sharp on the gold pins and intricate details of the chip, while the rest of the robotic arm and background fade into a deep, soft blur, creating a dramatic shallow depth of field. The lighting is moody and directional, highlighting the metallic textures and subtle reflections on the robot’s surface, while the background remains almost entirely black, emphasizing the subject and adding a sense of high-tech sophistication. The overall color palette is dominated by metallic silvers, golds, and deep shadows, evoking a futuristic, industrial atmosphere. The composition is tight and intimate, with the processor chip centered and slightly angled, suggesting precision and advanced technology. The style is reminiscent of a high-end technology commercial or a science fiction film, with a focus on clarity, detail, and a sense of innovation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:30.048748",
+  "word_count": 150,
+  "error_message": null
+}

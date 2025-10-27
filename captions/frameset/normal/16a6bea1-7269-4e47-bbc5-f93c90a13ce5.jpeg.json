@@ -1,0 +1,12 @@
+{
+  "image_filename": "16a6bea1-7269-4e47-bbc5-f93c90a13ce5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a human finger pressing down on a black computer keyboard, focusing on the arrow keys. The composition is tight, with the finger dominating the foreground and the keys filling the background, creating a sense of intimacy and immediacy. The arrow keys are highlighted with vivid blue triangular symbols, contrasting sharply against the matte black surface of the keyboard. The lighting is moody and low-key, casting soft shadows and subtle reflections on the keys, while the finger is illuminated with a gentle, natural light that accentuates the texture of the skin and nail. The depth of field is shallow, rendering the background keys slightly out of focus and drawing attention to the tactile interaction between the finger and the keyboard. The overall color palette is cool and subdued, dominated by blacks, blues, and hints of white, evoking a modern, technological atmosphere. The image has a crisp, high-resolution quality, with a cinematic feel reminiscent of a tech thriller or a dramatic moment in a hacker film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:14.422560",
+  "word_count": 169,
+  "error_message": null
+}

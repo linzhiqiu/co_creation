@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e6a4895-c972-487a-8fc3-c93e060175f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern car interior is viewed from outside the passenger-side window, with the camera positioned at a slight angle to capture both the reflective glass and the digital display projected onto it. The main focus is a futuristic, holographic-style interface showing vehicle information: a large circular gauge indicating \"70%\" battery and \"320 km\" range, accompanied by the name \"Darren\" and the time \"21:18 Sun.\" Above, bold Chinese characters glow in a friendly greeting. The display uses cool, neon hues—greens, blues, and yellows—contrasting against the muted, metallic tones of the car’s exterior. In the softly blurred background, the faint reflection of a young man’s face is visible, his expression calm and content, adding a human touch to the high-tech scene. The lighting is natural and diffused, suggesting early morning or late afternoon, with gentle highlights on the car’s surface. The overall style is cinematic and polished, with a shallow depth of field that keeps the digital interface crisp while the background remains softly out of focus, evoking a sense of innovation, comfort, and quiet anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:40.217183",
+  "word_count": 175,
+  "error_message": null
+}

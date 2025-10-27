@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e74c549-308c-4003-8781-e97d29ef8887.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast, black-and-white photograph of a single athletic woman performing a yoga pose on a glossy, reflective surface. The subject is captured in a dynamic, downward-facing position, with her hips raised high, one leg extended back, and her forearms resting on the ground. She wears minimal, form-fitting athletic wear that accentuates her muscular form. The lighting is stark and directional, casting deep shadows and highlighting the contours of her body, while the background is a seamless, pure white that isolates the figure and enhances the dramatic silhouette. The reflection beneath her adds depth and symmetry to the composition. The overall style is minimalist and modern, with a focus on the interplay of light, shadow, and form, evoking a sense of strength, grace, and meditative focus. The camera angle is side-on at a low height, emphasizing the lines and geometry of the pose, with a shallow depth of field that keeps the subject crisp against the soft, luminous background.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:07.200032",
+  "word_count": 159,
+  "error_message": null
+}

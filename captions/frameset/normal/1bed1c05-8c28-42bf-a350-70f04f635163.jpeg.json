@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bed1c05-8c28-42bf-a350-70f04f635163.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban street scene captured in broad daylight, featuring a classic yellow taxi cab as the central subject, positioned mid-frame and driving through an intersection. The taxi is an older model sedan with a checkered stripe and a roof sign, evoking a nostalgic city atmosphere. In the foreground, a silver car and a city worker in a bright orange safety vest with reflective stripes are partially visible, adding layers of depth and movement to the composition. To the left, a cyclist in motion and a pedestrian crossing sign with a green walk signal contribute to the sense of city life and activity. The background is filled with parked cars and the shadowy facades of urban buildings, rendered in muted tones that contrast with the vivid yellow of the taxi and the orange of the worker’s vest. The lighting is natural and slightly harsh, casting crisp shadows and highlighting the vibrant colors. The camera angle is slightly low and off-center, creating a dynamic, documentary-style perspective with a shallow depth of field that keeps the focus on the taxi while allowing the surrounding elements to blur gently, enhancing the sense of motion and realism. The overall mood is energetic and authentic, capturing a fleeting moment in a lively city environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:10.632686",
+  "word_count": 209,
+  "error_message": null
+}

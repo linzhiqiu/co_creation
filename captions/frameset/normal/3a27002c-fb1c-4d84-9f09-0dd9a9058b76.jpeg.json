@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a27002c-fb1c-4d84-9f09-0dd9a9058b76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody image of a long, narrow corridor with stark, minimalist architecture. The hallway is illuminated by a series of evenly spaced, cold blue fluorescent lights mounted on the ceiling, casting a cool, almost clinical glow throughout the space. The walls and ceiling are smooth and painted in pale blue tones, while the left wall features a rougher, textured surface, adding subtle visual contrast. The corridor stretches into the distance, creating a strong sense of depth and perspective, with the vanishing point centered in the composition. The floor is dark and unadorned, further emphasizing the tunnel-like effect. The overall atmosphere is mysterious and slightly unsettling, evoking feelings of isolation and anticipation. The color palette is dominated by shades of blue and gray, with high contrast and soft shadows, reminiscent of a suspenseful science fiction or psychological thriller film. The camera angle is eye-level, perfectly aligned with the center of the hallway, enhancing the sense of symmetry and infinite repetition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:09.604658",
+  "word_count": 162,
+  "error_message": null
+}

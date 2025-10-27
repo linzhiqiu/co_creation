@@ -1,0 +1,12 @@
+{
+  "image_filename": "1851a32c-f1cf-446e-979f-10657dcdf0da.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A richly detailed, cinematic black-and-white image set in an opulent, high-ceilinged room with ornate moldings, tall windows draped with heavy curtains, and grand crystal chandeliers casting soft, diffused light. In the center of the polished parquet floor, two fencers in full gear—white jackets, breeches, gloves, and protective masks—are captured mid-bout. One fencer lunges forward with a foil extended, while the other adopts a defensive stance, both poised and focused. The composition uses a low, wide-angle perspective, emphasizing the elegant symmetry of the room and the dynamic tension between the athletes. The lighting is natural, streaming in from the large windows, creating dramatic contrasts and subtle reflections on the floor. The overall mood is refined and intense, blending the grace of classical architecture with the athleticism and discipline of fencing, evoking a timeless, almost cinematic quality reminiscent of a historical drama or an artful sports documentary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:48.746449",
+  "word_count": 145,
+  "error_message": null
+}

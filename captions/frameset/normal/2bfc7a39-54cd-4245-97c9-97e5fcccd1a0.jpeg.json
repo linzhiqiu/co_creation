@@ -1,0 +1,12 @@
+{
+  "image_filename": "2bfc7a39-54cd-4245-97c9-97e5fcccd1a0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, cinematic close-up of a middle-aged man with a shaved head and intense, weathered features. His face is slick with sweat, illuminated by a harsh, golden light that accentuates the texture of his skin and the tension in his expression. He stares directly into the camera with a look of grim determination and vulnerability, his lips slightly parted as if caught mid-breath. In the dimly lit background, partially obscured by shadow, another figure with long, dark hair and indistinct features looms, adding an air of menace and mystery. The setting is dark and claustrophobic, with hints of industrial or prison-like architecture suggested by blurred vertical bars of warm light behind the main subject. The color palette is dominated by deep shadows, muted earth tones, and stark highlights, creating a moody, oppressive atmosphere. The composition uses a shallow depth of field to keep the focus tightly on the foreground subject, while the background figure remains ominous and out of focus. The overall style is reminiscent of a psychological thriller or dystopian film, with a sense of tension and unease permeating the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:56.750604",
+  "word_count": 183,
+  "error_message": null
+}

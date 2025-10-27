@@ -1,0 +1,12 @@
+{
+  "image_filename": "180949d3-4da2-41e0-954a-d378445c6cdf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure jogs up a wide, stone staircase bordered by ornate wrought-iron railings, set in an urban environment at night. The scene is viewed from an elevated, slightly diagonal angle, capturing the geometric lines of the stairs and the empty, intersecting streets below. The area is illuminated by a series of classic street lamps, casting warm pools of golden light that contrast with the cool, bluish shadows enveloping the rest of the scene. The jogger, dressed in athletic wear, is mid-stride, their motion subtly blurred to convey movement. In the background, quiet residential buildings and tram tracks recede into the distance, emphasizing the stillness and emptiness of the city at this hour. The overall color palette is muted, dominated by deep blues, grays, and soft amber highlights, evoking a contemplative, cinematic mood. The composition uses strong leading lines and a shallow depth of field to draw the viewer’s eye toward the lone runner, heightening the sense of solitude and quiet determination.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:42.628762",
+  "word_count": 162,
+  "error_message": null
+}

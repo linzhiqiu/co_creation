@@ -1,0 +1,12 @@
+{
+  "image_filename": "297f5c1b-f8f2-4b35-a14e-bb24a1ec1702.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic black-and-white seascape capturing the raw power of the ocean. The scene is dominated by massive, crashing waves colliding against jagged, dark cliffs on the left side of the frame. The water is turbulent, with frothy white spray erupting into the air, creating a sense of motion and chaos. The sky above is overcast, with heavy clouds diffusing the light and casting a moody, somber atmosphere over the entire scene. The composition emphasizes the scale and energy of the waves, with a low, slightly angled camera perspective that draws the viewer into the tumultuous water. The monochrome palette enhances the stark contrasts between the dark rocks, the churning sea, and the misty spray, evoking a timeless, cinematic quality reminiscent of classic black-and-white photography. The overall mood is intense and awe-inspiring, capturing the relentless force and beauty of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:59.606050",
+  "word_count": 139,
+  "error_message": null
+}

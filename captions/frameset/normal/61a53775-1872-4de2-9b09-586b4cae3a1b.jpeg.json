@@ -1,0 +1,12 @@
+{
+  "image_filename": "61a53775-1872-4de2-9b09-586b4cae3a1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a young East Asian woman preparing to shoot an arrow, captured at the moment of intense concentration. The camera is positioned at a slight angle, focusing tightly on her face and the arrow, with the bowstring drawn back beside her cheek. Her expression is calm yet determined, lips painted a bold red, eyes fixed on her target just out of frame. She wears a vibrant blue garment, and her dark hair is neatly pulled back. A hand, adorned with a chunky black ring and a red string bracelet, steadies the arrow, adding a sense of collaboration or instruction. The background is softly blurred, suggesting an outdoor setting with muted, overcast skies and faint cityscape or landscape elements, creating a shallow depth of field that keeps all attention on the subject. The color palette is cool and subdued, with pops of blue and red standing out against the neutral tones. The lighting is natural and diffused, evoking a contemplative, almost meditative mood. The overall style is reminiscent of a modern arthouse film, with a focus on emotional intensity and visual clarity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:58.531286",
+  "word_count": 185,
+  "error_message": null
+}

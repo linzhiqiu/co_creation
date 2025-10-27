@@ -1,0 +1,12 @@
+{
+  "image_filename": "39728c4f-e134-41d6-b184-1adbf6079a62.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A retro-futuristic laboratory scene set in the 1970s, featuring three main subjects: a humanoid robot, a man seated at a control console, and another man standing nearby. The robot stands in the foreground, its design distinctly vintage with a metallic silver body, bold geometric patterns in red, yellow, and blue, and a stylized, expressive faceplate. The robot’s arms are slightly outstretched, as if in mid-gesture or greeting. The man at the console wears a pale yellow shirt and dark pants, sitting in a white chair and looking toward the robot with a mix of curiosity and caution. The standing man sports a red jacket, white shirt, and beige pants, his posture relaxed but attentive, as if introducing or explaining the robot.\n\nThe background is filled with large, analog control panels adorned with blinking lights, dials, and switches, evoking a classic science fiction aesthetic. A large, wall-mounted monitor and various technical apparatuses add to the sense of a high-tech environment. The color palette is dominated by muted grays and whites, punctuated by the vibrant primary colors of the robot and the red of the standing man’s jacket. Lighting is even and soft, with minimal shadows, creating a clean, clinical atmosphere. The composition is wide and balanced, with the robot as the central focal point, framed by the two men and the surrounding machinery. The overall style is reminiscent of mid-century sci-fi cinema, with a slightly whimsical, optimistic tone and a sense of technological wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:52.767540",
+  "word_count": 243,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "21bd4def-9952-4852-9b88-46e59c9dce3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding an early 2000s Nokia mobile phone, with the thumb poised over the keypad as if about to press a button. The phone’s screen displays text in Chinese characters, softly illuminated with a pale blue backlight. The background is blurred, rendered in cool, muted tones of grey and beige, creating a shallow depth of field that draws all attention to the phone and the hand. The lighting is natural and diffused, suggesting daylight filtering through a window, with gentle highlights on the phone’s metallic edges. The overall style is cinematic and intimate, evoking a sense of anticipation or quiet tension, as if capturing a pivotal moment in a modern urban drama. The composition is tight and focused, with the phone centered and the hand entering from the right, emphasizing the tactile interaction and the significance of the message on the screen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:14.095606",
+  "word_count": 147,
+  "error_message": null
+}

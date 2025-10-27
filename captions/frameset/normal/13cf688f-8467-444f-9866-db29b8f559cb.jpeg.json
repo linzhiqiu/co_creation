@@ -1,0 +1,12 @@
+{
+  "image_filename": "13cf688f-8467-444f-9866-db29b8f559cb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, atmospheric scene featuring the silhouette of a large, leafless tree with intricate, twisting branches set against a dramatic, overcast sky. The composition is dominated by the dark, organic shapes of the tree, which stand out starkly against the pale, cloud-filled background. The color palette is subdued and cool, with deep blacks and muted blues and grays, evoking a sense of winter or late autumn. The lighting is soft and diffused, with no direct sunlight, enhancing the somber and contemplative mood. The camera angle is slightly upward, emphasizing the height and complexity of the tree’s branches, while the background remains softly blurred, drawing attention to the sharp, graphic lines of the silhouette. The overall style is reminiscent of fine art photography or a still from a contemplative film, with a focus on natural forms, negative space, and a quiet, introspective atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:06.690128",
+  "word_count": 143,
+  "error_message": null
+}

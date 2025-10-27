@@ -1,0 +1,12 @@
+{
+  "image_filename": "34c7fb07-c990-4c01-8da9-49e76e955c95.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a young woman with dark hair pulled back, wearing large, stylish eyeglasses and a light blue collared shirt. She sits at a desk, intently focused on a computer screen in front of her, her expression calm and thoughtful, suggesting deep concentration. The lighting is soft and natural, casting gentle highlights on her face while the background remains blurred and subdued, with hints of another person and a touch of greenery out of focus, creating a sense of depth and a quiet, professional atmosphere. The color palette is cool and muted, dominated by blues, greys, and soft skin tones, evoking a modern, contemplative workspace. The composition uses a shallow depth of field, with the camera positioned slightly above and to the side, emphasizing her engagement with her work and isolating her from distractions, resulting in an intimate, introspective mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:07.405489",
+  "word_count": 143,
+  "error_message": null
+}

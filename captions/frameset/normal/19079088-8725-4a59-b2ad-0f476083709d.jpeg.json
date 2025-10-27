@@ -1,0 +1,12 @@
+{
+  "image_filename": "19079088-8725-4a59-b2ad-0f476083709d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure, dressed in dark, casual clothing, is captured from behind as they stride purposefully across a modern pedestrian bridge. The scene is set in an urban environment, with tall, glass-fronted buildings rising on either side, their geometric lines and reflective surfaces creating a sense of contemporary city life. The bridge’s white railings curve inward, leading the viewer’s eye toward the center of the composition and emphasizing the subject’s movement forward. The lighting is cool and diffuse, with a soft blue tint that suggests early morning or late afternoon, casting gentle shadows and lending the image a slightly melancholic, cinematic atmosphere. The camera angle is low and centered, enhancing the sense of depth and drawing attention to the vanishing point on the horizon. The overall style is reminiscent of a dramatic film still, with a focus on isolation, determination, and the vastness of the urban landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:07.020860",
+  "word_count": 147,
+  "error_message": null
+}

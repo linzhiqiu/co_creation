@@ -1,0 +1,12 @@
+{
+  "image_filename": "29a51889-a057-4c21-a16c-0b41e949dbd7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a woman with a shaved head, positioned centrally and facing directly toward the camera with a calm yet intense expression. She wears a simple, utilitarian brown garment, evoking a sense of resilience and austerity. The background features vertical metal bars, suggesting a prison or industrial setting, with soft, diffused lighting that casts gentle shadows and highlights the contours of her face. The color palette is muted and earthy, dominated by browns and grays, enhancing the somber and gritty atmosphere. The composition is tight, focusing on her face and upper shoulders, with a shallow depth of field that subtly blurs the background, drawing attention to her determined gaze. The overall style is reminiscent of a dramatic science fiction film, with a stark, realistic tone and a sense of quiet strength and defiance in the subject’s demeanor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:04.285759",
+  "word_count": 140,
+  "error_message": null
+}

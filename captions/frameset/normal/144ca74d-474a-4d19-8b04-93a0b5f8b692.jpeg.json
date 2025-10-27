@@ -1,0 +1,12 @@
+{
+  "image_filename": "144ca74d-474a-4d19-8b04-93a0b5f8b692.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern car speeds along a deserted two-lane highway that cuts through a vast, arid landscape. The scene is captured from a high, slightly angled perspective, emphasizing the car’s motion and the emptiness of its surroundings. The car, metallic and reflective, stands out against the muted earth tones of the dry grasslands and the pale, almost white expanse in the distance, possibly a salt flat or dried lakebed. The color palette is dominated by warm browns, ochres, and dusty grays, with the car providing a cool, metallic contrast. The lighting is natural and subdued, suggesting late afternoon or early evening, casting soft shadows and lending a cinematic, contemplative mood to the image. The composition uses a shallow depth of field, keeping the car in sharp focus while the foreground and background blur slightly, enhancing the sense of speed and isolation. The overall style is reminiscent of a road movie or a high-end automotive commercial, evoking themes of freedom, solitude, and the open road.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:19.319463",
+  "word_count": 164,
+  "error_message": null
+}

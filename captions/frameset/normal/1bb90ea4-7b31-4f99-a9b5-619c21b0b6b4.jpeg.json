@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bb90ea4-7b31-4f99-a9b5-619c21b0b6b4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic nighttime street scene set in a European city, likely Madrid, with narrow, winding cobblestone roads and tall, old buildings lining both sides. The street is dimly lit by warm, yellowish street lamps mounted on the building facades, casting long, dramatic shadows and creating a strong contrast with the deep blue and teal tones that dominate the overall color palette. In the foreground, a modern white car with bright, glaring headlights is parked or slowly moving, its lights creating striking blue lens flares that streak across the image, adding a sense of tension and visual dynamism. \n\nA small group of shadowy figures, dressed in dark, indistinct clothing, stand or move near the building entrances, partially illuminated by the streetlights, their features obscured to evoke mystery and suspense. The buildings themselves are textured with stone and plaster, featuring wrought iron balconies and shuttered windows, contributing to the authentic urban European atmosphere. The camera angle is slightly tilted and positioned at street level, enhancing the sense of depth and drawing the viewer’s eye up the sloping street. The overall style is reminiscent of a neo-noir thriller, with a focus on dramatic lighting, urban isolation, and a tense, cinematic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:03.166421",
+  "word_count": 199,
+  "error_message": null
+}

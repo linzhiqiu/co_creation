@@ -1,0 +1,12 @@
+{
+  "image_filename": "1608089a-02be-4aae-a1f1-3d66fda2cd3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, atmospheric scene set in a dimly lit, circular room with a muted, sepia-toned color palette. The focal point is a collection of small, origami paper boats suspended in mid-air, as if frozen in motion, scattered at varying heights and distances to create a sense of depth and gentle chaos. The floor is smooth and slightly reflective, with subtle shadows cast by the boats, enhancing the illusion of floating. In the background, a large, curved mirror reflects part of the scene, adding complexity and a dreamlike quality. The lighting is soft and moody, with gentle highlights and deep shadows, evoking a cinematic, contemplative atmosphere. The overall composition is balanced yet mysterious, inviting the viewer to ponder the stillness and symbolism of the floating paper boats within this enigmatic, almost theatrical space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:58.247690",
+  "word_count": 133,
+  "error_message": null
+}

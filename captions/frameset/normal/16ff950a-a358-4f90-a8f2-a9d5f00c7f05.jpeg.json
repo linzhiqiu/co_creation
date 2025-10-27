@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ff950a-a358-4f90-a8f2-a9d5f00c7f05.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a mechanic’s gloved hand using a precision tool to work on a metallic engine block. The focus is on the intricate details of the engine’s surface, with circular ports and machined edges catching the cool, bluish industrial lighting. The tool, with an orange handle, is poised at a small opening, suggesting careful, technical work. The background is softly blurred, emphasizing the depth of field and drawing attention to the textures and craftsmanship of the metal. The overall color palette is dominated by steely blues and muted grays, with subtle highlights reflecting off the polished surfaces, creating a moody, high-contrast atmosphere reminiscent of a workshop or factory setting. The composition is tight and intimate, evoking a sense of precision, expertise, and focus on mechanical engineering.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:20.550530",
+  "word_count": 129,
+  "error_message": null
+}

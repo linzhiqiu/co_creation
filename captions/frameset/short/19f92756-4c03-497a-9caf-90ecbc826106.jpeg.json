@@ -1,0 +1,12 @@
+{
+  "image_filename": "19f92756-4c03-497a-9caf-90ecbc826106.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up of hands holding a photograph of a female boxer in a dimly lit gym, sweat glistening on her face, intense and determined. In the background, a red Reebok shoebox filled with folded clothes. Warm, natural lighting, shallow depth of field, cinematic composition, evoking nostalgia and ambition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:23.967647",
+  "word_count": 47,
+  "error_message": null
+}

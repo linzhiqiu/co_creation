@@ -1,0 +1,12 @@
+{
+  "image_filename": "18199e14-5222-45f4-89bd-424d6435cf73.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, cinematic photograph of a railway construction site in a suburban area during daylight. The scene is dominated by large, industrial yellow maintenance vehicles and flatbed railcars positioned on parallel train tracks. Several workers in bright orange high-visibility safety clothing and hard hats are actively engaged in various tasks—one stands atop a railcar, while others are on the ground, interacting with machinery and equipment. The background features a row of modest, gabled houses with red and gray roofs, partially obscured by a wire fence running alongside the tracks. Overhead, a network of electrical wires and poles crisscrosses the sky, which is bright and partly cloudy, casting soft, natural light over the scene. The color palette is a mix of industrial yellows, muted earth tones, and the vivid orange of the workers’ uniforms, contrasted against the cool blue sky. The composition emphasizes depth, with the tracks leading the viewer’s eye into the distance, and a shallow depth of field subtly blurring the far background. The overall mood is industrious and dynamic, capturing the energy and precision of railway maintenance in a modern, semi-urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:47.774247",
+  "word_count": 184,
+  "error_message": null
+}

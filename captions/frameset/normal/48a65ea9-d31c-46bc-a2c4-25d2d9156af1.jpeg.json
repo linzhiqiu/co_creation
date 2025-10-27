@@ -1,0 +1,12 @@
+{
+  "image_filename": "48a65ea9-d31c-46bc-a2c4-25d2d9156af1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wall of television monitors fills the frame, each screen displaying a different black-and-white broadcast related to horse racing. The central focus is on two large monitors side by side, both showing a dramatic moment from a horse race at Calder Race Course, with the numbers \"7 3 2\" prominently displayed in bold white text against a dark background. Surrounding these main screens are smaller monitors, some showing close-ups of galloping horses, others displaying jockeys, race statistics, or wide shots of racetracks. The composition is tight and grid-like, creating a sense of surveillance and information overload. The color palette is strictly monochromatic, with deep blacks, bright whites, and a range of grays, lending the scene a vintage, documentary feel. The lighting is even and diffuse, with no harsh shadows, emphasizing the glow of the screens against the dark background. The overall style is clinical and observational, reminiscent of a control room or surveillance hub, with a slight cinematic quality due to the symmetrical arrangement and the repetition of racing imagery. The camera angle is straight-on, capturing the entire wall of monitors in sharp focus, creating a sense of immersion and intensity as if the viewer is standing directly in front of this bank of screens, absorbing the relentless flow of information.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:09.119621",
+  "word_count": 211,
+  "error_message": null
+}

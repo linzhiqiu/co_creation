@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cce286e-ff30-4eca-a16b-074ed98929f6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a vintage electronics assembly line inside a fluorescent-lit factory. The scene is composed symmetrically, with a long conveyor belt running down the center, drawing the viewer’s eye into the depth of the image. On both sides of the belt, workers in blue uniforms sit at their stations, focused intently on assembling circuit boards and electronic components. Their expressions are serious and absorbed, suggesting repetitive, meticulous labor. The workers’ hair and clothing styles evoke a late 1970s or early 1980s setting.\n\nThe color palette is dominated by cool teal and greenish hues, punctuated by the warm orange glow of overhead desk lamps that cast pools of light onto the workstations, creating a striking contrast and a slightly surreal, cinematic atmosphere. The background recedes into a grid of fluorescent ceiling lights, enhancing the sense of industrial order and monotony. The camera is positioned at table height, slightly below eye level, emphasizing the endless row of workers and the mechanical rhythm of the environment. The overall style is reminiscent of retro-futuristic or dystopian cinema, with a shallow depth of field that keeps the focus on the foreground while the background blurs softly, reinforcing the mood of isolation and routine within a highly controlled, artificial workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:30.753164",
+  "word_count": 206,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e95b727-fdb8-40c5-b004-adc5befe1b27.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern silver sedan speeds along an elevated urban highway in bright daylight, its polished surface reflecting the clear blue sky. The car is positioned in the lower right foreground, angled slightly toward the viewer, emphasizing its dynamic motion and aerodynamic design. In the background, a tall, contemporary high-rise building dominates the scene, its facade a striking mix of reflective glass and red brick, capturing the sunlight and mirroring the cityscape. The building’s geometric lines and grid-like windows add a sense of order and modernity. To the left, the city stretches out with a mix of older industrial structures and distant skyscrapers, hinting at a vibrant metropolitan environment. The sky is a crisp, cloud-dappled blue, bathing the entire scene in natural, high-contrast light. The overall color palette is cool and clean, with silvers, blues, and brick reds. The composition uses a wide-angle perspective, with a shallow depth of field that keeps both the car and the architectural background in sharp focus, evoking a cinematic, aspirational mood of urban sophistication and forward momentum.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:39.616817",
+  "word_count": 173,
+  "error_message": null
+}

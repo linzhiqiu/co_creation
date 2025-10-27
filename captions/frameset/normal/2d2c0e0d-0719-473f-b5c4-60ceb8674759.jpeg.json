@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d2c0e0d-0719-473f-b5c4-60ceb8674759.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, low-angle shot of a rock climber ascending a steep, rugged cliff face. The camera is positioned almost at ground level, looking sharply upward, emphasizing the height and challenge of the climb. The climber is dressed in dark, practical outdoor clothing, with a harness and climbing gear visible around their waist. Their body is tense and focused, muscles engaged as they reach for the next handhold, with one leg bent and the other extended for balance. A climbing rope trails down from their harness, leading out of the frame toward the viewer, adding a sense of depth and connection to the scene. The background consists of massive, overhanging rock formations, their rough textures rendered in muted grays and browns. The sky above is pale and overcast, casting a cool, diffused light that enhances the dramatic shadows and contours of the rocks. The overall color palette is subdued and natural, dominated by stone grays, earthy browns, and hints of dark clothing. The composition conveys tension, determination, and the raw beauty of outdoor adventure, with a cinematic, almost documentary realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:24.467545",
+  "word_count": 179,
+  "error_message": null
+}

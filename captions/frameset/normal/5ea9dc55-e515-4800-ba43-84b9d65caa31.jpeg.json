@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ea9dc55-e515-4800-ba43-84b9d65caa31.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern photography studio scene, captured with a wide-angle lens and a deep depth of field, showcasing a vibrant, high-contrast setup. In the center, a single subject stands confidently on a seamless, bold yellow backdrop, striking a dynamic pose as if mid-dance or performance. The subject wears casual, sporty clothing—red pants, a white shirt, and a dark jacket—adding a pop of color and energy against the yellow background. Surrounding the subject, the studio is bathed in cool, diffused blue lighting, creating a striking color contrast between the warm backdrop and the cool-toned environment.\n\nThe foreground features professional studio equipment: two large monitors on rolling carts display various images, possibly of the subject in different poses or outfits. A large softbox light is positioned to the right, angled toward the subject, while several director’s chairs and additional lighting equipment are scattered around, emphasizing the behind-the-scenes atmosphere. The floor is glossy and reflective, subtly mirroring the studio setup and adding depth to the composition.\n\nThe overall style is cinematic and polished, with a clean, minimalist aesthetic. The camera is positioned at eye level, perfectly centered on the subject, creating a sense of focus and symmetry. The mood is energetic and creative, evoking the excitement and professionalism of a high-end fashion or music video shoot.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:41.738653",
+  "word_count": 212,
+  "error_message": null
+}

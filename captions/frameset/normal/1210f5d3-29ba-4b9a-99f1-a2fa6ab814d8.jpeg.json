@@ -1,0 +1,12 @@
+{
+  "image_filename": "1210f5d3-29ba-4b9a-99f1-a2fa6ab814d8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of the front end of a vintage white sports car, partially obscured by motion blur and streaks of light, evoking a sense of speed and nostalgia. The car’s headlights are on, casting a warm, golden glow that diffuses through a misty or rainy atmosphere, creating dramatic reflections and flares. The iconic badge on the hood is prominently displayed, hinting at the car’s classic heritage. The composition is tight, focusing on the curvature of the fender and the grille, with the background rendered indistinct and abstract, emphasizing the car’s sleek lines. The color palette is dominated by soft whites, muted grays, and warm yellows, with subtle hints of blue and green from the environment. The lighting is low and moody, with a shallow depth of field that blurs the edges and enhances the dreamlike, almost ethereal quality of the scene. The overall style is reminiscent of a vintage film still, blending realism with a painterly, atmospheric touch.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:26.261004",
+  "word_count": 160,
+  "error_message": null
+}

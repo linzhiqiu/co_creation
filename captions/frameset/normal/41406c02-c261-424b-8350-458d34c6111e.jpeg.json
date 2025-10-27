@@ -1,0 +1,12 @@
+{
+  "image_filename": "41406c02-c261-424b-8350-458d34c6111e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young girl with curly hair styled in two puffs sits at a dark wooden table, intently focused on her homework. She wears a mustard yellow long-sleeve shirt under a charcoal gray pinafore dress, her posture slightly hunched as she writes in a colorful workbook with a pencil. The scene is warmly lit, casting soft, ambient shadows that create a cozy, intimate atmosphere. The background features a modern, minimalist kitchen with wooden cabinetry and subtle, diffused lighting, suggesting an evening or late afternoon setting. The composition uses a shallow depth of field, keeping the girl and her work in sharp focus while the background and foreground—where a few scattered colored pencils and another open book are visible—remain softly blurred. The overall color palette is warm and muted, dominated by earthy browns, yellows, and soft oranges, evoking a sense of calm concentration and domestic tranquility. The camera angle is slightly off-center and at table height, enhancing the candid, documentary feel of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:33.773715",
+  "word_count": 162,
+  "error_message": null
+}

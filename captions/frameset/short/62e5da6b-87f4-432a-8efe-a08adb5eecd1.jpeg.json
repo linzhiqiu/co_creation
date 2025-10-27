@@ -1,0 +1,12 @@
+{
+  "image_filename": "62e5da6b-87f4-432a-8efe-a08adb5eecd1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A monochrome image of a poised ballerina in a leotard, standing with hands on hips, illuminated by dramatic backlighting that creates a glowing outline. The background is shadowy and indistinct, evoking a moody, cinematic atmosphere with high contrast and soft focus, emphasizing introspection and solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:21.447041",
+  "word_count": 45,
+  "error_message": null
+}

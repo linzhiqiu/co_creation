@@ -1,0 +1,12 @@
+{
+  "image_filename": "625a8886-de75-423e-bea7-c9367557abde.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist scene featuring a young woman in a loose, light gray sweatshirt and dark pants, captured in a sequence of dynamic motion against a deep black background. The composition should show five overlapping instances of the same woman, each in a slightly different pose, as if frozen in time while she moves gracefully from left to right. Her expression is focused and contemplative, with subtle variations in gaze and hand position, suggesting fluid dance or expressive movement. The lighting is dramatic and directional, illuminating her face and upper body with soft, cool tones, while the rest of the scene fades into darkness, creating a strong sense of depth and isolation. The overall style is cinematic and modern, with a high-contrast color palette dominated by blacks and grays, and a shallow depth of field that keeps the subject crisp against the void-like background. The image evokes a sense of motion, introspection, and artistic performance, reminiscent of contemporary dance photography or experimental film stills.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:14.760440",
+  "word_count": 165,
+  "error_message": null
+}

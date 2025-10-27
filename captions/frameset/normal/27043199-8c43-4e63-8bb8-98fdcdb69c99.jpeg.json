@@ -1,0 +1,12 @@
+{
+  "image_filename": "27043199-8c43-4e63-8bb8-98fdcdb69c99.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure, dressed in dark, nondescript clothing and a cap, walks purposefully across a wide, empty industrial courtyard toward a large, imposing building. The architecture is stark and utilitarian, dominated by corrugated metal siding in muted gray tones. The main building, labeled “ROBOFORCE” in bold red letters with a stylized robotic face logo, looms in the background, its scale dwarfing the solitary person. The sky is overcast, casting a cold, diffused light that enhances the sterile, almost dystopian atmosphere. The composition is wide and symmetrical, with the subject placed slightly off-center, emphasizing their isolation within the vast, impersonal space. The color palette is subdued, with cool grays and hints of blue, punctuated only by the red signage. The overall style is cinematic, evoking a sense of anticipation and unease, with a deep depth of field that keeps every detail in sharp focus, from the industrial textures of the buildings to the empty expanse of the paved ground.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:10.541422",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c6530cd-1086-44f9-9338-cfbafd8be58d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, over-the-shoulder interior shot from the backseat of a compact car, focusing on a woman with dark hair tied back, driving along a winding road through a hilly, sunlit landscape. The woman is seen from behind, her hands on the steering wheel, wearing a patterned blue top. The dashboard and steering wheel are clearly visible, with a smartphone mounted on the dashboard and a GPS device attached to the windshield. The car interior is softly lit by natural daylight streaming through the windows, casting gentle shadows and creating a calm, contemplative mood. Outside, the road curves gently to the right, bordered by grassy hills and a slightly blurred road sign, evoking a sense of movement and travel. The color palette is muted and natural, with soft grays, beiges, and hints of green and blue, giving the scene a realistic, almost documentary feel. The composition uses a shallow depth of field, keeping the driver and car interior in sharp focus while the background is slightly out of focus, enhancing the sense of journey and introspection.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:27.725050",
+  "word_count": 177,
+  "error_message": null
+}

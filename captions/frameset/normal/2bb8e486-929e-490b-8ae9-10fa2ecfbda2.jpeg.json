@@ -1,0 +1,12 @@
+{
+  "image_filename": "2bb8e486-929e-490b-8ae9-10fa2ecfbda2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, dimly lit industrial warehouse filled with humanoid robots, arranged in small groups and standing among wooden crates and metal shelving. The robots have sleek, metallic exoskeletons with intricate mechanical details, some featuring white and red armor plating, while others are bare metal with exposed joints and wiring. The scene is bathed in cool, bluish-gray tones, with harsh overhead fluorescent lights casting sharp reflections on the robots’ surfaces and creating deep shadows on the textured concrete floor. The background is cluttered with industrial equipment, pipes, and storage units, emphasizing the utilitarian, high-tech environment. The composition is wide and cinematic, with a slight depth of field that keeps the foreground robots in sharp focus while the background fades softly. The overall mood is tense and clinical, evoking a sense of anticipation or assembly, as if the robots are being prepared for deployment or inspection. The camera angle is at eye level, immersing the viewer in the scene and highlighting the scale and detail of the robotic figures.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:50.880940",
+  "word_count": 167,
+  "error_message": null
+}

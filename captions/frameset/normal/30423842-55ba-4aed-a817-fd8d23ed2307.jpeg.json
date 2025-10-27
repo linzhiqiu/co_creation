@@ -1,0 +1,12 @@
+{
+  "image_filename": "30423842-55ba-4aed-a817-fd8d23ed2307.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, high-contrast black and white portrait of a confident young woman standing in front of a dramatic geometric background. The subject is centered, gazing directly at the camera with a subtle, enigmatic smile. She has straight, dark hair and wears a sleeveless black top, accessorized with bold, chunky metallic chains around her neck and wrist, adding a modern, edgy touch. Her right arm is extended slightly forward, hand partially raised as if reaching out or gesturing, creating a sense of engagement with the viewer.\n\nThe background features two bright, white, diagonal neon light bars forming an inverted \"V\" shape, converging above her head and framing her figure against a deep black backdrop. The lighting is crisp and directional, casting soft shadows that sculpt her features and emphasize the sleek lines of her outfit and jewelry. The overall composition is minimalist and futuristic, with a shallow depth of field that keeps the focus sharply on the subject while the background remains clean and uncluttered. The mood is cool, poised, and cinematic, evoking a sense of mystery and modern sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:25.276015",
+  "word_count": 180,
+  "error_message": null
+}

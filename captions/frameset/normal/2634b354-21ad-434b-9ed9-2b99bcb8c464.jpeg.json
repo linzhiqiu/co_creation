@@ -1,0 +1,12 @@
+{
+  "image_filename": "2634b354-21ad-434b-9ed9-2b99bcb8c464.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary white cargo van drives along a winding country road at dusk, cutting through a vast, open landscape of rolling fields and gentle hills. The sky dominates the scene, painted with dramatic hues of deep blue, indigo, and soft lavender, streaked with the warm orange and pink glow of a setting sun just below the horizon. The van is positioned slightly off-center, moving away from the viewer, emphasizing a sense of journey and solitude. The fields on either side of the road are muted greens and browns, softly illuminated by the fading daylight, with distant tree lines and low hills silhouetted against the colorful sky. The overall mood is tranquil and contemplative, with a cinematic wide-angle composition that captures the expansive rural setting. The lighting is natural and subdued, with long shadows and a gentle gradient of color across the sky, evoking a sense of quiet transition and open possibility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:58.462567",
+  "word_count": 151,
+  "error_message": null
+}

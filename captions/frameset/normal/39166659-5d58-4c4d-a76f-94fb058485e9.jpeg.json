@@ -1,0 +1,12 @@
+{
+  "image_filename": "39166659-5d58-4c4d-a76f-94fb058485e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic urban scene set in the late afternoon, featuring a black sedan partially sunken into the asphalt of a quiet city street. The car appears abandoned, with its front end submerged as if melting into the road, evoking a surreal, dreamlike quality. Surrounding the vehicle are tall, leafy trees casting dappled shadows across the pavement, while a wrought iron fence and mid-rise apartment buildings form the background, their facades softly illuminated by warm, golden sunlight. The color palette is dominated by deep blacks, muted grays, and rich greens, contrasted with the warm glow of sunlight filtering through the trees. The overall mood is mysterious and slightly unsettling, with a hyperreal, painterly style reminiscent of a high-budget science fiction film. The camera angle is slightly low and off-center, emphasizing the car’s unusual predicament and drawing the viewer’s eye toward the distorted, melting effect. The depth of field is moderate, keeping the car in sharp focus while gently blurring the background, enhancing the sense of isolation and surrealism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:43.123274",
+  "word_count": 168,
+  "error_message": null
+}

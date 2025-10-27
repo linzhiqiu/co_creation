@@ -1,0 +1,12 @@
+{
+  "image_filename": "3950b6d2-f6b9-47ed-8cdb-c43dcae02536.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA modern office scene featuring two men engaged in a collaborative brainstorming session. The primary subject, a young man with short dark hair, stands at a whiteboard, mid-gesture, as he writes or draws with a marker. He wears a crisp, light-colored dress shirt tucked into dark trousers, exuding a professional yet approachable demeanor. His posture is dynamic, suggesting active explanation or problem-solving. The second man, slightly older with a beard and glasses, stands to the right, attentively observing the whiteboard. He is dressed similarly in a light shirt and dark pants, with his arms crossed in thoughtful engagement.\n\nThe office is bright and airy, illuminated by natural daylight streaming through large, multi-paned windows that reveal an urban cityscape with tall buildings outside. The background includes minimalist office furniture—a white ergonomic chair and a simple desk—emphasizing a clean, contemporary workspace. The color palette is soft and neutral, dominated by whites, grays, and subtle earth tones, creating a calm and focused atmosphere.\n\nThe composition is cinematic, with a shallow depth of field that keeps the subjects sharply in focus while gently blurring the background, drawing attention to their interaction. The camera angle is eye-level, capturing the scene from a slight diagonal to enhance the sense of depth and engagement. The overall style is naturalistic and professional, evoking the mood of a productive, collaborative work environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:51.799404",
+  "word_count": 224,
+  "error_message": null
+}

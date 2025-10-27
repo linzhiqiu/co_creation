@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e200bd7-5d2a-41ae-bd8c-da9dff7a99ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, noir-inspired close-up of a newspaper spread laid out on a flat surface, shot from a slightly high, angled perspective. The main focus is a black-and-white photograph within the newspaper, depicting a mysterious figure wearing a dark military-style cap and large, angular sunglasses, their expression unreadable and face partially shadowed, evoking an air of intrigue and anonymity. The surrounding articles feature dense columns of text and bold headlines referencing cyberattacks, Google hacks, and WikiLeaks, reinforcing a theme of digital espionage and secrecy. The overall color palette is monochromatic, dominated by shades of black, white, and gray, with high contrast lighting that casts deep shadows and sharp highlights, enhancing the dramatic, investigative mood. The composition is tight, with the newspaper filling the frame and the enigmatic portrait drawing the viewer’s eye, while the shallow depth of field subtly blurs the peripheral text, focusing attention on the central image and headline. The style is reminiscent of classic detective films, with a sense of suspense and journalistic urgency.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:40.050651",
+  "word_count": 167,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "27c87063-f76a-4522-9709-08a546b6563e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of two people holding a tablet together at a kitchen table, their hands visible but faces out of frame, creating an intimate, documentary-style perspective. On the tablet screen is a paused video with the headline “Gerben: 90 years of child nutrition expertise, now in India.” The video thumbnail shows a sunlit wheat field with a child’s hand gently brushing the golden stalks, evoking warmth and care. The background is softly blurred, with a shallow depth of field drawing focus to the tablet; hints of a bright, airy kitchen are visible, including a blue tabletop, a plate of bread, and a bowl of fruit, all bathed in natural daylight. The color palette is warm and inviting, dominated by golden yellows, soft blues, and natural wood tones. The lighting is soft and diffuse, suggesting a calm morning or afternoon. The overall style is cinematic and contemporary, with a gentle, hopeful mood and a focus on everyday life and nurturing.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:17.615684",
+  "word_count": 161,
+  "error_message": null
+}

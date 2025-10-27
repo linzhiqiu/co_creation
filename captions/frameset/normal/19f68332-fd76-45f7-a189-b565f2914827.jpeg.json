@@ -1,0 +1,12 @@
+{
+  "image_filename": "19f68332-fd76-45f7-a189-b565f2914827.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man sits alone at a green-felt poker table in an opulent, dimly lit room. He is centered in the frame, facing the camera with a calm, contemplative expression, his eyes focused slightly downward as he holds a stack of poker chips in one hand, poised to make a move. He wears a light blue denim jacket layered over a muted purple hoodie, blending casual streetwear with the formal, old-world elegance of the setting. The background features rich wooden paneling, ornate wall details, and warm, ambient lighting from classic lamps and red-shaded sconces, casting a soft golden glow that contrasts with the cooler tones of his clothing. The composition is cinematic, with a shallow depth of field that keeps the man and the poker table in sharp focus while gently blurring the luxurious background. The overall mood is tense yet introspective, evoking the quiet intensity of a high-stakes moment in a stylish, vintage casino.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:27.423210",
+  "word_count": 155,
+  "error_message": null
+}

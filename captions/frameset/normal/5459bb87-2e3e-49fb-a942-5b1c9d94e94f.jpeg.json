@@ -1,0 +1,12 @@
+{
+  "image_filename": "5459bb87-2e3e-49fb-a942-5b1c9d94e94f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, low-angle close-up shot of a modern white Volvo car driving through a dimly lit urban tunnel at night. The car’s headlights blaze intensely, casting sharp beams and creating dramatic lens flares and blue-tinted light streaks that cut through the hazy atmosphere. The Volvo emblem is subtly visible on the front grille, partially illuminated by the headlights. The road surface glistens with a slight sheen, reflecting the car’s lights and adding depth to the scene. The background is mostly obscured in shadow, emphasizing the car’s sleek lines and the moody, nocturnal ambiance. The color palette is dominated by cool blues and whites, with deep shadows and high contrast, evoking a sense of motion, mystery, and urban sophistication. The overall style is reminiscent of a high-end automotive commercial, with a shallow depth of field and a focus on the interplay between light, metal, and movement.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:33.473453",
+  "word_count": 146,
+  "error_message": null
+}

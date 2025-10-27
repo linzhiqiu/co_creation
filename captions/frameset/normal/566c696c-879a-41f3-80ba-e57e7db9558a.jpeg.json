@@ -1,0 +1,12 @@
+{
+  "image_filename": "566c696c-879a-41f3-80ba-e57e7db9558a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up digital composition evoking a sense of technological failure and nostalgia. The central focus is a classic Windows command prompt window, rendered in a retro, pixelated style, with the word \"Broken_\" displayed in large, blocky white letters on a dark gray background. The command prompt window is sharply in focus, dominating the center of the image. Behind it, slightly blurred, is a blue screen of death (BSOD) error message, its white text partially visible but out of focus, reinforcing the theme of computer malfunction. The color palette is dominated by cool blues and grays, with high contrast between the bright white text and the darker backgrounds. The lighting is even and digital, with a subtle glow around the command prompt window, enhancing the sense of artificiality and screen-based light. The overall style is reminiscent of late 1990s or early 2000s computer interfaces, with a cinematic, almost dystopian mood. The composition uses a shallow depth of field to draw the viewer’s attention to the word \"Broken,\" while the blurred BSOD in the background adds context and atmosphere. The image conveys a strong sense of digital error, obsolescence, and technological breakdown.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:24.755031",
+  "word_count": 190,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "22c94950-3a80-416d-8a8b-6cc207dadf0e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA mysterious, cinematic scene set in a vast, dimly lit underground chamber filled with towering concrete pillars that stretch upward into darkness. The atmosphere is heavy with mist and illuminated by a cold, greenish-blue light that casts eerie reflections on the wet surfaces. In the center of the composition, a large, perfectly smooth black sphere hovers silently in midair, its surface subtly reflecting the ambient light. In the foreground, the silhouette of a solitary figure with a shaved head is seen from behind, gazing intently at the floating orb. The camera angle is low and slightly behind the figure, creating a sense of scale and depth, with the pillars receding into the background and the sphere as the focal point. The overall mood is enigmatic and otherworldly, evoking a sense of awe and suspense. The color palette is dominated by deep greens, muted grays, and inky blacks, with soft, diffused lighting and a shallow depth of field that blurs the distant columns, enhancing the dreamlike, surreal quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:38.490467",
+  "word_count": 171,
+  "error_message": null
+}

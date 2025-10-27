@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f648881-73db-4ae3-8136-e4a17690ed6f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, front-facing shot of a black Volkswagen sedan driving down a two-lane country road, captured from a low angle directly in front of the vehicle. The car is centered in the frame, its headlights on, with the license plate clearly visible. The road stretches into the distance, flanked by open fields and scattered trees on either side, evoking a sense of rural tranquility. The sky above is expansive, filled with soft, diffused clouds and a gentle blue hue, suggesting late afternoon or early evening light. The overall color palette is muted and slightly desaturated, with cool blues and earthy browns dominating the scene, lending a moody, atmospheric quality. The lighting is natural and soft, with subtle shadows and highlights that enhance the contours of the car and the landscape. The composition emphasizes depth and motion, with the blurred edges of the road and fields suggesting movement, while the horizon remains sharp and clear. The style is reminiscent of a contemplative road movie, with a serene yet slightly melancholic mood, and a focus on the journey through open, unpopulated countryside.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:27.097391",
+  "word_count": 180,
+  "error_message": null
+}

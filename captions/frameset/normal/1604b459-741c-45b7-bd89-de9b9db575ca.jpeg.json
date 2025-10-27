@@ -1,0 +1,12 @@
+{
+  "image_filename": "1604b459-741c-45b7-bd89-de9b9db575ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car dashboard display, focusing on a circular digital warning indicator. The display features a white icon of a car above wavy lines, suggesting a water or wet road warning. Below the icon, German text reads \"Vorsicht\" (Caution), followed by smaller instructions: \"Bitte Fahrweise anpassen\" and \"Wet-Modus einschalten,\" all rendered in clean, sans-serif typeface. The background is softly blurred, with hints of other dashboard dials and gauges visible in the periphery, creating a shallow depth of field that draws the viewer’s attention to the warning message. The color palette is cool and subdued, dominated by shades of black, grey, and white, with soft, diffused lighting that gives the scene a sleek, high-tech, and slightly moody atmosphere. The composition is tight and intimate, evoking a sense of focus and urgency, as if the viewer is in the driver’s seat, confronted with an important alert. The overall style is minimalistic and modern, reminiscent of a luxury automotive commercial or a suspenseful moment in a contemporary film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:58.622906",
+  "word_count": 170,
+  "error_message": null
+}

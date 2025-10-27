@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ea9727-0140-4999-9588-4e583f6f2e9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits at a table in a dimly lit, cavernous room, his figure shrouded in deep shadow. The lighting is stark and dramatic, with a single, harsh beam of light illuminating only the edge of his face and the outline of his hand, which is extended forward in a decisive thumbs-down gesture. His expression is obscured by darkness, heightening the sense of authority and mystery. He wears a dark suit, the fabric catching just enough light to reveal subtle details like the glint of cufflinks and the crispness of his attire. The background is almost entirely black, with only faint hints of architectural elements and reflections on polished floors, suggesting a formal, institutional setting. The overall color palette is dominated by inky blacks and muted earth tones, with sharp contrasts between light and shadow. The composition is cinematic, employing a low-key lighting style reminiscent of film noir, with a shallow depth of field that keeps the focus tightly on the man’s gesture. The mood is tense and foreboding, evoking a sense of judgment or finality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:20.283754",
+  "word_count": 177,
+  "error_message": null
+}

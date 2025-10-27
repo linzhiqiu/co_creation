@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e7213ab-c0ce-4462-a5eb-974e36e4c927.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern laptop, angled slightly from the side, dominates the foreground. The screen displays a minimalist black interface with thin white horizontal lines and the phrase \"oat foundry\" typed in a clean, monospaced font at the center. The laptop's sleek, metallic edge and keyboard are partially visible, with a hand just entering the left side of the frame, suggesting interaction or anticipation. The background is softly out of focus, revealing a grid of dark, square panels that add a subtle geometric texture without distracting from the main subject. The lighting is soft and even, with gentle reflections on the laptop's surface, creating a professional, contemporary atmosphere. The color palette is restrained, featuring mostly blacks, greys, and muted metallic tones, with a hint of warm wood at the bottom edge, lending a touch of warmth to the otherwise cool, tech-focused scene. The overall composition is clean and modern, with a shallow depth of field that keeps the viewer’s attention on the screen and the understated branding.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:07.174743",
+  "word_count": 169,
+  "error_message": null
+}

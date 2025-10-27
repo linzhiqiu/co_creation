@@ -1,0 +1,12 @@
+{
+  "image_filename": "39ba4b15-e328-44d3-88ab-9b99478bd115.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a moody, noir-inspired black-and-white scene set at night. The composition features a solitary figure in the left foreground, partially shrouded in deep shadow. The subject is a man wearing a wide-brimmed fedora and a dark overcoat, his face obscured in silhouette, evoking an air of mystery and suspense. He stands close to a textured wall, intently reading a large, official-looking notice posted on it. The notice is prominently illuminated, with bold German text at the top (\"ACHTUNG!\") and smaller text beneath, drawing the viewer’s eye. The lighting is stark and dramatic, casting sharp, angular shadows that heighten the sense of tension and unease. The overall style is reminiscent of classic 1930s or 1940s German Expressionist cinema, with high contrast, deep blacks, and a strong interplay of light and darkness. The camera angle is slightly off-center, emphasizing the isolation of the figure and the ominous atmosphere. The background is minimal, focusing attention on the interaction between the man and the notice, while the use of negative space and shadow creates a sense of foreboding and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:59.465537",
+  "word_count": 177,
+  "error_message": null
+}

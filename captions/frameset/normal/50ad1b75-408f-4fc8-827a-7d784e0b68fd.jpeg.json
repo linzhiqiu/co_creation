@@ -1,0 +1,12 @@
+{
+  "image_filename": "50ad1b75-408f-4fc8-827a-7d784e0b68fd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, abstract architectural scene featuring a repeating grid of three-dimensional, geometric compartments or cubicles. Each compartment is formed by intersecting diagonal and vertical planes, creating a pattern of triangular and diamond-shaped spaces. The surfaces are smooth and matte, rendered in soft, neutral tones of off-white and pale beige, with subtle gradients of light and shadow that emphasize the depth and structure of the grid. The lighting is diffuse and gentle, casting delicate highlights along the edges and creating a calm, almost ethereal atmosphere. The composition is shot from an elevated, slightly oblique angle, allowing the viewer to appreciate the rhythmic repetition and symmetry of the design. The overall style is minimalist and modern, with a focus on form, texture, and the interplay of light and shadow, evoking a sense of order and tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:09.953900",
+  "word_count": 135,
+  "error_message": null
+}

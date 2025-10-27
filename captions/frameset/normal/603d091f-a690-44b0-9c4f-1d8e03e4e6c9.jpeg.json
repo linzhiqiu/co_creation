@@ -1,0 +1,12 @@
+{
+  "image_filename": "603d091f-a690-44b0-9c4f-1d8e03e4e6c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of young women stand closely together on stage, with the central focus on a woman in the foreground. She has straight, medium-length dark brown hair that partially covers one eye, and she wears a dark bomber jacket over a white shirt. A headset microphone wraps around her cheek, suggesting she is performing or speaking. Her expression is intense and slightly serious, with a hint of determination, as she looks directly at the camera. The women behind her are slightly out of focus, creating a shallow depth of field that draws attention to the main subject. The background is dark and blurred, emphasizing the dramatic stage lighting that highlights the faces and hair of the performers. The color palette is dominated by deep blues, blacks, and natural skin tones, with subtle highlights on the hair and jackets. The overall style is cinematic, with a close-up, eye-level camera angle and a moody, performance-driven atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:18.002734",
+  "word_count": 154,
+  "error_message": null
+}

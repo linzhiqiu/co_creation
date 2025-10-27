@@ -1,0 +1,12 @@
+{
+  "image_filename": "3cf1b3f7-0d1f-4454-ac5d-c017a2b693d3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, futuristic control room filled with an array of vintage yellow computer monitors and large, high-tech blue screens displaying complex data visualizations, waveforms, and digital schematics. The central figure is a person dressed in dark, sleek clothing with a high-collared cape and a reflective, cyberpunk-style mask that obscures their face, evoking an air of mystery and intrigue. The subject is hunched forward, intently studying the glowing screens, their posture suggesting deep concentration and urgency. The room’s walls are industrial and slightly worn, bathed in cool blue and teal lighting that casts dramatic shadows and highlights the technological atmosphere. The composition uses a low, cinematic camera angle with a shallow depth of field, focusing on the subject and the glowing monitors while the background remains softly blurred. The overall mood is tense and atmospheric, blending retro-futuristic aesthetics with a noir-inspired, high-tech espionage vibe.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:13.883608",
+  "word_count": 144,
+  "error_message": null
+}

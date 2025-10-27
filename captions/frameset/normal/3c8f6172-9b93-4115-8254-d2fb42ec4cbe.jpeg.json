@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c8f6172-9b93-4115-8254-d2fb42ec4cbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern, matte black desk lamp with a minimalist design, its conical shade casting a soft, focused pool of warm white light. The lamp is positioned slightly off-center, dominating the foreground with crisp clarity, while the background is rendered in a gentle blur, suggesting a shallow depth of field. Behind the lamp, the out-of-focus elements hint at an office or workspace environment: a faintly visible water cooler, a bulletin board with indistinct papers or notes, and a doorway, all bathed in cool, muted blue-gray tones. The overall color palette is subdued and desaturated, with the lamp’s warm glow providing the only source of warmth and contrast. The lighting is low-key and atmospheric, evoking a quiet, contemplative mood, as if late at night or in a solitary workspace. The composition is cinematic, with a sense of stillness and introspection, emphasizing the interplay between light and shadow in a modern, understated setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:03.991653",
+  "word_count": 154,
+  "error_message": null
+}

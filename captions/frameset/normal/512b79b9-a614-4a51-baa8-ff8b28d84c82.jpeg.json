@@ -1,0 +1,12 @@
+{
+  "image_filename": "512b79b9-a614-4a51-baa8-ff8b28d84c82.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern robotic vacuum cleaner in action, gliding across a light-colored carpet scattered with visible clumps of dust and pet hair. The vacuum is sleek and circular, with a glossy black and dark gray finish, featuring a central camera or sensor on its top surface. The background is softly blurred, drawing focus to the vacuum and the debris it is cleaning, while hints of furniture legs are visible at the edge of the frame, suggesting a domestic living room setting. The lighting is natural and diffused, creating gentle shadows and a clean, airy atmosphere. The overall color palette is muted and neutral, dominated by shades of gray, beige, and black, emphasizing the cleanliness and modernity of the scene. The composition uses a shallow depth of field to highlight the vacuum’s movement and the texture of the carpet, evoking a sense of efficiency and technological sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:17.376084",
+  "word_count": 150,
+  "error_message": null
+}

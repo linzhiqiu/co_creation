@@ -1,0 +1,12 @@
+{
+  "image_filename": "16eef250-e967-432c-925d-9e2dbfa038a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, sleek, futuristic robot hovers above a dark, industrial grid-like floor. The robot is compact and angular, with a smooth, metallic gold exterior that reflects the cool, ambient lighting of the environment. Its design is minimalist and streamlined, with subtle blue lights indicating its operational status. The background consists of a complex, geometric pattern of interlocking metal panels and vents, rendered in deep shades of blue and gray, creating a sense of depth and technological sophistication. The scene is shot from a high, almost top-down angle, emphasizing the robot’s isolation and the vast, labyrinthine structure beneath it. The lighting is soft but focused, casting gentle highlights on the robot’s surface and creating subtle shadows that enhance the three-dimensionality of the setting. The overall mood is mysterious and slightly tense, evoking a sense of exploration or surveillance within a high-tech, possibly dystopian environment. The composition is clean and precise, with a cinematic quality reminiscent of science fiction films, utilizing a shallow depth of field to keep the robot in sharp focus while the background fades into a soft blur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:20.990211",
+  "word_count": 179,
+  "error_message": null
+}

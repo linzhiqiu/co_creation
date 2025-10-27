@@ -1,0 +1,12 @@
+{
+  "image_filename": "42a130a0-2ba2-4425-b6c0-0f24c957043e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone traveler on camelback journeys across vast, undulating sand dunes in a dramatic desert landscape at sunset. The scene is composed with a wide, cinematic aspect ratio, emphasizing the immense scale and emptiness of the environment. The traveler and camel are small, silhouetted figures positioned in the lower left quadrant, moving toward the horizon, which is lined with distant, shadowy mountain ranges. The sky dominates the upper half of the image, filled with swirling, textured clouds illuminated by the golden-orange glow of the setting sun. The color palette is warm and atmospheric, with gradients of amber, ochre, and deep brown, creating a sense of both beauty and isolation. The lighting is soft yet intense, casting long shadows and highlighting the contours of the dunes. The overall style is reminiscent of epic adventure films, with a sense of vastness, solitude, and quiet determination. The camera angle is slightly elevated, providing a sweeping view of the landscape, while a shallow depth of field keeps the focus on the interplay between the traveler and the endless desert expanse.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:06.555376",
+  "word_count": 176,
+  "error_message": null
+}

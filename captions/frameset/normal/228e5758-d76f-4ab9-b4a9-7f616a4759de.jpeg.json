@@ -1,0 +1,12 @@
+{
+  "image_filename": "228e5758-d76f-4ab9-b4a9-7f616a4759de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, open-plan office at dusk, illuminated by a mix of cool natural light streaming through large floor-to-ceiling windows and the warm glow of individual desk lamps. The scene is sparsely populated, with two women seated at separate desks in the midground, both focused intently on their computer screens. One woman wears a dark red sweater, the other a lighter top, their faces softly lit by their monitors, creating a contemplative, almost somber mood. The office is filled with contemporary furniture—blue desks, ergonomic chairs, and scattered office supplies—while the background reveals a cityscape through the windows, slightly blurred by the fading daylight. The overall color palette is subdued, dominated by cool blues and grays, punctuated by the warm, golden highlights from the lamps. The composition uses a shallow depth of field, with foreground objects out of focus, drawing the viewer’s eye toward the illuminated figures. The camera angle is slightly low and off-center, enhancing the sense of quiet isolation and late-night dedication. The atmosphere is cinematic, evoking a sense of solitude, diligence, and the quiet hum of after-hours productivity in a modern urban workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:38.130759",
+  "word_count": 184,
+  "error_message": null
+}

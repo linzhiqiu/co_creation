@@ -1,0 +1,12 @@
+{
+  "image_filename": "224b8049-6642-46dd-8de0-c5170abb8aaf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set in a modern, urban subway station at night. The composition features two male figures: one in the foreground, heavily blurred and out of focus, seen from behind, wearing a white shirt and a dark vest. The focal point is the second man standing mid-distance on the platform, sharply in focus. He wears a dark puffer jacket, dark shorts, and white high-top sneakers, with a beanie or cap on his head. His posture is relaxed yet alert, facing the camera with a neutral or slightly serious expression. The background includes a stationary subway train with red and blue accents, its windows softly illuminated, and the platform lit by cool, artificial overhead lights. The color palette is dominated by cool blues, grays, and muted whites, with pops of color from the train. The overall style is hyperrealistic with a shallow depth of field, creating a dramatic, almost dreamlike atmosphere. The camera angle is eye-level, emphasizing the sense of confrontation or anticipation between the two figures, with a slight vignette effect enhancing the cinematic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:27.203474",
+  "word_count": 176,
+  "error_message": null
+}

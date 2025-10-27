@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cfcd382-6234-43b7-a353-f6f98f0f10e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands on a rugged, shadowy landscape under a vast, dark night sky. The person, dressed in a muted green jacket and dark pants, is illuminated by the soft, focused beam of a headlamp or flashlight, casting a small pool of light around their feet and creating a subtle, atmospheric haze in the misty air. The background is enveloped in deep blue and black tones, with faint, indistinct silhouettes of distant mountains or rock formations barely visible through the gloom. The overall color palette is dominated by cool, desaturated blues and blacks, with the only bright element being the stark white light from the lamp. The composition is cinematic and moody, with a wide aspect ratio and a low camera angle that emphasizes the isolation and scale of the environment. The lighting is minimal and naturalistic, evoking a sense of mystery and quiet tension, as if the figure is exploring or searching in the wilderness at night. The scene has a contemplative, almost otherworldly quality, with a strong sense of depth and atmosphere created by the interplay of light, shadow, and mist.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:17.760382",
+  "word_count": 184,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cd3cfe1-3460-4c8e-9036-b5e1be9cb952.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA realistic urban cityscape viewed from a street-level perspective, with the camera positioned behind a silver Nissan SUV waiting at a traffic light. The scene is set in a bustling downtown area, framed by a mix of modern and historic high-rise buildings with intricate architectural details. The overcast sky casts a soft, diffused light, creating a muted, almost cinematic color palette dominated by cool grays, silvers, and subtle greens from the trees lining the street. Traffic signs overhead indicate directions to Brooklyn and the FDR Drive, adding to the authentic city atmosphere. Other vehicles, including a white car and a black SUV, are visible in adjacent lanes, while pedestrians can be seen on the sidewalks, some waiting at the crosswalk. The composition emphasizes depth, with the tall buildings receding into the background and the street converging toward the city center. The overall mood is calm and slightly subdued, capturing the everyday rhythm of urban life with a naturalistic, documentary-style approach.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:28.063200",
+  "word_count": 161,
+  "error_message": null
+}

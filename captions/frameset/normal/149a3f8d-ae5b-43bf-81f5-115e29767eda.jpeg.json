@@ -1,0 +1,12 @@
+{
+  "image_filename": "149a3f8d-ae5b-43bf-81f5-115e29767eda.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide, cinematic aerial shot captures four rugged SUVs racing across a vast, barren desert plain at dusk. The vehicles are closely grouped, kicking up thick, swirling clouds of dust that trail dramatically behind them, partially obscuring their forms and adding a sense of speed and motion. The landscape is flat and expansive, with subtle tire tracks etched into the sandy ground, stretching toward a distant horizon. In the background, low mountains are silhouetted against a softly glowing sky, where the sun is setting, casting a gentle, golden light that fades into cool blue and gray tones. The overall color palette is muted and earthy, dominated by sandy browns, soft grays, and the pale, diffused light of evening. The composition emphasizes the scale and emptiness of the environment, with the vehicles appearing small against the sweeping openness of the desert. The mood is adventurous and cinematic, evoking a sense of freedom and raw power, with a shallow depth of field that keeps the focus on the dynamic movement of the cars and the billowing dust.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:25.902766",
+  "word_count": 175,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a7b691c-1c1c-4f56-b08a-d6c186a484a8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lush, vibrant rainforest scene under a gentle rain, with two women standing in the foreground surrounded by dense, verdant foliage and towering tree roots. Both women wear practical outdoor clothing: one in a dark teal rain jacket and glasses, the other in an orange rain jacket with the hood up. They each hold notebooks or tablets, appearing focused and engaged in fieldwork, possibly scientists or researchers documenting their observations. Their expressions are attentive and slightly smiling, conveying a sense of discovery and camaraderie. The lighting is soft and diffused, filtered through the thick canopy above, with raindrops visible in the air, adding a sense of freshness and immersion. The color palette is dominated by deep greens and earthy browns, with the bright orange jacket providing a striking contrast. The composition uses a shallow depth of field, with the background softly blurred to emphasize the subjects and the intricate textures of the surrounding plants. The overall style is cinematic and naturalistic, evoking a sense of adventure and wonder in an untamed, rain-soaked jungle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:24.429351",
+  "word_count": 173,
+  "error_message": null
+}

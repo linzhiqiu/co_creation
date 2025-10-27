@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e66dca3-2438-4c8d-b7e9-70da73d6bdbb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A pair of industrial orange robotic arms, branded \"KUKA,\" are positioned in the foreground, meticulously operating two professional DJ turntables and a mixer. The robots' articulated joints and mechanical precision are highlighted as one arm hovers over a spinning vinyl record, while the other appears to manipulate the mixer controls. The scene is set in a stark, industrial environment with a concrete floor and striped safety pillars in the background, partially out of focus, lending a sense of depth and utilitarian atmosphere. The lighting is cool and even, with soft shadows that accentuate the metallic surfaces and the glossy finish of the turntables. The color palette is dominated by the vivid orange of the robots, contrasted against the silvery-gray of the DJ equipment and the muted, industrial tones of the surroundings. The composition is cinematic, shot at a medium angle with a shallow depth of field that draws attention to the intricate interaction between machine and music technology, evoking a futuristic, almost surreal mood where automation meets creative expression.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:45.393115",
+  "word_count": 169,
+  "error_message": null
+}

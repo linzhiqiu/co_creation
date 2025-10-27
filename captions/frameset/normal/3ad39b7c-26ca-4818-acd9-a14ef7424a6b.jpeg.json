@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ad39b7c-26ca-4818-acd9-a14ef7424a6b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA wide-angle, high-angle shot of a sunlit boxing gym interior, featuring two boxers sparring in the center of a large, elevated boxing ring. The gym is spacious and bathed in soft, natural daylight streaming through tall, multi-paned windows on the left, casting gentle shadows and creating a serene, almost ethereal atmosphere. The walls and ceiling are painted in pale blue and white tones, contributing to a cool, airy color palette. The ring itself has a deep blue mat and white ropes, with sturdy blue corner posts. \n\nThe two boxers stand facing each other: one wears a white t-shirt and dark pants, the other is dressed in white athletic gear with boxing gloves. Their stances are focused and poised, suggesting a moment of concentration before action. The composition emphasizes the symmetry and emptiness of the gym, with minimal background distractions—just a few lockers and benches along the walls. Overhead, industrial pendant lights hang from the ceiling, adding to the utilitarian, authentic feel of the space. The overall style is cinematic and contemplative, with a sense of quiet anticipation and discipline, reminiscent of classic sports dramas.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:26.997241",
+  "word_count": 185,
+  "error_message": null
+}

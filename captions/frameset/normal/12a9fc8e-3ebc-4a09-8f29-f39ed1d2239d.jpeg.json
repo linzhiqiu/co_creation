@@ -1,0 +1,12 @@
+{
+  "image_filename": "12a9fc8e-3ebc-4a09-8f29-f39ed1d2239d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, modern studio scene featuring a confident woman seated at the center on a minimalist black chair. She wears a sharp black blazer, black skirt, and sheer black tights, exuding professionalism and poise, with her legs crossed and hands resting on her lap. Her expression is calm and self-assured, gazing slightly off-camera. The background is a large, abstract set constructed from geometric shapes and frames, adorned with bold, graphic patterns in black, white, and electric blue, incorporating optical illusions and stripes for a dynamic, futuristic feel. \n\nSurrounding the subject are pieces of high-end film equipment, including a camera mounted on a dolly track in the foreground, emphasizing a behind-the-scenes, cinematic atmosphere. The lighting is cool and even, casting soft shadows and highlighting the crisp lines and reflective surfaces throughout the set. The color palette is dominated by monochrome tones with strategic pops of blue and red, enhancing the avant-garde, editorial style. The composition is symmetrical and carefully balanced, with a shallow depth of field that keeps the focus on the woman while allowing the intricate set and equipment to frame her dramatically. The overall mood is sleek, innovative, and slightly surreal, reminiscent of a high-fashion photo shoot or a conceptual art installation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:41.608721",
+  "word_count": 204,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "536a6aee-8d74-41f0-9a4b-a9aeb0a1d0f4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-20th-century radio control room bustling with activity, captured in a cinematic, slightly wide-angle shot. In the foreground, two men are the focal point: one is seated at a desk cluttered with vintage radio equipment, wearing a crisp white shirt, a narrow red tie, and a pair of large headphones resting around his neck. He looks up and to his left, engaged in conversation, his expression alert and slightly wary. Leaning in closely from the left, another man in a dark suit, white shirt, and dark tie, with slicked-back hair and thick-rimmed glasses, speaks to him in a low, intense manner, his face serious and inquisitive. \n\nIn the background, other operators, similarly dressed in white shirts and ties, are absorbed in their work, wearing headsets and monitoring dials, adding to the sense of urgency and focus. The room is lit with a soft, diffused overhead light, casting gentle shadows and creating a warm, slightly sepia-toned color palette that evokes a classic, retro atmosphere. The composition emphasizes depth, with the lines of the desks and equipment drawing the eye into the scene, while the glass window and chalkboard in the background hint at a larger, institutional setting. The overall style is reminiscent of a 1960s drama, with meticulous attention to period detail, subdued colors, and a sense of tension and anticipation in the air.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:11.152192",
+  "word_count": 223,
+  "error_message": null
+}

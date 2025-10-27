@@ -1,0 +1,12 @@
+{
+  "image_filename": "33084b20-829f-4798-a437-dddebe190c8b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary artist stands in a minimalist, softly lit studio, facing a large blank sheet of paper taped to a stark white wall with green painter’s tape at each corner. The artist is captured mid-motion, painting a sweeping, fluid blue curve with a brush in their right hand. They wear light gray jeans and a vividly patterned jacket adorned with bold, colorful designs, including a prominent yellow smiley face on the back, adding a playful contrast to the otherwise subdued setting. The artist’s posture is focused and dynamic, slightly bent forward, fully engaged in the act of creation.\n\nThe room is sparsely furnished, with a simple wooden stool to the left and a crate containing art supplies and paint cans on the floor to the right. The floor is bare concrete, and the overall color palette is cool and muted, dominated by whites, grays, and soft blues, with the artist’s jacket providing a striking pop of color. Natural light streams in from an unseen source, casting gentle shadows and creating a calm, contemplative atmosphere. The composition is symmetrical and balanced, with the artist and their work centered in the frame, evoking a sense of quiet concentration and creative energy. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the focus on the artist and their canvas, lending the scene a cinematic, documentary-like quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:29.133643",
+  "word_count": 230,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "212ff889-a195-4d22-944d-d97b85f0c65c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a realistic, slightly vintage scene of the exterior of an old English or European building, focusing on a section of the facade. The building is constructed from dark reddish-brown brick with prominent white stone trim outlining the edges and window frames. Two large, ornate, arched windows with intricate stone mullions dominate the upper half of the composition, their glass panes slightly opaque and reflecting muted daylight. Below the windows, a weathered stone balustrade runs horizontally, partially obscured by a dense, overgrown shrubbery that adds a touch of green to the otherwise earthy palette. The sidewalk in the foreground is made of pale, worn stone slabs, and the street edge is just visible at the bottom. The lighting is soft and diffuse, suggesting an overcast day, with gentle shadows and a subdued, almost sepia-toned color palette that evokes a sense of nostalgia. The overall style is reminiscent of a period film or a fine art photograph, with a straight-on, eye-level camera angle and a shallow depth of field that keeps the architectural details crisp while softly blurring the background trees. The mood is quiet, contemplative, and slightly melancholic, emphasizing the historic character and subtle beauty of the scene.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:04.178461",
+  "word_count": 207,
+  "error_message": null
+}

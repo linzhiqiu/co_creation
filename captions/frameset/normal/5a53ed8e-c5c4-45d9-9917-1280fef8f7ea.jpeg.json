@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a53ed8e-c5c4-45d9-9917-1280fef8f7ea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern gym interior bathed in cool, natural light, with large floor-to-ceiling windows softly diffusing the daylight and casting gentle blue-gray tones across the space. In the foreground, a computer monitor displays a live video feed of a woman running on a treadmill, her athletic form captured in sharp focus against the gym’s minimalist backdrop. The monitor’s screen shows her mid-stride, dressed in fitted black workout attire, with her hair pulled back, exuding determination and focus. In the background, the same woman is visible in real life, slightly out of focus and in motion, emphasizing the dynamic energy of her run. The composition uses a shallow depth of field, drawing attention to the digital display while the real-life subject remains blurred, creating a sense of duality between the physical and virtual. The overall style is cinematic, with a wide aspect ratio, soft lighting, and a cool, subdued color palette that enhances the modern, high-tech atmosphere. The mood is focused and energetic, capturing the intersection of fitness and technology in a sleek, contemporary setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:59.344513",
+  "word_count": 173,
+  "error_message": null
+}

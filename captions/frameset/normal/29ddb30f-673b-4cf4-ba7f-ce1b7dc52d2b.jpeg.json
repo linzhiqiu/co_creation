@@ -1,0 +1,12 @@
+{
+  "image_filename": "29ddb30f-673b-4cf4-ba7f-ce1b7dc52d2b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a tennis net, with the camera focused tightly on the dark, knotted mesh in the foreground. The net’s texture and structure are sharply detailed, with the white fabric band running along the top edge, slightly out of focus. In the background, the blue-green surface of the tennis court is visible, with crisp white lines crossing diagonally, softly blurred to emphasize depth of field. The lighting is natural but subdued, casting gentle shadows and giving the scene a cool, slightly desaturated color palette dominated by deep blues, muted greens, and off-whites. The overall mood is calm and contemplative, with a shallow depth of field and a low, eye-level camera angle that draws attention to the tactile quality of the net and the quiet atmosphere of an empty court. The composition is minimalist, focusing on the interplay of lines, textures, and subtle color contrasts, evoking a sense of anticipation and stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:08.648205",
+  "word_count": 154,
+  "error_message": null
+}

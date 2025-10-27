@@ -1,0 +1,12 @@
+{
+  "image_filename": "583f7aff-c4c8-4646-a664-77f4c6a18aa6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary older man stands in strict profile at the center of a stark, clinical room. He wears a pale gray windbreaker, matching gray slacks, and white sneakers, his posture rigid and his expression neutral, almost resigned. The walls are a cold, sterile white, and the floor is a smooth, glossy gray, intersected by a bold orange line that runs along the floor and up the wall, creating a geometric boundary. Behind the man, a large, perfectly rectangular blue panel is mounted on the wall, its vivid color contrasting sharply with the otherwise muted palette. The lighting is flat and even, casting minimal shadows and enhancing the sense of artificiality and detachment. The composition is symmetrical and minimalist, with the man precisely centered and the camera positioned at eye level, creating a sense of clinical observation and emotional distance. The overall mood is one of isolation, control, and quiet tension, evoking the aesthetic of a meticulously composed, modernist film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:13.155065",
+  "word_count": 160,
+  "error_message": null
+}

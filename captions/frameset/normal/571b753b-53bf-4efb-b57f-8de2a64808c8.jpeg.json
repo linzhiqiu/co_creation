@@ -1,0 +1,12 @@
+{
+  "image_filename": "571b753b-53bf-4efb-b57f-8de2a64808c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, high-resolution image of the Earth as seen from space, with the planet’s curved horizon dominating the lower portion of the frame. The surface of the Earth is partially illuminated by soft, cool sunlight, revealing icy blue and white textures that suggest polar or high-latitude regions, with subtle cloud formations and shadowed landmasses. The upper portion of the image is filled with the deep, inky blackness of space, creating a dramatic contrast with the glowing edge of the planet. Near the center of the image, above the horizon, a single bright meteor or comet streaks through the darkness, its tail glowing faintly as it descends toward the atmosphere. The overall color palette is dominated by cold blues, whites, and deep blacks, evoking a sense of isolation and grandeur. The lighting is natural and soft, with a gentle gradient from the sunlit edge to the shadowed regions, enhancing the three-dimensionality of the scene. The composition is minimalist and awe-inspiring, with a wide-angle perspective and a sense of vast scale, reminiscent of classic space photography or cinematic science fiction.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:42.986405",
+  "word_count": 178,
+  "error_message": null
+}

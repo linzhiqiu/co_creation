@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f476656-cf7e-4923-9e6a-89c01c89ff5a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-resolution image of a modern digital car dashboard display, viewed straight-on with a shallow depth of field that softly blurs the edges of the dashboard frame. The central focus is on the sleek, rectangular screen, which features a sophisticated, minimalist user interface. On the left, a digital speedometer reads \"15 mph\" in large, white numerals against a dark background, with a red speed limit icon and a stylized fuel gauge. The center of the display shows a dynamic, 3D navigation map with bold, angular lines and a red arrow indicating the vehicle's route, accompanied by clear text showing \"Home,\" distance, and estimated time of arrival. To the right, a top-down graphic of a car is displayed, alongside smart home integration icons and information, including a blue circular icon and text about \"HOMELINK\" and thermostat adjustments. The upper right corner displays the time, \"SATURDAY 6:25PM,\" and small icons for connectivity and payment, such as a VISA logo. The color palette is dominated by deep blacks, cool blues, and crisp whites, with subtle red accents, creating a high-tech, futuristic ambiance. The lighting is soft and even, emphasizing the clarity and vibrancy of the digital elements while maintaining a sense of luxury and modernity. The overall style is cinematic and refined, evoking the interior of a premium electric vehicle with advanced technology and intuitive design.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:58.769743",
+  "word_count": 224,
+  "error_message": null
+}

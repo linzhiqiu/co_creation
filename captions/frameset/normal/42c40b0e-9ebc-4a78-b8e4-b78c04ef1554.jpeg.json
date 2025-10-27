@@ -1,0 +1,12 @@
+{
+  "image_filename": "42c40b0e-9ebc-4a78-b8e4-b78c04ef1554.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A rugged off-road vehicle, equipped with scientific instruments and weather monitoring equipment mounted on its roof, speeds down a dusty rural dirt road. The camera angle is positioned directly behind the vehicle, capturing its rear as it kicks up a dramatic plume of dust that blurs the lower half of the scene. The landscape is expansive and open, with a wire fence running parallel to the road and dry, golden-brown grasses lining the roadside. In the distance, rolling hills fade into a hazy blue, while the sky is dominated by a menacing, swirling storm cloud, dark and heavy, suggesting imminent severe weather. The lighting is natural but moody, with sunlight diffused by the approaching storm, casting a cool, tense atmosphere over the scene. The overall color palette is muted earth tones—dusty browns, faded greens, and stormy grays—contrasted by the stark white of the vehicle and the ominous darkness of the clouds. The composition conveys urgency and anticipation, with a cinematic sense of motion and depth, as if the viewer is following the vehicle into the heart of the storm.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:10.726380",
+  "word_count": 179,
+  "error_message": null
+}

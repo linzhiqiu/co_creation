@@ -1,0 +1,12 @@
+{
+  "image_filename": "5cf49c1c-d642-40fb-8cbd-e57adced749d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, cinematic scene featuring a red and white diesel locomotive train traveling through a lush, green countryside at golden hour. The train, marked with bold stripes and the letters \"TCDD,\" pulls several white and blue passenger cars along a gently curving track. Tall, leafy trees line the background, their branches softly illuminated by the warm, low-angle sunlight. The landscape is open and expansive, with fields stretching into the distance and a few rolling hills visible on the horizon. The lighting is natural and warm, casting long shadows and bathing the scene in a soft, golden glow. The camera angle is elevated and slightly diagonal, capturing the train as it emerges from behind dense green bushes in the foreground, emphasizing the sense of motion and journey. The overall style is realistic and richly detailed, evoking a tranquil, nostalgic mood reminiscent of classic travel photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:00.999761",
+  "word_count": 144,
+  "error_message": null
+}

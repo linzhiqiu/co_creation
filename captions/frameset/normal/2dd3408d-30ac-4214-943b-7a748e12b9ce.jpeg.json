@@ -1,0 +1,12 @@
+{
+  "image_filename": "2dd3408d-30ac-4214-943b-7a748e12b9ce.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mysterious, grainy black-and-white image as if seen through a circular lens or viewfinder, evoking the feel of old surveillance footage or a hidden camera. The central subject is a shadowy, humanoid figure partially obscured by dense, leafless underbrush and tangled branches, standing in a wintry or barren forest. The figure’s features are indistinct, adding an eerie, cryptid-like quality, with its posture slightly hunched and arms hanging loosely. The background is a chaotic tangle of thin, pale branches, contrasting starkly with the dark silhouette of the figure. The lighting is flat and diffuse, with no strong shadows, enhancing the sense of ambiguity and unease. The overall composition is centered, with the circular vignette focusing attention on the figure while the edges fade into deep black, creating a sense of isolation and voyeurism. The mood is tense and enigmatic, reminiscent of found footage horror or documentary-style cinematography, with a raw, unpolished aesthetic that heightens the unsettling atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:34.447754",
+  "word_count": 156,
+  "error_message": null
+}

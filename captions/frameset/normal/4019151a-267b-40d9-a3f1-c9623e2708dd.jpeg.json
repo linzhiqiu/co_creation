@@ -1,0 +1,12 @@
+{
+  "image_filename": "4019151a-267b-40d9-a3f1-c9623e2708dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, cinematic image of an automated warehouse archive, viewed from a central, symmetrical perspective. The scene is dominated by towering shelves that stretch vertically and horizontally, filled with uniform, beige archival boxes, creating a sense of endless repetition and order. In the center, a sleek, modern robotic retrieval system—an industrial machine with mechanical arms and a vertical track—moves between the shelves, emphasizing advanced technology and automation. The lighting is cool and diffused, casting a blue tint over the entire scene, enhancing the sterile, futuristic atmosphere. The composition uses strong leading lines and deep depth of field, drawing the viewer’s eye toward the vanishing point at the back of the corridor. The overall mood is clinical, efficient, and slightly dystopian, with a focus on precision, scale, and the intersection of technology and storage.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:11.722619",
+  "word_count": 134,
+  "error_message": null
+}

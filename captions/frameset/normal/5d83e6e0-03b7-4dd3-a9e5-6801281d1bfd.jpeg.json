@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d83e6e0-03b7-4dd3-a9e5-6801281d1bfd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of two sheets of paper, likely school test papers, lying on a desk in a brightly lit classroom. The focal point is a large, bold red \"X\" mark and a circled \"0\" score, drawn with a red marker across the center of the foremost paper, signifying a failed grade. The papers are printed in Korean, with the heading \"2023학년도 위클리 학력평가\" and \"Weekly\" visible, along with various checkboxes and handwritten elements. The background is softly blurred, hinting at the presence of classroom chairs or desks, creating a shallow depth of field that keeps the viewer’s attention on the test papers. The color palette is dominated by cool whites and pale blues from the paper, contrasted sharply by the vivid red of the marker. The lighting is natural and diffused, suggesting daylight streaming in from a window, which enhances the crispness and clarity of the scene. The overall style is realistic and documentary-like, with a slight cinematic quality due to the selective focus and careful composition, evoking a mood of disappointment or academic struggle.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:11.724917",
+  "word_count": 176,
+  "error_message": null
+}

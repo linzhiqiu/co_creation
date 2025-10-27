@@ -1,0 +1,12 @@
+{
+  "image_filename": "1711e652-f638-4db1-8544-702fa632eb72.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, realistic kitchen interior, viewed through a glass partition that creates layered reflections and a sense of separation. Three men are present: one stands in the left foreground, his back to the camera, arms crossed, dressed in a dark shirt and trousers, his posture tense and contemplative. On the right, two men are seen mostly as reflections in the glass—one in a light-colored kurta, the other partially obscured—engaged in a quiet, serious conversation. The background features a window with horizontal bars letting in soft, diffused daylight, casting gentle shadows and illuminating the muted, earthy color palette of the room. The overall mood is subdued and introspective, with a naturalistic, almost documentary style. The camera angle is eye-level, with a shallow depth of field that emphasizes the glass reflections and the emotional distance between the figures. The composition uses the partition to create visual tension and a sense of voyeurism, as if the viewer is witnessing a private moment from afar.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:19.416764",
+  "word_count": 162,
+  "error_message": null
+}

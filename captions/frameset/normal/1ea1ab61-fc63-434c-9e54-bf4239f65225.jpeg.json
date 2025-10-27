@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ea1ab61-fc63-434c-9e54-bf4239f65225.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern silver sedan is parked at a slight angle inside a dimly lit, urban tunnel. The car’s LED headlights and daytime running lights are illuminated, casting a cool blue-white glow onto the textured concrete road. The tunnel walls are aged and weathered, with a mix of dark stains and faded yellow-black hazard stripes running along the lower half, adding a gritty, industrial atmosphere. Overhead, a series of warm, orange streetlights recede into the distance, creating a dramatic contrast between the cold blue tones from the car and the warm ambient lighting. The composition is cinematic, with a low, wide-angle perspective that emphasizes the car’s sharp lines and the tunnel’s depth, drawing the viewer’s eye toward the vanishing point. The overall mood is moody and atmospheric, with a sense of solitude and anticipation, reminiscent of a high-end automotive commercial or a stylish neo-noir film scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:11.036555",
+  "word_count": 146,
+  "error_message": null
+}

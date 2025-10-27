@@ -1,0 +1,12 @@
+{
+  "image_filename": "62e46f0e-384b-4d9f-a133-4d3ff34b6298.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, wide-angle view looking straight up from street level in the middle of a modern city, surrounded by tall skyscrapers. The buildings are sleek and contemporary, with glass and steel facades reflecting soft daylight. The perspective is dramatic, with the towers converging toward the center of the frame, drawing the eye upward to a bright, open sky filled with light, fluffy clouds. The color palette is cool and airy, dominated by pale blues, whites, and subtle metallic tones, evoking a sense of openness and modernity. The lighting is natural and diffused, with gentle highlights on the building edges and a clear, inviting atmosphere. The overall style is clean, minimalistic, and architectural, emphasizing the scale and geometry of the urban environment, with a sense of awe and upward motion.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:23.507218",
+  "word_count": 131,
+  "error_message": null
+}

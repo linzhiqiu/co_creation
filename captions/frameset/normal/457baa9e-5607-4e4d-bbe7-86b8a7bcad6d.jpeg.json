@@ -1,0 +1,12 @@
+{
+  "image_filename": "457baa9e-5607-4e4d-bbe7-86b8a7bcad6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person's hands engaged in writing on a stack of papers, with a black pen held delicately between the fingers. The focus is on the hand in the foreground, capturing the subtle tension of the fingers and the poised movement of the pen, while the other hand rests lightly on the documents. The background is softly blurred, revealing hints of colorful lines and charts on the papers, suggesting a professional or academic setting. The lighting is natural and diffused, casting gentle shadows and highlighting the texture of the skin and paper. The color palette is warm and muted, dominated by soft beiges, browns, and off-whites, with subtle pops of color from the documents. The overall style is cinematic and intimate, with a shallow depth of field that draws attention to the act of writing, evoking a sense of focus, diligence, and quiet concentration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:04.103663",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d2ba241-1d2b-4db1-a39f-07aa703f72a8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic close-up portrait of an older man with pale skin and thinning white hair, captured in a moment of intense surprise or shock. His wide, expressive green eyes are opened fully, staring directly into the camera, with his mouth slightly parted as if caught mid-exclamation. The lighting is soft but direct, illuminating every detail of his face and emphasizing the texture of his skin, the fine lines, and the subtle flush of his cheeks. The background is softly blurred in warm, neutral tones, ensuring all focus remains on the man's dramatic expression. The composition uses a shallow depth of field and a slightly low, upward camera angle, heightening the sense of immediacy and emotional intensity. The overall style is cinematic, reminiscent of a suspenseful film moment, with a naturalistic color palette and a sharp, almost clinical clarity that draws the viewer into the subject’s emotional state.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:14.340171",
+  "word_count": 148,
+  "error_message": null
+}

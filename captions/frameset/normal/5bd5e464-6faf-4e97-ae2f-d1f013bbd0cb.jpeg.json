@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bd5e464-6faf-4e97-ae2f-d1f013bbd0cb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a young child holding and intently reading a letter from NASA. The child is positioned in the left foreground, with only the side of their face and hand visible, softly out of focus, drawing attention to the letter. The letter is crisp and white, featuring the NASA logo and official letterhead at the top, with typed text and a large, red handwritten signature or mark near the bottom. The child’s small fingers gently grip the edge of the paper, conveying a sense of anticipation and wonder. The background is softly blurred, rendered in cool, muted tones of blue and gray, suggesting an indoor setting with natural daylight streaming in, creating a gentle, diffused glow. The overall color palette is subdued and realistic, with a slight bluish tint that enhances the emotional, contemplative mood. The composition uses shallow depth of field to focus on the letter’s details, evoking a sense of intimacy and personal significance. The style is reminiscent of a coming-of-age film, with natural lighting and a tender, hopeful atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:37.151012",
+  "word_count": 175,
+  "error_message": null
+}

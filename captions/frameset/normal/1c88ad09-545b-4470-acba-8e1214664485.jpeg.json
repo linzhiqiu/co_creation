@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c88ad09-545b-4470-acba-8e1214664485.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph of a hand gently resting on a printed document. The hand, adorned with a simple gold ring set with a single clear gemstone, is the focal point, with soft natural light illuminating the skin and creating a warm, inviting atmosphere. The fingers are slightly spread, lightly touching the paper, which is covered in neatly organized text and numbers, some highlighted in red. The background is softly blurred, suggesting an office or workspace environment, with hints of additional papers and a calm, professional mood. The color palette is muted and neutral, dominated by soft beiges, whites, and subtle hints of gold from the ring, with the red text providing a delicate accent. The composition is intimate and focused, evoking a sense of concentration and quiet diligence, as if capturing a candid moment of someone reviewing important information.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:19.583900",
+  "word_count": 141,
+  "error_message": null
+}

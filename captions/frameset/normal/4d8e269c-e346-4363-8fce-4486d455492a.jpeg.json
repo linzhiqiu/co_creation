@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d8e269c-e346-4363-8fce-4486d455492a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A neatly organized bookstore shelf filled with multiple rows of identical hardcover science fiction novels, each titled \"The Chronicles of Brutus & Baltzaak\" by Dr. Ronald Chevalier. The book covers prominently feature a stylized, illustrated portrait of a stoic, long-haired man with a beard, set against a cosmic, star-filled night sky with a large, glowing planet or moon in the background. The color palette is dominated by deep purples, blues, and blacks, creating a mysterious and otherworldly atmosphere. The lighting is soft and even, highlighting the glossy texture of the book covers and the uniformity of their arrangement. The composition is symmetrical and orderly, with the books perfectly aligned both vertically and horizontally, emphasizing repetition and the commercial display of the novel. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the entire shelf in sharp focus, lending a sense of clarity and precision to the scene. The overall style is cinematic and slightly surreal, evoking the feeling of a meticulously curated, almost artificial retail environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:55.077555",
+  "word_count": 173,
+  "error_message": null
+}

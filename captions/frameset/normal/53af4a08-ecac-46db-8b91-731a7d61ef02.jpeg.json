@@ -1,0 +1,12 @@
+{
+  "image_filename": "53af4a08-ecac-46db-8b91-731a7d61ef02.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a student’s hand holding a graded test paper on a wooden school desk. The test paper is the central focus, with a large red “67” circled at the top, indicating a low score, and several other answers circled in red ink throughout the page. The background is softly blurred, suggesting a classroom environment with indistinct shapes of desks and chairs, and a hint of another student in blue. The lighting is natural and soft, streaming in from the side, creating a gentle, realistic atmosphere. The color palette is muted and academic, dominated by whites, beiges, and subtle hints of color from the classroom. The composition emphasizes the emotional impact of the grade, with the camera angle positioned over the student’s shoulder, immersing the viewer in their perspective. The overall style is cinematic and intimate, capturing the quiet tension and vulnerability of a school moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:14.713243",
+  "word_count": 150,
+  "error_message": null
+}

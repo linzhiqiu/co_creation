@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f90ce08-ca70-4465-bb27-1742657f8764.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic scene set in a neon-lit arcade at night. The central subject is a rugged man with a short, side-parted haircut and a trimmed beard, wearing a dark green bomber jacket. He is intensely focused, aiming a shotgun directly ahead with both hands, his expression determined and serious. The background is a riot of colorful arcade machines, glowing with vibrant reds, oranges, and electric blues, casting dramatic, multicolored reflections and highlights across the scene. The lighting is moody and saturated, with deep shadows and pockets of vivid illumination from the arcade lights, creating a high-contrast, almost surreal atmosphere. The camera angle is at eye level, close to the subject, with a shallow depth of field that blurs the background, emphasizing the man’s concentration and the tension of the moment. The overall style is reminiscent of neo-noir or modern action thrillers, with a dynamic, immersive composition that draws the viewer into the charged, chaotic environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:02.189271",
+  "word_count": 156,
+  "error_message": null
+}

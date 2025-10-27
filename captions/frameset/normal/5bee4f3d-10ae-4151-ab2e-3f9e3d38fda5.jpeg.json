@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bee4f3d-10ae-4151-ab2e-3f9e3d38fda5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime urban scene, viewed from a distance, with a strong sense of mood and atmosphere. The focal point is a large, glowing white billboard elevated above a dark, shadowy building. The billboard displays handwritten text in uneven, slightly eerie letters: \"YOU MAKE ME LAUGH BUT ITS NOT FUNNY.\" The building below is mostly in deep shadow, with only faint blue and purple highlights suggesting its structure and a few silhouetted figures on the rooftop, adding a sense of intrigue and subtle tension. The background is almost entirely black, with only the faintest suggestion of distant city lights and structures, emphasizing the isolation of the scene. The color palette is dominated by inky blacks, muted blues, and the stark white of the billboard, creating a high-contrast, moody effect. The lighting is minimal and dramatic, with the billboard acting as the primary light source, casting a ghostly glow over the scene. The overall style is reminiscent of neo-noir or psychological thriller films, with a wide-angle composition, deep shadows, and a sense of quiet unease.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:37.756635",
+  "word_count": 175,
+  "error_message": null
+}

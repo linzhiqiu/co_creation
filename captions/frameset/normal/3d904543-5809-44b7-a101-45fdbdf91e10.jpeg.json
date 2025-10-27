@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d904543-5809-44b7-a101-45fdbdf91e10.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, medium-close shot from outside the windshield of a yellow car, focusing on a young woman with fair skin and straight brown hair with bangs, sitting in the driver’s seat. She grips the steering wheel with both hands, her expression serious and contemplative as she gazes forward, lost in thought. The lighting is natural, with soft daylight illuminating her face and casting subtle reflections on the glass, creating a sense of depth and realism. The background is slightly out of focus, revealing hints of urban architecture—modern buildings with geometric lines and muted colors—contributing to a city atmosphere. The color palette is dominated by cool blues and grays from the cityscape, contrasted by the warm yellow of the car’s hood in the foreground. The overall style is reminiscent of a modern drama film, with a shallow depth of field that isolates the subject and enhances the introspective mood. The composition centers the woman, using the car’s interior as a framing device, and the camera angle is eye-level, inviting the viewer into her emotional world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:27.569483",
+  "word_count": 174,
+  "error_message": null
+}

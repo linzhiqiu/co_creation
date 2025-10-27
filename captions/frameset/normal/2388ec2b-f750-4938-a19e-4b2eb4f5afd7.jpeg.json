@@ -1,0 +1,12 @@
+{
+  "image_filename": "2388ec2b-f750-4938-a19e-4b2eb4f5afd7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dimly lit office at night, viewed from behind a solitary figure seated at a cluttered desk. The subject, a woman with curly hair, is silhouetted in near darkness, her features obscured by shadow. She faces a glowing laptop screen, the only significant light source in the room, casting a faint blue-white illumination on her and the immediate workspace. The desk is strewn with papers, folders, telephones, and office equipment, evoking a sense of busyness and late-night work. Large windows dominate the background, revealing the faint outlines of plants and the suggestion of an exterior courtyard, with harsh fluorescent lights outside creating stark reflections on the glass. The overall color palette is muted and cool, dominated by deep blues, grays, and blacks, with the laptop screen providing a cold, digital contrast. The composition is static and contemplative, with a wide shot and deep focus that emphasizes the isolation of the figure within the expansive, shadowy office. The mood is somber and introspective, evoking themes of solitude, dedication, or perhaps exhaustion, reminiscent of a moody, atmospheric scene from a psychological drama or noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:55.324484",
+  "word_count": 184,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "599de319-b4ef-4dcc-9e7a-5700eed4ba9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime urban street scene viewed from an elevated angle, capturing a busy intersection illuminated by warm, golden streetlights. The composition features a mix of vehicles waiting at a red light, including a red double-decker bus, a yellow bus, several dark-colored cars, and a motorcycle with its headlight casting a bright beam onto the asphalt. The motorcyclist, dressed in dark clothing and a helmet, is positioned near the front of the line, adding a sense of anticipation and movement. The road markings and crosswalk lines are clearly visible, and the wet pavement subtly reflects the city lights, enhancing the moody, atmospheric quality. The color palette is dominated by deep shadows, rich yellows, and reds, with a slight teal tint in the darker areas, evoking a cinematic, neo-noir style. The overall mood is urban, dynamic, and slightly tense, with a shallow depth of field that keeps the focus on the vehicles and the interplay of light and shadow, while the background fades softly into darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:51.925996",
+  "word_count": 166,
+  "error_message": null
+}

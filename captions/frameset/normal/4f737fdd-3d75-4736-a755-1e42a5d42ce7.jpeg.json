@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f737fdd-3d75-4736-a755-1e42a5d42ce7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, sharply focused shot of a black analog tachometer dial, filling the frame with a sense of intensity and precision. The white needle is prominently pointing just above the 5,000 RPM mark, suggesting high engine activity or acceleration. The dial features bold white numerals and tick marks, with a striking red zone beginning at the 9,000 RPM mark, adding a sense of urgency and performance. The lighting is soft and even, minimizing reflections and allowing the details of the dial to stand out crisply against the dark background. The overall color palette is dominated by deep blacks, bright whites, and vivid red accents, creating a dramatic and technical atmosphere. The composition is centered and symmetrical, with a shallow depth of field that subtly blurs the outer edges, drawing the viewer’s eye directly to the needle and the numbers. The style is clean, modern, and cinematic, evoking the high-stakes world of motorsports or high-performance machinery.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:51.698571",
+  "word_count": 155,
+  "error_message": null
+}

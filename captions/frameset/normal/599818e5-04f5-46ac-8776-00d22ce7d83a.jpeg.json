@@ -1,0 +1,12 @@
+{
+  "image_filename": "599818e5-04f5-46ac-8776-00d22ce7d83a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a futuristic science museum or dinosaur theme park. In the foreground, two boys stand side by side, gazing in awe at a large, transparent interactive display screen filled with glowing, holographic graphics—DNA strands, data charts, and scientific diagrams in vibrant neon blues, reds, and greens. The younger boy, with shaggy brown hair and a plaid shirt, looks up with wide-eyed wonder, while the older boy, taller and wearing a dark t-shirt, appears more serious and contemplative. Their faces are softly illuminated by the light from the holographic display, creating a subtle contrast with the ambient lighting of the space.\n\nBehind them, the blurred, massive silhouette of a dinosaur skeleton or animatronic looms, partially visible through the glass, adding a sense of scale and excitement. The background is bustling with other visitors, but they are out of focus, emphasizing the boys’ engagement with the display. The overall color palette is cool and modern, dominated by blues and metallic tones, with pops of color from the holographic interface. The composition uses a shallow depth of field to keep the boys and the display in sharp focus, while the background remains soft and atmospheric. The camera angle is at eye level with the boys, immersing the viewer in their perspective and sense of wonder. The style is reminiscent of a high-budget science fiction adventure film, blending realism with a touch of futuristic spectacle.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:50.471426",
+  "word_count": 237,
+  "error_message": null
+}

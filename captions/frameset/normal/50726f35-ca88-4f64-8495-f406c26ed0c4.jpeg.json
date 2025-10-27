@@ -1,0 +1,12 @@
+{
+  "image_filename": "50726f35-ca88-4f64-8495-f406c26ed0c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, high-contrast black and white aerial scene viewed from above the clouds, capturing the tense moment of an in-flight refueling operation between two large military aircraft. The foreground is dominated by the imposing nose and cockpit of a bomber, its angular windows and metallic surface rendered in sharp detail. The refueling boom extends downward from the upper edge of the frame, connecting with the bomber, emphasizing the precision and tension of the maneuver. The background consists of a vast expanse of textured clouds and glimpses of the earth far below, rendered in soft grayscale tones that contrast with the hard, mechanical forms of the aircraft. The lighting is diffuse, with subtle highlights glinting off the metal surfaces, creating a moody, almost cinematic atmosphere reminiscent of classic Cold War-era films. The composition is tight and immersive, with a slight downward angle that enhances the sense of altitude and isolation, while the depth of field keeps both the aircraft and the cloudscape in crisp focus. The overall style is stark, realistic, and evocative, capturing both the technical complexity and the underlying tension of mid-20th-century military aviation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:03.482055",
+  "word_count": 185,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "43c121c9-a372-43c0-ab30-c024f79b7a80.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic view of the Brooklyn Bridge at sunset, captured from a low, off-kilter angle that tilts the horizon for a dynamic, almost surreal effect. The bridge’s iconic gothic arches and suspension cables are silhouetted against a vibrant gradient sky, transitioning from deep indigo at the top to warm orange and gold near the horizon. A single vintage streetlamp glows softly with a greenish hue, casting a gentle light that contrasts with the natural colors of dusk. The city skyline is visible in the distance, rendered in dark, shadowy outlines. The overall mood is moody and contemplative, with long shadows and a sense of quiet stillness. The composition emphasizes strong leading lines, drawing the viewer’s eye toward the vanishing point at the center of the bridge. The color palette is rich and saturated, with high contrast between the dark foreground and the luminous sky. The style evokes a sense of urban solitude and cinematic grandeur, reminiscent of a film noir or a dramatic cityscape photograph.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:29.039820",
+  "word_count": 166,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c467438-d7ff-4a15-baba-ddbe49f29caf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A professional, modern office setting with a soft, cool-toned color palette dominated by shades of blue, gray, and white. In the foreground, two business professionals—a woman and a man—are warmly embracing in a friendly hug, suggesting a moment of greeting or reunion. The woman, with long dark hair pulled back in a sleek ponytail, wears a sleeveless, fitted gray dress, while the man is dressed in a dark suit. Their expressions are joyful and genuine, conveying warmth and camaraderie. The background is softly blurred, featuring large floor-to-ceiling windows that let in diffused natural light, creating a bright and airy atmosphere. The composition is intimate, with a shallow depth of field focusing on the embrace, and the camera angle is at eye level, enhancing the sense of connection and authenticity. The overall style is clean, contemporary, and cinematic, evoking a sense of professionalism and positive human interaction in a corporate environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:14.112763",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e1ee10f-6bc6-4ae2-814b-c8486dea0a3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-fashion product shot featuring a single, elegant gold monogram brooch centered against a smooth, matte beige background. The brooch is designed with interlocking, stylized letters—specifically a prominent \"B\" and \"T\"—crafted in polished gold metal, reflecting soft, diffused light that highlights its luxurious finish and subtle curves. The composition is symmetrical and uncluttered, with the brooch perfectly aligned in the frame, drawing all attention to its refined details. The color palette is warm and understated, dominated by creamy beige and the rich, lustrous gold of the brooch. Lighting is even and gentle, creating a sophisticated, high-end atmosphere without harsh shadows or distractions. The overall style is clean, modern, and editorial, evoking the aesthetic of luxury fashion branding and product photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:23.102237",
+  "word_count": 122,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c0e41f4-7644-4372-ab48-2bf0835aec2d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A menacing, futuristic robot with glowing blue lights and metallic armor emerges from dense, shadowy forest foliage at night. Its head is framed by intense, white headlights, and it clutches a mechanical animal skull. The scene is bathed in eerie, cinematic blue and black tones, with dramatic backlighting and deep shadows.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:05.863732",
+  "word_count": 51,
+  "error_message": null
+}

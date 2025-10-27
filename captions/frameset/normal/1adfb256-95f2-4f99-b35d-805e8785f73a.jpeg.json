@@ -1,0 +1,12 @@
+{
+  "image_filename": "1adfb256-95f2-4f99-b35d-805e8785f73a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a young man outdoors, captured in soft, natural daylight. The composition is intimate and off-center, focusing on the right side of his face, with his eye gently closed and a contemplative, serene expression. He has a short beard and wears a small hoop earring in his ear, with the edge of a dark cap just visible at the top of the frame. The background is softly blurred, revealing hints of a mountainous landscape and greenery, rendered in cool, muted tones of blue and green. The lighting is gentle and diffused, creating subtle shadows and a calm, introspective mood. The overall style is reminiscent of an art-house film, with shallow depth of field, a natural color palette, and a sense of quiet reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:45.075546",
+  "word_count": 127,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f6d2792-5eae-4389-837f-593a61eab17b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene featuring a sleek, black luxury sedan driving across a large steel suspension bridge at sunset. The camera angle is low and positioned behind the car, emphasizing its polished curves and reflecting the warm, pinkish-orange hues of the sky on its glossy surface. The bridge’s intricate metal framework looms overhead, casting dramatic shadows and lines that converge toward the horizon, enhancing the sense of depth and motion. The car’s taillights glow subtly, and a yellow license plate is visible, adding a touch of realism. The overall color palette is dominated by deep blacks, metallic grays, and the soft, glowing tones of the sunset, creating a moody, atmospheric effect. The lighting is natural but stylized, with the fading sunlight bathing the scene in a cinematic, almost dreamlike quality. The composition conveys a sense of movement, solitude, and anticipation, as if the car is embarking on an important journey through the city at dusk.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:38.860880",
+  "word_count": 155,
+  "error_message": null
+}

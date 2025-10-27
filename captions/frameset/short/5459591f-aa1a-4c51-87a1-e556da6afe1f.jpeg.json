@@ -1,0 +1,12 @@
+{
+  "image_filename": "5459591f-aa1a-4c51-87a1-e556da6afe1f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of indigenous warriors, bodies painted with white and gray patterns, stand in tall green grass. In the foreground, a muscular archer draws his bow, aiming intently. The lush jungle background and earthy tones evoke a tense, primal atmosphere, with natural light and a shallow depth of field highlighting the action.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:28.626930",
+  "word_count": 52,
+  "error_message": null
+}

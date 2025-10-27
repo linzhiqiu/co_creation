@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b872ef0-2bf7-4045-a4b3-c0b4cc81317e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping nighttime aerial view of a curving urban highway, captured with a long exposure to create dynamic, colorful light trails from passing vehicles. The scene is bathed in a cool, cinematic palette of deep blues and teals, punctuated by the warm, glowing streaks of red and white headlights and taillights. On the right side of the image, a cluster of illuminated buildings and parking lots glows with neon and fluorescent lights, casting reflections onto the wet pavement. The left side of the frame is dominated by the sweeping arc of the highway, bordered by dark, tree-lined embankments and silhouetted billboards. Overhead, a bridge structure is faintly visible, adding depth and complexity to the composition. The overall mood is urban, energetic, and slightly mysterious, with a high-contrast, moody atmosphere reminiscent of neo-noir cinematography. The camera angle is elevated and slightly tilted, emphasizing the flow and movement of the city at night, while the long exposure blurs the motion of the cars, creating a sense of speed and modernity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:06.095379",
+  "word_count": 168,
+  "error_message": null
+}

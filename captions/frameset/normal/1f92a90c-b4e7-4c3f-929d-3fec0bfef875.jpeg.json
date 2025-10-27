@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f92a90c-b4e7-4c3f-929d-3fec0bfef875.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic photograph of a vibrant mosaic surface, featuring an undulating, organic form that rises and falls across the frame. The mosaic is composed of countless small, irregularly shaped tiles in a rich, saturated color palette: deep blues, vivid yellows, warm oranges, reds, and subtle greens, all interspersed in a seemingly random yet harmonious pattern. The lighting is soft and directional, casting gentle shadows that accentuate the three-dimensional contours and texture of the mosaic. The focus is shallow, with the foreground tiles rendered in sharp detail while the background tiles blur into a dreamy bokeh, creating a sense of depth and intimacy. The overall mood is artistic and contemplative, evoking the tactile beauty and intricate craftsmanship of classic Mediterranean or Art Nouveau mosaics. The composition draws the viewer’s eye along the curves and dips of the surface, inviting exploration of the interplay between color, light, and form.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:31.784161",
+  "word_count": 148,
+  "error_message": null
+}

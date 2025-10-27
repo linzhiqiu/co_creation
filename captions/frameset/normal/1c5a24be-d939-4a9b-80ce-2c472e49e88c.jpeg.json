@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c5a24be-d939-4a9b-80ce-2c472e49e88c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, post-apocalyptic cityscape at sunset, viewed from a low angle. The scene features the skeletal remains of tall, crumbling skyscrapers and mid-rise buildings, their facades shattered and windows blown out. Debris and dust fill the air, catching the golden, almost sepia-toned light that streams dramatically through gaps in the ruined skyline. The sun is low, casting long, harsh shadows and illuminating the dust particles, creating a hazy, ethereal atmosphere. In the center, a lone, small human figure stands atop a partially collapsed building, dwarfed by the immense scale of destruction around them. The overall color palette is muted and monochromatic, dominated by warm ochres, browns, and faded yellows, enhancing the sense of desolation. The composition emphasizes depth, with foreground ruins framing the scene and leading the eye toward the distant, light-filled horizon. The mood is somber and contemplative, evoking themes of isolation and survival in a devastated urban landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:17.068020",
+  "word_count": 151,
+  "error_message": null
+}

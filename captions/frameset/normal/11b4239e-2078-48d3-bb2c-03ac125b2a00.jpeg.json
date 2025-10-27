@@ -1,0 +1,12 @@
+{
+  "image_filename": "11b4239e-2078-48d3-bb2c-03ac125b2a00.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern computer monitor fills the frame, displaying a vibrant project management dashboard with a red-themed user interface. The screen is divided into several sections: on the left, a detailed table lists tasks, assignees, and statuses, organized with blue and gray highlights for clarity. To the right, a bold countdown timer in blue and red numerals marks the time remaining until a \"Spring product launch,\" creating a sense of urgency and anticipation. Below the timer, a high-resolution product image of a red smartwatch with a black screen and metallic accents is prominently featured, its glossy surface catching the light and adding a touch of sophistication. The background is softly blurred, with warm, ambient lighting suggesting a professional office or creative workspace. The overall color palette is dominated by reds, blues, and neutral tones, with crisp, clean lines and a shallow depth of field that keeps the viewer’s focus on the screen. The composition is cinematic, shot at a slight angle to give depth and realism, evoking the atmosphere of a high-stakes tech launch or a dynamic team environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:18.742393",
+  "word_count": 179,
+  "error_message": null
+}

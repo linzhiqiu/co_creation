@@ -1,0 +1,12 @@
+{
+  "image_filename": "5286fdc2-f5a6-4353-9cbf-13e92402832f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-detailed close-up of a vintage slide projector, focusing on the tactile, mechanical elements of the device. The composition is tight and intimate, with the left side of the frame dominated by a metallic power switch labeled \"POWER,\" rendered in sharp relief. To the right, the circular carousel of the projector is visible, its numbered slots crisply etched and partially illuminated, suggesting the presence of photographic slides within. The lighting is moody and cinematic, with cool, desaturated tones of steel blue, charcoal, and black, punctuated by subtle highlights reflecting off the metal and plastic surfaces. The depth of field is shallow, drawing the viewer’s eye to the textures and numbers on the carousel, while the background falls away into soft, velvety darkness. The overall style is reminiscent of a film still, evoking a sense of nostalgia and tactile anticipation, as if capturing a quiet moment before the projector whirs to life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:45.817973",
+  "word_count": 151,
+  "error_message": null
+}

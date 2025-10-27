@@ -1,0 +1,12 @@
+{
+  "image_filename": "134e1cd5-7910-4d59-9351-562e7172ad63.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA solitary figure stands on the edge of a high rooftop in a sprawling, futuristic city at night. The person is dressed in dark, sleek clothing, their silhouette sharply defined against the glowing cityscape. The rooftop is industrial, featuring metallic railings, a large cylindrical tank, and several pipes and barrels, all illuminated by cool blue neon lights that cast dramatic reflections on the wet metal floor. In the background, towering skyscrapers with illuminated windows and intricate architectural details rise into a hazy, greenish sky, their forms partially obscured by mist and atmospheric glow. The overall color palette is dominated by deep blues, teals, and muted greens, with stark contrasts between the artificial lights and the shadowy environment. The composition is cinematic, with a wide-angle perspective and a slight downward tilt, emphasizing the scale and isolation of the scene. The mood is moody and contemplative, evoking a sense of loneliness and anticipation in a cyberpunk-inspired urban landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:55.459412",
+  "word_count": 157,
+  "error_message": null
+}

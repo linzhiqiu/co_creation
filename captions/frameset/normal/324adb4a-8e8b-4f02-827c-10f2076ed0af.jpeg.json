@@ -1,0 +1,12 @@
+{
+  "image_filename": "324adb4a-8e8b-4f02-827c-10f2076ed0af.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of two gloved hands interacting with a smartphone against a distressed, off-white industrial wall. The hand on the left, wearing a rugged brown leather work glove, is reaching in from the side and tapping the phone’s screen. The hand on the right, clad in a lighter, beige glove, holds the phone upright. The smartphone has a blue case and displays an app with a briefcase icon and the words “Business Deductions.” The background is softly blurred, featuring chipped paint and subtle stains, evoking a utilitarian, slightly gritty atmosphere. The lighting is natural and diffuse, casting soft shadows and highlighting the textures of the gloves and wall. The composition is tight and focused, with a shallow depth of field that draws attention to the interaction and the tactile contrast between the gloves and the sleek device. The overall mood is practical and slightly cinematic, suggesting a moment of collaboration or transaction in an industrial or work-related setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:13.161069",
+  "word_count": 159,
+  "error_message": null
+}

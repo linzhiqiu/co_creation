@@ -1,0 +1,12 @@
+{
+  "image_filename": "1dee3eb6-6aa1-473a-a9e7-be830065c179.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric scene set at a mysterious party or art installation. The central subject is a person standing in the foreground, partially turned toward the camera, holding a drink in one hand. Their face and hand are dramatically illuminated by swirling, abstract green and yellow light projections, creating a mesmerizing pattern across their features and casting deep shadows. The person’s expression is enigmatic, almost contemplative, and their clothing is dark, blending into the shadowy background. In the midground, another figure is visible but less defined, also partially bathed in the projected light. The background is filled with large, softly glowing, out-of-focus shapes—possibly balloons or sculptural forms—adding to the surreal, immersive ambiance. The color palette is dominated by deep blues, greens, and hints of yellow, with high contrast between the illuminated projections and the surrounding darkness. The overall style is cinematic and moody, with a shallow depth of field that keeps the focus on the central figure while the background remains abstract and dreamlike. The camera angle is at eye level, inviting the viewer into the enigmatic, almost otherworldly environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:53.565798",
+  "word_count": 181,
+  "error_message": null
+}

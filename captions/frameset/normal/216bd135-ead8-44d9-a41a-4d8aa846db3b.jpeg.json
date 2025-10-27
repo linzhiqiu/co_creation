@@ -1,0 +1,12 @@
+{
+  "image_filename": "216bd135-ead8-44d9-a41a-4d8aa846db3b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle interior shot from the backseat of a modern SUV, looking forward through the windshield and panoramic sunroof. The scene is set during dusk, with soft, natural blue and gray tones dominating the color palette, creating a moody, contemplative atmosphere. The driver, seen from behind, is focused on the road ahead, while a passenger sits in the front seat, their face partially obscured in shadow. The dashboard is illuminated by the subtle glow of a GPS navigation screen, displaying a winding route through a rugged desert landscape. Outside, the vast, rocky terrain and distant mesas are visible through the windshield, bathed in the fading light of evening. The composition emphasizes the sense of journey and solitude, with a shallow depth of field that keeps the car’s interior in gentle focus while the landscape outside appears slightly blurred. The overall style is reminiscent of an indie road movie, with naturalistic lighting, muted colors, and a contemplative, cinematic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:06.179712",
+  "word_count": 159,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "320e093e-c26f-4a7a-8025-83da5ee2d2b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, cinematic scene viewed from a first-person perspective, as if traveling rapidly through a dark, infinite tunnel. The composition is centered on a distant, glowing television screen displaying static or indistinct imagery, positioned at the vanishing point. Radiating outward from the TV are four symmetrical lines of small, evenly spaced, glowing yellow lights, creating a sense of motion and depth as they recede into the darkness. The background is pitch black, emphasizing the stark contrast between the illuminated elements and the void. The overall color palette is minimal, dominated by deep blacks and punctuated by the warm yellow lights and the cool, bluish glow of the television. The style is reminiscent of classic science fiction or psychological thrillers, with a strong sense of mystery and disorientation. The lighting is dramatic, with all focus drawn to the central TV and the converging lines, evoking a feeling of being pulled toward the unknown. The image should have a crisp, high-contrast look, with a slight blur or motion effect on the lights to enhance the sensation of speed and tunnel vision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:06.623987",
+  "word_count": 181,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "185a580e-9661-4f16-b20b-6db249f5f52b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA moody, cinematic cityscape at dusk, viewed from a low angle looking up at tall, old brick and stone buildings. The architecture is early 20th-century urban, with large windows, some warmly lit from within, contrasting against the cool, overcast sky. Soft, gentle snowflakes drift down through the frame, caught in the shallow depth of field, creating a dreamy, atmospheric effect. The color palette is muted and desaturated, dominated by cool grays and blues, with subtle hints of warm yellow and orange from the interior lights. The lighting is diffuse and natural, evoking a quiet, contemplative winter evening. The overall style is reminiscent of a dramatic film still, with a slight blur and bokeh effect on the snow, enhancing the sense of depth and tranquility. No people are visible, emphasizing the serene, almost melancholic mood of the empty city street.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:50.131277",
+  "word_count": 140,
+  "error_message": null
+}

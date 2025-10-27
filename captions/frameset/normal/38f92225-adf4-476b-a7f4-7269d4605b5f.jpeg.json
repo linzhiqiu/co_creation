@@ -1,0 +1,12 @@
+{
+  "image_filename": "38f92225-adf4-476b-a7f4-7269d4605b5f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking aerial view of a modern urban plaza, captured from a dramatic bird’s-eye perspective. The right half of the composition is dominated by the reflective glass façade of a tall skyscraper, its grid of windows creating a mesmerizing geometric pattern that mirrors the cityscape. Below, a circular fountain with a blue pool anchors the lower left corner, surrounded by a curved driveway where several bright yellow taxis are parked in a neat arc, their color providing a vivid contrast against the muted concrete and asphalt. Small, neatly trimmed trees dot the green lawn, intersected by crisp white walkways that lead toward the building. The lighting is clear and even, suggesting midday, with sharp shadows cast by the trees and taxis. The overall color palette is cool and modern, with blues, grays, and greens punctuated by the bold yellow of the taxis. The composition emphasizes symmetry and order, with a sense of stillness and precision, evoking the meticulous style of architectural photography or a cinematic establishing shot from a classic film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:41.607913",
+  "word_count": 171,
+  "error_message": null
+}

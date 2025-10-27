@@ -1,0 +1,12 @@
+{
+  "image_filename": "11940885-0f4b-402e-9e62-911f2deeec83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, high-energy racing scene set on a futuristic, sunlit track with sweeping curves and intricate, looping architecture. The main focus is a sleek, white, open-cockpit race car with sharp, aerodynamic lines, positioned in the foreground and slightly off-center, speeding along the track. The car’s driver is visible, wearing a helmet, and the vehicle casts dramatic shadows on the road. The track itself is dark with vibrant, glowing purple highlights that suggest speed and motion, and the surface reflects the sunlight, adding a sense of realism and intensity.\n\nIn the background, the track winds through a series of large, circular, metallic structures and arches, creating a sense of depth and scale. Hints of lush green hills and modern buildings are visible beyond the track, under a bright blue sky with scattered clouds. The overall color palette is vivid and saturated, dominated by blues, whites, and purples, with warm sunlight casting crisp, cinematic highlights and shadows. The camera angle is low and close to the ground, emphasizing speed and immersion, with a shallow depth of field that blurs the distant background and enhances the sense of motion. The style is reminiscent of a high-budget animated film or video game, with a polished, hyper-realistic aesthetic and a thrilling, futuristic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:18.765079",
+  "word_count": 209,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b91a8aa-6321-411e-a64f-1543e0f38ffe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking black and white photograph of a solitary dancer performing an expressive, acrobatic pose in a narrow urban corridor. The subject, dressed in loose, casual clothing and sneakers, is captured mid-motion, balancing on one foot while holding the other leg high above their head with both hands, creating a dramatic, sculptural silhouette. The corridor is flanked by tall, vertical architectural columns on both sides, their repetitive lines creating a sense of depth and rhythm that draws the viewer’s eye toward the vanishing point in the distance. Soft, diffused daylight filters in from above, casting gentle shadows and highlighting the textures of the concrete and the dancer’s clothing. The overall mood is contemplative and dynamic, with a strong sense of isolation and focus. The camera angle is slightly low and centered, emphasizing the height of the columns and the grace of the dancer’s movement. The composition is minimalist, with a monochromatic palette that enhances the interplay of light, shadow, and form, evoking a cinematic, almost dreamlike atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:29.990200",
+  "word_count": 167,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4af13ad8-6d73-4ebd-9a92-68dfd1e793dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, cinematic scene set in a dimly lit, futuristic interior. In the center, a human woman and a humanoid robot stand face-to-face, their bodies close, locked in an intense, almost confrontational gaze. The woman has her hair slicked back in a tight, elegant bun and wears an off-the-shoulder, dark, sculptural dress that catches the low, moody light. Her expression is resolute and unflinching, exuding confidence and curiosity.\n\nThe robot is sleek and androgynous, with exposed metallic joints, cables, and a smooth, silver-blue exoskeleton. Its face is expressive yet distinctly artificial, with a sculpted, almost mask-like quality. The robot’s posture mirrors the woman’s, creating a sense of symmetry and tension between organic and synthetic forms.\n\nThe background features a modern, industrial space with concrete walls and large, circular hanging lights that glow softly, casting diffused, atmospheric illumination. The color palette is cool and desaturated, dominated by deep blues, grays, and subtle metallic tones, with gentle highlights accentuating the contours of both figures. The composition is centered and symmetrical, with a shallow depth of field that keeps the focus tightly on the two subjects, blurring the architectural details behind them. The overall style is reminiscent of high-end science fiction cinema, evoking a mood of quiet intensity, mystery, and the intersection of humanity and technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:53.039373",
+  "word_count": 213,
+  "error_message": null
+}

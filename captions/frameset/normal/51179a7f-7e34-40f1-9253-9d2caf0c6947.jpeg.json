@@ -1,0 +1,12 @@
+{
+  "image_filename": "51179a7f-7e34-40f1-9253-9d2caf0c6947.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a massive granite cliff rising dramatically from a rugged forested landscape at golden hour. The sheer rock face dominates the composition, its textured surface catching the warm, diffused sunlight, creating a striking contrast between illuminated and shadowed areas. Atop the flat summit, a solitary figure stands near the edge, dwarfed by the immense scale of the cliff, evoking a sense of awe and solitude. The surrounding pine trees, rendered in rich greens and golds, cling to the slopes and ridges, their tops bathed in soft, early morning or late afternoon light. In the background, mist lingers over distant hills, adding depth and atmosphere to the scene. The color palette is natural and cinematic, with warm yellows, muted greens, and cool grays. The overall style is reminiscent of a high-resolution nature documentary or an epic adventure film, with a wide-angle perspective and a shallow depth of field that emphasizes the grandeur and isolation of the landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:17.543119",
+  "word_count": 160,
+  "error_message": null
+}

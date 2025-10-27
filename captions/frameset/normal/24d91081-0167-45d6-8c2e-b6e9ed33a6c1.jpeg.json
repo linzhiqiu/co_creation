@@ -1,0 +1,12 @@
+{
+  "image_filename": "24d91081-0167-45d6-8c2e-b6e9ed33a6c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping cinematic landscape of a vast desert at golden hour, featuring undulating sand dunes bathed in warm, amber sunlight. The foreground is dominated by smooth, curving dunes with intricate ripples and shadows, their surfaces glowing in rich tones of ochre, burnt orange, and deep gold. The interplay of light and shadow creates dramatic contrasts and emphasizes the sensuous forms of the sand. In the background, a rugged mountain range rises sharply, rendered in cool, muted purples and blues, providing a stark contrast to the warmth of the dunes. The sky is clear, with soft, diffused light suggesting either early morning or late afternoon. The composition is wide and panoramic, with a low camera angle that accentuates the scale and majesty of the landscape. The overall style is reminiscent of classic nature cinematography, with a focus on natural beauty, texture, and the serene, timeless atmosphere of the desert.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:20.111691",
+  "word_count": 148,
+  "error_message": null
+}

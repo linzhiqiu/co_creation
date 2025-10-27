@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bc84490-78c3-4a4c-b067-d19540c0b10f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, modern digital interface scene showing a partial view of a web page or application window, with a soft, neutral background in beige and off-white tones. In the foreground, a semi-transparent chat notification pops up, featuring a rounded speech bubble with a small profile picture of a woman, labeled “Daisy Phillips.” The message reads, “Hey should we add more content here?” Below the message, there is a subtle input field with the placeholder text “@mention someone or reply.” The interface elements are crisp and minimalistic, with clean lines and a contemporary sans-serif font. The lighting is soft and diffused, creating a gentle, professional atmosphere. The composition uses a shallow depth of field, with the chat bubble in sharp focus and the background elements slightly blurred, emphasizing the immediacy and interactivity of the digital communication. The overall style is sleek and user-friendly, evoking the look of a modern productivity or collaboration tool.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:48.927144",
+  "word_count": 152,
+  "error_message": null
+}

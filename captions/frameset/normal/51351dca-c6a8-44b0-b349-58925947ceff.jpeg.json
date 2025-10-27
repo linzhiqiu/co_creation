@@ -1,0 +1,12 @@
+{
+  "image_filename": "51351dca-c6a8-44b0-b349-58925947ceff.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a digital architectural blueprint displayed on a dark computer screen. The blueprint features intricate floor plans with fine white and red lines, geometric shapes, and technical annotations, all rendered with precise, glowing vector graphics. The left side of the image is in sharp focus, revealing detailed room layouts and structural elements, while the right side fades into a soft blur, suggesting depth of field and drawing attention to the technical complexity. The color palette is dominated by deep navy blues and blacks, contrasted by luminous whites, reds, and subtle hints of yellow, evoking a high-tech, modern atmosphere. The lighting is low and cool, with the screen itself providing the primary illumination, casting a faint, ambient glow. The overall style is sleek and professional, reminiscent of a scene from a contemporary engineering or design studio, with a sense of quiet concentration and technical sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:19.467525",
+  "word_count": 148,
+  "error_message": null
+}

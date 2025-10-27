@@ -1,0 +1,12 @@
+{
+  "image_filename": "48a65958-b448-467c-95f0-674ac001641b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set on a rooftop driving range in an urban environment, under an overcast sky that casts a muted, diffused light across the setting. The foreground is dominated by a green artificial turf scattered with numerous white golf balls, some in sharp focus, creating a sense of depth and leading the viewer’s eye toward the background. Two men stand mid-ground, engaged in conversation: one is dressed in business attire—white shirt, dark trousers, and tie—holding a golf club, while the other wears a long, dark overcoat, exuding a sense of authority or seriousness. Their body language suggests a tense or important discussion. The background features the netted enclosure of the driving range, with urban buildings and a cloudy sky visible beyond the mesh. Sparse, utilitarian furniture—a folding chair and a small table—adds to the stark, minimalist atmosphere. The overall color palette is subdued, with cool greens, grays, and muted whites, enhancing the somber, contemplative mood. The camera angle is low, almost at ground level, emphasizing the golf balls and creating a dramatic, cinematic composition with a shallow depth of field. The style is reminiscent of 1990s crime dramas, with a focus on realism, subtle tension, and urban isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:07.538739",
+  "word_count": 201,
+  "error_message": null
+}

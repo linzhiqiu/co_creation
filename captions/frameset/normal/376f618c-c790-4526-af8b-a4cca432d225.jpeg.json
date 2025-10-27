@@ -1,0 +1,12 @@
+{
+  "image_filename": "376f618c-c790-4526-af8b-a4cca432d225.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, wide-angle landscape of a dense, snow-covered coniferous forest in winter. The scene is enveloped in a cold, misty atmosphere, with tall pine trees dominating the foreground and receding into a foggy, desaturated background. The color palette is composed of muted blues and grays, evoking a sense of chill and quiet isolation. Snow clings heavily to the branches, softening the outlines of the trees and adding texture to the scene. The lighting is diffuse and overcast, with no direct sunlight, enhancing the moody, somber ambiance. The composition is balanced, with two prominent trees framing the image on either side, drawing the viewer’s eye into the depth of the forest. The overall style is reminiscent of a dramatic, atmospheric film still, with a shallow depth of field that blurs the distant trees into the mist, creating a sense of mystery and solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:06.361354",
+  "word_count": 143,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ee1e2c-d8d2-4f3b-8ff3-a6306ff18191.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, futuristic group portrait featuring five young women standing in a staggered formation against a seamless, pale white background. Each woman has a sharp, chin-length bob haircut dyed a vivid, electric turquoise blue, creating a bold visual contrast with their surroundings. They all wear oversized, crisp white sweatshirts adorned with large, metallic silver text across the chest, adding a subtle reflective element to the composition. Their makeup is minimal but precise, with a focus on flawless skin and defined eyes, and their expressions are serious, almost enigmatic, conveying a sense of unity and quiet intensity.\n\nThe central figure stands slightly ahead of the others, directly facing the camera with a confident, unwavering gaze, while the remaining four are positioned symmetrically behind her, their bodies angled slightly inward to frame the leader. The lighting is soft and diffused, eliminating harsh shadows and giving the scene an ethereal, high-key quality. The overall color palette is cool and minimalistic, dominated by whites and the striking blue of the hair, with subtle hints of silver. The camera angle is eye-level, and the depth of field is shallow, keeping all subjects in sharp focus while the background remains smooth and unobtrusive. The style is clean, modern, and editorial, evoking a sense of avant-garde fashion and futuristic identity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:20.505462",
+  "word_count": 214,
+  "error_message": null
+}

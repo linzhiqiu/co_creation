@@ -1,0 +1,12 @@
+{
+  "image_filename": "62558bb3-5bfc-43f3-b36e-591c43a8425d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern black Volvo SUV drives through a city street at dusk, captured from a low, front-facing angle that emphasizes the car’s bold grille and illuminated headlights. The vehicle’s glossy surface reflects the surrounding urban architecture—tall glass and steel buildings that rise on either side, their facades catching the soft, diffused evening light. The background features blurred pedestrians and parked cars, adding a sense of motion and urban life without distracting from the main subject. The color palette is cool and subdued, dominated by deep blacks, silvers, and muted grays, with subtle hints of green from distant trees. The lighting is natural but slightly moody, with the car’s headlights providing a dramatic focal point. The overall style is cinematic, with a shallow depth of field that keeps the SUV sharply in focus while the background gently fades, evoking a sense of sophistication, modernity, and urban dynamism.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:13.878728",
+  "word_count": 147,
+  "error_message": null
+}

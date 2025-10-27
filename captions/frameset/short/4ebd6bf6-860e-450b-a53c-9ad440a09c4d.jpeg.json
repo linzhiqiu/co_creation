@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ebd6bf6-860e-450b-a53c-9ad440a09c4d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A muddy rural field under clear daylight, two blue tractors in focus—one in the foreground with a man in work clothes operating it, the other further back. Earthy tones dominate, with deep tire tracks and splashes of mud. Natural lighting, shallow depth of field, and a documentary-style composition evoke hard agricultural labor.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:19.191063",
+  "word_count": 52,
+  "error_message": null
+}

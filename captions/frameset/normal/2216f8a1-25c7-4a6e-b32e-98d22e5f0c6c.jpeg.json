@@ -1,0 +1,12 @@
+{
+  "image_filename": "2216f8a1-25c7-4a6e-b32e-98d22e5f0c6c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, atmospheric scene of dense, swirling clouds illuminated from behind by a diffused, ethereal light source. The composition should be dominated by billowing, textured clouds in varying shades of gray, black, and white, creating a sense of depth and movement. The light should softly penetrate the cloud cover, casting subtle highlights and shadows that enhance the three-dimensional quality of the scene. The overall mood is mysterious and moody, evoking a sense of anticipation or foreboding, as if a storm is about to break or something is about to be revealed. The color palette is monochromatic, focusing on gradients of gray and white with deep blacks for contrast. The style is cinematic and painterly, with a soft focus and gentle transitions between light and dark areas, reminiscent of classic film noir or dramatic landscape photography. The camera angle is looking upward, immersing the viewer in the heart of the cloud formation, with no discernible horizon or ground, emphasizing the vastness and abstract beauty of the sky.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:22.791718",
+  "word_count": 168,
+  "error_message": null
+}

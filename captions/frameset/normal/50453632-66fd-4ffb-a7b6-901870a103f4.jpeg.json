@@ -1,0 +1,12 @@
+{
+  "image_filename": "50453632-66fd-4ffb-a7b6-901870a103f4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure walks along a rocky lakeshore, surrounded by tranquil natural beauty. The person, dressed in a light blue shirt and dark pants, is positioned slightly off-center, moving parallel to the water’s edge. The shoreline is covered in pale, rounded stones and pebbles, curving gently into the distance. To the right, lush green bushes and small trees grow close to the water, their leaves vibrant and sunlit. In the background, densely forested hills rise in soft, overlapping layers, rendered in muted greens and blues that fade into the hazy distance. The lake itself is calm, its surface reflecting the soft daylight with subtle ripples. The overall color palette is natural and subdued, dominated by cool blues, greens, and earthy tones. The lighting is diffuse and gentle, suggesting an overcast or late afternoon sky, with no harsh shadows. The composition is wide and cinematic, with a deep depth of field that keeps both the foreground and background in sharp focus, evoking a sense of peaceful solitude and connection to nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:57.787035",
+  "word_count": 170,
+  "error_message": null
+}

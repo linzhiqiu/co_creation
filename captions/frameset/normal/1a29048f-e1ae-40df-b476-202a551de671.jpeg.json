@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a29048f-e1ae-40df-b476-202a551de671.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, naturalistic scene set in a modern, sunlit cafeteria or break room. Three adults are seated around a circular table with orange chairs, engaged in a casual conversation and work. The man on the left, dressed in a light striped shirt, leans back comfortably, holding a magazine or document, his posture relaxed and open. At the center, a man with glasses, wearing a blue hoodie over a red t-shirt, is mid-sentence, his expression animated as he speaks to the group. On the right, a woman with wavy brown hair, dressed in a tan sweater, is focused on her open laptop, her demeanor thoughtful and slightly detached from the conversation. The table is scattered with breakfast items—plates, a water bottle, a coffee cup, and a croissant—adding to the lived-in, everyday feel.\n\nThe background features large windows letting in soft, natural daylight, illuminating the room with a gentle, diffused glow. The walls are white, and the space is clean and modern, with subtle reflections on the glass and a glimpse of greenery outside. The overall color palette is muted and realistic, dominated by whites, grays, and the warm orange of the chairs, with pops of color from the clothing. The composition is balanced, with a shallow depth of field that keeps the focus on the group while softly blurring the background. The camera angle is eye-level, creating an intimate, observational perspective reminiscent of contemporary European cinema, evoking a quiet, contemplative mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:34.789365",
+  "word_count": 240,
+  "error_message": null
+}

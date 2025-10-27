@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e722f47-04af-4ed2-b29e-14db14a9a0d3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, still life composition featuring a wooden hourglass with golden sand flowing through its center, positioned prominently in the foreground. The hourglass is crafted with smooth, polished wood and clear glass, its elegant curves and vertical supports drawing the eye to the gentle cascade of sand. To the right, a transparent glass cup filled with deep amber tea sits on a wooden coaster, catching the warm, natural light that softly illuminates the scene. In the background, a piece of textured burlap adds a rustic touch, while a blurred white milk jug with a green handle and a string of dark wooden beads in the foreground introduce subtle color accents and tactile contrast. The overall color palette is warm and earthy, dominated by honeyed browns, soft golds, and muted neutrals. The lighting is diffuse and natural, creating gentle shadows and a calm, contemplative mood. The camera angle is low and intimate, with a shallow depth of field that keeps the hourglass and tea in sharp focus while softly blurring the background, evoking a sense of quiet passage of time and cozy, reflective atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:08.488768",
+  "word_count": 183,
+  "error_message": null
+}

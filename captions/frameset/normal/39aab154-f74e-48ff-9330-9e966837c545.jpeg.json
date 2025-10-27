@@ -1,0 +1,12 @@
+{
+  "image_filename": "39aab154-f74e-48ff-9330-9e966837c545.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph of a smartphone screen, with the focus on a single text message notification in Spanish that reads: \"Hola beibi! Me encantaría conocerte. Soy S\". The background is softly blurred, with the phone’s lock screen time, \"20:13\", and date barely legible in the out-of-focus area above the notification. The color palette is moody and subdued, dominated by cool, dark tones with subtle hints of color from the phone’s wallpaper in the lower right corner. The lighting is low and ambient, creating a sense of intimacy and privacy, with gentle reflections on the phone’s glass surface. The composition centers the notification, drawing the viewer’s attention to the message, while the rest of the scene fades into a soft bokeh, evoking a cinematic, contemplative mood. The overall style is modern and minimalistic, with a focus on emotional nuance and the anticipation of digital communication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:56.242974",
+  "word_count": 146,
+  "error_message": null
+}

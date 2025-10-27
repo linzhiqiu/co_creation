@@ -1,0 +1,12 @@
+{
+  "image_filename": "62633e1a-2a63-4b14-981a-77ba9d54510f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a sleek, dark-colored car exterior, focusing on the smooth curves and subtle lines of the vehicle’s bodywork. The surface is covered in delicate droplets of water, suggesting recent rain, with each bead catching the soft, diffused ambient light. The color palette is dominated by deep blacks and muted grays, creating a moody, almost monochromatic atmosphere. The lighting is low and gentle, highlighting the texture of the water droplets and the reflective quality of the car’s paint without revealing the full shape of the vehicle. The composition is abstract and minimalist, with a shallow depth of field that blurs the background and draws attention to the tactile details of the car’s surface. The overall style is refined and atmospheric, evoking a sense of quiet elegance and understated luxury, as if captured in a high-end automotive commercial or a contemplative film scene set on a rainy night.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:11.900960",
+  "word_count": 150,
+  "error_message": null
+}

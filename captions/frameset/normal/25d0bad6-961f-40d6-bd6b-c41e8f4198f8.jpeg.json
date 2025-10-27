@@ -1,0 +1,12 @@
+{
+  "image_filename": "25d0bad6-961f-40d6-bd6b-c41e8f4198f8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-contrast studio shot of the rear of a modern blue hatchback car, specifically a Škoda Scala. The car is positioned at a slight angle, showcasing the sleek, sculpted lines of the back and the distinctive, illuminated LED taillights that form sharp, geometric patterns. The ŠKODA lettering is prominently displayed across the rear hatch, with the model name \"SCALA\" centered on a black license plate area. The background is a deep, shadowy black with subtle blue highlights, creating a dramatic and sophisticated atmosphere. The lighting is cool and focused, accentuating the car’s glossy paint and clean contours, while reflections on the rear window and bodywork add depth and realism. The overall style is modern and minimalistic, with a sense of luxury and precision, reminiscent of high-end automotive advertising photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:43.377641",
+  "word_count": 131,
+  "error_message": null
+}

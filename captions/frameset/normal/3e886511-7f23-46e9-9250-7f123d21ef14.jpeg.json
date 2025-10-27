@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e886511-7f23-46e9-9250-7f123d21ef14.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime cityscape featuring a sleek, modern red car driving away from the viewer on an elevated urban expressway. The car’s taillights glow vividly, casting a red reflection on the road, and its Japanese license plate is clearly visible, hinting at a Tokyo setting. Towering high-rise buildings dominate the background, their countless windows illuminated in a grid-like pattern, creating a vibrant tapestry of light against the deep blue-black night sky. Some buildings are accented with cool blue neon lights along their rooftops, adding a futuristic touch. Overhead, blue and white road signs with Japanese characters and speed limit symbols are suspended above the roadway, reinforcing the metropolitan atmosphere. The scene is shot from a low, centered angle behind the car, emphasizing depth and motion as the vehicle moves forward into the city. The lighting is crisp and cool, with the artificial glow of city lights reflecting off the car’s surface and the metallic guardrails lining the road. The overall mood is sleek, urban, and slightly mysterious, evoking the style of a neo-noir film or a high-end automotive commercial.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:43.687664",
+  "word_count": 179,
+  "error_message": null
+}

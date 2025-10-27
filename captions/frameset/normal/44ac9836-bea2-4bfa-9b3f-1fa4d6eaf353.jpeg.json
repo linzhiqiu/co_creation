@@ -1,0 +1,12 @@
+{
+  "image_filename": "44ac9836-bea2-4bfa-9b3f-1fa4d6eaf353.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in the center aisle of a library, framed symmetrically by tall bookshelves packed with colorful, neatly arranged books. He wears a blue plaid shirt and dark jeans, holding a book in one hand, his posture slightly tentative as he gazes forward with a contemplative, almost uncertain expression. The perspective is a long, narrow corridor shot, with the camera positioned at eye level, creating a sense of depth as the shelves recede toward the background. The lighting is soft and even, typical of fluorescent indoor lights, casting minimal shadows and lending a subdued, realistic atmosphere. The color palette is dominated by muted blues, grays, and the varied spines of the books, contributing to a quiet, introspective mood. The background reveals more of the library’s interior, with patterned carpet and glimpses of additional shelving, enhancing the sense of place. The overall style is cinematic and naturalistic, evoking a moment of solitude and reflection within the everyday setting of a public library.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:48.183266",
+  "word_count": 163,
+  "error_message": null
+}

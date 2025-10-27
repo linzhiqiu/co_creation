@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a05c69d-8d6c-441a-a614-acf289aafe15.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, minimalist scene set in a modern art gallery. The foreground is a large, empty, dark room with polished wooden floors that subtly reflect the ambient light. The walls and ceiling are deep red, with a grid pattern of recessed lighting on the ceiling casting a moody, almost ominous glow. In the center of the far wall, a single doorway opens into a brightly lit, cool blue room beyond, creating a striking contrast between the two spaces. Through the doorway, a solitary framed painting with a golden-yellow hue hangs on the blue wall, perfectly centered and illuminated by soft, diffuse overhead lighting. The composition is symmetrical, with the viewer’s perspective aligned directly with the doorway, emphasizing depth and drawing the eye toward the distant artwork. The overall mood is contemplative and mysterious, with a strong sense of isolation and focus on the interplay of color, light, and architectural space.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:50.630348",
+  "word_count": 152,
+  "error_message": null
+}

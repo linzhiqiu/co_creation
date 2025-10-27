@@ -1,0 +1,12 @@
+{
+  "image_filename": "45a8b084-f435-4f18-aa63-394299d561f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic close-up of a man's face partially obscured by darkness and out-of-focus raindrops on a window. The subject is lit with very low, soft lighting, casting deep shadows that only reveal the contours of his nose, lips, and one eye, while the rest of his features fade into the gloom. The man appears contemplative or troubled, his expression subtle and introspective. The background is almost entirely black, with only the glistening, bokeh-like highlights of water droplets catching the faint light, creating a dreamy, abstract texture in the foreground. The color palette is dominated by deep purples, blues, and muted grays, enhancing the somber, introspective mood. The camera angle is intimate and close, with a shallow depth of field that blurs the raindrops and background, focusing attention on the man's partially illuminated face. The overall style is reminiscent of a noir film or a psychological thriller, evoking a sense of isolation, mystery, and emotional depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:11.305089",
+  "word_count": 157,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "15d4fba4-1c85-4f8d-8584-48e03e1b2c21.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a black-and-white, vintage film still that captures a close-up of a young girl with light hair styled in soft, loose curls, adorned with a bow. She is smiling gently, her expression open and innocent, evoking a sense of warmth and nostalgia. The girl wears a simple, light-colored dress with a rounded collar, typical of early 20th-century children's fashion. The image is framed within the perforated edges of a film strip, emphasizing the archival, documentary quality of the scene. The background is softly blurred, drawing focus to the girl's face and expression. The lighting is natural and diffused, creating soft shadows and a gentle contrast that enhances the timeless, sentimental mood. The overall composition is intimate and candid, as if capturing a fleeting, joyful moment from a family memory or historical footage. The style is reminiscent of early cinema or photographic portraiture, with a grainy texture and subtle imperfections that add to the authenticity and emotional resonance of the image.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:56.399765",
+  "word_count": 160,
+  "error_message": null
+}

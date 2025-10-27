@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b23fdf1-71c8-4e69-9078-6a89bbe76b45.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man is depicted upside down in the frame, his face calm and contemplative as he gazes directly at the viewer. He wears a dark jacket and a pair of large, vintage-style headphones rest around his neck, suggesting a modern yet timeless aesthetic. The background is a hazy, industrial ruin, with twisted metal and debris partially in focus, evoking a sense of post-apocalyptic desolation. The color palette is muted and earthy, dominated by sepia tones, dusty browns, and soft grays, creating a somber, atmospheric mood. The lighting is diffuse and natural, with sunlight filtering through the dust, casting a gentle glow and subtle shadows across the scene. The camera angle is unconventional, presenting the subject from an inverted perspective, which adds a disorienting, cinematic quality. The depth of field is shallow, keeping the young man sharply in focus while the background blurs softly, emphasizing his isolation within the chaotic environment. The overall style is reminiscent of auteur cinema, blending realism with a dreamlike, almost surreal visual language.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:51.703616",
+  "word_count": 168,
+  "error_message": null
+}

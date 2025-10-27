@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c4ab596-f1a8-4e6c-8da0-36ddab7aeb22.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand holding a vintage film camera, with the camera’s metallic lens and textured body in sharp focus. The hand grips the camera gently, fingers relaxed, suggesting a moment of calm anticipation. The background is softly blurred, with warm, natural sunlight casting a gentle glow, creating a shallow depth of field that isolates the subject. The color palette is soft and sunlit, with creamy skin tones and subtle silvers and blacks from the camera, evoking a nostalgic, summery atmosphere. The composition is intimate and detailed, capturing the tactile quality of the camera and the quiet intent of the person holding it. The overall style is reminiscent of an artful, documentary still, with a focus on texture, light, and the evocative mood of analog filmmaking.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:14.099078",
+  "word_count": 129,
+  "error_message": null
+}

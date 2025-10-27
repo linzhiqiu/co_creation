@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ae4e0d3-e48d-444f-b712-a68472efbd02.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, softly focused photograph of a person holding an open book, with only the edge of the book and a few fingers visible in the lower right corner of the frame. The text on the page is slightly blurred, making it unreadable, and the background is a warm, diffuse gradient of orange and brown tones, creating a cozy and intimate atmosphere. The lighting is gentle and ambient, casting no harsh shadows, and the overall color palette is muted and earthy, emphasizing comfort and quietude. The composition uses a shallow depth of field, with the book and hand in the foreground rendered in soft focus, while the background melts into a smooth, abstract wash of color. The image evokes a sense of calm, introspection, and the quiet pleasure of reading, with a cinematic, almost dreamlike quality reminiscent of art-house film stills.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:48.369993",
+  "word_count": 141,
+  "error_message": null
+}

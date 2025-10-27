@@ -1,0 +1,12 @@
+{
+  "image_filename": "580516fb-3b46-4a45-8190-44f5375fdf1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in profile, silhouetted against a vast, softly glowing sunset sky. He is outdoors on a gentle hillside, surrounded by blurred, natural vegetation in the foreground. The man wears a dark jacket, and his short hair and facial features are subtly defined by the warm, diffused light. He holds a smartphone in both hands, his attention focused on the screen, suggesting a moment of quiet reflection or connection. The background features rolling hills fading into the distance, bathed in pastel hues of orange, pink, and lavender, with a delicate gradient that evokes a tranquil, contemplative mood. The composition uses a wide aspect ratio and shallow depth of field, keeping the subject crisp while the landscape melts into soft focus. The overall style is cinematic and atmospheric, with natural lighting and a gentle, serene color palette that emphasizes the peaceful solitude of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:03.192984",
+  "word_count": 146,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fa38336-a387-4eaa-8e4f-e39b6602dce0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution photograph of a custom-built, open-frame white computer case lying horizontally on a workbench in a workshop setting. The case is large and futuristic, with angular, geometric lines and a predominantly white chassis accented by subtle blue highlights. The interior is exposed, revealing multiple empty PCIe slots, a mounted motherboard, and a rear exhaust fan. The case features a transparent side panel, now removed or open, and a series of drive bays along the front. The background is a cluttered workspace with visible tools, cables, and electronic components scattered around, evoking a sense of technical craftsmanship. The lighting is cool and even, with soft shadows and a slight industrial ambiance. The overall style is documentary and technical, with a focus on clarity and detail, shot from a slightly elevated, three-quarter angle to showcase the depth and spaciousness of the case interior. The color palette is dominated by whites, grays, and subtle blues, with hints of black from the internal components and background objects. The mood is methodical and precise, capturing the anticipation of a high-end PC build in progress.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:01.488532",
+  "word_count": 180,
+  "error_message": null
+}

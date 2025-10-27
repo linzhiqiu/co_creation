@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d0de2cb-bcb0-4f8b-9829-0811ec053ab9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young East Asian woman standing outdoors, framed in a medium close-up shot. She faces the camera directly with a calm, serious expression, her gaze steady and composed. Her dark hair is styled in a traditional updo with a topknot, and she wears period-appropriate clothing in muted earth tones, suggesting a historical or samurai-era setting. The background is softly blurred, featuring out-of-focus trees and dappled natural light, creating a gentle bokeh effect that draws attention to her face. The color palette is naturalistic, with subdued greens and browns dominating the scene. The lighting is soft and even, evoking a serene, contemplative mood. The overall style is reminiscent of classic Japanese cinema, with a balanced composition and a shallow depth of field that isolates the subject against the tranquil outdoor backdrop.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:02.739187",
+  "word_count": 135,
+  "error_message": null
+}

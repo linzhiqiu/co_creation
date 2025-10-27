@@ -1,0 +1,12 @@
+{
+  "image_filename": "559e3347-30ca-4745-976b-aaa06e712bc8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure dressed in a crisp, light-colored suit walks away from the camera down a grand, curved corridor bathed in soft, golden afternoon light. The architecture is classical, with tall, pale stone walls and a high, ornately painted ceiling. The corridor is lined with enormous panels densely covered in rows of black-and-white portrait photographs, creating a striking visual pattern that dominates the scene. Long, dramatic shadows from the columns stretch across the tiled floor, emphasizing the curvature and depth of the space. The overall color palette is muted and warm, with creamy beiges, soft browns, and gentle golds, lending the image a timeless, contemplative atmosphere. The composition uses a wide-angle perspective, with the vanishing point drawing the viewer’s eye toward the lone figure, evoking a sense of isolation and introspection. The style is cinematic, reminiscent of classic European art films, with careful attention to symmetry, light, and architectural detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:06.943681",
+  "word_count": 150,
+  "error_message": null
+}

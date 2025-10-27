@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b1084b7-5f27-4533-ae2f-87f029e7708a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary young man sits at a desk in a dimly lit home office, illuminated only by the soft, focused glow of a desk lamp and the faint light from a computer monitor. The room is spacious, with tall windows covered by closed blinds, casting subtle geometric shadows across the walls. The man’s expression is contemplative and slightly weary, his face partially lit by the monitor’s pale light, emphasizing the quiet intensity of his gaze. He wears a simple, dark long-sleeve shirt, blending into the shadowy ambiance of the room. The composition is wide and cinematic, with the subject positioned slightly off-center, creating a sense of isolation and introspection. The color palette is monochromatic, dominated by deep blacks, soft grays, and gentle highlights, evoking a moody, noir-inspired atmosphere. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the focus on the man and his immediate surroundings, while the background remains softly blurred. The overall style is minimalist and contemplative, capturing a moment of late-night solitude and quiet reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:51.259940",
+  "word_count": 175,
+  "error_message": null
+}

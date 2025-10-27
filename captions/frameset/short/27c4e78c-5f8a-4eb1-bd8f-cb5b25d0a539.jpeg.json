@@ -1,0 +1,12 @@
+{
+  "image_filename": "27c4e78c-5f8a-4eb1-bd8f-cb5b25d0a539.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A gritty, close-up shot of a black wall covered in bold, white graffiti. The graffiti features stylized, rebellious text and symbols, including a peace sign and an arrow, rendered in expressive, sweeping strokes. The monochrome palette and raw, urban texture evoke a defiant, street-art atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:15.650917",
+  "word_count": 45,
+  "error_message": null
+}

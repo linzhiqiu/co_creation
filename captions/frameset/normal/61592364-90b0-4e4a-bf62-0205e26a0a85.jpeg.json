@@ -1,0 +1,12 @@
+{
+  "image_filename": "61592364-90b0-4e4a-bf62-0205e26a0a85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a dramatic, cinematic image looking straight up from the center of an enclosed courtyard surrounded by tall, old apartment buildings. The camera angle is a perfect vertical shot, capturing the symmetrical, almost claustrophobic architecture as the buildings form a rough square or octagonal frame around a patch of pale, overcast sky. The facades are weathered, with dark, muted tones of gray and brown, featuring numerous windows—some open, some closed—adding a sense of age and urban history. The lighting is soft and diffused, with no direct sunlight, emphasizing the moody, somber atmosphere. The overall style is realistic with a touch of urban melancholy, evoking a sense of isolation and introspection. The composition draws the viewer’s eye upward, highlighting the geometric shapes and the contrast between the heavy, textured buildings and the empty, open sky above.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:48.292640",
+  "word_count": 136,
+  "error_message": null
+}

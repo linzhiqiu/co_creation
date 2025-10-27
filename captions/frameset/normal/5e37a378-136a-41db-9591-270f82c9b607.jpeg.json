@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e37a378-136a-41db-9591-270f82c9b607.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a man in his late 30s with short, dark hair and a slightly rugged appearance, holding a small USB flash drive up to his face for inspection. The man’s expression is focused and intent, his features softly blurred by a shallow depth of field that draws all attention to the USB drive, which is sharply in focus in the foreground. He wears a casual, light-colored shirt, and the background is a series of vertical, out-of-focus lines and panels, suggesting a modern, possibly industrial or office environment. The lighting is natural but slightly cool, with soft highlights and gentle shadows that create a sense of realism and tension. The overall color palette is muted, with subdued blues, greys, and skin tones, contributing to a dramatic, suspenseful mood. The camera angle is at eye level, emphasizing the importance of the object in the man’s hand, and the composition centers the USB drive as the focal point, evoking a sense of discovery or revelation. The style is reminiscent of a thriller or heist film, with a crisp, cinematic quality and a strong sense of narrative intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:26.008614",
+  "word_count": 188,
+  "error_message": null
+}

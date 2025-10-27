@@ -1,0 +1,12 @@
+{
+  "image_filename": "6153e2dd-369e-4e86-b1f5-d33df079e3c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-detailed close-up shot of a luxury car wheel, focusing on the metallic Mercedes-Benz emblem at the center of a high-performance AMG alloy rim. The composition is symmetrical, with the camera positioned directly in front of the wheel, capturing the intricate design of the spokes and the precision-machined surfaces. The color palette is dominated by cool silvers, gunmetal grays, and subtle blue reflections, giving the metal a sleek, polished appearance. Soft, diffused lighting highlights the contours and textures of the alloy, creating gentle gradients and a sense of depth. The background is blurred and unobtrusive, ensuring all attention remains on the emblem and the craftsmanship of the wheel. The overall style is cinematic and modern, evoking a sense of luxury, engineering excellence, and automotive prestige.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:48.878009",
+  "word_count": 125,
+  "error_message": null
+}

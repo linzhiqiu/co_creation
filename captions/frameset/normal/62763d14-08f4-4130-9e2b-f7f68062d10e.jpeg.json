@@ -1,0 +1,12 @@
+{
+  "image_filename": "62763d14-08f4-4130-9e2b-f7f68062d10e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-contrast black and white photograph of a metallic industrial machine component, possibly a valve or lever, dominates the frame. The main subject is a polished, rounded metal handle with a spherical end, catching the light and reflecting subtle highlights and shadows. To the right, a gloved hand, rendered in deep shadow, grips another part of the machinery, its texture and form partially obscured by the dramatic lighting. The background is blurred, with indistinct mechanical elements receding into darkness, creating a shallow depth of field that draws attention to the foreground details. The overall mood is stark and mechanical, evoking a sense of industrial precision and tactile engagement. The lighting is directional and moody, emphasizing the gleam of metal and the interplay of light and shadow, reminiscent of classic film noir or early 20th-century industrial photography. The composition is tight and intimate, focusing on the interaction between human and machine, with a cinematic, almost abstract quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:12.983471",
+  "word_count": 157,
+  "error_message": null
+}

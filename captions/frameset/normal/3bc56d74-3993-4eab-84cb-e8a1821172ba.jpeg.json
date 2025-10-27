@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bc56d74-3993-4eab-84cb-e8a1821172ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with slicked-back dark hair stands behind a modern café counter, wearing a fitted black short-sleeve henley shirt. He is focused intently on a white rectangular box with a red accent, which he holds in both hands, examining it with a thoughtful, slightly furrowed expression. The café interior is warm and inviting, featuring exposed brick walls, wooden shelves lined with glassware, potted plants, and industrial-style lighting. The background is softly blurred, drawing attention to the man as the central subject. The color palette is earthy and muted, with natural browns, greens, and soft golden light streaming in from the left, creating gentle shadows and a cozy, cinematic atmosphere. The camera angle is at eye level, with a shallow depth of field that emphasizes the subject while subtly showcasing the stylish, contemporary setting. The overall mood is contemplative and intimate, capturing a quiet moment of concentration in a bustling yet serene café environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:47.323809",
+  "word_count": 154,
+  "error_message": null
+}

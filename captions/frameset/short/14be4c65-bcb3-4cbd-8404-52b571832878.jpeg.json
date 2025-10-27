@@ -1,0 +1,12 @@
+{
+  "image_filename": "14be4c65-bcb3-4cbd-8404-52b571832878.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic low-angle shot from street level, surrounded by tall city skyscrapers, looking up at a massive, glowing UFO hovering overhead. Four people in modern coats, holding smartphones, gaze upward in awe. The color palette is cool and metallic, with cinematic lighting and a sense of surreal, sci-fi wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:24.329621",
+  "word_count": 49,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "578de5b6-6f14-46b4-91d0-fb60c4eda77d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern laptop screen displaying a detailed business analytics dashboard, set in a professional office environment. The dashboard interface is clean and organized, featuring a white background with blue accents and a clear, sans-serif font. Prominently, the top section showcases key financial metrics in large, bold green and blue numbers, such as \"Net Product Revenue\" and \"Gross Margin %,\" accompanied by simple line and gauge charts. Below, additional panels present production statistics, average sales, and revenue comparisons using a mix of line graphs, bar charts, and data tables. The layout is grid-based, with each widget neatly separated by subtle gray lines. The lighting is natural and soft, likely from a nearby window, creating a gentle reflection on the laptop screen and lending a realistic, documentary feel. The color palette is dominated by whites, blues, and greens, evoking a sense of clarity and professionalism. The camera angle is slightly off-center and at a shallow depth of field, focusing crisply on the screen’s content while softly blurring the laptop’s edges and background, emphasizing the importance of the data and the digital workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:53.508050",
+  "word_count": 184,
+  "error_message": null
+}

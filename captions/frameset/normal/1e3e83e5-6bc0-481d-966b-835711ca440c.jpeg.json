@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e3e83e5-6bc0-481d-966b-835711ca440c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a treadmill control panel, dramatically lit with soft, moody lighting that creates a sense of tension and focus. The digital display dominates the composition, glowing in vivid red LED numerals that read \"44.4 KM/H,\" suggesting an intense, almost surreal speed. The surrounding buttons and instructional stickers are visible but slightly out of focus, emphasizing the central display. The background is shrouded in shadow and mist, adding a mysterious, atmospheric quality. The color palette is muted and cool, with the red LED lights providing a stark contrast against the dark, bluish-grey tones of the treadmill and the hazy environment. The camera angle is slightly tilted and close, creating a sense of urgency and immersion, as if the viewer is right in front of the machine. The overall style is reminiscent of a suspenseful sci-fi or thriller film, with a shallow depth of field and a subtle grain that enhances the cinematic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:02.570510",
+  "word_count": 156,
+  "error_message": null
+}

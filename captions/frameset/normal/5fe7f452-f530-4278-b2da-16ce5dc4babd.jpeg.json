@@ -1,0 +1,12 @@
+{
+  "image_filename": "5fe7f452-f530-4278-b2da-16ce5dc4babd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, sunlit office space with large windows revealing an urban cityscape in the background. In the foreground, a young man with short dark hair, wearing a navy blue sweater over a checkered shirt, sits at a white table, turning slightly to address a figure in the foreground whose back is to the camera. He holds a few sheets of paper in his hand, his expression attentive and engaged. Around the table, three other colleagues are visible: a woman with curly hair in a dark blazer, a bearded man in a light blue shirt focused on his laptop, and another woman partially obscured, working intently. The workspace is bright and airy, with pops of color from blue and green chairs, and a few potted plants adding a touch of nature. The lighting is natural and soft, streaming in from the windows, creating a warm, inviting atmosphere. The composition uses a shallow depth of field, keeping the main subjects in sharp focus while the background and the figure in the foreground are slightly blurred, lending a cinematic, documentary-style quality to the scene. The overall mood is professional yet relaxed, capturing a moment of collaboration and communication in a contemporary office environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:11.902916",
+  "word_count": 200,
+  "error_message": null
+}

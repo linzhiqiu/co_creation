@@ -1,0 +1,12 @@
+{
+  "image_filename": "37eca104-e44f-4fd7-9371-d2eca13fb261.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban intersection captured from a high, top-down aerial perspective, creating a striking geometric composition. The scene is dominated by numerous white vans and a few darker vehicles scattered across wide, dusty asphalt roads, converging at the crossroads. The vehicles are arranged in a seemingly chaotic yet organic pattern, some in motion and others paused, suggesting the dynamic flow of city traffic. The roads are bordered by reddish-brown dirt and patches of worn pavement, adding earthy tones to the otherwise muted color palette. The lighting is soft and diffused, likely during late afternoon or early evening, casting gentle shadows and enhancing the contrast between the vehicles and the ground. The overall style is documentary and cinematic, with a sense of realism and immediacy, emphasizing the everyday rhythm and organized chaos of urban life. The image is devoid of visible faces, focusing instead on the patterns and movement within the cityscape, with a subtle sense of depth created by the varying sizes and orientations of the vehicles.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:17.345626",
+  "word_count": 167,
+  "error_message": null
+}

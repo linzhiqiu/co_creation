@@ -1,0 +1,12 @@
+{
+  "image_filename": "47b0bfd8-10a3-4174-b9e2-f69994a5bef8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young athletic woman stands in profile in the center of a dimly lit gym, stretching her arms overhead. She wears a black sports bra and black athletic shorts with white stripes, her hair pulled back in a tight bun. The gym is industrial, with high ceilings, exposed beams, and a muted color palette of grays and cool blues. The lighting is soft and moody, casting gentle shadows that emphasize the contours of her muscles and the texture of the space. In the background, gym equipment such as weights and racks are visible but out of focus, contributing to a sense of depth. The overall composition is cinematic, with a shallow depth of field and a slightly low camera angle that highlights the subject’s strength and focus. The atmosphere is quiet and contemplative, evoking a sense of dedication and solitude in training.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:49.078401",
+  "word_count": 142,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cde0e9a-4d9a-48fc-914f-809bc679f6d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern electronics store interior, softly lit with a neutral, slightly cool color palette. The scene is composed with a wide, cinematic aspect ratio, capturing three people interacting around a central wooden display table. On the table, a neat row of smartphones is arranged, each on its own stand, with small information cards in front. In the background, a wall with a subtle gray texture is accented by light wood paneling and shelves displaying tablets with vibrant screens. \n\nOn the left, a young woman in a light pink turtleneck and high-waisted lavender pants leans forward, examining a phone with curiosity. In the center, a male store employee in a navy blue shirt and black pants gestures toward a device, his expression attentive and professional as he explains features. On the right, a casually dressed man in a mustard yellow jacket, white shirt, olive green beanie, and glasses listens intently, his posture relaxed and engaged.\n\nThe lighting is even and diffused, creating a welcoming, contemporary retail atmosphere. The composition uses a shallow depth of field to keep the focus on the people and products, with the background slightly softened. The overall style is clean, modern, and realistic, evoking the look of a high-end commercial or lifestyle photograph. The camera angle is eye-level, inviting the viewer into the scene as if they are part of the shopping experience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:16.946317",
+  "word_count": 226,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ae4c246-d576-44a9-92a5-189636219151.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, overhead shot of a vintage city map spread out on a flat surface, rendered in warm, sepia-toned lighting that evokes a nostalgic, cinematic atmosphere. The map is detailed with intricate street layouts and labeled buildings, suggesting an old European city. Several locations on the map are marked with bold, handwritten notes in red and yellow, drawing the viewer’s attention to specific points of interest. In the upper right corner, part of a brown leather bag or satchel is visible, its texture and stitching adding a tactile, adventurous feel to the composition. Along the bottom edge, a blue plastic ruler and a transparent document sleeve partially frame the map, hinting at planning or investigation. The overall style is reminiscent of a classic adventure or detective film, with a shallow depth of field that keeps the focus on the map’s markings and the objects surrounding it, while the warm, diffused lighting enhances the sense of intrigue and discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:13.993892",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ab9709e-9287-49c6-bc87-fd9148943316.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody interior scene set in a modern institutional building, such as a government facility or a high-security office. The composition is dominated by a tall, textured blue wall, rendered in cool, desaturated tones that evoke a sense of sterility and unease. Mounted high on the wall is a large, square analog clock with a white face, black hour and minute hands, and bold black tick marks, showing the time as just past 11:00. Below the clock, a security camera juts out, angled downward, its presence emphasizing surveillance and control. The lighting is soft and diffused, casting subtle shadows and enhancing the blue-gray color palette. The camera angle is low and slightly tilted upward, creating a sense of scale and tension, with the clock and camera looming overhead. The overall style is minimalist and precise, with a focus on geometric forms and negative space, reminiscent of a suspenseful thriller or dystopian film. No people are present, heightening the atmosphere of isolation and quiet vigilance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:11.235793",
+  "word_count": 167,
+  "error_message": null
+}

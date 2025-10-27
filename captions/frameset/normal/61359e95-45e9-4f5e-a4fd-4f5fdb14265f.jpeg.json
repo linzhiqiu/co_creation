@@ -1,0 +1,12 @@
+{
+  "image_filename": "61359e95-45e9-4f5e-a4fd-4f5fdb14265f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person writing at an outdoor metal table, captured from a low, slightly angled perspective. The subject is partially out of frame, with only the lower half of their face and torso visible, focusing on their hand as it writes in a notebook with a blue pen. The person wears a light gray track jacket with black stripes on the sleeves over a dark shirt, suggesting a casual, sporty style. On the table in the foreground, a closed blue notebook and a tablet with a blue case are visible, slightly out of focus, adding depth to the composition. The background is softly blurred, revealing hints of green foliage and a park bench, evoking a tranquil, natural setting. The color palette is cool and subdued, dominated by blues, grays, and greens, with soft, diffused daylight creating a calm, contemplative mood. The overall style is reminiscent of a thoughtful, introspective scene in a modern drama, with shallow depth of field and natural lighting emphasizing the subject’s quiet concentration.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:46.871507",
+  "word_count": 171,
+  "error_message": null
+}

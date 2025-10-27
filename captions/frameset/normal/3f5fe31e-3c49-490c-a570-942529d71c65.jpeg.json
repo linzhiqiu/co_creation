@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f5fe31e-3c49-490c-a570-942529d71c65.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single off-road buggy drives away from the camera along a dusty desert trail, its rear wheels kicking up a faint cloud of sand. The vehicle is centered in the frame, with its exposed roll cage and mechanical parts clearly visible, emphasizing a rugged, utilitarian design. The landscape is arid and expansive, dotted with sparse, sun-bleached shrubs and low, rocky outcrops. In the distance, hazy blue mountains rise against a pale, cloudless sky, creating a sense of vastness and isolation. The lighting is natural and bright, suggesting late afternoon with long, soft shadows stretching across the ground. The color palette is dominated by warm earth tones—sandy browns, muted yellows, and dusty grays—contrasted by the cool blue of the distant mountains. The composition uses a wide-angle perspective and a low camera angle, enhancing the sense of scale and adventure. The overall mood is one of exploration and freedom, with a cinematic, documentary-style realism that captures the raw beauty and solitude of the desert environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:57.124136",
+  "word_count": 163,
+  "error_message": null
+}

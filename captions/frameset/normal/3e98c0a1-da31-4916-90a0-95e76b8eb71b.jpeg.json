@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e98c0a1-da31-4916-90a0-95e76b8eb71b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, low-angle shot capturing a male athlete in mid-action beneath a deep, cloudless blue sky. The subject, dressed in a sleeveless black athletic top, is positioned in the lower right of the frame, his face turned upward with intense focus as he prepares to interact with a soccer ball suspended in midair above him. The sunlight blazes from the upper left corner, casting dramatic lens flares and creating a high-contrast, cinematic effect. The lighting is harsh and direct, emphasizing the contours of the athlete’s muscles and the crispness of the scene. The composition uses negative space to heighten the sense of anticipation and motion, with the ball frozen at the apex of its arc. The overall mood is energetic and aspirational, evoking themes of sport, challenge, and the pursuit of excellence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:43.284323",
+  "word_count": 132,
+  "error_message": null
+}

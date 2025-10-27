@@ -1,0 +1,12 @@
+{
+  "image_filename": "62acd58a-644f-40f4-8f51-77259df7d7b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, contemplative office scene set in a dimly lit, modern workspace. The main subject is a person with short dark hair and glasses, seated in profile at a desk, intently focused on a large computer monitor displaying a softly glowing, mostly white interface with faint text and code. The subject wears a light gray hoodie and sits in a white mesh-backed office chair, their hand resting thoughtfully against their lips, conveying a sense of deep concentration or problem-solving. The lighting is cool and subdued, casting soft shadows and creating a moody, introspective atmosphere. The background is minimal and uncluttered, with the monitor providing the primary source of illumination. In the foreground, a dark, out-of-focus shape partially obscures the left side of the frame, adding depth and a sense of candid observation, as if the viewer is witnessing a private moment. The overall color palette is muted, dominated by cool blues and grays, enhancing the quiet, focused mood. The composition uses a shallow depth of field, with the subject and monitor in sharp focus while the foreground and background remain blurred, emphasizing the subject’s isolation and immersion in their work.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:20.728204",
+  "word_count": 190,
+  "error_message": null
+}

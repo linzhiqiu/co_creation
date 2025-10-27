@@ -1,0 +1,12 @@
+{
+  "image_filename": "22c17a1d-b771-4e57-a595-3f5963c33e3b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in the center of a vast, shadowy cave, their silhouette illuminated by a cold, ethereal blue light filtering in from a jagged opening above. The person, dressed in dark, simple clothing, appears small and contemplative against the immense, textured rock walls that arch overhead. Loose stones and pale rubble scatter across the cave floor, catching the faint light and creating a stark contrast with the deep shadows that envelop the scene. The composition is cinematic, with a wide-angle perspective that emphasizes the scale and isolation of the environment. The color palette is dominated by cool blues, muted grays, and inky blacks, evoking a sense of mystery and quiet awe. The lighting is dramatic and minimal, with sharp contrasts and soft gradients, lending the image a moody, atmospheric quality reminiscent of an art-house film or a high-concept fantasy illustration. The overall mood is contemplative and mysterious, inviting the viewer to imagine the story behind this lone explorer in the cavernous, otherworldly space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:38.917633",
+  "word_count": 165,
+  "error_message": null
+}

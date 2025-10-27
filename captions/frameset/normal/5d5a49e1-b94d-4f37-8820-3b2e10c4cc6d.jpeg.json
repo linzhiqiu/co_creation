@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d5a49e1-b94d-4f37-8820-3b2e10c4cc6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car dashboard, focusing on the digital speedometer display. The central screen shows \"0 km/h\" in large, clear numerals, with additional information such as fuel range and odometer readings visible below. The dashboard is sleek and dark, with subtle reflections and soft ambient lighting creating a moody, high-tech atmosphere. The surrounding analog dials and warning lights are slightly out of focus, adding depth and drawing attention to the digital display. The color palette is dominated by deep blacks, cool blues, and soft whites, with gentle highlights and a shallow depth of field that gives the image a sophisticated, contemporary feel. The overall style is reminiscent of a car commercial or a scene from a modern thriller, emphasizing precision, technology, and understated luxury.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:07.039632",
+  "word_count": 128,
+  "error_message": null
+}

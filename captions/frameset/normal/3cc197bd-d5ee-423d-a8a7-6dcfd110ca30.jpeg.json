@@ -1,0 +1,12 @@
+{
+  "image_filename": "3cc197bd-d5ee-423d-a8a7-6dcfd110ca30.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a cinematic, slightly upward-angled view of a grand, historic European building facade, focusing on the upper portion where the words 'POSTE E TELEGRAFI' are prominently inscribed in large, elegant serif letters. The architecture is neoclassical, featuring ornate stonework, decorative cornices, and robust columns supporting the roofline. The color palette is soft and muted, with warm beige and off-white tones dominating the stone, contrasted by the subtle, faded red of the lettering. The lighting is natural and diffuse, suggesting a bright but overcast day, with gentle shadows enhancing the architectural details. In the upper right foreground, out-of-focus green leaves partially frame the scene, adding depth and a touch of organic contrast to the otherwise structured composition. The overall style is refined and timeless, evoking a sense of European history and quiet dignity, with a shallow depth of field that keeps the building crisp while the leaves remain softly blurred.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:11.349411",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "420ff161-22e9-4ed2-89e3-3586b99d5f46.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a mechanic’s gloved hands working on a car wheel hub. The focus is on the metallic wheel center, with two prominent yellow lug nut covers visible at the top, contrasting against the glossy black surface of the wheel. The mechanic’s gloves are black, with a hint of blue on the wrist, suggesting a professional, industrial setting. The lighting is moody and dramatic, with soft highlights reflecting off the metal and black paint, creating a sense of depth and texture. The background is blurred, emphasizing the mechanical details and the action of tightening or loosening the bolts. The overall color palette is dominated by deep blacks, metallic silvers, and pops of yellow, with a shallow depth of field and a sense of motion captured in the mechanic’s precise movements. The composition is tight and immersive, evoking the intensity and focus of skilled manual labor in an automotive environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:52.560497",
+  "word_count": 152,
+  "error_message": null
+}

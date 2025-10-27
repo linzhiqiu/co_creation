@@ -1,0 +1,12 @@
+{
+  "image_filename": "567f9e6b-a7d9-4115-82ab-cdbd65a6d388.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, overhead shot of a Scrabble board in the midst of an ongoing game. The composition is tightly focused on a cluster of intersecting words, with the camera angle perfectly perpendicular to the board, creating a sense of order and clarity. The tiles are a soft, pastel pink with bold black letters and numbers, contrasting against the muted gray and white grid of the board. Scattered among the tiles are teal and blue premium squares labeled \"TRIPLE LETTER SCORE\" and \"DOUBLE WORD SCORE,\" adding pops of color and visual interest. The words formed include \"THREADS,\" \"HIDE,\" \"DANCE,\" \"CAN,\" and \"GROUP,\" all crisply aligned and interlocking. The lighting is soft and diffuse, eliminating harsh shadows and giving the scene a gentle, contemplative mood. The overall style is clean and minimalistic, with a shallow depth of field that keeps the focus on the central cluster of words while subtly blurring the edges of the board, evoking a sense of quiet concentration and strategic play.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:26.232084",
+  "word_count": 163,
+  "error_message": null
+}

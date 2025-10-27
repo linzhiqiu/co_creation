@@ -1,0 +1,12 @@
+{
+  "image_filename": "35cc7410-599c-4161-934d-ad50fd40395d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands in profile in the foreground of a vast, sunlit agricultural field at golden hour. She wears a plaid shirt with rolled-up sleeves, her long hair softly illuminated by the warm, low sunlight. She holds a digital tablet in both hands, her attention focused on the screen, suggesting she is monitoring or managing something related to the field. The background stretches out in lush green rows of crops, fading into the distance. Farther back, slightly out of focus, a piece of modern farming equipment is visible, hinting at the integration of technology and agriculture. The color palette is dominated by earthy greens and the rich, golden hues of the setting sun, casting a gentle, cinematic glow across the scene. The lighting is natural and warm, with soft shadows and a subtle lens flare near the horizon. The composition uses a shallow depth of field, keeping the woman and her tablet sharply in focus while the background remains softly blurred, emphasizing her role and the technological aspect of modern farming. The overall mood is serene, forward-looking, and quietly optimistic, blending rural tradition with contemporary innovation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:29.905844",
+  "word_count": 187,
+  "error_message": null
+}

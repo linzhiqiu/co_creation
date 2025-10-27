@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a40179c-88ac-4b19-b9c4-b18db890fc7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic office scene set during golden hour, featuring two Middle Eastern men dressed in traditional white thobes and red-and-white checkered keffiyehs. The man in the foreground sits at a modern workstation, turning in his chair with a thoughtful, slightly tense expression, his glasses catching the warm light. In the background, another man stands at a whiteboard covered in colorful writing, his posture focused as he works. The room is softly illuminated by the orange glow of sunset streaming through two large windows with wooden blinds, casting dramatic, elongated shadows and bathing the space in a warm, inviting hue. The office is tidy, with a potted plant and shelves of neatly arranged files visible, and the overall composition uses a shallow depth of field to keep the foreground subject sharp while gently blurring the background. The mood is contemplative and professional, with a subtle sense of narrative tension, captured in a style reminiscent of high-end commercial photography or a still from a modern drama film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:34.019101",
+  "word_count": 165,
+  "error_message": null
+}

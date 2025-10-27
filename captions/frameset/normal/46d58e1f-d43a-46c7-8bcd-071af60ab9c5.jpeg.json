@@ -1,0 +1,12 @@
+{
+  "image_filename": "46d58e1f-d43a-46c7-8bcd-071af60ab9c5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene set in a modern indoor cycling studio, featuring a fit female spin instructor as the central subject. She is positioned on a stationary bike, leaning forward with energy and focus, wearing a grey sports bra and black leggings. Her hair is pulled back in a ponytail, and she wears a headset microphone, suggesting she is leading a high-intensity spin class. The lighting is dramatic and vibrant, dominated by neon pinks and purples that cast colorful highlights and shadows across her face and body, creating a lively, motivational atmosphere. In the background, reflective surfaces and glowing LED strips enhance the futuristic, club-like ambiance. A laptop is visible on a stand in front of her, hinting at a virtual or hybrid class setup. The camera angle is slightly low and off-center, capturing her mid-action with a shallow depth of field that blurs the background, focusing attention on her determined expression and athletic form. The overall style is sleek and energetic, evoking the excitement and intensity of a boutique fitness experience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:31.086699",
+  "word_count": 172,
+  "error_message": null
+}

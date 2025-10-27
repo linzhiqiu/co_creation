@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ba3d105-bbd3-4aea-8624-122e382bfe16.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an abstract digital landscape composed of sharp, jagged lines and geometric forms, evoking the look of a 3D waveform or sound visualization. The foreground is dominated by vivid, glowing red lines that rise and fall in irregular peaks, gradually transitioning into deep blue tones as they recede into the background. The color palette is limited to intense reds and blues, set against a stark black backdrop, creating a dramatic sense of depth and contrast. The lighting is artificial and luminous, with the lines appearing to emit their own neon-like glow. The overall style is futuristic and cinematic, reminiscent of retro computer graphics or sci-fi visualizations, with a strong sense of motion and energy. The camera angle is low and centered, looking forward into the receding forms, enhancing the immersive, tunnel-like perspective. The mood is intense and mysterious, blending digital minimalism with a sense of dynamic movement.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:29.944268",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e651c35-9c19-4209-8c09-322d05f3635c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, cinematic scene set on a vast, shallow tidal flat under an overcast sky. The muted color palette features cool grays, soft blues, and earthy browns, creating a somber, dreamlike atmosphere. Scattered across the wet, reflective ground are multiple identical figures—young adults dressed in loose, draped gray garments that evoke a sense of uniformity and anonymity. Their expressions are contemplative or distant, and their postures vary: some walk aimlessly, others stand still, and a few appear to be looking up or down, lost in thought. Suspended in the air above them are several large, dark, spherical objects, casting subtle shadows and adding an enigmatic, otherworldly element to the composition. The camera angle is wide and slightly elevated, capturing the expanse of the landscape and the isolation of each figure. The lighting is diffuse and soft, with no harsh shadows, enhancing the melancholic, ethereal mood. The overall style is reminiscent of high-concept science fiction or art-house cinema, with a strong sense of surrealism and visual poetry.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:08.309992",
+  "word_count": 166,
+  "error_message": null
+}

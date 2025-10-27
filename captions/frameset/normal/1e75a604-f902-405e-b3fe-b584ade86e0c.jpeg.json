@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e75a604-f902-405e-b3fe-b584ade86e0c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man stands confidently in the left foreground, dressed in a classic dark gray business suit with a white dress shirt and a patterned tie. His expression is neutral and composed, exuding professionalism and calm authority. The background is a striking, retro-futuristic digital grid rendered in shades of blue and white, with perspective lines converging toward the horizon, creating a sense of depth and virtual space. The lighting is even and soft, with no harsh shadows, giving the scene a clean, almost surreal quality. The overall style is reminiscent of 1980s sci-fi or corporate promotional imagery, blending realism in the figure with a stylized, computer-generated environment. The composition leaves ample negative space on the right, emphasizing the solitary figure and the expansive, digital landscape behind him.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:04.566316",
+  "word_count": 127,
+  "error_message": null
+}

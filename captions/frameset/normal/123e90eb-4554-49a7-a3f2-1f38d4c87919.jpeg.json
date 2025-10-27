@@ -1,0 +1,12 @@
+{
+  "image_filename": "123e90eb-4554-49a7-a3f2-1f38d4c87919.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, ethereal portrait of a young woman with long, straight brown hair, holding a smooth, white, expressionless mask in front of her face. The mask is perfectly molded, with closed eyes and delicate features, almost blending into the pale, softly lit background. The woman’s hand, adorned with elegant rings and a delicate chain bracelet, gently grasps the bottom edge of the mask, partially revealing her own lips and chin behind it. She wears a pearl-embellished garment, adding a touch of opulence and texture to the otherwise minimalist scene. The lighting is diffuse and cool, creating a serene, almost surreal atmosphere with soft shadows and a high-key color palette dominated by whites, creams, and subtle hints of gold. The composition is centered and intimate, with a shallow depth of field that blurs the background, focusing all attention on the interplay between the mask and the woman’s real features. The overall style is refined and cinematic, evoking themes of identity, concealment, and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:33.918982",
+  "word_count": 162,
+  "error_message": null
+}

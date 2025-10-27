@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e986ed1-286a-4ef7-9425-3793ad89ef96.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person holding a smartphone in both hands, centered in the frame. The phone screen is brightly illuminated, displaying a live streaming app interface with a blue and white color scheme, featuring a \"LIVE\" indicator, a chat section, and a prominent \"LOL\" emoji. The background is dramatically out of focus, rendered in a rich bokeh effect with vibrant neon lights in shades of cyan, magenta, and deep blue, suggesting a lively urban nightlife or club setting. The lighting is moody and atmospheric, with the phone screen casting a soft glow on the hands, while the rest of the scene is bathed in cool, saturated colors. The composition uses a shallow depth of field to draw attention to the phone and hands, creating a sense of intimacy and immediacy. The overall style is modern and sleek, with a hint of cyberpunk influence, evoking the energy and connectivity of digital culture in a nocturnal city environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:49.727926",
+  "word_count": 159,
+  "error_message": null
+}

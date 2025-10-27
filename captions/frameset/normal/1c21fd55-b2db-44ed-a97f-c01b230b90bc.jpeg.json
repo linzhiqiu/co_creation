@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c21fd55-b2db-44ed-a97f-c01b230b90bc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young boy with medium-length dark hair, dressed in a futuristic, form-fitting outfit with teal and orange accents, stands in a sleek, modern interior. He is reaching out with curiosity toward a shelf embedded in a glossy white wall, his finger gently touching a framed photograph. The shelf is softly illuminated by cool, diffused LED lighting, casting a subtle glow on the boy’s face and highlighting the smooth, minimalist surfaces around him. The background is composed of clean lines and geometric shapes, with additional white ceramic objects and another framed picture visible on the shelf, suggesting a personal, yet high-tech environment. The color palette is dominated by cool blues, whites, and greys, with the boy’s outfit providing a pop of color. A faint blue lens flare crosses the scene, adding a cinematic, sci-fi atmosphere. The composition is intimate and contemplative, with a shallow depth of field focusing on the boy’s gesture and expression of quiet wonder, evoking a sense of nostalgia and futuristic serenity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:12.661772",
+  "word_count": 164,
+  "error_message": null
+}

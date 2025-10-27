@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e4429e5-67a8-42e7-8f0f-2e55185fed9b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, cinematic scene featuring a group of young men performing an intense, synchronized dance routine in a dimly lit, industrial studio. The central figure is captured in sharp focus at the foreground, striking a dramatic pose with one arm bent across his face and the other extended, partially obscuring his intense gaze. He wears a sleek black outfit with fingerless gloves and subtle metallic accessories, exuding a modern, edgy vibe. His tousled dark hair and expressive eyes convey a sense of passion and concentration.\n\nIn the softly blurred background, several other dancers are visible, dressed in coordinated black costumes with bold red accents, their movements frozen mid-action to suggest energy and cohesion. The lighting is moody and atmospheric, with cool blue and warm orange highlights from overhead industrial lights, casting soft shadows and creating a sense of depth. The overall color palette is dominated by deep blacks, vivid reds, and hints of metallic blue, enhancing the dramatic, high-contrast look. The camera angle is slightly low and close to the main subject, employing a shallow depth of field to isolate him from the background and emphasize his presence. The style is reminiscent of a high-fashion music video or a contemporary dance film, with a focus on movement, emotion, and striking visual composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:38.528575",
+  "word_count": 213,
+  "error_message": null
+}

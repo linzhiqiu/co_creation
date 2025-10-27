@@ -1,0 +1,12 @@
+{
+  "image_filename": "36165bf3-35bd-49ed-b8af-b9ee2ac9b508.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, low-angle shot set in a dimly lit, modern subway station with cool, desaturated tones and a moody atmosphere. The composition is strikingly minimalist, focusing on the lower half of a person stepping onto a subway train. The subject is dressed in dark trousers and black shoes, carrying a large, vintage brown suitcase in one hand. The train itself is painted a bold yellow, its underside dominating the upper portion of the frame, while the platform floor is rendered in textured gray tiles. The background features a wall of dark, grid-patterned tiles, adding to the urban, slightly noir ambiance. The lighting is soft and diffused, casting subtle reflections on the floor and emphasizing the sense of isolation and anticipation. The overall style is reminiscent of European art-house cinema, with a shallow depth of field and a focus on geometric lines and muted colors, evoking a sense of quiet tension and narrative intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:36.471715",
+  "word_count": 153,
+  "error_message": null
+}

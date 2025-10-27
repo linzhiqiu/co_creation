@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ac23fa7-d4c2-4de2-bb76-f5ac3566cbd3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric interior scene viewed from a low angle, evoking a sense of suspense and unease. The main focus is a wall-mounted monitor or screen displaying a grainy, surveillance-style video feed. On the screen, a solitary figure stands in a cluttered, shadowy room, partially illuminated by a cold, bluish light. The figure’s posture is tense and ambiguous, suggesting anxiety or anticipation. The surrounding environment is cast in deep teal and greenish hues, with heavy shadows and minimal highlights, creating a moody, cinematic effect reminiscent of neo-noir or psychological thriller films. In the foreground, a thick cable and a round, analog clock are visible, adding to the utilitarian, slightly dystopian atmosphere. The composition uses strong diagonal lines and a shallow depth of field, with the monitor sharply in focus while the rest of the room fades into darkness. The overall style is gritty and immersive, with a palpable sense of isolation and surveillance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:18.667687",
+  "word_count": 154,
+  "error_message": null
+}

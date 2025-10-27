@@ -1,0 +1,12 @@
+{
+  "image_filename": "52c6e39c-589d-4d25-8a89-8f61776103f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman in a dynamic, expressive pose, with one arm raised above her head and the other bent behind her neck. She gazes slightly upward with a confident, almost sultry expression. Her dark, tousled hair frames her face, catching the colored lights. She wears a sleeveless, black, sequined top that glimmers subtly in the light. The lighting is dramatic and stylized, with bold magenta and blue hues casting vivid highlights and shadows across her skin, creating a sense of depth and intensity. The background is a vibrant, out-of-focus gradient of warm orange and yellow horizontal lines, evoking a sense of motion and energy. The overall style is reminiscent of a high-fashion music video or editorial shoot, with a shallow depth of field, sharp focus on the subject, and a strong sense of mood and atmosphere. The composition is tight and intimate, emphasizing the subject’s expression and the interplay of colored light on her features.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:55.036773",
+  "word_count": 160,
+  "error_message": null
+}

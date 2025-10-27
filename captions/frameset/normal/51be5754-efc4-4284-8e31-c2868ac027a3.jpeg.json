@@ -1,0 +1,12 @@
+{
+  "image_filename": "51be5754-efc4-4284-8e31-c2868ac027a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary basketball player practices dribbling in the center of a dimly lit, empty gymnasium. The subject, dressed in athletic gear—dark tank top and shorts—stands slightly hunched over, focused intently on the ball as it bounces on the polished wooden floor. The gym is spacious and mostly bare, with a few geometric wall decorations and a blank whiteboard in the background, all softly blurred by a shallow depth of field. The lighting is moody and atmospheric, with cool blue and gray tones dominating the color palette, and a gentle haze or mist diffusing the light, creating a cinematic, almost dreamlike quality. The camera is positioned low and at a distance, emphasizing the isolation and determination of the player, while the wide composition and subtle reflections on the floor add depth and a sense of quiet intensity to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:28.742563",
+  "word_count": 139,
+  "error_message": null
+}

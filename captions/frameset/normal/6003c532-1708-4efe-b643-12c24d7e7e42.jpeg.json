@@ -1,0 +1,12 @@
+{
+  "image_filename": "6003c532-1708-4efe-b643-12c24d7e7e42.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a man with curly dark hair and a serious, slightly tired expression, sitting at a desk and looking intently at a computer monitor that dominates the left foreground, partially obscuring his face. He wears a pale yellow button-up shirt, the collar slightly open, suggesting a casual office or late-night work environment. The background is softly blurred, rendered in warm yellow and green tones, evoking the artificial lighting of an office or workspace at night. The overall color palette is muted and subdued, with a cinematic, almost vintage quality—soft focus, shallow depth of field, and a sense of quiet introspection. The camera angle is at eye level, creating an intimate, contemplative mood, as if the viewer is observing a private moment of concentration or fatigue. The lighting is gentle and diffused, casting soft shadows and enhancing the pensive atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:12.967824",
+  "word_count": 142,
+  "error_message": null
+}

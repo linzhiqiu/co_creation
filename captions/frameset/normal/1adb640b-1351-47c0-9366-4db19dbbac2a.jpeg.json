@@ -1,0 +1,12 @@
+{
+  "image_filename": "1adb640b-1351-47c0-9366-4db19dbbac2a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene captured from the perspective of a moving vehicle on a highway. The camera is positioned low and close to the side of a dark-colored car, focusing on the car’s side mirror and the sleek, reflective surface of the vehicle as it speeds down the road. The highway is lined with tall, transparent safety barriers and illuminated by evenly spaced streetlights, casting a cool, bluish glow over the scene. Bright orange traffic cones are spaced along the lane, their reflective surfaces catching the light and adding vivid pops of color against the otherwise subdued palette of deep blues, blacks, and grays. In the distance, the faint city lights twinkle, suggesting an urban environment beyond the highway. The overall mood is moody and atmospheric, with a sense of motion and quiet intensity. The composition uses a shallow depth of field, keeping the car and nearby cones in sharp focus while the background blurs slightly, enhancing the feeling of speed and nighttime solitude. The style is reminiscent of a modern road movie or a contemplative travel sequence, with a focus on urban isolation and the journey through the night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:43.600969",
+  "word_count": 190,
+  "error_message": null
+}

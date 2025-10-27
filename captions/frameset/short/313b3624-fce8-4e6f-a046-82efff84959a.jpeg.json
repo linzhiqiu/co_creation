@@ -1,0 +1,12 @@
+{
+  "image_filename": "313b3624-fce8-4e6f-a046-82efff84959a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A silhouetted golfer mid-swing stands under a shaded driving range structure, framed by strong vertical beams. A golf bag rests nearby, while the sunlit field stretches beyond, bathed in soft, diffused daylight. The black-and-white palette and high-contrast lighting evoke a timeless, contemplative mood with cinematic depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:43.389534",
+  "word_count": 46,
+  "error_message": null
+}

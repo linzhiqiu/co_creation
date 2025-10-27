@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b2eb09d-f39f-484a-9cb7-8ec8eb08858a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime sports portrait of a confident male rugby player standing on a floodlit field. The subject is centered in the frame, facing the camera with a calm, determined expression. He wears a black athletic shirt adorned with subtle sponsor logos, and holds a colorful rugby ball securely in one hand at waist level. The background features a softly blurred stadium with bright, cool-toned floodlights illuminating the misty night air, casting a dramatic glow and creating a sense of depth. The color palette is dominated by deep blues and blacks, contrasted by the crisp white and vibrant accents of the rugby ball and the cool white lights. The overall style is moody and cinematic, with a shallow depth of field that keeps the focus on the player while the background recedes into soft bokeh. The camera angle is slightly low, enhancing the subject’s stature and presence, and the lighting highlights the contours of his face and athletic build, evoking a sense of anticipation and quiet strength.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:54.897918",
+  "word_count": 168,
+  "error_message": null
+}

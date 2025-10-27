@@ -1,0 +1,12 @@
+{
+  "image_filename": "436de6f1-5d91-470d-8d36-1686b5ef0f93.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, double-exposure portrait of a woman set against a deep black background. The primary subject is a woman with her hair loosely tied back, her bare shoulders and upper back visible. Her face is turned in profile, eyes gently closed, lips slightly parted, conveying a sense of calm introspection. Superimposed over her skin is a geometric, wireframe pattern of interconnected triangles, glowing softly in shades of blue and white, as if projected onto her body. The lighting is low and dramatic, highlighting the contours of her face and shoulders while allowing the geometric pattern to stand out vividly. The overall mood is ethereal and contemplative, blending organic human form with digital abstraction. The composition is tight, focusing on the interplay between the woman's serene expression and the futuristic, luminous grid, with a shallow depth of field that keeps the background in deep shadow, emphasizing the subject and the surreal overlay.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:22.985700",
+  "word_count": 152,
+  "error_message": null
+}

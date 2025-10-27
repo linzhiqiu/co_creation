@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c8f9df1-9f03-4ff4-91cf-4d328b1078ac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person's hand flipping through a collection of vinyl records in a wooden crate or shelf. The hand is positioned in the center-right of the frame, fingers gently separating the album covers, suggesting a moment of quiet browsing and tactile engagement. The records are arranged vertically, their colorful spines and partially visible cover art creating a layered, textured effect. In the background, out-of-focus labels and dividers hint at genre organization, with muted tones of cream, black, and yellow. The lighting is soft and natural, casting a warm, nostalgic glow over the scene, enhancing the sense of intimacy and personal connection. The color palette is subdued, dominated by earthy browns, faded blues, and gentle highlights, evoking a vintage, analog atmosphere. The composition uses a shallow depth of field, blurring the background and focusing attention on the hand and the records, creating a cinematic, contemplative mood reminiscent of a quiet moment in a record store or a personal music collection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:21.959921",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f34e3e4-5bff-4655-a356-de2d02036210.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, high-contrast scene set in a dimly lit, modern interior with a dramatic, moody atmosphere. At the center, two young men sit across from each other at a square table, engaged in an intense game of chess. The left figure wears a light-colored shirt, while the right figure is dressed in dark clothing, emphasizing their opposition. Both are illuminated by a single, cold blue overhead spotlight that casts sharp shadows and highlights their focused, serious expressions. The background is deep and shadowy, with hints of architectural detail and a large window or glass wall behind them, barely visible in the darkness. The floor is tiled in a geometric pattern of blue and red, reflecting the cool, almost clinical lighting. Two large, imposing cameras or surveillance devices are positioned on tripods at either side of the table, aimed directly at the players, adding a sense of tension and observation. The overall composition is symmetrical and balanced, with a strong sense of depth and isolation, evoking the style of a psychological thriller or neo-noir film. The color palette is dominated by cool blues, deep blacks, and subtle highlights, creating a stark, suspenseful mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:54.792645",
+  "word_count": 194,
+  "error_message": null
+}

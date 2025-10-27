@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bc3ce93-8e52-445b-9beb-9e10dbf3912c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic outdoor scene featuring a close-up of a basketball hoop with a white backboard and a red rim, captured at the precise moment a basketball is passing cleanly through the net. The hoop is slightly off-center, angled upward, emphasizing the action and energy of the shot. The background is filled with tall, lush green pine trees, their branches framing the scene and adding a sense of depth and natural tranquility. The sky is overcast, casting a soft, diffused light that creates gentle shadows and a muted, natural color palette dominated by greens, whites, and earthy tones. The netting of the basketball hoop is visible, as is a chain-link fence running diagonally across the lower left, suggesting a public or schoolyard court. The overall style is cinematic and documentary-like, with a shallow depth of field that keeps the focus on the hoop and ball, while the background remains softly blurred. The mood is dynamic yet serene, capturing a fleeting moment of success and movement in an everyday outdoor setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:12.431557",
+  "word_count": 169,
+  "error_message": null
+}

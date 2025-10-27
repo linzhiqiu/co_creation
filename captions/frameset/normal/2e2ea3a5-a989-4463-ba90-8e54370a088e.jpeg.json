@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e2ea3a5-a989-4463-ba90-8e54370a088e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, graphic composition viewed from a top-down perspective, featuring a rectangular illuminated sign as the central subject. The sign is divided into two sections: on the left, bold, black, dripping letters spell out the word \"WHY\" against a stark white background, evoking a sense of urgency and existential questioning. On the right, a large, solid pale green circle sits on a black background, providing a strong visual contrast and a sense of enigmatic symbolism. Surrounding the main sign, fragments of other colorful, cartoon-like illustrations and illuminated panels are partially visible, adding layers of visual interest and suggesting a chaotic, collage-like environment. The overall color palette is a mix of high-contrast black and white, with accents of pale green, yellow, and purple from the surrounding panels. The lighting is bright and even, emphasizing the illuminated quality of the sign and creating crisp, clean lines. The style is modern and graphic, with a hint of surrealism and pop art influence, and the composition is tightly framed to focus attention on the central message and its mysterious context.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:42.438481",
+  "word_count": 177,
+  "error_message": null
+}

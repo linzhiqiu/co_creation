@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e8691c1-f1d8-415d-a288-177197e17287.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a vast, abandoned industrial warehouse with high ceilings and exposed steel beams, bathed in cold, desaturated lighting that evokes a gritty, somber atmosphere. In the foreground, a disheveled man with long dark hair stands at the center of a wide, empty track, holding a revolver loosely at his side. He wears a worn denim jacket over a dark shirt and jeans, his expression weary and intense, as if caught in the aftermath of violence. \n\nTo his right, the twisted wreckage of a car is strewn across the ground, its metal body mangled and smoking, suggesting a recent, violent crash. Another figure sits slumped on the edge of the track, partially obscured, head bowed in exhaustion or defeat. The background recedes into shadowy depths, with industrial columns and scattered debris enhancing the sense of desolation. The color palette is dominated by muted grays, greens, and browns, with harsh, directional lighting casting deep shadows and highlighting the dust and destruction. The camera angle is low and wide, emphasizing the scale of the space and the isolation of the characters, with a shallow depth of field drawing focus to the central figure and the wreckage. The overall style is reminiscent of 1970s neo-noir or gritty crime dramas, capturing a moment of tense aftermath and emotional exhaustion.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:18.580073",
+  "word_count": 219,
+  "error_message": null
+}

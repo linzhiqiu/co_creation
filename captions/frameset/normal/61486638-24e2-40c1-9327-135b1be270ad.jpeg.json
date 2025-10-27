@@ -1,0 +1,12 @@
+{
+  "image_filename": "61486638-24e2-40c1-9327-135b1be270ad.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA solitary figure stands facing an old, weathered apartment building, captured from a slightly elevated, wide-angle perspective that emphasizes the imposing, symmetrical facade. The person, seen from behind, wears a loose white shirt and blue jeans, their light hair contrasting with the muted, sun-bleached tones of the structure. The building’s concrete exterior is marked by faded paint, cracks, and patches of discoloration, with large, rectangular windows reflecting the pale daylight. Some windows are open or missing glass, hinting at abandonment or disrepair. The ground is bare, dusty earth with sparse patches of grass, and the entrance to the building is dark and partially open, adding a sense of mystery. The color palette is dominated by cool grays, washed-out browns, and soft blues, with natural sunlight casting gentle, diffuse shadows. The overall mood is quiet and contemplative, evoking a sense of isolation and nostalgia, reminiscent of a still from a minimalist, post-Soviet cinematic drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:48.385637",
+  "word_count": 154,
+  "error_message": null
+}

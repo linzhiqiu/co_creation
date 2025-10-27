@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ba6b480-9e79-4a6e-8aac-d84dd85133b8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a historic European city, likely Florence, Italy, showcasing a dense cluster of terracotta-roofed buildings lining the left side of a wide, tranquil river. The architecture is characterized by warm earth tones—ochres, burnt oranges, and muted yellows—contrasting with the cool, reflective surface of the water. Two elegant stone bridges with graceful arches span the river, their reflections forming perfect semicircles in the still water below. The cityscape is tightly packed, with narrow streets and a patchwork of rooftops, some adorned with small terraces and satellite dishes. The lighting is soft and diffused, suggesting an overcast day, which lends a gentle, almost painterly quality to the scene. The composition is balanced, with the river running diagonally through the frame, drawing the eye toward the distant horizon where the city fades into a hazy background. The overall mood is serene and timeless, evoking the rich history and quiet beauty of an old European city seen from above.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:46.613288",
+  "word_count": 159,
+  "error_message": null
+}

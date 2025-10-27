@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a96d7d0-3256-4127-a288-a648b74450ad.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic scene set in a modern, high-security interrogation room. The composition is viewed through a glass wall, with vertical blue-tinted blinds casting dramatic, linear shadows and reflections across the space. In the foreground, a man in a green sweater stands assertively, his posture tense, facing a seated man in a formal suit and glasses who appears calm but alert, hands resting on a metallic table. Another figure, partially visible on the right, wears a white shirt and stands near a door, arm outstretched as if holding it open or blocking entry. The lighting is cool and clinical, dominated by teal and blue hues, creating a sterile, almost surreal atmosphere. The camera angle is straight-on, emphasizing the symmetry and confinement of the room, with a slight depth of field that keeps all subjects in sharp focus. The overall style is reminiscent of a psychological thriller or neo-noir film, with a focus on mood, tension, and the interplay of light and glass.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:27.844001",
+  "word_count": 162,
+  "error_message": null
+}

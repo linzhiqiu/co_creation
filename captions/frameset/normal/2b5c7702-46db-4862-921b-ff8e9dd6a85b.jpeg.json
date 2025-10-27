@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b5c7702-46db-4862-921b-ff8e9dd6a85b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic urban street scene at dusk, featuring a sleek, dark gray luxury sedan parked along a modern city sidewalk. In the foreground, a woman with long, flowing red hair, dressed in a stylish, light-colored trench coat and dark skirt, walks hand-in-hand with a young girl in a school uniform and backpack. Their backs are to the camera as they cross the street, creating a sense of movement and narrative. The background showcases a contemporary office building with large glass windows and geometric architectural lines, populated by a few distant pedestrians in business attire, adding to the metropolitan atmosphere. The color palette is cool and muted, dominated by shades of gray, blue, and black, with soft, natural lighting that suggests early evening. The composition uses a wide-angle perspective with a shallow depth of field, subtly blurring the background to draw focus to the woman and child, while the luxury car gleams with understated reflections. The overall mood is sophisticated and contemplative, evoking a sense of quiet transition in an urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:42.837461",
+  "word_count": 171,
+  "error_message": null
+}

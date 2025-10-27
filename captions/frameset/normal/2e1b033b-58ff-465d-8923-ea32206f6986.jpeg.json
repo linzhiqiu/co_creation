@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e1b033b-58ff-465d-8923-ea32206f6986.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic urban scene set on a rooftop basketball court at golden hour, with soft, warm sunlight casting long shadows and illuminating the wet pavement. In the center of the frame stands a young woman, holding a basketball at her side. She wears a loose, patterned yellow shirt and bright red athletic shorts, paired with white sneakers. Her expression is calm and focused, gazing directly at the camera with a sense of quiet confidence. The background features a city skyline with modern high-rise buildings, partially blurred to create a shallow depth of field that draws attention to the subject. The court is enclosed by a tall, black metal fence with curved protective bars overhead, and the basketball hoop is visible to the left. The overall color palette is warm and muted, with soft blues and grays in the sky and buildings, contrasted by the vibrant colors of the subject’s clothing. The composition is balanced and symmetrical, evoking a contemplative, almost cinematic mood, with a subtle sense of solitude and determination.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:42.373449",
+  "word_count": 171,
+  "error_message": null
+}

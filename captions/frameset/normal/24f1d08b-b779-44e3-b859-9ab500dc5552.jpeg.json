@@ -1,0 +1,12 @@
+{
+  "image_filename": "24f1d08b-b779-44e3-b859-9ab500dc5552.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody interior scene set in a vintage living room with patterned wallpaper and large, softly backlit bay windows draped in sheer white curtains. In the foreground, a person dressed in a crisp white button-down shirt and beige trousers is dramatically arched backward over the arm of a mustard-yellow sofa, their face obscured and body language tense and expressive. Their hands are raised, fingers splayed, reaching toward a pocket watch suspended from a chain, which dangles in midair above them, catching the light. The composition uses a low, slightly tilted camera angle, emphasizing the surreal, dreamlike quality of the moment. The color palette is muted and desaturated, with soft natural daylight filtering through the windows, casting gentle shadows and lending the scene a melancholic, introspective atmosphere. The overall style is reminiscent of psychological thrillers or art-house cinema, with a shallow depth of field that keeps the focus on the subject’s hands and the pocket watch, while the background remains softly blurred, enhancing the sense of mystery and suspended time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:24.127805",
+  "word_count": 170,
+  "error_message": null
+}

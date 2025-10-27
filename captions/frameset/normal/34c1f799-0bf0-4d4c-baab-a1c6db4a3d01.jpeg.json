@@ -1,0 +1,12 @@
+{
+  "image_filename": "34c1f799-0bf0-4d4c-baab-a1c6db4a3d01.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic side profile shot of a modern, sleek black sedan parked indoors in a futuristic, minimalist automotive showroom. The car is centered in the frame, its glossy surface reflecting the soft, diffused lighting that fills the space. The background is a vast, pristine white environment with subtle industrial elements—large, circular ventilation fans and abstract, sculptural forms—blurred to emphasize the car as the focal point. The sedan features tinted windows, intricate alloy wheels, and sharp, elegant lines along its body. The overall color palette is cool and monochromatic, dominated by shades of white, gray, and black, enhancing the high-tech, sophisticated atmosphere. The lighting is even and shadowless, creating a clean, almost ethereal mood. The camera angle is perfectly level and parallel to the car, with a shallow depth of field that keeps the vehicle in crisp focus while gently softening the background, evoking a sense of luxury, innovation, and modern design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:09.825988",
+  "word_count": 153,
+  "error_message": null
+}

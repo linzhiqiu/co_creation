@@ -1,0 +1,12 @@
+{
+  "image_filename": "632644cb-5525-460c-a777-dac8b45ef10b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A whimsical kitchen scene with a vibrant, retro color palette—yellow, orange, and red tiles, warm lighting. A steaming red pot boils on the stove, while a tiny, casually dressed man stands atop a spaghetti box. Oversized utensils and mugs hang in the background, creating a playful, surreal atmosphere with exaggerated scale and depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:26.898997",
+  "word_count": 53,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "399efeaa-9cff-4ca7-bf68-9923b9c6e96a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, high-resolution image of two athletic women standing on a running track in a large, empty stadium. Both women have blonde hair tied back in ponytails and are dressed in sleek, dark athletic wear—black long-sleeve tops and fitted leggings. They face each other, engaging in a firm handshake that conveys camaraderie and mutual respect, their expressions serious and focused. The background features rows of empty green stadium seats, with a few visible sponsor banners, and the track’s red surface contrasts with the green field and seats. The lighting is natural and slightly overcast, creating a cool, subdued color palette dominated by blues, greens, and muted reds. The composition is balanced, with the two women centered in the frame, captured at eye level for an intimate, documentary feel. The overall style is crisp and realistic, with a shallow depth of field that keeps the subjects sharp while softly blurring the background, emphasizing the moment of connection between the athletes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:56.407109",
+  "word_count": 160,
+  "error_message": null
+}

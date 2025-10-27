@@ -1,0 +1,12 @@
+{
+  "image_filename": "19e5b16c-27c4-46f2-8651-47e2d369b12a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, high-resolution cityscape featuring a freight train in motion crossing an elevated railway bridge in the foreground. The train cars are painted in earthy tones of orange, brown, and rust, with visible BNSF Railway logos, and their metallic surfaces catch the sunlight, creating subtle highlights and shadows. Behind the train, a mid-sized American city skyline rises under a clear blue sky, dominated by a mix of historic and modern buildings. The architecture includes art deco and early 20th-century brick structures, with a prominent central tower and a flag atop one of the tallest buildings. The city is bathed in bright, natural daylight, casting crisp shadows and lending a vibrant, inviting atmosphere. The composition is balanced, with the train forming a strong horizontal line across the lower third, while the vertical lines of the buildings create a sense of depth and urban energy. The color palette is warm and natural, with reds, browns, and muted greens contrasting against the cool blue sky. The overall style is cinematic and documentary-like, with a slight aerial or elevated perspective that emphasizes both the movement of the train and the architectural character of the city.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:27.741385",
+  "word_count": 191,
+  "error_message": null
+}

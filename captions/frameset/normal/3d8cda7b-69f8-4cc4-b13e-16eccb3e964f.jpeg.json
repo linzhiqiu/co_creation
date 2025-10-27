@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d8cda7b-69f8-4cc4-b13e-16eccb3e964f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene set in a dimly lit subway station. The composition is tight and intimate, focusing on a single figure descending an escalator. The subject is partially obscured in shadow, wearing a dark hoodie that blends into the low-key lighting, creating an air of mystery and anonymity. The figure’s hand grips a metallic escalator post, which is prominently featured in the foreground, illuminated by a glowing red circular light that casts a soft, ominous glow. The background reveals the blurred, receding lines of the escalator steps and handrails, with hints of yellow-tiled walls adding a subtle pop of color. The overall color palette is muted and desaturated, dominated by deep greens, grays, and the stark red of the light. The lighting is soft and diffused, with a shallow depth of field that keeps the focus on the hand and the illuminated post, while the rest of the scene falls off into gentle blur. The camera angle is low and slightly tilted, enhancing the sense of tension and unease, reminiscent of a neo-noir thriller or a suspenseful urban drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:27.060930",
+  "word_count": 180,
+  "error_message": null
+}

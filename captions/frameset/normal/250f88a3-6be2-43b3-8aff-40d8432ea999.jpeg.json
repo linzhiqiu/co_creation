@@ -1,0 +1,12 @@
+{
+  "image_filename": "250f88a3-6be2-43b3-8aff-40d8432ea999.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking black-and-white photograph featuring a solitary figure with short, light-colored hair, seated in front of an old-fashioned CRT television. The subject is seen from behind, their silhouette softly blurred, while their face is clearly visible on the TV screen in sharp focus. The TV displays a live video feed, captured by a small camera perched on top of the set, showing the subject’s introspective expression as they look downward, lost in thought. The background is minimal and gradient, fading from light gray to darker tones, creating a sense of isolation and introspection. The lighting is soft and diffused, casting gentle shadows and emphasizing the contrast between the subject’s illuminated hair and the surrounding darkness. The overall composition is cinematic and contemplative, with a shallow depth of field that draws attention to the television screen as the focal point. The mood is moody and reflective, evoking themes of self-observation, identity, and solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:28.670483",
+  "word_count": 152,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "486fe8ce-0304-4aad-b067-c1543bb4b0f8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up scene featuring a human hand with a light skin tone, index finger extended, pointing toward a fast food menu display. The menu showcases three classic ice cream treats: two soft-serve cones—one dipped in a glossy chocolate shell, the other plain vanilla—and a sundae topped with vibrant red syrup in a clear plastic cup. The background is a pale, pastel blue with a circular sign reading \"DQ Sprinkles Add fun to any treat\" in playful white text, accented by small, colorful confetti graphics. The lighting is soft and diffuse, creating minimal shadows and a clean, inviting atmosphere. The composition is tight, with the hand in the foreground and the ice cream images sharply in focus, evoking the anticipation and delight of choosing a sweet treat. The overall style is bright, commercial, and slightly whimsical, reminiscent of a candid moment at a fast food counter, with a shallow depth of field that keeps the viewer’s attention on the interaction between the hand and the menu.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:01.200231",
+  "word_count": 165,
+  "error_message": null
+}

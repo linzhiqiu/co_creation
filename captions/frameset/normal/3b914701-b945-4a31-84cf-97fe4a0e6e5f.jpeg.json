@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b914701-b945-4a31-84cf-97fe4a0e6e5f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene viewed from the interior of a modern car, looking out through the open driver’s side door. The foreground is dominated by the sleek, minimalist design of the car’s interior—smooth beige seats, a streamlined dashboard, and a steering wheel partially in shadow. Outside, a man in his 30s is captured mid-stride, walking past the car. He wears a dark jacket and light-colored pants, his expression contemplative and slightly blurred, suggesting motion. The background reveals a dramatic, overcast sky with heavy clouds tinged by the soft, diffused light of either dawn or dusk, casting a cool, subdued color palette of blues, grays, and muted earth tones. The landscape beyond the car is open and natural, with hints of distant hills and greenery. The composition uses a low, wide-angle perspective from inside the car, creating a sense of intimacy and depth, while the lighting and shallow depth of field evoke a quiet, introspective mood reminiscent of an art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:42.003063",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2731d080-3313-4d83-9155-fd7f7f7487ce.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, close-up shot of a basketball hoop and net, viewed from a low angle looking slightly upward, as if from the perspective of a player about to make a shot. The hoop’s orange rim and white net are sharply in focus, with the net hanging loosely and catching the light, creating intricate shadows and highlights. The background is a deep, almost pure black, suggesting a dimly lit indoor gymnasium or an arena at night, with a single, soft spotlight illuminating the rim and net, giving the scene a cinematic, high-contrast look. The composition is minimalist, with the hoop dominating the frame and no other objects or people visible, emphasizing the anticipation and intensity of the moment. The color palette is restrained, featuring the warm orange of the rim, the bright white of the net, and the dark, moody backdrop. The overall style is dramatic and atmospheric, with a shallow depth of field and a sense of suspense, as if capturing the pivotal moment just before a game-winning shot.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:07.545089",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "194ff929-0c8f-4e1f-b3a4-2138abfb4817.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a drab, fluorescent-lit office interior, captured with a slightly muted, cool-toned color palette that emphasizes the sterile and monotonous atmosphere. The scene is composed with a deep depth of field, allowing the viewer to see the expanse of the open-plan office, lined with rows of gray cubicles and blue carpeting. In the foreground, a solitary woman sits at her desk, partially obscured by the cubicle wall, her posture slouched as she speaks on the phone, conveying a sense of fatigue or boredom. The background features a janitor in a gray uniform pushing a yellow cleaning cart down the corridor, adding to the sense of routine and mundanity. The walls are white, adorned with scattered papers and notices, and the ceiling is lined with evenly spaced fluorescent lights, casting a flat, shadowless illumination throughout the space. The overall composition and lighting evoke a sense of isolation and monotony, reminiscent of a scene from a modern workplace drama or a film exploring themes of alienation and routine.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:15.580816",
+  "word_count": 169,
+  "error_message": null
+}

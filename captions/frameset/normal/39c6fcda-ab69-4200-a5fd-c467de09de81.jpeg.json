@@ -1,0 +1,12 @@
+{
+  "image_filename": "39c6fcda-ab69-4200-a5fd-c467de09de81.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a traffic light, centered in the frame, with the yellow (amber) light illuminated. The traffic light is slightly weathered, showing subtle signs of use and exposure to the elements. The background is softly out of focus, revealing the facades of urban buildings with large windows and brickwork, suggesting a city environment. The color palette is muted and cool, dominated by shades of gray, blue, and brown, with the warm yellow glow of the traffic light providing a striking contrast. The lighting is natural and diffused, likely from an overcast sky, creating a soft, even illumination without harsh shadows. The composition emphasizes the verticality of the traffic light, with a shallow depth of field that blurs the architectural details behind it, drawing the viewer’s attention to the illuminated signal. The overall style is cinematic and realistic, evoking a moment of pause and anticipation in the urban landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:01.411490",
+  "word_count": 150,
+  "error_message": null
+}

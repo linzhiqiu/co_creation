@@ -1,0 +1,12 @@
+{
+  "image_filename": "15f52393-4c96-4f45-91c5-2bc4830b7090.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA bustling urban street scene set in the late afternoon, with soft, diffused sunlight casting a gentle glow over the city. The composition is centered on a wide avenue flanked by historic, low-rise buildings with ornate facades in warm yellows and muted reds, their details highlighted by the golden hour light. In the distance, a modern glass skyscraper rises, its cool blue tones contrasting with the older architecture and drawing the eye toward the vanishing point. The street is lively, filled with parked cars and a few moving vehicles, while pedestrians can be seen walking along the sidewalks, some in shadow, others illuminated by the sun. Overhead, a network of tram wires crisscrosses the sky, adding a sense of urban dynamism. The overall color palette is a harmonious blend of warm earth tones and cool blues, with natural lighting that evokes a cinematic, almost nostalgic atmosphere. The camera angle is at street level, creating a sense of immersion and depth, with a slight focus on the receding lines of the street and buildings, enhancing the perspective and drawing the viewer into the heart of the city.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:56.775527",
+  "word_count": 187,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5643649f-bf19-4bc5-b6a1-23d0a8c511f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern outdoor café scene, focusing on a sleek laptop placed on a round black metal table. The laptop screen displays a colorful presentation slide with abstract graphics and bold text. To the right, a person’s hand rests near a white ceramic cup and saucer, suggesting a relaxed coffee break. The background is softly blurred, featuring a sunlit urban street with graffiti-covered walls and indistinct figures walking by, creating a lively yet intimate atmosphere. The color palette is a mix of muted urban tones—grays, greens, and soft pastels—contrasted by the vibrant colors on the laptop screen. Natural daylight bathes the scene, casting gentle shadows and highlighting the textures of the table and the cup. The composition uses a shallow depth of field to draw attention to the laptop and the immediate foreground, while the out-of-focus background adds depth and a sense of place. The overall style is contemporary and candid, evoking a sense of creativity and modern urban life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:21.197876",
+  "word_count": 164,
+  "error_message": null
+}

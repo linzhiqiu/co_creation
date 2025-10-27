@@ -1,0 +1,12 @@
+{
+  "image_filename": "2bd3b780-4c65-4b32-9914-9dad2c1c4e85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of two sports cars with vibrant, graffiti-style red and blue paint jobs, captured mid-motion as they drift and maneuver on a wide, empty concrete lot. The cars are positioned diagonally, one turning sharply while the other moves parallel to the edge of the lot, creating a dynamic sense of movement and energy. The background features faded road markings, a yellow dashed centerline, and a large white directional arrow on the adjacent asphalt road, adding context to the urban setting. The edge of a building with a red roof is visible in the upper right corner, while sparse patches of greenery and gravel border the concrete. The color palette is dominated by cool grays and muted earth tones, contrasted by the bold, saturated colors of the cars. The lighting is natural daylight, slightly overcast, lending a soft, diffused quality to the scene. The composition is cinematic, with a high-angle drone perspective that emphasizes the geometry of the space and the choreography of the vehicles, evoking a sense of action and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:54.148430",
+  "word_count": 172,
+  "error_message": null
+}

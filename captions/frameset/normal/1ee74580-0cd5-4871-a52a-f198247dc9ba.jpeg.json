@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ee74580-0cd5-4871-a52a-f198247dc9ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene of a modern gas station, viewed from a low, wide-angle perspective that captures the entire illuminated canopy and forecourt. The gas station features a bold, bright green and blue color scheme, with the brand name \"Emarat\" prominently displayed in glowing signage along the edge of the roof. The lighting is cool and artificial, casting a soft, even glow over the forecourt and highlighting the clean, geometric lines of the structure. The sky is a deep indigo, suggesting dusk or early night, with only a hint of fading daylight on the horizon. Under the canopy, several fuel pumps are visible, each with green accents and digital displays. In the background, the convenience store is brightly lit, with large glass windows revealing shelves and signage inside. A few cars are parked at the pumps, their surfaces reflecting the overhead lights. The overall mood is calm and slightly surreal, with a sense of stillness and quiet typical of late-night urban environments. The composition emphasizes symmetry and depth, with the gas station centered in the frame and the forecourt stretching out toward the viewer, creating a sense of space and isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:18.964583",
+  "word_count": 193,
+  "error_message": null
+}

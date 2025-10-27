@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b76935c-6a77-4d79-90f0-8cab13a13ce8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA candid outdoor scene at a lively festival or garden party, featuring two women engaged in an animated conversation. Both women are holding clear pint glasses filled with amber beer, their body language expressive and focused on each other. The woman on the left has light brown hair, partially pulled back, and wears a black top with short sleeves and a delicate gold necklace. The woman on the right has long dark hair, loose and straight, and is dressed in a sleeveless black top with a subtle necklace. Their expressions are serious yet engaged, suggesting a meaningful exchange.\n\nThe background is softly blurred, with tall green trees and a crowd of people mingling in the distance, creating a sense of depth and a lively atmosphere. Warm string lights are draped overhead in gentle arcs, casting a golden glow that contrasts with the cool, natural daylight of early evening. The color palette is a harmonious blend of earthy greens, warm yellows, and soft blues, with the string lights providing a bokeh effect that adds a dreamy, cinematic quality. The camera angle is at eye level, close to the subjects, with a shallow depth of field that keeps the focus on the women while gently blurring the background. The overall style is naturalistic and documentary-like, capturing an authentic moment of connection amid the festive ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:54.440522",
+  "word_count": 224,
+  "error_message": null
+}

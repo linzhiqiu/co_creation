@@ -1,0 +1,12 @@
+{
+  "image_filename": "24f82a84-1924-4e0d-b45e-e3d694ea6ff9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic urban street scene in broad daylight, captured with a cinematic, documentary-style approach. In the foreground, a construction worker wearing a yellow safety vest, hard hat, and work gloves is bent over, actively working on the pavement near a set of exposed streetcar tracks. The worker’s posture conveys focus and effort. Surrounding the worker are bright orange safety barriers and traffic cones, creating a clear sense of an active construction zone. \n\nIn the midground, across the street, a large window displays a neon \"Bud Light\" sign, hinting at a bar or restaurant inside a white building. Two pedestrians stand on the sidewalk: one in a yellow jacket, the other in dark clothing, both observing the scene or waiting to cross. Parked cars frame the right edge of the image, while the left side is partially obscured by a vertical pole, adding depth and a candid, observational feel.\n\nThe color palette is dominated by muted urban tones—grays, whites, and asphalt—contrasted by the vivid orange of the barriers and cones, and the yellow of the worker’s vest and the pedestrian’s jacket. Lighting is natural and crisp, with soft shadows suggesting a clear, sunny day. The overall style is grounded and realistic, with a slight desaturation that enhances the everyday, workaday mood. The camera angle is eye-level, with a moderate depth of field that keeps both the worker and the background in focus, emphasizing the relationship between the individual and the city environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:28.098685",
+  "word_count": 241,
+  "error_message": null
+}

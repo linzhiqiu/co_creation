@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d7e9e83-a080-4d3e-ad97-c072e70da15e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person using a tablet device, with the focus on the screen displaying a colorful, circular data visualization interface. The user’s hand, with a single finger extended, is actively interacting with the central yellow node labeled “SPONSORED,” surrounded by interconnected green, orange, and red nodes, each containing icons and text. The person is dressed in a white collared shirt, visible in soft focus at the edge of the frame, suggesting a professional or business setting. The background is blurred and neutral, ensuring all attention is on the tablet and the user’s interaction. The lighting is soft and natural, creating gentle highlights on the hand and device, while the color palette is dominated by the bright, inviting hues of the interface against the dark, sleek surface of the tablet. The composition uses a shallow depth of field to emphasize the tactile engagement and the modern, tech-savvy atmosphere, evoking a sense of productivity and digital innovation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:25.158929",
+  "word_count": 159,
+  "error_message": null
+}

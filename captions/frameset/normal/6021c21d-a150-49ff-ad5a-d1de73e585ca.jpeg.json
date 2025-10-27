@@ -1,0 +1,12 @@
+{
+  "image_filename": "6021c21d-a150-49ff-ad5a-d1de73e585ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, cinematic overhead shot of two figures standing in the center of a circular, futuristic chamber. The scene is viewed directly from above, emphasizing the symmetry and geometry of the space. The chamber floor is composed of textured, metallic blue panels that reflect light, encircled by a glowing white ring of illumination. The left side of the background is bathed in cool blue light, while the right side glows with vibrant magenta, creating a dramatic color contrast and a sense of division. \n\nOne figure, dressed in a white lab coat, stands facing another person in casual clothing, possibly a red jacket, their heads close together as if in conversation or confrontation. The lighting is moody and stylized, casting soft shadows and enhancing the reflective surfaces. The overall style is sleek and modern, with a hint of retro-futurism, reminiscent of classic science fiction films. The composition is precise and balanced, with a strong sense of depth and focus on the central interaction, evoking a tense, enigmatic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:15.889934",
+  "word_count": 168,
+  "error_message": null
+}

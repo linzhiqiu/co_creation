@@ -1,0 +1,12 @@
+{
+  "image_filename": "385f7f20-ce7e-4750-81a0-899ddfd20e0d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, cinematic scene set in a spacious, industrial artist’s studio with a concrete floor and high ceilings. The background is cluttered with various objects: bicycles lined up against a white wall, large canvases and wooden frames leaning haphazardly, and a few pieces of electrical equipment and exposed pipes, all contributing to an atmosphere of creative disarray. \n\nIn the center of the composition, place a single, strikingly unusual figure: a humanoid form with a mesh-like, semi-transparent body, as if constructed from a digital wireframe or netting. The figure wears a pale, long-sleeved shirt and dark shorts, and is captured mid-motion, with one leg extended and arms outstretched, suggesting a dance or expressive movement. The figure’s face and limbs are featureless, emphasizing its otherworldly, almost digital quality.\n\nThe color palette is muted and cool, dominated by soft grays, whites, and pale blues, with occasional pops of color from the artwork and objects in the background. Lighting is diffuse and natural, streaming in from unseen windows, casting gentle shadows and giving the scene a subdued, contemplative mood. The camera angle is eye-level, with a wide shot that captures both the figure and the surrounding environment, creating a sense of space and isolation. The overall style is reminiscent of contemporary art photography or a still from an avant-garde film, blending realism with surreal, digital elements to evoke a feeling of quiet strangeness and creative possibility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:33.235056",
+  "word_count": 233,
+  "error_message": null
+}

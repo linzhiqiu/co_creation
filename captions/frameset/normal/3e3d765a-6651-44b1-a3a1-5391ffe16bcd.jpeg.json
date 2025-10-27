@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e3d765a-6651-44b1-a3a1-5391ffe16bcd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A person sits in a dimly lit room, facing a Samsung laptop. The screen displays a paused YouTube video titled \"Crazy Half Court Shot!!\" with 1,901,995 views. The video frame shows an empty, sunlit indoor basketball court with polished wooden floors, high ceilings, and large windows letting in soft daylight. The court is clean and spacious, with basketball hoops at either end and blue padding along the walls. The YouTube interface is clearly visible, including the video title, view count, and a sidebar of blurred suggested videos. The camera angle is over-the-shoulder, focusing on the laptop screen, with the viewer’s hand and part of a pen holder with blue and white pens visible in the foreground. The color palette is cool and neutral, dominated by grays, blues, and natural light. The overall style is realistic and cinematic, with shallow depth of field drawing attention to the laptop screen and creating a sense of quiet anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:36.273155",
+  "word_count": 155,
+  "error_message": null
+}

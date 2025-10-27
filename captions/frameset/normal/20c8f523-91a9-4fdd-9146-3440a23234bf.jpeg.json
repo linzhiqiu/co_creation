@@ -1,0 +1,12 @@
+{
+  "image_filename": "20c8f523-91a9-4fdd-9146-3440a23234bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a white wall clock, with the focus on the lower right quadrant of the clock face. The clock features bold black numbers, with the numbers 6, 7, and 8 clearly visible, and additional red numbers marking the 18, 19, and 20 hours in a 24-hour format. The minute and hour hands are black, while the second hand is a thin, vibrant red line, caught in motion and slightly blurred, suggesting the passage of time. The clock’s frame is a soft, matte white, blending subtly into a neutral, out-of-focus background. The lighting is soft and diffuse, creating gentle shadows and a calm, contemplative mood. The composition is tight and slightly off-center, with a shallow depth of field that blurs the edges and background, drawing the viewer’s attention to the crisp details of the clock face and the dynamic sweep of the second hand. The overall style is minimalistic and modern, evoking a sense of quiet urgency and the relentless movement of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:52.528559",
+  "word_count": 166,
+  "error_message": null
+}

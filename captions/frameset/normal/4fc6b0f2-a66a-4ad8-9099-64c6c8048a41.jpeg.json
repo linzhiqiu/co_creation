@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fc6b0f2-a66a-4ad8-9099-64c6c8048a41.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single glass of whiskey, half-filled with amber liquid, floats in the center of the composition against a moody, atmospheric background. The backdrop is a close-up view of a water surface, dappled with soft, concentric ripples from falling raindrops, creating a sense of gentle motion and tranquility. The glass is sharply in focus, its clean lines and the rich, golden-brown hue of the whiskey contrasting vividly with the cool, bluish-gray tones of the water. The lighting is soft and diffuse, suggesting an overcast sky, with subtle reflections and highlights on the glass and liquid. The overall style is cinematic and contemplative, with a shallow depth of field that blurs the background slightly, drawing the viewer’s attention to the solitary glass. The mood is introspective and serene, evoking a quiet moment of reflection. The camera angle is straight-on at eye level, emphasizing the glass as the central subject, while the rain-speckled water adds texture and atmosphere to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:48.158765",
+  "word_count": 158,
+  "error_message": null
+}

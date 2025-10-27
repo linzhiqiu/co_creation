@@ -1,0 +1,12 @@
+{
+  "image_filename": "61faf81a-9da7-4615-9151-0e1cf19afc4d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an underwater scene with swirling debris and shimmering particles, illuminated by diffused sunlight streaming through a glass ceiling above. Use a cool, teal-blue color palette with dynamic motion blur, evoking a sense of chaos and ethereal beauty. Cinematic, high-contrast lighting, with a dreamlike, immersive atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:58.857883",
+  "word_count": 46,
+  "error_message": null
+}

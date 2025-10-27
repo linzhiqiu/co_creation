@@ -1,0 +1,12 @@
+{
+  "image_filename": "49f6cf14-4b06-44e1-9b6d-6167156a5a2a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a dramatic, high-contrast image of dense, swirling storm clouds filling the entire frame. The clouds should have a rich, textured appearance, with deep blacks, soft grays, and bright whites blending seamlessly to convey a sense of depth and turbulence. The lighting is moody and atmospheric, with subtle highlights and shadows accentuating the billowing forms and intricate details within the cloudscape. The overall style is photorealistic, evoking the intensity of an impending storm, with no visible sky or landscape—just an immersive, almost abstract expanse of churning clouds. The composition is tight and focused, with a sense of movement and energy, as if the viewer is enveloped within the heart of the storm. The mood is ominous and powerful, capturing the raw beauty and drama of nature.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:31.448283",
+  "word_count": 127,
+  "error_message": null
+}

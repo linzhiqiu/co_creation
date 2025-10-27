@@ -1,0 +1,12 @@
+{
+  "image_filename": "302c857f-1eae-4a4b-9d13-3123539a4eff.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of several black computer keyboard keys suspended in mid-air, as if frozen in the moment of an explosive burst. The keys, including prominently visible \"F\" and \"R\" letters, are scattered at various angles, some blurred by motion, creating a dynamic sense of chaos and energy. The background is softly out of focus, bathed in a warm, golden light that streams in from the upper right corner, casting dramatic highlights and subtle lens flares across the scene. Dust particles and tiny debris float in the air, illuminated by the backlight, enhancing the sense of movement and fragmentation. The overall color palette is muted and moody, dominated by deep blacks, soft grays, and warm amber tones. The composition uses shallow depth of field to draw attention to the sharp, tactile details of the keys in the foreground, while the rest of the scene fades into a dreamy, almost ethereal blur. The style is reminiscent of high-end commercial photography or a slow-motion sequence in a modern film, evoking a sense of suspended time and digital disintegration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:22.480890",
+  "word_count": 177,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a08be48-a421-4285-8dd3-8648cb110aba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up shot of a futuristic mechanical device embedded within a human torso, viewed from above at a slight angle. The device features intricate metallic components, including a central rectangular module with ribbed detailing, surrounded by curved, perforated metal plates and visible copper coils or tubing. The scene is illuminated by a cool, ethereal blue light that casts dramatic highlights and soft glows on the metal surfaces, emphasizing the advanced technology and sterile environment. The edges of the frame are softly blurred, drawing focus to the mechanical core, while hints of organic material or fabric—possibly a medical drape or clothing—frame the device, suggesting a blend of human and machine. The overall mood is clinical yet mysterious, with a high-tech, sci-fi aesthetic reminiscent of cybernetic augmentation or advanced robotics. The color palette is dominated by cool blues and silvers, with subtle warm accents from the copper elements, and the lighting is low-key, enhancing the sense of depth and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:06.474079",
+  "word_count": 160,
+  "error_message": null
+}

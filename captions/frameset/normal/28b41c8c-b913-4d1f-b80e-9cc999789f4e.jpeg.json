@@ -1,0 +1,12 @@
+{
+  "image_filename": "28b41c8c-b913-4d1f-b80e-9cc999789f4e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-detailed close-up of a typewriter in action, focusing on a single typed word ending with a period on textured, off-white paper. The camera is positioned at an extreme macro angle, capturing the grain of the paper and the crisp, slightly imperfect black ink of the typewritten letters. The metallic typebar is partially visible in the foreground, slightly out of focus, adding depth and a sense of motion as if it has just struck the page. The lighting is soft and warm, casting gentle shadows that emphasize the tactile quality of the paper and the mechanical elements. The overall color palette is muted and vintage, dominated by sepia tones, creamy whites, and deep blacks, evoking a nostalgic, cinematic atmosphere reminiscent of classic films or noir storytelling. The composition is intimate and immersive, drawing the viewer’s attention to the physicality of writing and the moment of creation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:41.520104",
+  "word_count": 146,
+  "error_message": null
+}

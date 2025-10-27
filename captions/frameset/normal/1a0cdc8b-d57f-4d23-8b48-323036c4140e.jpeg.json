@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a0cdc8b-d57f-4d23-8b48-323036c4140e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, slightly off-center shot of an outdoor basketball hoop and backboard. The backboard is made of weathered, perforated metal, showing signs of rust and age, with a faded, utilitarian appearance. The metal hoop is painted a worn red-orange, and the net is frayed and tangled, suggesting years of use. In the background, out of focus, are hints of a chain-link fence and bare trees, evoking a chilly, overcast day in late autumn or early winter. The color palette is muted and subdued, dominated by grays, browns, and rusty reds, with soft, diffused natural lighting that creates a somber, nostalgic mood. The composition emphasizes texture and detail, with a shallow depth of field that blurs the background, drawing attention to the hoop and net as the central subjects. The overall style is realistic and documentary-like, capturing the quiet, weathered beauty of a well-used urban basketball court.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:31.341309",
+  "word_count": 147,
+  "error_message": null
+}

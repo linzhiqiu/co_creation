@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d67eaef-7bf1-4dd0-b7e3-5924064f26ea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, nostalgic 1980s bedroom scene, illuminated by a single warm lamp casting dramatic shadows. In the center, a young boy with blond hair, wearing a maroon and white striped polo shirt and jeans, lounges on the floor, deeply absorbed in tinkering with electronic components. Beside him sits a large, retro toy robot with glowing red eyes and a white plastic body, exuding a sense of vintage futurism. The boy’s expression is focused and curious, his hand holding a small tool or wire, suggesting a moment of creative experimentation.\n\nSurrounding them, the room is filled with era-appropriate details: a black slot car racetrack snakes across the floor, toy cars scattered nearby. A small CRT television in the background displays a racing video game, its blue and purple hues adding a cool contrast to the otherwise warm palette. Classic comic book posters, including “Mickey Mouse” and “Invisible Man,” adorn the walls, enhancing the retro atmosphere. Board games and toy boxes are stacked casually, contributing to the sense of a lived-in, imaginative space.\n\nThe composition is intimate and cinematic, with a low camera angle and shallow depth of field that draws attention to the boy and his robot companion. The overall color palette is dominated by deep shadows, warm yellows, and muted reds, evoking a sense of nostalgia and quiet wonder. The scene captures the magic of childhood invention and the timeless allure of technology and play.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:47.593693",
+  "word_count": 236,
+  "error_message": null
+}

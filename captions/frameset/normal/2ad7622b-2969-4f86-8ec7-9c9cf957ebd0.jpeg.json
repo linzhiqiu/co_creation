@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ad7622b-2969-4f86-8ec7-9c9cf957ebd0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle shot of an industrial warehouse interior, bathed in cool, natural daylight with a slight blue tint. The scene is dominated by a large, open concrete floor, flanked on the right by a weathered brick wall with tall, arched windows and industrial details. On the left, a series of yellow bollards form a line leading into the distance, creating strong linear perspective and depth. At the center background, a vehicle with intensely bright headlights faces the camera, its lights creating dramatic lens flares and casting long reflections on the polished floor. The warehouse door behind the vehicle is partially open, revealing a hint of the outside. The overall mood is tense and anticipatory, with a sense of motion implied by the vehicle’s approach. The composition emphasizes symmetry and vanishing lines, with a gritty, urban atmosphere reminiscent of a high-stakes action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:32.847589",
+  "word_count": 143,
+  "error_message": null
+}

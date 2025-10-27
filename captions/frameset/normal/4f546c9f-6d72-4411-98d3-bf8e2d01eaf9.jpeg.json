@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f546c9f-6d72-4411-98d3-bf8e2d01eaf9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody urban scene at dusk, viewed from a low, centered angle behind a modern SUV driving along a wet, elevated city road. The car’s taillights glow red, reflecting off the slick asphalt, while the surrounding high-rise office buildings loom on either side, their glass facades catching the cool blue tones of the fading daylight. Streetlights cast warm, golden pools of light, creating a striking contrast with the overall cool, desaturated color palette dominated by blues and grays. The sky is overcast, adding to the somber, contemplative atmosphere. The composition emphasizes depth and motion, with the road curving gently ahead and the cityscape receding into the distance. The image has a shallow depth of field, with the car in sharp focus and the background slightly blurred, evoking a sense of movement and urban solitude. The overall style is reminiscent of a neo-noir film, with careful attention to lighting, reflections, and a sense of narrative tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:36.612975",
+  "word_count": 156,
+  "error_message": null
+}

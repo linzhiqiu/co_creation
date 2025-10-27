@@ -1,0 +1,12 @@
+{
+  "image_filename": "48f0d62c-75b7-4aaa-a66b-12955c033dfa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up shot of a person’s face, focusing on their eye and the side of their nose, framed by large, black-rimmed glasses. The reflection of a computer screen glows in the lens, casting a cool blue light across their skin. The background is softly blurred, filled with abstract shapes and hints of technology, suggesting a high-tech or cyberpunk environment. The color palette is dominated by neon blues and subtle magentas, creating a moody, futuristic atmosphere. The lighting is low and ambient, with the primary illumination coming from the screen in front of the subject. The composition uses a shallow depth of field, drawing attention to the eye and glasses, while the rest of the scene fades into a dreamy bokeh. The overall style is cinematic, evoking the tension and focus of a hacker or programmer deeply engaged with their work, with a sense of immersion and intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:09.724873",
+  "word_count": 146,
+  "error_message": null
+}

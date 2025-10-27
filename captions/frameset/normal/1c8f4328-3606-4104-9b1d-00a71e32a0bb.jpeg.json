@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c8f4328-3606-4104-9b1d-00a71e32a0bb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of the front end of a modern Land Rover Defender in motion, captured from a low angle near the road. The vehicle’s iconic grille and bold “DEFENDER” lettering are prominently displayed above the headlights. The left headlight is illuminated, casting a bright, dramatic lens flare across the frame, enhancing the sense of movement and energy. The car’s body is a sleek, metallic silver, with subtle reflections of the environment on its surface. The background is softly blurred, emphasizing the speed and focus on the vehicle, while hints of a road and natural landscape are visible in muted, cool tones. The overall color palette is dominated by silvers, greys, and cool blues, with the warm glow of the headlight providing contrast. The lighting is natural and slightly overcast, contributing to a moody, adventurous atmosphere. The composition and shallow depth of field evoke a high-end automotive commercial, with a sense of power, precision, and rugged elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:23.385409",
+  "word_count": 158,
+  "error_message": null
+}

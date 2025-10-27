@@ -1,0 +1,12 @@
+{
+  "image_filename": "5541be45-567c-4be2-a2e3-cad9807662c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of human fingers typing rapidly on a backlit mechanical keyboard. The camera is positioned at a low angle, almost level with the keys, creating a sense of immersion and intimacy with the action. The keyboard glows with vibrant, multicolored RGB lighting—shades of green, blue, and hints of orange—casting a soft, futuristic glow on the fingers and surrounding area. The lighting is low and moody, with a shallow depth of field that blurs the background and edges of the frame, drawing sharp focus to the fingertips and the illuminated keys. The overall style is modern and dynamic, evoking a high-tech, cyberpunk atmosphere. The composition emphasizes motion and energy, with subtle reflections and light trails suggesting speed and concentration. The mood is intense and focused, perfect for conveying themes of technology, gaming, or digital creativity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:56.301900",
+  "word_count": 137,
+  "error_message": null
+}

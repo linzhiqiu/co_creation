@@ -1,0 +1,12 @@
+{
+  "image_filename": "31b1869f-e3f0-431d-8d76-288c74621b79.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern security camera, its cylindrical body rendered in matte white metal, mounted against a muted teal wall. The camera’s lens glows with an intense, ominous red light, reflecting a small pinpoint of white, suggesting it is actively recording or monitoring. The composition is tight, with the camera dominating the frame, slightly off-center, and angled downward as if surveilling the viewer. The background is softly blurred, emphasizing the camera’s presence and creating a shallow depth of field. The lighting is cool and subdued, casting soft shadows and enhancing the sterile, clinical atmosphere. The overall mood is tense and foreboding, evoking themes of surveillance and control, reminiscent of a high-tech thriller or dystopian film. The color palette is dominated by cool blues and greys, with the striking red of the lens providing a stark, unsettling contrast.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:58.334238",
+  "word_count": 139,
+  "error_message": null
+}

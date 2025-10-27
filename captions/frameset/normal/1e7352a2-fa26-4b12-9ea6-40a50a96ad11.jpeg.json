@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e7352a2-fa26-4b12-9ea6-40a50a96ad11.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern white SUV with distinctive LED headlights and a bold, geometric front grille is captured head-on as it forges through a muddy, waterlogged trail deep within a lush, green forest. The vehicle’s clean, reflective surface contrasts sharply with the earthy, brown mud splashing up around its wheels, emphasizing its rugged capability. Dense foliage frames the scene on both sides, with overhanging branches and a leaning tree trunk adding a sense of wild, untamed nature. In the background, a tranquil river or lake is partially visible through the trees, its surface softly reflecting the overcast sky. The lighting is diffuse and natural, filtered through the canopy above, creating a cool, subdued color palette dominated by greens, browns, and the crisp white of the SUV. The composition is cinematic, with a shallow depth of field that keeps the focus on the vehicle while the background gently blurs, enhancing the sense of immersion and adventure. The overall mood is one of exploration and resilience, capturing the moment of challenge as the SUV navigates the muddy terrain.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:09.037938",
+  "word_count": 175,
+  "error_message": null
+}

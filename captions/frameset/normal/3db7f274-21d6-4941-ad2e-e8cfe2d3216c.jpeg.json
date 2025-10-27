@@ -1,0 +1,12 @@
+{
+  "image_filename": "3db7f274-21d6-4941-ad2e-e8cfe2d3216c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, wide-angle scene at dusk, featuring three figures standing on a grassy cliff overlooking a calm ocean. The central figure is a large, humanoid robot with intricate mechanical details and a weathered, industrial design, evoking a sense of both strength and vulnerability. Flanking the robot on either side are two human silhouettes, one male and one female, their forms softly outlined against the fading twilight. The humans stand close to the robot, suggesting camaraderie or companionship, with relaxed postures and subtle gestures of connection.\n\nThe background is a serene seascape, with the horizon bathed in the deep blues and purples of early nightfall, gradually transitioning to a faint orange glow near the water. Distant lights from a coastal town twinkle on the right, adding a sense of depth and quiet civilization. The overall color palette is moody and subdued, dominated by cool blues, purples, and muted earth tones, with soft, natural lighting that casts the figures mostly in silhouette. The composition emphasizes the bond between the characters and the vastness of the landscape, creating a contemplative, almost melancholic atmosphere. The camera angle is slightly low and behind the subjects, enhancing their silhouettes and drawing the viewer into the scene, as if witnessing a moment of reflection or farewell at the edge of the world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:30.183251",
+  "word_count": 216,
+  "error_message": null
+}

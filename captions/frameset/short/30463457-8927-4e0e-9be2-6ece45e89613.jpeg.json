@@ -1,0 +1,12 @@
+{
+  "image_filename": "30463457-8927-4e0e-9be2-6ece45e89613.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, abstract scene with vibrant streaks of green, red, and blue light radiating from a central vanishing point. Use a soft focus and motion blur to evoke a sense of rapid movement through a tunnel, with a dreamlike, psychedelic atmosphere and high-contrast, saturated colors.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:21.946496",
+  "word_count": 46,
+  "error_message": null
+}

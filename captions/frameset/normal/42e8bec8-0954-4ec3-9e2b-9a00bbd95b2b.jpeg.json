@@ -1,0 +1,12 @@
+{
+  "image_filename": "42e8bec8-0954-4ec3-9e2b-9a00bbd95b2b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast black and white photograph taken from a dramatic overhead perspective, capturing two people in mid-motion as they interact dynamically on a sunlit concrete floor. The subjects are dressed in dark, modern, casual clothing, their bodies angled toward each other, with one reaching out to grasp the other's arm, suggesting movement, tension, or dance. Strong, geometric shadows from an unseen architectural structure above cast bold diagonal lines across the scene, creating a striking interplay of light and shadow that frames the figures and adds depth. The composition emphasizes the abstract patterns formed by the shadows and the elongated silhouettes of the subjects, evoking a sense of energy and connection. The overall mood is cinematic and artistic, with crisp lighting, sharp contrasts, and a minimalist, urban atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:12.282582",
+  "word_count": 128,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "114b6061-618c-4966-841a-47e2390078e6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Capture a candid, documentary-style scene viewed from outside a cozy urban café through large, grid-paned windows. The composition is framed by the wooden window structure, creating a sense of intimacy and voyeurism. Inside, a diverse group of people sit at tables, engaged in animated conversation and enjoying drinks, their postures relaxed and natural. The patrons wear casual, modern clothing in muted tones, with some figures leaning in, gesturing, or laughing, conveying a warm, communal atmosphere. The background features soft, ambient lighting from round, glowing pendant lamps suspended from the ceiling, casting a gentle golden hue over the scene. Reflections in the glass subtly blend the interior with the exterior cityscape, including hints of rooftops and power lines, adding depth and visual interest. The color palette is soft and natural, with warm wood, teal tiles at the base of the window, and subdued blues and grays. The overall style is cinematic, with a shallow depth of field that keeps the focus on the café’s interior while allowing the reflections and exterior details to softly blur, evoking a sense of everyday life and urban warmth.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:20.223702",
+  "word_count": 184,
+  "error_message": null
+}

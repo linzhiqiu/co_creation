@@ -1,0 +1,12 @@
+{
+  "image_filename": "634b1672-f142-4373-bbc3-2c83fccaea93.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic aerial shot of a white pickup truck driving along a winding coastal road at sunset. The truck is captured mid-turn on a sharp curve, with its shadow stretching across the asphalt. The road is bordered by a low metal guardrail and a yellow arrow sign indicating the bend. To the left, the landscape drops off steeply toward the ocean, which glimmers softly in the golden evening light. The hillsides are covered in dry, brown grass, and the entire scene is bathed in warm, diffused sunlight, creating long shadows and a tranquil, contemplative mood. The color palette features earthy browns, muted greens, and the deep blue of the sea, all suffused with the amber glow of the setting sun. The composition emphasizes the sweeping curve of the road and the vastness of the natural landscape, with a shallow depth of field that keeps the truck and immediate surroundings in sharp focus while the distant ocean and sky blur gently into the background. The overall style is reminiscent of a road movie or travel commercial, evoking a sense of freedom, solitude, and adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:35.536893",
+  "word_count": 183,
+  "error_message": null
+}

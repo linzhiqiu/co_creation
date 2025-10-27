@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f1c300b-6bba-4443-9908-defccf756002.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-contrast still life composition featuring two identical white plates placed side by side on a pristine white surface. Each plate is centered in the frame, evenly spaced, and perfectly parallel to the camera. On the left plate, place a vivid, solid red circular object that fills the inner area of the plate, creating a striking pop of color. On the right plate, position a deep, matte black circular object of the same size, mirroring the placement of the red circle. The background is a smooth, neutral gray gradient, softly lit to eliminate distractions and emphasize the geometric forms. The lighting is even and diffused, casting crisp, symmetrical shadows beneath each plate, enhancing the sense of depth and clarity. The overall style is clean, modern, and abstract, with a focus on bold color contrast, symmetry, and the interplay of light and shadow. The camera angle is straight-on at eye level, with a shallow depth of field that keeps both plates and their contents in sharp focus, evoking a sense of calm precision and visual harmony.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:55.847361",
+  "word_count": 177,
+  "error_message": null
+}

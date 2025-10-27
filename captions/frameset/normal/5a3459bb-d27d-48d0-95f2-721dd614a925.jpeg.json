@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a3459bb-d27d-48d0-95f2-721dd614a925.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene featuring a shirtless male musician standing alone on a dark stage, holding an electric guitar. The subject is partially illuminated by a single, soft, overhead spotlight, casting dramatic shadows across his face and torso, while much of his figure fades into the surrounding darkness. Wisps of atmospheric smoke or fog drift through the upper left of the frame, catching the light and adding a sense of mystery and depth. The color palette is subdued and cool, dominated by deep blacks and muted blues, with subtle hints of warm light near the top. The composition is minimalist, with the musician slightly off-center and the background almost entirely black, emphasizing isolation and introspection. The focus is soft, creating a dreamy, ethereal quality, and the shallow depth of field blurs the edges of the scene, drawing attention to the subject’s silhouette and the texture of the smoke. The overall style evokes the feeling of an intimate, emotional performance captured in a cinematic, almost surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:54.257164",
+  "word_count": 166,
+  "error_message": null
+}

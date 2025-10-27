@@ -1,0 +1,12 @@
+{
+  "image_filename": "532c9989-ca96-4b88-9fd2-5cafc8d48c2c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary young boy stands in profile, facing left, set against a vast, ethereal backdrop of soft, swirling mist or fog. The composition is minimalist, with the child positioned in the lower third of the frame, emphasizing the overwhelming expanse of the cloudy, almost dreamlike sky that dominates the scene. The boy wears a simple, dark long-sleeved shirt, his short hair neatly framing his contemplative expression. The lighting is diffuse and gentle, casting no harsh shadows, and the entire image is rendered in a monochromatic grayscale palette, enhancing the mood of quiet introspection and solitude. The camera angle is level with the boy, creating an intimate yet distant feeling, while the shallow depth of field blurs the background into a seamless gradient of light and shadow. The overall style is cinematic and poetic, evoking a sense of melancholy and wonder, as if capturing a fleeting moment of reflection in a boundless, otherworldly landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:03.381046",
+  "word_count": 153,
+  "error_message": null
+}

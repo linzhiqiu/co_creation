@@ -1,0 +1,12 @@
+{
+  "image_filename": "4edf736e-3b30-49ac-87d1-42633beba0ab.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a young male doctor wearing a white lab coat and a light lavender collared shirt, immersed in a high-tech environment. He is wearing a sleek, modern virtual reality headset, obscuring his eyes and upper face, with a calm and focused expression visible on his lower face. The background is softly blurred, featuring a glowing computer monitor displaying detailed grayscale medical imagery, such as a 3D scan or X-ray of a human skull and neck, adding a sense of advanced medical technology. The lighting is cool and clinical, with soft blue and teal tones dominating the color palette, creating a futuristic and professional atmosphere. The composition uses shallow depth of field to keep the doctor sharply in focus while the background remains suggestive but unobtrusive. The overall style is clean, modern, and slightly dramatic, evoking themes of innovation, medicine, and the integration of virtual reality in healthcare.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:32.997634",
+  "word_count": 151,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "23c83c5a-0ece-4cc0-b6b5-09a50ca27670.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car’s interior, focusing on the sleek, high-resolution central touchscreen display integrated into the dashboard. The screen shows a navigation interface with a map, music controls, and weather information, all rendered in a minimalist, contemporary design with cool blue and gray tones. The driver’s hand, clad in a dark sleeve, is visible gripping the steering wheel on the left side of the frame, with the speedometer faintly illuminated in the background, reading 50. The dashboard and surrounding surfaces are finished in matte black and brushed metal, reflecting soft, natural daylight that streams in from the left, creating subtle highlights and gentle shadows. The overall mood is sophisticated and high-tech, with a shallow depth of field that keeps the focus on the touchscreen and the driver’s hand, while the rest of the interior softly blurs into the background. The composition conveys a sense of calm control and modern luxury, reminiscent of a car commercial or a scene from a contemporary drama, with a restrained, elegant color palette and a clean, uncluttered aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:59.918742",
+  "word_count": 177,
+  "error_message": null
+}

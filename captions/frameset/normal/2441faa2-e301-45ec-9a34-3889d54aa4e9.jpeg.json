@@ -1,0 +1,12 @@
+{
+  "image_filename": "2441faa2-e301-45ec-9a34-3889d54aa4e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A small, friendly-looking delivery robot is positioned in the center of a quiet, tree-lined sidewalk, carrying a translucent plastic bag filled with groceries. The robot has a white, boxy body with a digital face display showing a simple, pixelated expression, and it stands on a black, circular base. The background features a long brick wall on the right and a row of trees on the left, their leaves casting soft, dappled shadows on the path. In the distance, a solitary human figure walks away, slightly out of focus, adding depth and a sense of everyday life to the scene. The color palette is muted and natural, with soft greens, browns, and grays dominating, and the lighting is gentle and diffuse, suggesting an overcast day or late afternoon. The composition uses a shallow depth of field, keeping the robot and its cargo in sharp focus while the background gently blurs, creating a cinematic, contemplative mood. The camera angle is low and eye-level with the robot, emphasizing its presence and perspective within the urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:17.485453",
+  "word_count": 173,
+  "error_message": null
+}

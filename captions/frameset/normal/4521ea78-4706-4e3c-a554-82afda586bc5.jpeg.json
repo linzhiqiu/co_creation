@@ -1,0 +1,12 @@
+{
+  "image_filename": "4521ea78-4706-4e3c-a554-82afda586bc5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene set on an indoor tennis court at night. The main subject is a muscular, shirtless male tennis player with long hair, standing confidently in the left foreground. He wears loose athletic shorts and holds a tennis racket in one hand, with a tennis ball in the other. His body is highlighted by dramatic, low-key lighting that accentuates his physique and casts deep shadows, creating a sense of intensity and focus. In the right foreground, out of focus, is a large pile of tennis balls, adding depth and a sense of anticipation to the composition. The background is dimly lit, with the structure of the indoor court barely visible, enveloped in darkness. The color palette is muted and earthy, dominated by warm browns and greens, with subtle highlights on the subject’s skin. The overall style is reminiscent of a sports drama film, with a shallow depth of field, strong contrast, and a contemplative, almost cinematic atmosphere. The camera angle is slightly low and off-center, emphasizing the athlete’s presence and the quiet tension of the moment before action.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:59.915062",
+  "word_count": 180,
+  "error_message": null
+}

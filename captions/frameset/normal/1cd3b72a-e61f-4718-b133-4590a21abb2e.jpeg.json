@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cd3b72a-e61f-4718-b133-4590a21abb2e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, high-resolution landscape shot of a rugged cliff face, captured from a slightly elevated, wide-angle perspective. The composition emphasizes the sheer verticality and textured surface of the rock, with intricate patterns of weathered stone in shades of gray, taupe, and muted ochre. Patches of dense, dark green vegetation cling to the cliff in irregular clusters, creating a striking contrast against the bare rock. The lighting is natural and diffuse, suggesting late afternoon or early evening, with soft shadows that accentuate the depth and contours of the cliff. The overall mood is wild and untamed, evoking a sense of awe at the raw power of nature. The image is devoid of human presence, focusing entirely on the interplay between stone and greenery, with a realistic, almost cinematic clarity and a subtle, earthy color palette.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:27.924524",
+  "word_count": 134,
+  "error_message": null
+}

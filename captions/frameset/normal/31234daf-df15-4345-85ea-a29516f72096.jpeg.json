@@ -1,0 +1,12 @@
+{
+  "image_filename": "31234daf-df15-4345-85ea-a29516f72096.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, wide-angle landscape shot capturing a stormy sky over rolling hills at dusk. The scene is dominated by heavy, dark clouds that loom ominously overhead, with a single, thin bolt of lightning striking down toward the distant horizon. The land below is a patchwork of gentle hills and valleys, rendered in muted greens and browns, fading into a hazy blue as they recede into the distance. The lighting is moody and atmospheric, with the last traces of daylight casting a faint, golden glow along the lower edge of the clouds, contrasting with the deep shadows above. The overall color palette is cool and desaturated, emphasizing blues, grays, and subtle earth tones. The composition is cinematic, with a low horizon line that accentuates the vastness and turbulence of the sky, and a soft depth of field that keeps the focus on the interplay between the storm clouds and the landscape below. The mood is tense and awe-inspiring, evoking the raw power and beauty of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:46.189118",
+  "word_count": 165,
+  "error_message": null
+}

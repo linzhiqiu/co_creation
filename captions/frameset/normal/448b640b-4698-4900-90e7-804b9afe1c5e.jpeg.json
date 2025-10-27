@@ -1,0 +1,12 @@
+{
+  "image_filename": "448b640b-4698-4900-90e7-804b9afe1c5e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, dark blue Mercedes-Benz station wagon drives along an elevated urban highway in bright daylight. The car is captured in a dynamic three-quarter front view, with a shallow depth of field that softly blurs the cityscape in the background, emphasizing the vehicle as the main subject. Two white surfboards are securely fastened to the roof rack, hinting at an adventurous, active lifestyle. The driver, partially visible through the window, appears focused on the road ahead. The lighting is natural and slightly diffused, casting gentle reflections on the car’s glossy surface and creating a crisp, modern atmosphere. The color palette features cool blues and grays from the car and road, contrasted with muted greens and yellows from the out-of-focus buildings and foliage in the background. The overall style is cinematic, with a sense of motion and anticipation, as if capturing a fleeting moment on the way to a surf trip.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:43.604162",
+  "word_count": 150,
+  "error_message": null
+}

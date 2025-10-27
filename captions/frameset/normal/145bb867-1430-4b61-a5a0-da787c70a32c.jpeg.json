@@ -1,0 +1,12 @@
+{
+  "image_filename": "145bb867-1430-4b61-a5a0-da787c70a32c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic classroom scene viewed through a jagged hole in a wall, creating a natural vignette that frames the composition. In the foreground, the rough, broken edges of the wall are out of focus, adding depth and a sense of voyeurism. The main subjects are a group of young students, seen from behind, all dressed in crisp white shirts. Several students have their hands raised attentively, suggesting engagement and eagerness to participate. The classroom is modest, with a worn green chalkboard as the focal point. On the chalkboard, written in French, are the words: \"DIKEMBE MUTOMBO, GEANT, LE MONDE, LE PLUS GRAND.\" The lighting is soft and natural, likely from a window out of frame, casting gentle shadows and highlighting the students’ heads and shoulders. The color palette is muted and earthy, dominated by whites, greens, and browns, evoking a sense of realism and intimacy. The overall style is documentary-like, with a shallow depth of field and a slightly grainy texture, enhancing the authenticity and emotional resonance of the scene. The camera angle is low and slightly off-center, emphasizing the perspective of an unseen observer peering into a moment of learning and aspiration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:20.946239",
+  "word_count": 193,
+  "error_message": null
+}

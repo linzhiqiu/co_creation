@@ -1,0 +1,12 @@
+{
+  "image_filename": "35cfbd60-cd1d-4368-97c7-eafe1f6bfe8c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure ascends a wide, concrete outdoor staircase in an urban environment, carrying a bicycle slung over one shoulder. The person is dressed in a dark quilted jacket, tan pants, and a beanie, suggesting a cool or overcast day. The camera angle is low and slightly behind the subject, emphasizing the upward movement and the imposing scale of the city around them. Towering modern skyscrapers frame the scene, their glass and steel facades reflecting the muted, overcast sky. In the distance, a prominent, spire-topped skyscraper rises, partially shrouded in haze, adding depth and a sense of place to the composition. The color palette is subdued and cool, dominated by grays, blues, and muted earth tones, evoking a contemplative, cinematic mood. The lighting is soft and diffuse, with no harsh shadows, enhancing the urban atmosphere. The overall style is reminiscent of a modern drama or urban exploration film, with a focus on isolation, determination, and the relationship between the individual and the city.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:31.055309",
+  "word_count": 163,
+  "error_message": null
+}

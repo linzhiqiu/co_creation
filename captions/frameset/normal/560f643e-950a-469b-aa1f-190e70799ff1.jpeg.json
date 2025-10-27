@@ -1,0 +1,12 @@
+{
+  "image_filename": "560f643e-950a-469b-aa1f-190e70799ff1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-tech, futuristic control room bathed in cool blue and gray tones, illuminated by the soft glow of transparent holographic screens displaying complex data, anatomical diagrams, and digital readouts. In the foreground, a young man in a sleek, black uniform sits at a curved workstation, intently focused on the holographic interface before him. Behind him, two other men in matching dark uniforms stand, one wearing dark sunglasses and exuding an air of authority and calm detachment. Their expressions are serious and concentrated, reflecting the gravity of their task. The background is filled with glass walls and additional digital displays, contributing to the sterile, high-security atmosphere. The composition is cinematic, with a slight depth of field that keeps the main subjects sharply in focus while the background remains subtly blurred. The lighting is low and clinical, emphasizing the technological environment and the tension of the moment. The overall style is reminiscent of a science fiction thriller, with a polished, minimalist aesthetic and a sense of controlled urgency.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:14.074598",
+  "word_count": 166,
+  "error_message": null
+}

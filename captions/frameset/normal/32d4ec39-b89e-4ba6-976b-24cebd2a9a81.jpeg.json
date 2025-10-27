@@ -1,0 +1,12 @@
+{
+  "image_filename": "32d4ec39-b89e-4ba6-976b-24cebd2a9a81.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with a shaved head stands in the foreground, holding a camera up to his face as if taking a photograph of the viewer. He wears a dark, oversized leather jacket with visible wear, giving him a rugged, urban look. His hands, adorned with rings, grip the camera confidently. The background is an overcast, industrial setting with muted tones—pale blue-gray sky, soft diffused light, and a sense of chill in the air. Faded cars and indistinct industrial structures are visible, slightly out of focus, enhancing the sense of depth and isolation. The color palette is cool and desaturated, dominated by blues, grays, and subtle browns, evoking a moody, cinematic atmosphere. The composition is intimate and direct, with a shallow depth of field that keeps the subject sharply in focus while the background blurs softly. The overall style is reminiscent of contemporary European cinema, with a raw, documentary-like realism and a contemplative, almost melancholic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:23.117514",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f1ca9a2-67d4-434c-a03d-06531e3ddeeb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of dancers, all dressed in matching bright red jackets and black pants, perform a synchronized routine at the center of a futuristic, circular glass enclosure. The enclosure is set within a vast, high-ceilinged room bathed in cool blue tones, with sleek, reflective walls and a luminous, grid-patterned ceiling that casts a soft, even light over the entire scene. The floor inside the glass circle is a glowing white grid, enhancing the sense of modernity and precision. The dancers’ dynamic poses and expressive movements convey energy and unity, while the wide-angle composition and high vantage point emphasize the spaciousness and symmetry of the environment. The overall style is cinematic and ultra-modern, with crisp lines, a cool color palette dominated by blues and whites, and a sense of depth created by the receding grid and reflective surfaces. The mood is vibrant, energetic, and slightly surreal, as if set in a high-tech, otherworldly dance arena.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:32.101262",
+  "word_count": 154,
+  "error_message": null
+}

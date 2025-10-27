@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b7cfbbc-fd94-4785-9e7c-c684cf88da50.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands operating a modern drone controller outdoors. The hands are in sharp focus, with natural light illuminating the skin tones and casting soft shadows, suggesting late afternoon or early morning sunlight. The controller is black, with a small digital display showing telemetry data in white text, and a smartphone attached below it, displaying a live aerial video feed of a house and its surroundings. The person’s thumbs are poised on the joysticks, conveying concentration and control. The background is softly blurred, with earthy tones hinting at a natural, outdoor setting. The overall color palette is muted and realistic, with cool blues and warm browns. The composition emphasizes the tactile interaction with technology, using a shallow depth of field to draw attention to the hands and the screens, evoking a sense of focus, modernity, and exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:06.080113",
+  "word_count": 142,
+  "error_message": null
+}

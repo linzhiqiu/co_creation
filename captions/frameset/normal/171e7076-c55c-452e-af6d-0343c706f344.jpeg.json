@@ -1,0 +1,12 @@
+{
+  "image_filename": "171e7076-c55c-452e-af6d-0343c706f344.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping, cinematic landscape featuring a winding mountain road carved into steep, rocky cliffs, with lush green vegetation clinging to the slopes. In the lower left foreground, a lone cyclist in a red jersey and black shorts rides a road bike, leaning into a sharp curve with determination and focus. The road is bordered by a metal guardrail, emphasizing the dramatic drop-off to the left. The background reveals a vast, sunlit valley dotted with a patchwork of small houses and buildings, stretching out toward distant, hazy blue mountains under a clear sky. The color palette is dominated by natural greens, earthy browns, and cool blues, with the cyclist’s red jersey providing a striking focal point. The lighting is bright and natural, suggesting late morning or early afternoon, casting soft shadows and highlighting the textures of the landscape. The composition uses a wide-angle perspective, with a high vantage point that captures both the intimacy of the cyclist’s journey and the grandeur of the surrounding scenery, evoking a sense of adventure, freedom, and the beauty of exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:23.041063",
+  "word_count": 175,
+  "error_message": null
+}

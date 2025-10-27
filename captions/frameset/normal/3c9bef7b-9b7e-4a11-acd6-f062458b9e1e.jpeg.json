@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c9bef7b-9b7e-4a11-acd6-f062458b9e1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban street scene viewed from a high, slightly tilted aerial perspective, as if captured by a drone or crane camera. The composition centers on a wide, multi-lane road flanked by modern high-rise buildings and glassy skyscrapers, with the city skyline visible in the distance under a pale blue sky. The street is busy with a mix of vehicles—white and yellow taxis, private cars, a prominent white ambulance, and a few buses—moving in both directions. Pedestrians are scattered along the sidewalks, some walking in groups, others alone, their forms small but distinct against the geometric lines of the cityscape. The architecture is contemporary, with clean lines, large windows, and a mix of concrete and glass facades. The color palette is cool and muted, dominated by grays, whites, and blues, with occasional pops of yellow from the taxis. The lighting is natural daylight, slightly diffused, casting soft shadows and lending a crisp, realistic quality to the scene. The overall style is cinematic, with a shallow depth of field that keeps the central roadway and vehicles in sharp focus while the edges and distant background gently blur, enhancing the sense of depth and urban scale. The mood is dynamic yet orderly, capturing the everyday rhythm of city life from a grand, observational vantage point.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:06.086345",
+  "word_count": 213,
+  "error_message": null
+}

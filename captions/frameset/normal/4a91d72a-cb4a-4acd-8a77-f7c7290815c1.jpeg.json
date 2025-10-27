@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a91d72a-cb4a-4acd-8a77-f7c7290815c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a high-precision CNC lathe machine in action, focusing on the metallic workpiece being machined. The scene captures the dynamic moment as the cutting tool engages with the spinning cylindrical metal, sending fine sprays of coolant and metal shavings into the air. The lighting is moody and industrial, with cool, muted tones of steel gray, black, and hints of brass reflecting off the polished surfaces. The background is blurred, emphasizing the sharpness and detail of the cutting process in the foreground. The composition uses a shallow depth of field to draw attention to the interaction between the tool and the workpiece, highlighting the textures of the machined metal and the mechanical precision of the equipment. The overall style is documentary and technical, evoking a sense of craftsmanship, engineering, and industrial sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:45.114806",
+  "word_count": 135,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4688220a-da8b-48a5-9781-dcae12283325.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands holding a smartphone, capturing an image of a document placed on a wooden table. The phone screen dominates the composition, displaying the document in sharp focus, with the camera interface visible, including a prominent white shutter button at the bottom. The document itself is slightly yellowed, with typed text and a faint shadow, suggesting natural daylight. The background is softly blurred, revealing hints of a laptop keyboard and indistinct objects, contributing to a sense of a busy, work-oriented environment. The lighting is natural and diffused, casting gentle highlights on the hands and phone, while the overall color palette is warm and muted, with earthy browns, soft grays, and subtle pops of color from out-of-focus items. The camera angle is over-the-shoulder, creating an intimate, first-person perspective, and the shallow depth of field draws attention to the act of scanning or photographing the document, evoking a modern, everyday moment of productivity and technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:25.264482",
+  "word_count": 159,
+  "error_message": null
+}

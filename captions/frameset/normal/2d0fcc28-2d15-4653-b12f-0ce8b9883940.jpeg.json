@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d0fcc28-2d15-4653-b12f-0ce8b9883940.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a classic glass hourglass resting on a polished wooden surface, with fine golden sand trickling down from the upper chamber to the lower. The hourglass is positioned slightly off-center, its elegant curves and clear glass catching the warm, ambient light that bathes the scene in rich amber and honey tones. The background features intricately carved woodwork, softly blurred to create a shallow depth of field, drawing the viewer’s focus to the delicate movement of the sand grains. The lighting is soft and directional, casting gentle shadows and highlighting the textures of both the glass and the wood. The overall mood is contemplative and timeless, evoking a sense of quiet anticipation and the passage of time. The composition is intimate and detailed, with a subtle cinematic quality reminiscent of a period drama or a thoughtful still life painting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:20.642505",
+  "word_count": 142,
+  "error_message": null
+}

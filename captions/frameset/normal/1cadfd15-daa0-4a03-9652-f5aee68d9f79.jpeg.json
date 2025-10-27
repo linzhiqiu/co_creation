@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cadfd15-daa0-4a03-9652-f5aee68d9f79.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a quiet, old-fashioned library filled with tall wooden bookshelves lined with thick, leather-bound volumes and legal tomes. The focal point is a solitary figure, partially obscured by stacks of large, textured folders and archival boxes in the foreground, creating a sense of depth and visual layering. The person, with shoulder-length hair and wearing glasses, is intently reading a large document, their face mostly hidden behind the paper, suggesting deep concentration and scholarly focus. The background features glass-fronted bookcases and a visible EXIT sign, adding to the institutional atmosphere. The color palette is muted and earthy, dominated by browns, beiges, and faded reds, with soft, natural lighting that gently illuminates the scene without harsh shadows. The camera angle is low and slightly off-center, peering through the cluttered workspace to evoke a sense of secrecy and immersion, as if the viewer is witnessing a private moment of research. The overall style is reminiscent of 1970s cinema, with a documentary-like realism and a subtle sense of intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:24.295039",
+  "word_count": 171,
+  "error_message": null
+}

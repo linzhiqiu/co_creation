@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e55eb92-ea7a-4ff8-a2a5-52bac2965f51.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, cinematic scene set within a brutalist concrete interior, characterized by sharp geometric lines and imposing architectural forms. The composition is dominated by massive, angular concrete walls and overhangs, their surfaces textured with visible formwork lines and circular indentations from construction. Two solitary figures are present: one stands on a lower balcony, gazing upward, while another peers over the edge of an upper balcony, partially obscured by the structure. Both are dressed in dark, modern clothing that contrasts starkly with the pale, cold gray of the concrete. The lighting is soft and diffused, streaming in from large skylights above, casting gentle shadows and highlighting the raw texture of the materials. The camera angle is low and wide, emphasizing the scale and monumentality of the architecture, with a deep depth of field that keeps both figures and the background in sharp focus. The overall mood is contemplative and slightly mysterious, evoking a sense of isolation and introspection within a vast, almost monolithic space. The color palette is muted and cool, dominated by grays and off-whites, with subtle hints of blue from the ambient light. The style is reminiscent of modernist architectural photography or a scene from a minimalist, art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:46.921235",
+  "word_count": 200,
+  "error_message": null
+}

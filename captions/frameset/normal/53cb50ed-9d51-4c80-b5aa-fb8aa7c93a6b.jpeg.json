@@ -1,0 +1,12 @@
+{
+  "image_filename": "53cb50ed-9d51-4c80-b5aa-fb8aa7c93a6b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, surreal scene set in a dark, ethereal space illuminated by swirling, iridescent blue and purple light patterns projected onto the floor. At the center, a woman with long, wavy brown hair stands, wearing a sleeveless, light-colored jumpsuit that contrasts with the moody environment. Her expression is serious and contemplative, as if she is deep in thought or facing an inner conflict. Multiple tall, narrow mirrors are arranged in a semi-circle around her, creating fragmented reflections that multiply her image and add a sense of disorientation and introspection. The lighting is cool and dramatic, casting soft shadows and enhancing the dreamlike quality of the scene. The camera angle is eye-level, with a shallow depth of field that keeps the woman and her reflections in sharp focus while the background remains abstract and fluid. The overall style is cinematic and mysterious, evoking themes of identity, self-reflection, and psychological exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:17.916771",
+  "word_count": 149,
+  "error_message": null
+}

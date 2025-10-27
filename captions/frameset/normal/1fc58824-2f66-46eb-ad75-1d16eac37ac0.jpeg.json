@@ -1,0 +1,12 @@
+{
+  "image_filename": "1fc58824-2f66-46eb-ad75-1d16eac37ac0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic close-up of a vintage rocket standing upright in near-total darkness, illuminated by a single, focused beam of light from above. The rocket’s body is cylindrical, with a white upper section featuring a bold red cross and geometric markings, contrasting sharply against the deep black background. The lower portion of the rocket is a dark, metallic blue, with subtle textural details barely visible in the shadows. The nose cone is pointed, and the topmost section is just catching the edge of the spotlight, creating a sense of anticipation and mystery. The composition is vertical, emphasizing the rocket’s height and sleek form, with the camera angled slightly upward to enhance its monumental presence. The color palette is minimal, dominated by black, white, and red, with hints of metallic blue. The lighting is stark and moody, casting deep shadows and creating a high-contrast, almost painterly effect. The overall style is reminiscent of classic science fiction films, evoking a sense of awe, isolation, and the unknown.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:34.070009",
+  "word_count": 165,
+  "error_message": null
+}

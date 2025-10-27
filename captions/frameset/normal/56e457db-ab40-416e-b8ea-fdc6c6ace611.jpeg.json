@@ -1,0 +1,12 @@
+{
+  "image_filename": "56e457db-ab40-416e-b8ea-fdc6c6ace611.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a young man standing outdoors under an overpass, captured from a low, slightly wide-angle perspective to emphasize intensity and emotion. The subject is in sharp focus, positioned centrally, wearing a blue knit beanie, a brown jacket, and a striped scarf. His facial expression is animated and energetic, mouth open in a shout or exclamation, eyes wide with excitement or determination. Both hands are thrust forward toward the camera, fingers curled as if mimicking holding handlebars or gripping something, creating a sense of dynamic motion and engagement with the viewer. The background is softly blurred, with the dark, geometric lines of the overpass structure above contrasting against the softer, natural light filtering in from the sides. The color palette is cool and muted, dominated by blues, browns, and grays, with natural daylight providing soft, diffused illumination. The overall style is reminiscent of a dramatic coming-of-age film, with a shallow depth of field and a sense of immediacy and youthful energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:34.705447",
+  "word_count": 164,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1692a71f-f148-4e60-9b7e-516a8ddbd55c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands atop a gently sloping hill, silhouetted against a vast, star-filled night sky. The person’s posture is contemplative, gazing upward into the expanse, evoking a sense of wonder and solitude. The figure’s clothing is simple and dark, blending seamlessly with the shadowy foreground, while their outline is crisply defined by the subtle contrast against the luminous sky. The background is a deep, rich blue, scattered with countless bright stars, creating a breathtaking celestial tapestry. The lighting is natural and low, with the scene illuminated only by the faint glow of starlight, casting the landscape and subject in near-total darkness except for their clear silhouette. The composition is minimalist and cinematic, with a wide-angle perspective and a low camera angle that emphasizes the scale of the sky and the smallness of the human figure. The overall mood is serene, introspective, and awe-inspiring, capturing the quiet majesty of a solitary moment beneath the universe.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:10.531562",
+  "word_count": 155,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "42f3179b-3a10-4bff-a689-68b5502c3f2e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man in athletic clothing sprints down a dimly lit, narrow urban corridor at night. He wears a loose, muted green t-shirt and dark shorts, his expression focused and intense as he runs directly toward the camera. Behind him, another runner is partially visible, shrouded in shadow, adding a sense of urgency and pursuit. The corridor is enclosed by concrete walls, with a black metal fence on the left and a textured blue wall on the right, featuring a prominent red fire hose cabinet. Overhead, harsh fluorescent lights cast a cold, bluish glow, creating dramatic contrasts and deep shadows that heighten the tension. The perspective is slightly low and centered, emphasizing the runner’s movement and the vanishing point in the background. The overall color palette is cool and desaturated, with pops of red and green, evoking a cinematic, neo-noir atmosphere. The composition uses leading lines and a shallow depth of field to draw the viewer’s eye to the main subject, capturing a moment of action and suspense in an urban nightscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:12.868916",
+  "word_count": 172,
+  "error_message": null
+}

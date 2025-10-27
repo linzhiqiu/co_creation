@@ -1,0 +1,12 @@
+{
+  "image_filename": "5fc9c090-ace9-46ba-a6f2-e032c5cccfdb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with short dark hair and a trimmed beard is intently focused on working with electronic equipment in a dimly lit, industrial workshop. He wears a thick, striped sweater in muted tones of blue, green, and orange, which contrasts with the cool, bluish lighting that fills the space. The subject is positioned in profile, his face illuminated by soft, diffused light that highlights his concentration and determination. In the foreground, a metallic frame with circular holes and a bottle of yellow liquid attached to it add a sense of technical complexity and realism. The background is softly blurred, with another figure visible but out of focus, enhancing the sense of depth and drawing attention to the main subject. The overall color palette is subdued, dominated by cool blues and greys, with occasional warm accents from the sweater and the liquid. The composition uses a shallow depth of field and a slightly low, close-up camera angle, creating an intimate, cinematic atmosphere reminiscent of a tense moment in a science fiction or drama film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:08.982479",
+  "word_count": 174,
+  "error_message": null
+}

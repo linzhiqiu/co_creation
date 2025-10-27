@@ -1,0 +1,12 @@
+{
+  "image_filename": "4297cb4c-f2f5-4d4b-ae21-8b06ca47d86b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A somber, cinematic family dinner scene set in a dimly lit, austere room. Five people—a man, a woman, two boys, and a girl—sit around a rectangular table draped in a muted blue tablecloth. The adults are seated in the center, facing each other, while the children are positioned at the ends of the table. The man, with a serious expression and slightly disheveled hair, sits at the head of the table, his hands poised over a simple meal. The woman beside him has her back to the viewer, her hair neatly tied, wearing a dark, polka-dotted dress. The other woman, blonde and dressed in a pale top, sits opposite, also with her back to the viewer. The two boys, one on each side, wear plain shirts and look quietly attentive.\n\nThe background features two large, sheer-curtained windows that let in a cold, diffused light, casting a bluish, melancholic hue over the entire scene. The lighting is soft but stark, emphasizing the emotional distance and tension among the family members. The composition is symmetrical and static, with a painterly quality reminiscent of European art-house cinema. The camera is positioned at eye level, directly facing the table, creating a sense of intimacy and quiet unease. The overall color palette is subdued, dominated by cool blues and grays, enhancing the mood of solemnity and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:16.091449",
+  "word_count": 222,
+  "error_message": null
+}

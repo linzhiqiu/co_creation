@@ -1,0 +1,12 @@
+{
+  "image_filename": "306da8f1-54d4-4efe-9d74-02c63c3c72b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, compact inkjet printer sits on a reflective glass table, captured from a slightly elevated, three-quarter angle that emphasizes the device’s sleek, functional design. The printer is in the process of printing a color document; a single sheet is emerging from the output tray, featuring a vivid, high-contrast image of a hand reaching toward a cosmic, star-filled background, accompanied by several paragraphs of text below. The printer’s control panel, with a small digital display and tactile buttons, is prominently visible, angled toward the viewer and illuminated by soft, natural light. The color palette is warm and inviting, with the white and gray tones of the printer contrasting against the rich, amber hues of the wooden floor beneath the glass table. The overall style is clean and contemporary, with sharp focus on the printer and document, while the background remains softly blurred, creating a sense of depth and drawing attention to the act of printing. The mood is efficient and slightly futuristic, evoking themes of technology, creativity, and productivity in a modern workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:33.567402",
+  "word_count": 173,
+  "error_message": null
+}

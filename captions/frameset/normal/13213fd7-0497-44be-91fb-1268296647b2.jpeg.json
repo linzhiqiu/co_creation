@@ -1,0 +1,12 @@
+{
+  "image_filename": "13213fd7-0497-44be-91fb-1268296647b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic street scene at sunset, captured with a wide-angle lens and a shallow depth of field. The composition centers on a small, bright yellow Mini Cooper driving through an intersection, flanked by a silver sedan and a black sports car in motion blur, suggesting speed and urgency. In the background, two police cars with flashing lights are stopped at the intersection, adding a sense of tension and narrative intrigue. The lighting is warm and golden, with the sun low in the sky, casting long shadows and creating lens flares that streak across the image, enhancing the dramatic atmosphere. The background features suburban houses partially obscured by lush greenery and a tall hedge, with a bus stop and a street sign visible on the right. The overall color palette is dominated by warm yellows, oranges, and soft blues, evoking a late afternoon or early evening mood. The scene feels dynamic and cinematic, reminiscent of a high-stakes chase or pivotal moment in a film, with a focus on natural light, realistic urban details, and a sense of movement and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:51.534821",
+  "word_count": 179,
+  "error_message": null
+}

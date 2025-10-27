@@ -1,0 +1,12 @@
+{
+  "image_filename": "55aeda1b-737f-4f27-a4ad-f71b8bcbc2b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, close-up aerial view of a rugged, rocky lunar or planetary surface. The scene is dominated by a monochromatic, silvery-gray color palette, evoking the cold, desolate atmosphere of an alien landscape. The terrain is uneven and textured, with a mix of jagged rocks, small craters, and scattered debris, all rendered with sharp clarity and subtle variations in shading. The lighting is diffuse and soft, casting gentle shadows that accentuate the roughness and depth of the surface without creating harsh contrasts. The overall composition is abstract and immersive, with no visible sky or horizon, focusing entirely on the intricate details and natural patterns of the terrain. The image should convey a sense of isolation and otherworldliness, as if captured by a high-resolution camera on a space probe surveying an uncharted celestial body.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:02.766831",
+  "word_count": 134,
+  "error_message": null
+}

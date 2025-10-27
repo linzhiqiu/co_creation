@@ -1,0 +1,12 @@
+{
+  "image_filename": "1aa6555f-0cea-4a80-8732-c497259d8f57.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding an HTC smartphone, with the screen brightly illuminated and displaying a modern, minimalist interface featuring a collage of images and app icons. The hand is positioned in the lower right of the frame, fingers gently gripping the phone, with the thumb poised near the edge of the screen, suggesting interaction. The phone’s metallic body and sleek design are clearly visible, reflecting soft, cool-toned ambient light. The background is artfully blurred with a shallow depth of field, creating a smooth bokeh effect in warm beige and brown hues, which contrasts with the crisp, cool blue and white tones of the phone’s display. The overall mood is contemporary and sophisticated, with a cinematic quality achieved through selective focus and subtle, naturalistic lighting. The composition draws attention to the technology and the act of engagement, evoking a sense of modern connectivity and digital lifestyle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:38.897503",
+  "word_count": 148,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c262110-4fa2-4b12-8c46-2cddf18ef103.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a modern smartphone, the screen facing the viewer. The phone displays a whimsical, pastel-colored wallpaper featuring playful illustrations of stars, crescent moons, and clouds, all outlined in dark lines against a soft pink background. Overlaid on the screen is a notification bubble with a cartoon unicorn icon and the text, \"A new secret message has arrived.\" The hand is gently cradling the phone, with soft, natural light illuminating the skin and device, creating a warm and inviting atmosphere. In the blurred background, hints of colorful, out-of-focus decorations—such as stars and ribbons—suggest a cozy, playful environment, possibly a child's room or a creative space. The composition uses a shallow depth of field to keep the focus on the phone and the notification, while the background remains dreamy and unobtrusive. The overall style is cinematic and intimate, with a gentle, pastel color palette and a sense of curiosity and wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:41.072245",
+  "word_count": 155,
+  "error_message": null
+}

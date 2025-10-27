@@ -1,0 +1,12 @@
+{
+  "image_filename": "11ac99bb-d3d5-4887-95a8-96d49b098126.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large military-style cargo aircraft, painted white with the word \"VENUE\" boldly emblazoned on its fuselage and a Hyundai logo near the tail, soars through the sky at golden hour. The plane is captured in sharp profile, its four propellers blurred in motion, suggesting dynamic flight. Below, a vast expanse of rugged, mountainous terrain stretches into the distance, bathed in soft, diffused evening light with hues of mauve, dusty rose, and muted earth tones. The landscape is dotted with winding roads and a scattering of wind turbines, adding a sense of scale and modernity. The composition is cinematic, with the aircraft dominating the right side of the frame and the receding mountains providing dramatic depth. The lighting is natural and atmospheric, with a gentle gradient in the sky from warm peach near the horizon to cooler purples above, evoking a sense of adventure and grandeur. The overall style is realistic with a touch of epic, documentary-like clarity, as if captured by a high-resolution camera from a nearby chase plane.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:14.301369",
+  "word_count": 169,
+  "error_message": null
+}

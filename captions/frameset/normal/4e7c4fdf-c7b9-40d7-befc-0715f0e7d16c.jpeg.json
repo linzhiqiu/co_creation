@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e7c4fdf-c7b9-40d7-befc-0715f0e7d16c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of an open silver MacBook Air laptop placed on a clean, white table in a modern, softly lit indoor setting. The laptop screen displays a paused YouTube video featuring a man with a beard standing in a brightly lit supermarket aisle, with shelves of products visible in the background. The man is centered in the frame, wearing a dark shirt, and the video overlay text reads \"HEAVY BUBBLE\" in bold blue letters, with a subtitle beneath. The YouTube interface is clearly visible, showing the video title, progress bar, and suggested videos on the right sidebar. The color palette is cool and neutral, dominated by the silver of the laptop, the white of the table, and the soft blue and beige tones from the video thumbnail. The lighting is natural and diffused, creating a calm, professional atmosphere. The camera angle is slightly above and to the right of the laptop, with a shallow depth of field that keeps the laptop and screen in sharp focus while gently blurring the background, emphasizing the digital content and the sleek design of the device. The overall style is clean, modern, and documentary-like, evoking a sense of everyday digital life and media consumption.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:17.919196",
+  "word_count": 201,
+  "error_message": null
+}

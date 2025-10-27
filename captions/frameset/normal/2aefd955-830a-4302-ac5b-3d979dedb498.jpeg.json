@@ -1,0 +1,12 @@
+{
+  "image_filename": "2aefd955-830a-4302-ac5b-3d979dedb498.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A meticulously arranged entomology display case viewed from directly above, featuring a collection of pinned insects on a pale, cream-colored fabric background. The central focus is on three large, glossy black beetles, each carefully mounted with legs and antennae splayed, their exoskeletons reflecting soft, diffused light. Flanking the beetles are delicate dragonflies with translucent, veined wings spread symmetrically, their slender bodies and fine details rendered with scientific precision. Handwritten specimen labels in neat, black ink are placed beneath each insect, adding an authentic, archival touch. The overall color palette is subdued and natural, dominated by the neutral beige of the background and the dark, lustrous tones of the beetles, contrasted by the subtle browns and grays of the dragonflies. The lighting is even and shadowless, emphasizing clarity and detail, evoking the careful documentation of a natural history museum. The composition is orderly and balanced, with a shallow depth of field that keeps all specimens in sharp focus, creating a sense of quiet reverence and scientific curiosity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:34.080358",
+  "word_count": 166,
+  "error_message": null
+}

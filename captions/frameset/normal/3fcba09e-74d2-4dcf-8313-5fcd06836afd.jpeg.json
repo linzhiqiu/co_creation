@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fcba09e-74d2-4dcf-8313-5fcd06836afd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an extreme close-up portrait of a young person’s face, focusing on the area around the eyes and upper cheeks. The subject has fair skin with a natural, slightly rosy complexion, and light-colored eyes that reflect ambient light, giving them a glassy, introspective quality. The eyebrows are natural and slightly arched, and a few fine strands of hair fall across the face, adding a sense of intimacy and realism. The lighting is soft and diffused, casting gentle shadows that accentuate the skin’s texture and the contours of the face. The background is blurred and dark, ensuring all attention is drawn to the subject’s expressive eyes and subtle facial details. The overall style is cinematic and documentary-like, with a shallow depth of field and a sense of immediacy, as if capturing a fleeting, candid moment of contemplation or curiosity. The color palette is warm and natural, emphasizing skin tones and the reflective quality of the eyes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:06.762089",
+  "word_count": 155,
+  "error_message": null
+}

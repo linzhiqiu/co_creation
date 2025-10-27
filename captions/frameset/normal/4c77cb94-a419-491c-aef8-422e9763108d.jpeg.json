@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c77cb94-a419-491c-aef8-422e9763108d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young man standing against a completely black background. He is centered in the frame, facing forward with a calm, neutral expression. The subject wears a sharp, dark blue suit jacket over a crisp white dress shirt, buttoned up without a tie, giving a modern and professional appearance. The lighting is soft and focused, illuminating his face and upper body while leaving the background in deep shadow, creating a dramatic contrast and sense of depth. The color palette is minimal, dominated by the dark blue of the suit, the white of the shirt, and the natural skin tones, all set against the pure black backdrop. The overall style is clean, minimalist, and formal, with a shallow depth of field that keeps the subject in sharp focus while the background remains featureless. The composition is symmetrical and balanced, evoking a sense of seriousness and introspection, reminiscent of a high-end corporate portrait or a film still with a moody, contemplative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:30.296966",
+  "word_count": 164,
+  "error_message": null
+}

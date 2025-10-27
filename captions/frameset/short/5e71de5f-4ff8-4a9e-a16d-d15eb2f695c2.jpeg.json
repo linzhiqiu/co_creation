@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e71de5f-4ff8-4a9e-a16d-d15eb2f695c2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A low-angle, cinematic shot beneath a curved metal bench in a park, focusing on a small, white robotic device centered on a sunlit wooden pathway. Soft, natural daylight filters through trees, with blurred figures and benches in the background, creating a sense of depth and quiet urban futurism.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:29.409705",
+  "word_count": 48,
+  "error_message": null
+}

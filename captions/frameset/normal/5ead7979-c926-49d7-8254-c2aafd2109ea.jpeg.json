@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ead7979-c926-49d7-8254-c2aafd2109ea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of a modern bathroom sink with a white porcelain basin and a sleek, chrome faucet set against a backdrop of pale gray, slightly worn ceramic tiles. The central focus is on the faucet, from which a thick, viscous black liquid is slowly dripping into the sink, creating a stark and unsettling contrast against the pristine white surface. The lighting is soft and diffused, casting gentle reflections on the metallic surfaces and emphasizing the glossy, almost oily texture of the black liquid. The composition is minimalist, with a shallow depth of field that blurs the background tiles and edges of the sink, drawing the viewer’s eye to the surreal and mysterious flow from the faucet. The overall mood is eerie and enigmatic, evoking a sense of unease and curiosity, as if something unnatural is intruding upon an otherwise ordinary domestic scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:41.310146",
+  "word_count": 145,
+  "error_message": null
+}

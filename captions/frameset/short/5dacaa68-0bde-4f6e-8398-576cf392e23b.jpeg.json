@@ -1,0 +1,12 @@
+{
+  "image_filename": "5dacaa68-0bde-4f6e-8398-576cf392e23b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand passing a vibrant pink lottery ticket through a metal cashier window, with another hand receiving it on the other side. Soft, natural lighting highlights the ticket’s bold numbers and colors, while the background is softly blurred, creating an intimate, cinematic atmosphere focused on anticipation and hope.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:11.390344",
+  "word_count": 52,
+  "error_message": null
+}

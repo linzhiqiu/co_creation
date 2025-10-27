@@ -1,0 +1,12 @@
+{
+  "image_filename": "17aff8a9-d6cd-4171-90b5-7ee3079b3d45.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast, dramatic image featuring two pieces of fabric suspended in mid-air against a deep black background. The fabrics are captured in dynamic motion, as if floating or falling, with their folds and edges crisply defined. One fabric is patterned with bold red, black, and white tie-dye stripes, while the other displays a vibrant blue, red, and white tie-dye design. The lighting is focused and directional, highlighting the textures and vivid colors of the fabrics while leaving the background in complete darkness, creating a sense of depth and isolation. The overall style is modern and minimalist, with a sharp focus and a slight sense of motion, evoking a feeling of weightlessness and abstract beauty. The composition is balanced, with the fabrics positioned diagonally across the frame, their organic shapes contrasting against the stark, empty space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:33.872358",
+  "word_count": 136,
+  "error_message": null
+}

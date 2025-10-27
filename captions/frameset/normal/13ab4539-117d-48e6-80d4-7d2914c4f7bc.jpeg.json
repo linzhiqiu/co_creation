@@ -1,0 +1,12 @@
+{
+  "image_filename": "13ab4539-117d-48e6-80d4-7d2914c4f7bc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, first-person perspective shot of a hand operating a portable audio recorder, with the device dominating the foreground. The hand is mid-action, fingers delicately pressing buttons and adjusting knobs on the sleek, black recorder, which displays a digital interface with blue and red levels and recording indicators. The background is a lively urban street scene, slightly out of focus, featuring a white delivery truck to the right and blurred pedestrians walking along a narrow, bustling alleyway. Tall buildings with colorful Korean signage and shopfronts line the street, contributing to a vibrant, cosmopolitan atmosphere. The color palette is bright and natural, with daylight illuminating the scene, casting soft, even light and subtle reflections on the recorder’s surface. The composition uses a shallow depth of field to emphasize the tactile interaction with the device, while the dynamic street environment adds context and energy. The overall style is documentary and immersive, evoking the feeling of capturing authentic city sounds in a busy Asian metropolis.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:00.604456",
+  "word_count": 162,
+  "error_message": null
+}

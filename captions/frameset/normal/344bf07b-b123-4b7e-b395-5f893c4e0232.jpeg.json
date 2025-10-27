@@ -1,0 +1,12 @@
+{
+  "image_filename": "344bf07b-b123-4b7e-b395-5f893c4e0232.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-contrast black and white photograph of a Go board viewed from directly above, filling the frame with a sense of geometric precision and abstract artistry. The board is covered with black and white Go stones arranged in a striking spiral pattern, creating a hypnotic visual effect that draws the viewer’s eye inward toward the center. The lighting is soft but directional, casting gentle shadows that emphasize the rounded shapes of the stones and the subtle texture of the wooden board. The background is mostly dark, with only hints of paper and objects at the edges, keeping the focus on the board itself. The overall mood is contemplative and cerebral, evoking themes of strategy, balance, and the beauty of order within chaos. The composition is minimalist yet dynamic, with a strong sense of depth created by the interplay of light and shadow, and the monochrome palette enhances the timeless, almost meditative quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:58.052240",
+  "word_count": 155,
+  "error_message": null
+}

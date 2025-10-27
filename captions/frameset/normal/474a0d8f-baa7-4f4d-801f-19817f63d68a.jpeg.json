@@ -1,0 +1,12 @@
+{
+  "image_filename": "474a0d8f-baa7-4f4d-801f-19817f63d68a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in the aisle of a sporting goods store, surrounded by rows of baseball bats. The camera is positioned at a low, intimate angle, peering through the bats in the foreground, which are out of focus and create a sense of depth and enclosure. The subject, wearing a simple white t-shirt, gazes upward with a contemplative, almost searching expression, his face softly illuminated by the store’s overhead fluorescent lighting. The background is filled with shelves lined with baseball gloves, their tan and brown hues adding warmth to the otherwise cool, muted color palette. The overall style is cinematic, with a shallow depth of field that draws attention to the young man’s face while blurring the surrounding bats and merchandise, evoking a sense of introspection and quiet anticipation. The lighting is naturalistic, slightly diffused, enhancing the realism and emotional subtlety of the scene. The composition emphasizes the subject’s isolation and focus, capturing a moment of decision or aspiration in a familiar, everyday setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:44.445524",
+  "word_count": 165,
+  "error_message": null
+}

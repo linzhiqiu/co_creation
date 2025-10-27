@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b7f5123-276e-4d6b-b158-2ba6df98d8c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast, minimalist portrait in black and white, featuring a woman in profile against a pure white background. The subject’s hair is neatly pulled back into a low bun, emphasizing the elegant line of her neck and jaw. She is adorned with an avant-garde garment or accessory made of layered, angular, translucent paper or fabric pieces that cascade over her shoulder, adding texture and visual interest. The lighting is stark and directional, casting the woman in deep shadow and rendering her as a striking silhouette, with only subtle highlights defining the contours of her face and body. The overall composition is clean and uncluttered, with a strong sense of negative space and a focus on form and contrast. The mood is contemplative and artistic, evoking a sense of modern fashion editorial or fine art photography. The camera angle is at shoulder height, capturing the subject from the side with a shallow depth of field, ensuring the background remains completely white and featureless.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:33.810750",
+  "word_count": 163,
+  "error_message": null
+}

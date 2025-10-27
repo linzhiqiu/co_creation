@@ -1,0 +1,12 @@
+{
+  "image_filename": "634b0421-fc19-46d5-9d17-885538b07a99.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an intimate, cinematic close-up of two men facing each other in a dimly lit environment. The primary focus is on the face of the man on the left, who is softly illuminated by a warm, reddish-orange light that casts dramatic shadows and highlights the contours of his face. His expression is gentle and contemplative, with a slight, enigmatic smile and half-closed eyes, conveying a sense of vulnerability and emotional connection. The other man is seen from behind, his hand tenderly cupping the first man's cheek, emphasizing the closeness and affection between them. The background is dark and unobtrusive, drawing all attention to the subjects. The composition uses a shallow depth of field, blurring the man in the foreground while keeping the face of the man on the left in sharp focus. The overall style is reminiscent of classic film noir or romantic drama, with moody, low-key lighting and a rich, saturated color palette dominated by deep reds and shadows, creating an atmosphere of intimacy and intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:33.452330",
+  "word_count": 167,
+  "error_message": null
+}

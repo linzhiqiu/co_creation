@@ -1,0 +1,12 @@
+{
+  "image_filename": "193319df-3088-43b2-ae6f-a3d6dede7603.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial view of a dense urban cityscape, captured from directly overhead at a high altitude, creating a striking bird’s-eye perspective. The scene is dominated by tall skyscrapers and mid-rise buildings, their rooftops forming a geometric patchwork of rectangles and lines. One building near the center emits a plume of white steam, which drifts diagonally across the frame, adding a sense of movement and urban atmosphere. The streets below are mostly empty, with only a few tiny vehicles visible, emphasizing the scale and height of the shot. The color palette is muted and realistic, with soft beige, tan, and gray tones punctuated by occasional teal and rust-colored rooftops. The lighting is natural daylight, casting crisp shadows that accentuate the depth and three-dimensionality of the architecture. The overall style is cinematic and modern, with sharp focus and high detail, evoking the look of a city symphony film or a contemporary urban documentary. The composition is symmetrical and carefully balanced, with the grid of streets and buildings creating a sense of order and structure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:12.059544",
+  "word_count": 173,
+  "error_message": null
+}

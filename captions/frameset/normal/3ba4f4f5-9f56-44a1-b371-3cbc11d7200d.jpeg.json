@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ba4f4f5-9f56-44a1-b371-3cbc11d7200d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands confidently atop a sleek, futuristic black sports car with dramatic gullwing doors open wide, creating a striking silhouette. The person is dressed in casual, modern clothing—dark jeans and a fitted t-shirt—arms crossed, exuding a sense of calm authority and self-assurance. The scene is set in a spacious, dimly lit underground parking garage with exposed wooden beams overhead and industrial pipes running along the concrete walls. The floor is smooth and slightly reflective, bathed in a cool, bluish-purple light that pools around the car, casting soft shadows and emphasizing the vehicle’s glossy surfaces. In the background, through a small opening, distant city lights twinkle, hinting at an urban environment beyond the enclosed space. The composition is cinematic, with a low, wide camera angle that enhances the sense of scale and isolation, while the moody, high-contrast lighting and deep shadows create a dramatic, almost neo-noir atmosphere. The overall style is sleek and modern, blending elements of science fiction and urban cool.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:44.623480",
+  "word_count": 163,
+  "error_message": null
+}

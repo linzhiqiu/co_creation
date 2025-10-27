@@ -1,0 +1,12 @@
+{
+  "image_filename": "165d55d2-73f2-42d0-b3aa-44d36a6ed14c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a basketball in mid-air, captured in sharp focus as it arcs through a dark, indoor arena. The basketball, branded with the \"Wilson\" logo, is illuminated by dramatic, high-contrast lighting that highlights its textured surface and warm orange color against a deep black background. The composition emphasizes the ball’s motion and trajectory, with a slight blur on the edges suggesting movement. In the upper left corner, part of the basketball hoop’s structure is visible, rendered in soft focus, adding context without distracting from the main subject. The overall mood is intense and suspenseful, evoking the critical moment of a game. The color palette is dominated by the rich orange of the ball and the stark black of the background, with subtle metallic and white accents from the hoop. The style is reminiscent of sports photography or a high-stakes sports documentary, utilizing a shallow depth of field and a dynamic, slightly off-center camera angle to create a sense of anticipation and energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:05.542069",
+  "word_count": 165,
+  "error_message": null
+}

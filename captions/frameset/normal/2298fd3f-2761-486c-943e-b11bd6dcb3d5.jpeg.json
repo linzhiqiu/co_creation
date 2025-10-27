@@ -1,0 +1,12 @@
+{
+  "image_filename": "2298fd3f-2761-486c-943e-b11bd6dcb3d5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman outdoors during golden hour, with soft, diffused sunlight illuminating her face from behind, creating a gentle halo effect around her hair. She has long, light brown hair and wears a deep red beret, which adds a touch of vintage charm to her look. Her expression is calm and contemplative, with slightly parted lips and a direct, engaging gaze toward the camera. She is dressed in a dark blazer over a white collared shirt, evoking a classic, slightly academic style. The background is softly blurred, with hints of another figure and indistinct urban elements, emphasizing the subject and creating a shallow depth of field. The color palette is warm and muted, dominated by soft golds, reds, and natural skin tones, contributing to a nostalgic, dreamy atmosphere. The overall composition is intimate and close-up, with a gentle bokeh effect and a painterly, cinematic quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:32.438852",
+  "word_count": 150,
+  "error_message": null
+}

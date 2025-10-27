@@ -1,0 +1,12 @@
+{
+  "image_filename": "41adeb08-b96e-4a64-b400-05dd00c89765.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a laptop screen displaying a digital photo management or surveillance software interface. The screen shows a grid of grayscale and color thumbnail images, each featuring portraits or scenes with people, some in dramatic lighting or shadow. The interface includes a highlighted selection box around one of the thumbnails, with blue and white UI elements and text in an East Asian script (possibly Chinese or Japanese). The laptop keyboard is partially visible at the bottom edge, with a shallow depth of field blurring the foreground and background, focusing attention on the screen. The color palette is cool and muted, dominated by the soft glow of the screen and subtle reflections on the laptop surface. The overall style is cinematic and modern, evoking a sense of investigation or analysis, as if the viewer is peering over the shoulder of someone reviewing important visual evidence. The lighting is natural and ambient, with no harsh shadows, contributing to a realistic and immersive atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:42.979172",
+  "word_count": 163,
+  "error_message": null
+}

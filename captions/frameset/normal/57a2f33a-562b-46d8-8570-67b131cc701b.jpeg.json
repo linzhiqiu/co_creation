@@ -1,0 +1,12 @@
+{
+  "image_filename": "57a2f33a-562b-46d8-8570-67b131cc701b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a moss-covered tree trunk pressed tightly against a fallen, decaying log in a dense forest. The composition emphasizes the textures and organic forms: the rough, deeply grooved bark of the standing tree contrasts with the horizontal, weathered planks of the log, which are streaked with green moss and patches of dark brown rot. A narrow, shadowy gap runs between the two, drawing the eye into the mysterious space beyond. The color palette is dominated by earthy greens, muted browns, and subtle hints of gray, evoking a damp, ancient woodland atmosphere. Soft, diffuse natural light filters through the forest canopy, creating gentle highlights and deep shadows that enhance the tactile quality of the scene. The camera angle is intimate and slightly off-center, with a shallow depth of field that keeps the focus on the intricate details of the bark and moss, while the background fades into obscurity. The overall mood is quiet, contemplative, and immersive, capturing the timeless beauty and hidden complexity of the forest floor.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:53.090148",
+  "word_count": 170,
+  "error_message": null
+}

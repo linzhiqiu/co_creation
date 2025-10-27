@@ -1,0 +1,12 @@
+{
+  "image_filename": "53fd3b8b-550b-4a24-a1da-f45ba30bbe1a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a gaunt, pale, humanoid creature with large, expressive blue eyes and sparse, stringy hair. The creature’s skin is almost translucent, stretched tightly over its bones, with pronounced cheekbones and a thin, lipless mouth slightly parted in a look of surprise or curiosity. The background is a dimly lit, misty forest scene, with cool blue and gray tones dominating the color palette, evoking a sense of mystery and unease. The lighting is soft and diffused, casting subtle shadows that accentuate the creature’s emaciated features. The camera angle is slightly low and intimate, drawing the viewer into the creature’s intense gaze, while the shallow depth of field keeps the background softly blurred, focusing all attention on the subject’s haunting expression. The overall style is hyper-realistic with a dark, fantastical atmosphere, reminiscent of high-budget fantasy films.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:21.197647",
+  "word_count": 138,
+  "error_message": null
+}

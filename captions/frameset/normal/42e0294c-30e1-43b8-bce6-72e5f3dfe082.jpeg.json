@@ -1,0 +1,12 @@
+{
+  "image_filename": "42e0294c-30e1-43b8-bce6-72e5f3dfe082.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic landscape of a misty pine forest at dawn. Tall, slender pine trees dominate the composition, their trunks rising vertically and spaced irregularly, some with sparse branches and tufts of needles near the top. The forest floor is covered in a mix of green grass and patches of brown undergrowth, with hints of reddish foliage suggesting the onset of autumn or the aftermath of a recent fire. In the background, a dense, ethereal fog weaves through the trees, obscuring the distant forest and creating a sense of depth and mystery. The color palette is cool and subdued, with soft blues, muted greens, and gentle grays, punctuated by the earthy browns and reds of the underbrush. The lighting is diffuse and natural, as if filtered through overcast skies, lending a moody, tranquil atmosphere. The camera angle is at eye level, capturing the vertical grandeur of the trees and the enveloping mist, with a shallow depth of field that blurs the background slightly, enhancing the dreamlike quality of the scene. The overall style is reminiscent of a contemplative nature film or a fine art landscape photograph, evoking solitude, serenity, and the quiet majesty of the wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:16.279025",
+  "word_count": 197,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "18cbd2c4-14d1-4395-b7c9-2d03a040b32b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, contemporary art studio scene with a sparse, almost clinical atmosphere. In the foreground, place a simple black chair with a gray blazer draped casually over its back, suggesting recent human presence. Next to the chair, set a black necktie lying loosely on the floor, adding a subtle narrative of abandonment or transition. To the right, position an old-fashioned CRT television on the ground, displaying abstract digital art in cool blue and green tones. Further right, include a professional studio spotlight mounted on a tripod, its lamp casting a soft, diffused glow that gently illuminates the otherwise stark white walls and pale, scuffed floor tiles. The composition should feel carefully balanced yet uninhabited, evoking a sense of quiet anticipation or aftermath. Use a muted, cool color palette with hints of gray, black, and blue, and employ natural, even lighting to enhance the sense of realism and stillness. The camera angle should be eye-level, with a wide frame that captures the entire arrangement, emphasizing negative space and the contemplative mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:03.494399",
+  "word_count": 174,
+  "error_message": null
+}

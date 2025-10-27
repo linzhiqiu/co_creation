@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a25c6be-3d77-469e-bfea-03d5a4e6964c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage television set sits on a dark wooden surface in a dimly lit room, its screen displaying a broadcast of a ski jumper mid-flight against a stark white snowy background. The jumper, clad in a blue suit and helmet with a visible number on the chest, is captured in a dynamic pose, skis splayed in a classic V-formation, suspended in midair. The TV itself is an older model with a silver frame, and a small, old-fashioned clock with a yellow trim rests on top, partially draped with a brown knitted cloth. The background features a muted, plaid-patterned wall, adding to the retro, nostalgic atmosphere. The color palette is subdued, with cool whites and blues from the TV image contrasting against the warm, shadowy browns and deep reds of the room. The lighting is soft and low, emphasizing the glow of the television as the focal point. The composition is intimate and cinematic, with a shallow depth of field that keeps the viewer’s attention on the screen while subtly hinting at the cozy, lived-in environment surrounding it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:09.024957",
+  "word_count": 177,
+  "error_message": null
+}

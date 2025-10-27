@@ -1,0 +1,12 @@
+{
+  "image_filename": "52379ab3-d91f-40b9-b6b5-f7fffc17e1c2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, overhead shot of a deep red tiled floor, featuring a distinctive geometric pattern with interlocking shapes outlined in teal grout. At the center of the composition, a large, irregular splash of opaque white liquid—possibly milk or paint—radiates outward, its edges jagged and dynamic, with droplets and small shards scattered around the main impact zone. The lighting is moody and cinematic, casting subtle shadows that emphasize the texture of the tiles and the glossy, wet surface of the spill. The color palette is dominated by rich reds and cool whites, with the teal grout lines providing a subtle accent. The overall style is stark and evocative, with a sense of sudden motion frozen in time, reminiscent of a suspenseful or dramatic film still. The camera angle is directly above, creating a flat, graphic composition that draws attention to the contrast between the orderly background and the chaotic splash.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:37.780067",
+  "word_count": 149,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "12113494-8f29-461a-bf16-da15e5fee779.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, close-up shot of the front end of a modern white Ford car, prominently featuring the Ford emblem and the sleek, black honeycomb grille. The car is in motion, captured with a shallow depth of field that blurs the background, emphasizing speed and movement. In the background, out-of-focus vehicles in darker tones—such as gray and black—pass by on a multi-lane road, their motion accentuated by the soft blur. The lighting is natural daylight, casting subtle reflections on the car’s glossy surface and highlighting its clean, aerodynamic lines. The overall color palette is cool and neutral, dominated by whites, grays, and blacks, with hints of red from blurred taillights. The composition is cinematic, with the camera positioned low and slightly to the side, creating a sense of immediacy and energy, as if the viewer is moving alongside the car. The mood is modern, sleek, and energetic, evoking the feeling of urban driving and automotive sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:25.796738",
+  "word_count": 155,
+  "error_message": null
+}

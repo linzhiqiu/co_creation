@@ -1,0 +1,12 @@
+{
+  "image_filename": "2dfde47e-2594-45da-a14f-b5807301f3ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a tree trunk in a dense, shadowy forest. The camera is positioned at an oblique angle, focusing tightly on the rough, textured bark, with deep grooves and subtle variations in color—primarily dark browns, grays, and muted greens. The background is softly blurred, with hints of out-of-focus trees and faint, cool daylight filtering through the foliage, creating a moody, atmospheric effect. The lighting is low and diffuse, evoking an overcast or late afternoon setting, with soft shadows and a cool, desaturated color palette that enhances the sense of quiet and solitude. The overall style is naturalistic and contemplative, with a shallow depth of field drawing attention to the tactile details of the bark while the forest recedes into a gentle, mysterious blur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:35.731525",
+  "word_count": 126,
+  "error_message": null
+}

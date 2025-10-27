@@ -1,0 +1,12 @@
+{
+  "image_filename": "549b4d8a-a1a2-4c09-8898-c6b4385772f8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an abstract, close-up composition that captures the fluid motion of teal and turquoise ink swirling in water on a white background. The image should evoke a sense of organic movement, with soft, feathered edges where the color diffuses into the surrounding space. The teal pigment forms dynamic, flowing lines and subtle gradients, creating a sense of depth and texture reminiscent of watercolor or marbled patterns. The lighting is soft and even, highlighting the translucency and delicate layering of the ink. The overall mood is tranquil and ethereal, with a minimalist aesthetic that emphasizes the interplay between color and negative space. The camera angle is directly overhead, focusing on the intricate details and natural forms created by the ink’s movement, with a shallow depth of field that keeps the central swirls sharp while allowing the edges to blur gently into the background.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:37.024726",
+  "word_count": 142,
+  "error_message": null
+}

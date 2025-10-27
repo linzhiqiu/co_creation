@@ -1,0 +1,12 @@
+{
+  "image_filename": "54f54264-2100-41b5-a9a3-6cbcfe00798f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a realistic, slightly overcast daytime scene featuring the upper portion of an old, elegant clock tower. The tower is constructed from faded pink and cream stone, with weathered textures that suggest age and history. The clock face is large and white with bold black Roman numerals and hands, showing the time as approximately 10:10. Atop the tower sits a distinctive green patina dome, adding a touch of classical architecture. The building’s balustrade and decorative stonework are visible, with subtle shadows cast by the soft, diffused daylight. To the right, leafy branches of a tree partially frame the scene, their green and yellow leaves hinting at early autumn. In the background, a pale blue sky with a hint of cloud cover creates a calm, serene atmosphere. The composition is slightly angled upward, emphasizing the height and grandeur of the clock tower, with a shallow depth of field that keeps the focus on the architectural details while gently blurring the background. The overall mood is tranquil and nostalgic, evoking a sense of timelessness and quiet urban charm.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:50.677466",
+  "word_count": 185,
+  "error_message": null
+}

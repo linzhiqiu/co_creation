@@ -1,0 +1,12 @@
+{
+  "image_filename": "28b9b459-ef96-4eef-a152-097513d30eeb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man with curly hair and glasses sits at a modern office desk, holding a blue folder in his hands. He wears a patterned button-up shirt under a light gray cardigan, and an ID badge is clipped to his chest. His expression is slightly anxious or surprised, as he looks up at someone standing just out of frame to the right. The background features large glass windows revealing rows of illuminated server racks, their colored indicator lights—red, green, and yellow—creating a high-tech, data center atmosphere. The lighting is cool and clinical, with soft, diffused overhead light casting minimal shadows, emphasizing the sterile, professional environment. The camera angle is at eye level, with a shallow depth of field that keeps the man in sharp focus while the background is softly blurred, drawing attention to his face and posture. The overall color palette is subdued, dominated by grays, blues, and the cool glow of the server lights, evoking a sense of tension and modernity in a corporate or technological setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:42.467555",
+  "word_count": 168,
+  "error_message": null
+}

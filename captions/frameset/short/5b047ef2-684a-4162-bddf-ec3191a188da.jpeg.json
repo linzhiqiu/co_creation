@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b047ef2-684a-4162-bddf-ec3191a188da.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure in a dark cloak stands pensively in a misty, desolate marshland, surrounded by tall reeds and shallow, reflective water. The sky is overcast and moody, with muted earth tones and a hint of distant fire, evoking a somber, cinematic atmosphere with soft, diffused lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:11.609518",
+  "word_count": 47,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "413fac56-d5bf-4d62-8d56-746b5969512f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, close-up view of interlocking metal gears in motion, rendered with a cinematic, almost surreal quality. The composition focuses on the intricate teeth of the gears, capturing their precise alignment and mechanical texture. The color palette is dominated by cool metallic blues and silvers, with subtle gradients of teal and hints of soft white highlights reflecting off the polished surfaces. The lighting is dramatic and directional, casting deep shadows and creating a sense of depth and dimensionality, while a faint, ethereal glow adds a futuristic atmosphere. The background is softly blurred, emphasizing the sharpness and complexity of the gears in the foreground. The overall style is hyper-realistic with a touch of abstraction, evoking the inner workings of advanced machinery or a high-tech industrial environment. The camera angle is tight and intimate, almost macro, immersing the viewer in the mechanical world and highlighting the beauty of engineered precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:33.974324",
+  "word_count": 149,
+  "error_message": null
+}

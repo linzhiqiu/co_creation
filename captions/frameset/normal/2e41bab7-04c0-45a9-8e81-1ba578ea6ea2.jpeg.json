@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e41bab7-04c0-45a9-8e81-1ba578ea6ea2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a black computer keyboard, with the camera positioned at a low angle, almost level with the keys, creating a sense of depth and immersion. The focus is sharp on the central row of keys, particularly the \"W\", \"E\", \"R\", \"T\", and \"S\" keys, while the surrounding keys gradually blur into the background, emphasizing a shallow depth of field. A human finger is caught in motion above the keys, slightly out of focus, suggesting active typing and dynamic movement. The lighting is soft and diffuse, casting gentle highlights on the matte black surface of the keys and making the white letters and symbols stand out crisply. The overall color palette is monochromatic, dominated by blacks and greys with subtle reflections, evoking a modern, tech-oriented atmosphere. The composition feels intimate and immediate, drawing the viewer into the tactile experience of typing, with a documentary or product photography style that highlights both function and form.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:43.581811",
+  "word_count": 157,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "213b6b23-f092-49b0-afa1-7bd09b6e86b0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A split-level, dollhouse-style interior scene, divided horizontally into two distinct floors, each with its own unique rooms and color palettes. On the upper floor, to the left, a vibrant pink bathroom with a circular frosted window dominates the space, featuring a bathtub, sink, and toilet, all bathed in soft, diffused daylight. Adjacent to the bathroom, a cozy, cluttered bedroom with blue, collage-like wallpaper and a rumpled bed sits under a window with sheer curtains. A small desk with a computer and a keyboard hints at a creative occupant, while posters and personal items add a lived-in feel.\n\nOn the lower floor, the left room is a warm, retro-inspired living room with wood-paneled walls, a vintage television, and a fireplace adorned with sun and bird decorations. A young man in casual, pastel-toned clothing sits comfortably in an armchair, cradling a cat, surrounded by houseplants and soft, golden light that creates a nostalgic, inviting atmosphere. To the right, a kitchen painted in cheerful green and white features a classic refrigerator, a small dining table set for breakfast, and a window with blinds letting in gentle morning light. The overall composition is symmetrical and meticulously arranged, with a cinematic, Wes Anderson-inspired aesthetic, characterized by saturated colors, balanced framing, and a sense of whimsical domesticity. The lighting is soft and natural, enhancing the cozy, intimate mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:03.632070",
+  "word_count": 225,
+  "error_message": null
+}

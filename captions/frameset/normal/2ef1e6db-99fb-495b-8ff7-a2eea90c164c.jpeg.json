@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ef1e6db-99fb-495b-8ff7-a2eea90c164c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a nearly empty, dimly lit university lecture hall, viewed from the back corner at an elevated perspective. The room is lined with long, tiered wooden benches and desks, all unoccupied, creating a sense of emptiness and isolation. At the front of the room, a single male figure stands near a large chalkboard, which is densely covered with complex chalk diagrams and equations. He is dressed in a dark suit and tie, with a slightly disheveled appearance, and his posture suggests contemplation or fatigue as he faces the board. The lighting is subdued and yellowish, casting soft shadows and giving the scene a somber, introspective mood. Overhead fluorescent lights and a ceiling-mounted projector add to the institutional atmosphere. The walls are paneled in wood and brick, contributing to the academic setting. The overall composition emphasizes the scale of the empty room compared to the solitary figure, evoking a cinematic, almost melancholic tone, with a shallow depth of field that keeps the focus on the lecturer and the chalkboard while the foreground benches blur slightly.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:03.032671",
+  "word_count": 177,
+  "error_message": null
+}

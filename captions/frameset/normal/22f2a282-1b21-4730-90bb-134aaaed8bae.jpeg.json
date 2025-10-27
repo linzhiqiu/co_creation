@@ -1,0 +1,12 @@
+{
+  "image_filename": "22f2a282-1b21-4730-90bb-134aaaed8bae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, close-up macro shot of an electronic circuit board, focusing on a section with a prominent heat sink and various geometric components. The heat sink is rendered in a muted red or pinkish hue, with vertical fins and a blocky, industrial design. Surrounding the heat sink, the circuit board features a pastel yellow surface with precisely machined holes and cutouts, as well as a large, rectangular turquoise area that resembles a display or sensor window. The composition is slightly angled, giving a sense of depth and dimensionality, with soft, diffused lighting that highlights the textures and subtle color gradients of the materials. Fine lines and faint reflections suggest a technical, almost schematic overlay, enhancing the sense of precision engineering. The overall style is clean and modern, with a subdued, almost retro-futuristic color palette and a focus on the interplay between form, function, and material. The image should evoke the meticulous craftsmanship and complexity of advanced electronics, with a cinematic, almost documentary quality to the presentation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:43.882546",
+  "word_count": 168,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a123549-5233-47c1-8be7-a0790940d595.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-contrast nighttime scene featuring a single BMX rider in motion. The subject is a young adult wearing all-black athletic clothing, including a sleeveless top, fitted pants, and a full-face black helmet with a visor, exuding a sense of focus and determination. The rider is captured in profile, mid-pedal, with a slight forward lean, hands gripping the handlebars, and feet firmly on the pedals, suggesting dynamic movement and control.\n\nThe background is minimalist and modern, dominated by a large, smooth, curved concrete or metallic structure that resembles an oversized bowl or sculpture, softly illuminated to create a striking silhouette against the dark surroundings. The ground is a pale, matte surface, subtly reflecting the ambient light and enhancing the sense of depth. The lighting is dramatic and directional, casting crisp shadows and highlighting the contours of both the rider and the bike, while the rest of the environment fades into darkness.\n\nThe color palette is subdued and monochromatic, with deep blacks, cool grays, and hints of silver, emphasizing the urban, almost futuristic atmosphere. The composition is clean and balanced, with the rider positioned slightly off-center, and a shallow depth of field keeps the focus sharp on the subject while the background remains softly blurred. The overall style is sleek, modern, and evocative of a high-end sports or action film, capturing a moment of intensity and motion in an urban nightscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:16.979595",
+  "word_count": 231,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "23ce544d-cc17-410c-b9ed-cefbf2a1f9b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A woman with auburn hair tied back in a neat ponytail stands in the foreground, her back to the viewer, gazing intently at a large, projected black-and-white aerial surveillance image. She wears a crisp white blouse, the clean lines of her clothing contrasting with the grainy, high-contrast textures of the map-like image before her. The projection dominates the background, displaying a bird’s-eye view of a compound with angular rooftops, walls, and indistinct structures, rendered in stark monochrome tones. The lighting is dim, with the only illumination coming from the glow of the projection, casting a soft halo around the woman’s silhouette and emphasizing the seriousness of the scene. The composition is cinematic, with a shallow depth of field that blurs the woman slightly, focusing attention on the surveillance image and evoking a tense, analytical atmosphere reminiscent of a military operations room or intelligence briefing. The overall mood is one of suspense and concentration, with a cool, desaturated color palette and a documentary-style realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:59.967561",
+  "word_count": 163,
+  "error_message": null
+}

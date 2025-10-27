@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e8a4473-065a-4551-9a80-b6dbb4bff54e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, dimly lit bedroom scene at night, viewed from a low angle as if from the perspective of someone lying in bed. The focus is on a softly glowing bedside lamp placed on a small table, casting a warm, golden light that gently illuminates the surrounding area. The background features a wall decorated with a collage of children's drawings, cut-out shapes, and a street sign reading \"BENNETT RD\" with a small red \"Supreme\" sticker. The door to the room is slightly ajar, adding a sense of quiet intimacy. Out-of-focus star-shaped string lights hang in the foreground, creating a dreamy, magical atmosphere. The color palette is dominated by deep blues and warm amber tones, with soft shadows and a shallow depth of field that blurs the edges of the scene, emphasizing the comforting, nostalgic mood. The overall style is cinematic, reminiscent of a coming-of-age film, with careful attention to lighting and composition to evoke a sense of childhood wonder and nighttime tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:16.374017",
+  "word_count": 162,
+  "error_message": null
+}

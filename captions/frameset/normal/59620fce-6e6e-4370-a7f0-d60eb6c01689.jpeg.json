@@ -1,0 +1,12 @@
+{
+  "image_filename": "59620fce-6e6e-4370-a7f0-d60eb6c01689.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of six scientists, all dressed in white lab coats, stand and sit around a modern, curved workstation in a high-tech laboratory. They are engaged in a video conference with several other scientists, whose faces appear on a large, wall-mounted screen that dominates the background. The central figure on the screen is a middle-aged man with glasses, speaking directly to the group, while smaller windows show additional participants, all in professional attire and surrounded by bookshelves, suggesting academic or research settings. The room is softly lit with a cool, clinical ambiance, and the color palette is dominated by whites, grays, and subtle wood tones, creating a sense of cleanliness and focus. On the wall behind the screen, large, bold letters spell out “HELP BILLIONS,” partially illuminated by the ambient light. The composition is cinematic, with a shallow depth of field that draws attention to the interaction between the in-person and remote scientists. The camera angle is slightly behind and to the side of the group, capturing both their attentive postures and the digital interface of the meeting, emphasizing collaboration, urgency, and the global scale of their mission.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:40.585279",
+  "word_count": 188,
+  "error_message": null
+}

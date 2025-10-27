@@ -1,0 +1,12 @@
+{
+  "image_filename": "487fc6f5-20f3-401b-8df8-8f379b8924c6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a dimly lit industrial warehouse, filled with large wooden crates stacked in the background. The central subject is a humanoid robot with a realistic, human-like face and a partially exposed mechanical body, featuring intricate metallic joints and components. The robot is emerging from an open crate in the foreground, its upper body and arms visible as it appears to be inspecting or interacting with its surroundings. The robot’s expression is neutral and contemplative, adding a sense of curiosity and intelligence. In the background, a forklift and additional crates contribute to the industrial atmosphere. The color palette is muted and cool, dominated by grays, browns, and metallic tones, with soft, diffused lighting casting subtle shadows and highlighting the textures of metal and wood. The composition uses a shallow depth of field to keep the focus on the robot, while the background elements remain slightly blurred, enhancing the sense of depth and realism. The overall style is reminiscent of a science fiction film, blending futuristic technology with a gritty, realistic setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:03.997286",
+  "word_count": 175,
+  "error_message": null
+}

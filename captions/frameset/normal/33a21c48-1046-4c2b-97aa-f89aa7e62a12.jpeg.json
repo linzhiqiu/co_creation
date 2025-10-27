@@ -1,0 +1,12 @@
+{
+  "image_filename": "33a21c48-1046-4c2b-97aa-f89aa7e62a12.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person holding a smartphone in their right hand, viewed from behind and slightly over the shoulder. The phone screen is illuminated, displaying an incoming call with the word \"Unknown\" at the top, and a prominent green answer button at the bottom. The subject’s hand is well-manicured, with long, polished nails, and they are wearing a dark, possibly formal jacket with a white shirt cuff visible. The lighting is moody and atmospheric, with a cool, bluish tint dominating the scene and subtle green highlights casting a mysterious glow on the subject’s hand and the edge of their hair. The background is softly blurred, creating a shallow depth of field that draws focus to the phone and the tension of the moment. The overall style is sleek and modern, evoking a sense of suspense or intrigue, reminiscent of a thriller or neo-noir film. The composition emphasizes the anticipation and uncertainty of receiving a call from an unknown number, with the subject’s face left unseen to heighten the sense of anonymity and drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:37.508656",
+  "word_count": 176,
+  "error_message": null
+}

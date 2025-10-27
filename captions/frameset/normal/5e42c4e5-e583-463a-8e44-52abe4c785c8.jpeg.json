@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e42c4e5-e583-463a-8e44-52abe4c785c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single dancer is captured mid-motion against a seamless, minimalist backdrop of soft, neutral gray. The subject, a woman, is positioned off-center to the left, her body leaning dramatically backward as if resisting an unseen force. She wears a loose, flowing gray robe or coat that moves with her, its belt trailing behind, and bright turquoise sneakers that add a pop of color to the otherwise muted palette. Her arms are extended forward, hands clasped, and her face is partially obscured by shadow, conveying intensity and focus. The lighting is diffuse and even, creating gentle shadows that emphasize the contours of her form without harsh contrasts. The overall composition is spacious and airy, with a strong sense of negative space on the right, highlighting the dancer’s dynamic pose. The style is contemporary and cinematic, with a wide-angle perspective and shallow depth of field that isolates the subject, evoking a sense of movement, tension, and expressive solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:25.985405",
+  "word_count": 156,
+  "error_message": null
+}

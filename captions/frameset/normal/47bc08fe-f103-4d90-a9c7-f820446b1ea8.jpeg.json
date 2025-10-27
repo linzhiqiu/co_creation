@@ -1,0 +1,12 @@
+{
+  "image_filename": "47bc08fe-f103-4d90-a9c7-f820446b1ea8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A small, futuristic robot with a sleek, streamlined design sits alone on a rough, gravelly surface at night. The robot’s body is low to the ground, with rounded edges and smooth, metallic surfaces that catch the faintest glimmers of light. A single, thin strip of white LED illumination runs along its side, casting a soft, cool glow that highlights its contours and creates a subtle reflection on the ground beneath it. The background is enveloped in deep shadow, with only the vaguest hints of distant, out-of-focus lights and indistinct shapes, suggesting a remote or desolate outdoor setting. The overall color palette is dominated by dark blues and blacks, punctuated by the robot’s crisp white light. The lighting is minimal and moody, with a cinematic, high-contrast look that emphasizes the isolation and quiet of the scene. The camera angle is low and slightly off-center, placing the viewer at ground level and enhancing the sense of scale and solitude. The depth of field is shallow, keeping the robot in sharp focus while the background fades into darkness and blur, creating a mysterious, contemplative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:50.660310",
+  "word_count": 182,
+  "error_message": null
+}

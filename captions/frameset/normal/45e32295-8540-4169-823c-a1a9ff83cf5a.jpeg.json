@@ -1,0 +1,12 @@
+{
+  "image_filename": "45e32295-8540-4169-823c-a1a9ff83cf5a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a partially completed jigsaw puzzle lying on a smooth, reflective surface. The focus is on the foreground, where several dark, matte puzzle pieces are scattered around a central empty space, their interlocking shapes clearly defined. The color palette is subdued and moody, dominated by deep grays, blacks, and cool blue undertones, creating a sense of quiet introspection. The lighting is soft and diffused, casting gentle highlights and subtle shadows that emphasize the texture of the puzzle pieces and the glossy sheen of the table beneath. The background is softly blurred, with hints of window light and indistinct shapes, adding depth and a contemplative atmosphere. The overall style is reminiscent of a dramatic film still, with a shallow depth of field and a low, almost eye-level camera angle that draws the viewer into the intimate, tactile world of the puzzle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:13.938925",
+  "word_count": 144,
+  "error_message": null
+}

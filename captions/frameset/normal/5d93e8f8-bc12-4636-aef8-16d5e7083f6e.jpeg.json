@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d93e8f8-bc12-4636-aef8-16d5e7083f6e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands with their back to the viewer, centered in the frame against a vast, open sky. The subject is dressed in a long, weathered duster coat and a wide-brimmed, tan cowboy hat, evoking the rugged style of the Old West. Their right arm is extended outward, holding a revolver, as if firing into the distance. The coat billows slightly, suggesting a gentle breeze or the motion of the shot. The lighting is natural and soft, with daylight illuminating the scene and casting subtle shadows, enhancing the textures of the coat and hat. The sky dominates the background, painted in pale blue with wisps of white clouds, creating a sense of isolation and openness. The camera angle is low and slightly behind the subject, emphasizing their stature and the dramatic action. The overall color palette is muted and earthy, with subdued browns and grays contrasting against the light sky. The composition and mood evoke a cinematic Western, capturing a moment of tension and solitude with a painterly, almost mythic quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:13.481417",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a76dcd9-cb92-4aa6-9c33-d981eb0592c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a haunting, surreal image of a human face subtly emerging from a textured, weathered wall. The face should be only partially visible, with the eyes and part of the brow faintly discernible beneath layers of rough, cracked plaster and stone. The overall color palette is monochromatic, dominated by shades of gray, charcoal, and muted whites, evoking a somber, ghostly atmosphere. Lighting is soft and diffuse, casting gentle shadows that enhance the depth and tactile quality of the wall’s surface. The composition is close-up, filling the frame with the interplay between the human features and the decaying material, blurring the boundary between flesh and stone. The mood is mysterious and introspective, with a sense of time, memory, and erosion. The style is reminiscent of fine art photography or a chiaroscuro painting, with a focus on texture, subtle contrast, and emotional resonance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:21.664357",
+  "word_count": 141,
+  "error_message": null
+}

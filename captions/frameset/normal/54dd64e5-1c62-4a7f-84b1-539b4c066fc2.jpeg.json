@@ -1,0 +1,12 @@
+{
+  "image_filename": "54dd64e5-1c62-4a7f-84b1-539b4c066fc2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, cinematic scene centered on an ornate, ancient-looking golden urn with intricate handles, placed atop a white pedestal. The urn is illuminated from above, casting a radiant, almost mystical glow that reflects off its polished surface. Surrounding the urn, shards of colored light—reminiscent of stained glass—scatter across the floor, creating a kaleidoscopic pattern of blues, yellows, and reds. On either side of the urn, place two abstract, semi-transparent sculptures: one in emerald green and the other in amethyst purple, both with a crystalline, faceted texture. The background is deep black, emphasizing the central objects and the play of light. The camera angle is a high, almost top-down perspective, lending a sense of reverence and focus to the urn. The overall mood is mysterious and reverent, with a high-contrast, almost surreal lighting style that evokes the atmosphere of a sacred or ceremonial space.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:50.806458",
+  "word_count": 144,
+  "error_message": null
+}

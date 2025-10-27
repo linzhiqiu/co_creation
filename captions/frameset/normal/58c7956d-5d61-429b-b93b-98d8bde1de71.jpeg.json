@@ -1,0 +1,12 @@
+{
+  "image_filename": "58c7956d-5d61-429b-b93b-98d8bde1de71.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric bar scene focused on a pool table, captured with a shallow depth of field for a cinematic, intimate effect. In the foreground, the blurred silhouette of a person is seen from behind, holding a pool cue and preparing to take a shot. The green felt of the pool table is sharply in focus, with several colorful billiard balls scattered across its surface, including a prominent black 8-ball near the center. To the right, a pint glass filled with dark beer sits on the edge of the table, catching the soft, warm ambient light. The background is out of focus, suggesting a cozy, low-lit environment with muted brown and golden tones. The overall color palette is rich and subdued, dominated by greens, deep shadows, and warm highlights, evoking a moody, contemplative atmosphere reminiscent of classic bar or pub scenes in film noir. The composition draws the viewer’s eye along the line of the cue towards the balls, emphasizing anticipation and quiet concentration.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:22.387132",
+  "word_count": 165,
+  "error_message": null
+}

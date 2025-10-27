@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e328ca6-2b92-47a4-b263-840efc4f5655.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person in military camouflage uniform, focusing on their upper body and arms as they aim or handle a rifle. The subject wears a dark blue beret, and their face is partially turned away from the camera, obscuring their features. The uniform features a prominent patch with the Russian flag on the upper sleeve. The background is softly blurred, suggesting an outdoor, grassy landscape bathed in natural daylight. The color palette is dominated by muted earth tones—olive greens, browns, and beiges—contrasted by the dark blue of the beret and the subtle red, white, and blue of the flag patch. The lighting is natural and diffused, creating a realistic, documentary-style atmosphere. The composition emphasizes the subject’s focused posture and the action of aiming, with a shallow depth of field that draws attention to the uniform and the gesture, while the environment remains indistinct and atmospheric.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:40.971975",
+  "word_count": 149,
+  "error_message": null
+}

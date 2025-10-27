@@ -1,0 +1,12 @@
+{
+  "image_filename": "6245ba50-7f9f-4734-a8ff-4f1371b145f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Extreme close-up of a woman's lips, painted in bold, matte red lipstick, softly parted to reveal white teeth. The skin is smooth with natural texture, and the lighting is warm and intimate, creating a cinematic, sensual mood. Shallow depth of field blurs the background, focusing attention on the lips.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:05.265682",
+  "word_count": 49,
+  "error_message": null
+}

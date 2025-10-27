@@ -1,0 +1,12 @@
+{
+  "image_filename": "48f7ba1e-d70d-43f8-8c35-677087e79d63.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic black-and-white portrait inspired by classic 1930s horror cinema. The central subject is a male figure with a square, flat-topped head and heavy, pronounced brow, evoking the iconic look of Frankenstein’s monster. His skin is pale and textured, with deep-set eyes and dark shadows accentuating his gaunt features. The subject’s hair is slicked back tightly, and he wears a high-collared, dark garment that blends into the shadowy background. The lighting is stark and high-contrast, casting sharp highlights on the face and deep shadows around the eyes and jaw, creating a sense of intensity and unease. The background is blurred and indistinct, with subtle hints of laboratory equipment, enhancing the gothic, cinematic atmosphere. The composition is tight, focusing closely on the monster’s face, with a slight upward camera angle that adds to his imposing presence. The overall mood is eerie and suspenseful, capturing the essence of vintage horror film stills.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:10.801485",
+  "word_count": 151,
+  "error_message": null
+}

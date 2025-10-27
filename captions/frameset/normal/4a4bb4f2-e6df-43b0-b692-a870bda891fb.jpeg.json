@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a4bb4f2-e6df-43b0-b692-a870bda891fb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, high-angle aerial view of a modern city street at dusk, captured with a shallow depth of field for a slight tilt-shift effect. The scene centers on a single vivid blue car speeding along a wide, empty road, its motion slightly blurred to convey movement. The street is lined with clean, geometric white lane markings and bordered by contemporary brick buildings with large, warmly lit windows and a few outdoor tables, suggesting a quiet urban café. The sidewalks are empty, emphasizing the stillness and calm of the city. A few green trees add a touch of nature, their leaves softly illuminated by the cool, diffused evening light. The color palette features cool blues and greys contrasted with the warm amber glow from the windows and subtle green accents from the foliage. The overall mood is serene and slightly surreal, with a sense of isolation and tranquility, reminiscent of a contemplative cityscape in a modern art film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:38.262954",
+  "word_count": 157,
+  "error_message": null
+}

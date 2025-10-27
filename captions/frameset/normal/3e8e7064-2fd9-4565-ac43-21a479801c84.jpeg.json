@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e8e7064-2fd9-4565-ac43-21a479801c84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a metallic doorbell panel mounted on a pale, slightly weathered wall. The panel features a single round button and two engraved icons: a bell and a key, suggesting both doorbell and intercom or entry functions. The metal surface shows subtle signs of age, with faint rust and scratches near the edges. The composition is tight, with the doorbell dominating the foreground, while the background is softly blurred, revealing the vertical bars of a security gate and hints of an urban exterior. Dramatic, angled sunlight casts deep, elongated shadows across the scene, including the distinct silhouette of a person’s head and hand reaching toward the button, adding a sense of anticipation and narrative tension. The color palette is muted and realistic, with cool grays, silvery metallics, and warm highlights from the sunlight. The overall style is reminiscent of a suspenseful film still, with shallow depth of field, strong contrast, and a slightly dreamy, atmospheric quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:42.825291",
+  "word_count": 159,
+  "error_message": null
+}

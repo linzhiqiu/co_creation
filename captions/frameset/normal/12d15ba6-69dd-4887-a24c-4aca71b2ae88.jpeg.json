@@ -1,0 +1,12 @@
+{
+  "image_filename": "12d15ba6-69dd-4887-a24c-4aca71b2ae88.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man stands in an industrial or warehouse setting, captured from the chest up in a medium close-up shot. He wears a light blue button-down shirt beneath a bright yellow high-visibility safety vest with reflective silver stripes, signaling a work environment focused on safety. The man’s expression is serious and focused, his lips pursed in concentration as he looks down at a black tablet device held in both hands. The background is softly blurred, suggesting a spacious, dimly lit industrial interior with cool, muted tones and indistinct machinery or shelving, creating a sense of depth and professionalism. The lighting is natural and diffused, highlighting the textures of the vest and the man’s face while casting gentle shadows that add realism. The overall style is documentary-like, with a shallow depth of field that draws attention to the subject and his task, evoking a mood of diligence and modern workplace efficiency.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:44.519679",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "543404d5-7cb5-4cf9-bf43-2eda61d3ed5a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A gaunt, hollow-cheeked man with short, dark hair and a thin goatee stands in profile, facing a glass partition that creates a sharp, haunting reflection of his face. He wears a plain, light gray t-shirt, and his expression is tense, almost confrontational, as he stares intently at his own mirrored image. The background is softly blurred, with muted tones of gray, blue, and beige, evoking a sterile, clinical environment—perhaps a hospital or industrial workspace. The lighting is cold and diffused, casting minimal shadows and enhancing the pallor of the man's skin, contributing to an atmosphere of psychological unease. The composition is symmetrical, with the man and his reflection occupying equal halves of the frame, emphasizing themes of duality and introspection. The camera angle is at eye level, with a shallow depth of field that keeps the focus tightly on the subject and his reflection, while the background fades into obscurity. The overall style is minimalist and somber, with a desaturated color palette and a cinematic, almost voyeuristic quality, evoking a sense of isolation and inner turmoil.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:29.750649",
+  "word_count": 176,
+  "error_message": null
+}

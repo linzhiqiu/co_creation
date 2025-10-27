@@ -1,0 +1,12 @@
+{
+  "image_filename": "6338b8f3-2474-4a74-9381-429bb1e495d5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, documentary-style scene at a drive-thru window, captured from the perspective of someone sitting in a car. The composition centers on the interaction between two hands: on the left, a drive-thru worker’s arm, dressed in a dark short-sleeve shirt, extends a handheld barcode scanner toward the window. On the right, a customer’s hand, adorned with a simple bracelet, holds out a smartphone displaying a QR code on its screen, ready to be scanned. The background features the red metal frame of the drive-thru window, with muted beige and gray wall panels, and a glimpse of the restaurant’s interior in soft focus. The lighting is natural daylight, diffused and even, lending a realistic, unfiltered look to the scene. The color palette is understated, with neutral tones punctuated by the red window frame and the subtle glow of the phone screen. The camera angle is slightly oblique, emphasizing the transaction and the anticipation of digital payment, with a shallow depth of field that keeps the focus on the hands and devices, blurring the background for a sense of immediacy and intimacy. The overall mood is modern, efficient, and quietly transactional, evoking the everyday ritual of contactless payment in contemporary life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:30.961498",
+  "word_count": 199,
+  "error_message": null
+}

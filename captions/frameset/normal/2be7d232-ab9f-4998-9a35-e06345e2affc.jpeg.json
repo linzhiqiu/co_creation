@@ -1,0 +1,12 @@
+{
+  "image_filename": "2be7d232-ab9f-4998-9a35-e06345e2affc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic close-up of a high-performance motorcycle’s front wheel and suspension system. The composition should focus on the intricate details of the metallic disc brake, caliper, and fork, with sharp, crisp lines and a sense of mechanical precision. The lighting is dramatic and moody, with cool blue highlights and deep shadows, emphasizing the textures of brushed metal, rubber, and carbon fiber. The background is almost entirely black, creating a sense of depth and isolating the subject, while subtle reflections and glints on the metal surfaces add a dynamic, high-tech feel. The camera angle is low and intimate, capturing the wheel at a slight diagonal, with a shallow depth of field that blurs the background and draws attention to the engineering details. The overall style is sleek, modern, and evocative of a luxury automotive advertisement, conveying speed, power, and sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:52.997756",
+  "word_count": 141,
+  "error_message": null
+}

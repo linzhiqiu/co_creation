@@ -1,0 +1,12 @@
+{
+  "image_filename": "2961d329-c4d3-4850-a76d-7d79412d70e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow-focus shot of an old CRT television screen displaying a weightlifting competition. The image is slightly angled, emphasizing the curvature and scan lines of the TV, with visible RGB pixelation and a soft, analog glow. The main subject on the screen is a weightlifter in a deep squat, gripping a barbell with large red weights, poised to lift. The athlete’s body is stylized and somewhat abstracted by the screen’s low resolution, with bold, contrasting colors—primarily deep blues, vibrant reds, and warm oranges—dominating the scene. The background features vertical blue and white stripes and partially legible text, evoking the atmosphere of an international sports event. The lighting is dim and moody, with the TV’s glow providing the primary illumination, casting a nostalgic, cinematic ambiance. The composition draws attention to the tactile texture of the screen, evoking a sense of vintage technology and the intimate experience of watching sports broadcasts in the pre-digital era.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:58.239947",
+  "word_count": 154,
+  "error_message": null
+}

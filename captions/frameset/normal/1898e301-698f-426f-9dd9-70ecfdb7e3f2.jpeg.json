@@ -1,0 +1,12 @@
+{
+  "image_filename": "1898e301-698f-426f-9dd9-70ecfdb7e3f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, cinematic outdoor scene set in an urban park at dusk. The composition is symmetrical, as if the image has been mirrored down the center, creating a dreamlike, almost uncanny effect. In the foreground, two identical figures stand facing the camera, each wearing a dark, knee-length coat and striking red pants, with their hair pulled back. Their expressions are neutral, almost enigmatic, and they stand motionless, adding to the surreal atmosphere.\n\nBehind them, wide stone steps lead up to a row of leafless trees, their bare branches silhouetted against a pale, overcast sky. In the distance, tall apartment buildings loom, their muted brown tones blending into the subdued color palette of the scene. The lighting is soft and diffuse, with cool blue and gray tones dominating, evoking a quiet, contemplative mood. The overall style is reminiscent of an art-house film, with a wide aspect ratio, deep depth of field, and a focus on symmetry and stillness. The mood is introspective and slightly mysterious, inviting the viewer to question the reality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:58.169180",
+  "word_count": 175,
+  "error_message": null
+}

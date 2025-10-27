@@ -1,0 +1,12 @@
+{
+  "image_filename": "37a6a81c-7f36-4e2a-b120-158fad87c52f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A gritty, cinematic scene set in a dimly lit, industrial warehouse at night. The foreground is dominated by an older man with weathered features and gray hair, partially illuminated by a warm, moody light. He is slumped against a rough, concrete surface, clutching a handgun tightly, his expression tense and pained, eyes squeezed shut as if in agony or exhaustion. The background is blurred, with soft, golden bokeh from overhead industrial lights casting a hazy glow across the cavernous space. A red van is faintly visible in the distance, adding a pop of color to the otherwise muted, earthy palette of browns, ochres, and deep shadows. The composition uses a shallow depth of field, focusing tightly on the man's face and weapon, while the rest of the environment fades into atmospheric obscurity. The overall style is reminiscent of a neo-noir thriller, with dramatic, low-key lighting and a sense of suspense and vulnerability.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:12.229192",
+  "word_count": 152,
+  "error_message": null
+}

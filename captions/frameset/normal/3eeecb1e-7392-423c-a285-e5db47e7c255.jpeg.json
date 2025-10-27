@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eeecb1e-7392-423c-a285-e5db47e7c255.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone gunslinger crouches low in a golden wheat field under a vast, open sky, aiming a long rifle directly at the viewer. He wears a wide-brimmed black hat and dark clothing, his intense gaze focused and determined, partially obscured by the tall, sunlit stalks. In the background, a second figure stands upright, draped in a heavy, dark fur coat with a wide-brimmed hat, exuding a rugged, frontier presence. Behind them, distant snow-capped mountains rise against a horizon of rolling hills, while fluffy white clouds drift across the brilliant blue sky. The color palette is rich and cinematic, dominated by warm golds and cool blues, with high-contrast natural lighting that casts crisp shadows and highlights the textures of the wheat and clothing. The composition uses a shallow depth of field, keeping the foreground figure sharply in focus while the background softens, creating a sense of tension and anticipation. The camera angle is low and immersive, placing the viewer at eye level with the gunslinger, evoking the suspense and drama of a classic Western film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:56.470084",
+  "word_count": 174,
+  "error_message": null
+}

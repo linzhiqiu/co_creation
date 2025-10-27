@@ -1,0 +1,12 @@
+{
+  "image_filename": "53f38709-a14a-4097-9b56-195247e7798f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic urban scene at golden hour, viewed through the lens of a handheld mirror. The main focus is the reflection of a modern glass office building, its facade catching the warm, orange glow of the setting sun. The building’s geometric lines and reflective surfaces are sharply rendered in the mirror, creating a striking contrast with the softer, out-of-focus background. Surrounding the mirror’s reflection, the cityscape is visible: palm trees, mid-century white apartment buildings, and a busy multilane road with cars in motion, all slightly blurred to emphasize the mirror’s clarity. The color palette is dominated by warm golds and cool blues, with the sunlight casting dramatic highlights and long shadows. The composition is dynamic, with the mirror held off-center, creating a sense of movement and spontaneity. The overall style is reminiscent of contemporary street photography or an indie film still, with shallow depth of field, natural lighting, and a focus on urban textures and reflections.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:22.713672",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "57ef0026-6003-4100-9ee9-5510c5809e2d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single basketball sits motionless at the center of a dimly lit outdoor court at night. The scene is captured from a low, eye-level angle, placing the viewer almost on the ground, with the basketball dominating the foreground. The court’s surface is dark, with faintly visible white boundary lines intersecting beneath the ball, adding subtle geometric structure to the composition. The lighting is moody and atmospheric, casting soft, diffused shadows and creating a sense of quiet isolation. The color palette is muted, with deep blues and grays enveloping the scene, while the basketball’s warm brown hue stands out as the focal point. The background fades into darkness, with only hints of the court’s edges visible, emphasizing the solitude of the ball. The overall style is cinematic, evoking a contemplative, almost melancholic mood, as if capturing a moment of stillness after a game has ended.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:03.151043",
+  "word_count": 144,
+  "error_message": null
+}

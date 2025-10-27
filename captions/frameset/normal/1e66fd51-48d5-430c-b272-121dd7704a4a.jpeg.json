@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e66fd51-48d5-430c-b272-121dd7704a4a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a car dashboard at night, focusing on the speedometer and digital displays. The speedometer needle is pointing just above 60 mph, illuminated by the soft, bluish glow of the dashboard lights. The digital readouts on the right side emit a greenish-yellow light, displaying numbers and symbols, while the rest of the dashboard fades into deep shadows, creating a moody, cinematic atmosphere. The lighting is low and dramatic, with high contrast between the illuminated dials and the surrounding darkness. The composition is tight, with the camera angle slightly off-center, emphasizing the sense of motion and urgency. The overall color palette is dominated by cool blues and greens, with subtle hints of orange from the speedometer needle, evoking a tense, nocturnal driving scene reminiscent of a neo-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:04.298273",
+  "word_count": 130,
+  "error_message": null
+}

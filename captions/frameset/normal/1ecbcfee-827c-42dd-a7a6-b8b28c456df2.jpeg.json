@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ecbcfee-827c-42dd-a7a6-b8b28c456df2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a striking, ultra-minimalist architectural scene set inside a vast, futuristic atrium. The composition is symmetrical, with the camera positioned low and centered, looking upward toward a soaring, geometric ceiling. The structure features sweeping, angular lines and ribbed, skeletal beams that converge in a dramatic V-shape, evoking the wings of a bird or the hull of a spaceship. The color palette is almost entirely white, with soft, diffuse natural light flooding the space through large, translucent windows, creating a serene, ethereal atmosphere. In the center of the scene, a solitary human figure dressed in white stands dwarfed by the monumental scale of the architecture, emphasizing the sense of awe and spaciousness. The overall style is clean, modern, and cinematic, with high-key lighting, subtle shadows, and a sense of infinite openness. The mood is tranquil, contemplative, and futuristic, with a focus on purity, symmetry, and the interplay of light and structure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:13.940943",
+  "word_count": 151,
+  "error_message": null
+}

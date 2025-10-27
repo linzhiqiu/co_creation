@@ -1,0 +1,12 @@
+{
+  "image_filename": "48aa3056-833a-463a-84de-164ce6f3033e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A female mechanic stands in a brightly lit, modern auto repair shop, positioned in front of a white van with its hood open. She wears a black work jacket and clear safety glasses, her hair pulled back in a practical style. Her expression is focused and professional as she operates a yellow cordless power drill on a dark automotive part placed on a white workbench. The background is clean and minimal, with soft natural light streaming in from large windows, casting gentle shadows and highlighting the crisp, organized environment. The color palette is dominated by whites, blacks, and grays, with subtle yellow accents from the tools. The composition is balanced, with the mechanic slightly off-center, the van’s open hood framing her workspace, and the overall scene captured at eye level with a shallow depth of field that keeps the subject in sharp focus while softly blurring the background. The mood is industrious and calm, evoking a sense of precision and modern professionalism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:09.422554",
+  "word_count": 162,
+  "error_message": null
+}

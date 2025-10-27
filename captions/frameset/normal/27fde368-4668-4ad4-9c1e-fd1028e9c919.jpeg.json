@@ -1,0 +1,12 @@
+{
+  "image_filename": "27fde368-4668-4ad4-9c1e-fd1028e9c919.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle shot of a high-rise apartment building at sunset, with the camera positioned to capture the building’s edge in sharp profile against a glowing, golden sky. The sun is low, casting a warm, amber backlight that silhouettes the repeating pattern of balconies, railings, and window frames, creating dramatic contrasts and elongated shadows. The right side of the frame is dominated by the dark, vertical mass of the building, while the left side opens into a soft, hazy expanse of sky, subtly streaked with a few horizontal power lines that add depth and urban context. The overall color palette is rich in warm golds, deep browns, and soft oranges, evoking a tranquil, contemplative mood. The lighting is natural and diffused, with the sun just out of frame, producing a gentle lens flare and a sense of quiet stillness. The composition emphasizes symmetry and repetition, with a strong sense of verticality and urban solitude, reminiscent of minimalist architectural photography or a contemplative scene from an art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:25.485504",
+  "word_count": 167,
+  "error_message": null
+}

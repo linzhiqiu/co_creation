@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e39c6e3-84dd-4be2-8343-eea86026116b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene of a lone runner silhouetted against a vast, open landscape at dusk. The subject is mid-stride, their form sharply outlined by the fading twilight, with no visible facial features or clothing details—just a strong, dark silhouette. The background features a low horizon of sparse, bushy vegetation, possibly acacia trees, stretching across the frame. The sky dominates the composition, transitioning smoothly from deep indigo at the top to a soft, glowing gradient of pale blue and warm orange near the horizon, evoking the tranquil yet dramatic atmosphere of early evening. The lighting is natural and low, emphasizing the contrast between the dark foreground and the luminous sky. The overall style is minimalist and contemplative, with a wide aspect ratio and a shallow depth of field that keeps the runner and the landscape in crisp focus while the sky remains smooth and ethereal. The mood is serene, solitary, and quietly powerful, capturing the essence of endurance and freedom in nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:35.992888",
+  "word_count": 162,
+  "error_message": null
+}

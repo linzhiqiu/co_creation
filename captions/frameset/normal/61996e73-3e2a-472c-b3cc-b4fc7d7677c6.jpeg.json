@@ -1,0 +1,12 @@
+{
+  "image_filename": "61996e73-3e2a-472c-b3cc-b4fc7d7677c6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in the center of a vast, ultra-modern, minimalist room with gleaming, reflective white floors and seamless curved walls. The person, dressed in dark, simple clothing, faces away from the viewer, gazing out through an enormous panoramic window that stretches across the entire length of the room. Beyond the glass, a breathtaking landscape of rugged, snow-capped mountains and rolling green hills unfolds under a soft, overcast sky, creating a serene yet dramatic backdrop.\n\nTo the left of the figure, a sleek, futuristic drum set sits on the polished floor, while to the right, a grand piano adds a touch of elegance and artistry. The room is sparsely furnished, emphasizing the sense of space and tranquility. The lighting is natural and diffused, casting soft shadows and subtle reflections on the glossy surface, enhancing the ethereal, contemplative mood. The overall color palette is cool and subdued, dominated by whites, grays, and muted earth tones from the landscape outside.\n\nThe composition is cinematic, with a wide-angle perspective and a low camera angle that accentuates the scale and emptiness of the interior, drawing the eye toward the distant mountains. The atmosphere is one of quiet introspection, blending futuristic architecture with the timeless beauty of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:55.890871",
+  "word_count": 204,
+  "error_message": null
+}

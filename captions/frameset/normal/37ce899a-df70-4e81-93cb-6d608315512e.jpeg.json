@@ -1,0 +1,12 @@
+{
+  "image_filename": "37ce899a-df70-4e81-93cb-6d608315512e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, minimalist scene set in a stark, geometric room with warm, ochre-orange walls and floor. The space is defined by sharp lines and three large, arched doorways—two on the right wall and one on the left—framing the composition with a sense of symmetry and depth. In the center of the room, a smooth, metallic, abstract object floats midair, its organic, Mobius-like form contrasting with the rigid architecture. \n\nA single human figure, painted entirely in matte white and wearing a form-fitting bodysuit that obscures all features, stands near the right wall. The figure is caught in a dynamic pose, one arm extended as if reaching or gesturing toward the floating object, the other arm bent behind. The body language suggests tension, curiosity, or perhaps an attempt to control or interact with the object. The figure’s faceless, mannequin-like appearance adds an uncanny, futuristic quality.\n\nSoft, diffused lighting casts gentle shadows, emphasizing the room’s depth and the smooth surfaces of both the walls and the floating object. The color palette is dominated by warm oranges and cool metallic blues, with subtle teal highlights from the curtains partially visible at the edges of the scene. The overall style is cinematic and highly stylized, evoking a sense of mystery and otherworldliness, with a wide-angle perspective and a shallow depth of field that keeps the focus on the central action and the interplay between human and object.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:19.728576",
+  "word_count": 232,
+  "error_message": null
+}

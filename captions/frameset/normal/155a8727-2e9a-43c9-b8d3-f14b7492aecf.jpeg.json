@@ -1,0 +1,12 @@
+{
+  "image_filename": "155a8727-2e9a-43c9-b8d3-f14b7492aecf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic science fiction landscape set on an alien planet under a dusky, violet-hued sky. The foreground features a barren, rocky desert with subtle undulations and scattered boulders, rendered in muted earth tones and deep shadows. Dominating the upper frame are massive, angular, futuristic structures—one is a colossal, inverted pyramid suspended in the air, its tip glowing with a mysterious white light, while another monolithic building juts in from the left, both casting imposing silhouettes. In the distance, a ringed gas giant looms on the horizon, partially obscured by atmospheric haze, accompanied by a hovering, disc-shaped spacecraft. The lighting is low and atmospheric, with soft gradients of purple and blue, evoking a sense of otherworldly twilight. The overall composition is wide and panoramic, emphasizing the scale and isolation of the environment, with a subtle sense of depth created by the layering of foreground, midground, and background elements. The mood is enigmatic and awe-inspiring, blending elements of classic sci-fi art with a modern, cinematic sensibility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:44.777374",
+  "word_count": 165,
+  "error_message": null
+}

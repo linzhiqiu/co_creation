@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e3219b0-3746-4997-9a33-f05d3a5fa531.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of two young men outdoors at golden hour, bathed in warm, diffused sunlight. The foreground subject sits or crouches, turned in profile with a contemplative, serene expression, his hand gently touching his neck. He has short, tousled dark hair and wears a textured, black faux fur jacket that catches the soft light, adding depth and tactile interest. In the background, slightly out of focus, stands a second figure dressed in a color-blocked windbreaker jacket in shades of blue, white, and pink, paired with loose, pale pink trousers. The background is minimal, featuring a blurred wooden structure and hints of greenery, with the sky glowing in soft pastel hues of peach and blue. The composition uses a shallow depth of field, emphasizing the foreground subject while creating a dreamy, atmospheric mood. The overall style is modern and fashion-forward, with a gentle, introspective tone reminiscent of indie film stills or editorial photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:00.452172",
+  "word_count": 153,
+  "error_message": null
+}

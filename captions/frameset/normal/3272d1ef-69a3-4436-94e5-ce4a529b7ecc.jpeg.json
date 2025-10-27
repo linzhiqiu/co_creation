@@ -1,0 +1,12 @@
+{
+  "image_filename": "3272d1ef-69a3-4436-94e5-ce4a529b7ecc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene featuring the silhouette of a lone dancer striking a graceful, expressive pose against a dramatic sunset sky. The subject is positioned off-center, their body arched with one arm extended overhead, capturing a sense of fluid motion and elegance. The background transitions from deep indigo at the top to warm orange and gold hues near the horizon, evoking the tranquil yet powerful atmosphere of dusk. The lighting is soft and natural, with the figure rendered entirely in shadow, emphasizing the contours and dynamic lines of the pose. The overall style is minimalist and evocative, with a shallow depth of field that keeps the focus on the dancer’s silhouette while the sky remains softly blended. The mood is contemplative and serene, reminiscent of an artful still from an independent film or a fine art photograph.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:12.830817",
+  "word_count": 137,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1aa5690a-2465-47f3-81f2-70f97f8dc644.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a vast, dimly lit industrial warehouse with towering concrete pillars and an expansive, empty floor. In the center of the frame, two contemporary dancers perform a dramatic lift: one dancer, dressed in dark, fitted clothing, stands firmly on the ground, arms extended upward, while the other dancer, wearing a muted, sleeveless outfit, is suspended high in the air, body elongated and parallel to the ground, as if caught in mid-flight. The lighting is minimal and moody, casting deep shadows and emphasizing the stark, cold atmosphere of the space. The color palette is dominated by cool grays and desaturated blues, enhancing the sense of isolation and intensity. The camera is positioned at a distance, using a wide shot to capture the scale of the environment and the smallness of the figures within it. The overall style is minimalist and atmospheric, with a strong sense of stillness and tension, evoking the feeling of a contemporary dance performance in an abandoned, urban setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:40.256368",
+  "word_count": 167,
+  "error_message": null
+}

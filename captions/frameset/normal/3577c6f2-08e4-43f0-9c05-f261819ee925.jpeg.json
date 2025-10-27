@@ -1,0 +1,12 @@
+{
+  "image_filename": "3577c6f2-08e4-43f0-9c05-f261819ee925.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a busy urban highway interchange during daylight, captured from directly overhead. The main focus is a wide, multi-lane bridge packed with dense traffic, featuring rows of cars, buses, and a few yellow taxis, all moving in both directions. The vehicles are arranged in neat, almost geometric patterns, creating a sense of organized chaos. The bridge is flanked by a green-roofed structure on one side and a construction site with visible machinery and materials on the other, adding layers of urban complexity. Surrounding roads curve and intersect beneath the bridge, with patches of greenery and water visible at the edges, providing contrast to the concrete and asphalt. The color palette is dominated by muted grays and blues of the roads and bridge, punctuated by the varied colors of the vehicles and the green roof. The lighting is natural and even, suggesting a clear day, with no harsh shadows. The overall style is documentary and cinematic, with a sharp focus and deep depth of field, emphasizing the scale and intricacy of city infrastructure from a bird’s-eye perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:23.338273",
+  "word_count": 180,
+  "error_message": null
+}

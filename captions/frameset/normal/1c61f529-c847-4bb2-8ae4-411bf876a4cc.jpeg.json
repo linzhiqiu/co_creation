@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c61f529-c847-4bb2-8ae4-411bf876a4cc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of an outstretched human hand, palm facing outward, set against the backdrop of tall, modern city buildings. The hand is positioned in the lower left quadrant of the frame, with fingers slightly spread, capturing the subtle details of skin texture and natural creases. The background is softly blurred, emphasizing the hand as the focal point while suggesting an urban environment with glass and concrete facades in cool, muted tones of blue, gray, and off-white. The lighting is natural and diffused, likely from an overcast sky, creating gentle shadows and a soft, contemplative mood. The composition uses a shallow depth of field to isolate the subject, lending a cinematic quality reminiscent of introspective or dramatic film scenes. The overall style is realistic and evocative, with a sense of quiet anticipation or longing conveyed through the gesture and the urban setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:16.891592",
+  "word_count": 142,
+  "error_message": null
+}

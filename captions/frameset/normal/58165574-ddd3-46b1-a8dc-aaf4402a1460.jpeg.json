@@ -1,0 +1,12 @@
+{
+  "image_filename": "58165574-ddd3-46b1-a8dc-aaf4402a1460.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A meticulously composed storefront window display, viewed from a slightly low, eye-level angle, showcases multiple copies of the book \"A Brief History of Time\" by Stephen W. Hawking. The books are arranged in neat, horizontal rows, their glossy covers featuring a portrait of Stephen Hawking seated, with a contemplative expression, set against a blurred, scholarly background. The color palette is subdued and intellectual, dominated by whites, muted greens, and soft browns, with the book titles in bold, clear lettering. The lighting is natural and diffused, casting gentle reflections on the glass and creating a sense of depth and realism. The overall style is cinematic, with a shallow depth of field that softly blurs the background and edges, drawing the viewer’s focus to the repetition of the book covers and the subtle play of light on the glass. The mood is thoughtful and academic, evoking the quiet anticipation of discovery in a classic bookshop setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:07.423187",
+  "word_count": 154,
+  "error_message": null
+}

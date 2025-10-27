@@ -1,0 +1,12 @@
+{
+  "image_filename": "5717f47e-8d22-4b36-ae31-b1fc145221ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid 1990s ceremony scene: a woman in a brown leather jacket and skirt shakes hands with a suited man across a blue-draped table, flanked by two other men in suits. The setting is a modest, fluorescent-lit room with white plastic chairs, evoking a formal yet intimate atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:39.089170",
+  "word_count": 48,
+  "error_message": null
+}

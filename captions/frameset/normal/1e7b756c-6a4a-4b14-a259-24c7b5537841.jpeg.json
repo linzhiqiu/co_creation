@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e7b756c-6a4a-4b14-a259-24c7b5537841.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, cinematic image of an industrial textile factory interior, focusing on a close-up, symmetrical view of several large, horizontal spinning machines. The machines are filled with rows of cylindrical spools wrapped in reddish-brown and cream-colored thread, aligned in parallel layers. Thin, taut threads stretch vertically between the spools, creating a rhythmic, geometric pattern across the frame. The background is softly blurred, hinting at the scale and depth of the factory space, with muted green and metallic tones. The lighting is warm and diffused, casting gentle highlights on the metal surfaces and threads, evoking a sense of quiet industry and precision. The overall color palette is earthy and industrial, with subdued browns, creams, and metallic grays. The composition is balanced and orderly, with a shallow depth of field that draws attention to the texture and repetition of the machinery, capturing the mechanical beauty and calm atmosphere of the textile production process.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:08.161692",
+  "word_count": 153,
+  "error_message": null
+}

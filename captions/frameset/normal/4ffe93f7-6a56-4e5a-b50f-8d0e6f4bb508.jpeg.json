@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ffe93f7-6a56-4e5a-b50f-8d0e6f4bb508.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, symmetrical landscape featuring a large industrial power plant with two tall smokestacks at the center, both emitting thick white plumes of smoke that rise vertically into a clear, vibrant blue sky. The plant is surrounded by a mix of industrial buildings and infrastructure, all rendered with sharp clarity. The background consists of a dense forest of green and autumnal trees stretching to the horizon, with rolling hills and a river or body of water visible in the distance, reflecting the sky. The image is shot from an elevated, wide-angle perspective, creating a sense of grandeur and scale, while the perfect symmetry of the composition gives the scene a surreal, almost mirrored quality. The color palette is dominated by natural greens, browns, and blues, contrasted by the stark white smoke and the muted grays of the industrial structures. The lighting is bright and natural, suggesting midday, with crisp shadows and high visibility. The overall style is hyperrealistic with cinematic qualities, emphasizing both the beauty of the landscape and the imposing presence of human industry.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:54.789081",
+  "word_count": 176,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "219ccc46-0a22-4218-885b-32e784d63506.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, high-contrast black and white photograph of a female dancer captured mid-leap against a pitch-black background. The subject is seen from behind and slightly to the side, her long hair flying dramatically through the air, emphasizing the energy and motion of the jump. She wears form-fitting, modern athletic clothing with subtle textural details, such as ribbed panels on the leggings and a fitted jacket. Her arms are outstretched, and her body is angled diagonally across the frame, creating a sense of movement and freedom. The lighting is stark and directional, highlighting the contours of her body and the texture of her hair while leaving the background in deep shadow, isolating the figure and enhancing the sense of motion. The overall style is cinematic and expressive, with a shallow depth of field that keeps the dancer in sharp focus while the background remains completely black, evoking a sense of power, grace, and intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:10.759833",
+  "word_count": 154,
+  "error_message": null
+}

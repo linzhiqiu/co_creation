@@ -1,0 +1,12 @@
+{
+  "image_filename": "432d6881-5b41-4736-92ef-0375c2b85795.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a black-and-white newspaper obituary section, with a particular notice prominently circled in thick black marker. The obituary reads: \"MORGAN, Rudolph. Age 58. Died suddenly Monday at twelve noon. Services at Masonic Lodge No. 721, Wednesday. Survived by his beloved wife, Pearl.\" The text is crisp and clear, with the surrounding obituaries partially visible but out of focus, emphasizing the circled entry. The lighting is even and soft, creating a neutral, documentary feel. The overall style is reminiscent of classic film noir or mid-20th-century cinema, with a high-contrast monochrome palette and a slightly grainy texture that evokes a sense of nostalgia and gravity. The composition centers the circled obituary, drawing the viewer’s attention immediately to the highlighted text, while the rest of the page fades subtly into the background, enhancing the sense of importance and intimacy in the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:21.387136",
+  "word_count": 142,
+  "error_message": null
+}

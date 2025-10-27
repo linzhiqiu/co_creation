@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b2fe69c-6578-4cd5-bb2f-a4c59f2b511c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage analog Gz meter, prominently displaying its black dial with white numerals and tick marks ranging from -2 to 10. The needle is pointing just below zero, indicating a neutral or slightly negative reading. The face of the meter is labeled \"Gz Meter\" at the top and \"ACCELERATION UNITS\" in smaller text at the center. The device is encased in a square, white metal housing with visible screws at the corners and two metallic connectors protruding from the bottom. The background is a rich, deep red fabric, softly out of focus, providing a warm contrast to the cool, industrial look of the meter. The lighting is soft and diffused, highlighting the textures of the metal and the subtle reflections on the glass face, while casting gentle shadows that add depth. The composition is centered and symmetrical, with a shallow depth of field that isolates the instrument, evoking a sense of precision and technical focus. The overall style is cinematic and documentary-like, with a color palette dominated by blacks, whites, silvers, and the striking red backdrop.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:56.420320",
+  "word_count": 180,
+  "error_message": null
+}

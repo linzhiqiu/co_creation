@@ -1,0 +1,12 @@
+{
+  "image_filename": "50d82aeb-c90c-4c82-b74a-fc40d36d4874.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A windswept desert landscape at dusk, captured with a dynamic, slightly tilted camera angle that creates a sense of motion and urgency. The foreground is dominated by a sandy slope, its surface marked by subtle ridges and shadows, leading the viewer’s eye toward the horizon. Sparse, leafless trees with gnarled branches stand silhouetted against the fading light, their forms stark and dramatic. The sun is low, partially obscured by the distant hills, casting a warm, golden glow that diffuses through a hazy sky filled with soft, muted clouds. The color palette is subdued and earthy, with tones of beige, gray, and brown, contrasted by the gentle warmth of the sunlight. The overall style is cinematic and atmospheric, evoking a sense of solitude and quiet beauty, with a shallow depth of field that keeps the focus on the interplay of light and shadow across the sand and trees.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:14.307858",
+  "word_count": 147,
+  "error_message": null
+}

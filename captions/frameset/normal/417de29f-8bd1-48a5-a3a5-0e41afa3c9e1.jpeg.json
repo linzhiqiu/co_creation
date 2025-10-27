@@ -1,0 +1,12 @@
+{
+  "image_filename": "417de29f-8bd1-48a5-a3a5-0e41afa3c9e1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a dynamic, high-resolution digital artwork depicting a futuristic, abstract view inside a computer or advanced electronic system. The composition is centered on a radiant, glowing white-blue light source at the vanishing point, suggesting a powerful energy core or data hub. Radiating outward from this center, intricate neon-blue circuit lines and pathways stretch in all directions, converging toward the viewer and creating a dramatic sense of depth and motion. The circuit patterns are detailed and complex, with subtle glowing nodes and connections, evoking the look of a high-tech motherboard or data network. The color palette is dominated by cool tones—electric blues, cyans, and whites—contrasted against a dark, shadowy background that enhances the luminous effect. The overall style is sleek, cinematic, and slightly surreal, with a strong sense of perspective and a slight blur or glow to emphasize speed and energy. The lighting is intense at the center, gradually fading toward the edges, immersing the viewer in a visually striking, high-tech digital world.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:49.690405",
+  "word_count": 163,
+  "error_message": null
+}

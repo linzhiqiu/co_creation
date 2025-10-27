@@ -1,0 +1,12 @@
+{
+  "image_filename": "23d5c3da-d146-40d7-acc7-b662fcae2e9b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage car’s RPM gauge, with the needle pointing just above 2,000 RPM. The dial is marked with bold white numbers and tick marks, set against a dark, slightly textured background that suggests age and wear. The lighting is soft and diffused, casting a muted, almost cinematic haze over the scene, with subtle greenish-blue undertones that evoke a moody, introspective atmosphere. The focus is shallow, with the foreground and background gently blurred, drawing the viewer’s attention to the crisp details of the gauge face and the needle. The composition is tight and intimate, filling the frame with the instrument panel and creating a sense of anticipation or quiet tension, as if capturing a fleeting moment inside a moving vehicle. The overall style is reminiscent of a contemplative road movie or a noir-inspired film, emphasizing texture, subdued color, and a sense of stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:01.734402",
+  "word_count": 146,
+  "error_message": null
+}

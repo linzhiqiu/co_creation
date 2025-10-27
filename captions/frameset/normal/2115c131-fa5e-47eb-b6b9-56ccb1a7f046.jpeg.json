@@ -1,0 +1,12 @@
+{
+  "image_filename": "2115c131-fa5e-47eb-b6b9-56ccb1a7f046.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man stands with his back to the viewer, painting a large, rectangular patch of pale blue on a plain, light gray wall. He wears a casual, long-sleeved blue shirt and dark jeans, his posture relaxed and focused as he applies paint with a roller. The room is softly lit by natural daylight streaming through a window with sheer white curtains on the left, casting a gentle, diffused glow that enhances the calm, contemplative mood. The composition is simple and uncluttered, with the man centered in the frame and the unfinished blue paint creating a striking contrast against the neutral wall. The overall style is realistic and understated, with a muted color palette dominated by cool blues and grays. The camera angle is at eye level, directly behind the subject, creating a sense of quiet intimacy and inviting the viewer to share in this solitary, creative moment. The depth of field is moderate, keeping both the man and the wall in clear focus, while the soft lighting and minimal background details evoke a serene, almost meditative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:57.023379",
+  "word_count": 177,
+  "error_message": null
+}

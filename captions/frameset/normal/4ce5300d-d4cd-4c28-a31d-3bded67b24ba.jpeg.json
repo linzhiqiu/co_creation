@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ce5300d-d4cd-4c28-a31d-3bded67b24ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person working at a computer, focusing on a large desktop monitor displaying a minimalist document editor. The screen shows a draft presentation or article titled \"The Next Big Step in Socks,\" with the subtitle \"The amazing thing about socks is\" in simple black text on a white background. The person, partially visible in the foreground, wears a maroon shirt, their face out of focus and turned toward the screen, emphasizing the act of creation and concentration. The desktop interface features multiple overlapping windows, including a web browser and email drafts, set against a dark blue, starry night-themed wallpaper. The lighting is soft and natural, suggesting a calm, productive workspace. The color palette is dominated by cool blues and whites from the screen, contrasted by the warm maroon of the shirt. The composition uses shallow depth of field to blur the foreground and background, drawing the viewer’s eye to the crisp, clear text on the monitor, evoking a sense of focus, modernity, and quiet anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:42.112992",
+  "word_count": 170,
+  "error_message": null
+}

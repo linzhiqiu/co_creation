@@ -1,0 +1,12 @@
+{
+  "image_filename": "59d248ae-4c7e-46a7-b011-13c52eb71bad.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage analog VU (volume unit) meter, prominently displaying the brand \"TEAC\" in bold black letters at the center. The meter’s needle is dramatically angled to the far right, deep into the red zone, suggesting a high audio level or signal overload. The background is dark, with the lower half of the meter face shrouded in shadow, while the upper half is softly illuminated by a warm, amber backlight that creates a nostalgic, cinematic glow. The color palette is dominated by rich oranges, reds, and deep blacks, evoking a retro, analog atmosphere. The glass face of the meter reflects subtle highlights, adding depth and realism. The composition is symmetrical and tightly framed, focusing entirely on the meter’s dial and markings, with no extraneous elements. The overall style is reminiscent of classic studio equipment photography, with a moody, almost film noir quality, and a shallow depth of field that keeps the viewer’s attention fixed on the needle and the illuminated scale.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:49.849040",
+  "word_count": 164,
+  "error_message": null
+}

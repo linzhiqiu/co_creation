@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c020e58-dccb-478c-8d16-8282afe5b8e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a dimly lit, minimalist room with a strong sense of negative space. The focal point is an old-fashioned, stacked CRT television and VCR unit placed on a simple, dark stand. On the screen, display a young woman with long, dark hair, wearing a casual dark t-shirt, smiling warmly as if engaged in a video call. Her expression is open and joyful, conveying a sense of connection and intimacy. The background behind her is softly lit and neutral, ensuring she stands out clearly. The color palette is subdued, dominated by deep shadows and muted tones, with the soft glow of the TV screen providing the primary source of light, casting a gentle illumination on the surrounding darkness. The composition is minimalist and balanced, with the vintage technology contrasting against the modern act of video chatting, evoking a nostalgic yet contemporary mood. The camera angle is straight-on, at eye level, emphasizing the subject’s presence on the screen and the isolation of the setting. The overall style is reminiscent of indie films or retro-futuristic art, with a focus on mood, atmosphere, and emotional resonance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:38.528042",
+  "word_count": 187,
+  "error_message": null
+}

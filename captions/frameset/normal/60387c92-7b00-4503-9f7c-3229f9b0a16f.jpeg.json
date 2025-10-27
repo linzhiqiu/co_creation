@@ -1,0 +1,12 @@
+{
+  "image_filename": "60387c92-7b00-4503-9f7c-3229f9b0a16f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, emotionally charged scene set in a softly lit, modest bedroom. The composition centers on a man in his late 30s to early 40s, with short dark hair, wearing a faded blue denim shirt. He is kneeling and embracing a young child protectively, his body hunched over as if shielding the child from an unseen threat. The man’s expression is tense and deeply concerned, his eyes focused downward, conveying urgency and fear. The child is mostly obscured, nestled tightly against the man’s chest, emphasizing vulnerability and the protective bond between them.\n\nThe background features a neatly made bed with a blue and white striped knitted blanket, and simple wooden furniture, suggesting a humble, lived-in home. The lighting is natural and diffused, streaming in from a window out of frame, casting a cool, bluish tone across the scene and creating soft shadows that heighten the sense of intimacy and tension. The camera angle is low and close, with a shallow depth of field that blurs the background, drawing attention to the emotional connection between the two figures. The overall style is reminiscent of a dramatic indie film, with a muted color palette and a focus on raw, authentic emotion.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:23.570386",
+  "word_count": 199,
+  "error_message": null
+}

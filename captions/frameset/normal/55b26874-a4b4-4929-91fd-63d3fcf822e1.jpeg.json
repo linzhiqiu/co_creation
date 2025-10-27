@@ -1,0 +1,12 @@
+{
+  "image_filename": "55b26874-a4b4-4929-91fd-63d3fcf822e1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hands holding a smartphone, viewed from a slightly elevated angle, as they read a text message conversation. The phone screen is brightly illuminated, displaying a messaging app with a recent exchange: a short text message, “Hey,” and a video thumbnail of a young woman lying on a bed, wearing a pink top and looking directly at the camera with a relaxed, casual expression. The person holding the phone has dark skin and wears a gold ring on their right hand. The background is softly blurred, revealing hints of a diner setting—an out-of-focus red plastic basket with food and a white drink cup on a table, all bathed in warm, ambient lighting. The overall color palette is warm and natural, with golden and beige tones dominating the scene. The composition emphasizes intimacy and immediacy, with a shallow depth of field drawing attention to the phone screen and the hands, while the background details remain indistinct, evoking a candid, cinematic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:07.132534",
+  "word_count": 165,
+  "error_message": null
+}

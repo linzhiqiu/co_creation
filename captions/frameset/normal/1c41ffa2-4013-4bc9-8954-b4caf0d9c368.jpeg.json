@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c41ffa2-4013-4bc9-8954-b4caf0d9c368.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure walks along a quiet, empty street bordered by a long, white wall with classical architectural details. The person, dressed in light-colored clothing, stands out against the muted tones of the scene, their posture relaxed as they move beneath a row of vintage street lamps. Behind the wall, a striking glass-and-steel structure rises, its arched roof contrasting with the ornate, historic buildings in the background, which feature grand facades, columns, and sculptural decorations. The image is rendered in crisp black and white, lending a timeless, contemplative atmosphere. The lighting is soft and diffuse, suggesting an overcast day, with gentle shadows and a balanced exposure that highlights architectural textures. The composition is carefully framed from an elevated vantage point, creating a sense of depth and leading the viewer’s eye along the street toward the distant, majestic buildings. The overall style is cinematic and elegant, evoking a sense of solitude and quiet grandeur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:12.659936",
+  "word_count": 153,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "30b8549d-81e6-4624-9e91-3e22446ae816.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an extreme close-up portrait of a person's face, focusing on the area from the nose to the forehead, with particular emphasis on the eye gazing upward. The subject's skin is illuminated by a dramatic, cool-toned blue light, casting deep shadows and highlighting the texture of the skin and fine details like eyelashes and pores. The lighting creates a high-contrast, almost ethereal effect, with the eye catching a glint of light, suggesting a sense of wonder or contemplation. The background is dark and out of focus, enhancing the subject's features and adding a sense of mystery and depth. The overall mood is cinematic and introspective, with a shallow depth of field and a soft, almost surreal quality to the image. The composition should evoke a sense of awe, curiosity, or searching, as if the subject is looking toward something unknown or transcendent.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:35.228752",
+  "word_count": 142,
+  "error_message": null
+}

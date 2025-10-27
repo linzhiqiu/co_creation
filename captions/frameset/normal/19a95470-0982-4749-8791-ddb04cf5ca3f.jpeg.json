@@ -1,0 +1,12 @@
+{
+  "image_filename": "19a95470-0982-4749-8791-ddb04cf5ca3f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, cinematic scene featuring a single female figure standing confidently in the center of a dark, empty space. She is illuminated by a strong, focused spotlight that casts a sharp, elongated shadow behind her on the floor. The woman is dressed in minimal, form-fitting attire, accentuating her silhouette. Her pose is expressive and dynamic, with arms raised above her head, suggesting a sense of performance or dance. The background is completely black, creating a stark contrast with the bright, cool-toned light that envelops her, giving the scene a sense of isolation and intensity. The color palette is dominated by deep blacks and soft whites, with subtle blue undertones in the lighting. The camera angle is high and slightly off-center, looking down at the subject to emphasize her vulnerability and the vast emptiness around her. The overall style is reminiscent of theatrical or avant-garde photography, with a strong emphasis on mood, shadow play, and minimalist composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:21.097599",
+  "word_count": 157,
+  "error_message": null
+}

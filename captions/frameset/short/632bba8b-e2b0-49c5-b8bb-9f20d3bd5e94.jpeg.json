@@ -1,0 +1,12 @@
+{
+  "image_filename": "632bba8b-e2b0-49c5-b8bb-9f20d3bd5e94.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up of a gloved hand arranging wooden popsicle sticks into a metallic mold, with rows of sticks standing upright. Soft, diffused lighting creates gentle shadows, highlighting the creamy pink liquid in a container to the left. The background is dark and out of focus, evoking a meticulous, artisanal kitchen atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:27.285908",
+  "word_count": 50,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ab7346c-2efb-47d1-ab4c-1f1beab9704a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A small, humanoid robot stands on an outdoor basketball court, gripping a basketball with both hands in front of its body. The robot’s design is sleek and futuristic, with a white and gray color scheme, rounded edges, and glowing yellow eyes that give it a sense of personality and curiosity. Its posture is slightly crouched, as if preparing to dribble or make a move, and its shadow stretches across the sunlit pavement, emphasizing the midday lighting. The background features lush, green foliage and a gentle slope of earth, suggesting a park or suburban setting. The overall color palette is natural and subdued, with soft sunlight casting gentle highlights and shadows, creating a warm, inviting atmosphere. The composition is cinematic, with a shallow depth of field that keeps the robot in sharp focus while subtly blurring the background, drawing attention to the subject and its playful interaction with the basketball. The camera angle is slightly low and off-center, adding a dynamic perspective and a sense of anticipation to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:21.702592",
+  "word_count": 169,
+  "error_message": null
+}

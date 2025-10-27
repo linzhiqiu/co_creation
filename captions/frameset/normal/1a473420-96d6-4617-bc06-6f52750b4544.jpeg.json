@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a473420-96d6-4617-bc06-6f52750b4544.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-resolution image of a modern digital car dashboard display, viewed from the driver’s perspective. The central focus is a sleek, illuminated screen with a dark, glossy background, featuring a digital rendering of a car in the center. Surrounding the car graphic are detailed readouts of tire pressures in green, numeric values displayed for each tire. The top of the display shows the current speed in large white numbers, with “km/h” units, and various warning and status icons in red, orange, and yellow, including seatbelt, engine, and battery symbols. On the right, a digital clock reads “6:29 PM,” and a fuel gauge with a range indicator shows “Autonomia: 108 km.” The left side displays temperature and odometer information. The interface uses a cool color palette dominated by deep blues, greens, and whites, with accent colors for alerts. The lighting is soft and even, with a subtle reflection on the screen’s surface, evoking a high-tech, futuristic atmosphere. The composition is symmetrical and immersive, with a shallow depth of field that blurs the dashboard’s physical edges, drawing attention to the crisp, vibrant digital elements. The overall style is cinematic and modern, reminiscent of a luxury vehicle’s cockpit at dusk.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:33.401497",
+  "word_count": 198,
+  "error_message": null
+}

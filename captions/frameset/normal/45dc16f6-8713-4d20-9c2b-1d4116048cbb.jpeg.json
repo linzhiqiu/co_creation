@@ -1,0 +1,12 @@
+{
+  "image_filename": "45dc16f6-8713-4d20-9c2b-1d4116048cbb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, glossy yellow star-shaped object is centered against a clean, seamless white background. The star appears to be made of a translucent, jelly-like material, catching the light and casting a soft, diffused yellow shadow to the left. The lighting is bright and even, creating a gentle highlight on the star’s surface and emphasizing its smooth, slightly rounded edges. The overall composition is minimalist, with the star as the sole subject, evoking a sense of simplicity and focus. The color palette is limited to the vibrant yellow of the star and the pure white of the background, creating a striking visual contrast. The camera angle is directly overhead, presenting the star in perfect symmetry, while the shallow depth of field keeps the entire star in sharp focus, subtly blurring the background texture. The mood is playful and clean, reminiscent of product photography or modern graphic design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:16.674372",
+  "word_count": 146,
+  "error_message": null
+}

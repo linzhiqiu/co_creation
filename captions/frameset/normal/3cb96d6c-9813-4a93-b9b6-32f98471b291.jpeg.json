@@ -1,0 +1,12 @@
+{
+  "image_filename": "3cb96d6c-9813-4a93-b9b6-32f98471b291.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic close-up of a determined woman with strong, angular features and a ponytail, sitting against a stark white wall. She wears a simple white tank top, her expression tense and focused as she gazes intently out a barred or mesh-covered window to her right. Harsh, cold blue lighting floods the scene, casting dramatic shadows across her face and emphasizing the contours of her jaw and cheekbones. The light streaming through the window creates a striking pattern of shadows on her skin, heightening the sense of confinement and urgency. The background is minimal, with the grid of the window dominating the right side of the composition, suggesting a prison or institutional setting. The overall mood is intense and suspenseful, with a high-contrast, almost clinical color palette dominated by icy blues and whites. The camera angle is slightly low and close, enhancing the subject’s emotional intensity and the claustrophobic atmosphere. The style is reminiscent of a gritty, high-stakes thriller, with sharp focus on the subject and a shallow depth of field that blurs the background, drawing all attention to the woman’s face and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:08.233696",
+  "word_count": 190,
+  "error_message": null
+}

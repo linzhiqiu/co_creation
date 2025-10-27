@@ -1,0 +1,12 @@
+{
+  "image_filename": "5782c40f-97f5-4cf4-8c61-b056b5dd30f9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, gritty interior scene featuring a solitary man in his late twenties to early thirties, performing a pull-up in a cramped, dimly lit apartment. The man is positioned in the center foreground, gripping a metal bar mounted in a narrow doorway. He wears a faded yellow t-shirt with a red graphic print, sweat visible on his face and neck, conveying a sense of intensity and isolation. His expression is tense and focused, eyes slightly upward, jaw clenched, capturing a moment of physical exertion and psychological strain.\n\nThe background is cluttered and utilitarian, with exposed pipes, shelves holding various bottles and containers, and a single exposed lightbulb hanging from the ceiling, casting a harsh, direct glow that creates deep shadows and highlights the contours of the man's face and arms. The color palette is muted and earthy, dominated by yellows, browns, and grays, enhancing the raw, unpolished atmosphere. The camera angle is slightly low and close, emphasizing the claustrophobic environment and the subject’s physical effort. The overall style is reminiscent of 1970s urban realism, with a shallow depth of field that keeps the focus tightly on the man while the background remains softly blurred, heightening the sense of isolation and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:53.151565",
+  "word_count": 203,
+  "error_message": null
+}

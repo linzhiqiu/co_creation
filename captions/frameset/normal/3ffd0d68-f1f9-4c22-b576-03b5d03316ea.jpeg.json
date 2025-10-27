@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ffd0d68-f1f9-4c22-b576-03b5d03316ea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands gripping a classic black Atari joystick, poised to play. The subject is seated, with one knee bent and visible in the lower left of the frame, dressed in retro athletic attire: white terry cloth wristbands, pale green shorts with a subtle pattern, and white sneakers with yellow accents. The lighting is soft and cool, casting gentle shadows and highlighting the texture of the skin and fabric. The background is a smooth, muted blue floor, creating a minimalist, almost nostalgic atmosphere. The camera angle is slightly above and to the side, focusing on the hands and joystick, with a shallow depth of field that blurs the background and draws attention to the tactile interaction. The overall style evokes a vintage, 1980s sports and gaming aesthetic, with a clean, deliberate composition and a subdued, pastel color palette.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:08.765942",
+  "word_count": 143,
+  "error_message": null
+}

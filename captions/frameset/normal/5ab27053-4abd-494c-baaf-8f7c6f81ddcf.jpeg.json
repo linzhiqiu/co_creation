@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ab27053-4abd-494c-baaf-8f7c6f81ddcf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up portrait of a young Black woman with natural curly hair, wearing clear-framed glasses and a blue collared shirt. She gazes directly at the viewer with an engaged, slightly open-mouthed expression, as if speaking or delivering important information. The lighting is dramatic and futuristic, with cool blue highlights reflecting off her glasses and face, suggesting the glow of digital screens. The background is dark and minimal, with subtle, semi-transparent digital interface elements and data overlays, evoking a high-tech, sci-fi environment. The overall style is sleek and modern, with a shallow depth of field that keeps the focus sharply on her face while the background remains softly blurred. The color palette is dominated by deep blacks and luminous blues, enhancing the sense of technology and intensity. The composition is centered and symmetrical, creating a sense of immediacy and connection, as if the viewer is interacting with an advanced AI or virtual assistant.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:07.736666",
+  "word_count": 154,
+  "error_message": null
+}

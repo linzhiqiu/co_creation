@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f1d432c-5e73-4070-bd41-20a8e87baa3f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a classic detective-style evidence board, featuring a large, slightly out-of-focus map as the background. Several colored strings—red, orange, and blue—radiate outward from a central point, connecting various locations on the map in a web-like pattern. At the focal point, a bright yellow sticky note with the handwritten number \"2\" in bold, dark ink is attached to the map with two pieces of pink tape. Next to the sticky note, there are two small, slightly blurred photographs, one of which appears to show a group of animated or cartoon characters in vivid yellow and red tones. The overall image is intentionally soft-focused, creating a sense of mystery and urgency, as if the viewer is glimpsing a crucial clue in a crime investigation. The color palette is dominated by muted earth tones from the map, punctuated by the vibrant yellow of the sticky note and the colorful strings. The lighting is diffuse and natural, with no harsh shadows, enhancing the investigative, almost cinematic atmosphere. The composition is dynamic, with the converging lines of string drawing the viewer’s eye to the central cluster of clues, evoking the feeling of piecing together a complex puzzle.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:32.769409",
+  "word_count": 195,
+  "error_message": null
+}

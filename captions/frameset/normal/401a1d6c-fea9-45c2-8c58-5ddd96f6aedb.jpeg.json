@@ -1,0 +1,12 @@
+{
+  "image_filename": "401a1d6c-fea9-45c2-8c58-5ddd96f6aedb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, vintage police station interior, viewed from a low, wide camera angle that emphasizes depth and symmetry. In the foreground, two rows of heavy wooden desks are arranged in parallel, each desk cluttered with paperwork, rotary telephones, and glowing brass desk lamps that cast warm pools of light onto the otherwise shadowy room. The color palette is muted and desaturated, dominated by olive greens, deep browns, and sepia tones, evoking a mid-20th-century noir atmosphere.\n\nBeyond the desks, a large glass window spans the width of the room, separating the main office from a smaller, brightly lit interrogation or meeting room. Inside this room, a group of men in dark suits sit around a table, their postures tense and focused. One man stands at a podium or desk, addressing the seated group, his figure silhouetted against the frosted glass and harsh overhead lighting. The background is stark and institutional, with minimal decoration except for a row of coats and hats hanging on the wall and an American flag partially visible at the edge of the frame.\n\nThe overall composition is highly cinematic, with a strong sense of order and formality. The lighting creates dramatic contrasts between the shadowy foreground and the clinical brightness of the room beyond the glass, heightening the sense of surveillance and secrecy. The mood is tense, somber, and suspenseful, reminiscent of classic film noir or period crime dramas.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:14.074697",
+  "word_count": 233,
+  "error_message": null
+}

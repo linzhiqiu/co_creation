@@ -1,0 +1,12 @@
+{
+  "image_filename": "16191382-03ad-433b-b654-3953f7a4f935.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young man with fair skin and dark hair, his face filling most of the frame. He gazes slightly off-camera with a somber, contemplative expression, his lips pressed together in subtle tension. A single tear rolls down his cheek, catching the light and emphasizing the emotional intensity of the moment. The background is softly blurred with hints of green foliage, suggesting an outdoor setting and providing a natural, serene contrast to the subject’s emotional state. The lighting is natural and diffuse, highlighting the smooth texture of his skin and the glistening tear, while casting gentle shadows that add depth to his features. The overall color palette is soft and realistic, with muted earth tones and a focus on the subject’s expressive eyes. The composition is intimate and evocative, capturing a raw, vulnerable moment with a shallow depth of field and a sense of quiet drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:59.025247",
+  "word_count": 151,
+  "error_message": null
+}

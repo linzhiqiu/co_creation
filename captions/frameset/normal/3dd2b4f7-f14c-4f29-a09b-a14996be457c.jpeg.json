@@ -1,0 +1,12 @@
+{
+  "image_filename": "3dd2b4f7-f14c-4f29-a09b-a14996be457c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person using a smartphone outdoors in daylight. The main focus is on the phone’s screen, which displays an online shopping app with a product listing for a white quadcopter drone, including its price and a prominent red purchase button. The person’s hand is visible, with one finger poised to tap the button, suggesting an imminent purchase. The background is softly blurred, hinting at a sunlit sidewalk with scattered yellow leaves and a faint blue object in the distance, creating a sense of depth and natural bokeh. The color palette is clean and modern, dominated by the cool blue of the phone case, the crisp white and gray of the app interface, and the warm, neutral tones of the outdoor setting. The lighting is natural and bright, casting soft shadows and highlighting the textures of the hand and phone. The overall style is realistic and contemporary, with a shallow depth of field that draws attention to the interaction between the user and the device, evoking a moment of modern digital life and consumer convenience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:32.369056",
+  "word_count": 179,
+  "error_message": null
+}

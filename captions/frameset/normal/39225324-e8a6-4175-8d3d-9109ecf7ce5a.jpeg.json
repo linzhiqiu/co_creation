@@ -1,0 +1,12 @@
+{
+  "image_filename": "39225324-e8a6-4175-8d3d-9109ecf7ce5a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic scene viewed from inside a car, looking out through the windshield at a snow-covered forest highway. The perspective is from the front passenger seat, with the silhouette of the driver partially visible in the foreground, their head and hand on the steering wheel slightly out of focus. Outside, a car with headlights on approaches from the opposite direction, slightly blurred to convey motion. The road curves gently to the right, marked by a yellow arrow sign, and is bordered by dense pine trees heavily laden with fresh snow. The color palette is cool and muted, dominated by deep blues, whites, and grays, evoking a cold winter atmosphere. The lighting is natural and subdued, suggesting overcast daylight or early evening. The overall style is realistic with a shallow depth of field, emphasizing the sense of movement and the quiet, tense mood of a winter drive through remote, snowy woods.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:43.501568",
+  "word_count": 152,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "583cb935-f469-45e9-9963-aa1b0cf13c63.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a highly detailed, cinematic close-up of a computer microchip embedded on a green circuit board. The scene is viewed from a slightly elevated, centered angle, emphasizing the symmetrical layout of the chip and its surrounding components. The microchip is rectangular, matte black, and features fine white alphanumeric markings on its surface, with metallic pins and coiled elements flanking its sides. The background is dark and blurred, with the edges of the circuit board and electronic components fading into shadow, creating a sense of depth and focus on the central chip. The lighting is moody and atmospheric, with soft, diffused highlights reflecting subtly off the metallic surfaces, evoking a mysterious, high-tech ambiance. The overall color palette is dominated by deep greens, blacks, and silvery grays, with a slight greenish tint to the shadows, reminiscent of a science fiction or cyberpunk aesthetic. The image has a shallow depth of field, with the microchip in sharp focus and the surrounding environment softly blurred, enhancing the sense of scale and importance of the central subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:11.811361",
+  "word_count": 173,
+  "error_message": null
+}

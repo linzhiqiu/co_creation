@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b432608-5f4d-41d2-bf84-bb7043b42c85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic photograph of a narrow slot canyon, inspired by Antelope Canyon in the American Southwest. The composition is vertical, with the camera angled upward from the canyon floor, capturing the sinuous, sculpted sandstone walls as they twist and curve toward a small opening at the top. Soft, natural light streams in from above, illuminating the warm, reddish-brown and ochre tones of the rock, while deep shadows create a sense of depth and mystery. The interplay of light and shadow accentuates the smooth, flowing textures and organic patterns carved by centuries of wind and water. The overall mood is serene and awe-inspiring, with a focus on the abstract beauty of nature. The color palette is dominated by earthy reds, browns, and subtle highlights of gold and white where the sunlight touches the stone. The style is reminiscent of fine art landscape photography, with a shallow depth of field that draws the viewer’s eye toward the illuminated center, evoking a sense of wonder and discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:41.797824",
+  "word_count": 165,
+  "error_message": null
+}

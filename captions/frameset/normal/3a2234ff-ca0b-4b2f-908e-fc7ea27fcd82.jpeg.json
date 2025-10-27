@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a2234ff-ca0b-4b2f-908e-fc7ea27fcd82.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic night sky scene viewed from the ground, framed by the dark silhouettes of tall pine trees whose jagged branches encroach from the edges of the composition. The perspective is upward, as if lying on the forest floor and gazing directly at the heavens. The sky is a deep, rich indigo, densely scattered with countless stars of varying brightness, some forming faint clusters and a subtle band of the Milky Way stretching diagonally across the scene. The lighting is natural and low, with the starlight providing a gentle, ethereal glow that contrasts against the inky blackness of the tree silhouettes. The overall mood is tranquil and awe-inspiring, evoking a sense of solitude and wonder in the vastness of nature. The style is realistic with a touch of cinematic grandeur, utilizing a wide-angle lens effect to emphasize the expansive sky and the enclosing embrace of the forest canopy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:08.112965",
+  "word_count": 149,
+  "error_message": null
+}

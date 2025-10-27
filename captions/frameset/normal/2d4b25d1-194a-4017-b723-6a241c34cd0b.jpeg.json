@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d4b25d1-194a-4017-b723-6a241c34cd0b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up shot of a hand interacting with the steering wheel controls of a modern car, specifically a Subaru. The focus is on the driver’s thumb pressing a button labeled “RES/SET” among other clearly marked buttons, including icons for lane assist and adaptive cruise control. The Subaru logo is prominently visible on the left side of the frame, slightly out of focus, emphasizing brand identity. The lighting is natural and soft, suggesting daylight filtering through the car’s windows, with subtle reflections on the black and metallic surfaces of the steering wheel. The color palette is dominated by cool, muted tones—blacks, grays, and silvers—conveying a sleek, high-tech, and sophisticated atmosphere. The composition uses a shallow depth of field, blurring the background and drawing attention to the tactile interaction and the precision of the car’s controls. The overall style is cinematic and modern, evoking a sense of advanced technology and driver engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:23.635790",
+  "word_count": 149,
+  "error_message": null
+}

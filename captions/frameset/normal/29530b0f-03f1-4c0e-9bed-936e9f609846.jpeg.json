@@ -1,0 +1,12 @@
+{
+  "image_filename": "29530b0f-03f1-4c0e-9bed-936e9f609846.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a sleek, metallic server panel, prominently featuring the embossed word \"EPYC\" next to a softly glowing teal-blue circular indicator light. The surface is smooth, brushed metal with a cool, industrial gray tone, reflecting subtle gradients of ambient light. The composition is tight and focused, with shallow depth of field blurring the background and drawing attention to the illuminated button and engraved text. Below the main logo, partially visible, are two round, darkened ports or buttons, and faintly etched numbers, adding a sense of technical sophistication. The lighting is soft and diffused, creating gentle highlights and shadows that emphasize the precision and modernity of the hardware. The overall mood is high-tech, clean, and futuristic, evoking the atmosphere of a cutting-edge data center or advanced computing environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:57.125684",
+  "word_count": 130,
+  "error_message": null
+}

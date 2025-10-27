@@ -1,0 +1,12 @@
+{
+  "image_filename": "53535988-aac2-48bf-9c11-decd28674f87.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of an older man standing on a deserted rural road at dusk. The man has a weathered face with a full white beard and mustache, and he wears a light-colored, well-worn baseball cap. His expression is contemplative and slightly somber, gazing off into the distance as if lost in thought. He is dressed in a faded blue jacket over a dark shirt, with visible signs of age and wear in his clothing. The background features an empty, narrow road stretching into the horizon, flanked by dry, golden-brown grasses and sparse, leafless trees under a cloudy, overcast sky. The color palette is muted and earthy, dominated by soft blues, grays, and browns, evoking a melancholic, introspective mood. The lighting is natural and diffused, with soft shadows and a cool, subdued atmosphere. The composition uses a shallow depth of field, keeping the man in sharp focus while the background gently blurs, emphasizing his presence and emotional state. The camera angle is at eye level, creating an intimate and realistic perspective, reminiscent of a contemplative moment in an independent film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:07.540436",
+  "word_count": 181,
+  "error_message": null
+}

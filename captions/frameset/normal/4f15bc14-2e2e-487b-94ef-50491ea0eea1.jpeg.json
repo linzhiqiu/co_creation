@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f15bc14-2e2e-487b-94ef-50491ea0eea1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-contrast, black-and-white digital workspace scene, viewed from a slightly angled, close-up perspective. The composition is split between two main elements: on the left, a computer screen displays a design application with several circular app icons featuring the word \"शक्ति\" in Devanagari script, each icon rendered in different color schemes and styles, arranged vertically. On the right, a dark-themed code editor is open, filled with lines of Java code, including method definitions and a visible autocomplete dropdown menu. The lighting is soft and diffused, creating a focused, contemplative atmosphere, with the glow of the screens providing the primary illumination. The overall style is modern and minimalistic, emphasizing the duality of creative design and technical development. The depth of field is shallow, keeping both the icons and the code in sharp focus, while the background fades into darkness, drawing attention to the digital workspace and evoking a sense of concentration and productivity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:32.635391",
+  "word_count": 151,
+  "error_message": null
+}

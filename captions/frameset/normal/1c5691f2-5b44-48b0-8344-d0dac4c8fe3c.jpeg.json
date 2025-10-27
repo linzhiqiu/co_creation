@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c5691f2-5b44-48b0-8344-d0dac4c8fe3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand plugging a cable into the input jack of a black audio amplifier. The hand, with neatly manicured nails painted a vibrant pink, is the focal point, positioned in the left third of the frame and partially in shadow, conveying a sense of anticipation and action. The amplifier’s control knobs and dials are visible, softly illuminated by diffused, natural light that creates gentle highlights and subtle reflections on the textured surface. The background is softly blurred, with cool blue and gray tones suggesting an indoor rehearsal or studio space, adding depth and a sense of quiet focus. The overall color palette is muted and cool, with a shallow depth of field that isolates the subject and evokes a moody, introspective atmosphere. The composition is intimate and tactile, with a slight vignette and soft focus that enhance the cinematic, documentary-style realism of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:15.354154",
+  "word_count": 149,
+  "error_message": null
+}

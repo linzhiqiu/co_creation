@@ -1,0 +1,12 @@
+{
+  "image_filename": "313c083a-5983-49b3-9958-20dd2490296a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a picturesque European town at sunrise, captured in a cinematic wide-angle shot. The scene is dominated by a patchwork of terracotta rooftops and narrow, winding streets, with a prominent stone bell tower rising above the clustered buildings. The architecture is a harmonious blend of rustic, weathered facades and classic Mediterranean elements, evoking a sense of timeless charm. Soft golden sunlight filters through dramatic, partly cloudy skies, casting long shadows and illuminating the misty hills in the distance. The color palette features warm earth tones—ochres, siennas, and muted reds—contrasted with cool blues and grays in the sky and distant landscape. The overall mood is tranquil and nostalgic, with a gentle lens flare adding a touch of realism and warmth. The composition emphasizes depth, drawing the viewer’s eye from the foreground rooftops to the rolling hills and layered clouds beyond, creating a sense of serene early morning stillness in a historic town.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:47.956939",
+  "word_count": 155,
+  "error_message": null
+}

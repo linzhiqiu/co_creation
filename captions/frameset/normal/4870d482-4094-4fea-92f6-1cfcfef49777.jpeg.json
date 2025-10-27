@@ -1,0 +1,12 @@
+{
+  "image_filename": "4870d482-4094-4fea-92f6-1cfcfef49777.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, close-up portrait of a man with a shaved head, his face glistening with sweat and illuminated by harsh, green-tinted lighting. The man’s expression is intense and stoic, his eyes rolled back to reveal only the whites, conveying a sense of trance or deep concentration. He wears a dark, wet, button-up shirt that clings to his skin, emphasizing the tension in his posture. Thin, white cables are attached to his head, suggesting a connection to some unseen technology or machine. The background is blurred and industrial, with metallic surfaces and horizontal bars, enhancing the cold, clinical atmosphere. The overall style is cinematic and gritty, with a shallow depth of field that keeps the focus tightly on the man’s face, capturing every detail of his skin texture and the beads of moisture. The color palette is dominated by shades of green and muted grays, evoking a sense of unease and otherworldliness, reminiscent of late-90s science fiction films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:03.386948",
+  "word_count": 158,
+  "error_message": null
+}

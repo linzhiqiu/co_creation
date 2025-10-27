@@ -1,0 +1,12 @@
+{
+  "image_filename": "3df37baf-a98d-45cd-a31b-5972596a90f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit suburban street scene in a residential neighborhood, captured in a candid, documentary style. The central focus is a weathered white pickup truck parked at the curb, its bed modified with tall, makeshift metal railings and piled high with assorted scrap metal and household items, suggesting a day of collecting or moving. Two men stand near the truck: one in a dark sweatshirt and jeans, walking past the front of the vehicle, and another partially visible in the truck bed, engaged in work. \n\nOn the sidewalk, a young woman in a brown crop top and shorts walks confidently, holding a phone, while a woman in a black dress and sunhat strolls in the opposite direction, carrying a bag. In the background, a child in a purple dress plays with a balloon near a low chain-link fence, adding a touch of whimsy and life. The houses lining the street are single-story, painted in pastel tones with red-tiled roofs, manicured lawns, and decorative awnings, evoking a classic Southern California atmosphere.\n\nThe lighting is bright and natural, casting crisp shadows and highlighting the vibrant colors of the scene. The camera angle is slightly elevated, as if shot from a car or a Google Street View perspective, providing a wide, immersive view with a deep depth of field that keeps all elements in sharp focus. The overall mood is lively and authentic, capturing a slice-of-life moment in a diverse urban neighborhood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:40.002019",
+  "word_count": 238,
+  "error_message": null
+}

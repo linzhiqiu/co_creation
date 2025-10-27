@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f9a0423-83e1-46d2-9ba8-c689ae0f7a1a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic close-up of a baboon’s face, with the animal’s expressive brown eyes gazing directly at the viewer through a semi-opaque barrier of vivid blue paint. The paint is smeared and textured across a transparent surface in the foreground, partially obscuring the baboon’s features and creating an abstract, almost dreamlike frame around its eyes. The lighting is soft and natural, highlighting the baboon’s fur and the reflective quality of the paint, while casting gentle shadows that add depth and intrigue. The color palette is dominated by rich blues from the paint, contrasted with the earthy browns and grays of the baboon’s fur and the warm, lifelike tones of its eyes. The composition uses a shallow depth of field, keeping the baboon’s eyes in sharp focus while the paint and background blur slightly, drawing attention to the animal’s intense, contemplative expression. The overall mood is mysterious and artistic, blending elements of wildlife photography with abstract art, as if capturing a fleeting moment of connection between the viewer and the animal through a veil of color.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:03.268782",
+  "word_count": 176,
+  "error_message": null
+}

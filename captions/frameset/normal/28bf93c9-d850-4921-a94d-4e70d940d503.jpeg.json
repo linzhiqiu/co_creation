@@ -1,0 +1,12 @@
+{
+  "image_filename": "28bf93c9-d850-4921-a94d-4e70d940d503.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a spacious, sunlit park with lush green grass stretching across the entire frame. Scattered groups of people are lounging on the grass, some on picnic blankets, others sitting or lying directly on the ground. The groups are spaced far apart, creating a sense of openness and tranquility. Each cluster of people is engaged in relaxed activities—talking, resting, or enjoying a picnic. The color palette is dominated by vibrant greens, with pops of color from clothing and blankets, such as blues, whites, and muted earth tones. The lighting is bright and natural, suggesting a clear, sunny day with minimal shadows. The composition is symmetrical and balanced, with the camera positioned directly overhead, creating a flat, almost abstract perspective that emphasizes the geometry of the scene and the negative space between groups. The overall mood is peaceful and leisurely, evoking a sense of calm and community in a public outdoor space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:41.079574",
+  "word_count": 152,
+  "error_message": null
+}

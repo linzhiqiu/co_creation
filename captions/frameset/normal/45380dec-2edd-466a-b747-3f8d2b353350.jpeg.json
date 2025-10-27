@@ -1,0 +1,12 @@
+{
+  "image_filename": "45380dec-2edd-466a-b747-3f8d2b353350.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic black-and-white photograph set inside a cozy, dimly lit bookstore. The composition is intimate, with a shallow depth of field that draws focus to the back of a solitary woman in the foreground, her light-colored, shoulder-length hair softly illuminated by overhead lights. She wears a dark sweater, her posture relaxed as she browses the shelves. In the background, rows of tall bookshelves are filled with neatly arranged books, their spines creating a textured, rhythmic pattern along the walls. Another figure, slightly out of focus, stands further back, partially obscured by the shelves, adding a sense of quiet activity and depth to the scene. The lighting is gentle and atmospheric, with soft highlights and deep shadows, evoking a contemplative, almost nostalgic mood. The overall style is reminiscent of classic film photography, with a strong sense of place and a serene, introspective ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:59.950077",
+  "word_count": 143,
+  "error_message": null
+}

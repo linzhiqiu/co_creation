@@ -1,0 +1,12 @@
+{
+  "image_filename": "52b41bf1-f76d-418e-b893-411d392c96d7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, open-plan office space filled with natural daylight streaming through large windows in the background. The scene centers on a diverse group of young professionals engaged in a casual team meeting. In the foreground, a man in a blue shirt stands holding a laptop, while a blonde woman in a light blue t-shirt and jeans sits on a white cabinet covered in colorful sticky notes. Next to her, a woman in a beige blazer and black top holds a tablet, listening attentively. Two men, one in a striped shirt and the other in a gray t-shirt, sit on office chairs, appearing engaged and relaxed. The group’s expressions range from focused to conversational, suggesting active collaboration and idea sharing. The background features more colleagues at desks, blurred slightly to emphasize depth of field. The color palette is soft and neutral, with pops of pastel from clothing and sticky notes. The lighting is bright and even, creating a fresh, energetic atmosphere. The camera angle is eye-level, capturing the group in a candid, documentary style, with a slight sense of motion and spontaneity, evoking a dynamic, creative workplace environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:52.984433",
+  "word_count": 187,
+  "error_message": null
+}

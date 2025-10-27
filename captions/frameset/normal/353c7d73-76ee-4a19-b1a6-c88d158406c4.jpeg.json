@@ -1,0 +1,12 @@
+{
+  "image_filename": "353c7d73-76ee-4a19-b1a6-c88d158406c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-contrast black and white photograph set in a seamless, empty studio environment. Center the composition on a large, perfectly smooth matte black sphere that dominates the foreground. Behind the sphere, partially obscured, stands a young man with short hair, dressed in dark, modern casual clothing. He leans slightly forward, his hands resting on the sphere, with a subtle, contemplative expression on his face. The lighting is soft and diffused, casting gentle shadows that emphasize the curvature of the sphere and the contours of the subject’s face, while the background fades smoothly from light gray at the top to pure white at the bottom, creating a sense of infinite space. The overall mood is introspective and surreal, with a strong sense of scale and negative space, evoking a cinematic, almost dreamlike quality. The camera angle is straight-on at eye level, with a shallow depth of field that keeps both the subject and the sphere in sharp focus, while the background remains ethereal and unobtrusive.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:20.275211",
+  "word_count": 166,
+  "error_message": null
+}

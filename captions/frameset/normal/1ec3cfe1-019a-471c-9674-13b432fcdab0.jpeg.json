@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ec3cfe1-019a-471c-9674-13b432fcdab0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide, cinematic landscape shot of a rural roadside under a pale, overcast sky. The foreground features a prominent yellow road sign with a bold black arrow pointing both left and right, indicating a junction ahead. The sign stands on a slender metal pole at the edge of a quiet, empty road, with a second, partially obscured sign behind it. The background stretches into a vast, open field of muted green and brown vegetation, bordered by a distant line of dark trees and low hills. The color palette is subdued and desaturated, dominated by soft earth tones and cool grays, evoking a sense of stillness and isolation. The lighting is diffuse and natural, with gentle shadows and a slightly hazy atmosphere. The composition is minimalist, with the sign as the focal point against the expansive, tranquil landscape, creating a contemplative, almost melancholic mood reminiscent of a slow-paced indie film. The camera angle is eye-level, with a deep depth of field that keeps both the sign and the distant horizon in sharp focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:13.442250",
+  "word_count": 172,
+  "error_message": null
+}

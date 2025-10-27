@@ -1,0 +1,12 @@
+{
+  "image_filename": "1405d0ee-a976-4f83-bf7b-e5c92a192aaf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric landscape of a dense, evergreen forest shrouded in mist. The scene is set at dusk or early morning, with soft, diffused natural light filtering through heavy, overcast clouds. The forest is composed of tall, dark pine trees stretching across rolling hills, their silhouettes fading into the distance. Wisps of fog drift between the trees, creating a mysterious and moody ambiance. The color palette is dominated by cool, muted tones—deep greens, slate blues, and soft grays—emphasizing the damp, tranquil mood. The composition is wide and expansive, with a high vantage point that captures the vastness of the wilderness and the layered mountain ridges receding into the background. The overall style is cinematic and contemplative, evoking a sense of solitude and the quiet majesty of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:10.714135",
+  "word_count": 128,
+  "error_message": null
+}

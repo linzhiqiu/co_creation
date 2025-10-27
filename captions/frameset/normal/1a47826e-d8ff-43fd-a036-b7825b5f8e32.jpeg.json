@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a47826e-d8ff-43fd-a036-b7825b5f8e32.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit attic scene, captured in a cinematic, moody style with a cool, desaturated color palette dominated by grays and muted browns. The main subject is a person wearing a white hard hat and a white shirt, partially visible as they crouch or lean into the frame from the right side. Their face is mostly obscured by shadow and the brim of the helmet, adding an air of mystery. The subject is reaching down with one hand to place or inspect a small white device on the dusty wooden floor, illuminated by a narrow beam of light, possibly from a headlamp or flashlight. The background features rough, unfinished wooden beams and slats, with a faint haze of dust in the air, suggesting age and disuse. On the left, an old-fashioned lamp with a decorative base stands on the floor, its light off, contributing to the sense of abandonment. The composition uses a low camera angle at floor level, emphasizing the confined, secretive atmosphere. Soft, directional lighting creates deep shadows and highlights, enhancing the sense of suspense and discovery. The overall mood is tense and investigative, reminiscent of a thriller or mystery film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:35.454788",
+  "word_count": 193,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b005551-d22d-4c1c-a387-178a180efd9a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a haunting, surreal image featuring the subtle, ghostly visage of a human face seamlessly blended into the rough, textured surface of a dark tree trunk. The face should emerge organically from the bark, its features—eyes, nose, and mouth—barely distinguishable, as if carved or grown from the wood itself. Use a monochromatic, nearly black color palette with deep shadows and minimal highlights, emphasizing the interplay of light and texture. The lighting is low-key and dramatic, casting mysterious shadows that obscure parts of the face and tree, enhancing the eerie, enigmatic mood. The composition is tight and intimate, focusing closely on the face and bark, with a shallow depth of field that blurs the background and draws attention to the merging of human and nature. The overall style is cinematic and atmospheric, evoking a sense of mystery, unease, and the supernatural, as if the forest itself is alive and watching.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:17.359852",
+  "word_count": 149,
+  "error_message": null
+}

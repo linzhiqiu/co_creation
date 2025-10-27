@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c16ab14-373a-40b6-a920-0000384d791f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, overhead shot set in an outdoor market, capturing a close-up moment of a contactless payment transaction. In the foreground, a hand holds a modern card reader terminal displaying the VISA logo, while another hand inserts a blue credit card. The background is softly blurred but filled with colorful, hand-crafted wooden toys—spinning tops, maracas, and painted discs—arranged in woven baskets, evoking a lively, artisanal atmosphere. The scene includes glimpses of casually dressed people, with visible arms and torsos, suggesting a bustling, friendly environment. The color palette is bright and cheerful, dominated by vivid reds, yellows, blues, and greens from the toys, contrasted with the neutral tones of the pavement and clothing. Natural daylight bathes the scene in soft, even lighting, enhancing the festive, inviting mood. The composition uses a shallow depth of field to focus attention on the transaction, while the dynamic angle and partial figures convey movement and spontaneity, reminiscent of a candid, documentary-style photograph.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:11.013723",
+  "word_count": 157,
+  "error_message": null
+}

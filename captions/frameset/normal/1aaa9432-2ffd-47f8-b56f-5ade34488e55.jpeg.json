@@ -1,0 +1,12 @@
+{
+  "image_filename": "1aaa9432-2ffd-47f8-b56f-5ade34488e55.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a Canon DSLR camera mounted on a tripod, with a hand gently adjusting or steadying the camera from the right side of the frame. The camera’s LCD screen is prominently displayed, showing a black-and-white live view of a dramatic, snow-covered landscape with a mountain sloping down to a body of water. The background is softly blurred, rendered in cool, desaturated blue and gray tones, evoking a cold, overcast atmosphere. The lighting is natural and subdued, suggesting early morning or late evening, with soft, diffused light and no harsh shadows. The composition emphasizes the act of photography, with the camera and its screen in sharp focus, while the hand and the wintry landscape beyond are slightly out of focus, creating a shallow depth of field. The overall style is cinematic and contemplative, with a moody, introspective ambiance, as if capturing a quiet moment of creative observation in a remote, wintry environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:42.444496",
+  "word_count": 154,
+  "error_message": null
+}

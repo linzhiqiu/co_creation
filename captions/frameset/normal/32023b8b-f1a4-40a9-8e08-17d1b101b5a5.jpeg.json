@@ -1,0 +1,12 @@
+{
+  "image_filename": "32023b8b-f1a4-40a9-8e08-17d1b101b5a5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a dimly lit, slightly retro public space, featuring two men standing side by side at adjacent payphones mounted on a textured beige wall. The men are viewed from behind at a slight angle, emphasizing their anonymity and the tension between them. The man on the left wears a light tan trench coat, while the man on the right is dressed in a dark overcoat, both with short, neatly groomed hair. Their postures are tense and focused, each engaged with the payphone, suggesting a secretive or urgent conversation. The lighting is soft and diffused, casting gentle shadows and creating a moody, introspective atmosphere. The color palette is muted, dominated by warm earth tones—beige, brown, and tan—contrasted by the black and metallic details of the payphones. The composition is symmetrical, with the two figures and payphones forming a balanced, almost mirror-like arrangement. The overall style is reminiscent of classic film noir or 1970s crime dramas, with a shallow depth of field that keeps the background slightly blurred, drawing attention to the subjects and their actions.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:05.689995",
+  "word_count": 180,
+  "error_message": null
+}

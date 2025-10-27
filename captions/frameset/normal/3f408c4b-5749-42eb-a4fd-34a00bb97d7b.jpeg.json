@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f408c4b-5749-42eb-a4fd-34a00bb97d7b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern office desk, captured from a slightly elevated angle to emphasize the objects on the surface. The focal point is a sleek tablet lying flat on the white desk, its screen displaying a minimalist website or application interface with a red and white color scheme and clean, geometric design elements. To the left of the tablet, there is a stack of manila folders and paperwork, some slightly askew, with a blue translucent folder partially visible underneath. The background is softly out of focus, revealing more office clutter such as crumpled paper and indistinct equipment, contributing to a lived-in, realistic workspace atmosphere. The lighting is soft and natural, likely from a nearby window, casting gentle shadows and highlighting the textures of paper and plastic. The overall color palette is muted and neutral, dominated by whites, beiges, and subtle pops of blue and red, creating a calm, professional mood. The composition balances order and slight disarray, evoking the everyday environment of a busy office.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:57.579287",
+  "word_count": 167,
+  "error_message": null
+}

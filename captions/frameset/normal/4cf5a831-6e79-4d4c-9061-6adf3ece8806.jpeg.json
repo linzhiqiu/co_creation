@@ -1,0 +1,12 @@
+{
+  "image_filename": "4cf5a831-6e79-4d4c-9061-6adf3ece8806.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-resolution image of a dark, star-filled expanse reminiscent of deep space or a night sky. The composition is dominated by a rich, inky black background, subtly illuminated by a scattering of small, glowing white specks and particles of varying sizes, evoking the appearance of distant stars, cosmic dust, or snowflakes suspended in the void. The lighting is soft and diffuse, with no discernible light source, creating a sense of infinite depth and mystery. The overall color palette is cool and monochromatic, focusing on deep blues, blacks, and soft whites. The image should have a shallow depth of field, with some particles in sharp focus and others blurred, enhancing the sense of three-dimensional space and motion. The mood is tranquil, contemplative, and slightly otherworldly, capturing the vastness and quiet beauty of the cosmos.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:43.421622",
+  "word_count": 135,
+  "error_message": null
+}

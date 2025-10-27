@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e37a053-56f4-48bd-8a39-e8524e660fbb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, minimalist interior scene featuring a wall-mounted flat-screen television as the central focus. The TV displays a striking, cinematic image of a silhouetted figure with a bicycle, gazing up at a star-filled night sky with the Milky Way visible, evoking a sense of wonder and exploration. The background of the room is painted in a cool, pastel blue, with clean lines and subtle architectural details such as a vertical groove and a doorframe visible on the right. The lighting is soft and diffused, casting a gentle, almost ethereal glow that enhances the tranquil, contemplative mood. The overall color palette is dominated by cool blues and muted tones, with the deep indigos and purples of the night sky on the screen providing a dramatic contrast. The composition is carefully balanced, with the TV slightly off-center and angled, creating a sense of depth and modernity. The style is reminiscent of contemporary cinematic photography, with a shallow depth of field and a focus on atmosphere and mood rather than clutter or detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:10.605228",
+  "word_count": 170,
+  "error_message": null
+}

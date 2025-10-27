@@ -1,0 +1,12 @@
+{
+  "image_filename": "59229791-8d6e-41a9-9e56-e8a60c4db715.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, immersive scene viewed from the bottom of a deep, old stone well, looking directly upward toward the sky. The well’s interior is dark, textured, and circular, with rough, weathered stones forming the walls. At the top opening, a young woman leans over the edge, peering down with a curious, slightly concerned expression. She is dressed in a simple, sleeveless top, her face softly illuminated by natural daylight. A thick, worn rope descends from above, partially obscuring the view, and is tied to a rustic wooden beam that spans the well’s opening. The sky above is clear and pale blue, providing a stark contrast to the shadowy interior of the well. The composition uses a dramatic worm’s-eye perspective, emphasizing depth and the feeling of enclosure, with a strong sense of verticality. The color palette is naturalistic, dominated by cool stone grays, muted earth tones, and the soft blue of the sky. Lighting is realistic, with bright sunlight at the top fading into deep shadow below, creating a striking chiaroscuro effect. The overall mood is tense and mysterious, evoking a sense of anticipation and isolation.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:35.260830",
+  "word_count": 187,
+  "error_message": null
+}

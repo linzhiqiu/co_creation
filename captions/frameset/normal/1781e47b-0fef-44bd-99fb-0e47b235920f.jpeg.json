@@ -1,0 +1,12 @@
+{
+  "image_filename": "1781e47b-0fef-44bd-99fb-0e47b235920f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with curly dark hair sits at a modern office desk, engaged in conversation. He wears a dark navy blazer over a plain white t-shirt, blending casual and professional styles. His expression is focused and slightly animated, as if he is explaining something or responding thoughtfully. The background features large windows with a soft, out-of-focus cityscape, allowing natural daylight to fill the room and create a bright, inviting atmosphere. The walls are painted a warm orange, adding a pop of color and energy to the scene. In the foreground, the blurred edge of a laptop screen suggests a collaborative or work-related setting. The composition uses a shallow depth of field, keeping the subject sharply in focus while the background and foreground remain softly blurred, lending a cinematic quality. The overall color palette is warm and natural, with soft lighting that highlights the subject’s features and creates a professional yet approachable mood. The camera angle is at eye level, fostering a sense of direct engagement with the viewer.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:30.040727",
+  "word_count": 169,
+  "error_message": null
+}

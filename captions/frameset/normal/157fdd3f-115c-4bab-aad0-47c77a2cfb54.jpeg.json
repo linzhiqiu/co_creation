@@ -1,0 +1,12 @@
+{
+  "image_filename": "157fdd3f-115c-4bab-aad0-47c77a2cfb54.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young male lecturer sits on a chair in a dimly lit lecture hall, illuminated primarily by the cool, bluish glow of a large projected diagram behind him. He wears a light blue button-down shirt with the sleeves rolled up and khaki pants, exuding a casual yet professional demeanor. His expression is engaged and enthusiastic as he gestures toward the projection with a long pointer, mid-explanation. The diagram on the screen is complex, filled with interconnected boxes and lines, suggesting a technical or academic subject. To his side, a simple wooden desk holds a clear glass water bottle, adding a touch of realism and everyday detail. The background features muted gray walls and a control panel, reinforcing the institutional setting. The composition uses a shallow depth of field, focusing on the lecturer while softly blurring the background, and the camera angle is slightly low, lending a sense of importance to the subject. The overall color palette is subdued, dominated by cool tones and soft shadows, creating a cinematic, contemplative atmosphere reminiscent of a dramatic educational film or a thoughtful documentary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:47.548499",
+  "word_count": 180,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ad311fc-1805-408b-8c79-372eb1c01300.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with short, neatly styled gray hair and a trimmed beard stands confidently in a modern, dimly lit office or studio space. He wears a dark navy blue, long-sleeved polo shirt with the sleeves pushed up, giving a relaxed yet professional appearance. His expression is engaged and slightly animated, as if he is in the midst of explaining something important or presenting to an audience. His hands are raised in a subtle gesture, emphasizing his speech.\n\nThe background is softly blurred, featuring dark shelves with indistinct objects and plants, contributing to a cozy, contemporary atmosphere. Warm, ambient lighting creates gentle highlights on the man’s face and upper body, while the rest of the room recedes into shadow, adding depth and focus to the subject. To the left, a computer monitor displays a simple, modern logo with the text “Sharp” partially visible, and a laptop sits open beside it, suggesting a tech-savvy environment.\n\nThe color palette is dominated by deep blues, grays, and muted earth tones, with soft, cinematic lighting that enhances the sense of professionalism and calm. The camera angle is at eye level, with a shallow depth of field that keeps the man sharply in focus while the background remains tastefully out of focus, drawing attention to his presence and expression. The overall style is reminiscent of a high-quality corporate video or documentary interview, with a polished, inviting, and slightly dramatic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:27.806860",
+  "word_count": 235,
+  "error_message": null
+}

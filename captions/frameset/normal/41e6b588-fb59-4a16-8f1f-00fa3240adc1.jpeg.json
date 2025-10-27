@@ -1,0 +1,12 @@
+{
+  "image_filename": "41e6b588-fb59-4a16-8f1f-00fa3240adc1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody interior scene viewed from the shadowy threshold of a doorway, looking into an empty gymnasium. The gym is bathed in soft, diffused golden light streaming from overhead, illuminating the wooden rafters and polished floor. The space feels quiet and slightly nostalgic, with a single basketball hoop mounted on the far wall and a row of simple yellow benches lining one side. A lone red chair sits near the wall, adding a subtle pop of color and a sense of solitude. The composition uses a strong contrast between the dark, almost black foreground and the warmly lit gym, emphasizing depth and drawing the viewer’s eye into the inviting yet deserted space. The overall style is reminiscent of an art-house film, with a shallow depth of field, naturalistic lighting, and a contemplative, almost melancholic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:48.291844",
+  "word_count": 138,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5cc10a11-00b7-48be-8b8d-b3703e9f1eb5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, hyper-detailed portrait of a hummingbird in mid-flight, captured in sharp focus against a softly blurred, deep green natural background. The bird’s iridescent feathers shimmer with hues of emerald, ruby, and gold, especially around its throat and head, catching the light with a metallic sheen. Its delicate, elongated beak points forward, and its dark, glossy eye reflects a sense of alertness and vitality. The wings are partially visible, rendered with a sense of rapid motion through subtle motion blur, emphasizing the bird’s speed and agility. The background is abstract and painterly, with hints of warm orange and brown bokeh suggesting distant foliage or flowers, but kept indistinct to maintain focus on the hummingbird. The lighting is natural and soft, highlighting the intricate textures of the feathers without harsh shadows. The overall composition is intimate and dynamic, with a shallow depth of field and a cinematic, almost documentary style, evoking the fleeting beauty and energy of wildlife in motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:56.350540",
+  "word_count": 159,
+  "error_message": null
+}

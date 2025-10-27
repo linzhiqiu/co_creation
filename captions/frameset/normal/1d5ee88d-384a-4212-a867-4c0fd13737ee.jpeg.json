@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d5ee88d-384a-4212-a867-4c0fd13737ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, slightly overhead shot of a modern office workspace, focused on a person in a crisp white thobe reaching for a stack of official-looking documents printed in Arabic. The hand is mid-motion, creating a sense of activity and urgency. The desk is cluttered with neatly arranged red and white office supplies, including binders, folders, and a pair of red-framed eyeglasses, all contributing to a cohesive color palette of white, red, and subtle beige tones. The background is softly blurred, emphasizing the foreground action and creating a shallow depth of field. The lighting is bright and even, evoking a clean, professional atmosphere. The overall style is documentary and realistic, with a hint of cinematic polish, capturing the dynamic energy of a busy work environment in a Middle Eastern corporate setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:39.228106",
+  "word_count": 130,
+  "error_message": null
+}

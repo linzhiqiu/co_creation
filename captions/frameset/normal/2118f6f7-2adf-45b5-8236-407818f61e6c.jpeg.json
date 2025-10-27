@@ -1,0 +1,12 @@
+{
+  "image_filename": "2118f6f7-2adf-45b5-8236-407818f61e6c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand holding a blue transit card, poised to tap it against a contactless fare reader on public transportation. The hand is partially covered by the sleeve of a dark, puffy winter jacket, suggesting cold weather. The background is softly blurred, with hints of a window and the diffuse, grayish light of an overcast day outside, creating a muted, urban atmosphere. The fare reader is metallic with a yellow accent, and the focus is sharp on the hand and card, while the rest of the scene fades gently into bokeh. The color palette is subdued, dominated by cool blues, grays, and blacks, with a pop of yellow from the fare reader. The lighting is natural and soft, with no harsh shadows, evoking a candid, documentary style. The composition emphasizes the action of tapping the card, capturing a fleeting, everyday moment in city life with a sense of immediacy and realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:55.191664",
+  "word_count": 155,
+  "error_message": null
+}

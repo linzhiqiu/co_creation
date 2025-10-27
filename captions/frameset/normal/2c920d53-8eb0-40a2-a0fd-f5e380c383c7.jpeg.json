@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c920d53-8eb0-40a2-a0fd-f5e380c383c7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA close-up, cinematic overhead shot of a wooden table with a vintage, slightly worn texture. Centered in the composition is a large, folded newspaper titled \"The Morning Grid,\" with a bold headline reading \"RENAULT: 40 YEARS IN FORMULA ONE.\" The newspaper is held at the bottom corners by a pair of elderly hands, their skin showing subtle signs of age. To the left of the newspaper, partially in frame, is a white cup of tea on a saucer and a small bowl of cereal, adding a sense of morning routine and domesticity. The lighting is soft and natural, casting gentle shadows and creating a warm, nostalgic atmosphere. The color palette is muted and earthy, with browns from the table, off-whites from the newspaper and dishes, and hints of blue in the newspaper’s masthead. The overall style is realistic and intimate, with a shallow depth of field that keeps the focus on the newspaper and hands, while the background elements are slightly blurred, enhancing the sense of quiet reflection and personal history.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:07.393956",
+  "word_count": 172,
+  "error_message": null
+}

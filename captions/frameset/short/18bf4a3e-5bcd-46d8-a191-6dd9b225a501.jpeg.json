@@ -1,0 +1,12 @@
+{
+  "image_filename": "18bf4a3e-5bcd-46d8-a191-6dd9b225a501.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit ballet studio with large arched windows, wooden floors, and white walls. Young girls in white tutus and leotards practice at the barre and stretch on the floor, their movements candid and natural. Soft, diffused daylight creates a serene, timeless, black-and-white atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:58.752230",
+  "word_count": 43,
+  "error_message": null
+}

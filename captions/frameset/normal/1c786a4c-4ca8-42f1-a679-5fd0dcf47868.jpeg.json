@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c786a4c-4ca8-42f1-a679-5fd0dcf47868.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast, black-and-white image inspired by early motion studies, featuring a nude male figure captured in mid-stride as he runs across the frame. The composition is divided into two adjacent panels, each showing a different phase of the runner’s movement, evoking the sequential photography of Eadweard Muybridge. The subject’s musculature is clearly defined by dramatic side lighting, emphasizing anatomical detail and the dynamic tension of motion. The background is a deep black, with faint horizontal grid lines that suggest scientific observation and measurement. The overall style is stark and clinical, with a sharp focus and minimal depth of field, isolating the figure against the void. The mood is analytical and timeless, celebrating the beauty and mechanics of the human body in motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:18.636457",
+  "word_count": 123,
+  "error_message": null
+}

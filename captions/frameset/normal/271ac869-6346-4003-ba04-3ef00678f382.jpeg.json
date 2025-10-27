@@ -1,0 +1,12 @@
+{
+  "image_filename": "271ac869-6346-4003-ba04-3ef00678f382.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of two people holding modern smartphones in a softly lit, contemporary indoor café setting. The focus is on their hands and the phone screens, which display a sleek, red-and-white themed mobile banking or money transfer app interface. One phone shows a home dashboard with account balance and payment service icons, while the other displays a “Send money” screen with a recipient’s name and the amount “120.00 AED” ready to be sent, with a prominent red “PROCEED” button. The background is tastefully blurred, hinting at a warm, inviting environment with natural light filtering in, soft bokeh from out-of-focus patrons and furniture, and a neutral, earthy color palette. The composition emphasizes the interaction and technology, with the hands and devices centered and crisply detailed, conveying a sense of modern convenience, trust, and seamless digital connection. The overall style is clean, professional, and cinematic, with a gentle, natural lighting that enhances the clarity and warmth of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:07.193901",
+  "word_count": 160,
+  "error_message": null
+}

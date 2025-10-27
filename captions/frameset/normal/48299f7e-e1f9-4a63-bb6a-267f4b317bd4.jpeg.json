@@ -1,0 +1,12 @@
+{
+  "image_filename": "48299f7e-e1f9-4a63-bb6a-267f4b317bd4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek black sedan drives alone on a wide, empty urban bridge at dusk. The car’s headlights are on, casting a soft glow on the dark asphalt, while the rest of the scene is enveloped in cool, muted blue and gray tones, evoking a moody, cinematic atmosphere. The bridge’s structure is visible in the foreground and background, with thick cables and railings creating dynamic diagonal lines that frame the vehicle and add a sense of depth and motion. The camera angle is elevated and slightly off-center, as if shot from another vehicle or a drone, emphasizing the isolation of the car in the vast, deserted roadway. The lighting is low and natural, with subtle reflections on the car’s glossy surface, and the overall composition feels calm, contemplative, and slightly suspenseful, reminiscent of a dramatic film still set in a modern city at twilight.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:00.519618",
+  "word_count": 143,
+  "error_message": null
+}

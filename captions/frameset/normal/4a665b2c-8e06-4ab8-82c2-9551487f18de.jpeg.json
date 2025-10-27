@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a665b2c-8e06-4ab8-82c2-9551487f18de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of a solemn East Asian man in his 30s, standing against a dramatic, geometric background of large, soundproofing foam panels in muted olive and charcoal tones. He faces the camera directly, his expression serious and introspective, with slightly tousled dark hair and a faint stubble. Both hands are raised to shoulder height, palms open and fingers spread, as if in a gesture of surrender or vulnerability. He wears a dark, tailored suit jacket over a white shirt, the collar slightly open, conveying a sense of dishevelment or emotional strain. The lighting is low and moody, casting soft shadows that accentuate the angular patterns of the background and the contours of his face, creating a tense, introspective atmosphere. The composition is centered and symmetrical, with a shallow depth of field that keeps the focus on the man's face and hands, while the background recedes into soft blur. The overall style is reminiscent of a psychological thriller or neo-noir film, with a subdued, desaturated color palette and a sense of quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:49.350005",
+  "word_count": 173,
+  "error_message": null
+}

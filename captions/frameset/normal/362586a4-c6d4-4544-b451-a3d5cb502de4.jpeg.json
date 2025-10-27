@@ -1,0 +1,12 @@
+{
+  "image_filename": "362586a4-c6d4-4544-b451-a3d5cb502de4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, modern portrait scene set against a soft, pastel teal background. Centered in the composition is a person with neatly styled dark hair, visible from the shoulders up, wearing a sleeveless top with a subtle pattern. The subject’s face is partially obscured by a series of semi-transparent, white geometric shapes—primarily triangles and horizontal bars—creating a fragmented, layered effect that reveals only portions of their facial features, such as one eye and part of the mouth. \n\nTo the left, include a glowing neon sign with partially visible text, and a sculptural, organic object mounted on the wall. On the right, add a vintage wall clock and a leafy green plant with delicate, arching fronds, both partially cropped by the frame. The lighting is soft and even, with minimal shadows, lending a calm, contemplative mood. The color palette is dominated by cool pastels and muted earth tones, with the neon sign providing a subtle pop of light. The overall style is contemporary and slightly retro, with a clean, graphic composition and a hint of dreamlike abstraction, reminiscent of experimental film or modern art photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:38.742166",
+  "word_count": 184,
+  "error_message": null
+}

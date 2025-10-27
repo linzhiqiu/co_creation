@@ -1,0 +1,12 @@
+{
+  "image_filename": "1add694c-02ce-4853-9b20-55849618d946.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene set in an industrial area, featuring a man sitting alone in the driver’s seat of a sleek, black sports car. The camera angle is low and positioned just outside the front windshield, capturing the man’s intense, focused expression as he looks forward, partially illuminated by harsh artificial lighting. The background reveals a fenced construction site with metal gates, scaffolding, and partially built structures, all bathed in the cold glow of streetlights and construction lamps. The lighting creates dramatic contrasts, with deep shadows inside the car and bright, almost overexposed highlights from the lamps outside, producing a moody, high-contrast atmosphere. The color palette is dominated by cool blues, grays, and blacks, punctuated by the warm yellow-white of the lights. The composition uses shallow depth of field, keeping the man and the car in sharp focus while the background blurs slightly, enhancing the sense of isolation and tension. The overall style is reminiscent of a neo-noir thriller, with a sense of suspense and urban grit.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:45.943349",
+  "word_count": 167,
+  "error_message": null
+}

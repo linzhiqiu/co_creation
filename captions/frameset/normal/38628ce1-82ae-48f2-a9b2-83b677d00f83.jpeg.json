@@ -1,0 +1,12 @@
+{
+  "image_filename": "38628ce1-82ae-48f2-a9b2-83b677d00f83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a bicycle’s rear wheel and drivetrain, captured from a low angle that emphasizes the intricate details of the spokes, chain, and pedal. The focus is shallow, with the foreground elements—such as the tire tread, metallic spokes, and the glinting chain—rendered in sharp detail, while the background softly blurs into a muted, industrial setting. The color palette is subdued and moody, dominated by deep blacks, matte grays, and subtle bronze highlights on the bike frame, evoking a sense of urban grit and mechanical precision. The lighting is soft and diffused, casting gentle reflections on the metal surfaces and creating a sense of depth and texture. The overall style is reminiscent of a high-end commercial or a dramatic sports documentary, with a strong emphasis on form, material, and the tactile qualities of the bicycle components.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:27.957803",
+  "word_count": 138,
+  "error_message": null
+}

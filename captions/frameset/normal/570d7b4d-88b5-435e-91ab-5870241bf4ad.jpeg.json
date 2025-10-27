@@ -1,0 +1,12 @@
+{
+  "image_filename": "570d7b4d-88b5-435e-91ab-5870241bf4ad.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic black-and-white photograph of a lone male runner in mid-stride, captured in profile against a stark, minimalist urban wall. The subject wears a lightweight, two-tone athletic jacket—white on top, darker below—with fitted running tights and sleek running shoes. His hair is tied back in a small bun, and his expression is focused and determined, eyes fixed ahead. The lighting is soft and diffuse, casting gentle shadows that emphasize the runner’s form and motion without harsh contrasts. The background is a smooth, dark wall divided into large horizontal panels, providing a clean, modern backdrop that accentuates the dynamic pose. The composition is side-on, with the runner’s body perfectly parallel to the camera, creating a sense of movement and energy frozen in time. The overall mood is one of quiet intensity and discipline, with a shallow depth of field keeping the runner sharply in focus while the background remains subtly blurred, enhancing the sense of speed and isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:41.755927",
+  "word_count": 158,
+  "error_message": null
+}

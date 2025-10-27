@@ -1,0 +1,12 @@
+{
+  "image_filename": "49de0381-b816-4b07-929f-a08171d415ae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young person with shoulder-length dark hair sits at a modern desk, viewed from behind and slightly to the side, intently working on a computer. The subject wears a simple, light-colored t-shirt and sits in a contemporary ergonomic chair with a metallic frame and perforated backrest. The computer monitor displays a detailed 3D modeling software interface, prominently featuring a realistic digital model of a robotic quadruped, reminiscent of a mechanical dog. The workspace is softly illuminated by warm, natural light streaming in from the left, creating gentle highlights and casting subtle shadows that add depth and atmosphere. The background is a blend of muted tones, with a hint of geometric wall patterns in soft yellows, blues, and grays, suggesting a creative, modern studio environment. The overall color palette is subdued and harmonious, with cool grays and warm wood tones balanced by the soft glow of the monitor. The composition uses a shallow depth of field, keeping the subject and screen in sharp focus while the background remains gently blurred, evoking a cinematic, contemplative mood that emphasizes concentration and technological creativity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:31.044542",
+  "word_count": 180,
+  "error_message": null
+}

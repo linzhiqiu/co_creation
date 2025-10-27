@@ -1,0 +1,12 @@
+{
+  "image_filename": "3af74687-3c47-41f7-b798-109218fdfc1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic nighttime scene set on a pedestrian bridge enclosed by chain-link fencing, with the faint silhouettes of trees and distant streetlights visible in the background. The composition is symmetrical, with the bridge forming a tunnel-like perspective that draws the viewer’s eye toward a softly illuminated building at the vanishing point. Five young men, all dressed in plain white t-shirts, are scattered along the walkway, each absorbed in the glow of their smartphones, their faces partially illuminated by the screens. The overall color palette is dominated by deep blues and muted grays, with the only bright highlights coming from the cold, bluish-white light of the phones. The lighting is low and naturalistic, evoking a sense of quiet isolation and introspection. The camera angle is eye-level, with a shallow depth of field that keeps the figures and fencing in sharp focus while the background fades into soft blur. The mood is contemplative and slightly melancholic, capturing a moment of urban solitude and digital absorption.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:28.908523",
+  "word_count": 164,
+  "error_message": null
+}

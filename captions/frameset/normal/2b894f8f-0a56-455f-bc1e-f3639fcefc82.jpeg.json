@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b894f8f-0a56-455f-bc1e-f3639fcefc82.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, atmospheric scene set in a misty, autumnal forest clearing. The composition is off-center, focusing on the lower half of a person dressed in fitted, earth-toned clothing—brown pants and a dark, long-sleeved shirt—caught mid-motion as they crouch or brace themselves, one arm extended out of frame. The figure’s posture suggests tension or exertion, as if pushing against something unseen. The background features leafless, spindly trees and a soft, rolling landscape with a distant, blurred lake or river, all bathed in diffuse, silvery morning light. The color palette is muted and natural, dominated by browns, grays, and soft blues, with a gentle haze that creates a dreamlike, melancholic mood. The lighting is soft and filtered, with a subtle lens flare and shallow depth of field that blurs the background, drawing attention to the subject’s dynamic pose and the texture of the mossy ground. The overall style is reminiscent of an art-house film or a moody nature photograph, evoking a sense of solitude, struggle, and quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:45.590072",
+  "word_count": 166,
+  "error_message": null
+}

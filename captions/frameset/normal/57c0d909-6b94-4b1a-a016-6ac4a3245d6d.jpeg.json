@@ -1,0 +1,12 @@
+{
+  "image_filename": "57c0d909-6b94-4b1a-a016-6ac4a3245d6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A distinguished, middle-aged man in a dark, formal three-piece suit stands in an opulent, ornately decorated hallway. The architecture is lavish, with intricate, baroque-style columns and arches adorned with elaborate carvings and patterns. The man’s expression is serious and contemplative, his posture upright and composed. The most striking feature of the scene is the series of mirrors lining the wall, creating an infinite reflection effect that multiplies the man’s image into the distance, adding a sense of depth and surreal repetition. The lighting is dramatic and high-contrast, characteristic of classic black-and-white cinematography, with sharp shadows and bright highlights that emphasize the textures of the architecture and the man’s features. The overall mood is mysterious and introspective, evoking a sense of psychological complexity. The camera angle is slightly low and off-center, enhancing the grandeur of the setting and the disorienting effect of the mirrored reflections. The style is reminiscent of 1940s film noir, with a monochromatic palette, deep blacks, and silvery grays, creating a timeless, cinematic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:57.309294",
+  "word_count": 166,
+  "error_message": null
+}

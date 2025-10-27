@@ -1,0 +1,12 @@
+{
+  "image_filename": "53e62ace-939b-4c25-a52f-ece29bd713be.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up shot of a person riding a bicycle, focusing on the lower torso and upper legs. The subject is dressed in a casual gray hoodie and dark jeans, with their body leaning forward in motion, hands gripping the handlebars. The bicycle seat is a vivid red, contrasting with the muted tones of the clothing and the soft yellow-green frame of the bike. The background is softly blurred, suggesting a suburban neighborhood with hints of grass, a sidewalk, and a low brick wall, all rendered in subdued, natural colors. The lighting is overcast and diffused, casting gentle shadows and creating a moody, introspective atmosphere. The composition emphasizes the dynamic posture and movement, with a shallow depth of field that keeps the focus tightly on the rider and the bike, evoking a sense of quiet determination and everyday adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:20.706213",
+  "word_count": 140,
+  "error_message": null
+}

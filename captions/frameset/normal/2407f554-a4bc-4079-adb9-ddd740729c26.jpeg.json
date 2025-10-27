@@ -1,0 +1,12 @@
+{
+  "image_filename": "2407f554-a4bc-4079-adb9-ddd740729c26.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with short, curly auburn hair stands with his back to the camera, facing a large, matte blue wall. He wears a pale blue t-shirt that blends softly with the cool-toned background. On the wall, a hand-drawn graph is sketched in white chalk, its axes labeled with numbers and faint text, evoking a sense of analytical thought or scientific inquiry. Clusters of yellow sticky notes are arranged on the graph, concentrated in the lower left quadrant, with a single note placed higher and farther to the right, suggesting an outlier or anomaly. The lighting is soft and diffused, casting gentle shadows and creating a contemplative, almost melancholic atmosphere. The composition is minimalist, with the subject centered and the camera positioned at a medium distance, directly behind him, emphasizing his focus on the wall and the data before him. The overall style is cinematic and introspective, with a shallow depth of field that subtly blurs the edges, drawing attention to the interaction between the figure and the graph, and evoking a mood of quiet reflection and intellectual curiosity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:05.691615",
+  "word_count": 179,
+  "error_message": null
+}

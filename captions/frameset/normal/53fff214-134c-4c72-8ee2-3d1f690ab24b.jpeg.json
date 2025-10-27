@@ -1,0 +1,12 @@
+{
+  "image_filename": "53fff214-134c-4c72-8ee2-3d1f690ab24b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene of an empty parking lot, viewed from a high, slightly angled perspective. The asphalt is dark and textured, illuminated by a cold, artificial light that casts sharp shadows and highlights the subtle cracks and imperfections in the pavement. In the center of the frame, a bold white arrow is painted on the ground, pointing upward, with a few faded streaks and a small, irregular dark stain nearby, suggesting recent moisture or a spill. The parking space is bordered by clean, yellow lines, and to the left, a narrow strip of vibrant green grass and low plants runs alongside a pale, corrugated metal fence, adding a touch of color contrast. The overall mood is quiet and slightly mysterious, with a strong sense of emptiness and anticipation. The color palette is dominated by deep blues, greens, and stark whites, with high contrast and a slightly desaturated, moody atmosphere reminiscent of neo-noir cinematography.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:25.058720",
+  "word_count": 155,
+  "error_message": null
+}

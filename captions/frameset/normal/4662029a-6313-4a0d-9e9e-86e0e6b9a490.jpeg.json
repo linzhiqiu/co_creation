@@ -1,0 +1,12 @@
+{
+  "image_filename": "4662029a-6313-4a0d-9e9e-86e0e6b9a490.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic street scene set in 1960s Paris, captured with a slightly muted, vintage color palette that evokes the era’s film aesthetic. In the foreground, a young woman and a man dressed in a classic French police uniform stand together at the edge of a crosswalk. The woman, wearing a short black dress, black tights, and black shoes, carries a small shoulder bag and has a chic, mod hairstyle. She is mid-gesture, pointing assertively toward something off-frame, her expression alert and engaged. The policeman stands beside her, holding a white document or folder under his arm, his posture formal and attentive, looking directly at the camera with a neutral, slightly inquisitive expression.\n\nBehind them, the bustling Parisian street is alive with pedestrians in period-appropriate coats and hats, some blurred in motion, suggesting the everyday rhythm of city life. The background features a corner butcher shop with a bright red awning and bold white signage reading “Boucherie: Volailles” and “Viandes 1er Choix,” adding a splash of color and authentic detail. The architecture is classic Parisian, with stone facades and wrought-iron balconies visible above the shop. The lighting is natural daylight, slightly overcast, casting soft, diffuse shadows and enhancing the nostalgic mood. The composition is balanced, with the main subjects centered and the urban environment framing them, creating a sense of narrative intrigue and timeless style reminiscent of French New Wave cinema.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:25.770825",
+  "word_count": 230,
+  "error_message": null
+}

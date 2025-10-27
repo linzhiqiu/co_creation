@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ac73a12-86c6-4af7-bc0a-245c4a73aae0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric still life scene set in a shadowy, dust-laden interior. In the foreground, three tarnished metal goblets with twisted stems are arranged on a weathered, dusty wooden surface, their surfaces dulled by age and neglect. Behind them, a large, ornate metal bowl with decorative feet sits partially out of focus, adding depth and a sense of history to the composition. The background is dark and indistinct, with hints of old, textured frames and possibly stone or wood, contributing to a sense of abandonment and decay. The color palette is muted and desaturated, dominated by cool grays, deep shadows, and subtle metallic highlights. The lighting is soft and diffused, casting gentle shadows and emphasizing the texture of dust and patina. The overall style is cinematic and moody, with a shallow depth of field that draws attention to the goblets while allowing the background to recede into darkness, evoking a sense of mystery and forgotten grandeur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:50.958520",
+  "word_count": 157,
+  "error_message": null
+}

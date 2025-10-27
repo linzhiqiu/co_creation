@@ -1,0 +1,12 @@
+{
+  "image_filename": "1da9bf7f-5e0f-4cf0-84d3-490e1af52729.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person using a stylus on a tablet, displaying a fantasy football interface with colorful team names and statistics. Warm, natural lighting, shallow depth of field, and a casual, homey background create an intimate, focused atmosphere. The composition emphasizes the hands and digital screen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:45.369384",
+  "word_count": 48,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ccfd5ba-6efe-4612-9e1b-001eb0181923.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a person holding a Canon DSLR camera up to their face, capturing a photo. The subject is centered in the frame, with their right hand gripping the camera body and their left hand supporting the lens. The person wears a light gray jacket with a subtle sheen, and a red camera strap hangs loosely from the camera. The background is softly blurred, featuring large windows that let in diffused natural light, creating a cool, airy atmosphere. The color palette is dominated by cool blues and grays, with the red strap providing a striking accent. The lighting is soft and even, highlighting the subject’s skin and the reflective surfaces of the camera and jacket. The composition uses a shallow depth of field to focus attention on the camera and the subject’s hands, while the face is partially obscured by the camera, adding a sense of mystery and intimacy. The overall style is modern and documentary-like, with a sense of immediacy and authenticity, as if capturing a candid moment in the life of a photographer.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:57.138651",
+  "word_count": 178,
+  "error_message": null
+}

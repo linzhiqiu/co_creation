@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e052e2d-ff75-428b-bf9f-f3fe1f91a940.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single dancer is captured mid-movement in a dramatic, minimalist studio setting. The subject stands in the center of the frame, silhouetted against a seamless, softly lit white background that fades gently to gray at the edges, creating a sense of infinite space. The dancer’s pose is dynamic and expressive, with bent knees and arms positioned in a fluid, angular gesture, suggesting motion and rhythm. He wears loose, dark clothing that adds to the silhouette effect, with the fabric catching subtle highlights that hint at texture without revealing color or detail. The floor is highly reflective, mirroring the dancer’s form and enhancing the sense of depth and symmetry in the composition. The lighting is diffused and even, casting no harsh shadows, and the overall color palette is monochromatic, dominated by shades of black, white, and gray. The camera angle is straight-on at eye level, emphasizing the dancer’s form and movement, while a shallow depth of field keeps the focus sharp on the subject and their reflection. The mood is modern, stylish, and cinematic, evoking a sense of artistry and controlled energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:33.376491",
+  "word_count": 181,
+  "error_message": null
+}

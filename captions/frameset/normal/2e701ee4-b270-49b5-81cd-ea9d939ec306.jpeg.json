@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e701ee4-b270-49b5-81cd-ea9d939ec306.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quirky electronics store scene featuring a man with an enormous, voluminous afro and a full beard, standing behind a counter. He wears a pastel green polo shirt with a name tag that reads \"REGINALD\" and sports playful, oversized sunglasses with mint green frames. His expression is friendly and slightly amused, as if engaged in a lighthearted conversation with a customer whose blurred shoulder is visible in the foreground, creating a sense of depth. The background is softly out of focus, revealing a modern retail environment with computer monitors and posters on the walls, and another employee in a matching green shirt assisting a customer. The color palette is dominated by soft greens, whites, and neutral tones, giving the scene a clean, contemporary feel. The lighting is bright and even, evoking the atmosphere of a well-lit commercial space. The camera angle is at eye level, with a shallow depth of field that keeps the main subject crisp while gently blurring the background, lending a cinematic, almost comedic quality to the composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:46.392842",
+  "word_count": 171,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "48511dfd-4422-4fc5-b6ac-6dc52382814c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit observatory interior at night, dominated by a massive, vintage telescope pointed upward toward a domed ceiling. The telescope’s intricate mechanical details and cylindrical forms are highlighted by cool, bluish lighting that casts soft shadows, emphasizing the metallic textures. In the foreground, a solitary figure stands with their back to the viewer, partially silhouetted and gazing up at the telescope, suggesting a sense of awe and curiosity. The figure’s clothing is understated and blends into the low-key lighting, drawing focus to the imposing machinery. The composition uses a low, slightly off-center camera angle to enhance the scale and grandeur of the telescope, with the dome’s geometric panels forming a subtle, repeating pattern in the background. The overall mood is contemplative and cinematic, evoking themes of exploration and discovery, with a restrained color palette of deep blues, muted grays, and soft highlights.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:59.150716",
+  "word_count": 143,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "174baab0-f40e-4f2e-91b5-1aaf433ae5c6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands in the center of a fast-food kitchen, captured from the chest up in a medium close-up shot. He wears a black T-shirt, a matching black apron, and a black visor cap emblazoned with a red and white \"W\" logo, suggesting he is an employee at a recognizable fast-food chain. His light skin and short brown hair are visible beneath the visor. The man's expression is one of mild concern or uncertainty, with his lips pressed together and his eyes cast slightly downward, as if reacting to an awkward or unexpected situation.\n\nThe background is softly out of focus, emphasizing the subject while still revealing key details of the setting: stacks of bright yellow cans arranged in a pyramid on the left, stainless steel kitchen equipment, and neutral-colored cabinets, all contributing to the authentic atmosphere of a commercial kitchen. The lighting is bright and even, typical of an indoor workspace, with a cool, slightly clinical tone that enhances the realism of the scene. The color palette is dominated by blacks, grays, and metallic silvers, punctuated by the vivid yellow of the cans and the red of the logo, creating a visually cohesive and professional look.\n\nThe overall style is naturalistic, with a shallow depth of field that keeps the focus on the subject while subtly blurring the background. The camera angle is at eye level, inviting the viewer into the employee's perspective and capturing the candid, everyday moment with a touch of understated humor and relatability.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:31.108379",
+  "word_count": 249,
+  "error_message": null
+}

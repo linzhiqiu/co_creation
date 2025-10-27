@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ce6eb39-fabe-477a-8351-449d6939e15e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic aerial shot of an old, ornate high-rise building at night, captured from a high angle. The architecture is grand and slightly gothic, with a prominent circular turret featuring decorative stonework and arched windows. The building’s facade is weathered, with subtle details hinting at its age and history. On a small, dimly lit rooftop terrace, a solitary figure stands near the edge, illuminated by a faint, cool-toned light that contrasts with the deep shadows enveloping the rest of the scene. The color palette is dominated by desaturated blues, grays, and muted earth tones, evoking a somber, mysterious atmosphere. The lighting is low and naturalistic, with soft, ambient city glow barely reaching the rooftop, creating dramatic contrasts and a sense of isolation. The composition emphasizes the scale and grandeur of the architecture, while the lone figure adds a sense of narrative intrigue and emotional depth. The overall style is reminiscent of a neo-noir film, with a focus on mood, atmosphere, and architectural detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:11.898379",
+  "word_count": 164,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "350e256e-b280-4bc9-87df-042c65d06bbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white image set in a stark, dilapidated classroom with peeling, textured walls and exposed pipes. At the center, a stern-looking woman in utilitarian, drab clothing stands behind a simple wooden lectern, addressing a group of children seated at desks in the foreground, their backs to the viewer. The children wear plain, uniform-like outfits, their heads closely cropped, evoking a sense of conformity and discipline. The woman’s expression is serious and authoritative, reinforcing the somber, oppressive mood.\n\nOn the wall behind her hangs a large, framed portrait of a stern, mustachioed man in military attire, suggesting a totalitarian or authoritarian regime. To the left, a blackboard displays scientific illustrations of insects, adding an educational yet clinical atmosphere. The lighting is harsh and natural, casting deep shadows and highlighting the rough textures of the walls and the worn surfaces of the furniture. The composition is symmetrical and formal, with the teacher and portrait forming a strong vertical axis, while the students’ heads create a horizontal line in the foreground. The overall style is reminiscent of mid-20th-century propaganda or dystopian cinema, with a documentary-like realism and a sense of institutional control.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:14.876986",
+  "word_count": 189,
+  "error_message": null
+}

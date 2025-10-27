@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d34f008-22f5-4f40-bf4f-afbd7f0a438b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of five young women standing closely together against a plain, softly lit background. The composition is symmetrical, with the central figure slightly forward and the others arranged in a gentle arc around her, creating a sense of unity and quiet intensity. Each woman has a serious, contemplative expression, gazing directly into the camera, evoking a mood of introspection and strength. They are dressed in dark, tailored blazers with subtle variations in texture and pattern, lending a modern, minimalist fashion aesthetic. The color palette is muted and cool, dominated by shades of black, charcoal, and deep gray, with natural skin tones and understated makeup that highlights their features. The lighting is soft and diffused, casting gentle shadows that add depth without harsh contrasts. The overall style is reminiscent of high-fashion editorial photography, with a shallow depth of field that keeps the focus on the subjects while softly blurring the background. The camera angle is eye-level, enhancing the sense of intimacy and direct engagement with the viewer.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:18.902223",
+  "word_count": 169,
+  "error_message": null
+}

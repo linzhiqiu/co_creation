@@ -1,0 +1,12 @@
+{
+  "image_filename": "2624f029-af52-45dc-b0b8-002092302d73.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-angle shot looking directly down at a basketball hoop and backboard, centered in the frame, with the wooden court floor and painted blue lines clearly visible beneath. The scene is dramatically lit, with a warm, focused spotlight illuminating the hoop and the area immediately around it, while the edges of the court fade into deep shadow, creating a strong sense of contrast and depth. A basketball is captured in motion, just below the rim, suggesting a shot in progress or a ball about to drop through the net. The color palette features natural wood tones, vibrant blue court markings, and the orange of the basketball, all rendered with a soft, cinematic glow. The overall style is realistic yet stylized, evoking the tension and anticipation of a crucial moment in a basketball game, with a shallow depth of field that keeps the focus on the hoop and the ball, while the background remains subtly blurred.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:47.357572",
+  "word_count": 157,
+  "error_message": null
+}

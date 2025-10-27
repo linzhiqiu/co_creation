@@ -1,0 +1,12 @@
+{
+  "image_filename": "27e2aae7-f85f-4615-9b87-9e09f2c1fe36.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, modern factory floor stretches into the distance, filled with long, parallel rows of workstations and assembly lines. The scene is bustling with activity, as numerous workers—most wearing bright yellow shirts and blue caps—move purposefully between the stations or stand at their posts, focused on their tasks. The factory is bathed in soft, natural daylight streaming through large, evenly spaced windows along the high walls, creating a cool, industrial ambiance with a palette dominated by pale blues, greens, and grays, punctuated by the workers’ vivid uniforms and yellow safety signage. The ceiling is high and supported by a grid of steel beams, adding to the sense of scale and order. The camera angle is wide and slightly elevated, capturing the immense depth and symmetry of the space, with lines of machinery and people receding toward a vanishing point. The overall composition emphasizes the scale, efficiency, and regimented structure of mass production, evoking a sense of both industriousness and the impersonal rhythm of factory life. The lighting is even and diffused, with no harsh shadows, contributing to a documentary, almost cinematic realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:25.366897",
+  "word_count": 182,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "36a39d39-5783-415b-a19a-4f3179e35308.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a car dashboard, focusing sharply on the speedometer. The needle is pointing just above 120 km/h, conveying a sense of speed and motion. The dashboard is rendered in realistic detail, with clear, white numerals and tick marks on a black background, accented by cool blue needles. The odometer and other gauges, including the tachometer and fuel gauge, are partially visible, softly blurred at the edges due to a shallow depth of field. The lighting is natural and slightly diffused, suggesting daylight filtering through the car’s interior, with subtle reflections on the glass covering the dials. The overall color palette is muted and cool, dominated by blacks, whites, and blues, enhancing the modern, technical feel. The composition is tight and immersive, placing the viewer directly in the driver’s perspective, heightening the sense of urgency and movement. The style is realistic, with a slight cinematic quality reminiscent of a high-speed driving sequence in a film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:51.381619",
+  "word_count": 158,
+  "error_message": null
+}

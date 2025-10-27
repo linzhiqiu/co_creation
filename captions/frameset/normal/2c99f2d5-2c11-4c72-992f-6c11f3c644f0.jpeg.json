@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c99f2d5-2c11-4c72-992f-6c11f3c644f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, split-screen composition featuring two distinct yet thematically connected scenes. On the left, depict a solitary figure with curly hair, dressed in dark, loose-fitting clothing, standing beneath a concrete overpass or bridge. The setting is urban and slightly desolate, with harsh sunlight casting dramatic shadows and illuminating patches of graffiti on the structure above. The figure’s posture is contemplative, facing away from the viewer, evoking a sense of introspection and solitude. \n\nOn the right, present a close-up profile of the same person, their curly hair softly backlit by natural daylight. The subject is looking upward with a gentle, hopeful expression, as if basking in the warmth of the sun or lost in a moment of quiet joy. The background is softly blurred, suggesting the same urban environment but rendered with a shallow depth of field for an intimate, emotional effect.\n\nOverlay both scenes with the subtle texture of a chain-link fence, slightly out of focus, framing the entire composition and adding a sense of separation or longing. The color palette is muted and warm, with soft yellows, browns, and gentle sunlight, reminiscent of vintage film photography. The overall style is poetic and nostalgic, with a documentary-like authenticity and a touch of dreamy, analog imperfection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:11.453570",
+  "word_count": 206,
+  "error_message": null
+}

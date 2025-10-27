@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bc26318-ac58-4424-8dcd-7d530d57e0fd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single human hand emerges desperately from the surface of a vast, rippling body of water, fingers splayed in a silent plea for help. The water dominates the frame, its surface textured with gentle waves and subtle reflections, rendered in cool shades of blue and gray. The hand, partially submerged up to the wrist, is the only visible part of the person, creating a striking sense of isolation and urgency. The lighting is natural and diffuse, suggesting an overcast sky, with soft highlights glinting off the water’s undulating surface. The composition is minimalist and cinematic, with the hand positioned slightly off-center, drawing the viewer’s eye immediately. The camera angle is level with the water, enhancing the immersive, almost claustrophobic atmosphere. The overall mood is tense and dramatic, evoking themes of struggle, danger, and the fragility of life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:48.592981",
+  "word_count": 137,
+  "error_message": null
+}

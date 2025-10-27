@@ -1,0 +1,12 @@
+{
+  "image_filename": "2bc1580a-785f-432f-afc7-7c91c642d896.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, cinematic scene set in a modern, sunlit office or laboratory space, viewed partially through a frosted glass partition that creates a soft, diffused effect and subtle reflections. In the foreground, two men are engaged in a serious conversation. On the left, a mature man with gray hair and glasses wears a white lab coat, exuding the presence of a doctor or scientist. He faces the other man, who stands with his back to the camera, wearing a dark shirt with a white dotted pattern. The background is bright and minimal, with natural daylight streaming in, casting gentle shadows and enhancing the clean, clinical atmosphere. The composition uses a shallow depth of field, focusing on the interaction between the two figures while the glass adds an abstract, layered quality. The color palette is cool and muted, dominated by whites, grays, and soft blues, contributing to a calm, professional mood. The overall style is realistic with a touch of documentary or drama, emphasizing authenticity and subtle emotional tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:50.774877",
+  "word_count": 168,
+  "error_message": null
+}

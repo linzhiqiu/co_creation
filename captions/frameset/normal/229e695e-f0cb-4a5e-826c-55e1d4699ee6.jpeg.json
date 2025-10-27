@@ -1,0 +1,12 @@
+{
+  "image_filename": "229e695e-f0cb-4a5e-826c-55e1d4699ee6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a computer screen displaying a dark-themed cybersecurity or hacking interface. The focus is on a highlighted menu item labeled \"05 - Password Attacks,\" with other menu options such as \"04 - Database Assessment,\" \"06 - Wireless Attacks,\" and \"07 - Reverse Engineering\" visible but blurred in the background. The color palette is dominated by deep blues, blacks, and muted whites, evoking a high-tech, clandestine atmosphere. The lighting is low and moody, with the screen’s glow providing the primary illumination, casting a subtle, cool-toned reflection. The composition is tight and cinematic, with the camera angle slightly tilted and the cursor hovering over the selected menu item, suggesting imminent action. The overall style is reminiscent of a modern cyber-thriller, emphasizing tension, secrecy, and the technical sophistication of the digital world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:32.989484",
+  "word_count": 134,
+  "error_message": null
+}

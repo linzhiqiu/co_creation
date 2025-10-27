@@ -1,0 +1,12 @@
+{
+  "image_filename": "36a48be3-a722-4024-83e8-74c02ee0e634.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a breathtaking, high-resolution image of the Earth’s upper atmosphere as seen from near-space, just above the cloud layer. The composition is wide and cinematic, with a dramatic curvature of the planet visible, emphasizing the vastness and fragility of the Earth. Billowing, textured clouds stretch across the lower half of the frame, illuminated softly by the sunlight, creating a dynamic interplay of light and shadow. The sun sits low on the horizon, casting a radiant, ethereal glow that transitions from a brilliant white at the center to deep blues and finally to the inky blackness of space at the top of the image. The color palette is dominated by gradients of blue, white, and black, with subtle hints of gold where the sunlight touches the clouds. The overall mood is awe-inspiring and serene, evoking a sense of wonder and the sublime beauty of our planet. The style is hyper-realistic, with crisp details and a sense of immense scale, as if captured by a high-definition camera from a weather balloon or satellite.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:51.370574",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4984edd2-ef31-402d-9ea9-60b1d79b2e5b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, low-angle shot from a drone’s perspective, chasing a person running up concrete stairs between modern, angular walls. The runner wears sporty attire and a backpack, silhouetted against a bright blue sky. The scene features dramatic shadows, a cool color palette, and cinematic, wide-angle depth, evoking urgency and motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:18.933663",
+  "word_count": 50,
+  "error_message": null
+}

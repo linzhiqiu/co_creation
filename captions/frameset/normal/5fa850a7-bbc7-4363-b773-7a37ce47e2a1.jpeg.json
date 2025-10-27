@@ -1,0 +1,12 @@
+{
+  "image_filename": "5fa850a7-bbc7-4363-b773-7a37ce47e2a1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s wrist wearing a modern smartwatch, specifically an Apple Watch, with a light blue woven band. The watch face displays the Activity app, showing three colored rings (red, green, and blue) against a black background, with the time reading 8:12 in the upper right corner. The subject’s skin tone is warm and natural, and they are wearing a dark, ribbed long-sleeve garment. The background is softly blurred with a shallow depth of field, featuring muted teal and brown tones that create a calm, focused atmosphere. The lighting is soft and natural, likely from a window, casting gentle highlights and subtle shadows that enhance the texture of the watch band and the subject’s skin. The overall style is clean, modern, and minimalistic, with a focus on clarity and detail, reminiscent of a product advertisement or lifestyle photography. The camera angle is slightly above and to the side, emphasizing the watch face and the wrist, while the composition centers the watch as the main focal point.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:03.877401",
+  "word_count": 170,
+  "error_message": null
+}

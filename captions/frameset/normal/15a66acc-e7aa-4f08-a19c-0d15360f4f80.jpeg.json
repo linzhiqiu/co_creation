@@ -1,0 +1,12 @@
+{
+  "image_filename": "15a66acc-e7aa-4f08-a19c-0d15360f4f80.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with a receding hairline and a slightly distressed expression is seen through a warped, semi-transparent surface, as if viewed underwater or through a thick, undulating sheet of glass. He wears a brown plaid flannel shirt, and his hands are raised, palms open, pressing against the barrier, suggesting a sense of entrapment or desperation. The lighting is low and moody, casting soft shadows and highlighting the contours of his face and the rippling texture of the surface. The color palette is dominated by deep browns, muted blues, and subtle grays, creating a somber, introspective atmosphere. The composition is intimate and slightly off-center, with the camera positioned close to the subject, emphasizing his emotional state and the surreal, dreamlike quality of the scene. The overall style is cinematic, with a shallow depth of field that blurs the background and focuses attention on the man's face and the tactile distortion of the barrier, evoking a sense of psychological tension and surrealism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:49.611488",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b6f34d0-e31a-46e5-8eb1-16357f2d7bfc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with long, straight blonde hair and glasses sits alone at a table in a cozy, softly lit café. She is focused intently on her open laptop, her expression serious and absorbed in her work. She wears a light gray, ribbed knit sweater that adds a sense of comfort and warmth to the scene. In front of her, a clear glass mug filled with a frothy latte sits on the table, next to a smartphone and a closed notebook, suggesting a productive and contemplative atmosphere. The background is softly blurred, with large windows letting in natural daylight and revealing an out-of-focus view of trees and the outdoors, creating a gentle bokeh effect. The color palette is muted and natural, with warm beige, soft grays, and hints of brown, evoking a calm and introspective mood. The composition is intimate, shot at eye level with a shallow depth of field that keeps the woman sharply in focus while the background melts away, emphasizing her concentration and the quiet ambiance of the café.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:04.262772",
+  "word_count": 172,
+  "error_message": null
+}

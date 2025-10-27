@@ -1,0 +1,12 @@
+{
+  "image_filename": "128d2494-2f7b-4bb2-ba1e-ee22f3769b86.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, cinematic image of a Formula 1 race car speeding around a curve on a racetrack. The car is captured from a low, front-facing angle, emphasizing its aggressive aerodynamic design and the intricate details of its front wing and suspension. The car is predominantly white with black accents, featuring the number \"9\" prominently on the nose cone, and various sponsor logos subtly visible. The background shows empty grandstands with rows of red and white seats, slightly blurred to convey a sense of motion and speed. The lighting is dramatic, with a reddish tint cast over the entire scene, evoking a late afternoon or early evening atmosphere and adding intensity to the image. The overall color palette is dominated by deep reds, blacks, and whites, creating a bold, high-contrast look. The composition centers the car, with the racetrack curving away into the distance, enhancing the feeling of velocity and focus. The style is sleek and modern, with a shallow depth of field that keeps the car in sharp focus while the background fades softly, heightening the sense of action and excitement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:39.845405",
+  "word_count": 182,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "30e438bd-a3c2-4e51-9ee6-6708c441aca1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Capture an intimate, voyeuristic scene viewed through a circular vignette, as if seen through binoculars or a telephoto lens. The composition centers on a warmly lit window set into a terracotta-tiled exterior wall of a pastel pink building. Inside the window, two figures stand close together: a woman in a white t-shirt and dark pants, and a man in a dark shirt, their bodies turned toward each other in a gentle embrace or conversation. The lighting inside the room is a soft, golden yellow, casting a cozy, inviting glow that contrasts with the cool, muted tones of the building’s exterior. The window frame is white, and a small, colorful hanging ornament is visible on the right side of the window. The camera angle is slightly below the window, enhancing the sense of distance and observation. The overall mood is cinematic and slightly mysterious, evoking themes of privacy, intimacy, and the unseen stories within urban life. The depth of field is shallow, with the window and figures in sharp focus while the surrounding building and vignette edges are softly blurred, emphasizing the sense of peering into a private moment.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:40.457668",
+  "word_count": 189,
+  "error_message": null
+}

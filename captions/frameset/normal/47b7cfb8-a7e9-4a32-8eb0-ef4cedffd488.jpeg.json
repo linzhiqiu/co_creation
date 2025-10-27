@@ -1,0 +1,12 @@
+{
+  "image_filename": "47b7cfb8-a7e9-4a32-8eb0-ef4cedffd488.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a high-tech surveillance control room. The foreground is dominated by the silhouette of a man seen from behind, his head and shoulders slightly out of focus as he intently observes a large digital screen. The screen displays a grainy, desaturated security camera feed, shot from a high angle, showing a woman standing alone in a stark, sunlit outdoor area. She wears a light, tattered dress and appears disoriented or distressed, glancing upward toward the camera with a tense, wary expression. The timecode and camera label are visible at the bottom of the surveillance footage, adding to the sense of urgency and realism. Surrounding the main screen are additional monitors and digital overlays, featuring maps, data streams, and technical graphics in cool blue and teal tones, evoking a sense of global monitoring and advanced technology. The overall color palette contrasts the cold, dark blues and blacks of the control room with the harsh, overexposed whites and grays of the outdoor surveillance image. The lighting is moody and dramatic, with the control room bathed in dim, ambient light, emphasizing the glow of the screens. The composition uses a shallow depth of field to focus attention on the surveillance footage, creating a tense, voyeuristic atmosphere reminiscent of a modern thriller or sci-fi film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:51.141057",
+  "word_count": 217,
+  "error_message": null
+}

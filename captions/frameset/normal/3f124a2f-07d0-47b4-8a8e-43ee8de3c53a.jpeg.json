@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f124a2f-07d0-47b4-8a8e-43ee8de3c53a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed close-up, macro shot of the interior of a metallic lock cylinder, viewed through the circular opening as if seen through a microscope or magnifying lens. The composition centers on the intricate, brushed metal surfaces of the lock’s internal mechanisms, with two distinct, angular metal components partially illuminated. The lighting is low and focused, creating dramatic shadows and a sense of depth, while the edges of the circular frame fade into darkness, emphasizing the confined, secretive space. The color palette is dominated by cool metallic grays and silvers, with subtle blue reflections and hints of wear on the metal. The overall style is cinematic and precise, evoking a sense of mystery and technical intrigue, with a shallow depth of field that blurs the periphery and draws the viewer’s eye to the sharp, textured details at the center. The mood is tense and investigative, as if capturing a critical moment in a heist or espionage narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:52.450125",
+  "word_count": 157,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "27a7fa38-02d8-4f94-9dc1-8e14f67baee4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, atmospheric scene of a marsh or wetland at dusk. The composition is low to the ground, with the camera lens close to the water’s surface, capturing slender green reeds and aquatic plants emerging from the shallow, rippling water. The color palette is dominated by deep blues and muted greens, evoking the cool, tranquil ambiance of twilight. The lighting is soft and dim, with natural, diffused light suggesting the sun has just set, casting gentle shadows and subtle highlights on the water and foliage. The overall style is cinematic and contemplative, with a shallow depth of field that blurs the background, drawing focus to the delicate shapes of the plants in the foreground. The mood is serene and slightly mysterious, inviting the viewer to linger in the quiet beauty of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:15.697646",
+  "word_count": 134,
+  "error_message": null
+}

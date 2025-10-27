@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a080ed8-7a77-48a6-8b83-468d91eb0021.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime city scene featuring a sleek, modern luxury sedan in motion, captured in a dynamic side profile as it glides through an urban street. The car is a metallic silver-gray, its polished surface reflecting the ambient city lights. The background showcases tall, softly illuminated skyscrapers and blurred city lights, suggesting depth and a sense of bustling nightlife. The street is mostly empty, with subtle reflections on the asphalt, enhancing the moody, sophisticated atmosphere. The lighting is low and warm, with a gentle glow from streetlights and building windows, casting soft highlights and shadows on the car’s contours. The camera angle is low and parallel to the vehicle, emphasizing its elegant lines and sense of speed. The overall style is cinematic and refined, with a shallow depth of field that keeps the car in sharp focus while the background remains slightly blurred, evoking a sense of motion and urban luxury.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:28.472528",
+  "word_count": 152,
+  "error_message": null
+}

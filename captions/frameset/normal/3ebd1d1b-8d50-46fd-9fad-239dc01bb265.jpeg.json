@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ebd1d1b-8d50-46fd-9fad-239dc01bb265.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up shot of a person holding a large telephoto camera lens, with the lens dominating the foreground and the person's face mostly obscured behind it. The subject's hands grip the camera firmly, their skin warmly illuminated by golden hour sunlight. The background is softly blurred with a shallow depth of field, revealing hints of green foliage and a dusky blue sky, evoking an outdoor, natural setting. The color palette is rich and warm, with deep shadows and highlights that accentuate the textures of the hands and the reflective glass elements of the lens. The overall mood is intimate and focused, capturing the anticipation and concentration of a photographer in action. The composition emphasizes the scale and detail of the camera lens, with a slight bokeh effect and a natural, documentary-style realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:45.545214",
+  "word_count": 134,
+  "error_message": null
+}

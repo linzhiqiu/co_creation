@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f31441b-2c85-4bf9-b3da-b55a3cb532e5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, minimalist scene set on a basketball court with a bold, monochromatic red color palette. The background and floor are a seamless, vibrant red, with crisp white lines outlining the basketball court and hoop, giving the setting a graphic, almost abstract quality. In the center, two young men who appear to be twins or mirror images of each other stand facing each other, both dressed in casual, sporty attire: dark striped shirts, black shorts, and white sneakers. Each holds a bright orange basketball, adding a striking pop of color that contrasts with the red surroundings. The lighting is soft and even, casting gentle shadows that enhance the three-dimensionality of the figures without breaking the overall flatness of the scene. The composition is symmetrical and balanced, with the basketball hoop perfectly centered in the background and the two figures positioned equidistantly on either side. The overall style is clean, modern, and slightly surreal, evoking a dreamlike, conceptual atmosphere reminiscent of high-fashion editorial photography or contemporary art installations.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:54.271503",
+  "word_count": 168,
+  "error_message": null
+}

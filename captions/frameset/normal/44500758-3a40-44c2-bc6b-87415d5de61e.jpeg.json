@@ -1,0 +1,12 @@
+{
+  "image_filename": "44500758-3a40-44c2-bc6b-87415d5de61e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nighttime scene viewed from outside, looking through the illuminated windows of a dark train carriage. The composition is dominated by deep shadows and darkness, with only the interior of the train car visible through two rectangular windows. Inside, warm, soft lighting reveals a cozy, intimate setting: a woman with curly hair, dressed in a blue outfit, stands near a man in a white shirt, both partially obscured by the window frames and the dimness. The background is filled with shelves and objects, suggesting a lived-in, almost vintage atmosphere. The exterior of the train is glossy and black, reflecting faint highlights. The overall color palette is moody and subdued, with rich blacks, muted blues, and warm golden tones from the interior lights. The camera angle is straight-on, as if the viewer is an observer outside in the night, peering in. The style is cinematic and mysterious, evoking a sense of voyeurism and narrative intrigue, with a strong contrast between the darkness outside and the inviting glow within.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:36.617188",
+  "word_count": 167,
+  "error_message": null
+}

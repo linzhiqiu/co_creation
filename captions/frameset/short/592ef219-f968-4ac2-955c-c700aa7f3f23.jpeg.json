@@ -1,0 +1,12 @@
+{
+  "image_filename": "592ef219-f968-4ac2-955c-c700aa7f3f23.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A weathered elderly man in rugged outdoor gear and a red cap stands against a vast, textured, dark rocky backdrop. The lighting is muted and natural, casting soft shadows, evoking a somber, contemplative mood. The composition is cinematic, with shallow depth of field and earthy, subdued color tones.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:30.449289",
+  "word_count": 48,
+  "error_message": null
+}

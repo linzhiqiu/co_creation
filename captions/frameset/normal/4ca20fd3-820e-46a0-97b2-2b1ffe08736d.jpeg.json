@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ca20fd3-820e-46a0-97b2-2b1ffe08736d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, dimly lit office environment with a cinematic, moody atmosphere. The scene is set in a spacious, open-plan workspace with polished concrete floors and a high, dark ceiling. In the foreground to the right, a janitor in silhouette mops the floor next to a bright orange bucket, their figure partially obscured by shadow, adding a sense of realism and daily routine. In the background, a glass-walled meeting room is brightly illuminated by overhead lights, creating a stark contrast with the darker surroundings. Inside the meeting room, two men in business attire sit across from each other at a sleek table, engaged in a serious conversation, with a potted plant and a large monitor visible behind them. To the left, two more men in suits stand in the open area, conversing quietly, their postures formal and professional. The color palette is cool and subdued, dominated by shades of gray, blue, and black, with occasional pops of color from the janitor’s equipment and the plant. The composition uses strong lines and reflections from the glass walls to create depth and a sense of separation between the different groups, while the overall style evokes a sense of corporate life, routine, and subtle tension. The camera angle is slightly low and wide, emphasizing the scale of the space and the isolation of the individuals within it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:37.800551",
+  "word_count": 223,
+  "error_message": null
+}

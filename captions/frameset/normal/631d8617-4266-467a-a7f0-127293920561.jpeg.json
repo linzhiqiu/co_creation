@@ -1,0 +1,12 @@
+{
+  "image_filename": "631d8617-4266-467a-a7f0-127293920561.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, wide-angle black and white photograph of a grand, cavernous interior space resembling a historic train station or a monumental library reading room. The architecture features soaring arched ceilings with intricate grid patterns, massive columns, and a vast, luminous window dominating the far wall, flooding the space with soft, diffused natural light. The foreground and midground are filled with rows of empty tables and chairs, arranged in a symmetrical, orderly fashion, emphasizing the scale and emptiness of the hall. The lighting is moody and high-contrast, casting deep shadows and highlighting the architectural details. The overall atmosphere is serene, contemplative, and slightly melancholic, evoking a sense of solitude and awe. The composition is perfectly centered, with a strong sense of depth and perspective leading the viewer’s eye toward the glowing window at the back. The style is cinematic and timeless, reminiscent of classic film noir or architectural photography, with crisp lines and a focus on the interplay between light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:30.839071",
+  "word_count": 163,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3119d96b-1630-4b98-a544-d98a4d55ea4e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single hot dog in a soft, lightly golden bun sits centered on a simple white plate, placed on a dark countertop. The composition is minimalist, with the hot dog positioned in perfect profile at the center of the frame, shot at eye level for a dramatic, almost reverent perspective. The background is softly blurred, featuring warm, out-of-focus tones of brown and hints of color, suggesting a cozy diner or kitchen setting without drawing attention away from the subject. The lighting is warm and natural, casting gentle highlights on the bun and plate, while subtle shadows ground the scene. The color palette is dominated by earthy browns, creamy whites, and muted yellows, creating a nostalgic, cinematic atmosphere reminiscent of classic American films. The overall style is clean and contemplative, with a shallow depth of field that isolates the hot dog, inviting the viewer to appreciate its simplicity and everyday beauty.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:43.319127",
+  "word_count": 150,
+  "error_message": null
+}

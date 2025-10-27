@@ -1,0 +1,12 @@
+{
+  "image_filename": "38197521-7658-4324-85bf-178e2df1ce3e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody urban scene featuring a young woman running at full speed along a wet city sidewalk. She is captured in profile, mid-stride, with her hair pulled back and a light-colored jacket tied around her shoulders. She wears dark pants and sneakers, and carries a backpack. The background consists of modern glass and steel buildings, partially obscured by tall palm trees swaying in the wind, and a construction site with fencing and signage. The lighting is overcast and subdued, casting a cool, desaturated color palette with hints of green and gray, evoking a sense of urgency and tension. The camera angle is low and parallel to the runner, emphasizing motion blur and a shallow depth of field, with the subject sharply in focus against the blurred cityscape. The overall style is reminiscent of a dramatic thriller or dystopian film, with a sense of isolation and movement through an impersonal urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:22.648762",
+  "word_count": 153,
+  "error_message": null
+}

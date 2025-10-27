@@ -1,0 +1,12 @@
+{
+  "image_filename": "60c03c24-5bc4-47b6-98f1-a5904e305627.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person sitting at a wooden table, intently reading an article titled \"Computer Science\" on a white tablet. The subject’s left arm, adorned with a turquoise fitness tracker, rests casually on the table, suggesting a relaxed yet focused posture. The background is softly blurred, with a shallow depth of field that draws attention to the tablet’s screen, where the text and a university-style crest are clearly visible. To the left, a spiral notebook with a red pen lies open, hinting at study or note-taking, while to the right, a white ceramic cup filled with coffee sits on a woven placemat, adding a touch of warmth and everyday realism. The color palette is muted and natural, dominated by soft browns, whites, and gentle turquoise accents, with diffused daylight streaming in from an unseen window, creating a calm, studious atmosphere. The overall style is modern and documentary-like, with a focus on authenticity and the quiet concentration of a personal study moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:37.828063",
+  "word_count": 164,
+  "error_message": null
+}

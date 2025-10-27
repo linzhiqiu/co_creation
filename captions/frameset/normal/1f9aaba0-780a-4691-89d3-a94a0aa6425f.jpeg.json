@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f9aaba0-780a-4691-89d3-a94a0aa6425f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary car is parked in the center of a vast, snow-covered forest, captured from a high, top-down aerial perspective. The scene is dominated by a pristine white blanket of snow, interrupted only by the dark, vertical forms of tall pine trees scattered irregularly across the landscape. The car, small and dark, stands out starkly against the white ground, its presence emphasizing the isolation and scale of the environment. Subtle tire tracks lead to the vehicle, hinting at recent movement. The color palette is cool and subdued, with crisp whites, deep greens of the pine needles, and the muted gray-black of the car. The lighting is soft and diffuse, suggesting an overcast sky, which enhances the tranquil, almost silent atmosphere. The composition is minimalist and cinematic, with a strong sense of symmetry and negative space, evoking feelings of solitude, contemplation, and the quiet beauty of winter wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:30.942023",
+  "word_count": 147,
+  "error_message": null
+}

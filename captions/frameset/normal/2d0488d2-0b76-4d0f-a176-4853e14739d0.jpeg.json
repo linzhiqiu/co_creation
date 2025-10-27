@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d0488d2-0b76-4d0f-a176-4853e14739d0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A line of dancers is captured in perfect unison, their legs forming a rhythmic, repeating pattern as they stand side by side. The image is shot from a low, side angle, focusing exclusively on the dancers’ legs and feet, which are clad in identical high-heeled shoes. The legs are elegantly posed, knees slightly bent, toes pointed, creating a sense of dynamic movement and precision. The background is dark and minimal, drawing all attention to the illuminated legs and the glossy, reflective floor beneath them, which subtly mirrors their forms. The lighting is soft yet dramatic, casting gentle highlights and shadows that accentuate the contours and uniformity of the dancers’ limbs. The overall style is reminiscent of classic black-and-white cinematography, evoking the glamour and discipline of a vintage chorus line or a 1930s musical revue. The composition emphasizes symmetry, repetition, and the collective grace of the performers, creating a visually striking and timeless scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:16.823504",
+  "word_count": 153,
+  "error_message": null
+}

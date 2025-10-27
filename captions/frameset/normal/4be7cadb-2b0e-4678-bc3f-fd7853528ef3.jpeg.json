@@ -1,0 +1,12 @@
+{
+  "image_filename": "4be7cadb-2b0e-4678-bc3f-fd7853528ef3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a modern, minimalist interior with clean architectural lines and a sense of spaciousness. The main subject is a young woman with long blonde hair, standing on an upper-level wooden balcony with sleek metal railings. She is dressed in a vibrant blue sweatshirt with white lettering on the sleeve, paired with light-colored pants. Her expression is contemplative and serene as she gazes outward, slightly turned to the side, suggesting introspection or anticipation.\n\nThe camera angle is low and wide, looking up toward the subject to emphasize the height and openness of the space. In the background, a geometric, hexagonal wall art piece in bold red and yellow hues adds a pop of color and visual interest to the otherwise soft, neutral palette of whites, light woods, and subtle shadows. The lighting is natural and diffused, filling the scene with a gentle, airy brightness that enhances the tranquil mood. The overall style is contemporary and artful, with a focus on clean composition, architectural elements, and a sense of quiet, modern elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:16.456269",
+  "word_count": 176,
+  "error_message": null
+}

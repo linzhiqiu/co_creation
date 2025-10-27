@@ -1,0 +1,12 @@
+{
+  "image_filename": "21abc796-54ca-4cce-8119-731d658e27f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single woman stands centered behind a podium in a minimalist, box-like frame, reminiscent of a game show or awards ceremony. The subject, with shoulder-length wavy blonde hair, wears a textured, patterned jacket in muted tones, exuding understated elegance. She smiles gently, projecting warmth and confidence. The podium is sleek and black, with bold yellow capital letters displaying the name \"LÉA SEYDOUX.\" The background is a solid, matte blue, creating a clean, modern atmosphere and drawing focus to the subject. The composition is symmetrical and tightly cropped, with the box’s black borders forming a grid-like structure, suggesting other similar frames adjacent but only partially visible. The lighting is soft and even, eliminating harsh shadows and lending a polished, studio-quality finish. The overall style is contemporary and cinematic, with a sense of formality and poise, evoking the aesthetic of a high-profile televised event or an artful portrait series.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:12.473438",
+  "word_count": 147,
+  "error_message": null
+}

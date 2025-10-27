@@ -1,0 +1,12 @@
+{
+  "image_filename": "1be731e7-26b4-440b-bd51-32044afe4def.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of an older person sitting at a wooden table, gazing at a laptop screen. The viewer sees the scene from over the person's shoulder, with their hand resting near the keyboard, slightly out of focus in the foreground. On the laptop screen is a vivid, high-resolution image of a picturesque European city at sunset, featuring a historic stone tower, a covered wooden bridge, and elegant old buildings reflected in a calm river. The sky is tinged with warm golden and pink hues, casting a soft, inviting glow over the cityscape. The room is dimly lit, with natural light filtering in, creating a cozy, contemplative atmosphere. A white ceramic mug sits on the table beside the laptop, and a closed book with a decorative cover is partially visible. The overall color palette is warm and muted, with rich browns, soft grays, and the golden tones of the sunset. The composition emphasizes a sense of nostalgia and quiet reflection, with a shallow depth of field drawing attention to the laptop screen and the evocative scene it displays.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:05.641023",
+  "word_count": 179,
+  "error_message": null
+}

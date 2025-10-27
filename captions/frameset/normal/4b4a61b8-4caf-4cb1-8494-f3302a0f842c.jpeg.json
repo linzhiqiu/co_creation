@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b4a61b8-4caf-4cb1-8494-f3302a0f842c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man with short hair, dressed in a light gray button-up shirt, sits at a wooden table in a minimalist, modern room. He is seen from behind and slightly to the side, holding a TV remote in his right hand, pointed toward a large flat-screen television in front of him. The TV screen displays a recursive image: the same man, in the same position, is shown on a laptop placed on the table, with the laptop screen repeating the scene again, creating an infinite loop effect. The background behind the man is a solid, vibrant purple, contrasting with the teal-blue wall above the TV. The lighting is soft and even, with no harsh shadows, giving the scene a calm, contemplative mood. The color palette is bold and modern, dominated by purples, blues, and neutral tones. The composition is carefully framed, with a shallow depth of field that keeps the man and the recursive screens in sharp focus, while the background remains smooth and uncluttered. The overall style is cinematic and surreal, evoking a sense of introspection and digital infinity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:00.395214",
+  "word_count": 179,
+  "error_message": null
+}

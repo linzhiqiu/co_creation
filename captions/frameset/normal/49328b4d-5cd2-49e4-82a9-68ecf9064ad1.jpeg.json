@@ -1,0 +1,12 @@
+{
+  "image_filename": "49328b4d-5cd2-49e4-82a9-68ecf9064ad1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic black-and-white cinematic scene set in feudal Japan, captured with a wide-angle lens and a low, slightly off-center camera angle to emphasize tension and depth. In the foreground, a lone samurai stands with his back to the viewer, his katana sheathed at his side, body poised and alert as he faces a group of nine men. The group, arranged in a tight, slightly staggered formation, all wear traditional kimono and hakama, their garments featuring subtle patterns and family crests. Their expressions are stern and resolute, each man focused intently on the lone samurai, suggesting a confrontation or standoff. The background is a barren, slightly sloping expanse of earth, devoid of vegetation or structures, heightening the sense of isolation and impending conflict. The lighting is natural and diffuse, casting soft shadows and highlighting the textures of the clothing and ground. The overall style is reminiscent of classic Japanese cinema, with high contrast, crisp detail, and a somber, suspenseful mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:15.779176",
+  "word_count": 159,
+  "error_message": null
+}

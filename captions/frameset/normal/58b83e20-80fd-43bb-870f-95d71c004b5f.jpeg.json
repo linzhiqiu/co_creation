@@ -1,0 +1,12 @@
+{
+  "image_filename": "58b83e20-80fd-43bb-870f-95d71c004b5f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic close-up shot of a basketball hoop captures the precise moment a yellow and red basketball passes cleanly through the net. The camera angle is slightly low and tilted upward, emphasizing the rim and the ball’s motion as it blurs with speed, suggesting a successful shot. The backboard is clear and modern, with visible bolts and a faint reflection, set against the muted industrial ceiling of an indoor gymnasium. The lighting is soft and natural, diffused from above, casting gentle shadows and highlighting the textures of the net and ball. The color palette is subdued, dominated by neutral grays and blacks of the gym, contrasted by the vivid red and yellow of the basketball and the red rim. The overall style is cinematic, with a shallow depth of field that keeps the focus tightly on the hoop and ball, while the background remains softly out of focus. The composition conveys energy and anticipation, freezing a fleeting, triumphant moment in the game.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:20.272935",
+  "word_count": 162,
+  "error_message": null
+}

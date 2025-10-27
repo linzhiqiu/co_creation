@@ -1,0 +1,12 @@
+{
+  "image_filename": "34277e25-4c1d-49b5-b333-f01aa7e8d28e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic classroom scene featuring a diverse group of middle school students seated at individual desks arranged in neat rows. The focus is on the foreground, where two students are prominently visible: one girl with long dark hair, wearing a gray sweater, is intently working on a tablet, while another student beside her, with straight black hair and a light jacket, is bent over her desk, writing with concentration. In the background, more students are engaged in various activities—some using tablets, others writing—creating a sense of quiet academic focus. The classroom is softly lit by natural daylight streaming through large, partially covered windows at the back, casting a gentle, diffused glow across the room. The color palette is muted and natural, with soft blues, grays, and earth tones dominating the scene. The camera angle is eye-level, capturing the students from the front and slightly to the side, with a moderate depth of field that keeps the foreground sharp while gently blurring the background. The overall style is documentary and authentic, evoking a calm, studious atmosphere typical of a modern educational environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:47.597003",
+  "word_count": 181,
+  "error_message": null
+}

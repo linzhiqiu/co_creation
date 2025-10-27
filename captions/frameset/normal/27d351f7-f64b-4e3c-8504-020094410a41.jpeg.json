@@ -1,0 +1,12 @@
+{
+  "image_filename": "27d351f7-f64b-4e3c-8504-020094410a41.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, cinematic scene set in a stark, fluorescent-lit office space with a grid of overhead lights receding into the distance. The room is filled with rows of identical office chairs, each occupied by a person dressed in formal business attire—white shirts, dark trousers, and blazers. The subjects are slumped backward in their chairs in unnatural, almost puppet-like poses, heads thrown back or to the side, arms limp, evoking a sense of exhaustion, conformity, or loss of agency. The composition is symmetrical, with the camera positioned at a low, central angle, creating a sense of depth and repetition. The color palette is cold and desaturated, dominated by icy blues, grays, and stark whites, enhancing the sterile, oppressive atmosphere. The lighting is harsh and clinical, casting minimal shadows and emphasizing the monotony of the environment. In the background, stacks of cardboard boxes and office equipment line the walls, reinforcing the mundane corporate setting. The overall style is reminiscent of dystopian or absurdist cinema, with a focus on visual metaphor and emotional detachment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:24.949760",
+  "word_count": 171,
+  "error_message": null
+}

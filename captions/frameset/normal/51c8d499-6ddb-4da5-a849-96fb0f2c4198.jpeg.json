@@ -1,0 +1,12 @@
+{
+  "image_filename": "51c8d499-6ddb-4da5-a849-96fb0f2c4198.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, surreal portrait of a woman with short, wavy dark hair and light eyes, wearing a simple black turtleneck. She sits against a seamless, deep black background, softly illuminated by diffused, even lighting that highlights her gentle smile and calm, confident expression. The composition is kaleidoscopic: her face is reflected multiple times in a geometric, hexagonal pattern, as if seen through a mirrored prism. Each reflection is crisp and clear, radiating outward from the central, direct gaze of the subject. The overall color palette is minimalist, dominated by blacks and subtle skin tones, with a cool, modern aesthetic. The image has a clean, high-contrast look, with sharp lines separating each mirrored segment, evoking a sense of introspection and multiplicity. The camera angle is straight-on, with a shallow depth of field that keeps the central face in sharp focus while the reflections remain equally vivid, creating a mesmerizing, almost cinematic visual effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:31.023591",
+  "word_count": 153,
+  "error_message": null
+}

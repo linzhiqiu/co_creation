@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ceaa1f1-0d0c-4ee7-8640-3859a39098f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution, overhead satellite image of an industrial urban area, printed across the centerfold of a large map or technical document. The scene is dominated by a grid of snow-dusted rooftops and rectangular warehouses, their pale surfaces interrupted by the shadows of surrounding structures. The color palette is muted and cold, with dominant tones of white, gray, and faded blue, evoking a wintry, overcast atmosphere. Superimposed on the map are precise, semi-transparent technical markings: a large compass rose with degree notations, radial lines, and a central black dot, suggesting a point of interest or target. Scattered across the map are several small, colored rectangular markers, possibly representing vehicles or points of interest, adding subtle pops of red, yellow, and brown. The composition is top-down and symmetrical, with the fold of the map running vertically through the center, creating a slight distortion and shadow. The edges of the image reveal hints of additional technical diagrams and measurement scales, reinforcing the analytical, surveillance-driven mood. The overall style is clinical and documentary, reminiscent of a scene from a spy thriller or military reconnaissance briefing, with sharp focus and a sense of calculated precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:15.848725",
+  "word_count": 190,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e6d39af-fea0-47f9-a871-3889408c7c6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up portrait of an androgynous individual with striking, unconventional beauty. The subject has pale skin, bleached eyebrows, and wears bold, soft pink eyeshadow that contrasts with their natural complexion. Their lips are slightly parted, with a natural, muted tone. The person has a distinctive hairstyle: short, choppy black bangs with longer, mullet-style hair at the back. They wear large silver hoop earrings and a prominent silver septum ring, adding a touch of punk or alternative fashion.\n\nThe expression is calm and introspective, with the subject gazing slightly past the camera, creating a sense of vulnerability and depth. The background is softly blurred, featuring hints of green foliage and dappled sunlight, suggesting an outdoor setting with a shallow depth of field that keeps the focus on the face. The lighting is natural and diffused, casting gentle highlights and soft shadows that enhance the subject’s facial features and skin texture.\n\nThe overall style is cinematic and intimate, with a slightly wide-angle lens effect that subtly distorts the perspective, making the face appear even more prominent and engaging. The color palette is soft and natural, with cool undertones and a gentle interplay of light and shadow, evoking a sense of quiet confidence and individuality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:06.332321",
+  "word_count": 203,
+  "error_message": null
+}

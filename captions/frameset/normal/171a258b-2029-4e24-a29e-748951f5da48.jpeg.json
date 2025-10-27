@@ -1,0 +1,12 @@
+{
+  "image_filename": "171a258b-2029-4e24-a29e-748951f5da48.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person in a dark suit writing on a whiteboard in a softly lit, modern office or laboratory setting. The camera is positioned at a slight angle, focusing on the person's hand as they write with a black marker, while their upper body is partially out of frame on the right. The whiteboard is filled with a mix of handwritten scientific terms and diagrams in both black and red ink, including phrases like \"insulin,\" \"cell death (LTD),\" and arrows connecting various concepts. The lighting is natural and subdued, casting gentle shadows and creating a contemplative, serious mood. The color palette is cool and muted, dominated by whites, greys, and the dark tones of the suit, with subtle highlights from the red and black ink. The overall style is realistic and documentary-like, with a shallow depth of field that keeps the focus on the writing and the immediate foreground, while the background remains softly blurred, emphasizing the intellectual and analytical atmosphere of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:23.674121",
+  "word_count": 168,
+  "error_message": null
+}

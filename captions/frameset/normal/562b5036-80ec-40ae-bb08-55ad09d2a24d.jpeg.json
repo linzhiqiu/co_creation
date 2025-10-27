@@ -1,0 +1,12 @@
+{
+  "image_filename": "562b5036-80ec-40ae-bb08-55ad09d2a24d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, highly detailed shot of a vintage electronic control panel. The composition centers on three distinct elements: on the left, a small, round, glass-covered indicator labeled \"MOTOR\" with a metallic rim and visible filament inside; in the middle, a faceted, deep red jewel light labeled \"AMPLIFIER,\" set in a metal ring and catching the light with subtle reflections; and on the right, a classic metal toggle switch labeled \"OFF,\" positioned downward. The background is a textured, matte blue-gray metal surface, showing slight wear and age. The lighting is soft and diffuse, highlighting the textures and metallic surfaces without harsh shadows. The color palette is muted and industrial, dominated by cool grays, silvers, and the striking red of the jewel light. The camera angle is straight-on, with a shallow depth of field that keeps all three elements in sharp focus, emphasizing the tactile quality and retro aesthetic of the scene. The overall mood is nostalgic and mechanical, evoking mid-20th-century technology with a sense of precision and craftsmanship.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:30.630461",
+  "word_count": 168,
+  "error_message": null
+}

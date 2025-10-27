@@ -1,0 +1,12 @@
+{
+  "image_filename": "1be80945-694b-40f2-99a4-73eb26a8aa84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle cinematic shot of a snow-covered landscape under a bright blue sky, with wispy clouds stretching across the horizon. In the foreground, a small, modern drone lies partially embedded in the pristine white snow, its dark metallic body and folded propellers contrasting sharply against the soft, sunlit surface. Sparse, dry shrubs poke through the snow, adding texture and depth to the scene. The midground features rolling, snow-dusted hills and a scattering of low vegetation, leading the eye toward a distant, gently sloping ridge. The lighting is crisp and natural, with sunlight casting subtle shadows and highlighting the contours of the snow. The overall color palette is cool and clean, dominated by whites and blues, with muted earth tones from the vegetation. The composition emphasizes a sense of isolation and quiet, with a shallow depth of field that keeps the drone in sharp focus while the background softly blurs, evoking a contemplative, almost melancholic mood. The camera angle is low to the ground, enhancing the scale of the landscape and the smallness of the drone within it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:07.258110",
+  "word_count": 177,
+  "error_message": null
+}

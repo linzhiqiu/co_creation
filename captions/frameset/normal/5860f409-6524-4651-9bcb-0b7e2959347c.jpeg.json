@@ -1,0 +1,12 @@
+{
+  "image_filename": "5860f409-6524-4651-9bcb-0b7e2959347c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of an old, dark wooden door partially ajar, with a heavy focus on the upper corner and edge of the door. The surface of the door is worn and matte, showing subtle scratches and a single, visible metal rivet. Delicate, intricate cobwebs stretch across the frame, catching the faint, moody light and creating a sense of abandonment and neglect. The background is shrouded in deep shadow, enhancing the mysterious and eerie atmosphere. The color palette is dominated by dark browns, blacks, and muted grays, with soft, directional lighting that highlights the texture of the wood and the gossamer threads of the cobwebs. The composition is tight and intimate, with a shallow depth of field that blurs the background and draws attention to the tactile details of the door and webs, evoking a sense of suspense and quiet decay.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:15.513198",
+  "word_count": 143,
+  "error_message": null
+}

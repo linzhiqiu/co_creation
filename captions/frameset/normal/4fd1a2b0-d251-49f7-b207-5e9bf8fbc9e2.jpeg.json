@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fd1a2b0-d251-49f7-b207-5e9bf8fbc9e2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a moody, cinematic scene set in a dimly lit, claustrophobic interior. The main subject is a solitary middle-aged man, dressed in a dark coat and scarf, standing slightly hunched in the foreground. His expression is tense and contemplative, as if he is deep in thought or wary of his surroundings. The room is bathed in an eerie, cold blue light emanating from several fluorescent tubes mounted vertically and horizontally on the walls, casting stark, angular shadows and giving the space a surreal, almost otherworldly atmosphere. The background features a window with closed blinds, diffusing the blue glow, and a large object draped in a sheet, adding to the sense of mystery and unease. The overall color palette is dominated by shades of blue and black, with high contrast and minimal warm tones. The composition uses a slightly low camera angle and shallow depth of field, focusing on the man while allowing the glowing lights and shadowy corners to recede into a hazy, dreamlike blur. The style evokes neo-noir and science fiction influences, emphasizing isolation, suspense, and a sense of impending revelation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:51.976360",
+  "word_count": 183,
+  "error_message": null
+}

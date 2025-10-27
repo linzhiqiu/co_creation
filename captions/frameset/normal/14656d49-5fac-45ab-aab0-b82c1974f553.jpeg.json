@@ -1,0 +1,12 @@
+{
+  "image_filename": "14656d49-5fac-45ab-aab0-b82c1974f553.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-contrast, monochrome photograph of a chessboard viewed from directly above, capturing a dramatic endgame scenario. The chessboard fills the frame, its alternating light and dark squares rendered in shades of gray. Several chess pieces remain: a black king and pawn on the right, a white king in the lower right corner, a black queen and pawn near the center and left, and a white pawn on the left edge. The most striking feature is a small, boxy camera or sensor device mounted on a stand, positioned over the center of the board, casting a sharp, rectangular shadow and reflecting a bright light source. The lighting is stark and clinical, emphasizing the geometric patterns of the board and the glossy surfaces of the pieces. The overall style is utilitarian and documentary, with a focus on clarity and detail, evoking the atmosphere of a scientific experiment or a high-stakes chess analysis. The composition is symmetrical and orderly, with a shallow depth of field that keeps the entire board and device in sharp focus, creating a sense of tension and precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:20.802035",
+  "word_count": 179,
+  "error_message": null
+}

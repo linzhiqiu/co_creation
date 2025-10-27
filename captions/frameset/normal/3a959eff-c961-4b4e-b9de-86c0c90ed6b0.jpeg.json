@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a959eff-c961-4b4e-b9de-86c0c90ed6b0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, dreamlike portrait of a person from the shoulders up, centered against a plain, softly lit background. The subject’s features are androgynous and partially obscured by a striking motion blur effect, creating the illusion of multiple overlapping faces and heads. Use a vibrant, prismatic color palette with strong red, green, and blue overlays that blend and intersect across the figure, producing a ghostly, psychedelic aura. The lighting is diffuse and even, with no harsh shadows, enhancing the ethereal quality. The composition is symmetrical, with the subject’s gaze directed forward, but the repeated, semi-transparent layers evoke a sense of movement, disorientation, and altered perception. The overall style is experimental and cinematic, reminiscent of analog film photography with a modern, digital twist, emphasizing visual distortion and emotional ambiguity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:17.178244",
+  "word_count": 128,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2be6e587-c4bb-4ec5-9f73-026baeb99acd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody portrait of a young woman seated at a table, bathed in deep blue and purple lighting that casts dramatic shadows and highlights across her face. She wears a sleek, dark blazer with a subtle, modern cut, and her hair is styled in neat braids, framing her face elegantly. Her expression is contemplative and slightly distant, with her eyes half-closed as she holds a large, faceted crystal up to her cheek, as if lost in thought or examining its beauty. The table in front of her is adorned with sparkling glass objects and reflective surfaces, catching the colored light and adding a sense of opulence and intrigue. The background is softly blurred, with hints of abstract shapes and vertical lines, enhancing the sense of depth and focus on the subject. The overall style is reminiscent of a high-fashion editorial or a neo-noir film, with a shallow depth of field, rich jewel tones, and a sophisticated, enigmatic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:53.893947",
+  "word_count": 160,
+  "error_message": null
+}

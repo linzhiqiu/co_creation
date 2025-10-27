@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f1633a6-3070-40ef-9c13-7b0d68fdffb4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic nighttime urban scene featuring a bright orange compact SUV speeding along an empty city street. The car is captured in sharp focus from a side angle, with a sense of motion conveyed by the blurred background and the subtle streaks of light reflecting off the wet pavement. The SUV’s headlights and taillights are illuminated, casting a cool blue and red glow that contrasts with the warm orange of the vehicle. The background consists of tall concrete pillars and a low wall, softly lit by diffused, industrial lighting that creates a moody, cinematic atmosphere. The overall color palette is a mix of deep blues, grays, and the vivid orange of the car, with reflections on the road enhancing the sense of speed and movement. The composition emphasizes the car’s sleek design and energy, with a shallow depth of field isolating the vehicle against the urban backdrop, evoking a modern, high-adrenaline vibe reminiscent of a car commercial or action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:02.739238",
+  "word_count": 160,
+  "error_message": null
+}

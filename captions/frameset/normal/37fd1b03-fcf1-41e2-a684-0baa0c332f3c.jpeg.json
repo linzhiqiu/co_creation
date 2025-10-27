@@ -1,0 +1,12 @@
+{
+  "image_filename": "37fd1b03-fcf1-41e2-a684-0baa0c332f3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic scene set during twilight, viewed from the luxurious backseat of a high-end car with tan leather upholstery and elegant stitching. The camera angle is from inside the car, looking out through the open rear door and panoramic sunroof, capturing the soft, fading blue and purple hues of the evening sky. In the foreground, a woman with dark, shoulder-length hair sits in the backseat, her face turned toward the open door, partially illuminated by the cool ambient light. She wears a dark, tailored coat, her posture relaxed yet attentive, hands gently clasped in her lap. Outside the car, a figure in a dark suit is just visible, stepping away from the vehicle, silhouetted against a serene landscape of distant mountains and a calm body of water. The overall mood is contemplative and cinematic, with a shallow depth of field that keeps the focus on the woman and the luxurious car interior, while the background remains softly blurred. The lighting is natural and subdued, evoking a sense of quiet anticipation and understated elegance.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:18.714489",
+  "word_count": 175,
+  "error_message": null
+}

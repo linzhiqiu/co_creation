@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bb76882-0f41-4629-b4f8-01a86527a8e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a science laboratory table, bathed in soft, natural daylight with a shallow depth of field that blurs the background into gentle greens and whites. In the foreground, a human hand reaches toward a clear glass beaker labeled \"Sucrose,\" filled with transparent liquid. Next to the beaker stands a small, upright graduated cylinder with precise measurement markings, its base a vivid red. Dominating the right side of the composition is a detailed anatomical model of a human brain cross-section encased in a transparent, square acrylic block, with fine black labels radiating from the central brain tissue. The lighting is diffuse and highlights the textures of glass, liquid, and the intricate brain model, creating a clean, clinical, and slightly academic atmosphere. The overall color palette is cool and neutral, with subtle pops of color from the red cylinder base and the yellowish tint of the brain model. The camera angle is at table height, emphasizing the tactile interaction and scientific focus, evoking a sense of curiosity and precision in a modern educational or research setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:19.897910",
+  "word_count": 178,
+  "error_message": null
+}

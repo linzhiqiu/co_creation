@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e479167-1894-4d43-9f49-666f897be4a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-angle, wide shot inside a modern elevator with mirrored walls, creating multiple reflections and a sense of depth. The main subject is a person standing in the center of the elevator, wearing a bright green balaclava that completely covers their head, paired with a black t-shirt, black pants, and black shoes. The person is holding a professional video camera, focused intently on adjusting its settings, suggesting a behind-the-scenes or surveillance theme. The elevator’s interior is sleek and metallic, with cool, neutral tones dominating the color palette—mainly silvers and grays, contrasted sharply by the vivid green of the balaclava. The lighting is bright and even, with no harsh shadows, emphasizing the clinical, almost sterile atmosphere. The mirrored surfaces multiply the subject and camera, adding complexity and visual interest to the composition. The overall style is documentary-like, with a hint of cinematic tension, as if capturing a clandestine or unusual moment. The camera angle from above enhances the sense of observation and detachment, while the reflections create a layered, almost surreal visual effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:44.955962",
+  "word_count": 172,
+  "error_message": null
+}

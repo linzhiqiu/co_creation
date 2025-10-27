@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f745541-780f-472b-96d4-d06aaa158481.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single figure, seen from behind and slightly below, moves dynamically across a minimalist urban setting. The subject is a young woman with long, dark hair, caught mid-motion as she strides forward with one arm raised, her hair and loose, silvery jacket flowing with the movement. She carries a dark bag slung over one shoulder. The background is stark and geometric, dominated by a large, flat wall painted in cool blue tones, with a subtle gradient from deep navy on the left to lighter blue on the right, creating a sense of depth and abstraction. The lighting is soft and diffused, casting minimal shadows and lending the scene a moody, cinematic quality reminiscent of late evening or early dawn. The color palette is cool and subdued, emphasizing blues, greys, and muted metallics. The composition is off-center, with the subject placed towards the right, enhancing the sense of motion and spontaneity. The overall style is contemporary and atmospheric, with a shallow depth of field and a slightly grainy texture, evoking the look of analog film photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:34.276470",
+  "word_count": 175,
+  "error_message": null
+}

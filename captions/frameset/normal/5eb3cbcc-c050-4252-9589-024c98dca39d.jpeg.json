@@ -1,0 +1,12 @@
+{
+  "image_filename": "5eb3cbcc-c050-4252-9589-024c98dca39d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits comfortably on a modern sofa in a softly lit, cozy living room, captured from an over-the-shoulder perspective. She wears a light green hoodie and pink sweatpants, her posture relaxed as she leans back with one leg propped up. In her left hand, she holds a smartphone, engaged in a video call with a man whose face is clearly visible on the screen, his expression attentive and slightly somber. On her lap rests an open laptop displaying text, suggesting she is multitasking or studying. The coffee table in front of her is scattered with open books, a glass of water, and a large bottle, hinting at a casual, lived-in environment. The background is softly blurred, with warm, ambient lighting creating a gentle, intimate atmosphere. The color palette is dominated by muted earth tones and soft pastels, enhancing the sense of comfort and quiet focus. The overall style is cinematic, with a shallow depth of field drawing attention to the woman and her devices, while the composition conveys a sense of solitude, connection, and everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:43.773113",
+  "word_count": 178,
+  "error_message": null
+}

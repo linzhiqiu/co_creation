@@ -1,0 +1,12 @@
+{
+  "image_filename": "17c57188-e954-48af-b710-874fd6f8e80e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person working on a sleek, modern laptop with a detachable keyboard, stylus in hand, actively writing mathematical equations on the screen. The display shows a digital notebook interface filled with neatly handwritten trigonometric equations, graphs, and a circled formula in red ink, suggesting focused study or problem-solving. The subject’s hands are in sharp focus, with the rest of their body and background softly blurred, creating a shallow depth of field that draws attention to the act of writing and the digital content. The lighting is natural and diffused, likely from a nearby window, casting gentle shadows and giving the scene a calm, studious atmosphere. The color palette is muted and realistic, dominated by the cool tones of the device and the neutral hues of the workspace, with subtle pops of color from the digital ink on the screen. The overall style is documentary and intimate, capturing a moment of concentration and intellectual engagement in a contemporary, technology-driven setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:36.827221",
+  "word_count": 164,
+  "error_message": null
+}

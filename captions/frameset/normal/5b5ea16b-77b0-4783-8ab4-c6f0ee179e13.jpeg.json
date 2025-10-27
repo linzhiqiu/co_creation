@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b5ea16b-77b0-4783-8ab4-c6f0ee179e13.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with short hair and a trimmed beard sits at a desk in a modern, softly lit office environment. He wears a burnt orange polo shirt, the color standing out against the muted, cool-toned background. The man is intently focused on a set of documents he holds in both hands, his expression serious and contemplative as he reviews the papers. The foreground is slightly blurred, with indistinct objects like a water bottle and other office supplies, creating a sense of depth and drawing attention to the subject. In the background, out of focus, are two other people: one with gray hair and glasses, and another with long brown hair, both engaged in their own work, adding a sense of quiet productivity to the scene. The lighting is natural, streaming in from a window to the left, casting soft highlights and gentle shadows that enhance the calm, professional atmosphere. The overall style is cinematic, with a shallow depth of field and a neutral, realistic color palette, evoking a sense of concentration and modern workplace routine.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:25.579822",
+  "word_count": 176,
+  "error_message": null
+}

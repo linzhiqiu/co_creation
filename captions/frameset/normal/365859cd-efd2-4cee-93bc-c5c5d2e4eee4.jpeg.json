@@ -1,0 +1,12 @@
+{
+  "image_filename": "365859cd-efd2-4cee-93bc-c5c5d2e4eee4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer screen displaying a video editing software interface. The main focus is on the timeline at the bottom of the screen, which features several video clips arranged in sequence, each showing a person walking or standing in a spacious, industrial-looking indoor environment with concrete floors and white walls. A pink label reading \"90% Rhythm\" hovers above one of the clips, and a mouse cursor is pointing at it, suggesting active editing or selection. The upper portion of the screen shows a preview window with a cropped view of a person’s legs in motion, emphasizing movement and rhythm. The color palette is dominated by cool, neutral tones—grays, blacks, and whites—accentuated by the bright, modern interface elements in blue, yellow, and pink. The lighting is soft and even, typical of a well-lit workspace, with no harsh shadows. The composition is tight and focused, with a shallow depth of field that blurs the edges of the laptop, drawing attention to the digital workspace and the act of creative editing. The overall style is clean, modern, and professional, evoking a sense of productivity and digital creativity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:44.769710",
+  "word_count": 187,
+  "error_message": null
+}

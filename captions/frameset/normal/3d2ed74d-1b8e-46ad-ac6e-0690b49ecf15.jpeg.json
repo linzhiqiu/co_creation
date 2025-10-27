@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d2ed74d-1b8e-46ad-ac6e-0690b49ecf15.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, high-contrast black and white image depicting an overhead view of eight people seated around a large, circular wooden table. Each person is dressed in formal attire—dark suits and light-colored shirts, with some wearing ties or patterned blouses—evoking a mid-20th-century or film noir aesthetic. Their hands are splayed flat on the table’s surface, fingers spread wide, creating a sense of ritual or anticipation. The lighting is stark and focused, casting deep shadows that emphasize the contours of the hands and the grain of the wood, while the background fades into darkness, isolating the group and heightening the sense of mystery. The composition is symmetrical and precise, with the round table dominating the frame and the figures arranged evenly around it, their faces partially obscured by the top-down perspective. The overall mood is tense and enigmatic, suggesting a secretive meeting, séance, or clandestine gathering, with a cinematic quality reminiscent of classic suspense or psychological thrillers.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:17.458911",
+  "word_count": 155,
+  "error_message": null
+}

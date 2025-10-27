@@ -1,0 +1,12 @@
+{
+  "image_filename": "1baf4e79-3dfa-4259-94d2-4ed956aa9622.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern open-plan office space with an industrial aesthetic, featuring exposed ceilings and a mix of wood and metal elements. In the foreground, a man with short dark hair and a trimmed beard walks confidently toward the camera, making direct eye contact with a neutral, slightly serious expression. He wears a light gray polo shirt and blue jeans, his left arm bent as if in mid-motion. The background reveals several workstations with large computer monitors, some occupied by casually dressed employees focused on their screens. The lighting is soft and natural, with a warm yellow tint from overhead fixtures, creating a welcoming yet professional atmosphere. The color palette is dominated by muted grays, soft yellows, and natural wood tones, with splashes of blue from wall accents. The composition uses a shallow depth of field, keeping the man in sharp focus while gently blurring the background, emphasizing his presence and movement. The camera angle is eye-level, lending an immersive, documentary-style realism to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:02.293995",
+  "word_count": 163,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2252a8bd-51b9-4549-b5a6-d2db9e0c8465.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white cinematic scene set in a courtroom, focused on a male judge seated behind a large wooden bench. The judge, with neatly combed dark hair and wearing traditional judicial robes, is captured mid-expression, smiling subtly as if reacting to something amusing or unexpected. His posture is relaxed, leaning slightly forward, conveying a moment of informal levity within the formal setting. On the bench in front of him are two vintage microphones, one on each side, adding an authentic mid-20th-century atmosphere. The background features paneled wooden doors, softly lit to create depth and texture, while the overall lighting is even but slightly dramatic, emphasizing the judge’s facial features and the polished surfaces of the wood. The camera angle is at eye level, directly facing the judge, with a shallow depth of field that keeps the focus on his face and the immediate foreground, subtly blurring the background. The composition and monochrome palette evoke a classic film noir or postwar drama aesthetic, emphasizing mood, character, and the gravitas of the courtroom setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:27.086247",
+  "word_count": 171,
+  "error_message": null
+}

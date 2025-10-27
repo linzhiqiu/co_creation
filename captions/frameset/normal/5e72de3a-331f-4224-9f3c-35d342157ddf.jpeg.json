@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e72de3a-331f-4224-9f3c-35d342157ddf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dynamic, cinematic street scene featuring a modern white Nissan Leaf electric car as the central subject, captured from a low, head-on angle that emphasizes the car’s sleek, angular front design and distinctive blue-accented grille. The car is in motion, driving confidently down the middle of a city street lined with tall, contemporary office buildings and urban architecture. The background includes a mix of glass and stone facades, with a few other vehicles—such as a black pickup truck and a white sedan—partially visible on either side, adding to the sense of urban activity. The lighting is natural daylight, casting soft, even illumination across the scene, with subtle reflections on the car’s glossy surface. The color palette is cool and modern, dominated by whites, grays, and blues, with hints of green from distant trees. The overall style is crisp and realistic, with a shallow depth of field that keeps the focus sharply on the car while gently blurring the background, evoking the polished look of a high-end automotive commercial.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:35.763444",
+  "word_count": 170,
+  "error_message": null
+}

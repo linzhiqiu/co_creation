@@ -1,0 +1,12 @@
+{
+  "image_filename": "44e0734b-fba5-498c-b816-abc88075d165.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic black-and-white photograph taken from the perspective of a car’s windshield, as if the viewer is sitting in the front seat. The foreground is partially obscured by the blurred edge of a windshield wiper, suggesting recent rain or mist. The focal point is an unusual road sign in the center of the frame, featuring a bold exclamation mark and a vertical line, drawing immediate attention and evoking a sense of caution or mystery. Flanking the sign are tall, dark pine trees, their dense foliage creating a dramatic silhouette against a cloudy, overcast sky. Power lines stretch horizontally across the background, adding a subtle sense of depth and structure. The overall composition is slightly off-center, with the sign framed by the trees, and the camera angle is low, enhancing the immersive, almost voyeuristic quality. The lighting is diffuse and soft, with high contrast between the deep shadows of the trees and the pale, clouded sky, contributing to a somber, suspenseful atmosphere reminiscent of classic film noir or a psychological thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:57.926807",
+  "word_count": 171,
+  "error_message": null
+}

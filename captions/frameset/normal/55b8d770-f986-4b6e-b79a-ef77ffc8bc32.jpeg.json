@@ -1,0 +1,12 @@
+{
+  "image_filename": "55b8d770-f986-4b6e-b79a-ef77ffc8bc32.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, minimalist photograph of a modern wall clock, focusing tightly on the lower right quadrant of the clock face. The composition should prominently feature the black minute hand pointing toward a section of the clock where the words \"FOREVER IS A LIE\" are printed in clean, sans-serif uppercase letters, replacing the usual numbers. The background is a soft, cool white with a subtle blue tint, giving the image a serene, almost ethereal quality. A thin red line, representing the second hand or a design element, cuts horizontally across the frame, adding a striking visual accent. The numbers \"8\" and \"9\" are partially visible at the bottom edge, slightly out of focus, enhancing the sense of depth and drawing attention to the text. The lighting is diffuse and gentle, with no harsh shadows, creating a calm, contemplative mood. The overall style is crisp and modern, with a shallow depth of field that blurs the periphery and sharpens the central message, evoking a sense of fleeting time and existential reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:06.988138",
+  "word_count": 170,
+  "error_message": null
+}

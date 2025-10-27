@@ -1,0 +1,12 @@
+{
+  "image_filename": "3393403a-1bc5-42ce-9764-5fe9e0e6a2dc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a softly lit portrait of a young child with light brown hair, slightly tousled, smiling warmly at the camera. The child is wearing a simple white t-shirt, and their expression is joyful and relaxed, exuding innocence and happiness. The background is a smooth, neutral light gray, free of distractions, which draws all attention to the subject. Use a shallow depth of field to gently blur the background, keeping the child’s face in sharp focus. The color palette is natural and muted, with soft, diffused lighting that creates a gentle, airy atmosphere. The composition is centered, with the child’s head and shoulders filling the frame, and the camera angle is at eye level, enhancing the sense of intimacy and connection. The overall style is minimalistic and candid, evoking a sense of warmth and authenticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:37.146360",
+  "word_count": 134,
+  "error_message": null
+}

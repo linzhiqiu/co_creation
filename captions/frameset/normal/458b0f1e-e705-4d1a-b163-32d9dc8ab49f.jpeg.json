@@ -1,0 +1,12 @@
+{
+  "image_filename": "458b0f1e-e705-4d1a-b163-32d9dc8ab49f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with a shaved head stands outdoors in a quiet suburban neighborhood, captured in a medium close-up shot. He wears a light plaid button-up shirt over a gray t-shirt, his expression serious and contemplative as he looks downward, lost in thought. The man is in the act of slipping a dark wallet or small object into his shirt pocket, his hand slightly blurred to suggest motion. The background is softly out of focus, revealing leafy green trees, a blue car, and the muted tones of residential houses, evoking a calm, sunlit afternoon. The color palette is warm and natural, with soft golden sunlight casting gentle highlights and subtle shadows across the scene. The overall style is cinematic and realistic, with a shallow depth of field that draws attention to the subject while maintaining a sense of place. The camera angle is eye-level, creating an intimate and authentic mood, as if the viewer is witnessing a private, reflective moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:05.916015",
+  "word_count": 160,
+  "error_message": null
+}

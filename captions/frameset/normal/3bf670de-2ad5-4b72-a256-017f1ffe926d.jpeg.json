@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bf670de-2ad5-4b72-a256-017f1ffe926d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands at the base of a towering, rugged cliff, gazing upward through binoculars. The person is dressed in a striking, bright red jacket that contrasts sharply with the muted, sandy tones of the rocky landscape. The cliff behind them is massive and textured, with vertical striations and a weathered, almost otherworldly appearance, dominating the background and creating a sense of scale and isolation. The sky above is pale and overcast, lending a desaturated, almost monochromatic quality to the scene, except for the vivid pop of red from the jacket. The composition is cinematic, with the camera positioned low and angled upward, emphasizing the height of the cliff and the smallness of the human figure. The lighting is soft and diffuse, with minimal shadows, enhancing the stark, contemplative mood. The overall style is minimalist and dramatic, evoking a sense of exploration and awe in a remote, barren environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:53.270374",
+  "word_count": 150,
+  "error_message": null
+}

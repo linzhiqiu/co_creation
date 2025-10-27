@@ -1,0 +1,12 @@
+{
+  "image_filename": "5576eb01-d964-4303-b428-0c5df5b2d580.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic close-up of a revolver being pointed directly at the viewer, with the barrel dominating the center of the frame. The background is shrouded in deep shadow, creating a sense of mystery and tension, while the figure holding the gun is only partially visible, their form obscured by darkness and out-of-focus highlights. The lighting is stark and directional, casting sharp reflections on the metallic surface of the gun and creating a high-contrast, noir-inspired atmosphere. The color palette is muted, primarily consisting of silvery grays, blacks, and subtle hints of gold on the gun’s details. The overall style is gritty and suspenseful, with a shallow depth of field that blurs the background and draws all attention to the cold, menacing presence of the weapon. The composition evokes a sense of imminent danger and psychological intensity, reminiscent of a tense moment in a crime thriller or neo-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:02.077821",
+  "word_count": 148,
+  "error_message": null
+}

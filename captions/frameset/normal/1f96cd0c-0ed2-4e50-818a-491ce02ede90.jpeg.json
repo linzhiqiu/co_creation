@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f96cd0c-0ed2-4e50-818a-491ce02ede90.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern, industrial control panel or ticket machine, prominently displaying a digital screen with a large prohibition symbol and the text \"Do not use Out of order\" in the center. The panel is metallic gray with a matte finish, featuring a series of blue and green buttons arranged symmetrically around the screen. A small red indicator light is illuminated above the display, suggesting malfunction or alert. The number \"2\" is clearly marked on the right side of the panel, indicating its station or unit number. The background is softly blurred, with cool blue and purple tones, creating a sense of depth and focus on the device. The lighting is diffuse and slightly cool, with subtle reflections and lens flares adding a cinematic, almost clinical atmosphere. The composition is tight and centered, emphasizing the machine’s status and the sense of interruption or inconvenience. The overall style is realistic, with a hint of futuristic or utilitarian design, evoking the mood of a public transportation hub or high-tech facility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:31.992156",
+  "word_count": 170,
+  "error_message": null
+}

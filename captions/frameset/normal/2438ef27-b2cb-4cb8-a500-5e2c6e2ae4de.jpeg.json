@@ -1,0 +1,12 @@
+{
+  "image_filename": "2438ef27-b2cb-4cb8-a500-5e2c6e2ae4de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern vehicle control panel, specifically the REDARC RedVision system, mounted inside a car. The focus is on a digital display screen showing real-time information for a \"VIC Hilux,\" including voltage, temperature, and battery status. The screen glows with a soft, cool backlight, displaying white and green text and icons on a black background. Surrounding the display are tactile, rubberized buttons with subtle backlighting, arranged in a functional, symmetrical layout. A human hand, partially visible in the lower left, is interacting with the panel, pressing one of the buttons, suggesting active use and engagement. The lighting is a mix of natural daylight and ambient red and blue hues, creating a high-tech, slightly cinematic atmosphere. The composition is tight and intimate, with a shallow depth of field that blurs the background, drawing attention to the details of the interface and the user's action. The overall style is clean, modern, and utilitarian, evoking a sense of advanced technology and precision engineering within an automotive context.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:08.663908",
+  "word_count": 167,
+  "error_message": null
+}

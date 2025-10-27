@@ -1,0 +1,12 @@
+{
+  "image_filename": "1fa77152-02f7-4afb-8288-d93204e9381b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person kayaking on a calm river, focusing on their outstretched arm and hand gently skimming the water’s surface. The kayak is a vivid blue, partially visible on the left side of the frame, with the black paddle resting across it. The hand is relaxed, fingers slightly curled, catching droplets and creating subtle ripples in the reflective water. The background is softly blurred, with hints of lush green reeds and foliage, evoking a tranquil, immersive natural setting. The lighting is soft and diffused, suggesting an overcast day or golden hour, with cool, muted tones dominating the color palette. The composition uses a shallow depth of field to draw attention to the tactile interaction between hand and water, capturing a serene, contemplative mood. The camera angle is low and intimate, almost at water level, enhancing the sense of presence and connection with nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:32.077977",
+  "word_count": 147,
+  "error_message": null
+}

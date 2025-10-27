@@ -1,0 +1,12 @@
+{
+  "image_filename": "524929f0-728d-414f-8024-a8a220cc27c7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a man standing indoors in front of a large window, with a soft, overcast natural light illuminating the scene. The subject is a middle-aged man with short, dark hair and glasses, dressed in a dark suit jacket over a light blue collared shirt, exuding a calm and confident demeanor. He is centered in the frame, looking directly at the camera with a gentle, subtle smile. Behind him, the window reveals a blurred, greenish outdoor landscape, suggesting trees or foliage in the distance. A distinctive visual element is the presence of two bright, curved white neon lights on the glass behind him, forming a partial halo-like shape that frames his head and adds a modern, almost ethereal touch to the composition. The color palette is muted and cool, dominated by soft grays, blues, and greens, with the white neon providing a striking contrast. The overall style is clean and minimalistic, with a shallow depth of field that keeps the focus on the subject while gently blurring the background, evoking a professional, contemplative, and slightly surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:39.694894",
+  "word_count": 180,
+  "error_message": null
+}

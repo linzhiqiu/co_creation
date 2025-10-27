@@ -1,0 +1,12 @@
+{
+  "image_filename": "3109e000-3f45-4319-b246-97c797d42646.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric meeting room with a distinctly vintage, mid-20th-century aesthetic. Three figures in dark suits are positioned around a large rectangular table covered in dark cloth, scattered with papers, glasses, and a glass pitcher. The lighting is moody and low-key, with warm, yellowish light emanating from ornate, frosted glass pendant lamps hanging from the ceiling, casting soft pools of illumination and deep shadows that obscure much of the room’s details. The walls are painted a muted, industrial beige and have a slightly worn, textured appearance, hinting at an institutional or governmental setting. The figures are mostly in silhouette, their faces partially or fully obscured by shadow, creating an air of secrecy and tension. The composition is cinematic, with a strong sense of depth and negative space, emphasizing the isolation and gravity of the moment. The overall color palette is subdued, dominated by dark blues, grays, and warm amber highlights, evoking a noir or espionage thriller atmosphere. The camera angle is slightly low and off-center, enhancing the sense of unease and clandestine intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:44.628565",
+  "word_count": 174,
+  "error_message": null
+}

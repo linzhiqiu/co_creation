@@ -1,0 +1,12 @@
+{
+  "image_filename": "2512e960-9132-4e13-941f-faacae33da68.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody scene viewed through a large, ancient stone window frame. The perspective is from inside a dark, shadowy structure, looking out onto a lush, overgrown landscape at dusk. The window acts as a natural frame, its weathered stone edges softly illuminated by the faint blue twilight. Beyond the window, a narrow path winds through dense, deep green foliage and towering trees, their canopies forming a natural archway. In the distance, a solitary, small human figure stands on the path, almost lost in the vastness of the scene, evoking a sense of solitude and mystery. The color palette is dominated by cool blues and muted greens, with soft, diffused lighting that enhances the tranquil, contemplative atmosphere. The overall style is reminiscent of a still from an art-house film, with a strong sense of depth, subtle contrast, and a quiet, almost haunting mood. The composition emphasizes symmetry and the interplay between darkness and the gentle glow of the evening sky.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:32.561152",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "570bd33b-ebd1-48e3-a768-b9982d29cf3f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an abstract, cinematic night scene focused on large, out-of-focus bokeh lights against a deep black background. The composition features a prominent, cool cyan-blue circular light near the center, surrounded by multiple warm yellow and golden orbs of varying sizes, creating a dreamy, ethereal atmosphere. The lights overlap and blend softly, with subtle hints of orange and white adding depth and visual interest. The overall color palette contrasts the cool blue with the warmth of the yellows and golds, evoking a sense of nighttime city energy. The image should have a shallow depth of field, with all elements intentionally blurred to emphasize the bokeh effect, and no discernible subjects or objects, focusing purely on the interplay of color, light, and shape. The mood is contemplative and atmospheric, reminiscent of a late-night urban environment seen through a camera lens with a wide aperture.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:43.854590",
+  "word_count": 142,
+  "error_message": null
+}

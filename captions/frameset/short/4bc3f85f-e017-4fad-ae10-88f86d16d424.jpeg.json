@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bc3f85f-e017-4fad-ae10-88f86d16d424.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, surreal portrait of a human face and neck pressed tightly beneath a translucent, stretched fabric, creating dramatic tension and abstract contours. Warm, sepia-toned lighting casts deep shadows and highlights, evoking a sense of suffocation and vulnerability. The composition is intimate, with soft focus and a haunting, cinematic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:08.623059",
+  "word_count": 50,
+  "error_message": null
+}

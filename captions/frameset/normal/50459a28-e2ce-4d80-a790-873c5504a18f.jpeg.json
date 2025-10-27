@@ -1,0 +1,12 @@
+{
+  "image_filename": "50459a28-e2ce-4d80-a790-873c5504a18f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man sits at a desk, captured in a dramatic black-and-white close-up. He wears a light-colored trench coat over a collared shirt, his expression tense and contemplative. His brow is furrowed, and he rests his head heavily on one hand, fingers splayed across his forehead in a gesture of worry or deep thought. The lighting is high-contrast, casting sharp shadows that accentuate the lines of his face and the texture of his clothing, evoking a classic film noir atmosphere. The background is softly out of focus, with hints of ornate decor and a curtain, suggesting an interior setting with a somber, introspective mood. The composition centers the subject, using shallow depth of field to draw attention to his troubled expression, while the monochrome palette enhances the emotional intensity and timeless quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:01.186422",
+  "word_count": 135,
+  "error_message": null
+}

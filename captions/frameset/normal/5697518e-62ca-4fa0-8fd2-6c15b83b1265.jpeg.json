@@ -1,0 +1,12 @@
+{
+  "image_filename": "5697518e-62ca-4fa0-8fd2-6c15b83b1265.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a male soldier facing forward, centered in the frame, wearing futuristic, angular black virtual reality goggles that cover his eyes and upper face. He has a rugged, unshaven face and a neutral, focused expression. The man is dressed in tactical military gear, including a camouflage cap and a brown tactical vest, with the details of his uniform subtly visible. The background is a deep, moody blue gradient fading into darkness, creating a dramatic and intense atmosphere. The lighting is low-key and directional, casting soft shadows across his face and emphasizing the contours of his features and the reflective surfaces of the goggles. The overall style is reminiscent of a high-budget sci-fi film, with a shallow depth of field that keeps the subject sharply in focus while the background remains blurred and abstract. The color palette is dominated by cool blues and muted earth tones, enhancing the sense of technology and tension. The composition is tight and symmetrical, evoking a sense of strength, mystery, and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:25.955844",
+  "word_count": 170,
+  "error_message": null
+}

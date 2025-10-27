@@ -1,0 +1,12 @@
+{
+  "image_filename": "206dcb36-2f70-4865-8b51-f3f8c7e49ae4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern laptop screen dominates the frame, angled slightly upward against a soft, sky-blue background. The screen displays a futuristic loading interface with the words “LOADING WEBSITE” in bold, digital-style text, accompanied by a progress bar and a small, stylized UFO icon above it. The glossy surface of the laptop screen reflects the upper body of a woman, partially visible and slightly out of focus. She wears a textured, cream-colored knit sweater, and her long, blonde hair falls loosely over her shoulders. The reflection is subtle, blending with the faint, ethereal suggestion of stars or cosmic elements on the screen, creating a dreamy, sci-fi atmosphere. The color palette is cool and muted, with soft natural lighting that enhances the reflective quality of the screen and the gentle textures of the sweater. The composition uses shallow depth of field, keeping the focus on the digital interface while the woman’s reflection and the background remain softly blurred, evoking a sense of anticipation and quiet technological wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:47.692115",
+  "word_count": 169,
+  "error_message": null
+}

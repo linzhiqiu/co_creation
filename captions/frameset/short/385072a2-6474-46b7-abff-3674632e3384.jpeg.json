@@ -1,0 +1,12 @@
+{
+  "image_filename": "385072a2-6474-46b7-abff-3674632e3384.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage CRT television sits on a plain, muted green table against a beige wall, displaying grainy surveillance footage of a mustachioed man in a patterned sweater. The timestamp and “EVIDENCE” label evoke a retro, investigative atmosphere, with subdued colors and stark, documentary-style composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:23.222058",
+  "word_count": 44,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3734bb00-a6f6-4d4e-9029-db16e7d75514.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide aerial shot of Dubai at sunrise, featuring the iconic Atlantis hotel in the foreground, its grand archway silhouetted against a hazy, golden skyline. The distant skyscrapers emerge through morning mist, with soft, diffused lighting and a tranquil, cinematic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:58.593902",
+  "word_count": 41,
+  "error_message": null
+}

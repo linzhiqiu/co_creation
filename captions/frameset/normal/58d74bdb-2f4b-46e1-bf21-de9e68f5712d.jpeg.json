@@ -1,0 +1,12 @@
+{
+  "image_filename": "58d74bdb-2f4b-46e1-bf21-de9e68f5712d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person's finger pressing down on the \"Enter\" key of a black computer keyboard. The composition is tight, with the finger in sharp focus and the surrounding keys—such as \"Shift,\" \"Backspace,\" and \"Insert\"—clearly visible but slightly blurred at the edges, creating a shallow depth of field. The lighting is moody and low-key, casting soft shadows and subtle highlights on the matte surface of the keys, emphasizing their texture and the slight wear on the lettering. The color palette is dominated by deep blacks and muted grays, with a hint of warm skin tone from the finger. The overall style is realistic and intimate, evoking a sense of anticipation or action, as if capturing a decisive moment in a dimly lit workspace. The camera angle is slightly oblique, adding a dynamic perspective to the otherwise everyday scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:26.916866",
+  "word_count": 141,
+  "error_message": null
+}

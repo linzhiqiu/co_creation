@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b3dbad9-c0c9-4b55-a43a-de729f973135.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern wall clock with a minimalist design, featuring a light wooden face and simple, sans-serif numerals in a muted gold tone. The clock hands are slender and metallic, with the minute and hour hands pointing to approximately 10:10, and the second hand captured in motion, slightly blurred to suggest the passage of time. The background is a warm, medium-toned wood panel, adding a cozy and natural ambiance to the scene. The lighting is soft and diffused, creating gentle shadows and a calm, contemplative mood. The composition is slightly off-center, with the clock dominating the left side of the frame, and the focus is sharp on the clock face, while the edges subtly fade into a shallow depth of field. The overall style is clean and contemporary, evoking a sense of quiet introspection and the steady, inevitable movement of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:21.191498",
+  "word_count": 144,
+  "error_message": null
+}

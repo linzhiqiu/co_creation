@@ -1,0 +1,12 @@
+{
+  "image_filename": "5002ed5a-8b0c-467a-a08f-a8ee3abf45db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene of a youth soccer practice at dawn, captured from a low, wide-angle perspective at ground level. The foreground features several young athletes in mid-sprint, their silhouettes sharply defined against the rising sun, which sits low on the horizon and creates a dramatic backlight. The players’ forms are partially blurred, conveying a strong sense of motion and energy. Their uniforms are dark, with subtle hints of color visible in the soft, diffused morning light. In the background, mist lingers over the field, illuminated by the golden sunlight, while tall stadium lights and distant trees frame the scene, adding depth and atmosphere. The grass is lush and dewy, with individual blades catching the light. The overall color palette is cool and muted, dominated by greens and blues, with warm highlights from the sun. The mood is aspirational and cinematic, evoking early morning determination and the quiet intensity of training before the day begins. The composition emphasizes the vastness of the field and the smallness of the players, with a shallow depth of field that keeps the focus on the action in the foreground while softly blurring the background elements.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:57.911078",
+  "word_count": 191,
+  "error_message": null
+}

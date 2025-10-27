@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b327088-f137-4eb6-8213-892abbc30d09.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern office interior bathed in soft, natural daylight streaming through large windows, creating a warm and inviting atmosphere. In the foreground, a young man with long dark hair sits at a desk, slightly out of focus, intently working on a computer. The main subject stands behind him, sharply in focus—a man with short hair and a trimmed beard, wearing clear glasses, a navy blue open shirt over a white t-shirt, and white pants. He stands confidently with hands on hips, exuding a sense of leadership and engagement, as if offering guidance or feedback. The background features a light blue sofa, a wall-mounted TV, and a whiteboard with handwritten notes, adding to the collaborative, creative workspace vibe. The color palette is dominated by cool blues, soft whites, and warm skin tones, with gentle shadows and highlights enhancing the depth of the scene. The composition uses a shallow depth of field, drawing attention to the standing figure while maintaining a sense of context and activity in the environment. The overall style is cinematic, reminiscent of a contemporary workplace drama, with a candid, documentary-like feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:39.003127",
+  "word_count": 183,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d18ad7c-c1f7-4e32-9311-937256bfcd1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up of a textured surface, possibly concrete or plaster, with an abstract blend of green, blue, and yellow hues. The lighting is soft and diffuse, highlighting pitted and uneven areas. The overall mood is organic and painterly, evoking a sense of weathered, natural beauty.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:11.584355",
+  "word_count": 45,
+  "error_message": null
+}

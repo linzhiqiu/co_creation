@@ -1,0 +1,12 @@
+{
+  "image_filename": "50438ee3-7652-4710-8c60-e7705fa7308f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot inside a helicopter cockpit at sunset, focusing on a person’s hands holding a tablet displaying a vibrant, high-tech navigation interface. The cockpit’s teal interior and glowing instrument panel contrast with the warm, golden light reflecting off the water outside, creating a modern, immersive atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:55.640506",
+  "word_count": 48,
+  "error_message": null
+}

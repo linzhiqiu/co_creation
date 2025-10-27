@@ -1,0 +1,12 @@
+{
+  "image_filename": "1efc1c91-fb0a-4edf-b647-5d62f2fe69f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA minimalist, cinematic scene set in a modern, dimly lit interior, looking out through a large glass window into a lush, enclosed garden. The focal point is a sleek, humanoid robot with a transparent, skeletal frame, walking gracefully from left to right outside the window. The robot’s silhouette is sharply defined against the soft, natural daylight filtering through the greenery, highlighting its mechanical structure and delicate, human-like posture. In the foreground, partially in shadow and slightly out of focus, stands a human figure in a white shirt, observing the robot from inside the room. The composition uses a shallow depth of field, with the robot in crisp focus and the observer blurred, creating a sense of separation and intrigue. The color palette is cool and subdued, dominated by soft blues, greys, and muted greens, with gentle, diffused lighting that enhances the contemplative, almost ethereal atmosphere. The overall style is reminiscent of high-end science fiction cinema, with a clean, architectural aesthetic and a mood of quiet tension and curiosity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:19.369847",
+  "word_count": 169,
+  "error_message": null
+}

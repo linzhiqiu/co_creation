@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c6ee1e8-eef8-4ecc-95cd-4cc37234352d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, wide-angle shot of a traditional Japanese dojo bathed in cool, desaturated light. Two martial artists duel at center stage, surrounded by seated observers in white uniforms. Japanese flags hang on the walls, and a bright spotlight creates deep shadows, evoking a tense, cinematic atmosphere with high contrast and elegant symmetry.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:57.709292",
+  "word_count": 52,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "37be363c-d50e-4c63-aece-96e56c3968d5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-resolution photograph of a mechanical and electronic assembly, centered on a large, black, circular metal component resembling a motor or reel with visible copper windings. The component is mounted on a beige, slightly worn surface, surrounded by an array of colorful wires, circuit boards, and small stacked wooden blocks. The lighting is natural and directional, casting soft shadows and highlighting the metallic sheen and intricate details of the machinery. The background is softly blurred, with hints of additional equipment and text, creating a shallow depth of field that draws attention to the central mechanical element. The color palette is dominated by neutral tones—beige, black, and metallic—with pops of color from the wires. The overall style is technical and documentary, evoking the meticulous atmosphere of a workshop or laboratory, with a focus on precision and craftsmanship. The composition is tight and immersive, inviting the viewer to explore the complexity and texture of the machinery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:13.902237",
+  "word_count": 155,
+  "error_message": null
+}

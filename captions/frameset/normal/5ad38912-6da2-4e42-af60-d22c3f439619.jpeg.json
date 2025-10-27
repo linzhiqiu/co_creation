@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ad38912-6da2-4e42-af60-d22c3f439619.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-angle shot of a solitary man standing on a vast, seamless teal-blue floor with a subtle geometric pattern. The man is positioned slightly off-center, gazing upward toward the camera with a neutral, contemplative expression. He wears a light gray, long-sleeved button-up shirt, dark trousers, and casual shoes, giving him a relaxed, everyday appearance. The lighting is soft and even, casting minimal shadows and emphasizing the expansive emptiness around him. The overall color palette is dominated by cool blue tones, with the man's muted clothing providing gentle contrast. The composition evokes a sense of isolation and introspection, with a strong sense of scale created by the overhead perspective and the unbroken, textured background. The style is minimalist and modern, with a focus on mood and atmosphere rather than intricate detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:12.562297",
+  "word_count": 132,
+  "error_message": null
+}

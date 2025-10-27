@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a9c8b83-750c-45c9-9ce7-8c2ec7789f01.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young man with platinum blonde hair styled in a straight, layered cut that partially covers his eyes. He has a fair complexion and wears subtle silver hoop earrings. His expression is calm and contemplative, with his gaze focused intently on a small, round metallic object he holds up in his hand, as if examining it closely. He is dressed in a dark blazer over a light blue collared shirt, the cuffs of which are slightly oversized and visible beneath the jacket sleeves. The background is softly blurred, featuring hints of green foliage and a pale blue sky, creating a shallow depth of field that draws attention to the subject’s face and the object in his hand. The lighting is natural and diffused, lending a soft, even glow to his features and enhancing the serene, introspective mood of the scene. The overall color palette is cool and muted, with gentle contrasts between the subject’s hair, clothing, and the background, evoking a modern, minimalist aesthetic. The composition is intimate and focused, capturing a moment of quiet reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:42.925788",
+  "word_count": 182,
+  "error_message": null
+}

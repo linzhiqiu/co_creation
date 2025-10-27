@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e365f58-3374-4ff4-a773-c02f9d48f3f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A narrow, dimly lit aisle in a used bookstore, lined with tall, overflowing bookshelves on both sides, creates a sense of depth and intimacy. The shelves are packed with colorful, mismatched spines, some books stacked horizontally, others leaning precariously, evoking a sense of organized chaos. Overhead, hand-lettered signs hang from the ceiling, marking sections like \"COUNTER CULTURE\" and \"ENTERTAINMENT BIOGRAPHY,\" adding a quirky, vintage charm to the scene.\n\nAt the vanishing point, a solitary figure stands in the center of the aisle, partially obscured by the shelves. The person is dressed in dark, casual clothing, blending into the shadowy ambiance, and holds a book, absorbed in reading. At their feet, a small dog with white fur and dark markings stands alert, its presence adding warmth and a touch of whimsy.\n\nThe lighting is soft and muted, with a greenish tint that gives the scene a nostalgic, cinematic quality reminiscent of indie films. The camera is positioned at eye level, using a shallow depth of field that keeps the foreground books slightly blurred while drawing the viewer’s focus toward the central figure and the receding lines of the shelves. The overall mood is quiet, contemplative, and slightly mysterious, inviting the viewer to imagine stories hidden within the stacks.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:28.438852",
+  "word_count": 207,
+  "error_message": null
+}

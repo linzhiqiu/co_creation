@@ -1,0 +1,12 @@
+{
+  "image_filename": "6053b531-647f-4a3f-8c38-b1b5f1e356d4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit nightclub scene with deep red and amber tones, two figures seated at a small round table draped in red cloth, drinks and a candle between them. Dramatic overhead lighting casts sharp shadows, silhouettes their faces, and creates an intimate, cinematic atmosphere. Blurred background figures suggest a lively, mysterious ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:18.680252",
+  "word_count": 52,
+  "error_message": null
+}

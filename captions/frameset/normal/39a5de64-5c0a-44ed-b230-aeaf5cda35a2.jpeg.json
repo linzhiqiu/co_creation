@@ -1,0 +1,12 @@
+{
+  "image_filename": "39a5de64-5c0a-44ed-b230-aeaf5cda35a2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic close-up shot of a modern washing machine control panel, focusing on the sleek, minimalist design. The panel is predominantly white with a glossy black digital display, featuring illuminated blue LED numbers and icons. Prominently displayed is a large pause button with the text \"Pausar para adicionar roupas\" in Portuguese, along with other function labels and settings in small, clean sans-serif font. The control knob is metallic and textured, positioned to the left, with subtle reflections highlighting its contours. The background is a deep, gradient navy blue, creating a sense of depth and sophistication. The lighting is soft and diffused, emphasizing the smooth surfaces and high-tech aesthetic, while the shallow depth of field keeps the focus sharp on the panel details, gently blurring the edges for a cinematic, product-advertisement feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:56.243046",
+  "word_count": 132,
+  "error_message": null
+}

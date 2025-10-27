@@ -1,0 +1,12 @@
+{
+  "image_filename": "3569d878-102b-4cd8-99a9-c03fdacf07ed.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, highly reflective humanoid robot stands imposingly in the center of a modern, architecturally striking interior. The robot’s body is composed of smooth, chrome-like surfaces that mirror the surroundings, creating a mesmerizing interplay of light and reflections across its form. Its design is sleek and muscular, with articulated joints and a seamless, almost liquid metallic finish. The camera angle is low and slightly tilted upward, emphasizing the robot’s dominance and scale, while also capturing the elegant curves and geometric lines of the room.\n\nThe background features large, arched windows that let in soft, natural daylight, bathing the space in a warm, pastel glow. The room is furnished with minimalist, mid-century modern pieces—white chairs, a glass table, and a magenta bench—adding pops of color to the otherwise neutral palette. The polished wooden floor reflects both the robot and the ambient light, enhancing the sense of depth and space. The overall style is cinematic, with a shallow depth of field that keeps the robot in sharp focus while gently blurring the background, creating a dreamlike, almost surreal atmosphere. The mood is both awe-inspiring and slightly enigmatic, blending retro-futurism with high-art sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:24.086624",
+  "word_count": 190,
+  "error_message": null
+}

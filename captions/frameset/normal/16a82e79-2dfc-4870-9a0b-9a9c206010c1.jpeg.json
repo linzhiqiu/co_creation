@@ -1,0 +1,12 @@
+{
+  "image_filename": "16a82e79-2dfc-4870-9a0b-9a9c206010c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a small, light wooden tabletop, softly illuminated by natural, diffused light that creates gentle shadows and a warm, intimate atmosphere. Resting on the surface is a single, slightly worn key attached to a metallic, heart-shaped keychain with a textured pattern. Next to the key is a rectangular piece of white card or paper, handwritten in black ink with the words: “CHEZ NOUS” A DEMAIN FRANÇOIS. The handwriting is casual and personal, suggesting a note left for someone special. The background is softly out of focus, drawing all attention to the key, keychain, and note, with a shallow depth of field that enhances the sense of intimacy and secrecy. The overall color palette is muted and natural, dominated by warm beige and soft metallic tones, evoking a sense of quiet anticipation and understated emotion. The composition is minimalist, cinematic, and carefully arranged to highlight the significance of the objects and the message they convey.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:11.366304",
+  "word_count": 157,
+  "error_message": null
+}

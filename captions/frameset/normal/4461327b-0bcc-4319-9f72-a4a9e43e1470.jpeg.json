@@ -1,0 +1,12 @@
+{
+  "image_filename": "4461327b-0bcc-4319-9f72-a4a9e43e1470.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, retro-inspired room bathed in deep blue and purple neon hues, evoking a moody, nostalgic atmosphere. The focal point is an old CRT television set, positioned at an angle in the foreground, its screen filled with black-and-white static noise. The TV’s bulky frame and tactile buttons are clearly visible, emphasizing its vintage design. In the background, out-of-focus monitors and electronic equipment glow softly, adding layers of cool-toned ambient light and suggesting a tech-heavy or arcade-like environment. The composition uses a shallow depth of field, keeping the television sharply in focus while the surroundings blur into abstract shapes and colors. The overall style is cinematic, reminiscent of 1980s sci-fi or cyberpunk aesthetics, with a strong emphasis on contrast between the dark shadows and the luminous screens. The mood is mysterious and slightly eerie, as if capturing a moment of anticipation or technological malfunction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:42.255639",
+  "word_count": 144,
+  "error_message": null
+}

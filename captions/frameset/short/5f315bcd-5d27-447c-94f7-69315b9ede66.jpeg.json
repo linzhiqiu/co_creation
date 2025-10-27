@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f315bcd-5d27-447c-94f7-69315b9ede66.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A chaotic urban protest scene viewed from above, with masked individuals gathered around a burning pile of debris. The image is overlaid with green-tinted surveillance HUD graphics, facial recognition boxes, and official insignia, evoking a dystopian, high-tech atmosphere. The color palette is muted, with harsh lighting and a gritty, documentary style.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:00.572111",
+  "word_count": 51,
+  "error_message": null
+}

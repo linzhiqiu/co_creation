@@ -1,0 +1,12 @@
+{
+  "image_filename": "4085c6d1-2191-4c7e-8d47-6d03e8ea0186.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set in a deserted strip mall corridor during the late afternoon. The composition is framed through a glass window, adding a subtle reflection and a sense of voyeurism. Two young adults are the main subjects: one stands against the wall, arms crossed, wearing a sleeveless shirt and jeans, while the other sits on the ground, knees up, in casual clothing. Their body language suggests a quiet, contemplative moment, with no direct eye contact between them. The corridor is lined with glass storefronts and faded signage overhead, including signs for a Chinese restaurant, a video store, and a surgical supply shop, evoking a sense of faded Americana. The color palette is muted and cool, dominated by blues and greys, with soft, natural lighting that creates gentle shadows and a slightly grainy, filmic texture. The overall style is reminiscent of 1990s independent cinema, with a shallow depth of field and a static, observational camera angle that emphasizes the emptiness and quiet tension of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:18.723918",
+  "word_count": 168,
+  "error_message": null
+}

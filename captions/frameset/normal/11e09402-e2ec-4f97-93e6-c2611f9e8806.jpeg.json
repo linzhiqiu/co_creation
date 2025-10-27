@@ -1,0 +1,12 @@
+{
+  "image_filename": "11e09402-e2ec-4f97-93e6-c2611f9e8806.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a young girl wearing a brown hijab and a gray zip-up hoodie, intently focused on a laptop in a classroom setting. The girl’s expression is serious and absorbed, her face softly illuminated by natural light filtering in from the side, creating gentle shadows and a sense of depth. The background is softly blurred, with a teacher in a dark sweater leaning over to assist another student, and other children working at their desks, all contributing to a lively yet studious atmosphere. The classroom is decorated with colorful posters and educational charts, adding vibrancy to the scene. The color palette is natural and subdued, with earthy tones from the girl’s clothing contrasting against the cooler blues and grays of the classroom environment. The overall style is realistic and documentary-like, with a shallow depth of field that keeps the focus on the girl while subtly hinting at the busy, supportive learning environment around her. The composition conveys a sense of quiet determination and concentration, capturing a candid moment of learning and engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:21.720574",
+  "word_count": 175,
+  "error_message": null
+}

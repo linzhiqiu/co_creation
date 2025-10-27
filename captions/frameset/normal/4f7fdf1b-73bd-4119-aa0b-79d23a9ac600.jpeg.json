@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f7fdf1b-73bd-4119-aa0b-79d23a9ac600.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit study or navigation room at dusk. The main subject, a middle-aged man with a short beard, is partially visible from the side, his face illuminated by the warm, focused glow of a modern desk lamp. He is intently working at a wooden desk cluttered with nautical charts and a red pencil, his hands poised over the keyboard of a laptop displaying a digital map of an island. The background is softly blurred, with hints of a window revealing the blue twilight outside and subtle reflections on the glass. The color palette is dominated by deep blues, muted browns, and warm golden highlights from the lamp, creating a contemplative, suspenseful atmosphere. The composition uses a shallow depth of field to draw attention to the man's hands and the map, evoking a sense of quiet concentration and purposeful planning, reminiscent of a scene from a modern adventure or mystery film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:40.151793",
+  "word_count": 157,
+  "error_message": null
+}

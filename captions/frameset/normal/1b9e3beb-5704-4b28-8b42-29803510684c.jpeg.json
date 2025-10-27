@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b9e3beb-5704-4b28-8b42-29803510684c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person's hand resting gently on a sheet of paper, partially visible in the frame. The paper features a printed grid with boxes and the handwritten word \"Round\" followed by the number \"4\" inside one of the boxes. The year \"2021\" is clearly printed in bold on the left side of the page. The lighting is soft and natural, casting subtle shadows and highlighting the texture of the skin and the paper. The color palette is muted, with cool blue and neutral tones dominating the scene, creating a calm and focused atmosphere. The composition uses a shallow depth of field, blurring the background and drawing attention to the hand and the writing, evoking a sense of quiet concentration and anticipation. The overall style is realistic and intimate, reminiscent of a documentary or a thoughtful drama, with a focus on small, meaningful details.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:07.333158",
+  "word_count": 147,
+  "error_message": null
+}

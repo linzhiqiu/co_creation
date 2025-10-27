@@ -1,0 +1,12 @@
+{
+  "image_filename": "1822d52c-fc13-4034-83e9-a69e3de19b11.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A misty forest scene at dawn, captured with a cinematic, moody atmosphere. The composition centers on a winding path covered in a thick layer of fallen brown and orange leaves, leading the viewer’s eye deeper into the woods. Tall trees with dense, dark green foliage arch overhead, their branches partially obscuring the pale blue sky. Soft, diffused sunlight filters through the canopy, casting gentle highlights and subtle shadows across the forest floor. Wisps of fog linger in the air, enhancing the sense of mystery and depth. In the foreground, a cluster of mossy logs and branches lies to the left, adding texture and grounding the scene. The color palette is dominated by earthy tones—rich browns, deep greens, and muted oranges—contrasted by the cool blue-gray of the mist. The overall style is naturalistic with a touch of cinematic drama, utilizing a shallow depth of field to keep the background slightly blurred and atmospheric, evoking a tranquil yet enigmatic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:47.991030",
+  "word_count": 158,
+  "error_message": null
+}

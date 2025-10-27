@@ -1,0 +1,12 @@
+{
+  "image_filename": "52b90ad0-ddc9-449b-9202-ea0858b002dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer monitor displaying an open email client window in the foreground, with the desktop background and icons visible behind it. The email client is positioned slightly off-center, showing a list of emails on the left and the content of a selected message on the right. The message is a generic, impersonal birthday greeting with a suspicious link, suggesting a possible phishing attempt. The desktop background is a soft blue gradient with partially visible white text, and numerous application icons are scattered along the left side of the screen. The lighting is cool and even, with no harsh shadows, creating a neutral, office-like atmosphere. The camera angle is slightly tilted, adding a sense of immediacy and realism, as if the viewer is standing beside the person using the computer. The overall style is clean and modern, with a focus on digital elements and a subtle sense of tension or caution due to the nature of the email.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:51.815694",
+  "word_count": 161,
+  "error_message": null
+}

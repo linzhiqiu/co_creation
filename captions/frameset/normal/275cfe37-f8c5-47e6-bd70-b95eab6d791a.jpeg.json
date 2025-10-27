@@ -1,0 +1,12 @@
+{
+  "image_filename": "275cfe37-f8c5-47e6-bd70-b95eab6d791a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene of a young, athletic man shadowboxing alone on the rooftop of a city parking garage at dusk. He stands in a wide, dynamic stance, fists raised in a defensive boxing pose, his expression focused and intense. He wears a fitted white tank top, light gray sweatpants, and white athletic sneakers, with black hand wraps on his fists. The background features tall, modern office buildings with a grid of windows, some faintly illuminated, under a moody, overcast sky. The lighting is soft and cool, with the blue-gray tones of twilight dominating the color palette, punctuated by the warm orange glow of a few scattered streetlights. The composition is wide and cinematic, with a shallow depth of field that keeps the boxer sharply in focus while the cityscape blurs gently behind him. The overall mood is gritty, determined, and atmospheric, evoking themes of solitude, discipline, and urban resilience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:13.613049",
+  "word_count": 150,
+  "error_message": null
+}

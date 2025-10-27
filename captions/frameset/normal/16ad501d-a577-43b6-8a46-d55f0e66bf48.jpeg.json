@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ad501d-a577-43b6-8a46-d55f0e66bf48.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand making a move on a wooden chessboard, captured in warm, natural light. The hand, adorned with a simple gold ring, is gently grasping a dark chess piece, poised above the board as if in the midst of a thoughtful, strategic play. The chess pieces are large, carved from wood, with a rich, polished finish that catches the soft sunlight streaming in from the right side of the frame. The background is softly blurred, creating a shallow depth of field that draws attention to the hand and the chess pieces, while hints of another figure are visible in the foreground, out of focus. The overall color palette is earthy and subdued, dominated by browns, beiges, and warm highlights, evoking a sense of quiet concentration and intellectual intensity. The composition is intimate and dramatic, with a strong emphasis on texture, light, and the tactile interaction between the player and the game.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:13.452476",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "51f8438f-2668-4def-a9c2-24d8bb07ed64.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young girl with light brown hair and bangs, wearing large round glasses and a blue t-shirt with colorful striped sleeves, sits at a worn, dark wooden table. She is intently focused on drawing or writing on a piece of paper, her arms resting on the tabletop. The camera angle is a high, almost overhead shot, emphasizing her smallness and concentration within the space. The background features a vintage, deep teal velvet sofa and a floor with a checkerboard pattern of muted red and cream tiles, adding a nostalgic, retro atmosphere. The lighting is warm and golden, casting soft shadows and highlighting the textures of the table and the girl's hair. The overall style is cinematic, with a shallow depth of field that keeps the girl and her immediate surroundings in sharp focus while the background remains slightly blurred, evoking a sense of quiet introspection and childhood creativity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:35.516875",
+  "word_count": 148,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "19ba4e23-597b-4bb3-b7f6-02f73e0e4ff3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person holding a smartphone horizontally, intently watching a video. The phone screen displays a vivid, high-contrast image of a green sports field with a line of athletes or players standing in formation, viewed from above. The viewer’s hands are in sharp focus, with natural skin tones and subtle details in the knuckles and fingernails. The person wears a light-colored, casual jacket, and their lap is partially visible, clad in dark blue jeans. Another figure sits nearby, their arm and part of their light blue sleeve softly blurred in the background, suggesting companionship and a relaxed, intimate setting. The lighting is soft and natural, with gentle shadows and a cool, muted color palette that emphasizes the greens of the screen and the blues and grays of the clothing. The composition uses shallow depth of field to draw attention to the phone and hands, creating a sense of quiet focus and anticipation. The overall style is realistic and cinematic, with a contemplative, almost voyeuristic mood, as if capturing a private moment of engagement with digital media.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:23.338238",
+  "word_count": 180,
+  "error_message": null
+}

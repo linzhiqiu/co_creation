@@ -1,0 +1,12 @@
+{
+  "image_filename": "5538de1c-63be-40a0-8909-e8e9b86f6cdc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands on a windswept beach at dusk, her long dark hair tousled dramatically by the breeze. She is captured in a candid, three-quarter profile, turning slightly away from the camera so that her face is partially obscured by her hair. She wears a sleeveless, semi-sheer knit dress in a pale, neutral tone, which catches the soft, golden light of the setting sun. The background features rugged, weathered cliffs stretching across the horizon, their earthy tones contrasting with the muted blues and pinks of the evening sky. The beach beneath her is expansive and textured, with subtle ripples in the sand. The overall mood is contemplative and free-spirited, with a naturalistic, cinematic quality. The lighting is gentle and diffused, evoking the calm of twilight, while the shallow depth of field keeps the woman in sharp focus against the softly blurred cliffs and sky. The composition feels spontaneous and intimate, as if capturing a fleeting moment of solitude and connection with nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:57.789825",
+  "word_count": 163,
+  "error_message": null
+}

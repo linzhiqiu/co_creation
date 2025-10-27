@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c4e3701-0fdf-4426-918a-4a2adcf99d4f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban highway scene captured from an elevated vantage point, looking down at multiple lanes of traffic moving in both directions. The composition features a wide, divided roadway bordered by lush, leafy green trees on either side, their canopies partially overhanging the road and casting dappled shadows on the asphalt. The traffic consists of a mix of cars, trucks, and vans, all rendered in realistic detail, with white, silver, and muted tones dominating the vehicle colors. A prominent yellow road sign with Chinese characters is mounted on a pole in the foreground, adding a distinct regional touch. Overhead, a series of green directional signs with white text guide drivers toward various destinations, contributing to the sense of a busy, well-organized city infrastructure. The lighting is bright and natural, suggesting midday with clear skies, and the overall color palette is cool and fresh, with the greens of the trees contrasting against the grays and whites of the road and vehicles. The image has a crisp, high-resolution quality with a deep depth of field, ensuring sharpness throughout the scene. The mood is dynamic yet orderly, evoking the everyday rhythm of city life and modern transportation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:47.689310",
+  "word_count": 194,
+  "error_message": null
+}

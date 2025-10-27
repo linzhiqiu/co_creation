@@ -1,0 +1,12 @@
+{
+  "image_filename": "207c9c24-fc8f-44b2-b484-201e80ed063e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, small, rectangular piece of bread lies alone on a smooth, dark, wet sandy beach. The bread is slightly off-center in the composition, drawing the viewer’s eye immediately to its pale, beige color, which contrasts subtly against the cool, muted tones of the sand. The sand is damp, with faint, soft ripples and shallow impressions, suggesting the recent retreat of the tide. The lighting is diffuse and overcast, casting no harsh shadows and lending a subdued, melancholic atmosphere to the scene. The overall color palette is dominated by cool grays and browns, with the bread providing the only touch of warmth. The camera angle is slightly elevated, looking down at the bread from above, creating a sense of isolation and stillness. The depth of field is moderate, keeping the bread in sharp focus while the background sand gently blurs, emphasizing the subject’s solitude. The mood is contemplative and quiet, evoking a sense of abandonment or unexpected discovery in a minimalist, almost cinematic style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:48.242996",
+  "word_count": 164,
+  "error_message": null
+}

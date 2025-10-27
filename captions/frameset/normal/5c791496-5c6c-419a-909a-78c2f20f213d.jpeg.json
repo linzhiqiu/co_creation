@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c791496-5c6c-419a-909a-78c2f20f213d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, softly lit scene featuring a person’s hand and forearm as they carefully cut into the top of a large cardboard box. The subject wears a long-sleeved, light yellow shirt, and only their torso and arm are visible, creating a sense of anonymity and focus on the action. The hand presses down on the box, steadying it, while the other hand (partially out of frame) uses a cutting tool to trace a circular shape on the box’s surface. The cardboard is a warm, neutral brown, with subtle corrugation texture and a strip of blue tape along one edge, adding a pop of color. The background is softly blurred, emphasizing the hands and the box as the central elements. The lighting is natural and diffused, casting gentle shadows and highlighting the tactile quality of the materials. The composition is intimate and documentary in style, with a shallow depth of field and a slight downward camera angle, evoking a sense of anticipation and quiet focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:49.368036",
+  "word_count": 164,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a183807-f17f-4a99-8b25-59a45c0322d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA serene, early morning urban scene featuring three people riding bicycles along a wide, waterside path. The central subject is a woman with a ponytail, dressed in a green jacket and light gray pants, cycling away from the camera. She is flanked by two other cyclists: one ahead, wearing a dark coat and carrying a bag, and another to the right, partially out of frame, dressed in darker clothing. The background showcases a calm river or canal, with a modern, minimalist bridge spanning the water and contemporary glass buildings visible in the distance. The sky is clear with soft, natural daylight, casting gentle, diffused shadows and creating a tranquil, cool-toned color palette dominated by blues, grays, and muted greens. The composition uses a low, slightly trailing camera angle, emphasizing the sense of motion and depth as the cyclists move forward. The overall style is cinematic and realistic, with a focus on everyday urban life, subtle movement, and a peaceful, contemplative mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:13.659420",
+  "word_count": 162,
+  "error_message": null
+}

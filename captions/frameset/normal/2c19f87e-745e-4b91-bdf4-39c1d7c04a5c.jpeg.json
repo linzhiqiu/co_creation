@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c19f87e-745e-4b91-bdf4-39c1d7c04a5c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman with light skin and voluminous, curly auburn hair, standing outdoors in an urban setting. She is centered in the frame, looking directly at the camera with a gentle, confident smile. Her attire is smart-casual, featuring a dark blazer over a light top, and she wears a simple necklace. The background consists of softly focused, pastel-colored European-style apartment buildings, with large windows and subtle architectural details, suggesting a city street scene. The lighting is natural and diffuse, likely during the early morning or late afternoon, casting a cool, bluish tone over the image. The overall mood is warm and approachable, with a shallow depth of field that keeps the subject sharply in focus while the background remains softly blurred. The composition is intimate and slightly low-angle, enhancing the subject’s presence and the cinematic quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:00.023697",
+  "word_count": 144,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "48b79865-0612-46bb-95da-3bb811f1ed31.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene featuring a shallow puddle of water running through a bed of rough, gray stones. The main subject is not directly visible, but their reflection is clearly seen in the puddle: a solitary figure standing upright, dressed in light-colored clothing that contrasts subtly with the dark, muted tones of the rocks and water. The figure’s posture is calm and contemplative, with their head slightly bowed, suggesting introspection or solitude. The color palette is dominated by cool grays, deep blues, and soft, desaturated earth tones, creating a somber, overcast atmosphere. The lighting is diffuse and natural, as if captured on a cloudy day, with no harsh shadows. The camera angle is low and close to the ground, emphasizing the texture of the stones and the stillness of the water, while the reflection adds a sense of depth and quiet mystery. The overall style is reminiscent of art-house cinema or fine art photography, with a focus on mood, minimalism, and evocative visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:11.688848",
+  "word_count": 164,
+  "error_message": null
+}

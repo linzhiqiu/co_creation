@@ -1,0 +1,12 @@
+{
+  "image_filename": "29a3fb89-5a4e-4102-98f0-fa7d364bb9b6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit industrial warehouse. The focus is on a stack of blue and beige cement bags labeled \"4,500 PSI CONCRETE,\" arranged haphazardly on a wooden pallet. Thick, swirling clouds of dust or smoke partially obscure the bags, creating a hazy, atmospheric effect that diffuses the light and softens the edges of the objects. The color palette is muted and cool, dominated by deep blues, grays, and earthy tones, with subtle highlights catching the edges of the bags and the dust particles. The lighting is low and directional, casting dramatic shadows and emphasizing the texture of the concrete bags and the particulate matter in the air. The background is out of focus, adding depth and a sense of mystery to the composition. The overall style is reminiscent of gritty, realistic cinematography, with a shallow depth of field and a slightly grainy texture that enhances the raw, industrial mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:06.611745",
+  "word_count": 157,
+  "error_message": null
+}

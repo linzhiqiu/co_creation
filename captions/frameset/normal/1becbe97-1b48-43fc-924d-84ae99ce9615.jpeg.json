@@ -1,0 +1,12 @@
+{
+  "image_filename": "1becbe97-1b48-43fc-924d-84ae99ce9615.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand delicately pinning a red string onto an old, sepia-toned map. The focus is on the fingertips and the taut string, which is anchored by a small pin, suggesting the plotting of a journey or investigation. The map features faded, intricate details of continents and oceanic markings, with partially visible, ornate lettering. The lighting is warm and soft, casting gentle shadows and creating a nostalgic, mysterious atmosphere. The depth of field is shallow, blurring the background and drawing attention to the tactile interaction between the hand, string, and map. The overall style evokes a sense of adventure and discovery, reminiscent of classic exploration films or detective stories, with a muted, earthy color palette and a subtle, cinematic grain.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:06.044967",
+  "word_count": 124,
+  "error_message": null
+}

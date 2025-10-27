@@ -1,0 +1,12 @@
+{
+  "image_filename": "3980de16-75d3-416f-94db-0839d2c8c87f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric dance studio with a moody, cinematic tone. Three young women stand close together, their bodies partially reflected in a large wall mirror behind them. The central focus is on two of the women: one faces the camera directly, her face painted a striking, opaque red mask that contrasts sharply with her pale skin and the soft, iridescent sheen of her sleeveless leotard. The other woman stands in profile, her face painted a deep, matte purple, her hair pulled back tightly, and she gazes intently at the first woman. The third figure is seen from behind, slightly out of focus, adding depth and a sense of voyeurism to the composition. The background is subdued, with wooden ballet barres and the cool, muted tones of the studio walls. The lighting is low and directional, casting gentle shadows and highlighting the reflective quality of the leotards. The overall style is reminiscent of an art-house film, with a shallow depth of field, careful attention to color contrast, and a contemplative, almost surreal mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:54.412604",
+  "word_count": 173,
+  "error_message": null
+}

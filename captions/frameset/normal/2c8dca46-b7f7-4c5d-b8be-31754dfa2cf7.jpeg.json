@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c8dca46-b7f7-4c5d-b8be-31754dfa2cf7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-speed photograph capturing the precise moment a white porcelain cup shatters upon impact with a set of marble stairs. The image is shot from a slightly elevated angle, emphasizing the dynamic explosion of sharp ceramic shards scattering across the cold, veined marble surface. The color palette is cool and muted, dominated by shades of white, pale gray, and subtle blue undertones, enhancing the stark contrast between the delicate porcelain and the hard, polished stone. The lighting is soft and diffuse, casting minimal shadows and highlighting the glossy texture of the marble and the jagged edges of the broken cup. The composition is tightly focused on the point of impact, with a shallow depth of field that blurs the background steps, drawing the viewer’s eye to the chaotic energy of the breaking cup. The overall style is cinematic and dramatic, evoking a sense of sudden disruption and frozen motion, as if time has momentarily stopped to capture this fleeting, destructive event.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:07.609985",
+  "word_count": 162,
+  "error_message": null
+}

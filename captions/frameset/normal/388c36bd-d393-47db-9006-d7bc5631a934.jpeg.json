@@ -1,0 +1,12 @@
+{
+  "image_filename": "388c36bd-d393-47db-9006-d7bc5631a934.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of the front side of a sleek, modern car, focusing on the hood, headlight, and side mirror. The car’s surface is highly polished, reflecting soft, cool blue lighting that gives the scene a futuristic and almost surreal atmosphere. The background is a smooth, gradient blue, devoid of any distractions, enhancing the car’s glossy contours and sharp lines. The composition is tight and angular, with the camera positioned low and to the side, emphasizing the vehicle’s aerodynamic design and subtle reflections. The lighting is diffuse and moody, casting gentle highlights and deep shadows that accentuate the car’s curves. The overall style is minimalist and sophisticated, evoking a sense of luxury and modernity, with a shallow depth of field that keeps the focus on the car’s details while the background remains abstract and unobtrusive.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:34.146457",
+  "word_count": 136,
+  "error_message": null
+}

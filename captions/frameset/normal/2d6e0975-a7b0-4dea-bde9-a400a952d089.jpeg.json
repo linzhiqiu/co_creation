@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d6e0975-a7b0-4dea-bde9-a400a952d089.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, minimalist house with clean geometric lines and large glass windows stands in the background, bathed in soft, natural daylight. The building’s facade is a blend of white and muted gray tones, reflecting a contemporary architectural style. In the foreground, a gently sloping lawn is dotted with subtle shadows cast by a tall, leafy tree whose branches stretch across the upper left of the frame, adding organic contrast to the structure’s sharp angles. \n\nA single figure, dressed in light-colored, casual clothing, is captured mid-stride as they walk toward the house, their back to the camera, evoking a sense of movement and anticipation. The person’s posture is relaxed, suggesting a tranquil, everyday moment. To the left, a white hammock hangs between the tree and the house, hinting at leisure and comfort. \n\nThe color palette is dominated by cool blues and soft earth tones, with the sky a clear, pale blue that enhances the serene atmosphere. The lighting is bright but diffused, creating gentle shadows and a calm, inviting mood. The composition is wide and cinematic, with a slight low-angle perspective that emphasizes the scale of the house and the openness of the outdoor space. The overall style is modern and aspirational, blending architectural elegance with a peaceful, lived-in ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:28.452604",
+  "word_count": 209,
+  "error_message": null
+}

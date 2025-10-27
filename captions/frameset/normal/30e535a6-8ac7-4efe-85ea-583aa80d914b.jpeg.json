@@ -1,0 +1,12 @@
+{
+  "image_filename": "30e535a6-8ac7-4efe-85ea-583aa80d914b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist scene featuring two faceless mannequins standing back-to-back. The mannequin in the foreground faces slightly to the left, wearing a shiny metallic silver jacket with the collar popped, evoking a sense of modern, edgy fashion. The second mannequin, positioned behind and facing away, is dressed in a dark, matte jacket, providing a stark contrast in both color and texture. The background is a smooth, gradient gray, lending a clean, studio-like atmosphere with no distractions. The lighting is soft and diffused, casting gentle shadows that accentuate the contours of the mannequins and the reflective quality of the silver jacket. The overall color palette is cool and monochromatic, dominated by silvers, grays, and blacks. The composition is symmetrical and balanced, with a shallow depth of field that keeps the focus on the mannequins while subtly blurring the background. The mood is enigmatic and futuristic, reminiscent of high-fashion editorial photography or a conceptual art installation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:41.518693",
+  "word_count": 155,
+  "error_message": null
+}

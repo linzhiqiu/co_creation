@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e0a96bf-6609-40e3-95e5-396dd528ff64.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a shiny metal trailer hitch ball being connected to a black towing mechanism. The focus is sharp on the polished chrome ball and the surrounding hardware, capturing the gleam and subtle reflections on the metal surface. The background is softly blurred, creating a shallow depth of field that isolates the mechanical components and emphasizes their textures and details. The color palette is dominated by cool metallic tones—silvers, blacks, and hints of blue—contrasted with the soft, neutral blur of the out-of-focus background. The lighting is natural and diffused, highlighting the reflective surfaces without harsh shadows, lending a realistic and slightly industrial mood to the scene. The composition is tight and intimate, with the camera angle positioned low and close, drawing attention to the precision and functionality of the connection process. The overall style is reminiscent of a documentary or technical film, focusing on craftsmanship and mechanical detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:33.574402",
+  "word_count": 151,
+  "error_message": null
+}

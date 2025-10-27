@@ -1,0 +1,12 @@
+{
+  "image_filename": "50fd2f57-f21b-46d1-a954-ed5c29e1f325.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage CRT monitor sits atop a simple wooden table, centered in the frame, displaying a classic 8-bit racing video game. The screen shows a bright yellow sports car, viewed from behind, speeding down a straight, gray road that stretches into the distance, flanked by green fields and stylized, pixelated mountains under a clear blue sky. The game interface at the top of the screen features bold, retro-style text showing the score, elapsed time, and speed. The monitor is bathed in soft, natural daylight filtering through cream-colored curtains in the background, creating a nostalgic, warm atmosphere. The color palette is dominated by muted grays and browns from the monitor and table, contrasted by the vibrant yellows, greens, and blues of the game graphics. The composition is symmetrical and focused, with a shallow depth of field that keeps the monitor and its screen crisp while gently blurring the background, evoking a sense of retro gaming nostalgia and quiet, contemplative mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:18.353323",
+  "word_count": 159,
+  "error_message": null
+}

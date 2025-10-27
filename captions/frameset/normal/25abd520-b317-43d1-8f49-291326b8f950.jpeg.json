@@ -1,0 +1,12 @@
+{
+  "image_filename": "25abd520-b317-43d1-8f49-291326b8f950.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a close-up, top-down view of a modern interior space, focusing on a striking geometric tile floor. The tiles are deep green with crisp, angular white lines forming an intricate, radiating pattern reminiscent of abstract starbursts or crystalline shapes. In the foreground, partially cropped, is the edge of a round, light wood table with slender, white metal legs, adding a touch of Scandinavian minimalism. To the right, a section of a wooden structure—possibly a bench or counter—introduces warm, natural tones and subtle horizontal grain. The lighting is soft and diffuse, casting gentle shadows that enhance the texture and depth of the scene. The overall color palette is a harmonious blend of forest green, clean white, pale wood, and warm brown, evoking a sense of calm, contemporary sophistication. The composition is carefully balanced, with strong lines and shapes guiding the viewer’s eye across the image, and a shallow depth of field subtly blurring the table’s surface to emphasize the dynamic floor pattern below.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:43.247922",
+  "word_count": 163,
+  "error_message": null
+}

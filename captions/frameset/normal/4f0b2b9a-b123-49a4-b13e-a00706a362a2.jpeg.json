@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f0b2b9a-b123-49a4-b13e-a00706a362a2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, cinematic workspace scene focused on a widescreen computer monitor displaying a professional video editing software interface. The screen shows two preview windows: the left features a dramatic, misty mountain landscape in grayscale, while the right displays a sunlit green field with a cow standing in the foreground, mountains and trees in the distance. Below the previews, a colorful timeline with multiple video and audio tracks is visible, filled with clips and transitions, emphasizing the editing process. The monitor sits on a sleek desk, partially visible, with a yellow water bottle and a small Stormtrooper figurine on the left, and a leafy plant on the right, adding personality and warmth to the scene. The background is softly blurred, with hints of blue and amber lighting creating a cozy, creative atmosphere. The overall color palette is cool and subdued, punctuated by the vibrant colors on the editing timeline and the warm desk accessories. The composition uses a shallow depth of field, focusing sharply on the monitor and desk items, while the background remains out of focus, evoking a sense of concentration and creative immersion. The camera angle is straight-on at eye level, inviting the viewer into the editor’s perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:32.368820",
+  "word_count": 199,
+  "error_message": null
+}

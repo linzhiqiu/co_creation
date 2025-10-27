@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a073036-e260-4563-98aa-3ebf3d57c4f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, close-up scene set in an indoor rock climbing gym. The composition centers on a man with long, wavy dark hair and a focused expression, reaching upward toward a climbing hold on a textured, light gray climbing wall dotted with variously colored grips. He wears a simple black t-shirt, his arm extended, muscles subtly defined, conveying concentration and determination. Beside him, slightly out of focus in the foreground, is a woman with light brown hair pulled back, her face turned upward as she attentively observes or encourages him. The background features a muted palette of grays and blues, with climbing holds in soft pastel shades—pinks, whites, and yellows—adding visual interest. The lighting is soft and diffuse, evoking a natural, indoor ambiance without harsh shadows. The camera angle is intimate and slightly low, emphasizing the upward movement and the climbers’ engagement with the wall. The overall style is realistic and documentary-like, with a shallow depth of field that draws attention to the subjects while gently blurring the background, creating a sense of focus and immediacy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:31.081892",
+  "word_count": 175,
+  "error_message": null
+}

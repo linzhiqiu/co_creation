@@ -1,0 +1,12 @@
+{
+  "image_filename": "531f0187-8410-472e-a804-c64b1acde5ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of three young adults sits around a black laboratory table in a sunlit classroom, engaged in a focused discussion. The central figure, a man in a light blue t-shirt, holds and examines a complex black mechanical device, possibly a robotic or prosthetic component, while explaining its features to the others. To his right, a young woman with blonde hair tied back, dressed in a navy blue t-shirt, listens attentively, her posture relaxed and engaged. On the left, another man with dark hair and glasses, partially visible, observes the demonstration. The table is scattered with various 3D-printed parts in bright red and gray, adding a pop of color to the otherwise subdued palette. The background features large windows letting in soft natural daylight, illuminating the scene with a gentle, diffused glow. The classroom setting is further suggested by wooden cabinets and scientific equipment in the background. The overall mood is thoughtful and collaborative, with a shallow depth of field drawing attention to the interaction and the objects on the table. The composition is naturalistic, with a slight cinematic quality reminiscent of a documentary or educational film, capturing a moment of innovation and teamwork.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:07.019180",
+  "word_count": 194,
+  "error_message": null
+}

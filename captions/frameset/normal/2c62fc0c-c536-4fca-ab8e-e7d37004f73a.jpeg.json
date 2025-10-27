@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c62fc0c-c536-4fca-ab8e-e7d37004f73a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man sits alone in a dimly lit, modern room, intently focused on a glowing computer screen in front of him. He has short dark hair and wears thin, round glasses that catch the cool blue light from the monitor, casting subtle reflections on his face. His expression is serious and absorbed, lips slightly parted, as if deep in concentration or problem-solving. The background is dark and minimalist, with faint, blurred reflections of abstract, colorful graphics or data visualizations projected onto a glass wall behind him, adding a subtle sense of technology and futurism. The overall color palette is dominated by cool blues and muted grays, with soft, low-key lighting that creates a moody, cinematic atmosphere. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the focus tightly on the subject’s face while the background remains softly out of focus. The composition emphasizes isolation and immersion in the digital world, evoking the mood of a late-night coder or hacker scene in a contemporary techno-thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:02.325220",
+  "word_count": 172,
+  "error_message": null
+}

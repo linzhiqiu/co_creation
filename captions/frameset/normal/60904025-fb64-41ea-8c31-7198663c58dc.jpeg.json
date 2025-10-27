@@ -1,0 +1,12 @@
+{
+  "image_filename": "60904025-fb64-41ea-8c31-7198663c58dc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern smartphone lying on a smooth, light wooden surface. The phone’s screen is illuminated, displaying the time “16:08” in large, clean white numerals at the top left. Below the time, a notification appears in a rounded rectangle, with a red icon and the text: “Charging paused. Charging of USB device stopped due to abnormal temperature.” The phone’s sleek, metallic edge is visible, reflecting soft ambient light. The background is softly blurred, emphasizing the device and creating a shallow depth of field. The color palette is muted and minimalistic, with cool grays and warm beige tones from the wood, evoking a calm, modern, and slightly clinical atmosphere. The lighting is natural and diffused, with gentle highlights and no harsh shadows, suggesting daylight filtering through a nearby window. The overall style is clean, realistic, and contemporary, reminiscent of a product commercial or a tech-focused film, with a focus on clarity and subtle sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:28.093186",
+  "word_count": 157,
+  "error_message": null
+}

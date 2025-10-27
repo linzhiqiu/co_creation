@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c84815c-0c4d-4482-afc6-06192cf50bab.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic cinematic scene featuring a regal, armored figure standing in profile, illuminated by warm, golden light. The subject wears ornate, metallic armor with intricate detailing and a distinctive, elaborate horned helmet that curves upward, evoking a sense of mythic power and authority. The figure’s expression is somber and contemplative, with their gaze cast downward, suggesting inner conflict or reflection. The background consists of grand, shadowy architectural elements, such as towering stone columns and walls, rendered in deep, muted earth tones that enhance the sense of scale and grandeur. A subtle blue lens flare cuts horizontally across the frame, adding a modern, cinematic touch and emphasizing the dramatic lighting. The overall composition is moody and atmospheric, with a shallow depth of field that keeps the focus on the armored figure while the background remains softly blurred. The camera angle is slightly low and off-center, heightening the subject’s imposing presence and the epic, otherworldly mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:52.491402",
+  "word_count": 158,
+  "error_message": null
+}

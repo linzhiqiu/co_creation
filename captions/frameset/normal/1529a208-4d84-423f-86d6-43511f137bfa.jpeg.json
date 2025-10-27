@@ -1,0 +1,12 @@
+{
+  "image_filename": "1529a208-4d84-423f-86d6-43511f137bfa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-detailed close-up of a vintage rotary telephone dial, focusing intently on the \"OPERATOR\" key. The composition is tight, with the circular buttons dominating the frame, their glossy surfaces reflecting soft, diffused light. The image is rendered in high-contrast black and white, emphasizing the stark interplay between the deep blacks of the dial and the crisp whites of the buttons. The word \"OPERATOR\" is sharply in focus, while the surrounding numbers and edges blur gently into the background, creating a shallow depth of field that draws the viewer’s eye to the central text. The overall mood is nostalgic and cinematic, evoking a sense of timelessness and tactile history. The lighting is subtle, with gentle highlights and shadows enhancing the three-dimensional quality of the buttons and the metallic rim. The style is reminiscent of classic film noir photography, with a dramatic, almost mysterious atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:39.603527",
+  "word_count": 143,
+  "error_message": null
+}

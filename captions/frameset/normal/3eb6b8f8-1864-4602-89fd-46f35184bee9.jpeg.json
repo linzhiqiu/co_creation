@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eb6b8f8-1864-4602-89fd-46f35184bee9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a white ceramic coffee mug placed on a rustic wooden table, with a hand pouring fresh coffee from a classic silver moka pot. The focus is sharp on the mug and the stream of coffee, while the background is softly blurred, suggesting a cozy, intimate setting. The table surface is textured and warm-toned, complementing the neutral, earthy color palette. The lighting is natural and soft, likely from a nearby window, casting gentle highlights and subtle shadows that enhance the inviting atmosphere. In the background, hints of breakfast items and a stone or concrete wall add depth and context without distracting from the main subject. The overall style is warm, inviting, and slightly nostalgic, with a shallow depth of field and a gentle bokeh effect, evoking the quiet pleasure of a morning coffee ritual.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:46.457062",
+  "word_count": 138,
+  "error_message": null
+}

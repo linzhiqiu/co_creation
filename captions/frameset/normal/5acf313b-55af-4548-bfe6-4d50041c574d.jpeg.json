@@ -1,0 +1,12 @@
+{
+  "image_filename": "5acf313b-55af-4548-bfe6-4d50041c574d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist studio portrait of a young woman with long, dark, wet hair, shown in left profile against a seamless, light gray background. She wears a light blue denim jacket, the texture and stitching subtly visible. Her expression is calm and neutral, with a soft, contemplative gaze directed forward. The lighting is soft and even, eliminating harsh shadows and giving the scene a clean, modern look. The composition is simple and uncluttered, with the subject centered in the frame and ample negative space around her, emphasizing the serene and introspective mood. The color palette is muted, dominated by cool grays and blues, enhancing the understated, contemporary aesthetic. The camera angle is at eye level, and the depth of field is shallow, keeping the subject in sharp focus while the background remains smooth and unobtrusive.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:11.250998",
+  "word_count": 135,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2312f2f0-f75b-455d-9435-113e1d9c5ac6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a ransom-style letter, composed of words and letters cut from magazines and newspapers, meticulously arranged and glued onto a plain white sheet of paper. The message is written in French, with each word or phrase appearing in a different font, size, and style, creating a visually fragmented and suspenseful effect. The paper is slightly creased, held upright so that it catches the cool, bluish ambient light, casting soft shadows that enhance the sense of mystery and tension. The background is out of focus, rendered in deep, desaturated tones, suggesting a dimly lit, possibly industrial or urban setting. The overall color palette is cold and muted, dominated by shades of blue and gray, contributing to a noir, cinematic atmosphere. The composition centers the letter in the frame, with a shallow depth of field isolating it from its surroundings, drawing the viewer’s attention to the cryptic message and evoking a sense of intrigue and foreboding.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:44.146163",
+  "word_count": 157,
+  "error_message": null
+}

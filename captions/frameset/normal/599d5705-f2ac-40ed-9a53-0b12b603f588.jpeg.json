@@ -1,0 +1,12 @@
+{
+  "image_filename": "599d5705-f2ac-40ed-9a53-0b12b603f588.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a busy urban highway interchange at sunset, captured from a high angle. The scene is dominated by long lines of cars and a few trucks, all caught in heavy traffic, their white, silver, and dark-colored roofs forming a dense, orderly pattern along the curving roads. The golden hour sunlight bathes the entire landscape in a warm, amber glow, casting elongated shadows and highlighting the metallic surfaces of the vehicles. On the right, a group of pedestrians walks along a wide sidewalk, their figures small and scattered, adding a sense of scale and human presence to the vast infrastructure. The background features looping overpasses, grassy embankments, and patches of trees, with the city’s geometry softened by the gentle, diffused light. The overall mood is contemplative and cinematic, evoking the quiet tension of daily commutes. The composition emphasizes depth and movement, with the converging lines of the roads leading the viewer’s eye through the frame, while the soft focus on distant elements enhances the sense of scale and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:45.584750",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "24ab4278-6d0f-4cf4-bf45-5bdaa1a3ebe1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A military tiltrotor aircraft, resembling a V-22 Osprey, soars above a vast, rugged landscape in broad daylight. The aircraft is captured from behind and slightly above, its twin rotors clearly visible as it glides over undulating hills and valleys. Below, a winding river snakes through the terrain, reflecting the soft, diffused sunlight that filters through a thin layer of atmospheric haze. The color palette is dominated by earthy browns, muted greens, and silvery blues, evoking a sense of expansive wilderness. The composition emphasizes the scale and isolation of the aircraft against the sweeping panorama, with a high-altitude, cinematic perspective that creates a sense of depth and grandeur. The lighting is natural and gentle, with subtle highlights on the aircraft and landscape, contributing to a serene yet adventurous mood. The overall style is realistic and immersive, reminiscent of aerial cinematography in modern action or exploration films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:20.717919",
+  "word_count": 145,
+  "error_message": null
+}

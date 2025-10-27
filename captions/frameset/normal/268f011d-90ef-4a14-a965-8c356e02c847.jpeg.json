@@ -1,0 +1,12 @@
+{
+  "image_filename": "268f011d-90ef-4a14-a965-8c356e02c847.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage television studio scene, centered on a large, retro broadcast camera with a built-in black-and-white monitor displaying a live feed. The monitor shows a man in a patterned shirt, possibly floral, standing and speaking animatedly, his expression lively and engaged. The camera itself is metallic, with prominent dials, buttons, and a utilitarian, industrial design, evoking the technology of the late 1970s or early 1980s. In the blurred background, another man in a similar patterned shirt sits, partially out of focus, suggesting a bustling studio environment. The color palette is muted and cool, dominated by grays and metallic tones, with the only color coming from the subtle hints on the camera’s control panel. The lighting is soft but functional, typical of a studio setup, illuminating the machinery and the figures without dramatic shadows. The composition uses a shallow depth of field, focusing sharply on the camera and its monitor, while the background remains softly blurred, emphasizing the sense of observation and the behind-the-scenes atmosphere. The overall style is cinematic and documentary-like, capturing the technical and human elements of a live television production in a bygone era.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:58.496815",
+  "word_count": 186,
+  "error_message": null
+}

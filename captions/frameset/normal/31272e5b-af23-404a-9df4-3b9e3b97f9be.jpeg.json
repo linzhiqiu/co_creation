@@ -1,0 +1,12 @@
+{
+  "image_filename": "31272e5b-af23-404a-9df4-3b9e3b97f9be.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot inside a dimly lit vehicle, focusing on a robotic hand gripping the steering wheel. The robot’s hand is designed with smooth, segmented, off-white and beige panels, evoking a retro-futuristic aesthetic. The dashboard and steering wheel are rendered in dark, textured materials, with visible switches and dials, suggesting an older model car. The lighting is moody and subdued, casting soft shadows and highlighting the mechanical details of the hand and the worn surfaces of the car interior. The composition uses a shallow depth of field, blurring the background and drawing attention to the tactile interaction between the robot and the vehicle controls. The overall color palette is muted, dominated by earthy tones and metallic grays, creating a sense of quiet tension and anticipation, as if capturing a pivotal moment in a science fiction narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:44.304700",
+  "word_count": 137,
+  "error_message": null
+}

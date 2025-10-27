@@ -1,0 +1,12 @@
+{
+  "image_filename": "39110c26-3c61-4079-8a43-2f65fb1264ff.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic warehouse scene at night, illuminated by harsh industrial lighting that casts dramatic shadows and highlights the gritty textures of the environment. In the center, place several large wooden shipping crates, some stacked and some on wheeled pallets, scattered across a dark, cobblestone floor. Prominently feature a white delivery truck with bold red stripes and the logo \"ROBOFORCE AI LABOUR SOLUTIONS\" on its side, parked near the back of the warehouse. The background should include high ceilings with exposed beams, pipes, and industrial fixtures, evoking a sense of scale and utilitarian function. Subtle hints of human presence, such as a distant figure in workwear, add life without drawing focus from the main elements. The color palette is dominated by muted grays, browns, and off-whites, punctuated by the red accents on the truck. The overall style is realistic and slightly moody, with a shallow depth of field that keeps the foreground crates sharp while allowing the background to softly blur, enhancing the sense of depth and space. The composition should feel balanced yet dynamic, capturing the organized chaos of a busy, high-tech logistics hub.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:43.887640",
+  "word_count": 186,
+  "error_message": null
+}

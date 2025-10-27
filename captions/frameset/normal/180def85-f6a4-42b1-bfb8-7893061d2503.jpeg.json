@@ -1,0 +1,12 @@
+{
+  "image_filename": "180def85-f6a4-42b1-bfb8-7893061d2503.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern silver SUV speeds along a dusty, unpaved road in a remote, rugged landscape. The vehicle is captured in dynamic motion from a high, slightly angled side view, emphasizing its streamlined design and robust presence. The background is a blur of earthy browns and muted greens, suggesting arid terrain with sparse vegetation, while the late afternoon or early evening light casts a soft, golden glow across the scene, highlighting the car’s metallic surface and creating subtle reflections. Dust trails behind the SUV, adding a sense of movement and adventure. The overall color palette is subdued and natural, with cool silvers and warm earth tones dominating the composition. The image has a cinematic quality, with a shallow depth of field that keeps the focus on the vehicle while the background remains softly out of focus, enhancing the sense of speed and isolation. The mood is adventurous and aspirational, evoking the freedom of off-road exploration in a premium, high-performance vehicle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:45.672555",
+  "word_count": 160,
+  "error_message": null
+}

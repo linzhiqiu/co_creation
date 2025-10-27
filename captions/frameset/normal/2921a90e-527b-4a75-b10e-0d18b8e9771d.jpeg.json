@@ -1,0 +1,12 @@
+{
+  "image_filename": "2921a90e-527b-4a75-b10e-0d18b8e9771d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dynamic, cinematic shot of a modern red commuter train speeding across an elevated railway bridge. The train is captured in motion blur, emphasizing its swift movement from left to right. Large, clear bicycle symbols are prominently displayed on the train windows, indicating designated bike-friendly carriages. The train’s sleek, contemporary design features smooth lines and a deep burgundy-red color that stands out against the muted, overcast sky. The background is soft and desaturated, with pale gray clouds and faint power lines, creating a subdued, almost melancholic atmosphere. The bridge below the train is constructed from weathered concrete and metal, adding an urban, industrial feel to the composition. The camera angle is slightly low and tilted upward, enhancing the sense of speed and scale. The overall color palette is dominated by cool grays and the rich red of the train, with soft, diffused lighting that suggests a cloudy day. The style is realistic with a touch of cinematic drama, focusing on the interplay between motion, modern infrastructure, and the everyday rhythm of city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:53.170011",
+  "word_count": 174,
+  "error_message": null
+}

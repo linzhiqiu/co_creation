@@ -1,0 +1,12 @@
+{
+  "image_filename": "2019bc7b-d204-4e0a-a123-68a115513289.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene set inside a long, dimly lit urban tunnel. The composition is centered on a single dark-colored car driving away from the viewer, positioned in the middle lane of an otherwise empty road. The car’s taillights cast vivid red reflections onto the wet asphalt, creating a striking contrast against the cool, desaturated tones of the tunnel. Overhead, rows of small, evenly spaced white lights recede into the distance, emphasizing the tunnel’s vanishing point and adding a sense of depth and motion. The tunnel walls are lined with pale tiles, subtly patterned and illuminated by the ambient glow, while faint green and red traffic signals hang above the car, contributing to the moody, atmospheric lighting. The overall style is reminiscent of neo-noir cinematography, with a shallow depth of field, low-key lighting, and a subdued, almost monochromatic color palette punctuated by the car’s red lights. The mood is quiet, introspective, and slightly mysterious, evoking a sense of solitude and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:39.106674",
+  "word_count": 161,
+  "error_message": null
+}

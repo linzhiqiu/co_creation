@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e74e7a2-9cbf-4d95-8ba7-5e6bd7429a04.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a vintage scientific instrument, possibly a seismograph or polygraph, in operation. The device features a mechanical arm with a pen delicately tracing a thin, continuous line onto a roll of white paper, which is partially unspooled and curves gently out of frame. The machine is constructed from dark metal and chrome, with a prominent glowing orange indicator light adding a subtle pop of color. The background is almost entirely black, creating a dramatic, high-contrast atmosphere that isolates the device and emphasizes its intricate details. The lighting is low-key and directional, casting soft highlights and deep shadows that accentuate the textures of metal and paper. The overall color palette is cool and subdued, dominated by blacks, silvers, and the faint blue of a roller, with the orange light providing a warm accent. The composition is tight and focused, with a shallow depth of field that blurs the background and draws attention to the precise movement of the pen and the tactile quality of the materials. The mood is tense and scientific, evoking a sense of anticipation and meticulous observation, reminiscent of scenes from a suspenseful thriller or a period laboratory drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:45.793373",
+  "word_count": 195,
+  "error_message": null
+}

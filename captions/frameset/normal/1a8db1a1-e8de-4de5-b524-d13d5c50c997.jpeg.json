@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a8db1a1-e8de-4de5-b524-d13d5c50c997.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage computer terminal, likely from the late 1970s or early 1980s, dominates the frame. The monitor is encased in a bulky, off-white plastic shell with softly rounded edges, characteristic of early personal computers. The screen is mostly black, with a single vertical column of white, blinking dots or dashes running down the left side, suggesting an idle or initializing state. The lower portion of the image reveals part of a classic mechanical keyboard, its keys dark and slightly glossy, hinting at frequent use. The lighting is soft and diffuse, casting gentle shadows that emphasize the retro contours of the machine. The color palette is monochromatic, rendered entirely in grayscale, evoking a sense of nostalgia and technological history. The composition is straightforward and symmetrical, with the camera positioned directly in front of the terminal at eye level, creating a sense of intimacy and focus on the machine itself. The overall mood is quiet and contemplative, capturing the essence of early computing in a minimalist, documentary style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:39.592336",
+  "word_count": 170,
+  "error_message": null
+}

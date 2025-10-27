@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ceb3c74-ad0f-4fbc-97d1-ff343a95eb17.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic close-up shot from the perspective inside a large, industrial metallic chamber or machine, looking outward through a circular opening. The foreground is dominated by the curved, ribbed edge of the metal aperture, rendered in cool steel tones with warm golden highlights reflecting off the surface. Beyond the opening, the background features a mesh grid or lattice, with intricate crisscross patterns, partially obscuring the view of the dimly lit interior. A single, vertical shaft of warm light illuminates the center, casting soft, ambient glows and subtle reflections on the polished metal surfaces. The overall color palette is a sophisticated blend of deep blues, silvers, and golds, evoking a sense of precision engineering and industrial elegance. The composition is symmetrical and focused, with a shallow depth of field that draws the viewer’s eye toward the illuminated center, creating a mood of intrigue and mechanical sophistication. The lighting is low-key and atmospheric, emphasizing texture and form, reminiscent of high-end product photography or a suspenseful sci-fi film.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:14.911575",
+  "word_count": 167,
+  "error_message": null
+}

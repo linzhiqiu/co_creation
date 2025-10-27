@@ -1,0 +1,12 @@
+{
+  "image_filename": "15e821e2-e682-40b4-a46c-c53b669b9379.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-contrast black-and-white image focusing on a narrow strip of a newspaper or directory page, illuminated by a sharp beam of light cutting through deep shadow. The text is partially visible, with names and addresses such as \"Masselin,\" \"Florian Jessie (wid Mike),\" and a phone number, all rendered in crisp, vintage typeface. The majority of the frame is enveloped in darkness, creating a dramatic chiaroscuro effect that draws the viewer’s eye to the sliver of information. The composition is minimalist and mysterious, evoking a sense of secrecy or investigation, reminiscent of classic film noir cinematography. The lighting is stark and directional, emphasizing the texture of the paper and the clarity of the printed words, while the surrounding blackness adds tension and intrigue. The overall mood is suspenseful and enigmatic, as if the viewer is privy to a crucial clue in a detective story.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:55.524513",
+  "word_count": 144,
+  "error_message": null
+}

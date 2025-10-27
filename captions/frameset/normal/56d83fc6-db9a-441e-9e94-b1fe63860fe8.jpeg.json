@@ -1,0 +1,12 @@
+{
+  "image_filename": "56d83fc6-db9a-441e-9e94-b1fe63860fe8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, naturalistic scene set in the produce section of a mid-sized grocery store, captured with a shallow depth of field and a slightly off-center composition. The main subject is a young woman with long, straight brown hair, dressed casually in a dark purple hoodie and black athletic pants with a white stripe. She stands beside a display of root vegetables—potatoes, onions, and yams—carefully examining produce with a focused, contemplative expression. She holds a blue shopping basket in one hand, partially filled with groceries, and is accompanied by a young child seated in the cart, whose face is not visible but whose presence adds a sense of everyday intimacy.\n\nThe background features a large, retro-style sign reading \"LUNCH MEATS\" in bold white letters against a blue backdrop, with shelves of colorful produce and grocery items stretching into the distance. The lighting is bright and even, typical of supermarket fluorescents, casting a soft, neutral tone over the scene. The color palette is dominated by earthy browns, reds, and greens from the vegetables, contrasted by the cool blue of the basket and signage. The overall style is realistic and documentary-like, evoking a sense of ordinary life and quiet routine, with a slight cinematic quality achieved through the selective focus and natural, unposed action.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:38.365494",
+  "word_count": 211,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "220ef2b1-43a5-4626-a58c-87d667e8129e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nighttime urban scene with two figures in the foreground, one male in a retro, two-tone jacket, chain necklace, and tousled hair, grinning animatedly at a partially visible woman. The background is blurred with bokeh streetlights, creating a moody, cinematic atmosphere with deep shadows and warm, diffused lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:18.209202",
+  "word_count": 48,
+  "error_message": null
+}

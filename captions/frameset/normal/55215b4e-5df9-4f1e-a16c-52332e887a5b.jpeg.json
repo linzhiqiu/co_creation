@@ -1,0 +1,12 @@
+{
+  "image_filename": "55215b4e-5df9-4f1e-a16c-52332e887a5b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a vintage university lecture hall filled with students taking an exam. The room features tiered wooden benches with numbered seats, evoking a mid-20th-century academic atmosphere. The students, a diverse group of young adults, are spaced out across the rows, each focused intently on their papers. Their clothing is casual and understated, with muted earth tones and soft pastels—sweaters, cardigans, and simple shirts—contributing to a subdued, realistic palette. The lighting is soft and natural, streaming in from large frosted windows on the right, casting gentle highlights and creating a calm, contemplative mood. The walls are paneled in warm wood with horizontal metallic accents, and a few coats hang on hooks at the back, adding to the lived-in feel. The camera is positioned at eye level from the front of the room, capturing the depth of the space and the quiet tension of the exam setting. The overall style is cinematic and naturalistic, with a shallow depth of field that keeps the focus on the students in the foreground while softly blurring the background, emphasizing the collective yet individual experience of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:52.337385",
+  "word_count": 185,
+  "error_message": null
+}

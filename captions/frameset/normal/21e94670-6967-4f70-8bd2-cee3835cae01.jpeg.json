@@ -1,0 +1,12 @@
+{
+  "image_filename": "21e94670-6967-4f70-8bd2-cee3835cae01.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic urban scene featuring a young woman riding a modern bicycle along a smooth city street. She wears a black helmet, a patterned long-sleeve shirt, and bright neon green shorts, with a dark backpack slung over her shoulders. Her expression is focused and determined as she pedals forward. The bicycle is sleek, with matching neon green rims that stand out against the muted tones of the road. The background is lined with lush green trees and manicured grass, with hints of modern buildings partially visible through the foliage. The lighting is natural daylight, soft and even, suggesting a calm, overcast afternoon. The camera angle is slightly low and to the side, capturing the motion and energy of the cyclist while keeping her sharply in focus against a gently blurred background, evoking a sense of speed and movement. The overall color palette balances the vibrant greens of the bike and shorts with the subdued grays and greens of the urban environment, creating a fresh, contemporary, and active atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:29.395763",
+  "word_count": 169,
+  "error_message": null
+}

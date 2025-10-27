@@ -1,0 +1,12 @@
+{
+  "image_filename": "60bae9a6-3fe9-4c5f-9b9c-bfac53097e1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands with their back to the viewer, gazing at a weathered wooden sign that reads \"Town of Machine, Home of Dickinson Metalworks.\" The person wears a dark, old-fashioned top hat and a plaid coat, their long hair visible beneath the brim, evoking a 19th-century Western aesthetic. The scene is rendered in stark black and white, with a high-contrast, grainy texture that enhances the somber, atmospheric mood. The landscape is rugged and desolate, with rocky terrain and sparse desert vegetation, including a prominent cactus beside the sign. Mist or fog hangs in the air, softening the distant background and adding a sense of mystery and isolation. The composition is cinematic, with the camera positioned behind the figure at a medium distance, creating a sense of anticipation and journey. The overall style is reminiscent of classic Western films, with a melancholic, contemplative tone and a focus on the harsh beauty of the frontier.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:31.954613",
+  "word_count": 154,
+  "error_message": null
+}

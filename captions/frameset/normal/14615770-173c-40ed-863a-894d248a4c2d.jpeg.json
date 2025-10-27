@@ -1,0 +1,12 @@
+{
+  "image_filename": "14615770-173c-40ed-863a-894d248a4c2d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial view of a city intersection, captured from a high angle looking straight down. The scene is composed of tall, modern buildings with sharp geometric lines and varied architectural styles, their rooftops and facades rendered in crisp detail. The streets below are marked with white lane dividers and crosswalks, and a few vehicles—including a bus and several cars—are scattered along the roads, casting elongated shadows that suggest early morning or late afternoon sunlight. The color palette is monochromatic, dominated by shades of black, white, and gray, giving the image a stark, almost noir atmosphere. The lighting is natural but high-contrast, emphasizing the depth and structure of the urban landscape. The overall style is cinematic and architectural, with a strong sense of scale and perspective, and a slight tilt to the composition that adds dynamic tension and visual interest. The mood is contemplative and slightly detached, evoking the feeling of observing city life from a distant, almost abstract vantage point.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:23.468760",
+  "word_count": 161,
+  "error_message": null
+}

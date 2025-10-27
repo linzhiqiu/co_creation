@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e0c9d21-a8ae-444b-9ba9-b438219266ef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a row of colorful books lined up on a wooden shelf, viewed from a side angle that emphasizes the spines and edges of the covers. The books are of varying heights and thicknesses, with covers in muted yet vibrant shades of pink, red, orange, blue, teal, and cream, creating a visually pleasing, harmonious palette. The focus is shallow, with only a few book spines in sharp detail while the rest gradually blur into a soft bokeh, lending a dreamy, intimate atmosphere to the scene. The lighting is warm and gentle, casting subtle shadows and highlighting the textures of the book covers and the grain of the wood. The background is softly out of focus, ensuring all attention remains on the books. The overall style is cozy and contemplative, reminiscent of a quiet moment in a personal library or study, with a cinematic depth of field that draws the viewer into the tactile world of well-loved books.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:03.953486",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "360bad9c-07e9-4250-9e0b-ffe6ff46fced.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyperrealistic, slightly surreal 3D render of a human bust, centered in the frame and viewed from a slightly high, front-facing angle. The subject is bald, with smooth, featureless skin rendered in a pale, almost monochromatic flesh tone that borders on porcelain. The facial expression is ambiguous, with a subtle, unsettling smile and wide, unblinking eyes that lack detailed irises or pupils, giving the figure an uncanny, doll-like quality. The mouth is slightly open, revealing uneven, naturalistic teeth. The bust is armless and ends just below the shoulders, with no visible clothing or adornment. The background is a seamless, soft gradient of white to pale blue, creating a sterile, ethereal atmosphere. Lighting is diffuse and even, eliminating harsh shadows and enhancing the smooth, almost plastic texture of the skin. The overall style is minimalist and clinical, with a focus on the uncanny valley effect, evoking a sense of unease and curiosity. The composition is tight, with the subject filling most of the frame, and a shallow depth of field keeps the focus entirely on the face and upper torso.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:35.481355",
+  "word_count": 180,
+  "error_message": null
+}

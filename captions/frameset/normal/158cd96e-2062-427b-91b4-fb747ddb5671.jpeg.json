@@ -1,0 +1,12 @@
+{
+  "image_filename": "158cd96e-2062-427b-91b4-fb747ddb5671.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a haunting, surreal portrait of a woman’s face emerging from darkness, partially obscured by a translucent, honeycomb-like mesh or grid. The woman’s expression is somber and contemplative, her gaze directed slightly upward, with dramatic shadows accentuating her features. The image is rendered in a monochromatic grayscale palette, emphasizing stark contrasts between light and shadow. The mesh overlay creates a sense of distortion and fragmentation, as if the subject is trapped behind or dissolving into a digital or organic barrier. The background is deep black, enhancing the sense of isolation and focus on the face. The overall style is cinematic and mysterious, with a shallow depth of field that blurs the edges and draws attention to the woman’s eyes and the texture of the mesh. The lighting is moody and directional, casting soft highlights and deep shadows, evoking a sense of melancholy and introspection. The composition is tight, with the face centrally framed and the mesh pattern creating a hypnotic, almost sci-fi or cyberpunk atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:47.994034",
+  "word_count": 165,
+  "error_message": null
+}

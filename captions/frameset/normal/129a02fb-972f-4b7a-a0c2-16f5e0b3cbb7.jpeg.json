@@ -1,0 +1,12 @@
+{
+  "image_filename": "129a02fb-972f-4b7a-a0c2-16f5e0b3cbb7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, naturalistic scene set inside a modern car during daytime, viewed from the back seat. The composition focuses on a woman in the front passenger seat, her face softly illuminated by natural light streaming through the windows. She has dark hair and a contemplative, slightly serious expression, gazing out the window or toward the driver, who is partially visible on the left edge of the frame. The car interior features sleek, contemporary design elements with a mix of black and red accents on the dashboard and door panels. Outside the car, the background is sunlit and slightly out of focus, revealing a roadside with green trees, a yield sign, and a clear blue sky, evoking a sense of travel or transition. The color palette is muted and realistic, with warm skin tones, soft shadows, and a gentle contrast between the cool exterior light and the warmer interior hues. The camera angle is at eye level from the back seat, creating an intimate, observational perspective. The overall style is reminiscent of an indie film, with a shallow depth of field and a focus on capturing authentic emotion and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:38.892063",
+  "word_count": 189,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a0d2bb9-7785-463b-bf95-0e547a264c12.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white cinematic scene depicting two men sitting in the front seats of a vintage convertible car, viewed from the hood looking directly through the windshield. The man on the left, in the passenger seat, wears a dark leather jacket and has a serious, slightly tense expression. The driver, on the right, wears a dark coat and a brimmed hat, his face composed and focused on the road ahead. The background reveals a quiet urban street lined with parked cars and bare trees, suggesting late autumn or early spring. The lighting is natural daylight, casting soft, diffuse shadows and enhancing the stark contrasts typical of classic black-and-white photography. The composition is symmetrical, with both men centered in the frame, the dashboard and steering wheel visible in the foreground, and the receding street creating a sense of depth. The overall mood is somber and contemplative, evoking the style of mid-20th-century European art films, with a restrained, realistic atmosphere and a subtle sense of narrative tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:12.146020",
+  "word_count": 164,
+  "error_message": null
+}

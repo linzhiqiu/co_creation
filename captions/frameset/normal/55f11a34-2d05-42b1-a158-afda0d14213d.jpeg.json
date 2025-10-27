@@ -1,0 +1,12 @@
+{
+  "image_filename": "55f11a34-2d05-42b1-a158-afda0d14213d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman with short, tousled dark hair, shown in left profile against a soft, ethereal background. The scene is enveloped in a dense, pale mist or fog, lending a dreamlike, almost surreal quality to the image. The woman’s expression is calm and introspective, her features softly defined by the diffused, natural light. She wears a simple, muted red top that subtly contrasts with the overwhelmingly cool, desaturated color palette of whites, grays, and faint blues. The composition is minimalist, with the subject centered and the background fading into an indistinct haze, creating a sense of isolation and quiet contemplation. The overall style is reminiscent of art-house cinema, with a shallow depth of field and a gentle, atmospheric glow that blurs the boundaries between the figure and her surroundings.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:11.219164",
+  "word_count": 134,
+  "error_message": null
+}

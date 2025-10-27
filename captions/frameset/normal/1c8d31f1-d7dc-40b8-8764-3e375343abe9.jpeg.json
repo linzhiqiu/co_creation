@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c8d31f1-d7dc-40b8-8764-3e375343abe9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene viewed from the bottom of a large, cylindrical, industrial tunnel, looking directly upward toward a single figure standing at the opening above. The tunnel is constructed from smooth, metallic material with a cool blue-gray color palette, accented by thin yellow lines encircling the interior. The lighting is stark and artificial, with a few round, recessed lights embedded in the tunnel walls, casting soft, diffused glows and subtle reflections on the metal surface. At the top center, a solitary person stands, partially silhouetted against the brighter light from above, wearing a sleek, dark, futuristic uniform. The figure’s expression is serious and contemplative, their posture upright and commanding, suggesting authority or vigilance. The composition emphasizes dramatic perspective and depth, with the tunnel’s circular form drawing the viewer’s eye toward the distant figure, creating a sense of isolation and tension. The overall style is reminiscent of modern science fiction films, with clean lines, minimalistic design, and a moody, atmospheric tone.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:20.905445",
+  "word_count": 162,
+  "error_message": null
+}

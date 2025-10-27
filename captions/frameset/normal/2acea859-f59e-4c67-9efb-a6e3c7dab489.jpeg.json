@@ -1,0 +1,12 @@
+{
+  "image_filename": "2acea859-f59e-4c67-9efb-a6e3c7dab489.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a high-performance car engine, focusing on the intricate metallic details and the bold \"V10\" insignia embossed on a polished metal plate. The composition should emphasize the sleek, angular lines of the engine components, with a shallow depth of field that blurs the background and draws attention to the foreground elements. Use a cool, desaturated color palette dominated by silvers, blacks, and subtle hints of blue, with soft, directional lighting that creates dramatic highlights and gentle reflections across the metal surfaces. The overall mood should evoke precision engineering and power, with a sense of luxury and sophistication. The camera angle is low and intimate, capturing the texture and craftsmanship of the engine, while the lighting adds a touch of cinematic flair, suggesting a high-end automotive commercial or a scene from a modern action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:29.562654",
+  "word_count": 138,
+  "error_message": null
+}

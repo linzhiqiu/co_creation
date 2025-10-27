@@ -1,0 +1,12 @@
+{
+  "image_filename": "5028d656-acc9-4673-8b3f-b648ed29b39f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a piece of white chalk, writing vertical and horizontal lines on a dark green chalkboard. The focus is on the hand and the chalk, with the background softly blurred, creating a shallow depth of field. The lighting is soft and diffused, casting gentle shadows and giving the scene a calm, contemplative mood. The color palette is muted, dominated by cool tones of green and gray, with the white chalk providing a stark contrast. The composition emphasizes the tactile interaction between the hand and the chalkboard, capturing the subtle texture of the chalk and the smooth surface of the board. The overall style is cinematic and intimate, evoking a quiet moment of concentration in a classroom or educational setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:55.883428",
+  "word_count": 125,
+  "error_message": null
+}

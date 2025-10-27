@@ -1,0 +1,12 @@
+{
+  "image_filename": "29b20071-e132-4aa1-8477-f5200edf58d0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, first-person perspective shot of a hand holding a modern smartphone, centered in the frame, with the screen displaying an email draft. The email is written in English, with the subject line \"Press Release for Launch Event\" and discusses a company's efforts in the premium smart product market. The hand is positioned against a smooth, light-colored surface, illuminated by a dramatic, circular spotlight that creates a high-contrast vignette effect, leaving the edges of the image in shadow. The lighting is cool and clinical, emphasizing the clarity of the phone screen and the texture of the hand. The phone's interface is crisp and modern, with a visible keyboard at the bottom and a clean, white background for the email. The composition is minimalistic, focusing attention on the act of composing the message, with a shallow depth of field that blurs the background and the hand slightly, drawing the viewer’s eye to the illuminated screen. The overall mood is professional and focused, evoking a sense of anticipation and importance, as if capturing a pivotal moment in a tech-driven narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:08.898710",
+  "word_count": 178,
+  "error_message": null
+}

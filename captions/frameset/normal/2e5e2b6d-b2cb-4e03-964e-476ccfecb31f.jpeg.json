@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e5e2b6d-b2cb-4e03-964e-476ccfecb31f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot focused on the lower half of a drummer’s setup, capturing the dynamic moment as a foot presses down on a bass drum pedal. The composition is tight, with the camera positioned low and slightly behind the drummer, emphasizing the mechanical details of the pedal and the textured surface of the drumhead. The drummer wears dark, polished leather shoes and navy blue trousers with thin white pinstripes, adding a touch of vintage or retro style. The lighting is natural and soft, casting gentle highlights on the metal hardware and subtly illuminating the drum’s warm, tan surface. The background is out of focus, drawing attention to the rhythmic motion and tactile elements of the scene. The overall color palette is muted and earthy, with deep blues, browns, and metallic silvers, evoking a sense of intimacy and focus on the craft of music-making. The image has a shallow depth of field, with crisp detail on the pedal and shoe, and a slight film grain that gives it an analog, documentary feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:45.781021",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "216f6c71-48b7-4eee-9434-456c09870cc5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a serene sports field under a soft, partly cloudy sky. In the midground, a group of people—likely athletes—are scattered across the lush green grass, engaged in a casual practice or game. They wear dark athletic uniforms with shorts, and their postures suggest movement and interaction, though the mood is relaxed rather than intense. The field is expansive, bordered by a low white metal fence in the foreground, which adds depth and frames the scene. Beyond the field, tall trees with leafy canopies line the horizon, and a few distant buildings peek through the foliage, hinting at a suburban or park setting. The color palette is natural and subdued, dominated by greens and blues, with soft, diffused daylight creating gentle shadows and a tranquil atmosphere. The overall style is cinematic, with a shallow depth of field that subtly blurs the background, drawing the viewer’s eye to the activity on the field while maintaining a sense of open space and calm. The composition evokes a peaceful, everyday moment in a community sports ground, captured with a sense of quiet observation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:06.249371",
+  "word_count": 182,
+  "error_message": null
+}

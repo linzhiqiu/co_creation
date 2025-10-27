@@ -1,0 +1,12 @@
+{
+  "image_filename": "36fefa89-010d-417e-86f1-407eb0d1581c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand-carved wooden toy car sits on a cluttered tabletop, bathed in soft, diffused light that creates gentle shadows and highlights the natural grain and texture of the wood. The car is simple and unpainted, with smooth, rounded edges and minimal detailing, evoking a sense of nostalgia and craftsmanship. The background is softly blurred, suggesting a dimly lit room with a moody, contemplative atmosphere. Papers and small objects are partially visible in the foreground and to the side, adding to the sense of a lived-in, personal space. The color palette is muted and earthy, dominated by warm beige and brown tones from the wood, with subtle hints of blue and red from the surrounding objects. The composition uses a shallow depth of field, focusing sharply on the toy car while the rest of the scene fades into a gentle bokeh, creating an intimate, cinematic quality reminiscent of a quiet moment in a coming-of-age film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:00.358075",
+  "word_count": 158,
+  "error_message": null
+}

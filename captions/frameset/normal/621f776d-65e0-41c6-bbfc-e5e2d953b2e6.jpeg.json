@@ -1,0 +1,12 @@
+{
+  "image_filename": "621f776d-65e0-41c6-bbfc-e5e2d953b2e6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an intimate, cinematic close-up portrait of a middle-aged man with a neatly trimmed beard and mustache, wearing modern, rectangular eyeglasses with a dark frame. The subject’s face fills the frame, with the focus sharply on his expressive brown eyes, which reflect soft, natural light. His expression is calm and contemplative, with a subtle, gentle smile. The background is softly blurred, using a shallow depth of field to isolate the subject and create a sense of warmth and intimacy. The color palette is muted and natural, with warm skin tones and soft shadows, evoking a sense of authenticity and quiet introspection. The lighting is diffuse and gentle, suggesting daylight filtering through a window, enhancing the texture of the skin and the clarity of the eyes. The overall style is reminiscent of a high-quality film still, with a focus on realism, emotional depth, and a personal connection to the viewer.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:05.479799",
+  "word_count": 149,
+  "error_message": null
+}

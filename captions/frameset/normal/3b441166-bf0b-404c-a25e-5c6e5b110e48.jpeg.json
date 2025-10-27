@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b441166-bf0b-404c-a25e-5c6e5b110e48.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit military briefing room, illuminated primarily by the cool, bluish glow of a ceiling fluorescent light and the soft projection from a screen at the front of the room. In the foreground, a group of soldiers in uniform sit in shadow, their faces mostly obscured, creating a strong silhouette effect. The focal point is a commanding officer standing near the screen, dressed in camouflage fatigues, his expression serious and intent as he addresses the group. The projection displays a faint, washed-out image of a ship against a pale sky, suggesting a mission or tactical discussion. The room is utilitarian, with tiled floors, plain walls, and minimal decoration, evoking a sense of discipline and focus. The composition uses a wide, slightly low camera angle, emphasizing the authority of the speaker and the attentive posture of the soldiers. The overall color palette is muted, dominated by cool blues and greens, with deep shadows and high contrast lending a cinematic, almost suspenseful atmosphere. The mood is tense and anticipatory, capturing the gravity of a military operation about to unfold.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:36.624918",
+  "word_count": 178,
+  "error_message": null
+}

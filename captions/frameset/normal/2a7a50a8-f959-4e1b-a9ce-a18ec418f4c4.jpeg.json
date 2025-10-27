@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a7a50a8-f959-4e1b-a9ce-a18ec418f4c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary nighttime tennis court, illuminated by sparse, overhead streetlights that cast a soft, moody glow across the empty green and red playing surface. In the distance, a lone figure dressed in a blue jacket and white shorts leaps energetically to hit a tennis ball, their motion slightly blurred to convey action. The court is surrounded by tall, dark chain-link fences, with the background fading into deep shadows and hints of trees barely visible beyond the fence line. The composition is wide and cinematic, with the camera positioned at a low angle from across the court, emphasizing the emptiness and quiet of the scene. The color palette is subdued and naturalistic, dominated by muted greens, browns, and the cool blue of the player's jacket, with the artificial lighting creating gentle pools of light and long, soft-edged shadows. The overall mood is contemplative and atmospheric, evoking a sense of solitude and focus, with a subtle filmic quality reminiscent of indie cinema or a quiet sports drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:25.015594",
+  "word_count": 165,
+  "error_message": null
+}

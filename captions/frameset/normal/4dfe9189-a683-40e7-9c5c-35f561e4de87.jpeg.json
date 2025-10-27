@@ -1,0 +1,12 @@
+{
+  "image_filename": "4dfe9189-a683-40e7-9c5c-35f561e4de87.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph focusing on a hand holding a $100 gift card in the foreground, with the card sharply in focus and all details clearly visible. In the blurred background, an older man wearing glasses and a light blue button-down shirt is speaking on a phone, his face and features out of focus to emphasize anonymity and tension. The lighting is soft and natural, casting gentle shadows and creating a moody, cinematic atmosphere. The color palette is muted, with cool grays and blues dominating the scene, enhancing a sense of seriousness or urgency. The composition uses a tight crop and a low angle, drawing the viewer’s eye directly to the card while the man’s presence looms indistinctly behind, suggesting a narrative of secrecy, transaction, or suspense.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:02.291524",
+  "word_count": 128,
+  "error_message": null
+}

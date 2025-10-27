@@ -1,0 +1,12 @@
+{
+  "image_filename": "225f2d4a-252d-49a6-98c3-b303d58b9e0c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of ripe tomatoes, with the central focus on a single vibrant red tomato adorned with fresh green leaves and glistening droplets of water. The surrounding tomatoes are slightly out of focus, creating a shallow depth of field that draws the viewer’s eye to the main subject. The lighting is dramatic and cinematic, with a moody, low-key ambiance that highlights the glossy texture and natural imperfections of the tomato skin. The color palette is rich and saturated, dominated by deep reds, lush greens, and subtle hints of purple and brown in the background. The composition is intimate and immersive, as if the viewer is peering into a freshly harvested basket of tomatoes. The overall style is reminiscent of fine art food photography, with a painterly quality and a sense of freshness and vitality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:27.032098",
+  "word_count": 135,
+  "error_message": null
+}

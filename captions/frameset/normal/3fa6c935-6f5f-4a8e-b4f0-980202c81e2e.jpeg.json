@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fa6c935-6f5f-4a8e-b4f0-980202c81e2e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph of a hand playing a traditional board game, likely shogi or a similar strategy game. The main focus is on a single wooden game piece with bold, black calligraphic markings, resting on a grid-patterned wooden board. The foreground is dominated by a softly blurred human finger, poised just above the piece, suggesting an imminent move and adding a sense of anticipation and motion. The background is out of focus, with hints of other game pieces and a warm, ambient environment, possibly indoors. The color palette is earthy and natural, featuring warm browns and beiges from the wood, with soft, diffused lighting that creates a cozy, contemplative atmosphere. The composition is intimate and cinematic, with a low, almost eye-level camera angle that draws the viewer into the tactile, strategic moment of gameplay.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:02.121180",
+  "word_count": 136,
+  "error_message": null
+}

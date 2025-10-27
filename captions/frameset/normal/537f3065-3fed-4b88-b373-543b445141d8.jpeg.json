@@ -1,0 +1,12 @@
+{
+  "image_filename": "537f3065-3fed-4b88-b373-543b445141d8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-angle overhead shot of a small group of people standing in a single-file line at a counter. The scene is set against a stark, seamless white background, creating a sense of isolation and simplicity. The counter is a bright, solid yellow rectangle, positioned on the left side of the frame, with a coffee machine and a few cups on top. Behind the counter stands a single attendant in a red shirt, facing the first person in line. The people in line are dressed in casual, modern clothing in muted tones—grays, blues, and blacks—each casting distinct, elongated shadows to the right, suggesting strong, directional lighting from the left. The composition is geometric and orderly, with the line of people forming a clean, straight line that draws the viewer’s eye from right to left toward the counter. The overall mood is calm and slightly abstract, with a focus on form, color contrast, and negative space, evoking a contemporary, almost surreal aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:11.092840",
+  "word_count": 162,
+  "error_message": null
+}

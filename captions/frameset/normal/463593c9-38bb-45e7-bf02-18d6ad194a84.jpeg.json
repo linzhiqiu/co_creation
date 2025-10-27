@@ -1,0 +1,12 @@
+{
+  "image_filename": "463593c9-38bb-45e7-bf02-18d6ad194a84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with long brown hair, wearing a light blue denim button-up shirt, sits against a backdrop of exposed red brick wall. Her expression is one of shock and apprehension, with wide eyes and furrowed brows, as she stares intently at a yellow robotic hand reaching toward her from the foreground. The robotic hand is mechanical, angular, and painted in a bright yellow with black accents, partially blurred due to its proximity to the camera, creating a strong sense of depth. The lighting is warm and natural, casting soft shadows that emphasize the texture of the brick and the woman’s features. The composition uses a shallow depth of field, focusing sharply on the woman’s face while the robotic hand and background are slightly out of focus, heightening the tension and drawing attention to her emotional reaction. The overall style is cinematic, reminiscent of a dramatic science fiction film, with a close-up camera angle that captures the intensity of the moment and the uneasy interaction between human and machine.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:22.575141",
+  "word_count": 169,
+  "error_message": null
+}

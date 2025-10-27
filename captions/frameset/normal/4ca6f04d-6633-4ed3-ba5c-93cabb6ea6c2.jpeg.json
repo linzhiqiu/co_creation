@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ca6f04d-6633-4ed3-ba5c-93cabb6ea6c2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white cinematic scene set in feudal Japan, featuring two samurai standing face-to-face in intense conversation. The older samurai on the left is bald, wearing traditional layered robes with broad, striped sleeves and a protective vest, his expression stern and focused. The younger samurai on the right has his hair tied back in a topknot, dressed in a patterned kimono with a quilted vest, his posture alert and slightly defiant. Both men have swords at their sides, emphasizing their warrior status. The background reveals a weathered, clay-walled building with a tiled roof, topped by an ornate finial, under a clear sky. The lighting is natural and high-contrast, casting sharp shadows and highlighting the textures of the clothing and architecture. The composition is balanced, with the two figures occupying the foreground and the roofline providing a strong horizontal element. The overall style is reminiscent of classic Japanese cinema, with a documentary-like realism, deep focus, and a sense of dramatic tension between the characters.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:36.882843",
+  "word_count": 162,
+  "error_message": null
+}

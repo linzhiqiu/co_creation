@@ -1,0 +1,12 @@
+{
+  "image_filename": "35cd7afd-d3fb-4e52-9bcf-4c168aeca649.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA sleek, futuristic electric car—specifically a MINI Aceman concept—drives through a modern urban environment at dusk. The vehicle is captured from a low, front three-quarter angle, emphasizing its bold, illuminated LED grille and distinctive, geometric headlight design. The car’s body is a smooth, light metallic color, reflecting the cool blue and teal hues of the city lights. The background features contemporary glass and concrete buildings, their windows softly glowing in the early evening light, with a few illuminated signs visible in the distance. The street is mostly empty, adding a sense of motion and focus to the car as it glides forward, the blurred foreground and subtle motion lines enhancing the dynamic, cinematic feel. The overall color palette is cool and modern, dominated by blues, teals, and soft grays, with the car’s neon accents providing a striking visual contrast. The lighting is natural but subdued, capturing the transition from day to night, and the composition conveys a sense of innovation, urban sophistication, and forward momentum.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:30.719312",
+  "word_count": 166,
+  "error_message": null
+}

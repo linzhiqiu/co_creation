@@ -1,0 +1,12 @@
+{
+  "image_filename": "19d78d19-2fcb-42af-8b78-bf36840528df.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast studio portrait of a single figure standing against a pitch-black background. The subject is dressed in a vibrant, matching hooded jacket and shorts set, covered in a bold, colorful pattern featuring reds, yellows, and blues, reminiscent of pop art or streetwear fashion. The hood is up, partially obscuring the face, adding an air of mystery. The figure’s pose is dynamic and expressive, as if caught mid-dance or in a moment of movement, with one arm raised and the other extended to the side. Bright red sneakers with white laces complete the outfit, drawing attention to the feet. The lighting is focused and directional, illuminating the subject from above and slightly to the side, creating dramatic shadows and emphasizing the texture and colors of the clothing while leaving the background in deep shadow. The overall mood is energetic and stylish, with a cinematic, editorial quality. The composition uses negative space to isolate the figure, enhancing the sense of motion and individuality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:26.024877",
+  "word_count": 164,
+  "error_message": null
+}

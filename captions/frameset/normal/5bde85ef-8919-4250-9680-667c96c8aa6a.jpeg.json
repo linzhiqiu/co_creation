@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bde85ef-8919-4250-9680-667c96c8aa6a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene set in broad daylight, featuring a vintage steam locomotive in hot pursuit of a modified DeLorean car, both racing along railroad tracks through a sun-dappled forest. The camera angle is low and close to the ground, emphasizing speed and motion blur in the foreground as the vehicles hurtle forward. The DeLorean, with its iconic gull-wing doors and futuristic modifications, is positioned directly in front of the imposing black steam engine, which emits a plume of dark smoke into the clear blue sky. Tall pine trees line both sides of the track, their green foliage contrasting with the warm, earthy tones of the ground and the metallic sheen of the car. The lighting is natural and crisp, casting sharp shadows and highlighting the reflective surfaces of the DeLorean. The overall style is reminiscent of a high-stakes action-adventure film, with a sense of urgency and excitement conveyed through the composition, motion, and vibrant color palette.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:34.944284",
+  "word_count": 157,
+  "error_message": null
+}

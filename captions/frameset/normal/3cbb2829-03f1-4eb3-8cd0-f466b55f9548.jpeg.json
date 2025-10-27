@@ -1,0 +1,12 @@
+{
+  "image_filename": "3cbb2829-03f1-4eb3-8cd0-f466b55f9548.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a rugged off-road vehicle driving down a narrow, sunlit road surrounded by dense, lush green forest. The vehicle is seen from directly above, with two bright yellow surfboards securely strapped to its roof, creating a striking contrast against the muted, earthy tones of the car and the natural environment. The road is bordered by tall trees casting soft, dappled shadows, with the left side dominated by vibrant green foliage and the right side showing a mix of greenery and brown, sun-dried underbrush. The lighting is natural and warm, suggesting midday or early afternoon, with gentle sunlight filtering through the treetops. The composition emphasizes the sense of adventure and freedom, with the vehicle as a small, purposeful element moving through the vastness of nature. The overall style is cinematic, evoking a tranquil, exploratory mood, with a shallow depth of field that keeps the focus on the vehicle and surfboards while softly blurring the surrounding forest.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:14.768257",
+  "word_count": 157,
+  "error_message": null
+}

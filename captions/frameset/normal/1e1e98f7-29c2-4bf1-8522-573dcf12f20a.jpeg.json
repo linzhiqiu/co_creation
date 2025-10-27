@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e1e98f7-29c2-4bf1-8522-573dcf12f20a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, close-up shot of an athlete riding a stationary exercise bike indoors, captured from a low, side angle that emphasizes the motion of the pedaling legs. The subject wears a red athletic shirt, black shorts, and long white compression socks with subtle branding, paired with white cycling shoes featuring orange accents. The focus is sharp on the cyclist’s legs and the bike’s mechanical details, while the background is softly blurred, revealing a gym environment with blue carpeting and several other athletes in similar attire, some watching and some engaged in conversation. The lighting is cool and even, with a slight cinematic desaturation that gives the scene a modern, documentary feel. The composition highlights the intensity and energy of the workout, with a shallow depth of field drawing attention to the foreground action and creating a sense of movement and athletic focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:56.700689",
+  "word_count": 142,
+  "error_message": null
+}

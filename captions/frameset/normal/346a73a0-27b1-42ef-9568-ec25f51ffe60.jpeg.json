@@ -1,0 +1,12 @@
+{
+  "image_filename": "346a73a0-27b1-42ef-9568-ec25f51ffe60.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, over-the-shoulder tracking shot of a modern beige SUV driving along a winding, empty country road. The camera is positioned just outside the front passenger window, capturing the driver in profile through the glass, their expression calm and focused on the journey ahead. The road curves gently to the right, bordered by lush green grass, wild shrubs, and tall trees that lean slightly over the asphalt, creating a sense of movement and depth. The sky is overcast, casting a soft, diffused light that mutes the colors and enhances the tranquil, contemplative mood. The color palette is natural and subdued, with earthy greens, grays, and the neutral tones of the car. The composition emphasizes the forward motion and solitude of the drive, with a shallow depth of field that keeps the car and driver in sharp focus while the background blurs slightly, evoking a sense of peaceful escape and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:53.591849",
+  "word_count": 150,
+  "error_message": null
+}

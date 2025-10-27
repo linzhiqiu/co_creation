@@ -1,0 +1,12 @@
+{
+  "image_filename": "53f3f791-d632-4b8e-a3d5-3db56de992f7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure sits at a large, empty table in the center of a dark, shadowy room. The subject, a woman with long hair pulled back, is intently focused on assembling or repairing a small mechanical device placed in front of her. She wears a muted, olive-green jacket, and her posture is slightly hunched in concentration. The scene is dramatically lit by a single overhead spotlight, casting a focused pool of light on the table and the woman, while the rest of the room fades into deep shadow and obscurity. The background is almost entirely black, with only the faintest suggestion of other tables or objects at the edges, enhancing the sense of isolation. The color palette is subdued, dominated by dark tones and soft, neutral colors, with the light creating stark contrasts and subtle highlights on the subject’s face and hands. The composition is cinematic, with a wide shot and a slight voyeuristic angle, as if the viewer is observing from a hidden vantage point. The overall mood is tense and introspective, evoking a sense of secrecy, focus, or suspense.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:21.805550",
+  "word_count": 181,
+  "error_message": null
+}

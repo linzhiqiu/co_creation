@@ -1,0 +1,12 @@
+{
+  "image_filename": "50b2a49e-5652-4002-96d9-bd96bfad83fd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, atmospheric scene set inside the dimly lit control room of a submarine. The central figure is a distinguished older man with a full gray beard and slicked-back hair, dressed in a dark naval officer’s uniform adorned with colorful medals and insignia. He is positioned in the foreground, captured in dramatic three-quarter profile, holding a radio microphone close to his mouth as he speaks with intensity and authority. His expression is serious and focused, illuminated by a cold, bluish overhead light that casts sharp highlights on his face and uniform, creating deep shadows and a sense of urgency.\n\nIn the background, two other naval officers stand in partial shadow, their features less distinct but their postures attentive and alert. One wears a striped undershirt beneath his uniform, hinting at Russian naval attire. The control room is filled with metallic surfaces, pipes, and glowing blue instrument panels, contributing to the claustrophobic, high-stakes atmosphere. The color palette is dominated by cool blues, steely grays, and stark whites, with occasional warm highlights from the medals and skin tones. The composition uses a shallow depth of field, keeping the central figure sharply in focus while the background officers and machinery blur slightly, emphasizing the gravity of the moment. The overall style is cinematic, evoking the suspense and tension of a Cold War thriller, with moody, directional lighting and a sense of confined space.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:15.095131",
+  "word_count": 230,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e881522-4a1f-4689-b324-fe4fd3b2374d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic close-up of two men sitting in a car at night. The man in the foreground is sharply in focus, his face illuminated by a dramatic mix of green and orange streetlight filtering through the car window, casting deep shadows and highlighting his tense, contemplative expression. He wears a suit jacket, his features angular and serious, eyes gazing forward with a sense of intensity and unease. In the background, the second man is partially blurred, his face softer and less defined, dressed in a casual striped shirt, looking toward the camera with a subdued, uncertain expression. The car interior is dimly lit, with the outside world barely visible through the windows, creating a sense of isolation and suspense. The color palette is dominated by dark greens, deep shadows, and warm orange highlights, evoking a neo-noir atmosphere. The composition uses a shallow depth of field to emphasize the emotional distance between the two characters, with the camera positioned at eye level, capturing the tension and psychological complexity of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:43.261707",
+  "word_count": 171,
+  "error_message": null
+}

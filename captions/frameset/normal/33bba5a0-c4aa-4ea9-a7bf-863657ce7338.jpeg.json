@@ -1,0 +1,12 @@
+{
+  "image_filename": "33bba5a0-c4aa-4ea9-a7bf-863657ce7338.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a weathered car door, focusing on a small, solitary fly resting on the faded, multicolored paint. The paint is chipped and marbled, blending soft pastel hues of blue, pink, and orange, suggesting years of exposure and wear. The surface is slightly reflective, catching ambient light and creating subtle highlights along the curves of the metal. The background is softly blurred, with hints of dark, textured metal and faint reflections, enhancing the shallow depth of field and drawing attention to the fly and the intricate details of the paint. The lighting is natural and diffused, casting a gentle, almost melancholic mood over the scene. The overall style is reminiscent of a contemplative indie film, with a focus on texture, color, and the quiet beauty of overlooked moments. The camera angle is low and intimate, emphasizing the smallness of the fly against the expanse of the car door, and the composition is carefully balanced to evoke a sense of stillness and quiet observation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:41.853021",
+  "word_count": 166,
+  "error_message": null
+}

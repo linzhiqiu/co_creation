@@ -1,0 +1,12 @@
+{
+  "image_filename": "368d5235-f5f0-4f51-87f7-4c46665dd97f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A symmetrical, meticulously composed scene set in a warmly lit, wood-paneled office. At the center, a man with curly dark hair and a serious, slightly perplexed expression sits behind a desk, facing the camera directly. He wears a bright red Adidas tracksuit with white stripes, which stands out vividly against the muted, earthy tones of the room. On either side of the foreground, the backs of two identical figures—also in matching red tracksuits and with similar curly hair—are visible, suggesting they are twins or siblings, and framing the central subject in a balanced, mirror-like composition.\n\nThe desk is cluttered with retro office equipment: rotary phones, a typewriter, and stacks of paper, evoking a vintage, slightly nostalgic atmosphere. The background features large windows with venetian blinds, allowing soft, diffused daylight to filter in, casting gentle shadows and enhancing the cozy, slightly sepia-toned color palette. The camera angle is straight-on, emphasizing the symmetry and order of the scene, with a shallow depth of field that keeps the focus on the central figure while subtly blurring the twins in the foreground. The overall style is reminiscent of Wes Anderson’s films, with precise framing, rich colors, and a quirky, deadpan mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:49.738297",
+  "word_count": 197,
+  "error_message": null
+}

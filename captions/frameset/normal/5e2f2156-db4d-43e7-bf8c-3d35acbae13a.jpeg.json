@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e2f2156-db4d-43e7-bf8c-3d35acbae13a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a hand holding a modern smartphone, displaying a vivid, high-resolution image of a cheerful quokka. The quokka is centered on the phone screen, facing forward with its mouth open in a joyful expression, its fur rendered in warm, natural browns and soft highlights. The background behind the phone is softly blurred, featuring warm, golden bokeh lights and a gentle gradient from tan to orange, evoking a cozy, inviting atmosphere. The hand is delicately gripping the phone, with natural skin tones and subtle lighting that enhances the realism. The overall composition is intimate and engaging, with a focus on the interaction between human and technology, and a playful, heartwarming mood. The lighting is soft and diffused, with a cinematic quality that emphasizes the warmth and clarity of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:24.289949",
+  "word_count": 134,
+  "error_message": null
+}

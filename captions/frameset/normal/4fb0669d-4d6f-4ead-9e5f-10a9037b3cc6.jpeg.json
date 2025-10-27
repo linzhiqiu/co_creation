@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fb0669d-4d6f-4ead-9e5f-10a9037b3cc6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic scene set in a modern cityscape with tall glass skyscrapers reflecting the clear blue sky. In the foreground and midground, several massive, irregularly shaped floating rocks hover between the buildings. These rocks are covered with patches of green vegetation, moss, and small shrubs, with some areas showing exposed stone and earth. The lighting is bright and natural, casting crisp shadows and highlighting the textures of both the rocks and the sleek, reflective surfaces of the buildings. The camera angle is slightly low, looking up at the floating rocks to emphasize their scale and surreal presence against the urban backdrop. The overall color palette is cool and clean, dominated by blues, grays, and greens, with a sense of calm and wonder. The composition balances the organic forms of the rocks with the geometric lines of the architecture, creating a striking juxtaposition between nature and the man-made environment. The style is reminiscent of high-budget science fiction or fantasy films, with a focus on realism and awe-inspiring visual impact.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:49.263425",
+  "word_count": 169,
+  "error_message": null
+}

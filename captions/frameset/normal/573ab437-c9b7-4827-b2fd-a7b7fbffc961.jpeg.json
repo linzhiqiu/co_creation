@@ -1,0 +1,12 @@
+{
+  "image_filename": "573ab437-c9b7-4827-b2fd-a7b7fbffc961.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"An interior view of a nearly empty refrigerator, shot from the perspective of someone looking inside. The composition centers on the stark, white plastic shelves, illuminated by the fridge’s cool, bluish-white LED lighting, which casts soft, diffused shadows and highlights the clean, minimalist lines of the interior. On the middle shelf sits a single, small, clear glass bowl, its transparency catching the light and creating subtle reflections. On the lower right, a tall, clear glass bottle containing a small amount of milk stands upright, its simple form contrasting with the emptiness around it. The background is the smooth, pale interior wall of the fridge, with faint condensation rings and a sense of cold sterility. The overall mood is one of quiet austerity and emptiness, evoking a sense of minimalism or scarcity. The color palette is dominated by whites, pale blues, and the soft off-white of the milk, with a high-key, almost clinical lighting style. The camera angle is straight-on, eye-level, with a shallow depth of field that keeps the contents in sharp focus while the background gently blurs, emphasizing the sparse arrangement and the feeling of isolation within the scene.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:48.161865",
+  "word_count": 191,
+  "error_message": null
+}

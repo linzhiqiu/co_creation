@@ -1,0 +1,12 @@
+{
+  "image_filename": "280a5170-ab88-4646-9cba-0da8bf28dd8b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a man with a shaved head, dressed in a dark, heavy winter jacket with a gray hood. He is looking downward, his face partially obscured, conveying a sense of introspection or exhaustion. The background is a desaturated, wintry landscape with snow-covered ground and blurred, distant trees, creating a cold, bleak atmosphere. The color palette is muted, dominated by icy whites, grays, and deep blacks, enhancing the somber mood. The lighting is natural and diffuse, suggesting an overcast sky, with soft shadows and no harsh highlights. The composition is intimate and slightly off-center, focusing on the man's head and upper torso, with a shallow depth of field that blurs the background, drawing attention to the subject's posture and the texture of his clothing. The overall style is reminiscent of a dramatic, survival-themed film, evoking feelings of isolation and endurance in a harsh environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:25.055271",
+  "word_count": 147,
+  "error_message": null
+}

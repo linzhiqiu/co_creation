@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f79a14e-9ac1-437f-a20d-039c11a8342e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking aerial view of a large group of synchronized dancers performing on a pale, sunlit surface. The dancers are evenly spaced in a precise grid formation, each captured mid-movement with one arm extended and one leg lifted, creating a sense of dynamic motion and unity. Their outfits are minimal and athletic, featuring dark tops and light bottoms that contrast sharply with the bright, almost white ground beneath them. Long, dramatic shadows stretch out behind each dancer, emphasizing the direction of the sunlight and adding depth and rhythm to the composition. The overall color palette is cool and muted, dominated by soft blues, grays, and subtle skin tones, with the crisp lines of the grid faintly visible on the ground. The camera angle is directly overhead, creating a graphic, almost abstract quality, while the high-key lighting and sharp focus highlight the geometric precision and collective energy of the scene. The mood is both serene and powerful, evoking a sense of harmony, discipline, and artistic expression.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:02.509370",
+  "word_count": 165,
+  "error_message": null
+}

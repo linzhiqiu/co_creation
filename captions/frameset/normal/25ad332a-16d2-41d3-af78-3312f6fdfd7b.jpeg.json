@@ -1,0 +1,12 @@
+{
+  "image_filename": "25ad332a-16d2-41d3-af78-3312f6fdfd7b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, low-angle shot set on a grassy soccer field during an overcast day. In the extreme foreground, the focus is on a single player's black cleats and the lower part of their dark athletic pants, with a shallow depth of field rendering the grass in sharp detail. In the softly blurred background, several soccer players are visible, wearing neon green training vests over dark athletic gear, their faces and features indistinct. The players appear to be in motion, suggesting a practice session or warm-up, with some orange cleats adding a pop of color. The lighting is diffuse and natural, with a cool, muted color palette dominated by greens, blacks, and grays, evoking a calm, early morning or late afternoon atmosphere. The composition emphasizes anticipation and focus, with the foregrounded shoe suggesting readiness and the out-of-focus players in the distance hinting at teamwork and action. The overall style is reminiscent of a sports documentary or a motivational sports film, with a strong sense of realism and immediacy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:40.109960",
+  "word_count": 167,
+  "error_message": null
+}

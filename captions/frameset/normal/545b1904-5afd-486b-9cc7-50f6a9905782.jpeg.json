@@ -1,0 +1,12 @@
+{
+  "image_filename": "545b1904-5afd-486b-9cc7-50f6a9905782.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage analog synthesizer control panel, featuring an array of metallic knobs, dials, and switches arranged in a precise grid. The panel is illuminated by moody, low-key lighting with a teal and deep blue color palette, creating a cinematic, atmospheric effect. A single red LED light glows near the center-right, drawing the viewer’s eye and adding a subtle accent of color contrast. The engraved labels and markings on the panel are clearly visible, with terms like \"LFO,\" \"Freq,\" \"Decay,\" and \"Sustain\" hinting at the device’s musical function. The camera angle is straight-on, emphasizing the symmetry and tactile quality of the hardware, while a shallow depth of field softly blurs the edges, focusing attention on the central controls. The overall style is reminiscent of a high-end product photograph or a scene from a retro-futuristic film, evoking a sense of technical precision and analog nostalgia.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:33.240538",
+  "word_count": 147,
+  "error_message": null
+}

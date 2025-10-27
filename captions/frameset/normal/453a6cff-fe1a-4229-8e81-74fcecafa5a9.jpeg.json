@@ -1,0 +1,12 @@
+{
+  "image_filename": "453a6cff-fe1a-4229-8e81-74fcecafa5a9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a pale, slightly bruised left hand with a small cut on the knuckle, resting on a textured, grayish wooden surface. The hand is positioned in the upper left corner, fingers gently splayed, drawing attention to a yellow sticky note placed centrally on the table. On the sticky note, a simple black marker drawing depicts a game of hangman: a stick figure hanging from a gallows, with the word \"KILLER\" partially filled in beneath, the remaining letters represented by blank spaces. The lighting is cool and desaturated, casting soft shadows and emphasizing the somber, tense mood. The composition is minimalistic and precise, with a shallow depth of field that blurs the background, focusing the viewer’s attention on the hand and the note. The overall style is cinematic and suspenseful, evoking a sense of mystery and psychological unease, reminiscent of a thriller or detective film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:11.102348",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b25a0d3-1ac0-4422-8e19-caf4de70e026.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt for generating this image:\n\n\"Create a softly lit, cinematic scene set in a sunlit library during the daytime. In the foreground, feature a young woman wearing a light gray hijab and glasses, dressed in a muted green jacket. She is intently reading a large open book, her expression focused and thoughtful as she turns a page. In the background, two other young women are also engaged in study, one with long curly hair and the other with her hair tied back, both surrounded by open books. The background is filled with tall bookshelves lined with colorful books, softly blurred to create a shallow depth of field. The overall color palette is gentle and natural, with warm sunlight streaming through large windows, casting a soft glow and subtle highlights on the subjects. The composition is intimate and immersive, with a slight over-the-shoulder camera angle that draws the viewer into the studious, contemplative atmosphere. The mood is calm, intellectual, and quietly inspiring, evoking a sense of dedication and focus.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:32.781970",
+  "word_count": 171,
+  "error_message": null
+}

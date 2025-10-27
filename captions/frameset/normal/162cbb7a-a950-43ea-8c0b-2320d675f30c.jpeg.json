@@ -1,0 +1,12 @@
+{
+  "image_filename": "162cbb7a-a950-43ea-8c0b-2320d675f30c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a modern industrial robotics lab, captured with a cinematic, shallow depth of field. The scene is set in a spacious, high-ceilinged workshop with exposed pipes and industrial lighting overhead, casting a cool, diffused glow across the polished concrete floor. In the midground, several people—dressed in casual work attire such as jeans, t-shirts, and lab coats—are gathered around a large, orange robotic arm encased in a transparent safety enclosure. They appear focused and engaged, some interacting with control panels or discussing technical details. The background features large windows, metal shelving, and various pieces of technical equipment, contributing to the authentic, utilitarian atmosphere. In the foreground, out-of-focus machinery and equipment frame the shot, adding depth and a sense of immersion. The color palette is dominated by muted industrial tones—grays, blues, and metallics—punctuated by the vivid orange of the robot and subtle hints of color from clothing and equipment. The overall style is realistic and documentary-like, with a hint of dramatic tension created by the lighting and composition, evoking the feeling of innovation and collaboration in a cutting-edge research environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:05.431138",
+  "word_count": 181,
+  "error_message": null
+}

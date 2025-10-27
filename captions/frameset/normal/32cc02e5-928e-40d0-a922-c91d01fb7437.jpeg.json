@@ -1,0 +1,12 @@
+{
+  "image_filename": "32cc02e5-928e-40d0-a922-c91d01fb7437.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of six astronauts and mission personnel gather around a white table in a sterile, utilitarian space station meeting room. The room is illuminated by cool, clinical overhead fluorescent lighting, casting soft shadows and emphasizing the metallic, minimalist interior. The group is arranged in a semicircle, their attention focused on a large wall-mounted monitor displaying a man’s face in a video call, his expression serious and intent. \n\nThe figures wear a mix of space suits and uniforms: one stands in a bulky white EVA suit with their back to the camera, while others wear gray or blue jumpsuits with mission patches and insignia. Their postures and expressions convey tension and focus, some standing, others seated, one person leaning forward with hands clasped. A chessboard sits on the table, hinting at the passage of time and the psychological strain of isolation.\n\nThe composition is cinematic, with a wide-angle perspective that captures the entire group and the sterile environment. The color palette is dominated by muted grays, whites, and blues, reinforcing the cold, high-tech atmosphere. The camera is positioned at eye level, creating a sense of immediacy and immersion, while the depth of field keeps all subjects in sharp focus, highlighting the collective mood of anticipation and gravity. The overall style evokes classic science fiction, blending realism with a subtle sense of unease and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:24.307431",
+  "word_count": 224,
+  "error_message": null
+}

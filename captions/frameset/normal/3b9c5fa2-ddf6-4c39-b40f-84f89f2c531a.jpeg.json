@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b9c5fa2-ddf6-4c39-b40f-84f89f2c531a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a black computer keyboard, focusing on the central cluster of keys including Q, W, E, R, A, S, D, and Z, X, C, V. The keys are slightly worn, with subtle reflections catching the light on their surfaces, suggesting frequent use. The lighting is low and moody, casting soft shadows and creating a warm, intimate atmosphere. The depth of field is shallow, with the foreground keys in sharp focus while the background and edges blur gently, drawing attention to the tactile texture of the keys. A human finger is just visible at the right edge of the frame, poised above the keyboard, hinting at imminent action. The color palette is muted, dominated by deep blacks and soft, golden highlights, evoking a sense of concentration and quiet intensity. The composition is tight and immersive, as if inviting the viewer into the private world of someone at work or deep in thought, reminiscent of a scene from a suspenseful drama or a tech-focused film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:44.224527",
+  "word_count": 167,
+  "error_message": null
+}

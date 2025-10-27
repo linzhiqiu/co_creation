@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ec02b4f-a7d4-4c99-94b2-3d35a5b5cba2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic scene set at night, featuring a disheveled man in his 30s or 40s standing in a dimly lit doorway. He wears a light-colored bathrobe, his hair messy and face unshaven, conveying a sense of urgency and vulnerability. The man extends his arm forward, gripping a handgun, his expression a mix of fear, determination, and surprise as he confronts an unseen threat. The lighting is low and moody, casting deep shadows and bathing the scene in a yellowish, almost sepia-toned palette that heightens the suspenseful atmosphere. The camera angle is slightly low and off-center, creating a sense of instability and immediacy, with a shallow depth of field that keeps the focus tightly on the man and his outstretched weapon while the background remains blurred and indistinct. The overall style is reminiscent of a gritty thriller or neo-noir film, with a palpable sense of danger and psychological tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:24.214989",
+  "word_count": 149,
+  "error_message": null
+}

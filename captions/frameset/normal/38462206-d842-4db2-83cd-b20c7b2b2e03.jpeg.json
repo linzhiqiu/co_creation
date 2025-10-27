@@ -1,0 +1,12 @@
+{
+  "image_filename": "38462206-d842-4db2-83cd-b20c7b2b2e03.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA young woman sits alone at her desk in a dimly lit, modern office at night, illuminated by the cool blue glow of computer screens and overhead fluorescent lights. She gazes intently forward with a focused, slightly anxious expression, her face softly highlighted against the shadowy, empty cubicles behind her. In the foreground, five small, whimsical robot figurines stand in a row on her desk, their metallic limbs and boxy bodies catching the light, creating a playful contrast to the otherwise serious, moody atmosphere. The composition is cinematic, with a shallow depth of field that keeps the woman and the robots in sharp focus while the background blurs into darkness, emphasizing her isolation and the surreal quality of the scene. The color palette is dominated by cool blues and muted grays, with subtle warm accents from the desk lamp and computer screens, evoking a sense of late-night solitude and quiet tension. The camera angle is eye-level, directly facing the woman, drawing the viewer into her perspective and the mysterious, almost dreamlike ambiance of the office at night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:26.149681",
+  "word_count": 178,
+  "error_message": null
+}

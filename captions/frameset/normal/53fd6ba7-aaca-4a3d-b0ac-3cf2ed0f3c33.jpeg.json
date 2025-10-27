@@ -1,0 +1,12 @@
+{
+  "image_filename": "53fd6ba7-aaca-4a3d-b0ac-3cf2ed0f3c33.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a black laptop resting on a dark surface, its screen displaying a paused sports video featuring a blurred stadium background and a sharply focused basketball mid-air. The laptop keyboard is visible in the foreground, with subtle reflections on the keys, while the right edge of the frame includes a hint of a person’s blue jeans, suggesting someone is seated nearby, watching intently. The lighting is low and moody, with soft, natural daylight filtering in from the left, casting gentle shadows and creating a contemplative, intimate atmosphere. The color palette is dominated by cool, muted tones—deep blacks, grays, and blues—contrasted by the warm, reddish-orange of the basketball on the screen. The composition uses a shallow depth of field, keeping the laptop and screen in sharp focus while the background remains softly blurred, evoking a sense of quiet concentration and anticipation. The overall style is realistic and understated, with a subtle cinematic quality reminiscent of a thoughtful sports documentary or a quiet moment in a drama film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:23.760270",
+  "word_count": 170,
+  "error_message": null
+}

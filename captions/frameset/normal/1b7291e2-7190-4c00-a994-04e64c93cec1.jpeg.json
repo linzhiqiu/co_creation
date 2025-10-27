@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b7291e2-7190-4c00-a994-04e64c93cec1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a vivid, immersive scene looking up at a cluster of tall palm trees from a low, ground-level perspective. The composition should emphasize the dramatic, radiating fronds of the palms, their textured trunks rising vertically and fanning out against a bright, partly cloudy sky. The color palette is dominated by lush, natural greens and muted browns, with subtle highlights where sunlight filters through the leaves, casting soft, dappled shadows. The overall mood is tranquil and tropical, evoking a sense of warmth and relaxation. The camera angle is upward and slightly wide, capturing the grandeur and intricate detail of the palm canopy, with a shallow depth of field that keeps the foreground fronds crisp while the background softens gently. The style is realistic with a touch of cinematic vibrancy, focusing on the interplay of light, shadow, and organic forms to create a serene, inviting atmosphere.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:56.720246",
+  "word_count": 145,
+  "error_message": null
+}

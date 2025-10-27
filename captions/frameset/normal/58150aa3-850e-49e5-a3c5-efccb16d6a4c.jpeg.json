@@ -1,0 +1,12 @@
+{
+  "image_filename": "58150aa3-850e-49e5-a3c5-efccb16d6a4c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a vintage flip calendar, focusing on the transition between dates. The main subject is the word \"JUN\" in bold, black letters on a cream-colored card, partially flipped, suggesting the change of month to June. To the left, the number \"2\" is visible, slightly out of focus, hinting at the date but not fully in frame. The calendar's plastic casing is off-white, with soft, diffused natural light creating gentle shadows and a subtle sense of depth. The composition is tight, with a shallow depth of field that blurs the background and edges, drawing attention to the tactile, mechanical details of the flipping cards. The overall mood is nostalgic and contemplative, evoking the passage of time with a minimalist, almost documentary style. The color palette is muted and neutral, emphasizing the timeless, analog quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:06.410966",
+  "word_count": 140,
+  "error_message": null
+}

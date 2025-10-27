@@ -1,0 +1,12 @@
+{
+  "image_filename": "5dc81915-ae09-4bae-8ae8-9a06b8705470.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A small sailboat with a striking blue and white sail glides across a moody, open sea under a dramatic, overcast sky. The camera angle is low, partially submerged at water level, creating a split perspective where the lower half of the frame is blurred by the dark, gently rippling water, while the upper half reveals the boat and its two occupants. One person stands near the mast, adjusting the sail, while another sits at the stern, steering. The lighting is soft and diffused, with cool blue and gray tones dominating the palette, evoking a sense of calm and introspection. The distant shoreline is barely visible, shrouded in mist, enhancing the feeling of isolation and adventure. The overall style is cinematic, with a shallow depth of field that keeps the focus on the sailboat and its crew, while the foreground water and background sky remain slightly out of focus, adding to the immersive, atmospheric quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:18.804688",
+  "word_count": 157,
+  "error_message": null
+}

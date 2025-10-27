@@ -1,0 +1,12 @@
+{
+  "image_filename": "53e46a70-1c08-4c06-a3c6-b409c5b6f4a0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single figure stands alone in the center of a vast, dark void, dramatically illuminated by a focused spotlight from above. The subject is dressed in striking red pants and a dark top, creating a vivid contrast against the deep black background. The figure’s posture is contemplative, with one arm raised to their face as if lost in thought or mid-gesture, adding a sense of introspection and solitude. The floor beneath them is glossy, perfectly reflecting their form and amplifying the sense of isolation. The composition is minimalist, with the subject occupying only a small portion of the frame, surrounded by negative space that emphasizes their solitude. The color palette is stark, dominated by black with bold accents of red and subtle highlights on the figure’s clothing. The lighting is dramatic and cinematic, with high contrast and a soft halo effect around the subject, creating a sense of depth and focus. The overall style is moody and atmospheric, evoking a sense of loneliness or contemplation, reminiscent of a scene from an art-house film or a contemporary dance performance captured in a single, poignant moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:25.934285",
+  "word_count": 184,
+  "error_message": null
+}

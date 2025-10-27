@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bcf468b-a94a-45b6-a7ba-498b4890ec8a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, dreamlike architectural scene inspired by brutalist and modernist design, featuring a labyrinth of massive concrete structures, sharp angles, and intersecting walkways. The environment is vast and imposing, with towering columns, deep shadows, and dramatic, geometric forms that evoke a sense of disorientation. Populate the scene with several human figures dressed in dark, contemporary clothing, their postures and movements suggesting confusion or urgency as they navigate the maze-like space. The camera angle is tilted, enhancing the sense of vertigo and unreality, with a wide lens that exaggerates the scale and depth of the architecture. The color palette is muted and cool, dominated by shades of gray, blue, and concrete beige, with soft, diffused lighting that casts long shadows and highlights the stark textures of the walls. The overall mood is mysterious and cinematic, reminiscent of a psychological thriller or a science fiction film, with a strong emphasis on spatial distortion and the interplay between human presence and monumental architecture.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:36.682215",
+  "word_count": 162,
+  "error_message": null
+}

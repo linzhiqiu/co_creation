@@ -1,0 +1,12 @@
+{
+  "image_filename": "3af5add3-3ff5-4452-94ef-4dd76e1abc6b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, emotionally charged scene featuring a woman with long, straight dark hair and blunt bangs, gazing intently at a mysterious, ethereal figure. The woman’s expression is a mix of awe, vulnerability, and longing, her lips slightly parted as she stands close to the other figure, almost face to face. The lighting is dramatic and moody, dominated by deep blue tones that bathe the entire scene in a cool, almost otherworldly glow. The background is softly blurred, focusing all attention on the woman’s face and the faint, ghostly outline of the other figure, whose features are indistinct and illuminated by the same blue light, creating a sense of surreal intimacy. The composition is tight, with a shallow depth of field that enhances the emotional intensity and draws the viewer into the moment. The overall style is reminiscent of neo-noir or science fiction cinema, with a sleek, polished look and a palpable sense of tension and mystery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:27.461956",
+  "word_count": 158,
+  "error_message": null
+}

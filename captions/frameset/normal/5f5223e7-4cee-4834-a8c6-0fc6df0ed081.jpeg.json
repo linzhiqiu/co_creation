@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f5223e7-4cee-4834-a8c6-0fc6df0ed081.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, eye-level shot of a small, old-fashioned gas station set in a quiet urban neighborhood during the daytime. The gas station has a simple, flat white canopy with a blue trim, supported by four white columns, and features two double-sided fuel pumps. The scene is devoid of people, creating a sense of stillness and calm. In the background, a row of low-rise, early 20th-century buildings with beige and white facades lines the street, interspersed with palm trees and parked cars. The sky is bright and partly cloudy, with soft, diffused sunlight casting gentle shadows and giving the image a natural, slightly nostalgic feel. The color palette is muted and realistic, dominated by whites, blues, and earth tones, with subtle pops of color from the cars and signage. The composition is symmetrical, with the gas station canopy centered in the frame, and the overall style evokes a cinematic, almost documentary-like realism, emphasizing the quiet, everyday atmosphere of the urban landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:59.117828",
+  "word_count": 160,
+  "error_message": null
+}

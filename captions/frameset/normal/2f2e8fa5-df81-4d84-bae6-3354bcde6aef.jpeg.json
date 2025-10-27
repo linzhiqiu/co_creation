@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f2e8fa5-df81-4d84-bae6-3354bcde6aef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up portrait of a cheerful man with dark skin and a prominent mustache, smiling broadly and looking directly into the camera. He wears a colorful, striped, knitted sweater with a retro pattern, adding vibrancy and warmth to the scene. The background is softly out of focus, suggesting an indoor setting with warm, ambient lighting—possibly a cozy barbershop or vintage café, as indicated by blurred wall decorations and framed photos. The lighting is soft and flattering, highlighting the subject’s expressive eyes and joyful expression, while subtle reflections on his skin add a sense of realism and intimacy. The composition is tight, with the man’s face filling much of the frame, creating a sense of immediacy and connection. The overall style is cinematic, with a shallow depth of field and a natural, inviting color palette dominated by earth tones and pops of color from the sweater, evoking a nostalgic, feel-good atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:03.141838",
+  "word_count": 150,
+  "error_message": null
+}

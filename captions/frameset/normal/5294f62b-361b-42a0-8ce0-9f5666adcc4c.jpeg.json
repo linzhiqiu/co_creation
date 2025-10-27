@@ -1,0 +1,12 @@
+{
+  "image_filename": "5294f62b-361b-42a0-8ce0-9f5666adcc4c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene featuring a solitary man standing in the center of a futuristic, tunnel-like corridor. The man is dressed in a sharp, dark suit with a white shirt and a dark tie, exuding a sense of formality and seriousness. His hair is neatly combed, and his expression is calm yet intense, with a hint of introspection or determination. The corridor behind him is composed of concentric, elliptical rings that recede into the distance, creating a strong sense of depth and symmetry. The walls and ceiling are smooth and light-colored, with soft, diffuse lighting that casts minimal shadows and enhances the clean, sterile atmosphere. The overall color palette is muted, dominated by pale creams, soft grays, and the dark tones of the man's suit. The camera is positioned at eye level, directly facing the subject, emphasizing the geometric precision and futuristic aesthetic of the environment. The mood is contemplative and slightly enigmatic, evoking themes of identity, destiny, or isolation within a highly controlled, modernist setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:49.687996",
+  "word_count": 167,
+  "error_message": null
+}

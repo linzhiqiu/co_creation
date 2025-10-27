@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f049a07-dedd-4868-88fb-f362f4e7ffef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, close-up shot of an industrial ventilation system, focusing on a metallic rectangular unit with two large, circular fans side by side. The fans have broad, white blades and are illuminated from behind by a deep, ominous red light, casting a subtle glow through the blades and onto the surrounding metal surfaces. The unit is set within a dark, utilitarian environment, with ribbed metal walls and a grated floor in the foreground, adding texture and depth. The overall color palette is dominated by cold steel blues and grays, contrasted sharply by the intense red backlighting. The lighting is low and moody, emphasizing the stark, mechanical atmosphere. The composition is symmetrical and centered, with a shallow depth of field that keeps the focus on the fans while softly blurring the background. The style is reminiscent of a tense, sci-fi thriller, evoking a sense of foreboding and industrial precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:49.950696",
+  "word_count": 150,
+  "error_message": null
+}

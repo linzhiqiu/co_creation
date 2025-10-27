@@ -1,0 +1,12 @@
+{
+  "image_filename": "5983a603-2628-4fa7-8c8c-16e5d5923b2d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A warmly lit classroom scene featuring young boys of Middle Eastern descent, all dressed in crisp, traditional white thobes. The central focus is a smiling boy in the foreground, energetically raising his hand with a sense of eagerness and engagement. His face is illuminated by soft, natural light streaming in from a window to the left, casting gentle shadows and creating a golden, inviting atmosphere. Other boys in similar attire are visible in the background, also raising their hands, their faces slightly out of focus, contributing to a shallow depth of field that draws attention to the main subject. The classroom is decorated with colorful posters and maps on the walls, and desks are arranged in neat rows, each with books and water bottles. The overall color palette is warm and earthy, with creamy whites, muted browns, and splashes of color from classroom materials. The composition is dynamic, with a slight cinematic blur and a low, eye-level camera angle that immerses the viewer in the lively, hopeful mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:41.621733",
+  "word_count": 171,
+  "error_message": null
+}

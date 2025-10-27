@@ -1,0 +1,12 @@
+{
+  "image_filename": "580beb5c-8ccb-401c-93ba-91e03ef1e2d7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic winter scene set at dusk, featuring a snow-covered roadside bordered by dense, dark pine forest. In the foreground, a modern dark SUV with red emergency lights glowing softly is parked on the snowy shoulder. Two figures stand beside the vehicle: one is a uniformed police officer, bundled in a dark winter jacket and hat, while the other is a civilian dressed in dark, heavy winter clothing. A large black dog sits obediently at the civilian’s side. The figures are engaged in quiet conversation, their breath faintly visible in the cold air. The background is dominated by tall, shadowy trees under a pale, overcast sky, with the last blue-grey light of evening casting a muted, melancholic tone over the scene. Power lines and a road sign add subtle detail, while the snow reflects the cool ambient light, enhancing the sense of isolation and stillness. The composition is wide and slightly elevated, with a deep depth of field that keeps both the foreground and background in sharp focus, evoking the contemplative, atmospheric style of a Nordic noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:07.375510",
+  "word_count": 178,
+  "error_message": null
+}

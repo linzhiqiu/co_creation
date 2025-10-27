@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bdf11fd-4d9b-47e1-8cc2-b586906b554c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody landscape featuring a vintage CRT television partially submerged in the middle of a cold, fast-flowing river. The TV is tilted at an angle, its screen glowing with a hazy, ghostly image of a lighthouse shrouded in mist, adding an element of surrealism. The river’s surface is turbulent, with ripples and small waves splashing against the television, emphasizing the sense of movement and coldness. In the background, leafless trees stand stark against a misty, mountainous backdrop, their silhouettes softened by the overcast, foggy atmosphere. The color palette is dominated by muted blues, grays, and desaturated earth tones, creating a somber, melancholic mood. The lighting is diffuse and natural, with no direct sunlight, enhancing the overcast, wintry feel. The composition is wide and cinematic, with a shallow depth of field that keeps the focus on the television while the background fades into soft blur. The overall style is reminiscent of atmospheric arthouse cinema, blending realism with a touch of surreal, dreamlike imagery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:51.552674",
+  "word_count": 163,
+  "error_message": null
+}

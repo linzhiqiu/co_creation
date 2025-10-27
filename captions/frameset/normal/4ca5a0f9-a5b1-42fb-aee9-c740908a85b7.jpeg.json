@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ca5a0f9-a5b1-42fb-aee9-c740908a85b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, intimate scene set in a cozy, dimly lit bookstore. The camera is positioned at a shallow angle, close to a wooden bookshelf that stretches into the softly blurred background, creating a strong sense of depth and perspective. The focus is on a single shelf filled with an eclectic mix of books, with one prominent green and white book titled \"Books About Books\" facing outward, drawing the viewer’s attention. The lighting is warm and golden, casting gentle highlights and deep shadows that evoke a nostalgic, inviting atmosphere. The overall color palette features rich browns, muted greens, and soft amber tones, enhancing the sense of warmth and quiet. The composition emphasizes the tactile textures of the worn book spines and the wood grain, with a shallow depth of field that blurs the background, suggesting a tranquil, contemplative mood. The style is reminiscent of an art-house film or a fine art photograph, focusing on the beauty of everyday moments and the love of literature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:34.044872",
+  "word_count": 164,
+  "error_message": null
+}

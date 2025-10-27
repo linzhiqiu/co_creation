@@ -1,0 +1,12 @@
+{
+  "image_filename": "3374b651-c8bc-49be-b4af-c2203e0927a9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic image of planet Earth as seen from outer space, centered against a vast, deep black background. The Earth is depicted in vivid detail, with visible continents, oceans, and swirling cloud formations. The color palette features rich blues and greens for the land and water, contrasted with soft whites for the clouds and subtle tan and brown hues for the deserts. The planet is illuminated by a gentle, natural light source from the left, casting a soft shadow on the right side and creating a sense of depth and roundness. The composition is minimalist, with Earth occupying the center of the frame and surrounded by the emptiness of space, evoking a sense of isolation and grandeur. The overall style is photorealistic with a slight cinematic touch, reminiscent of high-resolution space photography, with sharp focus on the planet and a smooth, unfocused void in the background. No other objects or stars are visible, emphasizing the fragility and beauty of Earth suspended in the darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:33.322499",
+  "word_count": 166,
+  "error_message": null
+}

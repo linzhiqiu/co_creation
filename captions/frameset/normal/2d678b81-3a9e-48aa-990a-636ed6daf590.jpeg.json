@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d678b81-3a9e-48aa-990a-636ed6daf590.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of an asphalt road surface, focusing on the intersection of a bold white painted line and the dark, textured pavement. The camera angle is extremely low, almost at ground level, creating a dramatic sense of scale and intimacy with the rough, granular details of the asphalt and scattered small pebbles. The white line is slightly weathered, with subtle cracks and imperfections, contrasting sharply against the deep charcoal and black tones of the road. The background is softly blurred, employing a shallow depth of field that draws attention to the tactile surface textures in the foreground. The lighting is natural and directional, suggesting late afternoon sunlight, casting gentle shadows and highlighting the contours and grit of the road. The overall mood is contemplative and cinematic, evoking a sense of journey or anticipation, with a minimalist composition that emphasizes texture, contrast, and the quiet beauty of everyday urban environments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:26.954755",
+  "word_count": 150,
+  "error_message": null
+}

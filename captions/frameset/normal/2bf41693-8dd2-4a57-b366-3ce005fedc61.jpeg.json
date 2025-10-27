@@ -1,0 +1,12 @@
+{
+  "image_filename": "2bf41693-8dd2-4a57-b366-3ce005fedc61.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder view of a person in a white lab coat, intently observing a computer monitor displaying a detailed 3D molecular model. The molecular structure is rendered in soft, semi-translucent colors—vivid purples, blues, reds, and beiges—floating against a pale, neutral background on the screen. The monitor is a modern flat-panel display, with a thin bezel and visible system tray icons along the bottom edge, suggesting a scientific or research environment. The lighting is bright and clinical, with soft, diffuse illumination that highlights the clean, professional atmosphere of a laboratory. The composition focuses on the interaction between the scientist and the digital model, with the viewer’s perspective slightly behind and to the side of the subject, creating a sense of immersion and engagement. The overall style is realistic and documentary-like, emphasizing clarity, precision, and the quiet intensity of scientific discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:54.651796",
+  "word_count": 140,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cc2cbf4-1d0f-4e81-9af6-429ec007c6c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, intimate scene of two people sitting side by side at a dark, matte table, their faces partially visible and softly lit by natural daylight. They are closely engaged, smiling and conversing as they look at a white tablet held between them. The tablet screen displays a website featuring a sleek, futuristic soapbox derby car, with a large product image, smaller thumbnails below, and a prominent orange “Buy this project” button. The background is softly out of focus, with a white bowl and spoon adding a casual, domestic touch. The color palette is muted and natural, with cool blue and gray tones dominating the table and background, contrasted by the warm skin tones and the bright, clean whites of the tablet and bowl. The composition is tight and personal, shot from a slightly elevated angle that emphasizes the shared experience and connection between the two subjects. The overall style is cinematic and documentary-like, with shallow depth of field, soft lighting, and a focus on authentic, everyday moments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:27.224503",
+  "word_count": 168,
+  "error_message": null
+}

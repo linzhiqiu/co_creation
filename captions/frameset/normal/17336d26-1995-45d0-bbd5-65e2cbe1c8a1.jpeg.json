@@ -1,0 +1,12 @@
+{
+  "image_filename": "17336d26-1995-45d0-bbd5-65e2cbe1c8a1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit room with a moody, cinematic atmosphere, viewed from behind a solitary figure seated on a worn couch. The subject, a man with tousled hair, is silhouetted in the foreground, his back to the viewer, gazing intently at a chaotic wall covered in photographs, newspaper clippings, and documents. Dozens of red strings crisscross the wall, connecting various images and notes in a complex web, suggesting an obsessive investigation or conspiracy theory. The lighting is dramatic, with a single overhead lamp casting a focused, warm glow on the wall, creating deep shadows and emphasizing the intensity of the scene. The color palette is dominated by muted blues, grays, and browns, with the red strings providing a striking visual contrast. The composition uses a shallow depth of field, keeping the viewer’s attention on the wall of evidence while the edges of the room fade into darkness. The overall style is reminiscent of a psychological thriller or detective film, evoking a sense of mystery, tension, and obsession.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:25.867709",
+  "word_count": 166,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1659d9e9-9645-4601-b178-2fbe75a1c41a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, over-the-shoulder interior shot from the backseat of a modern SUV, looking forward through the windshield. The scene captures two people in the front seats: a woman with long, reddish-brown hair driving on the left, wearing a light tan jacket, and a man in the passenger seat on the right, dressed in a white shirt with dark accents. The dashboard is sleek and high-tech, featuring a large central touchscreen displaying a navigation map. The expansive panoramic sunroof above lets in soft, natural daylight, casting a warm, golden hue throughout the car’s beige leather interior. Outside the windshield, a sunlit rural landscape with scattered trees and a rustic wooden structure is visible, along with a parked car in the distance. The overall mood is calm and contemplative, with a shallow depth of field that keeps the focus on the car’s interior while gently blurring the background. The color palette is warm and earthy, with soft shadows and a slightly desaturated, cinematic tone reminiscent of a road trip drama.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:05.309357",
+  "word_count": 170,
+  "error_message": null
+}

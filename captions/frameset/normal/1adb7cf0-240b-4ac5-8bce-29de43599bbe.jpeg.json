@@ -1,0 +1,12 @@
+{
+  "image_filename": "1adb7cf0-240b-4ac5-8bce-29de43599bbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a mesmerizing upward view from the forest floor, looking directly up at a circle of towering, majestic trees. The trunks stretch vertically, converging toward the center of the image, drawing the viewer’s eye to the canopy high above. Sunlight filters through the dense green foliage, casting a soft, dappled light and illuminating the leaves with a gentle golden glow. The color palette is dominated by earthy browns of the tree bark and vibrant, natural greens, with hints of warm sunlight. The composition uses a wide-angle lens effect, emphasizing the immense height and grandeur of the trees, and creating a sense of awe and tranquility. The overall style is realistic and immersive, with sharp details in the bark texture and leaves, and a subtle depth of field that keeps the entire scene in crisp focus. The mood is serene and contemplative, evoking the quiet majesty of an ancient forest.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:43.575501",
+  "word_count": 150,
+  "error_message": null
+}

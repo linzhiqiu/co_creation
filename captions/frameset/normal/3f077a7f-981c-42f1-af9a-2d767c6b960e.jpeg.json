@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f077a7f-981c-42f1-af9a-2d767c6b960e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a young person gazing intently into a jagged shard of broken mirror, which they hold up with one hand. The reflection captures only part of their face, focusing sharply on a single expressive eye framed by wet, tousled dark hair that partially obscures their features, evoking a sense of vulnerability and introspection. The background is softly blurred and minimalist, rendered in cool, muted tones of white and pale blue, enhancing the subject’s emotional isolation. The lighting is soft and diffused, creating gentle highlights on the skin and subtle shadows that add depth and realism. The composition is intimate and slightly off-center, with the mirror fragment dominating the foreground and drawing the viewer’s attention to the subject’s intense gaze. The overall style is modern and evocative, with a shallow depth of field and a contemplative, almost melancholic mood, reminiscent of an art-house film still or a high-fashion editorial photograph.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:50.884159",
+  "word_count": 153,
+  "error_message": null
+}

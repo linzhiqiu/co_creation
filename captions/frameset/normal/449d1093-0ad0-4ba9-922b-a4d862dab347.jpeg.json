@@ -1,0 +1,12 @@
+{
+  "image_filename": "449d1093-0ad0-4ba9-922b-a4d862dab347.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A rugged, battle-worn Viking warrior stands in the foreground, gripping the hilt of a broad, ornate sword held upright before his face. His wild, unkempt hair and thick beard are matted with blood and dirt, emphasizing the brutality of recent combat. His expression is intense and resolute, eyes fixed forward with a mix of exhaustion and grim determination. He wears rough, dark leather armor adorned with metal studs, further marked by the chaos of battle.\n\nThe background is a misty, desaturated seashore, where the silhouettes of Viking longships and distant figures in motion evoke the aftermath of a fierce raid. The color palette is dominated by muted earth tones—grays, browns, and the dull gleam of steel—contrasted by the vivid red of blood on the warrior’s face and hands. The lighting is diffuse and natural, with a hazy, almost dreamlike quality that softens the horizon and blurs the distant action, drawing focus to the central figure.\n\nThe composition is cinematic, with a shallow depth of field that keeps the warrior sharply in focus while the background fades into atmospheric blur. The camera angle is slightly low and close, enhancing the imposing presence of the subject and the dramatic weight of the moment. The overall style is gritty and epic, reminiscent of classic historical adventure films, capturing both the violence and the mythic grandeur of the Viking age.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:48.244216",
+  "word_count": 226,
+  "error_message": null
+}

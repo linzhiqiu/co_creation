@@ -1,0 +1,12 @@
+{
+  "image_filename": "623c9612-d0ff-4a46-a306-6453560983c2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a traditional Chinese chess (Xiangqi) game in progress, viewed from above. The focus is on a weathered, elderly hand mid-move, gently grasping a game piece, suggesting thoughtful contemplation and experience. The chessboard is made of warm, aged wood, its surface marked with a subtle grid and faint lines, evoking a sense of history and use. The round game pieces are arranged in a partially played state, with red and black Chinese characters clearly visible on their ivory-toned surfaces. The lighting is soft and natural, casting gentle shadows that emphasize the textures of the hand, board, and pieces, creating a warm, nostalgic atmosphere. The composition is intimate and detailed, with a shallow depth of field that draws attention to the hand and the central area of the board, while the background remains softly blurred. The overall style is reminiscent of a quiet, contemplative moment in a classic East Asian film, capturing the quiet intensity and tradition of the game.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:12.608723",
+  "word_count": 163,
+  "error_message": null
+}

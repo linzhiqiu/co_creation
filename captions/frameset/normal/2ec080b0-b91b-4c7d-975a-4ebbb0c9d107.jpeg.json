@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ec080b0-b91b-4c7d-975a-4ebbb0c9d107.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene viewed from inside a car, looking out through the windshield at another vehicle driving ahead on a dark, rural road. The foreground is softly blurred, showing the dashboard and steering wheel with scattered red and orange indicator lights glowing faintly, suggesting the presence of a driver. The focus is on the car ahead, its taillights glowing red and its headlights casting a narrow beam onto the winding road, which is flanked by dense, shadowy trees. The background is enveloped in deep darkness, with only the faintest outline of the forest visible against the night sky. The overall color palette is moody and subdued, dominated by inky blues, blacks, and muted reds, creating a tense, suspenseful atmosphere. The lighting is minimal and naturalistic, with the only illumination coming from the cars’ lights, enhancing the sense of isolation. The composition uses a shallow depth of field and a slightly low, over-the-shoulder camera angle, evoking the feeling of following or pursuing, reminiscent of a thriller or noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:53.591637",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ffc3d15-b88b-4388-9c11-1bed95f30873.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man stands centered against a seamless, bright white background, creating a clean and minimalist studio atmosphere. He is casually dressed in a fitted black t-shirt with a small yellow logo on the left chest, and a black baseball cap with a white front panel and a logo. The man has a short beard and mustache, and his expression is neutral yet approachable, as if he is mid-conversation or explaining something. His hands are gesturing naturally, one slightly raised and the other at waist level, suggesting movement and engagement. The lighting is soft and even, eliminating harsh shadows and giving the scene a high-key, contemporary look. The color palette is restrained, dominated by monochrome tones with subtle accents from the logos. The composition is straightforward, with the subject in sharp focus and the background completely unobtrusive, emphasizing clarity and directness. The overall style is reminiscent of modern commercial or instructional video stills, with a slight cinematic touch due to the shallow depth of field and the subject’s relaxed, candid posture.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:56.921232",
+  "word_count": 170,
+  "error_message": null
+}

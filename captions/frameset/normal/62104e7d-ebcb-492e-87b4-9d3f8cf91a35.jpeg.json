@@ -1,0 +1,12 @@
+{
+  "image_filename": "62104e7d-ebcb-492e-87b4-9d3f8cf91a35.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary car drives down a deserted city street at night, its taillights glowing red and its headlights casting a stark, focused beam ahead. The scene is framed from behind the vehicle, placing the viewer in the middle of the empty road, with tall, shadowy skyscrapers looming on either side. The cityscape is mostly shrouded in darkness, with only a few scattered windows faintly illuminated, emphasizing the late hour and the sense of isolation. The color palette is dominated by deep blacks and cool blues, punctuated by the car’s lights and a few subtle highlights from distant street lamps and signage. The lighting is minimal and cinematic, with high contrast between the illuminated car and the enveloping darkness, creating a moody, almost noir atmosphere. The composition uses a wide aspect ratio and a deep depth of field, allowing the urban environment to recede into the shadows while keeping the car sharply in focus. The overall style is reminiscent of a suspenseful thriller or a contemplative urban drama, evoking feelings of solitude, anticipation, and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:05.410274",
+  "word_count": 175,
+  "error_message": null
+}

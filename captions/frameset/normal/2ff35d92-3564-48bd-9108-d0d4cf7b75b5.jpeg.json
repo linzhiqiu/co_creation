@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ff35d92-3564-48bd-9108-d0d4cf7b75b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up cinematic shot of a futuristic humanoid robot, rendered in a gritty, realistic sci-fi style. The robot is constructed from dark, weathered metal with visible bolts, panels, and illuminated blue LED accents on its face and body. Its head is boxy and angular, with a rectangular visor displaying pixelated white symbols, giving it a sense of digital expression. The robot’s posture is slightly hunched, suggesting focus or contemplation as it interacts with an unseen object in the foreground. The background is dimly lit, with hints of industrial machinery and soft yellow ambient light casting dramatic shadows, enhancing the moody, atmospheric tone. The color palette is dominated by cool blues and metallic grays, contrasted with subtle warm highlights. The composition uses shallow depth of field to keep the robot sharply in focus while the background remains blurred, creating a sense of isolation and introspection. The overall style evokes a blend of cyberpunk and dystopian aesthetics, with a strong emphasis on texture, lighting, and the emotional presence of the robotic subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:17.346707",
+  "word_count": 170,
+  "error_message": null
+}

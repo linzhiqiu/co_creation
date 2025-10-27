@@ -1,0 +1,12 @@
+{
+  "image_filename": "244fdd7a-cd5e-4a2a-8265-e542216d56c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric library scene set in a grand, old-fashioned study. The composition centers on a large wooden table illuminated by the warm, flickering glow of two tall candles, casting dramatic shadows across the room. Seated at the table is a pale, bald man dressed in austere, dark clothing, his expression intense and haunting as he leans forward, partially shrouded in shadow. Opposite him sits a younger man with light hair, dressed in a dark suit with a white shirt, his posture tense and contemplative as he gazes toward the older figure. The background is filled with towering bookshelves packed with ancient tomes, their spines barely visible in the gloom. To the left, a large, taxidermied bird with outstretched wings and a wolf’s head add an eerie, gothic touch to the scene. The overall color palette is dominated by deep browns, blacks, and muted golds, with the candlelight providing the only source of warmth. The style is cinematic and moody, evoking classic gothic horror, with a low-key lighting scheme, high contrast, and a sense of foreboding. The camera angle is slightly wide, capturing the full table and both figures, with a shallow depth of field that keeps the focus on the central interaction while the background recedes into darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:14.914870",
+  "word_count": 210,
+  "error_message": null
+}

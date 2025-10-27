@@ -1,0 +1,12 @@
+{
+  "image_filename": "5408cd8d-e6eb-47d3-9403-2a19fa1bcc7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, dreamlike scene depicting a distorted green highway sign reading \"Cape Fear Next Exit,\" as if viewed through rippling water or a warped lens. The sign is the central focus, its white text and border blurred and wavering, evoking a sense of unease and disorientation. The background is a moody, desaturated landscape with indistinct, shadowy forms suggesting distant hills or trees, all rendered in deep blues and muted earth tones. The lighting is dim and atmospheric, with a cool, nocturnal palette that enhances the mysterious, ominous mood. The composition is off-center, with the sign slightly to the right, and the overall style is painterly and cinematic, reminiscent of psychological thrillers. The image conveys tension and foreboding, with a shallow depth of field that keeps the background soft and abstract, focusing attention on the unsettling, liquid-like distortion of the sign in the foreground.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:23.976857",
+  "word_count": 143,
+  "error_message": null
+}

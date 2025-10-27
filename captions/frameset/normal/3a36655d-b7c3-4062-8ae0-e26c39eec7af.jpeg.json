@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a36655d-b7c3-4062-8ae0-e26c39eec7af.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of the front grille of a white Nissan vehicle, with the camera focused directly on the chrome Nissan emblem centered within a bold V-shaped metallic accent. The grille features a black honeycomb mesh pattern, providing a subtle contrast to the smooth, glossy white paint of the car’s exterior. Soft natural daylight illuminates the scene, creating gentle reflections and highlights on the chrome surfaces, while faint blue sky and cloud reflections are visible on the car’s hood and emblem, adding a touch of realism and depth. The composition is symmetrical and tightly framed, emphasizing the brand logo and the clean, modern lines of the vehicle’s design. The overall mood is crisp and contemporary, with a slight cinematic softness to the image, suggesting a shallow depth of field and a focus on the sleek, polished aesthetic of the car.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:08.766663",
+  "word_count": 140,
+  "error_message": null
+}

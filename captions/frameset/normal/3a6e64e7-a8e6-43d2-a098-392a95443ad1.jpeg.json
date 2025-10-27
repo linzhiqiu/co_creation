@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a6e64e7-a8e6-43d2-a098-392a95443ad1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands resting on a dark, textured tabletop, framing a modern foldable smartphone placed at the center. The phone is open in a clamshell position, displaying a translation app with text in both Thai and English; the English reads, “It’s too spicy for you.” The hands are adorned with distinctive silver rings, adding a touch of personality and subtle elegance. The lighting is moody and atmospheric, casting soft shadows and highlighting the metallic sheen of the rings and the phone’s edges. The color palette is rich and subdued, dominated by deep browns of the table, the cool blue-gray of the phone, and the natural skin tones of the hands. The camera angle is directly overhead, creating a sense of intimacy and focus on the interaction with the device. The overall style is modern and slightly cinematic, with a shallow depth of field that keeps the background softly blurred, drawing all attention to the hands, the phone, and the translated message.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:16.422632",
+  "word_count": 166,
+  "error_message": null
+}

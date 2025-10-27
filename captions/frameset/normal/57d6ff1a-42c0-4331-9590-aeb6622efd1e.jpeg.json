@@ -1,0 +1,12 @@
+{
+  "image_filename": "57d6ff1a-42c0-4331-9590-aeb6622efd1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a close-up, first-person perspective shot from inside a refrigerator, looking outward toward a hand reaching in. The hand, belonging to a person wearing a cream-colored shirt with red horizontal stripes, is about to grasp one of three bottles arranged neatly on a glass shelf. The bottles are of different colors: one is filled with a deep red sauce and has a rustic paper cover tied with string, while the other two are modern glass bottles containing creamy orange and beige sauces with black specks, each sealed with a black cap. The refrigerator interior is clean and brightly lit with cool, diffused white light, creating a crisp, almost clinical atmosphere. The composition emphasizes the sense of anticipation and choice, with the hand in mid-motion and the bottles sharply in focus, while the background recedes softly. The overall style is cinematic and realistic, with a shallow depth of field and a slight vignette effect, evoking a moment of everyday life captured with clarity and intention.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:00.435000",
+  "word_count": 165,
+  "error_message": null
+}

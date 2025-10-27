@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e3e9a75-f6fe-4264-bfb3-b9689dafbd6c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene featuring two young hobbits standing side by side in a tense, moonlit forest setting. Both have curly, tousled light brown hair and wear earth-toned medieval cloaks fastened with ornate brooches, their faces illuminated by a cold, bluish light that heightens the sense of suspense and danger. Their expressions are wide-eyed and anxious, conveying a mix of fear and determination as they gaze intently at something off-screen. The background is shadowy and indistinct, with hints of dark, looming figures and twisted tree branches, enhancing the atmosphere of peril and uncertainty. The composition is tight, focusing closely on the hobbits’ faces and upper bodies, with a shallow depth of field that blurs the ominous surroundings. The overall color palette is dominated by cool blues and muted greens, evoking a somber, nocturnal mood reminiscent of epic fantasy films. The lighting is soft but dramatic, casting subtle highlights and deep shadows that emphasize the emotional intensity of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:36.276715",
+  "word_count": 159,
+  "error_message": null
+}

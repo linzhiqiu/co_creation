@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a8172d2-8685-40f2-941d-d2ebbcc0504a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set in a minimalist, modern television studio. Two men sit in contrasting armchairs—one black, one white—facing each other in conversation. The man on the left is young, with short blond hair, wearing a dark, casual suit with a subtle, understated style. He sits attentively, his posture slightly reserved. The man on the right is older, with long, curly dark hair and a beard, dressed in a light-colored suit, exuding a more relaxed and confident demeanor as he gestures while speaking. Behind them, a large screen dominates the background, displaying a repeated grid of the younger man’s portrait, each image showing him in profile, seated in the same black chair, creating a sense of recursion and layered reality. The color palette is muted and sophisticated, with soft lighting that casts gentle shadows, emphasizing the contours of the subjects and their chairs. The overall composition is balanced and symmetrical, with a shallow depth of field that keeps the focus on the two men while the background images remain slightly softened. The mood is introspective and intellectual, evoking the atmosphere of an in-depth interview or philosophical discussion, with a subtle surreal quality introduced by the repeated images on the screen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:25.885875",
+  "word_count": 200,
+  "error_message": null
+}

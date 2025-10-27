@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a70a25e-4538-4afe-86a8-4642bad434ec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of a young man standing indoors, gazing upward into a shaft of ethereal, diffused light streaming from the upper right corner. He wears dark, stylish glasses and a deep blue blazer over a high-necked, patterned shirt, accessorized with a chunky pearl necklace. His expression is contemplative, almost awestruck, as the soft, cool-toned light highlights the contours of his face and glasses, casting gentle shadows. The background is softly blurred, with industrial elements like exposed pipes and muted walls, creating a moody, atmospheric setting. The color palette is dominated by cool blues and grays, with subtle warm highlights from the light. The composition uses shallow depth of field, focusing sharply on the subject while the background melts into soft bokeh, enhancing the introspective, cinematic mood. The overall style evokes a sense of quiet wonder and modern sophistication, reminiscent of an art-house film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:02.871558",
+  "word_count": 145,
+  "error_message": null
+}

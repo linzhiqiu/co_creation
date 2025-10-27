@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d38dc8a-e021-4813-98a4-505f1d3ac0f9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an intimate, cinematic close-up portrait of a young person with soft, tousled blonde hair, focusing tightly on the left side of their face. The subject’s eye is sharply in focus, capturing a sense of depth and emotion, while the rest of their features gently blur into the background. The lighting is warm and diffused, casting a golden glow that enhances the softness of their skin and hair. In the background, a second, similarly styled figure is visible but heavily out of focus, adding a sense of mystery and depth to the composition. The color palette is dominated by warm golds, soft browns, and subtle peach tones, creating a dreamy, ethereal atmosphere. The overall style is reminiscent of high-end fashion photography or a contemplative film still, with a shallow depth of field and a strong emphasis on mood and texture. The camera angle is slightly off-center, heightening the sense of intimacy and drawing the viewer’s attention directly to the subject’s expressive eye.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:35.736874",
+  "word_count": 162,
+  "error_message": null
+}

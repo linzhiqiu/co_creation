@@ -1,0 +1,12 @@
+{
+  "image_filename": "58b3aa38-8a39-44c6-97f1-35ab4bd097e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a haunting, cinematic close-up portrait of a humanoid figure with unsettling, almost featureless facial characteristics. The subject’s skin is pale and smooth, with a waxy, almost artificial texture, and the eyes are deep, shadowy voids, lacking visible irises or sclera, evoking an eerie, inhuman presence. The lighting is low and moody, casting soft blue and gray tones across the face, with subtle highlights accentuating the contours of the cheekbones and brow. The background is softly blurred, rendered in cool, desaturated hues, enhancing the sense of isolation and unease. The camera angle is intimate and slightly off-center, focusing on the upper half of the face, with a shallow depth of field that draws attention to the subject’s haunting gaze. The overall style is reminiscent of psychological horror or science fiction, with a minimalist, atmospheric approach that emphasizes the uncanny and otherworldly qualities of the figure.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:19.439911",
+  "word_count": 145,
+  "error_message": null
+}

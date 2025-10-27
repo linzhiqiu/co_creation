@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d2904c9-fa37-47df-ad4f-d977ae0971df.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a dimly lit, industrial interior with a moody, blue-green color palette. The main subject is a young man with short dark hair and round glasses, wearing a buttoned-up, muted green shirt. He stands in the foreground, looking directly at the camera with a serious, slightly concerned expression. The background features metallic pipes and panels, with a large, softly glowing screen or window casting a cool, diffused light that adds to the atmospheric tension. The composition uses a shallow depth of field, keeping the subject in sharp focus while the background is softly blurred, emphasizing the sense of isolation and introspection. The overall style is reminiscent of late 1990s science fiction or psychological thrillers, with a subtle, almost clinical lighting that enhances the sense of unease and contemplation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:03.384434",
+  "word_count": 134,
+  "error_message": null
+}

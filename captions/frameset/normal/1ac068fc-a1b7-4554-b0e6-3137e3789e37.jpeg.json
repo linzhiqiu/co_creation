@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ac068fc-a1b7-4554-b0e6-3137e3789e37.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field photograph focusing on a netted bundle of modern soccer balls, each adorned with dynamic, colorful patterns in shades of blue, green, orange, and purple, and marked with the \"Euro\" logo. The net is made of red and white cords, tightly securing the balls together. The background is softly blurred, revealing hints of a green sports field and golden autumn trees, their warm hues contrasting with the cool tones of the soccer balls. The lighting is natural and warm, suggesting late afternoon sunlight, which casts gentle highlights and soft shadows, enhancing the texture of the balls and the net. The composition is tight and intimate, with the camera positioned at a low angle, emphasizing the spherical forms and the intricate details of the netting, while the out-of-focus backdrop evokes a sense of place and season without distracting from the main subject. The overall mood is energetic yet calm, capturing a moment of anticipation before a game or practice session.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:43.380897",
+  "word_count": 162,
+  "error_message": null
+}

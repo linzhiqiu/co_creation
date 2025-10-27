@@ -1,0 +1,12 @@
+{
+  "image_filename": "166c76ab-250a-40ee-bbde-9ebf0222b052.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a mechanical engine component, possibly a cylinder head or valve assembly, rendered in a moody, industrial style. The focus is on several metallic cylindrical parts protruding from a glossy, intricately machined surface, with fine knurled textures visible on the metal. The lighting is low-key and dramatic, casting deep shadows and highlighting the cool, bluish tones of the metal, creating a sense of precision and engineering sophistication. The background is dark and out of focus, emphasizing the sharpness and detail of the foreground elements. The composition uses a shallow depth of field, drawing the viewer’s eye to the central mechanical forms while allowing the rest of the machinery to fade into a soft blur. The overall mood is technical, sleek, and slightly mysterious, evoking the atmosphere of a high-end automotive or industrial workshop.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:07.190961",
+  "word_count": 137,
+  "error_message": null
+}

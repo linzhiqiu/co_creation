@@ -1,0 +1,12 @@
+{
+  "image_filename": "12ac06f7-4d83-4a72-ad4c-6052e194c232.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a luxury car’s interior control panel, focusing on a single, prominent rotary dial with a metallic finish. The dial is illuminated by soft, moody blue lighting, casting gentle highlights and deep shadows that emphasize the sleek, modern design. The dial features a subtle, glowing icon in pinkish-purple, suggesting advanced technology or a special driving mode. Below the dial, a brushed metal nameplate reads “pioneer series” with a serial number, adding a sense of exclusivity and craftsmanship. The background is out of focus, enveloped in darkness, drawing all attention to the tactile surfaces and refined details of the control panel. The overall style is sophisticated and futuristic, with a shallow depth of field and a cool, atmospheric color palette that evokes a sense of innovation and high-end automotive luxury.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:41.748010",
+  "word_count": 133,
+  "error_message": null
+}

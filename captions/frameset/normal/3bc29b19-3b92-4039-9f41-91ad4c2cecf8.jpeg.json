@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bc29b19-3b92-4039-9f41-91ad4c2cecf8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a car’s dashboard display showing the live feed from a rearview backup camera. The main focus is the screen, which vividly displays the rear view: a sunlit, grassy field with a clear blue sky, and a prominent orange car parked directly behind, its front grille and headlights facing the camera. Another car, silver or light-colored, is visible in the background to the left, slightly out of focus, adding depth to the scene. The camera’s overlay graphics are visible, including red, yellow, and green guide lines, a highlighted green safety zone, and warning text at the bottom reading “Check Surroundings Before Backing Up.” The dashboard’s physical buttons and controls frame the screen, with subtle reflections and a hint of the car’s interior visible at the edges. The color palette is natural and vibrant, with the orange car contrasting against the green grass and blue sky. Lighting is bright and natural, suggesting midday sun, with crisp details and a slight glare on the display. The overall style is realistic and modern, with a shallow depth of field that keeps the focus on the backup camera’s display, evoking a sense of attentiveness and caution.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:49.672759",
+  "word_count": 196,
+  "error_message": null
+}

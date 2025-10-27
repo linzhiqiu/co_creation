@@ -1,0 +1,12 @@
+{
+  "image_filename": "38c2b33a-c4ef-417e-a5be-5a2dca673a7a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a wide-angle cinematic shot of a vast, empty industrial interior, evoking a sense of isolation and sterility. The space is defined by a polished, glossy yellow floor that reflects the overhead fluorescent lights, creating a cold, clinical atmosphere. The ceiling is lined with long, rectangular light fixtures and exposed ventilation ducts, emphasizing the utilitarian architecture. In the center of the frame, a single table with scattered office equipment—such as a computer monitor, fan, and paperwork—sits alone, flanked by a coat rack and a chair, underscoring the emptiness of the room. The background features plain white walls, a dark door, and minimal industrial details, with muted colors and a subdued palette dominated by yellows, whites, and grays. The composition is symmetrical and balanced, with strong leading lines drawing the viewer’s eye toward the center. The lighting is even and slightly harsh, contributing to the stark, almost surreal mood. The overall style is reminiscent of minimalist, contemplative cinema, with a focus on negative space and a sense of quiet unease.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:38.666583",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b348b75-7a11-4128-b06c-247bd4fc1810.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"An overhead, high-angle shot captures two business professionals standing on a wide, empty concrete sidewalk in an urban setting. The man and woman are both dressed in dark, formal suits; the man wears a light blue shirt, while the woman’s attire is complemented by a white blouse and she carries a black briefcase. Both figures stand close together, their body language suggesting a serious conversation or moment of concern, as they look down at a brown leather duffel bag that sits unattended on the ground in front of them. The scene is bathed in muted, overcast daylight, lending a subdued, almost cinematic tone to the image. The concrete is slightly weathered, with subtle color variations and cracks, and the background includes the edge of a street and a large, square planter, adding to the urban atmosphere. The composition emphasizes isolation and tension, with a shallow depth of field that keeps the focus on the two figures and the mysterious bag, while the rest of the environment fades softly into the periphery. The overall mood is contemplative and suspenseful, evoking a sense of narrative intrigue.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:19.703020",
+  "word_count": 185,
+  "error_message": null
+}

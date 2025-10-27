@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bd9f2d0-ce11-4ebe-a1a8-aae04fdfb35b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with curly hair, dressed in a bold black-and-white vertically striped jacket, is intently taking a photograph with a vintage-style camera. He is positioned in profile, leaning slightly forward with one eye closed, fully focused through the camera’s viewfinder. The setting is a backstage dressing room, suggested by the illuminated mirror in the background and a cluttered tabletop in the foreground, scattered with makeup brushes, compacts, and other beauty products. The lighting is warm and soft, casting gentle highlights on the subject’s face and hair, while the background remains slightly out of focus, creating a shallow depth of field that draws attention to the photographer. The overall color palette is muted and natural, with the monochrome stripes of the jacket providing a striking contrast against the more subdued tones of the environment. The composition feels candid and cinematic, as if capturing a behind-the-scenes moment in the creative process, with a sense of anticipation and concentration in the subject’s expression.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:24.475800",
+  "word_count": 161,
+  "error_message": null
+}

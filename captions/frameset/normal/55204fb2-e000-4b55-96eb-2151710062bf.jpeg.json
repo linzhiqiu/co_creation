@@ -1,0 +1,12 @@
+{
+  "image_filename": "55204fb2-e000-4b55-96eb-2151710062bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt for generating this image:\n\n\"Create a cinematic scene set on a rugged coastal cliff overlooking a deep blue ocean under a clear, bright sky. In the foreground, three adult men stand in a tight, emotional group hug. They wear casual, slightly mismatched clothing: one in a tan fishing vest and shorts, another in a plaid shirt and shorts, and the third in a similar vest and khaki pants. Their postures and expressions convey a sense of camaraderie and bittersweet farewell. The ground is a cracked, sun-bleached path with sparse, dry grass and a weathered concrete slab, while a rusty metal can sits off to the side. The background features dramatic, sunlit cliffs with layers of ochre and tan rock, and the ocean waves crash gently against the shore below. The color palette is natural and sun-drenched, with warm earth tones contrasting against the cool blues and greens of the sea and sky. The composition uses a wide-angle lens for a sense of openness and depth, with the group slightly off-center, emphasizing the vastness of the landscape and the intimacy of the moment. The overall mood is poignant and reflective, with a touch of humor and warmth.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:53.587279",
+  "word_count": 200,
+  "error_message": null
+}

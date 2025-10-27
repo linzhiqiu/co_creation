@@ -1,0 +1,12 @@
+{
+  "image_filename": "41379de6-951a-4219-8252-febcae8bcaef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set in a dimly lit, industrial interior. The main subject is a large, black, futuristic robot or security droid, positioned centrally in the frame and facing the camera. The robot has a sleek, armored exterior with minimal detailing, evoking a sense of mystery and authority. The background is out of focus, featuring tall, rectangular windows or panels that let in diffused, bluish-white light, casting a cold, atmospheric glow across the space. The floor is scattered with small debris, adding to the sense of abandonment or recent activity. The overall color palette is dominated by cool tones—blues, greys, and blacks—enhanced by soft, directional lighting that creates deep shadows and highlights the contours of the robot. The composition uses a shallow depth of field, keeping the robot sharply in focus while the background remains blurred, emphasizing isolation and tension. The style is reminiscent of a high-budget science fiction film, with a sense of foreboding and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:33.137219",
+  "word_count": 159,
+  "error_message": null
+}

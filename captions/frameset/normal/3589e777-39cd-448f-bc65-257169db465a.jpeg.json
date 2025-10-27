@@ -1,0 +1,12 @@
+{
+  "image_filename": "3589e777-39cd-448f-bc65-257169db465a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A narrow, deserted urban alleyway stretches between tall, weathered brick buildings, their facades partially shrouded in deep shadow. The scene is bathed in a moody, cinematic atmosphere, with a dramatic shaft of cool, bluish daylight streaming down from above, piercing the gloom and illuminating the wet, reflective pavement below. At the center of the composition, a lone, battered shopping cart overflows with colorful artificial flowers, their vivid reds and pinks providing a striking contrast against the muted, desaturated tones of the alley. The cart is caught in a focused pool of warm, golden light, drawing the viewer’s eye and imbuing the scene with a sense of melancholy and quiet dignity. The background recedes into darkness, with only faint details of windows and doorways visible, enhancing the sense of isolation. The overall style is painterly and cinematic, with a shallow depth of field that blurs the periphery and emphasizes the central subject. The mood is contemplative and somber, evoking themes of urban solitude and unexpected beauty amidst decay.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:28.105662",
+  "word_count": 167,
+  "error_message": null
+}

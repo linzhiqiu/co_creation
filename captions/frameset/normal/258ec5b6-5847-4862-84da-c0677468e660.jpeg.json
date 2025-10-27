@@ -1,0 +1,12 @@
+{
+  "image_filename": "258ec5b6-5847-4862-84da-c0677468e660.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic close-up of two masked superheroes standing side by side in a dimly lit environment. The foreground features a man in a sleek, black armored cowl and cape, his face partially illuminated by a cool, bluish light that accentuates the sharp lines of his mask and the determined, contemplative expression on his face. Next to him, slightly out of focus in the background, is a younger man wearing a dark red and black suit with a stylized black mask covering his eyes, his features softer and more diffused by the shallow depth of field. The background is abstract and shadowy, with hints of green and blue hues blending into darkness, creating a mysterious and tense atmosphere. The overall color palette is dominated by deep blues, blacks, and muted reds, with subtle highlights that give the scene a dramatic, almost noir quality. The composition is intimate and focused, capturing a moment of quiet intensity and partnership between the two heroes, with the lighting and camera angle emphasizing their iconic costumes and the gravity of their expressions.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:39.791600",
+  "word_count": 177,
+  "error_message": null
+}

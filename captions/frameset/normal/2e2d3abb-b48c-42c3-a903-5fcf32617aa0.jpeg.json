@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e2d3abb-b48c-42c3-a903-5fcf32617aa0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, narrow corridor stretches into darkness, its industrial walls and ceiling pipes barely visible in the shadows. At the far end of the hallway, a solitary figure stands illuminated by a stark, overhead light, casting a long, dramatic reflection on the glossy floor. The person appears to be wearing light-colored clothing that contrasts sharply with the surrounding darkness, their posture tense and ambiguous, evoking a sense of suspense or unease. The composition uses a low, wide-angle perspective, emphasizing the depth and emptiness of the space, while the high-contrast black and white palette heightens the moody, cinematic atmosphere. The lighting is harsh and directional, creating deep shadows and a sense of isolation, reminiscent of classic film noir or psychological thriller aesthetics. The overall mood is mysterious and foreboding, with the viewer’s eye drawn inexorably toward the lone figure at the end of the corridor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:39.232400",
+  "word_count": 145,
+  "error_message": null
+}

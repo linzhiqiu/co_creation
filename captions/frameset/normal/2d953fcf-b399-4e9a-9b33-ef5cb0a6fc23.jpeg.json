@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d953fcf-b399-4e9a-9b33-ef5cb0a6fc23.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A rugged, middle-aged man with a closely-cropped blond haircut stands in the narrow corridor of a futuristic, utilitarian apartment. He wears a bright orange, sleeveless ribbed shirt that contrasts sharply with the muted beige and yellow tones of the environment. The man’s expression is tense and focused, his brow furrowed as he points a large, high-tech handgun directly at the viewer, creating a sense of immediacy and confrontation. The perspective is slightly low and close, emphasizing the weapon in the foreground and the man’s determined face behind it, with a shallow depth of field that blurs the background.\n\nThe corridor is lined with built-in shelves and mechanical details, evoking a cramped, industrial sci-fi setting. On the left wall, bold black letters spell out “KEEP CL” against a yellow circle, hinting at utilitarian signage. The lighting is soft but clinical, casting even illumination without harsh shadows, enhancing the sense of realism and tension. The overall color palette is dominated by warm beiges, yellows, and the striking orange of the man’s shirt, with metallic and plastic textures adding to the futuristic atmosphere. The composition and mood evoke a cinematic, high-stakes moment, reminiscent of classic science fiction films, with a focus on suspense and character intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:31.887732",
+  "word_count": 203,
+  "error_message": null
+}

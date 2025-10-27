@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b8107b2-5840-4a5d-a48c-d6decfa60a1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA breathtaking landscape scene featuring a lush, forested mountain ridge in the foreground, covered with tall, slender evergreen trees. The midground reveals another densely wooded slope, its silhouette partially shrouded in a thick, ethereal layer of low-lying clouds or mist that blankets the valley below. The mist creates a dreamy, almost surreal atmosphere, with the tops of the trees emerging like islands above a sea of white. The color palette is dominated by deep greens of the pine trees, contrasted with the soft whites and cool blues of the fog and sky. The lighting is natural and diffuse, suggesting early morning or late afternoon, with gentle sunlight illuminating the tops of the trees and casting subtle shadows. The composition is cinematic, with a wide-angle perspective that emphasizes the vastness and tranquility of the wilderness. The overall mood is serene and majestic, evoking a sense of awe and peaceful solitude in the heart of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:28.133552",
+  "word_count": 155,
+  "error_message": null
+}

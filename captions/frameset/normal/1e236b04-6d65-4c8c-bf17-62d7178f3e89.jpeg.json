@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e236b04-6d65-4c8c-bf17-62d7178f3e89.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up portrait of a nervous, bespectacled man in his early thirties, seated indoors under moody, low-key lighting. He wears large round glasses, a red and blue plaid shirt, and a light gray cardigan. His expression is tense and anxious, with wide eyes and slightly parted lips, as if startled or apprehensive. Two medical electrodes are attached to his temples, connected by thin white wires that trail out of frame, suggesting a scientific or experimental setting. The background is softly blurred in deep blue and teal tones, creating a sense of isolation and focus on the subject. The composition uses a shallow depth of field and a slightly off-center, cinematic angle, enhancing the psychological intensity and suspenseful atmosphere. The overall style is reminiscent of a psychological thriller or science fiction film, with a cool, desaturated color palette and dramatic, directional lighting that highlights the subject’s facial features and the sheen of sweat on his skin.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:58.330033",
+  "word_count": 155,
+  "error_message": null
+}

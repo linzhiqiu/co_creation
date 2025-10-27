@@ -1,0 +1,12 @@
+{
+  "image_filename": "45e2b460-cb3b-46c0-a7f5-d39dd559b864.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking black-and-white portrait of a young woman with short, dark hair and expressive eyes, gazing directly into the camera with a calm, enigmatic expression. She is framed in a tight close-up, her face centered and filling most of the composition, creating an intimate and introspective mood. The woman wears a dark sweater over a light collared shirt, her attire simple and understated, drawing attention to her facial features and subtle emotion. Behind her, slightly out of focus, is a chalkboard or timetable with handwritten text and numbers, suggesting a public or institutional setting such as a train station or classroom. The lighting is soft and even, with gentle shadows that enhance the contours of her face without harsh contrasts. The overall style is reminiscent of 1960s European cinema, with a minimalist, documentary-like realism and a shallow depth of field that isolates the subject from the background. The monochrome palette emphasizes the timeless, contemplative atmosphere, while the direct gaze and centered composition evoke a sense of vulnerability and quiet strength.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:13.229561",
+  "word_count": 170,
+  "error_message": null
+}

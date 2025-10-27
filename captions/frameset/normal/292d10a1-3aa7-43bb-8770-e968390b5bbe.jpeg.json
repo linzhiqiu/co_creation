@@ -1,0 +1,12 @@
+{
+  "image_filename": "292d10a1-3aa7-43bb-8770-e968390b5bbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA low-angle, close-up shot of a carpeted floor scattered with several crumpled pieces of white paper, each one uniquely wrinkled and tossed haphazardly. The background features a plain, off-white wall with a visible electrical outlet, adding a subtle touch of domestic realism. The lighting is soft and diffused, casting gentle shadows that emphasize the texture of both the carpet and the paper. The color palette is muted and neutral, dominated by shades of gray, beige, and white, creating a subdued, contemplative atmosphere. The composition draws the viewer’s eye across the foreground, focusing on the chaotic arrangement of the paper, while the shallow depth of field blurs the background, enhancing the sense of immediacy and intimacy. The overall style is minimalist and cinematic, evoking a quiet moment of frustration or creative struggle, as if capturing the aftermath of discarded ideas in a writer’s or artist’s workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:55.868903",
+  "word_count": 146,
+  "error_message": null
+}

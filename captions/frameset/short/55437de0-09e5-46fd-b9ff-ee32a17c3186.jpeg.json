@@ -1,0 +1,12 @@
+{
+  "image_filename": "55437de0-09e5-46fd-b9ff-ee32a17c3186.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic black-and-white image captures a basketball mid-air, silhouetted hands in the foreground releasing the ball. The camera angle is low, shooting upward against a cloudy sky, emphasizing motion and anticipation. High contrast lighting and deep shadows evoke a cinematic, timeless atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:52.599971",
+  "word_count": 42,
+  "error_message": null
+}

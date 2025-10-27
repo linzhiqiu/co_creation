@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e8c667d-c3a7-4fba-9493-76f4a8b41e1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic close-up of a human face partially obscured and encased in a thick, viscous, translucent substance that resembles melting wax or frozen liquid. The subject’s features are visible but distorted beneath the semi-opaque layer, with rivulets and droplets clinging to the skin, emphasizing a sense of entrapment or suspended animation. The color palette is dominated by cold, desaturated blues and grays, evoking a chilling, otherworldly atmosphere. The lighting is soft and diffused, casting subtle highlights and shadows across the contours of the face and the textured surface of the encasing material. The composition is intimate and tightly framed, focusing on the subject’s closed eyes and serene, almost lifeless expression, with a shallow depth of field that blurs the background into abstract shapes. The overall style is reminiscent of a science fiction or dystopian film, with a moody, contemplative tone and a strong emphasis on texture and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:49.618688",
+  "word_count": 150,
+  "error_message": null
+}

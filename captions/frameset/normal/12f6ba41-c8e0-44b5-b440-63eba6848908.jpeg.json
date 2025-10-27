@@ -1,0 +1,12 @@
+{
+  "image_filename": "12f6ba41-c8e0-44b5-b440-63eba6848908.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, large, circular metallic object dominates the center of the frame, positioned on a sturdy, angular stand. The object’s face is punctuated by an array of evenly spaced cylindrical tubes, arranged in a precise, almost mathematical pattern. The scene is bathed in cool, moody blue lighting, casting soft shadows and creating a sense of depth and mystery. The background is a dark, featureless wall, subtly illuminated to reveal faint vertical panel lines, enhancing the sense of isolation and focus on the central object. The floor beneath the object is a smooth, matte surface, also tinted blue, with gentle gradients of light suggesting a controlled, studio-like environment. The camera is positioned at eye level, directly facing the object, with a shallow depth of field that keeps the background slightly blurred, drawing all attention to the intricate details and industrial texture of the metallic centerpiece. The overall composition is minimalist and symmetrical, evoking a sense of scientific precision and enigmatic purpose, reminiscent of a high-concept art installation or a scene from a cerebral science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:48.670512",
+  "word_count": 175,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b09dc5b-20e1-4774-9a36-5afa884570b0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a hyper-realistic, cinematic depiction of a black hole as seen from a direct, centered perspective. The composition is dominated by a vast expanse of deep, inky blackness, with the black hole itself forming a perfect, luminous ring at the center of the frame. The event horizon is surrounded by a glowing, swirling accretion disk rendered in warm tones of amber, copper, and soft gold, with subtle gradients and wisps of light suggesting immense gravitational forces at play. The inner core is a void of absolute darkness, while the surrounding light bends and warps, creating a sense of depth and cosmic distortion. The lighting is dramatic and focused, with the glowing ring providing the only illumination, casting a soft, ethereal glow that fades into the surrounding darkness. The overall style is photorealistic with a touch of surrealism, evoking awe and mystery, reminiscent of high-budget science fiction cinematography. The camera angle is perfectly aligned with the center of the black hole, emphasizing symmetry and the overwhelming scale of the cosmic phenomenon.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:31.721503",
+  "word_count": 171,
+  "error_message": null
+}

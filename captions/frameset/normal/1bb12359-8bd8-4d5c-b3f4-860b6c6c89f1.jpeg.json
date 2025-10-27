@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bb12359-8bd8-4d5c-b3f4-860b6c6c89f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, futuristic electric SUV is captured in dynamic motion, gliding along a blurred road. The camera angle is low and close to the front quarter panel, emphasizing the vehicle’s bold, sculpted lines and aerodynamic contours. The car’s metallic champagne-gold body reflects soft, ambient daylight, while its distinctive LED headlights emit a sharp, cool white glow, accentuating the modern design. The iconic kidney grille is subtly illuminated with blue accents, hinting at the car’s electric nature. The large, spinning wheels are slightly motion-blurred, conveying speed and energy. The background is softly out of focus, with hints of greenery and road, ensuring the vehicle remains the focal point. The overall style is cinematic and polished, with a shallow depth of field and a cool, sophisticated color palette that enhances the sense of innovation and luxury.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:58.682344",
+  "word_count": 134,
+  "error_message": null
+}

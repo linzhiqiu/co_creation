@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b16f411-1384-469a-abd0-f0b873244ece.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, cinematic close-up of a futuristic laboratory scene. In the foreground, a sleek, white robotic arm with metallic joints and intricate mechanical components is being assembled or adjusted with a precision tool. The focus is sharp on the machinery, highlighting the fine textures of metal, plastic, and circuitry, while the background is softly blurred, creating a shallow depth of field. In the background, a young man with short, neatly styled hair and a calm, focused expression observes the process. He wears a modern, dark jacket over a light shirt, blending seamlessly with the high-tech environment. The laboratory is bathed in soft, diffused lighting, with a cool, neutral color palette dominated by whites, grays, and subtle hints of muted color from electronic components. The overall style is clean, minimalistic, and futuristic, evoking a sense of innovation and precision. The camera angle is slightly off-center, drawing attention to both the human and mechanical elements, and the composition balances technical detail with a sense of human curiosity and ingenuity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:19.017445",
+  "word_count": 168,
+  "error_message": null
+}

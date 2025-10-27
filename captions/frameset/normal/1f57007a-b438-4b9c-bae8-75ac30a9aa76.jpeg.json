@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f57007a-b438-4b9c-bae8-75ac30a9aa76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution, cinematic close-up of a computer monitor displaying a sophisticated motion capture interface. The screen shows a 3D wireframe grid with a stylized, golden skeletal figure in mid-dance pose, one leg raised and arms extended gracefully, evoking the elegance of ballet. The interface is detailed with various data panels, graphs, and live tracking indicators, including a prominent \"LIVE\" label in red. The branding of \"The Australian Ballet\" and \"La Trobe University\" is visible, along with technical labels and a digital timestamp at the bottom. The color palette is dominated by deep blacks and cool blues, contrasted by the warm gold of the skeletal figure and subtle neon accents in red, green, and cyan. The background is softly blurred, with warm, ambient lighting suggesting a modern, high-tech studio environment. The composition is precise and symmetrical, with the monitor centered in the frame, creating a focused, immersive atmosphere that highlights the intersection of art and technology. The overall style is sleek, modern, and slightly futuristic, with a shallow depth of field and a sense of quiet concentration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:27.854429",
+  "word_count": 176,
+  "error_message": null
+}

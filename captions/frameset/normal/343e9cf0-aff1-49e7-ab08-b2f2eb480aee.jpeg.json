@@ -1,0 +1,12 @@
+{
+  "image_filename": "343e9cf0-aff1-49e7-ab08-b2f2eb480aee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands at a wooden workbench in an open-air workshop, surrounded by lush green foliage visible through large windows and open beams. She wears a fitted denim work shirt with rolled-up sleeves and protective clear safety goggles, her dark hair pulled back in a practical ponytail. Focused and intent, she operates a hand-cranked mechanical device mounted to the table, which is spinning a white and red object—possibly a model or prototype—creating a sense of motion blur. The lighting is natural and diffused, with sunlight filtering through the trees outside, casting soft, dappled shadows across the scene. The color palette is earthy and organic, dominated by the warm browns of the wood, the deep blue of her clothing, and the vibrant greens of the background. The composition is intimate and slightly off-center, with a shallow depth of field that keeps the woman and her work in sharp focus while the background remains softly blurred. The overall style is cinematic and documentary-like, capturing a moment of concentration and craftsmanship in a serene, natural setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:52.795390",
+  "word_count": 174,
+  "error_message": null
+}

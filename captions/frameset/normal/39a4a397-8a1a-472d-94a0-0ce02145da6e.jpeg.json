@@ -1,0 +1,12 @@
+{
+  "image_filename": "39a4a397-8a1a-472d-94a0-0ce02145da6e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-century academic lecture room, rendered in vivid, naturalistic color. The scene is composed with a cinematic, slightly wide-angle lens, capturing two men as the central subjects. One man, seated and slouched in a modernist chair, wears a mustard-yellow cardigan over a white shirt and dark trousers, his posture suggesting discomfort or introspection. The other man stands to his right, dressed in a tailored brown suit with a white shirt and dark tie, exuding authority and attentiveness as he addresses the seated figure. \n\nBehind them, a large blackboard dominates the background, densely covered with intricate scientific diagrams, mathematical notations, and anatomical sketches, including a prominent circular chart and waveform graphs. To the right of the blackboard, a detailed anatomical poster of a human skeleton adds to the scholarly atmosphere. The room is softly lit with natural daylight streaming through tall windows draped with sheer curtains, casting gentle shadows and lending a calm, contemplative mood. \n\nIn the foreground, the heads of a few attentive students are visible, subtly out of focus, reinforcing the sense of an academic setting. The overall color palette is warm and muted, with earth tones and soft highlights. The composition balances intellectual rigor with emotional tension, evoking the style of a 1960s drama film, with careful attention to period-accurate details, set design, and character interaction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:05.491258",
+  "word_count": 218,
+  "error_message": null
+}

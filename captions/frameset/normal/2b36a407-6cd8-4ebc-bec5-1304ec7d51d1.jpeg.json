@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b36a407-6cd8-4ebc-bec5-1304ec7d51d1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a softly lit portrait of a young woman with long, light brown hair, parted slightly to the side and falling naturally over her shoulders. She is positioned against a plain, pale blue background that subtly gradients from light to shadow, giving a gentle, serene atmosphere. The woman wears a simple, earth-toned top, and her expression is calm and slightly smiling, conveying a sense of quiet confidence and warmth. The lighting is diffuse and natural, casting soft shadows that enhance the contours of her face without harshness. The composition is intimate, with the subject filling most of the frame and her gaze directed slightly off-camera, creating a candid, authentic mood. The color palette is muted and understated, dominated by cool blues and warm browns, with a slight filmic grain that adds a touch of nostalgia and realism. The overall style is reminiscent of a still from an independent film, with a shallow depth of field that keeps the focus on the subject while gently blurring the background.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:39.445662",
+  "word_count": 167,
+  "error_message": null
+}

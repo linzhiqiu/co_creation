@@ -1,0 +1,12 @@
+{
+  "image_filename": "51853d2d-621d-42b6-9468-2174c558bf50.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young child with short, tousled blonde hair, standing against a deep black background. The child is dressed in a striking, high-necked, long-sleeve orange shirt that contrasts vividly with the dark backdrop. The lighting is soft and directional, illuminating the child’s face from the front and slightly to the side, creating gentle shadows that add depth and dimension to their features. The child’s expression is neutral, with a hint of curiosity or contemplation, and their gaze is directed slightly off-camera, adding a sense of introspection to the scene. The composition is tight, focusing on the child’s head and upper torso, with a shallow depth of field that keeps the background completely out of focus, emphasizing the subject. The overall style is clean and modern, with a minimalist aesthetic and a color palette dominated by the warm orange of the shirt and the cool, dark tones of the background. The image evokes a sense of quiet intensity and emotional subtlety, reminiscent of a still from an art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:26.932581",
+  "word_count": 172,
+  "error_message": null
+}

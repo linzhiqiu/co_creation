@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b473d8c-bc17-46e7-978f-64019d50fa9c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping, cinematic wide shot of a medieval castle ruin perched on a grassy promontory overlooking a vast, tranquil lake. The ancient stone walls, partially crumbled and weathered by time, are surrounded by wooden scaffolding, suggesting ongoing restoration or construction. Several white canvas tents are pitched within the castle grounds, their conical shapes contrasting with the rugged stone and the organic curves of the landscape. In the foreground, a lone figure in a flowing, pale gown walks along a grassy path, their presence adding a sense of scale and narrative intrigue. The background features rolling hills and a misty, overcast sky, casting a cool, diffused light over the scene. The color palette is dominated by muted greens, grays, and soft blues, evoking a somber, historical atmosphere. The composition emphasizes depth, with the castle ruins leading the eye toward the distant water and hills, while the overall style is reminiscent of a period film, blending realism with a touch of romanticism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:00.469873",
+  "word_count": 160,
+  "error_message": null
+}

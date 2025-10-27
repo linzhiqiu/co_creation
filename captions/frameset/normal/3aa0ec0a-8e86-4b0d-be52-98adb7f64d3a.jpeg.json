@@ -1,0 +1,12 @@
+{
+  "image_filename": "3aa0ec0a-8e86-4b0d-be52-98adb7f64d3a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, cinematic close-up of a young Black man screaming with his mouth wide open, capturing intense emotion and raw energy. The subject’s face is partially illuminated by a cold, bluish light from the side, casting deep shadows and emphasizing the contours of his features, while the background fades into darkness, creating a sense of isolation and tension. The man’s eyes are squeezed shut, and his expression conveys anguish or terror. The camera angle is low and slightly tilted upward, heightening the sense of drama and urgency. The color palette is dominated by cool blues and muted tones, with high contrast between the lit areas and the deep shadows. The overall style is moody and atmospheric, reminiscent of psychological thrillers or horror films, with a shallow depth of field that keeps the focus tightly on the subject’s face and open mouth, blurring the indistinct background. The lighting and composition evoke a sense of vulnerability and emotional intensity, immersing the viewer in the subject’s experience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:19.215689",
+  "word_count": 165,
+  "error_message": null
+}

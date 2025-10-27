@@ -1,0 +1,12 @@
+{
+  "image_filename": "419b01d1-8274-4ba8-9f8b-86891afb5234.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, dystopian urban scene set on a foggy, overcast day. The composition is wide and slightly low-angled, capturing a group of seven small, futuristic surveillance drones hovering in the sky. The drones are evenly spaced, their mechanical forms stark and menacing against the pale, desaturated backdrop. In the midground, faint outlines of modern, utilitarian buildings rise through the mist, partially obscured by drifting fog. Bare winter trees and tall stadium floodlights frame the scene, their silhouettes adding to the cold, sterile atmosphere. The color palette is muted and monochromatic, dominated by cool grays and washed-out blues, enhancing the sense of unease and surveillance. The lighting is diffuse and natural, with no direct sunlight, creating soft shadows and a flat, oppressive mood. The overall style is reminiscent of a science fiction thriller, with a focus on isolation, control, and technological dominance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:42.125144",
+  "word_count": 143,
+  "error_message": null
+}

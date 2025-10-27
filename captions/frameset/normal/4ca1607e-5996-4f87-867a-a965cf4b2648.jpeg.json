@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ca1607e-5996-4f87-867a-a965cf4b2648.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly realistic, cinematic scene set inside a dimly lit animal research facility. The foreground is dominated by a large, intelligent-looking chimpanzee, positioned close to the camera and gazing directly into the lens with a serious, contemplative expression. The chimpanzee’s fur is dark and textured, with subtle highlights catching the low, moody lighting. In the background, slightly out of focus behind the metal bars of a cage, stands a human figure—an adult male dressed in casual, muted clothing, his face partially obscured by the shadows and the cage. The environment is industrial, with metallic cages, gridded fencing, and a subdued, earthy color palette of browns, grays, and greens. The composition uses a shallow depth of field to emphasize the emotional intensity of the chimpanzee’s face, while the human presence adds narrative tension. The overall style is dramatic and immersive, reminiscent of a modern science fiction or drama film, with a focus on realism, emotional depth, and a sense of confinement and empathy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:32.932594",
+  "word_count": 162,
+  "error_message": null
+}

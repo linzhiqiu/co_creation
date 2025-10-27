@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e1f45b7-ff0f-483d-9413-a7245e9de924.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dynamic, cinematic landscape scene captured from a low, almost water-level perspective, looking slightly upward along a rushing mountain stream. The foreground is dominated by wet, glistening rocks and the blurred motion of clear, fast-moving water, creating a sense of immediacy and immersion. The stream flows diagonally from the bottom right toward the center, leading the viewer’s eye into the midground, where the rocky banks rise steeply and are flanked by dense, sunlit pine forests. In the background, a line of dark green trees silhouettes against a softly glowing sky, with a single, fluffy cloud illuminated by the warm, golden light of late afternoon or early evening. The color palette is rich and natural, with deep greens, earthy browns, and the golden hues of sunlight. The lighting is warm and directional, casting long shadows and highlighting the textures of the rocks and water. The overall style is reminiscent of a high-resolution nature documentary or a dramatic adventure film, with a shallow depth of field that keeps the foreground crisp while the background gently blurs, enhancing the sense of depth and motion. The mood is vibrant, fresh, and invigorating, evoking the raw beauty and energy of an untouched mountain wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:58.572104",
+  "word_count": 200,
+  "error_message": null
+}

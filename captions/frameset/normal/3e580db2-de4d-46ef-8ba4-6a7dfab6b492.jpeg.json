@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e580db2-de4d-46ef-8ba4-6a7dfab6b492.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young person with delicate, androgynous features and dark, tousled hair, gazing intently through a glass surface covered in glowing, out-of-focus bokeh lights. The subject’s face is softly illuminated by the ethereal, multicolored reflections from the glass, casting a dreamy, almost surreal glow on their skin. The background is abstract and blurred, filled with shimmering orbs of light in shades of blue, yellow, and white, creating a magical, otherworldly atmosphere. The composition is intimate, with the subject’s profile dominating the right side of the frame, their expression contemplative and absorbed. Use a shallow depth of field to keep the focus on the subject’s eye and the luminous texture of the glass, while the rest of the scene melts into a soft, painterly blur. The overall mood is introspective and mysterious, with a color palette that blends cool and warm tones, evoking a sense of wonder and quiet solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:38.930511",
+  "word_count": 154,
+  "error_message": null
+}

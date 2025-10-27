@@ -1,0 +1,12 @@
+{
+  "image_filename": "41c2fb62-a76e-4e3a-b976-00bb5db4fa51.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit industrial laboratory, viewed from a high, cinematic angle with a shallow depth of field. In the foreground, a large, retro-futuristic device with a prominent analog gauge and dials dominates the left side of the frame, its details sharply in focus. The background recedes into a cool, teal-tinged haze, where a lone figure stands near a metal workbench cluttered with scientific equipment and coiled cables. The figure wears a white lab coat, heavy black gloves, a yellow apron, and a full-face protective helmet, suggesting hazardous experimentation. Scattered industrial elements—scaffolding, metal bins, and warning signs—add to the utilitarian atmosphere. The lighting is moody and directional, casting dramatic shadows and highlighting the metallic surfaces, evoking a tense, cinematic mood reminiscent of a science fiction thriller or a high-stakes laboratory scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:46.725575",
+  "word_count": 130,
+  "error_message": null
+}

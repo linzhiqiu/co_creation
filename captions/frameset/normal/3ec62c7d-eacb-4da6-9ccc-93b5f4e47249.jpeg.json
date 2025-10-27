@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ec62c7d-eacb-4da6-9ccc-93b5f4e47249.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a cinematic countryside scene featuring an elderly man engaged in clay pigeon shooting. The man is positioned in profile, aiming a double-barreled shotgun skyward with focused intent. He wears traditional British country attire: a brown tweed flat cap, a checkered button-down shirt in muted earth tones, and a brown tweed shooting vest. His expression is serious and concentrated, emphasizing the moment of action. The background is a lush, rolling landscape of green fields and distant hedgerows under a partly cloudy sky, with soft, natural daylight casting gentle shadows and highlighting the textures of the grass and the man's clothing. The composition uses a shallow depth of field to keep the man and his shotgun in sharp focus while the background is softly blurred, evoking a sense of calm and rural tranquility. The color palette is dominated by natural greens, browns, and soft blues, with warm, diffused lighting that enhances the pastoral atmosphere. The camera angle is slightly behind and to the side of the man, capturing both his determined posture and the expansive countryside beyond, reminiscent of a scene from a classic British period film.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:48.921607",
+  "word_count": 195,
+  "error_message": null
+}

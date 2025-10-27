@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c5588ed-9e36-48ce-8ed3-49935bac6bb6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A rugged, off-road utility vehicle is parked on a dusty, rocky trail in a barren, sun-bleached landscape. The vehicle, a side-by-side ATV with a roll cage and large, knobby tires, is viewed from a high, slightly diagonal angle, emphasizing its sturdy build and the rough terrain it traverses. The color palette is dominated by muted earth tones—sandy browns, grays, and faded blacks—reflecting the arid environment. The sunlight is harsh and direct, casting sharp shadows and highlighting the textures of the dirt, rocks, and the vehicle’s matte surfaces. The background is sparse, with no vegetation, structures, or other vehicles in sight, reinforcing the sense of isolation and adventure. The overall style is cinematic and realistic, with a shallow depth of field that keeps the focus on the vehicle and the immediate ground, while the distant background fades into a soft blur. The composition conveys a sense of exploration and resilience, as if capturing a moment of pause during an off-road journey through a remote wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:29.077517",
+  "word_count": 164,
+  "error_message": null
+}

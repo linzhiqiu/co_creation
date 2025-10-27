@@ -1,0 +1,12 @@
+{
+  "image_filename": "23f51873-208e-49c1-8597-ea0c87134c76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A serene outdoor picnic scene on lush green grass, featuring a woman in a lavender hijab and abaya gently helping a young girl in a light blue dress with drawing. Art supplies and snacks are spread on a red-checked blanket. Sunlit, with soft shadows and abstract sculptures in the background, evoking warmth and familial tenderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:59.338000",
+  "word_count": 55,
+  "error_message": null
+}

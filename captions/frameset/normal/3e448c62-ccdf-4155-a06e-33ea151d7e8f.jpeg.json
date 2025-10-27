@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e448c62-ccdf-4155-a06e-33ea151d7e8f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern white Cadillac SUV drives through a mostly empty city intersection in the heart of a downtown urban environment. The scene is set in broad daylight, with soft, natural lighting illuminating the clean lines and reflective surfaces of the car. The background features tall, historic buildings with a mix of red brick and stone facades, large windows, and classic architectural details, evoking a sense of old-meets-new city life. The streets are wide and freshly marked with white and yellow lines, and the traffic lights glow green and yellow, adding pops of color to the otherwise neutral palette of grays, browns, and whites. The camera angle is low and slightly to the side, capturing the car in dynamic motion as it moves confidently through the intersection, with a subtle sense of speed and urban energy. The overall style is cinematic and polished, with a shallow depth of field that keeps the focus on the vehicle while softly blurring the background, creating a sense of depth and movement. The mood is sophisticated and aspirational, highlighting the car as a symbol of modern luxury and urban adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:38.705146",
+  "word_count": 186,
+  "error_message": null
+}

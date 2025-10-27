@@ -1,0 +1,12 @@
+{
+  "image_filename": "60a2e0cf-7ad5-4e9e-8f95-daa4f56cee94.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand gripping the door handle of a sleek, shiny red car. The focus is on the hand, which is slightly tanned and wears a dark wristwatch, creating a sense of anticipation and movement as the person prepares to open the door. The car’s glossy surface reflects the hand and surrounding light, emphasizing the smooth, modern design of the vehicle. The background is softly blurred, drawing attention to the tactile interaction between hand and handle, with subtle hints of another arm and hand in the distance, suggesting a second person or a sense of continuity. The color palette is dominated by rich reds and warm skin tones, with natural daylight creating soft highlights and gentle shadows. The overall style is crisp and contemporary, with a shallow depth of field and a slight bokeh effect, evoking a polished, commercial aesthetic reminiscent of high-end automotive advertising.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:29.607895",
+  "word_count": 150,
+  "error_message": null
+}

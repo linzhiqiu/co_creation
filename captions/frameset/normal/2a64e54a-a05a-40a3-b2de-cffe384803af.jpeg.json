@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a64e54a-a05a-40a3-b2de-cffe384803af.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene set in a dimly lit gym. In the foreground, a young man with a close-cropped haircut lies on his back on the gym floor, wearing a white tank top. He holds a smartphone above his face, the screen casting a faint, warm glow onto his features, which are relaxed and contemplative. The lighting is low and natural, with cool blue and gray tones dominating the palette, punctuated by the subtle orange light from the phone. The background is softly out of focus, revealing gym equipment, weight plates, and a large mirror reflecting another figure seated against the wall, adding depth and a sense of solitude. The composition is intimate and immersive, with a shallow depth of field drawing attention to the subject’s face and the play of light and shadow. The overall style is reminiscent of an indie film, evoking a quiet, introspective mood and a sense of stillness within the everyday environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:23.915444",
+  "word_count": 157,
+  "error_message": null
+}

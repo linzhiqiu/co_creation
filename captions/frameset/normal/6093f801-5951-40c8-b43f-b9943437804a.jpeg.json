@@ -1,0 +1,12 @@
+{
+  "image_filename": "6093f801-5951-40c8-b43f-b9943437804a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand holding a smartphone against the backdrop of a vibrant cityscape at night. The phone’s screen is brightly illuminated, displaying a digital clock with abstract, glowing white circles and numbers, creating a stark contrast with the darker surroundings. The city outside the window is a blur of neon lights, colorful billboards, and high-rise buildings, rendered with a shallow depth of field that turns the background into a dreamy bokeh of reds, blues, and whites. The lighting is moody and atmospheric, with the phone’s screen casting a soft glow on the hand, while the city lights provide a dynamic, futuristic ambiance. The overall style is modern and urban, evoking a sense of late-night solitude and technological immersion, reminiscent of cyberpunk or neo-noir aesthetics. The camera angle is slightly above eye level, focusing sharply on the phone while the city remains out of focus, emphasizing the interplay between digital and real worlds.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:29.994927",
+  "word_count": 156,
+  "error_message": null
+}

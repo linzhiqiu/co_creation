@@ -1,0 +1,12 @@
+{
+  "image_filename": "2206309c-5ebe-489f-b450-dbeb21f3c6c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Two middle-aged men stand side by side in a public restroom, both with their arms crossed, gazing forward with serious, contemplative expressions. The man on the left wears a maroon windbreaker over a dark shirt, his demeanor tense and focused. The man on the right, slightly younger, has blond hair and wears a tan jacket over a pale shirt, his expression more relaxed, almost smug. The background features white tiled walls with a band of small, multicolored tiles near the ceiling, and a large mirror reflecting the scene. The lighting is cool and even, typical of fluorescent bathroom lights, casting soft shadows and emphasizing the utilitarian, slightly grimy atmosphere. The composition is intimate, with a medium shot that captures both men from the waist up, their postures mirroring each other, creating a sense of shared purpose or tension. The overall style is realistic and cinematic, with a muted color palette and a focus on subtle character dynamics.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:17.105233",
+  "word_count": 158,
+  "error_message": null
+}

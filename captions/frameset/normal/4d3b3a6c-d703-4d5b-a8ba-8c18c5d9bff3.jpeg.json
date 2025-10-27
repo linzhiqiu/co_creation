@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d3b3a6c-d703-4d5b-a8ba-8c18c5d9bff3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a metal object being forged in a roaring fire. The central focus is a round, shallow crucible or mold containing a metallic piece with an intricate, geometric snowflake pattern etched or embossed on its surface. The object glows with intense heat, radiating a bright, golden-orange light that illuminates the surrounding coals and embers. Flames and wisps of smoke curl around the crucible, creating a dynamic sense of motion and heat. The color palette is dominated by fiery oranges, yellows, and deep shadows, with the metal reflecting the ambient glow. The composition is tight and immersive, with a shallow depth of field that blurs the background, emphasizing the texture of the molten metal and the chaotic energy of the fire. The overall style is dramatic and atmospheric, evoking the artistry and intensity of traditional metalworking, with a focus on the interplay of light, heat, and craftsmanship.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:50.606836",
+  "word_count": 150,
+  "error_message": null
+}

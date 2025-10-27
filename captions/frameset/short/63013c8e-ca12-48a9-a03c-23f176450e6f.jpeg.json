@@ -1,0 +1,12 @@
+{
+  "image_filename": "63013c8e-ca12-48a9-a03c-23f176450e6f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking sci-fi music video scene: a young man in a white shirt with black harnesses stands center, singing intensely, flanked by two figures facing away. Futuristic metallic corridor, cool blue and black palette, dramatic lighting, shallow depth of field, dynamic composition, cinematic and high-contrast atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:22.383871",
+  "word_count": 46,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "58ac092f-181d-4fa1-a2b0-5d77053a6315.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic shot of a dark gray sedan driving down a wide, sunlit freeway. The camera is positioned low and directly in front of the car, capturing its full front view as it moves at speed, creating a sense of motion with a slight blur in the road and background. The car’s headlights are off, and the California license plate is clearly visible. Inside, the driver and a passenger are faintly visible through the windshield, but their features are not the focus. The background features a concrete barrier, a green freeway sign, and a row of tall, dark green trees silhouetted against a clear blue sky. The lighting is natural and bright, suggesting late afternoon with long shadows and a crisp, cool color palette dominated by blues, grays, and muted earth tones. The overall style is realistic and cinematic, evoking the feel of a road movie or a dramatic chase scene, with a shallow depth of field that keeps the car sharply in focus while the background recedes softly.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:24.923514",
+  "word_count": 170,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3806c83f-7c30-419c-91f0-a15e616a06cb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a breathtaking landscape scene at golden hour, capturing a vast expanse of mountain ranges receding into the distance. The foreground features rugged, shadowed peaks with hints of autumnal foliage, their textures and contours softly illuminated by the warm, low-angle sunlight. The midground and background mountains fade into gentle gradients of blue and purple, creating a sense of atmospheric depth and tranquility. Above, the sky is expansive and dramatic, filled with sweeping, painterly clouds tinged with gold, cream, and subtle hints of peach, reflecting the late afternoon light. The overall color palette is rich and harmonious, blending deep greens, muted blues, and warm earth tones with the glowing hues of the sky. The composition is wide and cinematic, with a high vantage point that emphasizes the grandeur and serenity of the natural landscape. The lighting is soft and diffused, casting long shadows and enhancing the sense of calm and majesty. The mood is peaceful and awe-inspiring, evoking the quiet beauty of untouched wilderness at the close of day.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:20.667673",
+  "word_count": 169,
+  "error_message": null
+}

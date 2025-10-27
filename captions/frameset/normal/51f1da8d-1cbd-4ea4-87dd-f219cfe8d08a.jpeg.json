@@ -1,0 +1,12 @@
+{
+  "image_filename": "51f1da8d-1cbd-4ea4-87dd-f219cfe8d08a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a yellow ceramic mug with a large, bold black smiley face printed on it. The mug is positioned slightly off-center on a surface, with its handle to the right. A single, realistic teardrop is painted or appears to be falling from one of the smiley face’s eyes, adding an unexpected emotional twist to the otherwise cheerful design. The background is dark and out of focus, creating a strong contrast that draws attention to the mug and enhances the sense of isolation and moodiness. The lighting is low and moody, with a soft, directional light source illuminating the mug from the left, casting gentle shadows and highlighting the glossy texture of the ceramic. The overall color palette is subdued, dominated by the warm yellow of the mug against deep, shadowy tones. The composition is intimate and contemplative, evoking a sense of melancholy beneath the surface of apparent happiness. The style is reminiscent of a dramatic film still, with shallow depth of field and a focus on emotional storytelling through simple, evocative imagery.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:34.051469",
+  "word_count": 176,
+  "error_message": null
+}

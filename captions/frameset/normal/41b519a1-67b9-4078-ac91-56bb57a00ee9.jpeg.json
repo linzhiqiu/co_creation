@@ -1,0 +1,12 @@
+{
+  "image_filename": "41b519a1-67b9-4078-ac91-56bb57a00ee9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit, vintage library interior filled with tall, dark wooden bookshelves lined with books. In the foreground, several children sit at cream-colored desks, deeply focused on reading and writing, their faces intent and absorbed in their work. To the left, a woman in a light beige blouse and khaki pants stands on a chair, reaching up to retrieve a book from a high shelf, handing it down to a young boy waiting below. The boy, dressed in a checkered shirt and jeans, looks up at her expectantly. Large windows on the left and in the background let in soft, natural daylight, casting a gentle, warm glow across the room and illuminating the lush green trees outside. The color palette is dominated by earthy tones—browns, creams, and greens—creating a calm, scholarly atmosphere. The composition uses a wide, cinematic aspect ratio, with a shallow depth of field that keeps the background slightly blurred, drawing attention to the interaction between the woman and the boy. The overall style is realistic and naturalistic, evoking a sense of quiet concentration and the timeless pursuit of knowledge.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:47.449646",
+  "word_count": 181,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "227a7ca0-7bb6-4c48-95de-044209b5950a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-resolution image of a focused male call center operator in a modern, high-tech office environment. The subject is a young man with a neatly trimmed beard and short brown hair, wearing a headset with a microphone. He is seated at a workstation, partially obscured by computer monitors in the foreground, which are softly out of focus, creating a sense of depth and immersion. The man’s expression is attentive and engaged, as if he is listening intently or speaking to a customer.\n\nThe background features sleek, dark panels with horizontal white LED light strips, giving the scene a futuristic and professional atmosphere. The color palette is cool and subdued, dominated by shades of blue, gray, and black, with the white lights providing crisp contrast. The lighting is soft but directional, highlighting the subject’s face while leaving the background slightly blurred, enhancing the cinematic quality. The camera angle is at eye level, centered on the operator, with a shallow depth of field that draws attention to his focused demeanor. The overall style is reminiscent of a modern thriller or tech drama, emphasizing efficiency, concentration, and the high-stakes nature of the environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:29.915800",
+  "word_count": 192,
+  "error_message": null
+}

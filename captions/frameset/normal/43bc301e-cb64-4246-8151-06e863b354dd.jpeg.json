@@ -1,0 +1,12 @@
+{
+  "image_filename": "43bc301e-cb64-4246-8151-06e863b354dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic, daytime scene set outside a modern donation center, specifically at a \"Donation Drop Off\" area. The composition is wide and slightly low-angled, capturing the overhang of the building with bold, clear signage in white letters above. The structure features tan and brown tones, with stone pillars flanking the entrance and a beige brick wall in the background. In the foreground, a white SUV is partially visible, pulling up to the drop-off area, suggesting motion and activity. A person stands near the vehicle, mid-action, possibly unloading items, though their features are not the focus. The entrance doors are glass with blue and white signage, including the recognizable Goodwill logo, reinforcing the charitable context. Lush green shrubs line the walkway, adding a touch of natural color contrast to the otherwise neutral palette. The lighting is bright and natural, casting soft shadows and emphasizing the clean, welcoming atmosphere. The overall style is documentary and straightforward, with a focus on clarity, realism, and a sense of everyday community service.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:34.672033",
+  "word_count": 167,
+  "error_message": null
+}

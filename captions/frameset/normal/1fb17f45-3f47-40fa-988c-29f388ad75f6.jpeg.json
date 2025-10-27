@@ -1,0 +1,12 @@
+{
+  "image_filename": "1fb17f45-3f47-40fa-988c-29f388ad75f6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of six young adults, dressed in athletic running gear, gather atop a rocky hill at dusk, overlooking a sprawling cityscape illuminated by the soft glow of distant city lights. The group is captured in a candid, dynamic moment: some are standing, others sitting or crouching, with relaxed postures and expressive gestures. One person points out toward the horizon, drawing the attention of the others, while another stretches with hands behind their head. The sky is overcast, casting a cool, diffused light that enhances the moody, cinematic atmosphere. The color palette is dominated by muted earth tones, cool blues, and soft grays, with subtle pops of color from the runners’ clothing. The composition uses a shallow depth of field, keeping the group in sharp focus while the city below blurs gently, emphasizing the sense of elevation and camaraderie. The overall style is naturalistic and documentary-like, evoking a sense of adventure, achievement, and shared experience at the end of a long run.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:36.101407",
+  "word_count": 162,
+  "error_message": null
+}

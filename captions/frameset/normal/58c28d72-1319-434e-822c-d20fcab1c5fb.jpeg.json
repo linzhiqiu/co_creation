@@ -1,0 +1,12 @@
+{
+  "image_filename": "58c28d72-1319-434e-822c-d20fcab1c5fb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a corkboard features a pinned photograph at its center, partially overlapping a technical blueprint. The photograph captures a person in the process of donning a large, retro-futuristic helmet with a glossy, dark visor and a white base. The individual, wearing glasses and a plain light-colored shirt, holds the helmet with both hands, their expression focused and intent. Red pen marks and arrows are drawn directly onto the photograph, highlighting and circling specific areas of the helmet, suggesting a process of design review or analysis. The background of the photo is softly blurred, hinting at an industrial or workshop setting with muted tones. The blueprint beneath the photo displays detailed line drawings and labeled components of the helmet, rendered in white on a deep blue background. The overall color palette is subdued, dominated by cool blues, neutral beiges, and the stark contrast of the red pen. The lighting is natural and diffused, evoking a sense of quiet concentration and technical creativity. The composition is intimate and documentary in style, with a shallow depth of field that draws the viewer’s attention to the interplay between the photograph, the blueprint, and the act of invention.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:24.655570",
+  "word_count": 196,
+  "error_message": null
+}

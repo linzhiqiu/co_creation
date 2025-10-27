@@ -1,0 +1,12 @@
+{
+  "image_filename": "60789fd2-9995-41bf-8d75-f95a53fa6c08.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a human hand delicately adjusting a black, ribbed control knob on a piece of electronic audio equipment. The focus is on the fingertips and the textured surface of the knob, capturing the tactile interaction in sharp detail. The background is softly blurred, with hints of other dials and a glowing red digital display partially visible, suggesting a high-tech or studio environment. The color palette is dominated by deep blacks, muted grays, and subtle highlights, with the red digits providing a striking accent. The lighting is soft and directional, creating gentle reflections on the plastic and metal surfaces, and emphasizing the contours of the hand and equipment. The overall style is realistic and intimate, with a shallow depth of field and a sense of precision and concentration, as if documenting a moment of careful adjustment in a sound engineering or music production setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:25.460524",
+  "word_count": 147,
+  "error_message": null
+}

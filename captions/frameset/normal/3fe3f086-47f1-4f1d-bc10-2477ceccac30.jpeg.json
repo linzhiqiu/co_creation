@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fe3f086-47f1-4f1d-bc10-2477ceccac30.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up night vision scene of a modern special forces soldier inside a dimly lit military vehicle. The subject is centered, wearing advanced tactical gear including a helmet with mounted night vision goggles, a headset microphone, and a high-collared uniform. The soldier’s face is partially illuminated in the characteristic green monochrome glow of night vision, with sharp contrasts and soft shadows enhancing the sense of tension and focus. The background is dark and indistinct, suggesting the cramped, utilitarian interior of an armored vehicle, with another figure barely visible behind the main subject. The overall mood is intense and suspenseful, evoking a covert nighttime operation. The composition uses a shallow depth of field to keep the soldier’s face and equipment in sharp focus while the background remains blurred, heightening the sense of immediacy and immersion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:06.575942",
+  "word_count": 136,
+  "error_message": null
+}

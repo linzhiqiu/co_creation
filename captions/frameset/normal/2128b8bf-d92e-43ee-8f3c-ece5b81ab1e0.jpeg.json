@@ -1,0 +1,12 @@
+{
+  "image_filename": "2128b8bf-d92e-43ee-8f3c-ece5b81ab1e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "An underwater cinematic shot of a swimmer in motion, captured in profile as they glide through a clear blue swimming pool. The subject is a single athlete, wearing a bright red swim cap and reflective goggles, their face partially submerged and focused, exuding determination and concentration. Their arm is extended forward in a freestyle stroke, creating gentle ripples and bubbles in the water. The background features the tiled pool floor and a floating lane divider, both slightly blurred to emphasize depth of field. The lighting is cool and diffused, with sunlight filtering through the water’s surface, casting soft, wavy patterns and enhancing the tranquil, immersive atmosphere. The overall color palette is dominated by shades of blue and turquoise, contrasted by the vivid red of the swim cap. The composition is dynamic yet serene, with a sense of motion and fluidity, evoking the quiet intensity and grace of competitive swimming.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:58.191730",
+  "word_count": 149,
+  "error_message": null
+}

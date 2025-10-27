@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bde5e2e-60b7-4921-8189-c41c85161f76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene of a basketball player mid-dunk on an outdoor court at sunset. The subject is captured in dramatic silhouette, their arms extended as they forcefully slam the ball through the hoop, with the net and rim sharply outlined against the glowing sky. The background features tall, iconic palm trees, their fronds softly backlit by the warm, golden hues of the setting sun, creating a quintessential Southern California vibe. The color palette is dominated by deep shadows, rich oranges, and subtle purples, with the fading daylight casting a gentle gradient across the sky. The composition is wide and immersive, with the camera positioned at a low angle to emphasize the height and athleticism of the player, while also capturing the expanse of the court and the surrounding palms. The overall style is cinematic and evocative, with a shallow depth of field that keeps the focus on the action at the hoop, and a sense of motion frozen in time, highlighting the energy and grace of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:39.553238",
+  "word_count": 169,
+  "error_message": null
+}

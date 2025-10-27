@@ -1,0 +1,12 @@
+{
+  "image_filename": "497c48b3-f412-4338-8107-8d00fa52017a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban plaza seen from a high, almost top-down perspective, with a grid of large, cool gray stone tiles forming the ground. The scene is filled with people in motion, most dressed in dark, modern clothing—coats, boots, and business attire—moving in various directions, their forms slightly blurred to convey a sense of hurried movement. At the center of the composition, a single woman stands out: she is mid-stride, wearing a light beige trench coat and carrying a brown leather shoulder bag. Her blonde hair is loose, and she appears focused, almost determined, as she moves purposefully through the crowd. The lighting is soft and diffuse, suggesting an overcast day, with gentle shadows and a muted, desaturated color palette dominated by grays, blacks, and subtle earth tones. The overall mood is cinematic and contemplative, with a shallow depth of field that keeps the central figure sharp while the surrounding people are slightly out of focus, emphasizing her isolation amid the crowd. The composition captures a fleeting, almost poetic moment of individuality within the anonymity of city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:23.621078",
+  "word_count": 177,
+  "error_message": null
+}

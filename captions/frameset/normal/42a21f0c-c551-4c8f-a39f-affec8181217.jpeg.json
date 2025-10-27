@@ -1,0 +1,12 @@
+{
+  "image_filename": "42a21f0c-c551-4c8f-a39f-affec8181217.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a skilled artisan meticulously painting a realistic glass eye. The focus is on the artisan’s hands, which are steady and precise, holding a small, cylindrical object with a detailed, lifelike iris at one end. The artisan uses a fine brush to apply blue paint to the object, suggesting careful craftsmanship. The background is softly blurred, with a large magnifying lens dominating the upper part of the frame, distorting and partially obscuring the artisan’s face, which is only faintly visible through the glass. The lighting is soft and diffused, highlighting the textures of the hands and the glossy surface of the eye, while creating a calm, clinical atmosphere. The color palette is cool and muted, with natural skin tones, the blue of the paint, and neutral grays in the background. The composition emphasizes the intimacy and precision of the work, with a cinematic, almost documentary style that draws attention to the artistry and concentration involved in the process.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:05.374350",
+  "word_count": 163,
+  "error_message": null
+}

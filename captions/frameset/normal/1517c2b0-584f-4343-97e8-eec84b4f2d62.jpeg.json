@@ -1,0 +1,12 @@
+{
+  "image_filename": "1517c2b0-584f-4343-97e8-eec84b4f2d62.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, over-the-shoulder shot of three young men huddled closely together at night, their faces partially obscured in shadow, intently watching a smartphone screen. The phone, encased in a bright yellow case, glows with a vivid green and black interface, displaying a live video game or digital map. The ambient lighting is moody and atmospheric, casting warm, diffused highlights on the subjects’ hair and shoulders, while the background fades into a soft, out-of-focus brick pavement. The composition emphasizes intimacy and suspense, with the camera positioned just behind the central figure’s head, drawing the viewer into the group’s shared focus. On-screen overlays mimic a live social media stream, with translucent chat bubbles in Arabic, a Twitter icon, and a vertical row of pastel-colored heart icons on the right, suggesting real-time engagement. The color palette is dominated by deep shadows, muted earth tones, and the contrasting neon glow of the phone, evoking a sense of urban mystery and digital connection. The overall style is reminiscent of a modern thriller or coming-of-age drama, with shallow depth of field and naturalistic, low-key lighting enhancing the sense of immediacy and immersion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:37.734473",
+  "word_count": 187,
+  "error_message": null
+}

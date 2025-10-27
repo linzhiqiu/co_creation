@@ -1,0 +1,12 @@
+{
+  "image_filename": "27d33f78-4498-458b-8b6c-c631d879f6b9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, softly lit portrait of a young woman with medium brown skin and natural, curly hair, seated indoors and engaging with a digital tablet. She wears a vibrant blue blouse, the color standing out against the neutral, softly blurred background, which suggests a modern, warmly lit interior with subtle hints of shelves and out-of-focus colored objects. The woman’s expression is calm and focused, with a gentle, confident smile as she interacts with the device, her hand poised mid-gesture on the screen. The composition uses a shallow depth of field, keeping the subject’s face and hand in sharp focus while the background remains creamy and indistinct, lending a cinematic, intimate quality to the scene. The lighting is natural and diffused, highlighting her features and the texture of her hair, creating a warm, inviting atmosphere. The camera angle is slightly off-center, at eye level, enhancing the sense of engagement and immediacy. The overall style is modern, professional, and candid, evoking a mood of concentration and quiet satisfaction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:22.673015",
+  "word_count": 166,
+  "error_message": null
+}

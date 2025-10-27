@@ -1,0 +1,12 @@
+{
+  "image_filename": "629d278c-a531-4317-aa01-75a51781032f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure sits hunched over a computer desk in the center of a dark, cavernous room. The subject wears a hooded jacket, their face partially obscured by the hood and the dim, moody lighting. The only illumination comes from the cold blue glow of the computer monitor, casting sharp highlights on the subject’s face and hands, and a faint yellowish pool of light on the floor beneath them. The rest of the space is enveloped in deep shadow, with subtle, abstract streaks of warm orange and red light bleeding in from the edges, creating a sense of isolation and tension. The composition is centered, with the subject and their workstation appearing small and vulnerable against the vast, empty darkness. The overall style is cinematic and atmospheric, reminiscent of a psychological thriller or cyberpunk noir, with a shallow depth of field that blurs the periphery and draws the viewer’s focus to the illuminated figure. The mood is tense, introspective, and mysterious, evoking themes of solitude, secrecy, and digital obsession.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:19.708163",
+  "word_count": 169,
+  "error_message": null
+}

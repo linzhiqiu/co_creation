@@ -1,0 +1,12 @@
+{
+  "image_filename": "3777cb38-d94d-4b65-aa12-19a5bc9f1db8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone astronaut in a vivid orange space suit and white helmet walks down a narrow, futuristic corridor with smooth, curved concrete walls that converge overhead, creating a tunnel-like effect. The figure is seen from behind, centered in the frame, with a small, boxy life-support pack attached to their back. The corridor is stark and minimalist, illuminated by soft, diffused lighting that casts gentle shadows along the walls, emphasizing the tunnel’s sculptural geometry. The color palette is dominated by cool grays and whites of the concrete, contrasted sharply by the astronaut’s bright orange suit, creating a striking visual focus. The overall mood is quiet, contemplative, and slightly surreal, evoking a sense of isolation and exploration. The composition uses a deep one-point perspective, drawing the viewer’s eye toward the vanishing point at the end of the corridor, enhancing the sense of depth and mystery. The style is cinematic and precise, reminiscent of classic science fiction films, with a clean, almost clinical aesthetic and a subtle, atmospheric tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:06.772291",
+  "word_count": 166,
+  "error_message": null
+}

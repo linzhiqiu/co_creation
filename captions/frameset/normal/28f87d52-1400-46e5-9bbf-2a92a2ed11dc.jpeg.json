@@ -1,0 +1,12 @@
+{
+  "image_filename": "28f87d52-1400-46e5-9bbf-2a92a2ed11dc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-contrast, black-and-white photograph captures a creative workspace from a top-down perspective. On the left side of the frame, several sheets of paper are scattered, filled with dynamic architectural sketches, bold black marker lines, and handwritten notes, evoking the energy of a brainstorming session. The right side of the image is dominated by the sleek, metallic surface of a closed MacBook, its iconic Apple logo centered and gleaming softly under diffused overhead lighting. The composition is carefully balanced, with the chaotic, expressive sketches juxtaposed against the minimalist, modern design of the laptop. The lighting is soft but directional, casting gentle shadows that enhance the textures of the paper and the smoothness of the laptop. The overall mood is one of focused creativity and modern design, with a cinematic, documentary-style quality that emphasizes both the process and the tools of innovation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:46.621956",
+  "word_count": 140,
+  "error_message": null
+}

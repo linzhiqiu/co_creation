@@ -1,0 +1,12 @@
+{
+  "image_filename": "26c3eeb6-7049-4500-a5bf-3f53080b6927.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, minimalist office scene bathed in soft, natural daylight. The composition is anchored by large, industrial-style windows with frosted glass panels, diffusing the sunlight and casting gentle shadows across the room. In the lower right corner, a woman with short blonde hair and black-rimmed glasses sits at a desk, partially visible, focused intently on her laptop. She wears a sleek black turtleneck, adding to the contemporary, professional atmosphere. The background outside the window is slightly blurred, but a bold, partially obscured sign with the words \"CREATE SOMETHING\" can be seen, hinting at a creative or entrepreneurial environment. The color palette is muted and cool, dominated by whites, grays, and blacks, with subtle hints of color from the exterior. The overall style is clean and cinematic, with a shallow depth of field and a calm, contemplative mood. The camera angle is slightly off-center, emphasizing the interplay of light, shadow, and architectural lines, while capturing the subject in a candid, natural moment of concentration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:00.132943",
+  "word_count": 163,
+  "error_message": null
+}

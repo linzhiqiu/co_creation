@@ -1,0 +1,12 @@
+{
+  "image_filename": "3dd9fac3-cc1a-4939-96e6-71ec0115ba5a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, surreal scene set in a minimalist, dimly lit studio with a cool, bluish-gray color palette. In the center foreground, a person with long, straight, platinum-blonde hair stands with their back to the viewer, wearing a white t-shirt adorned with a large, black QR code and abstract paint splatters, paired with light-colored jeans. Flanking this central figure are two large, black, equilateral triangles embedded in the wall, each containing a monochromatic, high-contrast portrait of the same person, but facing forward and illuminated dramatically from above and the side. The faces within the triangles are expressionless, almost statuesque, and dressed in dark, shiny jackets, creating a stark contrast with the central figure’s casual attire. The composition is symmetrical and geometric, with a strong sense of depth and negative space. The lighting is soft and diffused on the central figure, while the triangle portraits are sharply lit, emphasizing their features and creating a mysterious, almost futuristic atmosphere. The overall style is cinematic and conceptual, evoking themes of identity, duality, and self-reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:31.629979",
+  "word_count": 170,
+  "error_message": null
+}

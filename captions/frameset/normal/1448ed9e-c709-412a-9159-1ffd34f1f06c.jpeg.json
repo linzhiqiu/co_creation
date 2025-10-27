@@ -1,0 +1,12 @@
+{
+  "image_filename": "1448ed9e-c709-412a-9159-1ffd34f1f06c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a chainsaw blade cutting through a thick layer of ice. The blade, branded with the word \"STIHL,\" is partially embedded in the frozen surface, with ice shavings and slush scattered around it. The color palette is cold and muted, dominated by icy blues, whites, and subtle hints of brown where the ice is being disturbed. The lighting is natural and diffuse, suggesting an overcast sky, which enhances the chilly, somber mood of the scene. The camera angle is low and intimate, focusing tightly on the interaction between the blade and the ice, with a shallow depth of field that blurs the background and draws attention to the texture of the ice and the metallic sheen of the chainsaw. The overall style is realistic and gritty, evoking a sense of harsh winter conditions and manual labor, with a strong emphasis on tactile detail and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:17.655403",
+  "word_count": 149,
+  "error_message": null
+}

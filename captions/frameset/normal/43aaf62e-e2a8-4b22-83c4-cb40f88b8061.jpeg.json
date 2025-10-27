@@ -1,0 +1,12 @@
+{
+  "image_filename": "43aaf62e-e2a8-4b22-83c4-cb40f88b8061.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA moody, cinematic scene of a lone male programmer working late at night in a dimly lit, modern workspace. The subject sits at a desk, illuminated by the warm, focused glow of a desk lamp, which casts dramatic shadows across his face and the surrounding area. He wears dark clothing and glasses, his expression intent and absorbed as he types on a keyboard. Two large, curved computer monitors dominate the foreground, displaying lines of code and technical data in green and white text on black backgrounds, emphasizing the hacker or cybersecurity theme. The background is softly blurred, with hints of industrial architecture and a high window revealing a grid of small, colored glass panes, adding depth and atmosphere. The color palette is cool and subdued, with deep blues and grays contrasting against the warm yellow light of the lamp. The overall style is reminiscent of a high-stakes thriller or cyberpunk film, with a shallow depth of field, side profile composition, and a sense of focused isolation and intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:27.241380",
+  "word_count": 169,
+  "error_message": null
+}

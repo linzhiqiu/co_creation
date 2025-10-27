@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a284038-7f6c-4f13-890d-5b38efe89733.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene viewed from outside a dimly lit building. The main focus is a set of four rectangular window panes, arranged in a grid, through which the interior is only partially visible. The glass is frosted and etched with faded, retro-style signage that reads “Fabulous Soft Drinks,” with the partial, stylized logo of a classic soda brand visible but obscured by glare and shadow. The lighting is low and moody, casting a warm, amber glow on the glass, creating reflections and subtle highlights. The background inside the building is indistinct, with only vague hints of structure and color, emphasizing the mystery and nostalgia of the setting. The overall color palette is dominated by deep blacks, muted browns, and soft golden tones, evoking a sense of quiet, late-night solitude. The composition is tight and focused on the window, with a shallow depth of field that blurs the interior details, enhancing the enigmatic and atmospheric quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:37.748238",
+  "word_count": 161,
+  "error_message": null
+}

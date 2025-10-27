@@ -1,0 +1,12 @@
+{
+  "image_filename": "16b0f025-5699-4b8b-a236-77407974a9d4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand holding a smartphone, viewed from over the shoulder at a slight angle. The phone screen displays a YouTube video page, featuring a video of a person in a white outfit standing outdoors, with the title and channel information visible but not fully legible. Below the video, there are familiar YouTube interface elements such as the like, dislike, share, and subscribe buttons, as well as a graph or analytics chart. The person’s thumb is poised above the screen, suggesting interaction. The hand has neatly manicured nails and is partially illuminated by soft, natural light, creating a gentle contrast with the muted, out-of-focus background. The phone is connected to a white charging cable, which trails out of the frame. The overall color palette is subdued, with neutral tones and a slight warmth from the lighting, evoking a candid, everyday moment. The composition uses shallow depth of field to keep the focus on the hand and phone, blurring the background for a cinematic, intimate feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:12.133289",
+  "word_count": 169,
+  "error_message": null
+}

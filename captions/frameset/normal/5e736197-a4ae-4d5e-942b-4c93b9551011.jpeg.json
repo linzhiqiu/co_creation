@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e736197-a4ae-4d5e-942b-4c93b9551011.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A male athlete stands at the edge of a red running track, captured from behind and slightly to the side, his head turned forward in anticipation. He wears a form-fitting, long-sleeved athletic shirt in vibrant cobalt blue, the fabric textured with subtle geometric patterns that catch the soft, diffused daylight. His short dark hair and muscular build are visible, emphasizing his readiness and focus. The background is softly blurred, with the stadium’s modern architecture and a high jump mat rendered in muted tones, suggesting a professional sports facility. The sky is overcast, casting a cool, even light across the scene, enhancing the saturated colors of the track and the athlete’s clothing. The composition uses a shallow depth of field, drawing attention to the athlete’s poised figure while the rest of the environment fades gently into the background, evoking a sense of calm determination and pre-race tension. The overall style is cinematic, with a naturalistic color palette and a contemplative, almost documentary mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:34.109710",
+  "word_count": 162,
+  "error_message": null
+}

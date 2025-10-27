@@ -1,0 +1,12 @@
+{
+  "image_filename": "632acc91-5b3a-43e7-b077-2c391a27cc7c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate an intimate, cinematic scene viewed from behind two people—a man and a woman—standing closely together, their heads gently inclined toward each other as they gaze out at a cityscape at night. The focus is on the back of their heads and shoulders, with the woman’s short hair and elegant pearl earring subtly visible, and the man dressed in a white collared shirt. The background is a dreamy, abstract blur of golden and white bokeh lights, evoking the glow of a city after dark. The lighting is soft and low, casting the figures in gentle shadow and emphasizing the warmth and intimacy of the moment. The composition uses a shallow depth of field, keeping the couple slightly out of focus while the luminous bokeh dominates the scene, creating a romantic, contemplative atmosphere. The overall color palette is rich with deep shadows, warm golds, and soft highlights, reminiscent of a film still with a poetic, nostalgic quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:31.165432",
+  "word_count": 157,
+  "error_message": null
+}

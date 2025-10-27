@@ -1,0 +1,12 @@
+{
+  "image_filename": "37132cf2-9135-4ba0-afbe-a279d4169048.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged male store clerk stands behind a counter, facing a customer whose back is to the camera. The clerk has short, light brown hair and a fair complexion, and he wears a retro-style, light blue bowling shirt with white vertical stripes and red trim. A gold name tag reading \"Dan\" is pinned to his chest. His expression is attentive and slightly concerned, as if he is listening carefully or responding to a question. The background is softly out of focus, filled with a colorful array of hanging lottery tickets or scratch cards, creating a busy, everyday retail environment. The lighting is bright and even, evoking the fluorescent ambiance of a convenience store. The camera angle is at eye level, with a shallow depth of field that keeps the clerk in sharp focus while the customer and background are blurred, drawing attention to the interaction and the clerk’s nuanced expression. The overall style is naturalistic, with a hint of deadpan humor reminiscent of workplace comedies, capturing a mundane yet subtly charged moment of customer service.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:00.018148",
+  "word_count": 175,
+  "error_message": null
+}

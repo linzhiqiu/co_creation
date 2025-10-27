@@ -1,0 +1,12 @@
+{
+  "image_filename": "49fd99f7-5570-462e-925a-39555092841b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, minimalist portrait of an East Asian woman with a sleek, geometric bob haircut, her eyes gently closed in a serene, introspective expression. The subject is centered against a smooth, teal-blue background, with soft, even lighting that highlights the smoothness of her skin and the subtle shine of her hair. Overlaid on her face and head is a translucent, magenta 3D wireframe grid, forming a cube that envelops her head and extends into the background. The grid is composed of fine lines and dots, suggesting digital mapping or facial recognition technology. The overall composition is clean and symmetrical, with a shallow depth of field that keeps the focus on the woman and the digital overlay. The color palette is dominated by cool blues and vibrant magentas, creating a striking contrast and a high-tech, conceptual art aesthetic. The style is reminiscent of sci-fi cinematography, with a clinical yet elegant mood, evoking themes of identity, technology, and the future of humanity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:36.592729",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "57165e46-46ab-4715-9649-6ed5d9d7fe1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a striking black-and-white image of a classic clock tower, viewed from a low, slightly off-center angle that emphasizes its height and architectural details. The clock face is large and round, displaying Roman numerals, with the time set to just before 11 o’clock. Above the clock, a small belfry with an arched opening supports a weather vane, its arrow and cardinal directions clearly visible against a cloudy, overcast sky. The building’s roofline frames the lower edge of the composition, with crisp lines and subtle shadows adding depth. The overall mood is somber and timeless, with soft, diffuse lighting that enhances the contrast between the pale sky and the dark, sharply defined structure. The style is reminiscent of classic film noir cinematography, with a focus on dramatic angles, high contrast, and a sense of quiet anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:40.320512",
+  "word_count": 136,
+  "error_message": null
+}

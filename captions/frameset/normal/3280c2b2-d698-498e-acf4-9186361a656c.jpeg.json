@@ -1,0 +1,12 @@
+{
+  "image_filename": "3280c2b2-d698-498e-acf4-9186361a656c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a woman driving a car through a sun-drenched, arid landscape. The camera is positioned from the passenger seat, focusing on her face through the dusty windshield, which is speckled with dirt and sunlight. She wears dark, oval sunglasses and large hoop earrings, her hair pulled back, and her expression is serious and contemplative. The lighting is warm and golden, casting a sepia-toned glow over the entire scene, evoking the heat and dryness of the desert outside. A colorful air freshener with a palm tree motif hangs from the rearview mirror, adding a small pop of color to the otherwise muted palette. The background is softly blurred, with hints of sandy terrain and distant hills visible through the window, enhancing the sense of isolation and journey. The overall style is naturalistic and slightly gritty, with a shallow depth of field and a handheld, documentary-like feel, capturing a moment of introspection and resilience on the road.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:15.735726",
+  "word_count": 159,
+  "error_message": null
+}

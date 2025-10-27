@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d5d02fe-1363-4256-8db2-0ac7966dff7d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, expertly composed image blending two distinct visual layers: the upper portion features a row of metallic and plastic screwdriver bits and tool heads, arranged in a precise, orderly fashion, their tips facing downward and slightly out of focus, suggesting a shallow depth of field. The tools are illuminated by soft, diffused lighting, highlighting their textures and metallic sheen against a dark, muted green background, evoking a workshop or technical environment. The lower portion of the image seamlessly transitions into a crisp, sharply rendered screenshot of a Microsoft Excel interface, specifically the ribbon menu with icons for formatting, inserting, and editing cells. The Excel window displays user profile icons, a green \"Share\" button, and a clean, modern UI, contrasting with the tactile, industrial feel of the tools above. The overall color palette juxtaposes cool metallic grays and whites with the digital greens and blues of the software interface. The composition is balanced and visually striking, merging the analog world of tools with the digital realm of productivity software, creating a conceptual, almost surreal visual narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:26.057536",
+  "word_count": 176,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "31c66f5c-65da-499d-b8a3-ba251a84662b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a vintage Nixie tube clock, displaying the time \"6:41:18\" in glowing orange numerals. Each digit is encased in a glass tube with visible wire mesh and filaments, giving a retro-futuristic, industrial aesthetic. The warm, amber light from the tubes softly illuminates the surrounding darkness, creating a moody, nostalgic atmosphere. The background is almost entirely black, emphasizing the luminous digits and the intricate details of the tubes. The composition is symmetrical and tightly framed, focusing solely on the clock face, with a shallow depth of field that blurs the edges and draws attention to the glowing numbers. The overall style is reminiscent of classic science fiction films, with a sense of quiet anticipation and timelessness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:58.528896",
+  "word_count": 119,
+  "error_message": null
+}

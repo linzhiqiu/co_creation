@@ -1,0 +1,12 @@
+{
+  "image_filename": "541a09df-6d79-40e7-9b3a-1f32e4d2b2c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt for generating this image:\n\n\"Create a warm, inviting classroom scene focused on a young girl with long dark hair and a gentle smile, sitting at her desk with her arms folded on top of a black-and-white composition notebook. She is positioned in the foreground, making direct eye contact with the viewer, exuding a sense of quiet confidence and friendliness. The background features a softly blurred classroom environment with other children seated at their desks, their faces slightly out of focus to emphasize the main subject. The color palette is natural and muted, with soft daylight streaming in, creating a gentle, even illumination across the scene. The desks are wooden, and the classroom atmosphere feels calm and studious. The camera angle is at eye level, with a shallow depth of field that draws attention to the girl's expression while subtly hinting at the lively, supportive environment around her. The overall style is cinematic and realistic, capturing the innocence and optimism of a school day.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:27.941806",
+  "word_count": 167,
+  "error_message": null
+}

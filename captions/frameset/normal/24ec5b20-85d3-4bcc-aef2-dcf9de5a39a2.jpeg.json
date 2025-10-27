@@ -1,0 +1,12 @@
+{
+  "image_filename": "24ec5b20-85d3-4bcc-aef2-dcf9de5a39a2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a mid-20th-century laboratory, featuring two Japanese male scientists intently working with complex scientific equipment. Both men wear crisp white lab coats, their expressions focused and serious as they engage with the machinery. The composition is dynamic, with the camera positioned at a low, slightly tilted angle, creating a sense of urgency and immersion. The background is filled with industrial elements—coiled cables, metal surfaces, and large scientific apparatus—evoking a sense of technological advancement. The color palette is dominated by warm sepia tones, lending the image a vintage, almost noir-like atmosphere. Lighting is soft but directional, casting gentle shadows that enhance the depth and texture of the scene. The overall style is reminiscent of classic Japanese cinema, with a strong emphasis on mood, character, and the meticulous details of the laboratory environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:22.245596",
+  "word_count": 137,
+  "error_message": null
+}

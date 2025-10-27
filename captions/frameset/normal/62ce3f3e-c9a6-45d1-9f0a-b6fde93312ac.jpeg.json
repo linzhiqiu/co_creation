@@ -1,0 +1,12 @@
+{
+  "image_filename": "62ce3f3e-c9a6-45d1-9f0a-b6fde93312ac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, cosmic scene viewed from a central, symmetrical perspective. At the heart of the composition, place a small, meditative human figure sitting cross-legged, silhouetted against a glowing, ethereal nebula. Surround the figure with a series of perfectly concentric black rings, each ring growing larger as it radiates outward, creating a hypnotic tunnel effect that draws the viewer’s eye toward the center. The background is a vibrant, swirling galaxy filled with deep purples, magentas, and hints of electric blue, punctuated by distant stars and cosmic dust. The lighting is luminous and otherworldly, with soft lens flares and radiant glows emanating from the nebula, casting subtle highlights on the rings. The overall style is cinematic and dreamlike, with a sense of infinite depth and a focus on symmetry and cosmic mystery. The mood is contemplative and awe-inspiring, evoking themes of inner journey and the vastness of the universe.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:21.839869",
+  "word_count": 148,
+  "error_message": null
+}

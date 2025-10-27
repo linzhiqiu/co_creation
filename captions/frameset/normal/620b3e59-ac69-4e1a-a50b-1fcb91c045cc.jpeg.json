@@ -1,0 +1,12 @@
+{
+  "image_filename": "620b3e59-ac69-4e1a-a50b-1fcb91c045cc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of an older woman with silver hair tied back in a loose bun, standing in profile near a window with soft natural light illuminating her face. Her expression is serene and contemplative, with a gentle, knowing smile and subtle crow’s feet around her blue eyes. She wears a dark teal blouse and a light gray cardigan, the textures of the fabrics rendered in fine detail. The background is softly blurred, suggesting an interior space opening onto a lush, green outdoor scene, evoking a sense of calm and introspection.\n\nThe most striking element is a surreal overlay: the upper portion of the woman’s head seamlessly transitions into a cluster of dandelion seeds, some of which are caught in mid-flight, drifting away as if carried by a gentle breeze. The seeds are rendered with delicate, feathery detail, their movement frozen in time, creating a dreamlike, poetic effect. The color palette is cool and muted, dominated by soft blues, grays, and natural greens, with subtle highlights on the woman’s skin and the dandelion seeds. The lighting is diffuse and natural, enhancing the ethereal quality of the scene.\n\nThe composition is balanced and intimate, with a shallow depth of field that keeps the focus on the woman’s face and the surreal transformation above her head. The overall style is reminiscent of fine art photography or a high-end film still, blending realism with imaginative, symbolic elements to evoke themes of memory, transformation, and the passage of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:06.728341",
+  "word_count": 245,
+  "error_message": null
+}

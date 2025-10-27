@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ccc208b-661d-4c1a-82ad-b0f5e22d3236.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a realistic urban scene focused on a close-up of a white brick wall, slightly weathered, with a prominent rectangular sign mounted at eye level. The sign reads \"NOT RESPONSIBLE IN CASE OF ACCIDENTS\" in bold, black, all-caps lettering, centered and clearly legible. The left side of the image is dominated by the textured, painted bricks, while the right edge reveals a partial view of a dark vertical structure, possibly a doorway or garage entrance, adding contrast. In the foreground on the right, include a colorful, curved metal pipe or railing, painted in bright stripes of red, yellow, and green, slightly out of focus to create depth. The lighting is soft and diffuse, suggesting an overcast day, with muted, neutral tones dominating the palette except for the vibrant pipe. The composition is straightforward and documentary in style, with a shallow depth of field that draws attention to the sign and wall texture, evoking a sense of urban realism and understated caution.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:28.340574",
+  "word_count": 162,
+  "error_message": null
+}

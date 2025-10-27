@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a084b88-7f36-45a3-936e-6cb58a2a7f23.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern luxury car’s digital dashboard, focusing on the central speedometer display. The digital screen prominently shows a large, glowing yellow “0 km/h” in the center, indicating the car is stationary. Flanking the digital display are two analog-style dials, softly blurred at the edges due to a shallow depth of field, with the left dial showing speed increments and the right dial displaying other vehicle metrics. The AMG logo and various illuminated icons are visible at the bottom of the screen, adding a sense of high-performance branding. The color palette is dominated by deep blacks, cool blues, and vibrant yellows, with subtle reflections and soft ambient lighting suggesting a sleek, high-tech interior. The composition is tight and immersive, with a slight angle that enhances the sense of depth and modernity, evoking the precision and luxury of a high-end sports car.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:12.684817",
+  "word_count": 145,
+  "error_message": null
+}

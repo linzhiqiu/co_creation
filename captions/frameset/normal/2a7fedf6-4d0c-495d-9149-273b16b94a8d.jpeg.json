@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a7fedf6-4d0c-495d-9149-273b16b94a8d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic office scene set in a dimly lit, modern workspace. The composition centers on a desk with three prominent objects: on the left, an open laptop displaying a dark-themed analytics dashboard with bar graphs and data; in the middle, an old-fashioned CRT television showing a woman with dark hair, dramatically lit against a vivid red background, her mouth open in a scream or shout, hands raised in a gesture of frustration or intensity; on the right, a sleek black sign with white text reading \"MARKETING STRATEGY ANALYSIS.\" The background features frosted glass panels and vertical blinds, softly diffusing the daylight and creating a cool, corporate ambiance. A tall, minimalist desk lamp arcs over the scene, casting a gentle, focused light that highlights the objects on the desk. The color palette is a mix of muted grays, blacks, and metallic tones, contrasted sharply by the bold red and black imagery on the TV screen. The overall style is reminiscent of a retro-futuristic office, with a subtle sense of tension and drama, captured from a straight-on, eye-level camera angle with a shallow depth of field that keeps the focus on the desk and its contents.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:27.205555",
+  "word_count": 194,
+  "error_message": null
+}

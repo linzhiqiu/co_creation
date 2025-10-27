@@ -1,0 +1,12 @@
+{
+  "image_filename": "518ac056-19ec-43a3-b409-d74948951999.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary, rugged man with a shaved head sits at a small round table in a dimly lit, empty bar or nightclub. He wears a dark, simple robe or jacket, his expression stoic and contemplative as he gazes directly at the camera, creating a sense of intensity and introspection. The background is softly blurred, filled with empty chairs and tables, and illuminated by a deep, saturated red glow from neon and ambient lighting, casting dramatic shadows and bathing the entire scene in a moody, almost surreal atmosphere. The lighting is low and cinematic, with warm highlights from table lamps and reflections on glass surfaces, enhancing the sense of isolation and tension. The composition is centered and symmetrical, with a shallow depth of field that keeps the focus tightly on the man while the background recedes into a soft, dreamlike blur. The overall style is reminiscent of neo-noir or late 20th-century science fiction, evoking a sense of melancholy, suspense, and psychological depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:27.019167",
+  "word_count": 161,
+  "error_message": null
+}

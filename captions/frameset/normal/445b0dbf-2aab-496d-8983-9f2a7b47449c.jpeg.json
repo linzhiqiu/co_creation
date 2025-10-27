@@ -1,0 +1,12 @@
+{
+  "image_filename": "445b0dbf-2aab-496d-8983-9f2a7b47449c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single dancer is captured mid-movement in a minimalist studio setting, their silhouette sharply defined against a smooth, gradient backdrop that transitions from cool purples and blues on the left to warm pinks and reds on the right. The subject, a young person with dark skin and hair styled in a small topknot, wears a patterned, long-sleeve shirt and loose, high-waisted trousers. Their posture is dynamic and expressive, leaning forward with bent knees and arms slightly behind, suggesting motion and rhythm. The lighting is soft yet dramatic, casting elongated, colored shadows on the floor that echo the hues of the background. The overall composition is cinematic, with a shallow depth of field that keeps the dancer in crisp focus while the background remains smooth and abstract. The mood is vibrant and energetic, evoking the atmosphere of a contemporary dance performance or a stylized music video, with a strong emphasis on color, movement, and emotional intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:40.288336",
+  "word_count": 155,
+  "error_message": null
+}

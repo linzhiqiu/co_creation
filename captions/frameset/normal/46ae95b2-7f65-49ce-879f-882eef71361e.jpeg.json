@@ -1,0 +1,12 @@
+{
+  "image_filename": "46ae95b2-7f65-49ce-879f-882eef71361e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, dramatic scene set in a dimly lit warehouse, with a group of serious-looking men gathered closely together. In the foreground, three men sit at a table, intently focused on their laptop screens; one wears a headset and a white shirt, another wears a plaid shirt, and the third has a dark jacket and a cap. Behind them, a larger group of men—some in suits and ties, others in more casual attire—stand in a loose semicircle, all staring forward with expressions of concentration, concern, or anticipation. The background is filled with stacked cardboard boxes, suggesting a makeshift operations center. The color palette is muted, dominated by grays, blues, and browns, with soft, diffused lighting that casts gentle shadows and heightens the sense of suspense. The camera angle is eye-level, capturing the group in a wide shot that emphasizes their collective focus and the gravity of the moment. The overall style is cinematic and realistic, evoking the atmosphere of a high-stakes police operation or surveillance scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:27.771054",
+  "word_count": 166,
+  "error_message": null
+}

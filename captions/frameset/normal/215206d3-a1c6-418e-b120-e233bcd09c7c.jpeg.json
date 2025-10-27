@@ -1,0 +1,12 @@
+{
+  "image_filename": "215206d3-a1c6-418e-b120-e233bcd09c7c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-resolution digital image of a computer screen displaying rows of numerical data and code. The composition is angled diagonally, creating a dynamic sense of depth and movement across the frame. The numbers and text are rendered in a monospaced font, with most of the data in white and light purple hues, while select lines and elements are highlighted in bright yellow, drawing the viewer’s attention. The background is a deep black, enhancing the contrast and making the text pop vividly. The lighting is even and cool, with no visible reflections or glare, emphasizing the clarity and sharpness of the digital display. The overall style is modern and technical, evoking the atmosphere of data analysis, programming, or cybersecurity. The image conveys a sense of complexity and precision, suitable for illustrating themes of technology, information processing, or digital environments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:01.870511",
+  "word_count": 139,
+  "error_message": null
+}

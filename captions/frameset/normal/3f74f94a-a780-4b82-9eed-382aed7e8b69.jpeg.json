@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f74f94a-a780-4b82-9eed-382aed7e8b69.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-key studio portrait featuring a young woman standing against a seamless, pure white background. She is positioned slightly off-center, facing away from the camera but turning her head to look back over her shoulder, her expression neutral and contemplative. She has long, dark hair and wears a sleeveless, black-and-white striped top paired with a short, black skirt. Her legs are adorned with white knee-high socks featuring bold red stripes. The lighting is bright and direct, casting a sharp, well-defined shadow of her figure onto the white wall, adding depth and visual interest to the otherwise stark setting. The overall color palette is monochromatic with striking accents of red, and the composition emphasizes negative space, evoking a sense of isolation and introspection. The style is clean and modern, with a cinematic quality reminiscent of fashion editorials, utilizing a wide-angle lens and a slightly low camera angle to enhance the subject’s presence within the frame.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:56.660241",
+  "word_count": 156,
+  "error_message": null
+}

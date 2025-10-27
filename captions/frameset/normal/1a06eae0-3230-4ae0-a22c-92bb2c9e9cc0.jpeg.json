@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a06eae0-3230-4ae0-a22c-92bb2c9e9cc0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a modern smartphone, the screen illuminated with a dark-themed hacker interface. The phone displays lines of code and technical text in green, red, and white, with a prominent virtual keyboard overlay and the words \"Reset Complete\" highlighted in red. The hand is positioned in the lower left of the frame, fingers curled naturally around the device, with the thumb poised near the screen. The background is softly blurred, suggesting an indoor setting with muted, neutral tones and diffused daylight filtering in, creating a subtle contrast between the bright phone screen and the subdued environment. The overall mood is tense and secretive, evoking a cinematic, cyber-thriller atmosphere. The composition uses shallow depth of field to focus attention on the phone and the hand, with soft, natural lighting and a realistic, documentary-style color palette.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:28.248866",
+  "word_count": 139,
+  "error_message": null
+}

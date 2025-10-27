@@ -1,0 +1,12 @@
+{
+  "image_filename": "39ec8e95-350f-4a58-a8c6-2bda6f26e464.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, architecturally inspired conference room with a strong emphasis on natural materials and clean lines. The scene is composed from a low, wide-angle perspective at the head of a long, polished concrete table, creating a sense of depth and drawing the viewer’s eye toward the far end of the room. The table is flanked by dark, leather-upholstered chairs, their tops just visible at the edges of the frame, suggesting a professional and inviting atmosphere.\n\nThe walls are clad in horizontal, light-toned wooden planks, adding warmth and texture to the space. At the far end, a sleek, matte-black accent wall features a large, wall-mounted flat-screen television, above which is a prominent, illuminated sign reading “VERA ICONICA ARCHITECTURE” in elegant, modern typography. To the left, architectural renderings and photographs are displayed on easels, hinting at the creative and collaborative nature of the environment.\n\nThe lighting is soft and even, with subtle reflections on the table’s surface, contributing to a calm, focused mood. The color palette is dominated by natural wood tones, deep blacks, and muted grays, with occasional highlights from the signage and artwork. The overall style is contemporary and minimalist, with a cinematic, almost documentary feel—emphasizing clarity, professionalism, and a refined sense of design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:04.050225",
+  "word_count": 204,
+  "error_message": null
+}

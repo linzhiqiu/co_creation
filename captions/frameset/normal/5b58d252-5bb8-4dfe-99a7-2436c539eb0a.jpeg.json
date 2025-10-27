@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b58d252-5bb8-4dfe-99a7-2436c539eb0a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-contrast black and white portrait of a rugged middle-aged man lying on his back, his face filling the frame. The man’s expression is stoic and intense, with deep-set eyes and weathered skin marked by visible scars and bruises. His right eye is covered by a large, roughly circular medical bandage, secured with strips of white tape radiating outward, suggesting recent injury or surgery. The uncovered left eye stares directly at the camera, conveying a sense of resilience and pain. The lighting is dramatic, casting sharp shadows that accentuate the contours and texture of his face, while the background is softly blurred, keeping the focus entirely on the subject. The overall style is gritty and cinematic, reminiscent of classic noir or graphic novel aesthetics, with a shallow depth of field and a somber, introspective mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:24.142592",
+  "word_count": 136,
+  "error_message": null
+}

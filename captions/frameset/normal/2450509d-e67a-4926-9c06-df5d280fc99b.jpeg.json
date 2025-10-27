@@ -1,0 +1,12 @@
+{
+  "image_filename": "2450509d-e67a-4926-9c06-df5d280fc99b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody interior scene set at night, featuring a solitary child sitting at a cluttered desk in a dimly lit bedroom. The child is viewed from behind, silhouetted against the warm, golden glow of a small desk lamp that casts a soft pool of light over scattered papers, drawings, and personal items pinned to a densely decorated corkboard. The rest of the room recedes into deep shadow, with only faint ambient light filtering through a curtained window on the left, hinting at the world outside. The overall color palette is subdued, dominated by rich browns, muted greens, and warm amber tones, evoking a sense of quiet introspection and solitude. The composition uses a wide shot with a shallow depth of field, focusing on the child and the illuminated workspace while the foreground and background remain softly blurred. The atmosphere is intimate and contemplative, with a touch of nostalgia, reminiscent of classic coming-of-age films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:12.348127",
+  "word_count": 156,
+  "error_message": null
+}

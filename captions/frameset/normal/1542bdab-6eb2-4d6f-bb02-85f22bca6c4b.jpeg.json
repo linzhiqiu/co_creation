@@ -1,0 +1,12 @@
+{
+  "image_filename": "1542bdab-6eb2-4d6f-bb02-85f22bca6c4b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, high-fashion scene set within a futuristic, geometric environment. Centered in the composition is a poised woman wearing a dramatic, strapless black evening gown with a flowing, semi-sheer train. She stands confidently with arms raised, lightly touching the sides of a glowing, white triangular frame that surrounds her. The background is a series of repeating, illuminated triangular arches, creating a tunnel effect with strong lines and deep perspective. The floor is glossy and reflective, mirroring both the woman and the geometric shapes, enhancing the sense of depth and symmetry. The color palette is stark and modern, dominated by black, white, and subtle silvery tones. Lighting is crisp and high-contrast, casting soft highlights on the subject and emphasizing the clean, angular architecture. The overall style is cinematic and avant-garde, with a sense of elegance and power, reminiscent of a high-end fashion editorial or a music video. The camera angle is straight-on at eye level, perfectly aligned with the central axis of the triangles, creating a visually arresting and balanced composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:41.272421",
+  "word_count": 170,
+  "error_message": null
+}

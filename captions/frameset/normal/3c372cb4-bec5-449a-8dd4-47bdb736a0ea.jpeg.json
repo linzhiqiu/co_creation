@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c372cb4-bec5-449a-8dd4-47bdb736a0ea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure sits slumped against a dark, textured wall, partially illuminated by a shaft of moody, directional light. The subject wears a pale beige or off-white jacket with a hood pulled up, casting subtle shadows across the fabric. Most strikingly, the figure’s face is obscured by a bright yellow crash test dummy mask, complete with a simple, expressionless mouth, two black dot eyes, and a distinctive black-and-yellow target symbol on the forehead. The mask’s smooth, geometric features contrast sharply with the natural folds and textures of the clothing. The background is blurred and shadowy, suggesting an urban or industrial setting, but details are indistinct, focusing all attention on the subject. The color palette is muted and cool, dominated by grays, beiges, and the vivid yellow of the mask. The overall style is cinematic and slightly surreal, with a shallow depth of field and a sense of isolation and introspection. The composition is off-center, with the figure leaning into the left side of the frame, evoking a mood of quiet melancholy and enigmatic narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:55.575651",
+  "word_count": 174,
+  "error_message": null
+}

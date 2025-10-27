@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c564cd9-ba09-4f88-98c7-64924ab75434.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA serene, cinematic landscape of rolling mountain ranges at dusk, captured from a high vantage point. The scene features multiple layers of mountains receding into the distance, each ridge softly silhouetted against the hazy sky. The color palette is dominated by deep blues, muted purples, and gentle earth tones, with the fading sunlight casting a warm, golden glow along the peaks and ridges. The lighting is soft and diffused, creating a tranquil, almost ethereal atmosphere. The composition emphasizes depth, with the foreground hills in shadow and the distant mountains gradually fading into mist, evoking a sense of vastness and calm. The overall style is reminiscent of a wide-angle landscape shot in a nature documentary or an artful film, with a subtle gradient in the sky and a gentle interplay of light and shadow across the terrain. No human presence or man-made structures are visible, allowing the natural beauty and quiet majesty of the mountains to take center stage.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:15.466649",
+  "word_count": 159,
+  "error_message": null
+}

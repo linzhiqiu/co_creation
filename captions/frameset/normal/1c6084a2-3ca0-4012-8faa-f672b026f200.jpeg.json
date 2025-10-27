@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c6084a2-3ca0-4012-8faa-f672b026f200.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic still life featuring a scattered arrangement of black-and-white photographs spread across a dark, textured surface. The photos vary in size and orientation, some overlapping, creating a sense of casual disarray. Each photograph captures different subjects: portraits of individuals in candid or contemplative poses, a few outdoor scenes with blurred backgrounds, and some images with intricate details like tattoos or graffiti. The lighting is soft and diffused, casting gentle shadows that enhance the nostalgic, almost melancholic atmosphere. The overall color palette is monochromatic, emphasizing deep blacks, silvery grays, and bright whites, with high contrast that brings out the textures of both the photographs and the surface beneath them. The composition is intimate and slightly off-center, as if viewed from above at a slight angle, evoking the feeling of sifting through old memories. The style is reminiscent of classic film noir or vintage photography, with a shallow depth of field that keeps the focus on the central cluster of images while the edges blur subtly into darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:17.557175",
+  "word_count": 168,
+  "error_message": null
+}

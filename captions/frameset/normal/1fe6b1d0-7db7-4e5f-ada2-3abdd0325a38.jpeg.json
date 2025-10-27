@@ -1,0 +1,12 @@
+{
+  "image_filename": "1fe6b1d0-7db7-4e5f-ada2-3abdd0325a38.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody close-up of a classic round wall clock mounted on a dark, matte green wall. The clock face is black with bold white numerals and simple white hour and minute hands, showing the time as 3:55. The clock is slightly off-center to the right, with a subtle vignette effect that deepens the shadows around the edges, drawing focus to the illuminated clock face. The lighting is soft and directional, casting gentle highlights on the clock’s glass and creating a faint, diffuse shadow on the wall behind it. The overall color palette is subdued, dominated by deep greens, blacks, and whites, evoking a quiet, contemplative atmosphere. The composition is minimalist, with no other objects or distractions, emphasizing the passage of time and a sense of stillness. The style is reminiscent of a suspenseful film scene, with a shallow depth of field and a slightly tilted camera angle to add a touch of unease and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:36.041481",
+  "word_count": 157,
+  "error_message": null
+}

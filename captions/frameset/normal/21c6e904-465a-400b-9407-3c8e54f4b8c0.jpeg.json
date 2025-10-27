@@ -1,0 +1,12 @@
+{
+  "image_filename": "21c6e904-465a-400b-9407-3c8e54f4b8c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling electronics store checkout scene, captured in a wide, cinematic frame with a shallow depth of field. In the foreground, a middle-aged man with glasses and a slightly anxious expression leans over the checkout counter, holding a large, boxed flat-screen TV labeled \"CASH BACK.\" He is dressed in a green jacket and is reaching toward the cashier, who sits facing away from the camera in a bright yellow vest with blue trim, intently scanning items at the register. The counter is cluttered with various electronics and small appliances, including a boxed coffee maker and a toaster, as well as snacks like chips. In the background, other customers wait in line, some engaged in conversation, others focused on their purchases. The store interior is brightly lit with cool, even lighting, and shelves stocked with products are visible along the sides. The overall color palette features muted tones with pops of yellow and blue, lending a realistic, everyday atmosphere. The composition emphasizes the chaotic energy of a busy retail environment, with a slight sense of urgency and anticipation in the air.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:18.271422",
+  "word_count": 180,
+  "error_message": null
+}

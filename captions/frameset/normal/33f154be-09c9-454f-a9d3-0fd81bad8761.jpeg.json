@@ -1,0 +1,12 @@
+{
+  "image_filename": "33f154be-09c9-454f-a9d3-0fd81bad8761.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, intimate interior scene focused on the soft glow of an old CRT computer monitor, which dominates the right side of the composition. The monitor displays a vintage car listing on a Turkish website (\"sahibinden.com\"), with several photos of an old, dark-colored sedan prominently featured. The screen’s interface is slightly dated, evoking early 2000s internet aesthetics, with muted whites and grays, accented by the yellow and red of the website’s branding. The left side of the frame is shrouded in shadow, with only the faint silhouette of a person’s shoulder and head visible, bathed in cool blue light, suggesting their quiet concentration as they browse. The background is softly blurred, revealing hints of a tidy desk with a printer, a few pens in a holder, and warm ambient lighting that contrasts with the monitor’s cold glow. The overall color palette is a moody interplay of cool blues and warm ambers, creating a nostalgic, contemplative atmosphere. The camera angle is slightly over-the-shoulder, with a shallow depth of field that keeps the focus on the screen’s details while the surrounding environment gently recedes into softness. The scene feels cinematic and introspective, capturing a private, late-night moment of longing or decision-making.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:46.407264",
+  "word_count": 200,
+  "error_message": null
+}

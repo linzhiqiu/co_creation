@@ -1,0 +1,12 @@
+{
+  "image_filename": "616ecbc4-5a2d-4576-81ff-38d5b2de11ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A stack of old, hardcover books is arranged in a slightly haphazard pile, their textured cloth covers and worn, frayed edges suggesting decades of use. The titles on the spines are partially visible, rendered in faded gold and black lettering, hinting at classic literature or historical volumes. The scene is bathed in dramatic, high-contrast black and white lighting, casting deep, angular shadows across the books and the wooden surface beneath them. The background consists of vertical wooden panels, their grain subtly visible, adding to the vintage, scholarly atmosphere. The camera angle is low and close, emphasizing the heft and age of the books, with a shallow depth of field that keeps the focus on the foreground textures while softly blurring the background. The overall mood is contemplative and nostalgic, evoking the quiet reverence of an old library or study, with a cinematic noir quality to the lighting and composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:52.677304",
+  "word_count": 149,
+  "error_message": null
+}

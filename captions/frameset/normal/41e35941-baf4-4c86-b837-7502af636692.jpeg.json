@@ -1,0 +1,12 @@
+{
+  "image_filename": "41e35941-baf4-4c86-b837-7502af636692.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A rugged, weathered man with a scruffy beard and intense, contemplative expression stands in dramatic half-shadow, gazing upward as if searching for meaning or redemption. He wears a wide-brimmed, dust-stained hat and a rough, old-fashioned shirt, evoking the attire of a 19th-century gunslinger or outlaw. The lighting is low and moody, casting deep shadows across his face and emphasizing the texture of his skin, while a warm, golden glow highlights the edges of his features, creating a cinematic chiaroscuro effect.\n\nBehind him, filling much of the background, is a large, detailed religious mural depicting the crucifixion of Christ, rendered in muted earth tones and faded by time. The sacred imagery looms over the man, adding a sense of gravity and spiritual tension to the scene. The composition is tight and intimate, with the camera positioned at a slightly low angle, drawing the viewer’s eye upward along with the subject’s gaze. The overall color palette is dominated by browns, ochres, and sepia tones, enhancing the sense of age and moral weight. The style is reminiscent of classic Western cinema, with a painterly, almost operatic quality that underscores the emotional and existential drama of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:50.855192",
+  "word_count": 194,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "22bebf7f-f243-4552-a176-6ab73499b6b1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a cluttered desk covered with several sheets of paper, each filled with dense, technical data and charts. The focal point is on a few prominently placed documents: one features a large, empty grid with faint blue and red lines, another displays a colorful horizontal bar chart with various categories, and a third is a weathered, slightly crumpled spreadsheet filled with rows and columns of small, typed numbers and text. The papers are slightly askew, suggesting hurried or intensive use. The color palette is muted and earthy, dominated by off-whites, faded yellows, and the subtle hues of ink and highlighter. The lighting is soft and natural, casting gentle shadows that enhance the texture of the paper and the sense of depth. The overall style is realistic and cinematic, with a shallow depth of field that blurs the background, drawing attention to the tactile details and imperfections of the documents. The composition evokes a mood of focused analysis or investigation, as if the viewer has stumbled upon the workspace of a diligent researcher or analyst in the midst of a complex project.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:38.812469",
+  "word_count": 184,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "627b4ca7-0128-44a1-a6dd-a34f7a163cdf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic nighttime street scene set during a traditional Indian festival. The central focus is a human pyramid composed of athletic young men, all dressed in matching bright orange shirts and shorts, each shirt emblazoned with a white circular emblem on the back. The pyramid is tall and narrow, with each layer carefully balanced, culminating in a small child at the very top, reaching upward with one arm to grasp a garland of marigold flowers strung high above the street. The expressions and body language of the participants convey intense concentration and teamwork.\n\nThe background features old, multi-story buildings with balconies and visible architectural details, their facades partially illuminated by warm, ambient street lighting. Overhead, a tangle of electrical wires crisscrosses the scene, adding urban texture. The sky is a deep, inky black, emphasizing the dramatic contrast between the warmly lit subjects and the darkness above. The color palette is dominated by rich oranges, warm yellows, and deep shadows, creating a cinematic, high-contrast look. The camera angle is low and slightly off-center, looking up at the pyramid to accentuate its height and the daring nature of the act. The overall style is documentary realism with a touch of cinematic flair, capturing the energy, tradition, and communal spirit of the festival.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:20.345409",
+  "word_count": 211,
+  "error_message": null
+}

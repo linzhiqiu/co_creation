@@ -1,0 +1,12 @@
+{
+  "image_filename": "5eb0848d-d8b7-42d5-a36d-63afcc6217cd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set inside a modest, warmly lit interior, focusing on a flat-screen television mounted above a metallic appliance. The TV screen dominates the composition, displaying a dramatic \"WANTED\" alert in bold red and white. The alert features a menacing, hand-drawn sketch of a snarling, wolf-like creature with sharp fangs, pointed ears, and intense eyes, evoking a sense of danger and urgency. The text warns of a \"dangerous creature\" escaped from a laboratory, with instructions not to approach and to call authorities if seen. The background consists of soft, peach-toned wooden paneling, adding a cozy yet slightly dated atmosphere. The lighting is even and natural, with no harsh shadows, emphasizing the clarity of the alert. The overall style is reminiscent of a suspenseful thriller or supernatural drama, with a focus on realism and tension. The camera angle is eye-level, directly facing the TV, creating a sense of immediacy and drawing the viewer into the unfolding news event.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:43.892460",
+  "word_count": 159,
+  "error_message": null
+}

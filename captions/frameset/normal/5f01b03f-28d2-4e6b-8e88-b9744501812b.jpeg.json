@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f01b03f-28d2-4e6b-8e88-b9744501812b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a red pen, poised above a vintage, slightly yellowed paper map. The map is detailed, showing roads, rivers, and state boundaries, with the city of Jackson, Mississippi prominently labeled near the center. The pen is drawing or tracing a bold red line along a route that passes through Jackson, suggesting a journey or travel plan. The lighting is dim and warm, casting soft shadows and creating an intimate, contemplative mood. The focus is sharp on the pen tip and the map’s surface, while the hand and background fade gently into a subtle blur, emphasizing the act of marking the map. The overall style is cinematic and atmospheric, evoking a sense of adventure, planning, or escape, with a muted, earthy color palette dominated by tans, browns, and the striking red of the pen. The composition is tight and immersive, drawing the viewer’s attention to the tactile interaction between the hand, pen, and map.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:49.565684",
+  "word_count": 159,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e55169b-2ed2-4299-8753-61333561ec3a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A haunting, ethereal portrait of a young girl rendered in translucent red light, her expression solemn and enigmatic. The background is dark and blurred, with soft, moody lighting and subtle blue-green hues, evoking a futuristic, holographic atmosphere. The composition is intimate, cinematic, and surreal.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:25.701975",
+  "word_count": 44,
+  "error_message": null
+}

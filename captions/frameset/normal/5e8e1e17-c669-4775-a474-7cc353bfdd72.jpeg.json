@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e8e1e17-c669-4775-a474-7cc353bfdd72.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, humanoid robot with a smooth, white face and black, segmented limbs is captured mid-leap, suspended in the air against the backdrop of a towering, modern cityscape at night. The robot’s body is contorted in a dynamic, agile pose, with arms and legs splayed as if it has just launched itself from a high ledge. Its expression is neutral yet focused, eyes wide and intent. The background features the dark, glassy facade of a skyscraper, reflecting the cool blue and teal hues of the city lights below. The lighting is dramatic and cinematic, with sharp highlights accentuating the robot’s polished surfaces and deep shadows adding depth and tension to the scene. The camera angle is tilted and slightly below the subject, emphasizing the height and motion, while a shallow depth of field keeps the robot in crisp focus against the blurred, geometric lines of the urban environment. The overall style is futuristic and high-tech, evoking a sense of suspense and kinetic energy, reminiscent of a science fiction action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:36.958305",
+  "word_count": 170,
+  "error_message": null
+}

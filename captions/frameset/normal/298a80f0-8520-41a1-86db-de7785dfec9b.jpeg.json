@@ -1,0 +1,12 @@
+{
+  "image_filename": "298a80f0-8520-41a1-86db-de7785dfec9b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man works intently under the hood of an old car in a dimly lit garage at night. The scene is illuminated primarily by a single, warm, yellowish work light positioned inside the engine bay, casting dramatic shadows across the man's face and hands as he leans over the engine. He wears a dark, long-sleeved shirt with the sleeves rolled up, suggesting manual labor and focus. His expression is serious and concentrated, partially obscured by the interplay of light and shadow. The background is shrouded in darkness, with only vague hints of the garage interior visible, emphasizing the isolation and intimacy of the moment. The color palette is dominated by deep blues and muted earth tones, punctuated by the golden glow of the work light. The overall style is cinematic and moody, with a shallow depth of field that keeps the focus tightly on the man and the car, while the rest of the environment fades into obscurity. The camera angle is slightly off-center, at about chest height, creating a sense of voyeurism and immersion in the quiet, contemplative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:02.652432",
+  "word_count": 181,
+  "error_message": null
+}

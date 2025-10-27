@@ -1,0 +1,12 @@
+{
+  "image_filename": "415b80b7-ca02-4497-a34a-695439e3a397.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, futuristic humanoid robot stands in the foreground, its smooth, white, and glossy exterior reflecting the soft, diffused daylight. The robot’s head is rounded and featureless except for a dark, reflective visor that subtly mirrors the muted cityscape behind it. The word \"HONDA\" is visible in red on its upper arm, hinting at its origin. The background is softly blurred, with indistinct outlines of modern buildings and a hazy, sunlit sky, creating a shallow depth of field that draws focus to the robot. The color palette is subdued and neutral, dominated by whites, grays, and gentle beige tones, evoking a calm, contemplative mood. The lighting is natural and slightly overcast, casting gentle highlights and soft shadows on the robot’s surface. The overall composition is cinematic, with a low, slightly off-center camera angle that gives the robot a sense of presence and quiet dignity, as if it is thoughtfully observing the world around it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:38.430271",
+  "word_count": 154,
+  "error_message": null
+}

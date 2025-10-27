@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d049394-3357-4d53-b7b2-5b41f15f8e99.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A haunting, cinematic night scene set on a deserted rural road, captured in high-contrast black and white. The composition centers on a solitary human figure standing upright in the middle of the road, illuminated starkly by a single, intense beam of light—suggesting the headlights of a car. The figure’s features are overexposed, glowing almost ghostlike, with their body and face turned slightly to the side, holding an indistinct object close to their chest. The surrounding environment is shrouded in deep shadow, with only faint outlines of trees and foliage visible at the edges of the frame, creating a tunnel-like effect. The wet surface of the road reflects the harsh light, adding to the eerie, surreal atmosphere. The overall mood is tense and mysterious, evoking a sense of isolation and suspense. The camera angle is low, as if viewed from inside a vehicle, with a shallow depth of field that keeps the background blurred and the focus tightly on the illuminated figure. The style is reminiscent of psychological thriller or horror films, with a minimalist, almost dreamlike quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:14.392728",
+  "word_count": 177,
+  "error_message": null
+}

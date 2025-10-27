@@ -1,0 +1,12 @@
+{
+  "image_filename": "452b6b8f-9656-46a7-aa3e-5c21195cc5cf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nighttime urban street scene viewed from an elevated, slightly diagonal angle, capturing a quiet intersection in a European city. The street is mostly empty, with a single white car driving through the intersection, its headlights casting a soft glow on the wet pavement. A lone cyclist rides along the crosswalk, adding a sense of solitude and stillness. The buildings lining the street are tall and elegant, with large windows and ornate architectural details, some illuminated by the cool, bluish streetlights. Storefronts with red and blue signage and display windows are visible, their interiors dimly lit. A digital billboard on the sidewalk displays a human face, adding a modern, slightly surreal touch to the otherwise classic cityscape. The color palette is dominated by cool blues, grays, and muted whites, with subtle reflections on the damp ground enhancing the moody, cinematic atmosphere. The lighting is low and atmospheric, with deep shadows and selective highlights, evoking a sense of quiet anticipation or mystery. The overall style is reminiscent of a neo-noir film, with a strong sense of depth, urban isolation, and visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:01.079140",
+  "word_count": 181,
+  "error_message": null
+}

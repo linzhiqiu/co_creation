@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c745c6b-3e56-4268-9d10-84f4bdca3088.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene featuring a futuristic, angular sports car driving down an urban street. The car is positioned front and center, low to the ground, with a striking geometric pattern on its hood and a bold, continuous blue LED light strip forming a sharp, angular shape across the front grille. The vehicle’s design is sleek and aggressive, with faceted surfaces and a matte finish that reflects the city lights in a subtle, stylized manner. Flanking the main car, other vehicles trail behind, their headlights casting long beams and creating a sense of depth and motion. The background is a blur of city buildings and overpasses, illuminated by scattered streetlights and the soft glow of distant windows. The overall color palette is cool and dark, dominated by deep blues, blacks, and silvery highlights, with the blue LED lights providing a vivid focal point. The camera angle is low and head-on, emphasizing the car’s dominance and futuristic aesthetic, while the shallow depth of field keeps the focus on the main vehicle, allowing the background to recede into a moody, atmospheric blur. The lighting is dramatic, with strong contrasts and reflections on the wet pavement, evoking a high-tech, neo-noir ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:51.345344",
+  "word_count": 199,
+  "error_message": null
+}

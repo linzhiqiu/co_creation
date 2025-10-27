@@ -1,0 +1,12 @@
+{
+  "image_filename": "2285f37f-d2a6-4267-91b1-91c8112f99de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a digital display screen set against a dark, almost black background. The screen emits a cool, blue glow, illuminating the immediate area with a soft, diffused light. The display features pixelated, dot-matrix style text in a pale blue-white color. The upper line reads \"STEP FIVE\" in all capital letters, while the lower line shows a digital timer counting down, currently displaying \"00:00:00:58:34\". The composition is minimalistic and focused, with the screen centered horizontally and occupying the lower third of the frame, creating a sense of anticipation and technological precision. The overall mood is clinical and suspenseful, reminiscent of a high-stakes moment in a science fiction or thriller film. The camera angle is straight-on, with a shallow depth of field that keeps the display in sharp focus while the surrounding darkness fades into obscurity, emphasizing the importance of the countdown and the step indicated.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:31.843786",
+  "word_count": 147,
+  "error_message": null
+}

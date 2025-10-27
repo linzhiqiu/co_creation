@@ -1,0 +1,12 @@
+{
+  "image_filename": "426ce388-76db-47b6-8594-ad865e9e3ab9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a dimly lit, industrial sci-fi interior, evoking the classic Star Wars aesthetic. The composition features two iconic droids as the central subjects: one is a tall, humanoid robot with a polished, reflective gold exterior, intricate mechanical detailing, and expressive, glowing eyes. The other is a compact, dome-shaped astromech droid with a white and blue color scheme, metallic panels, and a single illuminated sensor eye. The gold humanoid stands upright, hands resting at its sides, exuding a slightly anxious or uncertain demeanor, while the astromech droid is positioned in the foreground, partially turned toward the viewer, its lights glowing with a sense of alertness. The background is a textured, utilitarian wall with exposed pipes and industrial fixtures, softly illuminated by warm, diffused lighting that casts gentle shadows and highlights the metallic surfaces of the droids. The color palette is dominated by muted earth tones, metallic golds, and cool blues, with subtle reflections and a shallow depth of field that keeps the focus on the droids while softly blurring the background. The overall mood is nostalgic, blending a sense of wonder and familiarity, with a touch of cinematic grandeur reminiscent of classic space opera films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:05.002364",
+  "word_count": 200,
+  "error_message": null
+}

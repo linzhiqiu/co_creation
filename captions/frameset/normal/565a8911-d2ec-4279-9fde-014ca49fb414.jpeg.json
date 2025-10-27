@@ -1,0 +1,12 @@
+{
+  "image_filename": "565a8911-d2ec-4279-9fde-014ca49fb414.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a middle-aged man with a stern, contemplative expression, partially illuminated by a dramatic, low-key lighting setup. The man wears thin, wire-rimmed glasses that catch a subtle reflection of light, adding a glint to his otherwise shadowed face. His features are sharply defined by the interplay of light and darkness, with one side of his face bathed in soft, moody illumination while the other fades into deep shadow, creating a sense of mystery and tension. He is dressed in a formal suit jacket, hinting at a professional or authoritative role. The background is out of focus, revealing a grid of window panes with faint, diffused light filtering through, suggesting an interior setting at night or dusk. The overall color palette is muted and cool, dominated by deep blues, blacks, and soft highlights, evoking a noir or thriller atmosphere. The composition uses a shallow depth of field and a slightly off-center framing, with the man glancing over his shoulder toward the camera, heightening the sense of intrigue and psychological intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:19.693429",
+  "word_count": 173,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "425b6125-28d1-4518-87b5-1a50191dc1f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary blue van drives along a narrow, straight road that cuts through a vast, arid landscape. The scene is captured from a high, wide aerial perspective, emphasizing the isolation of the vehicle against the expansive, open terrain. The ground is dry and patchy, with muted earth tones—browns, tans, and faded oranges—interspersed with sparse vegetation. In the distance, low mountains and a long, elevated bridge stretch across the horizon, shrouded in a light haze that softens the background and adds depth. The lighting is natural and diffused, suggesting an overcast or late afternoon sky, casting gentle shadows and creating a subdued, contemplative mood. The overall style is cinematic, with a shallow depth of field that keeps the van and road in sharp focus while the foreground and background blur slightly, enhancing the sense of motion and vastness. The composition conveys a feeling of solitude, journey, and the quiet beauty of open spaces.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:00.819996",
+  "word_count": 152,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d14f843-ee1c-425f-949c-9c87f738ebe1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic close-up of a geometric, metallic structure composed of interconnected triangular facets. The surface is rendered in a warm, coppery bronze, with each facet reflecting soft, diffused light, creating intricate highlights and subtle shadows. The structure rises from the bottom of the frame, occupying the lower half, while the upper half fades into a smooth, dark, gradient background, evoking a sense of depth and mystery. The lighting is moody and low-key, emphasizing the sharp edges and three-dimensionality of the forms. The overall style is modern and abstract, with a focus on texture, materiality, and the interplay of light and shadow. The camera angle is slightly elevated, looking down at the structure, with a shallow depth of field that keeps the foreground crisp and lets the background softly blur, enhancing the sculptural quality and visual drama of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:15.712122",
+  "word_count": 141,
+  "error_message": null
+}

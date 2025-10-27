@@ -1,0 +1,12 @@
+{
+  "image_filename": "387ac7a7-d38b-4076-93b2-2e6851c727b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, low-angle shot looking up at a traditional Japanese wooden ceiling, composed of rectangular panels with a rich, warm brown finish. The lighting is soft and natural, casting a subtle, triangular shadow across the panels, suggesting the presence of an unseen figure or object above. The edges of the frame reveal hints of shoji screens and dark wooden beams, evoking the serene interior of a classic Japanese home. The color palette is dominated by deep ambers, warm browns, and muted off-whites, creating a tranquil and contemplative mood. The overall style is minimalist and atmospheric, with a shallow depth of field that keeps the focus on the texture and geometry of the ceiling, while the soft, diffused light enhances the sense of quiet intimacy and traditional elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:30.493319",
+  "word_count": 128,
+  "error_message": null
+}

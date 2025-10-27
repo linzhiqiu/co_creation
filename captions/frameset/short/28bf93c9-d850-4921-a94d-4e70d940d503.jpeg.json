@@ -1,0 +1,12 @@
+{
+  "image_filename": "28bf93c9-d850-4921-a94d-4e70d940d503.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a sunlit green park, scattered groups of people lounging on blankets, some sitting, some lying down, creating organic clusters across the grass. The scene is serene and spacious, with soft natural lighting and a vibrant, summery color palette, evoking a peaceful, leisurely afternoon.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:40.353576",
+  "word_count": 46,
+  "error_message": null
+}

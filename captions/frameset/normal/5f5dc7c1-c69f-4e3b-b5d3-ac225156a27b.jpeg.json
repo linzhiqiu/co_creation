@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f5dc7c1-c69f-4e3b-b5d3-ac225156a27b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, sun-drenched beach scene featuring a young woman with short, dark, tousled hair standing confidently in the foreground. She wears a pale yellow bikini top, her expression open and slightly surprised, as if caught mid-sentence or reacting to something off-camera. The background is softly blurred, with tall palm trees rising vertically and hints of sandy beach and distant figures or objects, evoking a classic Southern California vibe. The color palette is warm and natural, dominated by golden sunlight, sandy beige, and soft blue sky, with gentle shadows enhancing the midday brightness. The composition is centered and intimate, shot at chest level with a shallow depth of field that keeps the focus on the subject while subtly blending the background. The overall style is reminiscent of modern indie film, with a relaxed, candid atmosphere and a sense of spontaneous summer energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:57.021666",
+  "word_count": 142,
+  "error_message": null
+}

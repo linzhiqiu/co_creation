@@ -1,0 +1,12 @@
+{
+  "image_filename": "41c36bca-2567-443d-a1ec-a16418140473.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a tablet device, likely an iPad, dominates the frame, its screen displaying the Wi-Fi settings menu. The interface is crisp and modern, with a clean white and light blue color palette typical of iOS design. The left side of the screen shows the user profile, labeled \"Lisa Dalian,\" and a list of settings options such as Airplane Mode, Wi-Fi, Bluetooth, and Notifications. The Wi-Fi option is highlighted in blue, indicating it is selected, while the right side of the screen reveals available networks, with \"Ford EcoSport\" visible as a selectable option. The device is angled slightly, suggesting it rests on a dark, glossy surface, possibly inside a car, as hinted by the blurred metallic and black elements in the background. The lighting is soft and natural, with subtle reflections and a shallow depth of field that keeps the focus on the tablet's screen while the background remains out of focus. The overall mood is modern and tech-savvy, with a cinematic, documentary-style composition that emphasizes clarity and detail in the digital interface.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:45.962318",
+  "word_count": 175,
+  "error_message": null
+}

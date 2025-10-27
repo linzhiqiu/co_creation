@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e39395a-4c3a-4479-95bb-0df0dc60cdcd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling urban highway scene captured from an elevated, slightly diagonal vantage point, showcasing a multi-level overpass with several lanes of traffic. The upper roadway is filled with a mix of cars, SUVs, and a few motorcycles, all moving in the same direction, with some vehicles closely packed and others spaced apart, suggesting the ebb and flow of city traffic. The lower level of the highway is visible beneath the overpass, with additional cars traveling in the opposite direction, emphasizing the layered complexity of urban infrastructure.\n\nThe background features a cityscape with modern and older buildings, some with large windows and brick facades, interspersed with patches of greenery and trees. The lighting is bright and natural, suggesting late morning or early afternoon, with sunlight casting soft shadows and creating a warm, inviting atmosphere. The color palette is dominated by cool grays and blues of the concrete and vehicles, contrasted by the green of the trees and the subtle earth tones of the buildings.\n\nThe overall style is cinematic and realistic, with a sharp depth of field that keeps both the foreground traffic and the distant cityscape in clear focus. The composition emphasizes the sweeping curves of the overpass, drawing the viewer’s eye along the flow of traffic and into the heart of the city. The mood is dynamic yet orderly, capturing the everyday rhythm of urban life and the intricate choreography of modern transportation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:39.961910",
+  "word_count": 234,
+  "error_message": null
+}

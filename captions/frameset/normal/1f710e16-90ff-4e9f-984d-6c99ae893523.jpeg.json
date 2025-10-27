@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f710e16-90ff-4e9f-984d-6c99ae893523.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage CRT television sits atop a plain white table in the center of a dimly lit, industrial-style room. The TV is bulky, with a VCR or tape deck stacked on top, both rendered in muted grays and blacks, their surfaces catching soft, diffused highlights from the ambient lighting. The screen displays a minimalist digital graphic: a timeline marked \"1988\" connecting a glowing cyan triangle icon to a stylized folder or file symbol, all set against a deep black background. The room itself is out of focus, with shadowy walls and indistinct industrial elements, creating a sense of isolation and nostalgia. The color palette is cool and subdued, dominated by grays, blacks, and the cyan glow from the TV screen, which serves as the primary light source. The composition is cinematic, with a shallow depth of field that draws attention to the television and its screen, while the background remains blurred and mysterious. The overall mood is retro-futuristic and contemplative, evoking themes of memory, technology, and the passage of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:28.845623",
+  "word_count": 170,
+  "error_message": null
+}

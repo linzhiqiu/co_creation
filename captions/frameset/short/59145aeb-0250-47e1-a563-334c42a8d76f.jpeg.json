@@ -1,0 +1,12 @@
+{
+  "image_filename": "59145aeb-0250-47e1-a563-334c42a8d76f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up of a smooth, white marble sculpture of a human torso, viewed from the back at a dramatic angle. Subtle, realistic muscle definition and delicate surface textures are highlighted by soft, directional lighting, casting gentle shadows. The background is deep black, emphasizing the statue’s form and classical elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:28.240138",
+  "word_count": 49,
+  "error_message": null
+}

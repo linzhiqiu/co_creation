@@ -1,0 +1,12 @@
+{
+  "image_filename": "36789198-3d10-4eea-a881-a97c7b6261a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged, bald man with a calm, contemplative expression stands in the foreground, his face softly illuminated by diffused, cinematic lighting. He wears a light-colored, striped button-up shirt, open at the collar, which adds a subtle texture to his otherwise understated appearance. The background is a mesmerizing, abstract expanse filled with hundreds of softly glowing, multicolored fragments or lights, creating a sense of depth and wonder, as if he is surrounded by floating particles or stars in a cosmic void. The color palette is muted and cool, dominated by deep blues and gentle highlights of pink, green, and white from the scattered lights. The composition centers the man in a medium close-up, with a shallow depth of field that keeps his face in sharp focus while the background blurs into a dreamy, ethereal bokeh. The overall style is cinematic and introspective, evoking a sense of awe and quiet reflection, as if the subject is lost in thought amidst a universe of possibilities.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:43.711857",
+  "word_count": 162,
+  "error_message": null
+}

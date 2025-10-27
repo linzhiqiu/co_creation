@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a4d53bb-a52a-43d0-834d-a81eaf3bead3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic aerial view of a winding road cutting through a dense forest at golden hour. The scene is captured from directly above, emphasizing the contrast between the narrow, dark asphalt and the lush, sun-dappled treetops. A single white car travels along the road, its presence small against the vast expanse of greenery. The forest is a mix of tall coniferous and deciduous trees, their leaves glowing in warm shades of gold, green, and amber, suggesting late afternoon sunlight. The lighting is soft and natural, casting long shadows and creating a tranquil, almost nostalgic mood. The composition highlights the isolation and serenity of the journey, with the car as the focal point amidst the organic patterns of the forest canopy. The overall style is reminiscent of a contemplative road movie, with a shallow depth of field that keeps the treetops crisp while the road and car remain sharp and central. The color palette is dominated by earthy greens and yellows, with subtle hints of brown and gray, evoking a peaceful, introspective atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:14.442610",
+  "word_count": 172,
+  "error_message": null
+}

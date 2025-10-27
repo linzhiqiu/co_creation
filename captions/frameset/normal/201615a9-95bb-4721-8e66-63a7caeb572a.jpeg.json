@@ -1,0 +1,12 @@
+{
+  "image_filename": "201615a9-95bb-4721-8e66-63a7caeb572a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot focusing on a person’s hand holding a smartphone, with the screen displaying a confirmation page for an online order. The phone is centered in the frame, its screen crisp and legible, showing a blue and white interface with the words “Order Placed” prominently featured. The person’s thumb is visible, gently gripping the phone, while the rest of their hand is partially out of focus. In the blurred background, the handlebars of a bicycle are discernible, suggesting the subject is either about to ride or has just finished riding. The lighting is soft and natural, casting gentle highlights on the hand and phone, with a warm, neutral color palette that enhances the everyday, candid feel of the scene. The composition uses a cinematic over-the-shoulder perspective, immersing the viewer in the subject’s point of view and emphasizing the immediacy and satisfaction of completing an online purchase. The overall style is modern, clean, and documentary-like, with a focus on authenticity and relatable, real-life moments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:41.936017",
+  "word_count": 166,
+  "error_message": null
+}

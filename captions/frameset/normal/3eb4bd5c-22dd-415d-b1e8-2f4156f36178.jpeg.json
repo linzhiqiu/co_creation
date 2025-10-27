@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eb4bd5c-22dd-415d-b1e8-2f4156f36178.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young East Asian woman with long, straight black hair and blunt bangs, standing in a softly lit, empty school hallway. She is dressed in a dark, formal school uniform, and her expression is calm yet subtly enigmatic, with a hint of melancholy or introspection in her eyes as she glances over her shoulder toward the camera. The background is softly blurred, with warm, golden light streaming through large windows on the right, casting gentle highlights and deep shadows that create a moody, atmospheric effect. The composition uses a shallow depth of field to keep the focus on her face, while the corridor recedes into the distance, adding a sense of depth and quiet tension. The overall color palette is muted and warm, with earthy browns, soft golds, and gentle contrasts, evoking a contemplative, almost haunting mood reminiscent of classic Japanese cinema. The camera angle is slightly low and close, enhancing the subject’s presence and emotional resonance within the frame.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:46.890221",
+  "word_count": 165,
+  "error_message": null
+}

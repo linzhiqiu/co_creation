@@ -1,0 +1,12 @@
+{
+  "image_filename": "4daecd8b-b15b-41ce-8aa8-7203d4775b06.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a smartphone lying face-up on a textured green surface, possibly a cutting mat. The phone screen is illuminated, displaying a lock screen with a prominent notification banner at the top. The notification, written in Portuguese, features a message from \"Bernardo Mello\" and includes a small profile icon. The background of the lock screen is partially visible, showing the bold, white, partially cropped word \"WELCOME\" over a blurred, blue-toned image. The phone's edges are in sharp focus, while the background and foreground are softly blurred, creating a shallow depth of field. The lighting is warm and natural, casting gentle highlights and subtle shadows across the phone and the surface, evoking a sense of intimacy and immediacy. The overall color palette is a harmonious blend of cool blues from the screen and warm, earthy tones from the ambient light, with a slight cinematic grain that adds texture and realism to the scene. The composition is tight and intimate, drawing attention to the details of the notification and the tactile quality of the phone and surface.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:57.364209",
+  "word_count": 178,
+  "error_message": null
+}

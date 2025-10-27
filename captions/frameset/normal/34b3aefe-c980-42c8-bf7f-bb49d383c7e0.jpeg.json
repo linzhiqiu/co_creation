@@ -1,0 +1,12 @@
+{
+  "image_filename": "34b3aefe-c980-42c8-bf7f-bb49d383c7e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a row of industrial washing machines in a laundromat, captured from a low, angled perspective that emphasizes the metallic surfaces and digital control panels. The machines are lined up in a receding diagonal, creating a strong sense of depth and leading lines that draw the viewer’s eye into the background. The focus is sharp on the nearest control panel, displaying illuminated digital numbers and buttons, while the rest of the machines blur softly into the distance, suggesting a shallow depth of field. The color palette is cool and muted, dominated by silvery grays, blacks, and subtle blue tones, with occasional pops of yellow and red from the digital displays and labels. The lighting is soft and diffuse, likely from overhead fluorescent lights, giving the scene a clean, slightly clinical atmosphere. The overall style is modern and documentary-like, with a hint of urban realism, capturing the everyday functionality and quiet rhythm of a public laundromat.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:08.055291",
+  "word_count": 159,
+  "error_message": null
+}

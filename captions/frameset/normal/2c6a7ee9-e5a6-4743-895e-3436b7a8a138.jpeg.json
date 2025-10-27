@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c6a7ee9-e5a6-4743-895e-3436b7a8a138.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-resolution digital display interface inside a modern vehicle, showing four large, rectangular buttons stacked vertically. Each button is labeled with bold, white, sans-serif text: \"HYBRID\" at the top, followed by \"E-MODE,\" \"E-SAVE,\" and \"CHARGE.\" The \"E-MODE\" button is highlighted with a soft green glow, indicating it is currently selected. The background is a sleek gradient of dark gray to black, giving a sophisticated, high-tech feel. The lighting is even and cool, with subtle reflections and a glossy finish on the buttons, emphasizing a premium, futuristic automotive design. The composition is symmetrical and centered, with a shallow depth of field that keeps the focus on the interface, while the edges of the display fade gently into darkness, creating a cinematic, immersive atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:03.250574",
+  "word_count": 123,
+  "error_message": null
+}

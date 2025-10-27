@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cff775d-ba54-4e4e-b194-d61971b2106f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, wide-angle scene set at a nearly empty outdoor train station during golden hour, with the sun low on the horizon casting long, dramatic shadows across the platform. The central subject is a young, athletic man with dark skin, shirtless and wearing dark pants with a belt. He is captured mid-movement in a dynamic, expressive dance pose, his body contorted with arms bent and head tilted, conveying a sense of fluidity and emotion. The background features silhouetted trees, utility wires, and a few low buildings, all softly blurred to emphasize the dancer. The color palette is warm and muted, dominated by soft golds, browns, and subtle greens, with the sunlight creating a gentle halo effect and enhancing the textures of the scene. The overall style is naturalistic and evocative, with a shallow depth of field and a slightly desaturated, filmic look that highlights the interplay of light and shadow, evoking a mood of introspection and quiet energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:16.378815",
+  "word_count": 159,
+  "error_message": null
+}

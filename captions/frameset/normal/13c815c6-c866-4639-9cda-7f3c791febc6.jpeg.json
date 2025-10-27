@@ -1,0 +1,12 @@
+{
+  "image_filename": "13c815c6-c866-4639-9cda-7f3c791febc6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of an open antique book, its yellowed pages filled with dense French text and intricate black-and-white medieval illustrations. On the left page, a detailed drawing depicts a robed bishop or scholar, adorned with a mitre and holding a staff, standing on a checkered floor, surrounded by ornate patterns. On the right page, another illustration shows a saintly figure with a halo, holding a staff and accompanied by a smaller figure, rendered in a delicate, woodcut style. The lighting is warm and soft, casting gentle shadows that emphasize the texture and age of the paper, evoking a sense of history and reverence. The composition is symmetrical, with the book centered in the frame, and the camera angle is directly overhead, creating a flat, documentary feel. The color palette is dominated by sepia and golden tones, enhancing the vintage, scholarly atmosphere. The overall style is reminiscent of a historical documentary or an art film, focusing on the tactile beauty and intellectual richness of ancient manuscripts.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:03.532641",
+  "word_count": 166,
+  "error_message": null
+}

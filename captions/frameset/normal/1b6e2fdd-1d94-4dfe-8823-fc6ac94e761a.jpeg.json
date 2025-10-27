@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b6e2fdd-1d94-4dfe-8823-fc6ac94e761a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic image capturing the blurred motion of a shirtless young man running through a sun-dappled forest. The subject is seen from behind and slightly below, his muscular back and arms twisting as he sprints forward, creating a sense of urgency and movement. He wears dark athletic shorts, and his tousled hair catches the light. The background is a swirl of soft, out-of-focus trees and bright sky, rendered in cool blues and greens with streaks of white, emphasizing speed and disorientation. The lighting is natural, with sunlight filtering through the leaves, casting dappled highlights on the subject’s skin. The camera angle is low and tilted, enhancing the feeling of motion and energy, while a shallow depth of field keeps the runner in partial focus against the abstract, spinning forest. The overall style is raw and visceral, evoking a sense of freedom, escape, or pursuit, reminiscent of an art-house film or a dreamlike memory sequence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:55.216383",
+  "word_count": 155,
+  "error_message": null
+}

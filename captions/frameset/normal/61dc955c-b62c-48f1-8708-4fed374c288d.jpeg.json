@@ -1,0 +1,12 @@
+{
+  "image_filename": "61dc955c-b62c-48f1-8708-4fed374c288d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle cinematic shot of an outdoor basketball court under a partly cloudy sky, with soft, natural daylight illuminating the scene. In the foreground, a young person in a bright red shirt and dark pants is captured mid-action, jumping to make a layup at the basketball hoop. Their arms are extended upward, fingers just about to release the ball toward the basket, conveying a sense of motion and athleticism. The court is empty except for a single basketball resting on the ground, adding a sense of solitude and focus to the moment.\n\nIn the background, a modern mid-rise apartment building with glass balconies and white facades rises above the treeline, providing an urban context. Lush green trees and landscaped bushes frame the court, while a chain-link fence runs along the perimeter, subtly separating the recreational space from the city beyond. The sky is expansive, filled with large, fluffy clouds that diffuse the sunlight, creating a balanced, slightly cool color palette of blues, greens, and grays, punctuated by the vivid red of the player's shirt.\n\nThe composition emphasizes the height of the jump and the openness of the environment, with the camera positioned at a low angle to accentuate the vertical lines of the hoop and the building. The overall style is realistic with a touch of cinematic drama, using depth of field to keep both the player and the background in sharp focus, evoking a sense of aspiration and quiet determination.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:03.351417",
+  "word_count": 241,
+  "error_message": null
+}

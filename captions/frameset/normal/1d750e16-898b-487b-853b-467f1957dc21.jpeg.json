@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d750e16-898b-487b-853b-467f1957dc21.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up of a dartboard in a dimly lit bar or game room, with two metallic darts embedded closely together in the bullseye area. The camera angle is from the side, emphasizing the sharpness and precision of the darts as they protrude from the board. The background is softly blurred with a shallow depth of field, creating a bokeh effect of warm and cool lights, suggesting a lively but out-of-focus environment. The color palette is moody and atmospheric, dominated by deep blues, muted golds, and subtle hints of green, with soft, diffused lighting that casts gentle reflections on the metallic surfaces of the darts. The overall style is dramatic and intimate, evoking a sense of tension and focus, as if capturing a pivotal moment in a competitive game.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:40.313845",
+  "word_count": 129,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ff56ee4-322e-47d2-927c-bf70ae7a5a2f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph of a pedestrian traffic signal, prominently featuring the illuminated \"walk\" symbol. The symbol is a stylized figure wearing a hat, mid-stride, rendered in bright white LED lights against the dark, circular background of the signal. The traffic light housing is slightly weathered, with visible texture and metallic details, and a vertical pole runs alongside it, adding an industrial element. The background is softly blurred, with indistinct geometric shapes suggesting urban architecture, but the focus remains sharply on the signal itself. The lighting is natural and diffuse, creating gentle contrasts and a moody, contemplative atmosphere. The composition is tight and slightly angled, lending a sense of immediacy and intimacy, while the monochrome palette emphasizes form, light, and shadow, evoking a classic, almost cinematic street photography style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:09.518602",
+  "word_count": 129,
+  "error_message": null
+}

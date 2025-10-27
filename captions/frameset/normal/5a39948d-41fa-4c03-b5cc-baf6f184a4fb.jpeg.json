@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a39948d-41fa-4c03-b5cc-baf6f184a4fb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an extreme close-up portrait of an East Asian man with a mustache and sparse beard, his face filling almost the entire frame. His expression is weary and contemplative, with half-closed, tired eyes gazing slightly downward. The skin texture is detailed, showing fine lines and pores, and the lighting is soft but slightly cool, casting a subtle purplish tint across his face. The background is out of focus and indistinct, ensuring all attention is on the subject’s facial features and emotional state. The overall style is cinematic, reminiscent of 1970s or early 2000s Asian cinema, with a shallow depth of field and a sense of intimacy and vulnerability. The camera angle is straight-on, emphasizing the raw emotion and detail in the subject’s face.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:56.723760",
+  "word_count": 123,
+  "error_message": null
+}

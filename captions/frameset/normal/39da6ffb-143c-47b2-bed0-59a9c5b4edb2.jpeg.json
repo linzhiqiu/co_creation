@@ -1,0 +1,12 @@
+{
+  "image_filename": "39da6ffb-143c-47b2-bed0-59a9c5b4edb2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern silver SUV drives across a bridge at sunset, captured in a cinematic side profile shot. The vehicle is in sharp focus, its metallic surface reflecting the warm, golden hues of the setting sun. The background features a softly blurred river below, with the water mirroring the pastel colors of the sky and hints of distant buildings along the shoreline. The bridge’s railings create horizontal lines that frame the car, adding a sense of motion and direction. The overall color palette is a harmonious blend of silvery grays, warm golds, and soft blues, evoking a tranquil yet dynamic atmosphere. The lighting is natural and diffused, with long shadows and a gentle glow that enhances the contours of the car. The composition is balanced and cinematic, with a shallow depth of field that keeps the focus on the SUV while subtly suggesting the urban environment beyond. The mood is calm, sophisticated, and aspirational, reminiscent of a high-end automotive commercial or a scene from a contemporary road movie.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:03.023029",
+  "word_count": 168,
+  "error_message": null
+}

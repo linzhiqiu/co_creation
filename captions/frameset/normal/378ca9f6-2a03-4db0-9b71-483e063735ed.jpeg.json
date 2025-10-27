@@ -1,0 +1,12 @@
+{
+  "image_filename": "378ca9f6-2a03-4db0-9b71-483e063735ed.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet suburban street in late autumn, captured in the soft, golden light of early morning. The scene is devoid of people, evoking a tranquil, almost contemplative mood. The road curves gently to the left, leading the viewer’s eye toward a small, white house partially obscured by leafless trees. The trees, stripped of their foliage, create intricate silhouettes against a clear blue sky, their branches casting long, delicate shadows across the pavement. On the right, a wire fence runs parallel to the road, enclosing a grassy area, while a streetlamp and a triangular road sign add subtle urban details. The color palette is dominated by cool blues and muted earth tones, with warm sunlight lending a gentle contrast. The composition is balanced and symmetrical, with a wide-angle perspective and deep depth of field, emphasizing the stillness and spaciousness of the suburban landscape. The overall style is naturalistic and cinematic, reminiscent of a quiet moment in a coming-of-age film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:09.313104",
+  "word_count": 158,
+  "error_message": null
+}

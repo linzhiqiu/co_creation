@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e02451d-4e09-4822-9717-9b87189ccdf2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, documentary-style photograph set in a spacious, modern industrial or workshop environment with warm, ambient lighting. The central subject is a person seen from behind, wearing a bright red safety helmet and a black shirt with the word \"TECHNIQUE\" printed in bold white letters across the back. The individual has long hair tied in a ponytail and is equipped with a black safety harness featuring a prominent silver D-ring and a yellow strap, suggesting a focus on safety and technical work. Two other people, both men, are partially visible in the background, engaged in conversation or examining something out of frame, their expressions intent and focused. The background features wooden paneling, large windows, and industrial elements, softly blurred to emphasize the main subject. The color palette is dominated by warm browns, blacks, and the striking red of the helmet, with soft, natural light creating a sense of depth and realism. The composition uses a shallow depth of field and a slightly low, over-the-shoulder camera angle, immersing the viewer in the scene and conveying a sense of teamwork, expertise, and hands-on activity in a professional technical setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:48.692685",
+  "word_count": 187,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "24f19084-0829-4e35-9f59-a9d5c9bc7bec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, cinematic overhead shot of a young woman with dark hair tied back, standing at the center of a geometric, white-tiled floor. She gazes directly up at the camera with an intense, almost questioning expression, her face softly illuminated by diffused, natural light that highlights the sheen of her skin. Surrounding her in a loose circle are several other figures, all dressed in minimal, light-colored clothing, their bodies partially cropped by the frame to emphasize the central subject. The figures’ limbs and shadows create dynamic, abstract patterns against the pale, angular floor, adding a sense of movement and tension. The overall color palette is muted and cool, dominated by whites, beiges, and subtle skin tones, lending the scene a modern, minimalist aesthetic. The composition is symmetrical and carefully balanced, with a shallow depth of field that keeps the central figure in sharp focus while the surrounding bodies blur slightly, enhancing the sense of isolation and introspection. The style is reminiscent of contemporary art photography or avant-garde film, with a focus on geometry, human form, and emotional intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:25.390091",
+  "word_count": 179,
+  "error_message": null
+}

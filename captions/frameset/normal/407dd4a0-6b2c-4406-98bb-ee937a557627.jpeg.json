@@ -1,0 +1,12 @@
+{
+  "image_filename": "407dd4a0-6b2c-4406-98bb-ee937a557627.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt for generating this image:\n\n\"Create a realistic scene set in a modern, sunlit office or library environment. Two women sit side by side at a large wooden table, deeply engaged in collaborative work. The woman on the left has light skin and platinum blonde hair pulled back, wearing a casual, soft pink button-up shirt with rolled sleeves. She is focused on a stack of documents and a blue calculator, gesturing thoughtfully as she explains something. The woman on the right has dark skin and a natural afro hairstyle, dressed in a light beige blazer over a dark top. She listens attentively, pen in hand, poised to take notes on a notepad. The table is scattered with paperwork, a calculator, and a few personal items, suggesting a serious, productive atmosphere. The background is softly blurred, with other people working at tables, creating a sense of depth and a busy, professional ambiance. The lighting is natural and warm, streaming in from large windows, casting gentle highlights and soft shadows. The overall color palette is muted and realistic, with earthy tones and subtle contrasts. The camera angle is at eye level, capturing the women in a candid, documentary style, emphasizing their concentration and collaboration.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:19.750212",
+  "word_count": 205,
+  "error_message": null
+}

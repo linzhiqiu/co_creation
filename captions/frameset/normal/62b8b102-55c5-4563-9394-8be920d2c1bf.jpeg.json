@@ -1,0 +1,12 @@
+{
+  "image_filename": "62b8b102-55c5-4563-9394-8be920d2c1bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist portrait of a young woman with pale skin and dark, tightly braided hair that falls over both shoulders. She is positioned centrally against a deep, featureless black background, creating a dramatic contrast that isolates her figure. The woman’s expression is intense and direct, with her lips slightly parted and painted a bold, deep magenta. Her eyes are focused forward, engaging the viewer with a sense of quiet confidence and enigmatic allure. The lighting is soft but directional, illuminating her face and upper shoulders while leaving the edges to fade into shadow, enhancing the sculptural quality of her features. The overall color palette is muted and cool, dominated by the interplay of pale skin tones, dark hair, and the rich color of her lips. The composition is symmetrical and tightly framed, with a shallow depth of field that keeps the focus sharply on her face while the background remains completely blurred and abstract. The style is cinematic and modern, evoking a sense of mystery and high fashion, with a clean, editorial aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:29.758443",
+  "word_count": 175,
+  "error_message": null
+}

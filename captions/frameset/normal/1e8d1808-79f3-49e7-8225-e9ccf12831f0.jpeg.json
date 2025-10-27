@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e8d1808-79f3-49e7-8225-e9ccf12831f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, somber office scene set in the mid-20th century, featuring two middle-aged men in period-appropriate suits. One man, with disheveled hair and round glasses, embraces the other tightly, his face etched with concern and grief. The second man, dressed in a pinstriped suit, leans into the embrace, his head buried in the other’s shoulder, conveying vulnerability and distress. The background is dominated by dark wooden paneling, evoking a sense of authority and austerity. A framed portrait of a stern, mustachioed man in military attire hangs prominently on the wall, hinting at a Soviet or authoritarian setting. The color palette is muted and desaturated, with earthy browns, grays, and olive tones, enhancing the heavy, melancholic mood. The lighting is soft and naturalistic, casting gentle shadows that add depth and realism. The composition is intimate, with a shallow depth of field focusing on the emotional connection between the two men, while the background remains slightly blurred, emphasizing the gravity of the moment. The overall style is cinematic, reminiscent of historical dramas, with a restrained, documentary-like authenticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:11.643608",
+  "word_count": 176,
+  "error_message": null
+}

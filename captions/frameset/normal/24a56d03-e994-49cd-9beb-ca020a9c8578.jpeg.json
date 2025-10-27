@@ -1,0 +1,12 @@
+{
+  "image_filename": "24a56d03-e994-49cd-9beb-ca020a9c8578.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic urban street scene at dusk, focusing on a close-up, slightly upward angle of a green street sign reading \"SOUTH ST\" with a white directional \"ONE WAY\" sign beneath it, both mounted above a classic yellow traffic light showing a bright red signal. The background features the soft, overcast glow of an early evening sky, with muted, pale tones and a gentle gradient from light gray to off-white. To the left, the edge of a building with subtle architectural details is partially visible, while leafy green tree branches peek out from behind the signs, adding a touch of natural texture. The overall composition is clean and balanced, with the signs and traffic light sharply in focus, and the background softly blurred, creating a shallow depth of field. The color palette is understated, dominated by the green and white of the signs, the yellow and red of the traffic light, and the neutral tones of the sky and buildings. The mood is calm and contemplative, evoking a quiet moment in a city just before nightfall.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:16.243521",
+  "word_count": 176,
+  "error_message": null
+}

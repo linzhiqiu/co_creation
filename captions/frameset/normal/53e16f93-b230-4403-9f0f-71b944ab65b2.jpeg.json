@@ -1,0 +1,12 @@
+{
+  "image_filename": "53e16f93-b230-4403-9f0f-71b944ab65b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young person with androgynous features, resting their arms on a surface and gazing directly into the camera with a calm, introspective expression. Their dark, wet hair falls messily across their forehead, partially obscuring their eyes, which are softly highlighted by natural, diffused lighting. The subject’s skin is smooth and luminous, with a subtle sheen that enhances the dewy, almost ethereal quality of the image. Their lips are slightly parted and have a gentle, natural gloss. They wear a simple, light-colored shirt with sleeves rolled up, adding to the relaxed, intimate atmosphere. The background is dark and softly blurred, creating a shallow depth of field that draws all attention to the subject’s face and expression. The overall color palette is cool and muted, with soft blues, grays, and pale skin tones dominating the scene. The composition is tight and intimate, evoking a sense of vulnerability and quiet contemplation, reminiscent of a high-fashion editorial or a moody, art-house film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:21.927626",
+  "word_count": 165,
+  "error_message": null
+}

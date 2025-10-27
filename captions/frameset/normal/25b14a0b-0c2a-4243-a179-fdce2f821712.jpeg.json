@@ -1,0 +1,12 @@
+{
+  "image_filename": "25b14a0b-0c2a-4243-a179-fdce2f821712.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a modern smartphone vertically, with the device’s screen and casing rendered semi-transparent to reveal intricate internal circuitry and a prominent central microchip featuring a shield emblem. The background is softly blurred, depicting a sunlit urban cityscape with classical architecture and rooftops, bathed in the warm golden hues of late afternoon or early evening. The sunlight creates a gentle lens flare and casts a soft, natural glow, enhancing the sense of depth and realism. The color palette is dominated by warm golds, soft browns, and subtle blues, with the cool metallic and blue tones of the phone’s internal components contrasting against the sunlit city. The composition centers the phone in the frame, with the hand in sharp focus and the city softly out of focus, evoking a cinematic, high-tech atmosphere that blends human touch with advanced technology. The overall style is photorealistic with a shallow depth of field, capturing both the intricate detail of the device’s internals and the evocative ambiance of the city at golden hour.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:43.801729",
+  "word_count": 173,
+  "error_message": null
+}

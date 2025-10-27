@@ -1,0 +1,12 @@
+{
+  "image_filename": "3baf5108-b638-47bf-b9d3-e67ede86c9e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist black-and-white photograph featuring a shirtless young man standing against a seamless, softly gradient background that transitions from light gray at the top to a slightly darker shade at the bottom. The subject is positioned centrally, holding a large, perfectly round sphere in front of his torso with both hands, the sphere’s matte surface contrasting with the subtle sheen of his skin. His expression is neutral and contemplative, with his face partially cast in shadow, lending a sense of mystery and introspection. The lighting is soft and diffused, creating gentle highlights and deep shadows that accentuate the contours of his muscular physique and the smooth curvature of the sphere. The overall composition is clean and uncluttered, with a shallow depth of field that keeps the focus sharply on the subject and the sphere, while the background remains abstract and unobtrusive. The mood is calm, enigmatic, and slightly surreal, evoking a sense of quiet strength and poetic isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:45.110384",
+  "word_count": 160,
+  "error_message": null
+}

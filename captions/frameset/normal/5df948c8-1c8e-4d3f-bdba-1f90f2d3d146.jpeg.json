@@ -1,0 +1,12 @@
+{
+  "image_filename": "5df948c8-1c8e-4d3f-bdba-1f90f2d3d146.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene set in a dimly lit, blue-toned bedroom at night. The composition is from an overhead, slightly angled perspective, focusing on a young woman with long, dark hair, dressed in a sleeveless, patterned top. She sits on a richly textured bedspread, surrounded by vintage objects: an ornate clock, a golden figurine, and a sand timer, all arranged haphazardly. The woman holds a large, round clock in her lap, gazing intently at its glass face, which reflects her own face with a dreamy, contemplative expression. The lighting is soft and dramatic, casting deep shadows and highlighting the reflective surfaces, creating a surreal, introspective atmosphere. The color palette is dominated by cool blues and muted golds, enhancing the sense of mystery and time suspended. The overall style is reminiscent of a fantasy film or a surrealist painting, with a shallow depth of field that keeps the focus on the woman and the clock, while the background details blur into a textured, enigmatic tapestry.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:24.745179",
+  "word_count": 164,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "145ae620-74b1-46c8-85c1-9bf6a4f1c6d7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek silver Mazda pickup truck navigates a rugged, grassy off-road terrain under natural daylight. The vehicle dominates the foreground at a dynamic angle, reflecting the surrounding greenery on its polished surface. The background features uneven earth and sparse trees, evoking adventure and resilience in a crisp, realistic style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:16.183362",
+  "word_count": 49,
+  "error_message": null
+}

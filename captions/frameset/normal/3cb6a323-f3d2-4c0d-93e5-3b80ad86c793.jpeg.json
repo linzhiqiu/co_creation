@@ -1,0 +1,12 @@
+{
+  "image_filename": "3cb6a323-f3d2-4c0d-93e5-3b80ad86c793.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic close-up of two electric fans positioned side by side in a dimly lit room. The fan on the left is white, while the one on the right is black, both with visible mesh grills and slightly translucent blades. The background is softly blurred, featuring hints of computer equipment illuminated by cool blue LED lights, adding a subtle technological ambiance. The overall color palette is dominated by deep shadows, cool blues, and muted reds, creating a low-key, almost nocturnal atmosphere. The lighting is soft and directional, casting gentle highlights on the fans and emphasizing their textures. The composition is intimate, with a shallow depth of field that draws attention to the fans as the primary subjects, while the out-of-focus background suggests a modern, possibly industrial or tech-oriented setting. The mood is quiet and contemplative, with a sense of stillness and subdued energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:07.080633",
+  "word_count": 144,
+  "error_message": null
+}

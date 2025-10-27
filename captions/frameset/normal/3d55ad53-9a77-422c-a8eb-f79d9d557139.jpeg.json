@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d55ad53-9a77-422c-a8eb-f79d9d557139.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a futuristic cyborg police officer standing in front of a brick building. The subject is centered in the frame, wearing a sleek, metallic helmet with a dark, horizontal visor that obscures the eyes, and a matching armored suit with intricate mechanical details on the shoulders and chest. The lower half of the face is visible, showing a neutral, slightly stern expression. The background features a textured red-and-brown brick wall with a partially open door and a blurred figure in a suit, adding a sense of urban realism. The color palette is dominated by cool metallic silvers and muted earth tones, with natural daylight casting soft, diffused shadows. The overall style is reminiscent of 1980s science fiction films, with a slightly grainy texture and a shallow depth of field that keeps the focus on the cyborg while subtly blurring the background, evoking a gritty, dystopian atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:21.841542",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b29fa88-4076-49fc-9f62-5ea60492cd7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up of a young boy sitting at a desk, intently focused on writing in a notebook with a pencil. The scene is softly illuminated by the warm, ambient glow of a table lamp positioned just out of frame, casting gentle shadows and creating a cozy, intimate atmosphere. The boy’s face is captured in profile, his expression thoughtful and absorbed in concentration. He wears a simple dark t-shirt, and his tousled hair is subtly highlighted by the lamp’s light. The background is softly blurred, with hints of another figure nearby, suggesting a quiet, supportive presence. The color palette is dominated by warm, golden tones and deep shadows, evoking a sense of calm and introspection. The composition uses shallow depth of field to draw attention to the boy’s face and hand, with a gentle bokeh effect in the background. The overall style is reminiscent of a tender, coming-of-age film, with naturalistic lighting and a contemplative mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:33.347381",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "622de0b5-6f2c-48f7-b4c0-62a9f89a5732.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, slow-motion scene set in a classical sculpture studio, featuring the dramatic mid-air shattering of a white marble bust. The fragmented pieces of the bust are suspended in space, each shard crisply detailed, with fine dust and powder trailing from the breakage, capturing the precise moment of impact. The background is softly blurred, revealing hints of other marble statues and sculptural forms, evoking an atmosphere of antiquity and artistry. The color palette is dominated by muted whites, creams, and subtle sepia tones, lending the image a timeless, almost ethereal quality. Lighting is soft and diffuse, with gentle highlights accentuating the contours of the marble and the floating debris. The camera angle is low and close to the ground, emphasizing the dynamic motion and gravity-defying suspension of the fragments, while a shallow depth of field keeps the focus tightly on the shattered bust. The overall style is cinematic and contemplative, blending classical elegance with a sense of frozen chaos, as if capturing a fleeting, poetic moment of destruction and transformation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:09.211285",
+  "word_count": 170,
+  "error_message": null
+}

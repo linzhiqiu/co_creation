@@ -1,0 +1,12 @@
+{
+  "image_filename": "434d14a3-4b91-4088-b527-e6d3ec00da4a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man in a dark suit and tie stands alone in a quiet, institutional library or archive room, intently examining a shelf filled with uniformly labeled black-and-white VHS tapes or archival boxes. His posture is slightly hunched, suggesting focus and contemplation as he reaches toward the shelves. The room is softly lit with cool, natural daylight streaming through tall, narrow windows with yellow and blue stained glass accents, casting a subdued, almost melancholic atmosphere. The shelving units are metallic and utilitarian, stretching into the background and emphasizing the sense of order and methodical search. The color palette is muted, dominated by grays, whites, and blacks, with subtle hints of color from the windows. The camera angle is at eye level, capturing the man in profile and creating a sense of intimacy and quiet tension. The overall style is cinematic and restrained, evoking a mood of introspection and mystery, with a shallow depth of field that keeps the focus on the man and the shelves while the background softly recedes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:19.491189",
+  "word_count": 170,
+  "error_message": null
+}

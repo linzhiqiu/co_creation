@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f946533-f41c-4166-87c6-39e2d46f0db7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling city street is filled with a massive crowd of people participating in a protest or demonstration, captured from a high aerial perspective. The scene is set in a modern urban environment, with low-rise commercial and residential buildings lining both sides of the street. The crowd stretches far into the distance, densely packed and vibrant, with individuals holding up signs and banners that add splashes of color and energy to the composition. Palm trees are interspersed along the sidewalks, evoking a warm, sunny climate typical of Southern California. The color palette is bright and sunlit, dominated by the white and gray rooftops, the muted tones of the buildings, and the colorful clothing and signs of the crowd. The lighting is natural and intense, casting sharp shadows and highlighting the midday atmosphere. The overall style is documentary and cinematic, with a wide, sweeping view that emphasizes the scale and unity of the gathering. The image conveys a sense of collective action, community, and urban vibrancy, with a dynamic composition that draws the eye along the length of the crowded street.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:50.488912",
+  "word_count": 180,
+  "error_message": null
+}

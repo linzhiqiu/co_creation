@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eb17264-2be3-4943-ac27-eb8242bec2dc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands at the edge of a vast, reflective shoreline under a moody, overcast sky at dusk. The person is small and silhouetted, facing the ocean, evoking a sense of introspection and solitude. In the distance, a dramatic, monolithic sea stack rises from the water, surrounded by smaller rocks, their dark forms contrasting against the misty blue-gray horizon. The wet sand mirrors the sky and the figure, creating a subtle, dreamlike symmetry. The color palette is dominated by deep blues and muted grays, with soft, diffuse lighting that bathes the entire scene in a melancholic, cinematic atmosphere. The composition is wide and expansive, with the camera positioned low and centered, emphasizing the scale of the landscape and the isolation of the lone subject. The overall style is contemplative and atmospheric, reminiscent of art-house cinema or fine art photography, with a shallow depth of field that keeps the focus on the interplay between the figure, the sea, and the brooding sky.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:47.649164",
+  "word_count": 162,
+  "error_message": null
+}

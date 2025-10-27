@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cbebb6a-a1b2-4118-90fd-ca532a028cca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene featuring three modern Cadillac sedans racing side by side on a wide, empty urban road. The central focus is a sleek, white Cadillac, captured in sharp detail with a sense of motion as it speeds forward. Flanking the white car are two vibrant red Cadillacs, slightly blurred to emphasize their speed and the intensity of the moment. The cars are positioned low in the frame, shot from a side angle at wheel level, enhancing the sense of velocity and power. The background features a city bridge with ornate street lamps and a soft, overcast sky, lending a cool, muted color palette dominated by whites, grays, and pops of red. The lighting is natural and diffused, with subtle reflections on the cars’ glossy surfaces. The overall style is crisp and modern, with a shallow depth of field that keeps the focus on the vehicles while gently blurring the background, evoking the polished look of a high-end automotive commercial.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:14.370787",
+  "word_count": 161,
+  "error_message": null
+}

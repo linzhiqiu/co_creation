@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d5295e0-1f7c-4917-83e7-db0cde01e887.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric overhead shot of a solitary figure walking a bicycle along the edge of a circular patch of grass, set against a dark, moody urban ground. The scene is enveloped in a cool, teal-blue mist, creating a sense of mystery and isolation. The composition is minimalist, with the figure and bicycle positioned in the upper left quadrant, partially obscured by shadow, while the curved border of the grass dominates the lower right, providing a striking geometric contrast. The lighting is soft and diffused, with subtle gradients of blue and green, evoking a nighttime or early dawn ambiance. The overall style is reminiscent of neo-noir cinematography, with a high angle, almost drone-like perspective, shallow depth of field, and a focus on mood and negative space. The image should feel contemplative, quiet, and slightly surreal, emphasizing the interplay between human presence and abstract urban forms.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:08.672575",
+  "word_count": 146,
+  "error_message": null
+}

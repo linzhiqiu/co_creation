@@ -1,0 +1,12 @@
+{
+  "image_filename": "15f67c36-0887-4ccb-b689-624348254f3b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic, close-up shot of a round wall clock with a white face and bold black numbers, centered perfectly against a plain, light gray wall. The clock’s hands indicate the time as 7:00, with the minute and hour hands both pointing directly at the 12 and 7, respectively, and a thin black second hand pointing at the 6. The clock is encased in a simple, metallic silver frame, and the word \"QUARTZ\" is printed in small black letters above the 6. The lighting is soft and diffused, creating a calm, almost clinical atmosphere with minimal shadows. The color palette is muted, dominated by cool grays and whites, enhancing a sense of stillness and quiet. The composition is symmetrical and straightforward, with the clock as the sole subject, evoking a sense of anticipation or waiting. The overall style is minimalist and documentary-like, with a sharp focus and no visible background distractions, reminiscent of a scene from a contemplative film or a quiet moment in an institutional setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:55.351260",
+  "word_count": 166,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "240e7001-7031-4ca2-9b13-7689a683940f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A contemplative, atmospheric scene set on a misty beach at low tide. The central subject is a barefoot person, visible only from the knees down, wearing loose, earth-toned plaid pants. They stand on wet, dark sand scattered with small shells and pebbles. The person is drawing large, looping circles in the sand with a long wooden stick, creating an intricate, meditative pattern that extends into the distance. The background is softly blurred by fog, with faint, gentle waves visible at the shoreline, enhancing the sense of solitude and quiet. The color palette is muted and natural, dominated by cool grays, soft browns, and subtle hints of blue. The lighting is diffuse and overcast, lending a serene, introspective mood. The composition is intimate, shot from a low angle with a shallow depth of field, focusing on the act of drawing and the textures of sand and shells, evoking a sense of peaceful ritual and connection to nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:05.226937",
+  "word_count": 156,
+  "error_message": null
+}

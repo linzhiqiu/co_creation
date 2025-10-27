@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f5e7d16-29ee-4d02-89da-7bb09bd0405c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, eye-level shot of a weathered, dual coin-operated parking meter dominates the foreground, its metallic surface showing signs of rust and age. The meter’s twin glass domes catch the warm, golden light of late afternoon, creating subtle reflections and a nostalgic atmosphere. The background is softly out of focus, featuring a quiet suburban street lined with a chain-link fence on the left, leafy green trees on the right, and a pale blue car parked along the curb. Utility poles and wires recede into the distance, leading the eye toward a sunlit, beige building partially obscured by the meter. The color palette is warm and sun-drenched, with soft blues, muted greens, and rusty oranges. The overall style is cinematic, evoking a sense of stillness and quiet observation, with shallow depth of field isolating the parking meter and imbuing the scene with a contemplative, almost anthropomorphic quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:07.759763",
+  "word_count": 146,
+  "error_message": null
+}

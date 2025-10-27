@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b6deeb5-f4c5-4897-ba37-2e40f6604f16.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a dimly lit, elegant banquet hall after a major event. The room is filled with round tables draped in white tablecloths, scattered with confetti, balloons, and remnants of a celebration. Sunlight streams through tall, sheer-curtained windows, casting soft, natural light and long shadows across the space. In the center of the composition, a large, three-dimensional Facebook post floats, dominating the room. The post features a news broadcast image of a political victory speech: a man in a dark suit and red tie stands at a podium, flanked by a woman in a pale dress, with a backdrop of American flags and state banners. The Facebook interface is clearly visible, including the ABC News logo, a date, and social media icons for like, comment, and share. The perspective is slightly wide-angle, with a shallow depth of field that keeps the Facebook post and its contents in sharp focus while the foreground and background remain softly blurred. The overall mood is surreal and contemplative, blending realism with digital elements to evoke themes of media, politics, and the intersection of virtual and physical worlds.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:04.004377",
+  "word_count": 188,
+  "error_message": null
+}

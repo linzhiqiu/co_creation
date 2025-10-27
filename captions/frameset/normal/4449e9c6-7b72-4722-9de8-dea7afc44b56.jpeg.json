@@ -1,0 +1,12 @@
+{
+  "image_filename": "4449e9c6-7b72-4722-9de8-dea7afc44b56.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist scene featuring a single dancer in a dramatic pose, captured mid-movement against a seamless, vibrant purple backdrop. The dancer is positioned low to the ground, one knee bent and the other leg extended, arching their back with one arm reaching overhead in a fluid, expressive gesture. They wear sleek, form-fitting black clothing that contrasts sharply with the monochromatic purple environment. The lighting is soft and diffused, casting gentle shadows that emphasize the contours of the dancer’s body without breaking the smooth gradient of the background. The composition is wide and spacious, with the dancer placed slightly off-center, evoking a sense of isolation and focus. The overall style is cinematic and modern, with a shallow depth of field that keeps the dancer crisp while the background remains velvety and abstract, enhancing the mood of intensity and artistic expression.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:36.750826",
+  "word_count": 141,
+  "error_message": null
+}

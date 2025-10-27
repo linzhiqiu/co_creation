@@ -1,0 +1,12 @@
+{
+  "image_filename": "4dc76948-6d25-4e5d-81a2-22c3c504b314.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large satellite dish stands on a grassy hillside under a deep midnight blue sky, bathed in soft moonlight. Dense trees form a dark backdrop, while subtle shadows and cool tones evoke a mysterious, cinematic atmosphere. The composition emphasizes solitude and quiet anticipation, with gentle gradients and natural textures.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:56.639408",
+  "word_count": 49,
+  "error_message": null
+}

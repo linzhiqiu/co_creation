@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ed40769-860c-4118-b08f-40f73695c26b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern silver SUV—specifically an Opel Mokka—drives through a sunlit urban environment, its metallic paint reflecting the soft, golden afternoon light. The vehicle is captured in a dynamic three-quarter front view, slightly turning as it moves along a clean, paved street. The driver, visible through the windshield, is focused and intent, hands on the wheel, wearing a dark jacket and cap, adding a sense of purpose and motion to the scene. The background is softly blurred, suggesting a cityscape with white buildings and large windows, evoking a sense of European urban sophistication. The overall color palette is cool and neutral, dominated by silvers, grays, and soft blues, with warm highlights from the sunlight. The composition uses a shallow depth of field to keep the car and driver sharply in focus while the surroundings remain gently out of focus, enhancing the cinematic quality. The lighting is natural and diffused, with subtle lens flares and reflections on the car’s surface, creating a polished, aspirational mood reminiscent of a high-end automotive commercial.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:24.948147",
+  "word_count": 170,
+  "error_message": null
+}

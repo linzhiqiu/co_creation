@@ -1,0 +1,12 @@
+{
+  "image_filename": "398b5b15-6afb-41f6-b2b3-0936a45a00f7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged male teacher stands at the front of a classroom, captured from behind and slightly to the side, as he writes in Arabic on a large, white interactive board. He wears a striped, long-sleeve shirt and has short, graying hair, his posture focused and intent on the task. The classroom exudes an old-world academic charm, with wooden paneling along the lower walls and two large whiteboards mounted side by side, one of which is mostly empty except for a single word. Above the boards, faded maps and colorful educational posters hint at a well-used, traditional learning environment. The lighting is soft and natural, streaming in from an unseen window, casting gentle shadows and creating a calm, contemplative mood. The color palette is muted and earthy, dominated by warm wood tones, off-whites, and the subdued blue of the teacher’s shirt. The composition is cinematic, with a wide aspect ratio and shallow depth of field that subtly blurs the foreground, where a student’s laptop is just visible, drawing the viewer’s focus to the teacher’s deliberate action and the quiet atmosphere of learning.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:55.349478",
+  "word_count": 181,
+  "error_message": null
+}

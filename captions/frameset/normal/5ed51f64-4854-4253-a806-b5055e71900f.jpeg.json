@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ed51f64-4854-4253-a806-b5055e71900f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot inside a large, brightly lit hardware or home improvement store, with tall shelves lined with various products and prominent orange signage overhead. The central subject is a man in a red and black uniform, sitting on and operating a large, industrial floor cleaning machine with a red body and gray accents. He is focused on his task, looking slightly downward, with a neutral or concentrated expression. The store aisles stretch into the background, creating a sense of depth and scale, while the polished, light-colored floor reflects the overhead fluorescent lighting, adding to the clean and orderly atmosphere. The color palette is dominated by whites, grays, and oranges, with pops of color from product packaging and signage. The composition is balanced, with the cleaning machine and operator positioned slightly off-center, and the camera angle is at eye level, emphasizing the everyday, documentary feel of the scene. The overall style is realistic and unembellished, capturing a candid moment of routine work in a commercial environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:47.014456",
+  "word_count": 166,
+  "error_message": null
+}

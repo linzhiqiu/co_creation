@@ -1,0 +1,12 @@
+{
+  "image_filename": "1728b246-dd73-451a-aee0-3384ea840b76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, modern interior with a cool, muted color palette dominated by grays and soft blues. In the foreground, the back of a man’s head and shoulders are visible, his hair light and neatly styled, as he adjusts an earpiece with both hands. He is dressed in a dark suit, suggesting professionalism and focus. The man is intently watching a vintage CRT computer monitor on a cluttered desk, which displays a grainy black-and-white security camera feed. On the monitor, a sleek, classic car is parked in a spacious, high-ceilinged showroom with polished floors and minimalist, curved architecture. Additional vintage cars are visible in the background of the feed, arranged in a semi-circle under soft, diffused lighting. The overall composition is cinematic, with a shallow depth of field that keeps the man slightly out of focus while drawing attention to the monitor and its contents. The atmosphere is tense and secretive, evoking the mood of a high-stakes heist or espionage thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:25.032087",
+  "word_count": 161,
+  "error_message": null
+}

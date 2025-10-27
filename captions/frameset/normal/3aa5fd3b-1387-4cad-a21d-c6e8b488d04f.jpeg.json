@@ -1,0 +1,12 @@
+{
+  "image_filename": "3aa5fd3b-1387-4cad-a21d-c6e8b488d04f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young sailor stands confidently on a wooden spar high above the deck of a classic tall ship, carefully securing a bundle of canvas sail to the mast. He wears practical, dark work clothes and a harness, his curly hair tousled by the sea breeze. The sailor’s posture is focused and balanced, hands gripping the sail as he works. The rigging and ropes frame the scene, adding a sense of complexity and authenticity. In the background, another majestic sailing ship glides across calm, silvery waters under an overcast sky, its sails billowing gently. The color palette is muted and natural, dominated by weathered wood, off-white canvas, and the soft grays and blues of the sea and sky. The lighting is diffuse and even, with no harsh shadows, evoking a cool, maritime atmosphere. The composition uses a slight upward angle, emphasizing the height and precariousness of the sailor’s position, while the depth of field keeps both the foreground action and the distant ship in clear focus, creating a sense of scale and adventure reminiscent of a seafaring epic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:20.531725",
+  "word_count": 177,
+  "error_message": null
+}

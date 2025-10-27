@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ff3da4d-d9e1-4c4d-9754-ca2ef4913bb1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern sedan with dark metallic paint is captured from a low, rear three-quarter angle as it drives along a gently curving, elevated urban highway at dusk. The car’s LED taillights glow vividly, creating a striking contrast against the cool, subdued tones of the scene. The road is smooth and empty, bordered by minimalist concrete barriers and illuminated by tall, sparse streetlights that cast a soft, diffused light. In the background, the city skyline is visible, with a mix of mid-rise buildings and distant high-rises silhouetted against a dramatic evening sky. The sky is painted in gradients of blue and orange, with streaks of clouds catching the last light of the setting sun. The overall color palette is cool and cinematic, dominated by blues and grays with warm highlights from the sunset and car lights. The composition emphasizes motion and solitude, with a shallow depth of field that keeps the car in sharp focus while the background gently blurs, evoking a sense of quiet, contemplative travel through the city at twilight.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:10.837675",
+  "word_count": 172,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "14b6a79b-3640-456b-a923-a3c69f9b3799.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a tranquil, cinematic scene viewed from a low, ground-level perspective, looking straight up at the sky through a canopy of tall, slender trees. The branches are delicate and lightly adorned with early spring or late autumn leaves, allowing ample sunlight to filter through. The sky is a soft, pale blue, dotted with fluffy, white clouds that drift lazily overhead. The lighting is natural and slightly warm, evoking a peaceful, late afternoon ambiance. The overall color palette is gentle and harmonious, with muted greens, soft yellows, and subtle blue tones. The composition emphasizes the organic, intricate patterns of the tree branches against the open sky, with a shallow depth of field that keeps the focus on the interplay between foliage and clouds. The mood is serene and contemplative, reminiscent of a quiet moment spent lying in a forest clearing, gazing upward. The style is reminiscent of a poetic, art-house film, with a slight vintage or nostalgic filter that softens the image and enhances its dreamlike quality.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:28.626052",
+  "word_count": 167,
+  "error_message": null
+}

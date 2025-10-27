@@ -1,0 +1,12 @@
+{
+  "image_filename": "24e87174-5122-4dce-a597-20a9b961cd67.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, vertigo-inducing overhead shot looking straight down the center of a multi-story stairwell in an old building. The stairwell forms a dizzying geometric spiral, with wooden railings and worn, grayish steps receding into the distance, creating a strong sense of depth and perspective. The lighting is natural but slightly muted, casting soft shadows and highlighting the textures of the wood and stone. On the right side of the frame, a person with dark hair, wearing a light green shirt and yellow pants, is slumped against the wall, partially obscured by the railing, suggesting a moment of vulnerability or exhaustion. The overall color palette is subdued, dominated by earthy browns, grays, and muted greens, enhancing the somber, introspective mood. The composition is carefully balanced, with the spiral of the stairs drawing the viewer’s eye toward the vanishing point at the center, while the human figure adds emotional weight and narrative intrigue. The style is cinematic, reminiscent of psychological thrillers, with a shallow depth of field that blurs the distant floors and emphasizes the immediacy of the foreground elements.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:24.066736",
+  "word_count": 178,
+  "error_message": null
+}

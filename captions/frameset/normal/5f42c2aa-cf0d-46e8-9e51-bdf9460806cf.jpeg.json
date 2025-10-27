@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f42c2aa-cf0d-46e8-9e51-bdf9460806cf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A retro-futuristic science fiction control room, inspired by 1960s space exploration aesthetics. Two male astronauts in silvery-gray, quilted space suits sit across from each other, engaged in conversation. The man on the left leans forward in a high-backed chair, holding a communication device to his mouth, while the man on the right sits more upright, hands resting on the armrests. Between them is a large, blue, console-like apparatus with analog dials and a glowing orange dome at its center, casting a warm, ambient light that contrasts with the otherwise cool, metallic tones of the room. The background features curved walls with subtle paneling and soft, diffused lighting, evoking a sense of enclosed, high-tech isolation. The composition is balanced and symmetrical, with a cinematic, medium-wide shot that emphasizes the interaction and the futuristic technology. The overall mood is tense yet contemplative, with a color palette dominated by blues, grays, and the striking orange glow, reminiscent of classic sci-fi films.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:52.025958",
+  "word_count": 158,
+  "error_message": null
+}

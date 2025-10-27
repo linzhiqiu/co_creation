@@ -1,0 +1,12 @@
+{
+  "image_filename": "45386bd6-10e4-43aa-9eaa-552dee616ebb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of a rugged coastal scene, captured from directly overhead. In the center of the composition, a white SUV is parked on a sandy beach, its tire tracks clearly visible, leading from the edge of the frame to the vehicle. The SUV is positioned near large, weathered rocks that border the transition between the sand and a rough, rocky cliff. The beach is scattered with patches of dark seaweed and small stones, adding texture and contrast to the pale sand. To the right, gentle turquoise waves roll onto the shore, their white foam creating a dynamic, organic edge against the sand. The color palette is dominated by muted earth tones—beige, tan, and sandy yellows—contrasted with the cool blues and greens of the ocean. The lighting is natural and diffuse, suggesting an overcast sky or the soft light of early morning or late afternoon, with no harsh shadows. The overall style is cinematic and documentary-like, emphasizing the isolation and raw beauty of the coastal landscape, with a strong sense of scale and solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:05.018296",
+  "word_count": 173,
+  "error_message": null
+}

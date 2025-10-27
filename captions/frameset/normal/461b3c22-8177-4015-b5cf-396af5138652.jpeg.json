@@ -1,0 +1,12 @@
+{
+  "image_filename": "461b3c22-8177-4015-b5cf-396af5138652.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, cinematic scene set at night in a dense, shadowy forest. In the center of the composition, a lone figure—a young man dressed in a light-colored shirt and shorts—runs urgently through a narrow clearing. His posture and expression convey fear and desperation, as if fleeing from an unseen threat. The lighting is stark and focused, with a single, intense spotlight illuminating the runner and a small patch of ground beneath him, while the surrounding forest fades into deep, impenetrable darkness. The color palette is dominated by muted earth tones and inky blacks, heightening the sense of isolation and suspense. The camera angle is slightly low and off-center, capturing the motion and tension of the moment, with a shallow depth of field that blurs the edges of the scene and draws the viewer’s eye to the illuminated subject. The overall style is reminiscent of a suspense thriller, with high contrast, dramatic shadows, and a palpable sense of urgency and danger.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:17.003241",
+  "word_count": 161,
+  "error_message": null
+}

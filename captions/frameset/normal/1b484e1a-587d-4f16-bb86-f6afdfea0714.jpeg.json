@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b484e1a-587d-4f16-bb86-f6afdfea0714.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands with his back to the viewer in the center of a vast, minimalist space. He wears a fitted, earth-toned sweater and dark trousers, his hands casually resting in his pockets. The lighting is dramatic and high-contrast, casting sharp, geometric patches of white light and deep shadow across the floor, creating a sense of isolation and introspection. The background is an expansive, gradient wall that fades from a soft blue-gray at the top to a lighter hue near the floor, evoking a sense of infinite emptiness. The overall color palette is muted and cool, dominated by shades of gray, blue, and beige. The composition is cinematic, with a wide-angle perspective and a shallow depth of field that keeps the man in crisp focus while the background blurs subtly, emphasizing his solitude. The mood is contemplative and atmospheric, reminiscent of an art-house film or a conceptual photography series exploring themes of loneliness, self-reflection, and the unknown.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:53.862803",
+  "word_count": 158,
+  "error_message": null
+}

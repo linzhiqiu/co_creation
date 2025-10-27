@@ -1,0 +1,12 @@
+{
+  "image_filename": "52f4d10c-c233-4413-91f0-a8179066dd70.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a computer screen displaying a user interface, with the main focus on a blue rectangular button labeled \"Invite members.\" A white cursor hand icon hovers over the button, suggesting imminent interaction. The background is softly blurred, with faint, out-of-focus text visible below the button, including the phrase \"Two-step verification.\" The color palette is minimal and modern, dominated by clean whites and cool blues, evoking a sense of clarity and digital efficiency. The lighting is soft and even, with no harsh shadows, emphasizing the sleek, contemporary design of the interface. The composition is slightly angled, adding a dynamic, documentary feel, as if capturing a real moment of user engagement in a tech environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:57.725260",
+  "word_count": 118,
+  "error_message": null
+}

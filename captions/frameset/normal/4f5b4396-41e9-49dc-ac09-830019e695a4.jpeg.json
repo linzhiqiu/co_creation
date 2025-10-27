@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f5b4396-41e9-49dc-ac09-830019e695a4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, surreal scene unfolds on a seemingly endless concrete expanse, stretching to the horizon beneath a pale, overcast sky. Hundreds—perhaps thousands—of basketball players are arranged in perfect, regimented rows that recede into the distance, creating a mesmerizing sense of infinity and symmetry. Each player is mid-dribble, captured in dynamic motion with basketballs bouncing in unison, their bodies angled in athletic stances. They wear matching uniforms: black sleeveless jerseys paired with electric blue shorts, and black athletic shoes. The players’ expressions are focused and intense, unified in concentration.\n\nThe background is stark and minimal, with distant, hazy mountain ranges under a soft, diffused light that casts gentle shadows and enhances the cool, muted color palette of grays, blues, and blacks. The camera angle is high and centered, emphasizing the geometric precision and scale of the formation, with a strong sense of depth and vanishing point perspective. The overall style is cinematic and hyperreal, evoking a sense of discipline, repetition, and surreal grandeur, as if time and space are suspended in this moment of collective athleticism.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:42.530377",
+  "word_count": 175,
+  "error_message": null
+}

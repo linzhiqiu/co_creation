@@ -1,0 +1,12 @@
+{
+  "image_filename": "5dbb1a4a-db9c-4c41-adf7-db93c8952b11.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA breathtaking, tranquil landscape featuring a pristine alpine lake in the foreground, its glassy surface perfectly mirroring the dense evergreen forest and rugged, snow-dusted mountain range beyond. The scene is bathed in clear, natural daylight under a cloudless, deep blue sky, creating a crisp and vibrant color palette dominated by rich greens, cool blues, and the muted grays and whites of the distant peaks. The composition is wide and cinematic, with a low, eye-level camera angle that emphasizes the symmetry between the landscape and its reflection in the still water. The forest appears lush and untouched, with tall pine trees stretching up toward the mountains, while the jagged ridges and patches of lingering snow add dramatic texture to the background. The overall mood is serene and majestic, evoking a sense of untouched wilderness and peaceful solitude. The lighting is even and natural, with no harsh shadows, enhancing the clarity and detail throughout the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:17.747034",
+  "word_count": 155,
+  "error_message": null
+}

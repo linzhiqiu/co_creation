@@ -1,0 +1,12 @@
+{
+  "image_filename": "179825f2-a689-404a-a7e0-9a782aea35bb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a retro-style toy robot in a dimly lit indoor setting. The robot is predominantly white with colorful accents—yellow on the sides of its head, red and blue panels on top, and a large black visor-like faceplate. Its eyes glow an intense red, casting a subtle light onto its glossy plastic surface, and a simple, painted-on smile gives it a friendly yet slightly uncanny expression. The robot’s chest features a series of vintage, multicolored buttons and dials, reminiscent of 1980s toy design. The background is softly blurred, with hints of a wall and a partially visible, out-of-focus poster, enhancing the sense of nostalgia. The lighting is low and moody, with a warm, ambient glow that creates gentle shadows and highlights the robot’s contours. The overall style is evocative of classic science fiction films, with a shallow depth of field and a focus on the robot’s expressive face, capturing both charm and a subtle sense of mystery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:35.054175",
+  "word_count": 160,
+  "error_message": null
+}

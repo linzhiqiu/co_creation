@@ -1,0 +1,12 @@
+{
+  "image_filename": "44700ae0-3591-4d57-a02b-d4c5ae7fb5bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a black-and-white photograph of an old, oval-framed portrait painting resting among a stack of books. The central subject is a young woman with dark, wavy hair styled close to her head, parted in the middle. She wears a high-collared, dark dress with a delicate lace collar, exuding a 19th-century or Victorian-era aesthetic. Her expression is calm and composed, with large, dark eyes gazing directly at the viewer, and her lips are set in a neutral, almost enigmatic manner. The frame is ornate but worn, with visible texture and patina, suggesting age and history. The background is softly blurred, with the spines of several books visible to the left and right, their titles partially legible, adding a sense of intellectual or literary context. The lighting is soft and diffuse, casting gentle shadows that enhance the vintage, nostalgic mood. The overall composition is intimate and slightly off-center, with a shallow depth of field that draws focus to the portrait while subtly hinting at the surrounding environment. The style is reminiscent of classic documentary or fine art photography, evoking a sense of memory, time, and quiet reverence.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:47.727854",
+  "word_count": 194,
+  "error_message": null
+}

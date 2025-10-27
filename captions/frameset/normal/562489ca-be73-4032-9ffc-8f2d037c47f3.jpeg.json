@@ -1,0 +1,12 @@
+{
+  "image_filename": "562489ca-be73-4032-9ffc-8f2d037c47f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic close-up of an old metal oscillating fan dominates the foreground, its wire cage and central logo rendered in sharp focus. The fan is slightly off-center, angled upward, and bathed in cool, bluish ambient light, emphasizing the metallic texture and subtle reflections on its surface. In the softly blurred background, a small, boxy CRT television is mounted high on a wall, displaying a colorful but indistinct image—possibly a sports broadcast or lively show—adding a nostalgic, retro atmosphere. The ceiling above is lined with horizontal panels, contributing to the sense of an indoor, perhaps slightly worn or utilitarian space. The overall color palette is subdued, with cool blues and muted grays dominating, punctuated by the warm, out-of-focus hues from the television screen. The composition uses a shallow depth of field to create a strong sense of separation between the crisp, detailed fan and the dreamy, abstracted background, evoking a contemplative, almost melancholic mood reminiscent of classic film stills or vintage photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:16.791932",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "27e3eef8-2f1f-40b9-84d4-09804b4ce4ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution, wide-angle interior shot of a modern car, viewed from the back seat and angled toward the front passenger side. The focus is on the front passenger seat, which is occupied not by a person, but by a complex robotic apparatus. This machine, constructed from metal rails, joints, and electronic components, is mounted securely on the seat and appears to be designed for automated vehicle control or testing. The dashboard and steering wheel are partially visible on the left, with the car door open, allowing natural daylight to flood the cabin. The background outside the car shows a serene, open landscape with green fields under a pale blue sky, creating a stark contrast between the technological interior and the natural exterior. The color palette is dominated by neutral tones—beige leather seats, black dashboard, and metallic machinery—accentuated by the soft, diffuse daylight. The overall style is documentary and technical, with a clear, unfiltered look that emphasizes realism and detail. The composition draws the viewer’s eye to the juxtaposition of advanced robotics and everyday automotive design, evoking a sense of innovation and experimentation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:22.044185",
+  "word_count": 182,
+  "error_message": null
+}

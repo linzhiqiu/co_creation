@@ -1,0 +1,12 @@
+{
+  "image_filename": "28eae0f2-48cd-461c-8b0f-cb30977d1648.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet, sunlit European street scene in a small town, captured in a cinematic, naturalistic style. The composition is framed from the perspective of someone inside or just outside a yellow car parked on the right side of the street, with the car’s side mirror and window dominating the foreground in soft focus. In the midground, a red vintage hatchback car drives toward the viewer along the empty road, its headlights and boxy shape clearly visible. The background features pastel-colored, historic buildings with ornate balconies and large windows, their facades bathed in gentle daylight. The street is lined with trees casting soft shadows, and the sky is clear and blue, suggesting a calm, pleasant day. The color palette is dominated by warm yellows, reds, and cool blues, with natural lighting creating a serene, almost nostalgic atmosphere. The camera angle is slightly low and off-center, enhancing the sense of depth and realism, while the shallow depth of field keeps the focus on the approaching car and the immediate environment, evoking a moment of quiet anticipation or transition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:48.194657",
+  "word_count": 176,
+  "error_message": null
+}

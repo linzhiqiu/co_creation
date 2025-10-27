@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ccc2987-3137-4c5a-8b08-0b2a53f4c53b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling Parisian street market scene viewed from an elevated, slightly angled perspective, evoking a candid, documentary style. The composition centers on a narrow sidewalk lined with small, colorful storefronts—one with a blue façade and a warmly lit window displaying white garments, another with a red-and-yellow awning advertising \"PRIX\" and \"France-soir.\" The street is animated with a diverse crowd of pedestrians, most dressed in muted, earth-toned coats and hats typical of mid-20th-century urban Europe. Some figures are engaged in conversation, while others browse or walk purposefully past the shops. Street vendors with green carts display produce and goods, adding to the lively, everyday atmosphere. The color palette is naturalistic but slightly desaturated, with pops of primary colors from shop signs and produce. The lighting is soft and diffuse, suggesting an overcast day, with gentle shadows and a cool, ambient tone. The overall style is reminiscent of classic European cinema, with a deep depth of field capturing both foreground activity and background details, immersing the viewer in the vibrant, lived-in world of the city.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:39.191111",
+  "word_count": 173,
+  "error_message": null
+}

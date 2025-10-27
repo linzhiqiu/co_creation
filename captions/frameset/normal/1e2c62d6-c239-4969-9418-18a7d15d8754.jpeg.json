@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e2c62d6-c239-4969-9418-18a7d15d8754.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic nighttime scene featuring a group of six soldiers in World War II-era uniforms, crouched and prone behind railroad tracks in an industrial setting. The soldiers wear dark helmets and heavy gear, their faces partially illuminated by stark, directional lighting that casts deep shadows and heightens the sense of suspense. Some soldiers are aiming rifles or machine guns, while others appear to be scanning the area or communicating, all exuding a sense of alertness and readiness. The background is dominated by massive concrete and corrugated metal industrial structures, looming and monolithic, with vertical lines and hard edges that add to the atmosphere of tension and confinement. The color palette is monochromatic, rendered in dramatic black and white, emphasizing contrasts and textures. The composition is low and wide, with the camera positioned at ground level, parallel to the tracks, creating a strong sense of depth and drawing the viewer’s eye toward the soldiers and the imposing industrial backdrop. The overall style is reminiscent of classic war films or noir photography, with high contrast lighting, deep shadows, and a gritty, realistic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:59.967542",
+  "word_count": 182,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "20e157f8-62ac-47b5-b831-507d19351156.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary car drives along a winding, deserted road at night, its headlights piercing through the deep darkness. The scene is composed with a wide, cinematic angle, placing the vehicle off-center and emphasizing the vast emptiness and isolation of the setting. The road curves gently, bordered by metal guardrails that catch the faint glow of the headlights, while dense, shadowy foliage looms on the right side, almost swallowing the frame in blackness. The color palette is dominated by inky blues and blacks, with subtle reflections of light on the wet asphalt, suggesting recent rain. The lighting is minimal and moody, with the car’s headlights providing the only significant illumination, casting long, dramatic shadows and creating a sense of suspense and mystery. The overall style is atmospheric and filmic, evoking a tense, nocturnal mood reminiscent of classic thriller or noir cinema.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:52.762692",
+  "word_count": 140,
+  "error_message": null
+}

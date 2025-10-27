@@ -1,0 +1,12 @@
+{
+  "image_filename": "50be3100-3a4d-423e-9223-d2638743960d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up cinematic shot of a young man with short, dark hair, standing in a softly lit dojo. He wears a cream-colored martial arts gi with a black collar, the fabric slightly rumpled, suggesting recent physical activity. His expression is serious and contemplative, with a hint of vulnerability, as he gazes forward, slightly off-center. The background features large, grid-like shoji screens that diffuse the daylight, casting a gentle, even glow throughout the room. The color palette is muted and natural, dominated by soft creams, beiges, and subtle shadows, creating a calm, introspective atmosphere. The lighting is diffuse and atmospheric, with a slight backlight that highlights the subject’s hair and shoulders, adding depth and a sense of realism. The camera angle is at eye level, focusing tightly on the subject’s face and upper torso, with a shallow depth of field that softly blurs the background, drawing attention to the emotional intensity of the moment. The overall style is reminiscent of classic martial arts films, blending minimalism with a sense of quiet tension and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:11.914405",
+  "word_count": 173,
+  "error_message": null
+}

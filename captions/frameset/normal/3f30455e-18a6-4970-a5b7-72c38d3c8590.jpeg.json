@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f30455e-18a6-4970-a5b7-72c38d3c8590.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young boy stands outdoors on a sunny day, captured in a dynamic, low-angle shot that emphasizes his upward gaze and outstretched arms. He wears a maroon short-sleeve shirt with bold white and yellow stripes on the sleeves, evoking a retro, athletic feel. His expression is focused and determined, eyes fixed above as he prepares to shoot a basketball, though the ball itself is only partially visible at the top of the frame. The background features a clear blue sky intersected by power lines and the blurred outlines of leafy green trees, suggesting a suburban neighborhood setting. The lighting is natural and bright, casting soft shadows and highlighting the boy’s features and the texture of his shirt. The color palette is warm and vibrant, dominated by earthy reds, greens, and the crisp blue of the sky. The composition uses shallow depth of field to keep the boy sharply in focus while the background remains softly blurred, lending a cinematic, coming-of-age atmosphere to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:54.362565",
+  "word_count": 164,
+  "error_message": null
+}

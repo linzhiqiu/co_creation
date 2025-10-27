@@ -1,0 +1,12 @@
+{
+  "image_filename": "536b30fa-4328-40c2-a3d8-89b207dc69aa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with a mustache, wearing a light khaki short-sleeved shirt, leans intently over an open container inside a dimly lit vehicle. He is illuminated by the harsh, direct beam of a flashlight, which he holds in one hand, casting dramatic shadows across his face and creating a striking blue lens flare across the image. The man’s expression is tense and focused, his brow furrowed as he peers into the container, suggesting a moment of discovery or investigation. The background is dark and indistinct, with only hints of the car’s interior visible, enhancing the sense of isolation and suspense. The color palette is muted, dominated by earthy tones and the cold white of the flashlight, with the lens flare adding a touch of vivid blue. The composition is tight and intimate, shot from a slightly high angle that draws the viewer into the man’s perspective. The overall style is cinematic, evoking a sense of mystery and tension, with a shallow depth of field that keeps the focus squarely on the man and his actions.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:11.850835",
+  "word_count": 175,
+  "error_message": null
+}

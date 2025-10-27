@@ -1,0 +1,12 @@
+{
+  "image_filename": "5981526c-dbf5-4e40-9cde-6cec37114133.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a minimalist digital composition featuring the iconic Google logo centered on a pristine white background. The logo should be rendered in a clean, sans-serif typeface, with each letter distinctly colored: blue for \"G\", red for the first \"o\", yellow for the second \"o\", blue for \"g\", green for \"l\", and red for \"e\". The overall style is flat and modern, with no shadows or gradients, emphasizing clarity and simplicity. The composition should evoke a sense of openness and approachability, with ample negative space surrounding the logo, drawing the viewer’s focus directly to the vibrant, playful lettering. The lighting is even and neutral, with no visible texture or depth, maintaining a crisp and professional appearance reminiscent of contemporary tech branding.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:40.271832",
+  "word_count": 121,
+  "error_message": null
+}

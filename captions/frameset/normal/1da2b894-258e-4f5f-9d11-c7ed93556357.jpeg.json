@@ -1,0 +1,12 @@
+{
+  "image_filename": "1da2b894-258e-4f5f-9d11-c7ed93556357.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary vintage sedan is parked in the center of a stark, minimalist scene, its silhouette sharply defined against a pitch-black background. The car is rendered in high-contrast black and white, with crisp highlights accentuating its classic, boxy contours and chrome details. The ground beneath the vehicle glistens with scattered, reflective particles—resembling dew, shattered glass, or wet gravel—catching the light in a constellation of bright, sparkling points. The lighting is dramatic and directional, casting deep shadows and emphasizing the car’s form while leaving the rest of the environment in total darkness. The composition is cinematic and moody, with the car positioned in profile and occupying the horizontal center of the frame, evoking a sense of isolation and mystery. The overall style is reminiscent of noir photography or a still from an art-house film, with a focus on negative space, minimalism, and a haunting, contemplative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:48.260453",
+  "word_count": 145,
+  "error_message": null
+}

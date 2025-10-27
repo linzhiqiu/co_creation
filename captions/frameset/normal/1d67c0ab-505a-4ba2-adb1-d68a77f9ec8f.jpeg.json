@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d67c0ab-505a-4ba2-adb1-d68a77f9ec8f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, intimate scene set in a modern living room at night. Two young adults, a man and a woman, sit close together on a muted orange sofa, engaged in a warm, animated conversation. The man, with short dark hair, wears a tan suede jacket over a white shirt and light khaki pants, his posture relaxed and open as he leans back, one arm draped over the back of the couch. The woman, with long dark hair and bangs, wears a light blue denim jacket over a dark top and ripped jeans, sitting cross-legged and leaning forward with a bright, genuine smile, her body language expressive and engaged.\n\nThe background features large leafy houseplants and a softly lit window, suggesting a nighttime urban setting. The lighting is soft and warm, casting gentle shadows and creating a welcoming, intimate atmosphere. The color palette is dominated by earthy tones—tan, blue, and orange—complemented by the teal throw pillow and the subtle green of the plants. A red plastic cup and a bowl of snacks on the table in the foreground hint at a casual gathering or party, but the focus remains on the connection between the two subjects.\n\nThe composition uses a shallow depth of field, keeping the couple in sharp focus while the background is softly blurred, enhancing the sense of intimacy. The camera angle is eye-level, drawing the viewer into the conversation and emphasizing the natural, candid mood. The overall style is cinematic and contemporary, with a focus on authentic emotion and the quiet warmth of human connection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:44.963147",
+  "word_count": 257,
+  "error_message": null
+}

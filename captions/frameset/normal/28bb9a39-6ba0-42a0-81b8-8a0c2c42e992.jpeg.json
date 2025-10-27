@@ -1,0 +1,12 @@
+{
+  "image_filename": "28bb9a39-6ba0-42a0-81b8-8a0c2c42e992.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white image depicting a retro-futuristic surveillance scene. The composition centers on a large, old-fashioned television monitor displaying a live feed of an elegant dinner party. On the screen, a well-dressed man in a white tuxedo and a woman in a dark evening gown sit at a round table, engaged in conversation over a formal meal, surrounded by other guests in formal attire. The background of the televised scene is a grand, opulent ballroom filled with round tables, chandeliers, and people mingling, evoking a sense of mid-20th-century sophistication.\n\nThe monitor itself is embedded in a control panel filled with exposed wires, dials, and mechanical components, suggesting a hidden observation room or a secret control center. The lighting is soft and diffused, with high contrast typical of classic film noir, emphasizing the glamour of the party and the cold, clinical feel of the surveillance equipment. The camera angle is slightly elevated, looking down at the control panel and up at the monitor, creating a voyeuristic perspective. The overall style is cinematic, reminiscent of 1960s spy films, blending elegance with an undercurrent of tension and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:43.225589",
+  "word_count": 184,
+  "error_message": null
+}

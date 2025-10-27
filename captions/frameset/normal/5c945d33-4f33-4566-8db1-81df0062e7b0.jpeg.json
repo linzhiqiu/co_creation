@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c945d33-4f33-4566-8db1-81df0062e7b0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young woman with an intense, determined expression. She has black athletic eye paint under both eyes, suggesting a competitive or sports context. Her face fills most of the frame, with sharp focus on her eyes, which are slightly narrowed and looking directly at the camera, conveying focus and resolve. Her lips are parted as if she is about to speak or breathe heavily, adding a sense of immediacy and action. The lighting is soft and natural, highlighting the smooth texture of her skin and subtle blush on her cheeks. The background is blurred, creating a shallow depth of field that keeps all attention on her face. The color palette is muted and natural, with soft browns, blacks, and hints of pink. The overall style is modern and dynamic, reminiscent of a sports drama film, with a sense of motion and energy captured in the subject’s gaze and expression.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:53.306754",
+  "word_count": 155,
+  "error_message": null
+}

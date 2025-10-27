@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ce0d995-f794-4b80-82a7-7034e36adc21.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, bald humanoid android with porcelain-like skin stands against a textured, neutral-toned wall. Soft, diffused lighting highlights delicate facial features and subtle shadows, evoking an uncanny, contemplative mood. The composition is centered, with a shallow depth of field and a minimalist, almost clinical atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:36.605917",
+  "word_count": 45,
+  "error_message": null
+}

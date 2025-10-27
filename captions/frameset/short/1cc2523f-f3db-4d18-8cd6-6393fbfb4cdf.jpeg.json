@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cc2523f-f3db-4d18-8cd6-6393fbfb4cdf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A softly lit, vintage interior scene featuring a classic wooden wall clock with a glass front, its pendulum visible, and a small ship’s wheel decor mounted beside it. The textured cream wallpaper and diffused daylight from the left evoke a nostalgic, tranquil atmosphere with muted, natural tones.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:22.752922",
+  "word_count": 47,
+  "error_message": null
+}

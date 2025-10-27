@@ -1,0 +1,12 @@
+{
+  "image_filename": "3de425d1-dd81-4212-ad62-5c0915aa8967.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, documentary-style photograph of an outdoor running track in early spring, under a pale, slightly overcast sky with soft sunlight filtering through thin clouds. In the foreground, a man stands on the grass at the edge of the track, facing away from the camera. He wears a white long-sleeve athletic shirt, black shorts with white stripes, and a white cap, his arms crossed as he observes the runners. In the midground, two athletes sprint side by side on the red track, captured mid-stride with dynamic motion. Both wear dark athletic gear, one in all black and the other in a black and white top with black shorts, their faces focused and determined. The background features empty metal bleachers and leafless trees, suggesting a chilly season. The color palette is muted and natural, with subdued greens, browns, and grays, and the lighting is soft and diffused, creating gentle shadows. The composition uses a wide-angle perspective, with a shallow depth of field that keeps the runners and observer in focus while the background is slightly blurred, evoking a sense of anticipation and quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:31.216762",
+  "word_count": 183,
+  "error_message": null
+}

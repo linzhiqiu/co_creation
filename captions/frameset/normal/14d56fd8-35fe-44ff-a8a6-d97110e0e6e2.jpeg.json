@@ -1,0 +1,12 @@
+{
+  "image_filename": "14d56fd8-35fe-44ff-a8a6-d97110e0e6e2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-resolution image of deep space, focusing on a luminous galactic core surrounded by a swirling, diffuse nebula. The central subject is a glowing, golden-yellow light source, radiating softly and partially obscured by wisps of cosmic dust and gas. The nebula forms a hazy, ethereal cloud that gradually fades into the darkness, with subtle gradients of amber, ochre, and muted brown. Scattered throughout the scene are countless tiny, sharp points of starlight, varying in brightness and size, set against a vast, inky black background. The overall composition is centered, with the galactic core drawing the viewer’s eye, and the surrounding stars and nebula creating a sense of immense scale and depth. The lighting is soft and diffused, evoking a mysterious, awe-inspiring mood. The style is realistic yet slightly painterly, reminiscent of astrophotography or a scene from a science fiction film, with a wide-angle perspective and a deep sense of space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:31.801282",
+  "word_count": 152,
+  "error_message": null
+}

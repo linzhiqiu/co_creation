@@ -1,0 +1,12 @@
+{
+  "image_filename": "40eef1d3-2d15-42e2-b91e-c4d5ef34751a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA young woman with long dark hair, dressed in a crisp light blue button-up shirt, sits alone at a modern office desk, working intently on a black laptop. Her expression is focused and slightly serious, illuminated by the soft, cool glow of overhead fluorescent lights that create a gentle bokeh effect in the blurred background, suggesting a spacious, open-plan office at night. The desk is sparsely decorated, featuring a black desk lamp casting a subtle pool of light, a closed notebook, and a few scattered office supplies, emphasizing a late-night work atmosphere. The color palette is dominated by cool tones—blues, blacks, and muted greens—conveying a calm, professional, and slightly somber mood. The composition is centered, with a shallow depth of field that keeps the woman and her immediate workspace in sharp focus while the background remains softly out of focus, enhancing the sense of isolation and dedication. The overall style is cinematic, reminiscent of a late-night office scene in a contemporary drama, with a realistic, documentary-like quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:27.447820",
+  "word_count": 168,
+  "error_message": null
+}

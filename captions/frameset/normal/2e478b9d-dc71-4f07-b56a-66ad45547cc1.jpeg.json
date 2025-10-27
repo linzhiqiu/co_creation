@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e478b9d-dc71-4f07-b56a-66ad45547cc1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA minimalist, cinematic scene set in a dark, empty room with a single, vertical rectangular light source at the center. The light source is a glowing smartphone screen, casting a faint, diffused reflection on the polished floor below. The phone displays two social media posts, each featuring abstract, ethereal images—one of hands wiping away condensation on glass, the other a collage of overlapping photographs. The posts are accompanied by short, poetic captions about film ideas. The surrounding space is enveloped in deep shadow, creating a stark contrast that draws the viewer’s eye to the illuminated screen. The color palette is subdued, dominated by cool blues and soft whites from the phone’s display, with the rest of the scene rendered in near-total blackness. The composition is symmetrical and centered, evoking a sense of isolation and introspection. The overall style is moody and contemplative, with a shallow depth of field and a subtle grain that gives the image a dreamlike, cinematic quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:43.476582",
+  "word_count": 161,
+  "error_message": null
+}

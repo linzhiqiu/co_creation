@@ -1,0 +1,12 @@
+{
+  "image_filename": "26dd3709-f347-4939-84ab-2c3670187ac3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-contrast overhead shot of a dark, rain-soaked urban street at night. The scene is illuminated by a single, harsh light source reflecting off a puddle in the center of the frame, creating a glowing, almost ethereal effect. Water droplets are captured mid-splash as they hit the puddle, sending ripples and small splashes outward, frozen in time. The surrounding pavement is slick and textured, with patches of wetness and scattered debris, rendered in deep blacks and muted grays. The upper left corner fades into shadow, while the right side of the image is dusted with a light layer of what appears to be salt or residue, adding to the gritty realism. The overall mood is moody and atmospheric, evoking a sense of solitude and quiet tension. The color palette is monochromatic, dominated by shades of black, gray, and white, with a subtle metallic sheen. The composition emphasizes negative space and the interplay of light and shadow, reminiscent of neo-noir cinematography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:04.517004",
+  "word_count": 162,
+  "error_message": null
+}

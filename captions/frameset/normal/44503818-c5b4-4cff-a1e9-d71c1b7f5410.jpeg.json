@@ -1,0 +1,12 @@
+{
+  "image_filename": "44503818-c5b4-4cff-a1e9-d71c1b7f5410.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, moody nighttime scene set in a modern workspace. The composition is a close-up, over-the-shoulder view of a person’s hand reaching toward a smartphone lying on a dark desk. The phone screen glows with a messaging app open, displaying a series of blue and white chat bubbles, suggesting an ongoing conversation. The person’s hand is partially illuminated by the phone’s cool light, with the rest of the arm clad in a business shirt, hinting at a professional environment. To the right, a white ceramic mug sits beside an open laptop, its keyboard and a portion of the screen visible. The laptop screen displays a business presentation with charts and text, softly lit by the screen’s warm glow. The background is blurred, emphasizing the foreground objects and creating a shallow depth of field. The color palette features deep blues, muted grays, and soft whites, with contrasting warm and cool lighting that evokes a late-night, focused atmosphere. The overall style is sleek and contemporary, with a hint of narrative tension, as if capturing a quiet, introspective moment of late-night work or communication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:38.608119",
+  "word_count": 182,
+  "error_message": null
+}

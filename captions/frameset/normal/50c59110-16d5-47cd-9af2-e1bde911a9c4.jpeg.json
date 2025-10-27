@@ -1,0 +1,12 @@
+{
+  "image_filename": "50c59110-16d5-47cd-9af2-e1bde911a9c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of an East Asian man with straight, jet-black hair cut in a sharp bob, his face partially obscured as he raises his hand to the side of his head in a dramatic, almost defensive gesture. He wears a vibrant blue jacket, the fabric catching the light with a subtle sheen. The background is softly out of focus, featuring warm yellow and orange tones, possibly from a wall adorned with posters or charts, adding a sense of depth and context suggestive of a classroom or institutional setting. The lighting is moody and directional, casting gentle highlights on the subject’s hair and hand, while leaving parts of his face in shadow, creating a sense of tension and introspection. The composition is tight and intimate, with a shallow depth of field that draws attention to the texture of the hair and the expressive gesture, evoking a moment of vulnerability or contemplation. The overall style is reminiscent of modern arthouse cinema, with a rich, saturated color palette and a focus on emotional nuance through close framing and selective focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:20.130348",
+  "word_count": 179,
+  "error_message": null
+}

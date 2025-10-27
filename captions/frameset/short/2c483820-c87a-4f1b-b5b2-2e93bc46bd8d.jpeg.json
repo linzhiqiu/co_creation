@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c483820-c87a-4f1b-b5b2-2e93bc46bd8d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle shot of a classic car driving down a dusty desert road at dusk. The car’s side and antenna are in sharp focus, with soft, fading sunlight casting a blue and orange gradient across the landscape. The mood is contemplative and atmospheric, evoking solitude and open-road freedom.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:00.876443",
+  "word_count": 49,
+  "error_message": null
+}

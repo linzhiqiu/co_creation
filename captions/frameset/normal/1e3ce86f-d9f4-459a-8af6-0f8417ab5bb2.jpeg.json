@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e3ce86f-d9f4-459a-8af6-0f8417ab5bb2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up shot of a modern smartphone lying face-up on a rough, weathered rock surface outdoors at dusk. The phone screen is illuminated, displaying an incoming call from a contact labeled \"BEBE,\" with the call interface softly glowing in cool blue-green tones. The background is blurred, creating a shallow depth of field that draws attention to the phone while rendering the surrounding environment indistinct and moody. The overall color palette is dominated by deep blues and muted grays, evoking a somber, contemplative atmosphere. The lighting is low and natural, suggesting the scene takes place during twilight or early evening, with soft, diffuse shadows and a gentle, melancholic ambiance. The composition is intimate and focused, with the phone slightly off-center, emphasizing a sense of isolation and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:59.855277",
+  "word_count": 128,
+  "error_message": null
+}

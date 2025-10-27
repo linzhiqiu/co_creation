@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e46b3ef-ca1f-4168-895e-15db0536b972.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, vintage newspaper front page from the late 19th or early 20th century, dominated by a large, bold headline reading \"MAN SOUGHT\" in distressed yellow letters. Superimposed beneath the headline is a haunting, sepia-toned portrait of a middle-aged man with a somber, slightly blurred expression, his face partially obscured by grain and shadow, evoking a sense of mystery and unease. The background consists of densely packed columns of old-fashioned newsprint, with faded, weathered text and advertisements, rendered in muted browns and ochres. The overall color palette is warm and subdued, with deep shadows and a soft, diffused glow, as if the image were projected from an old film reel or lantern slide. The composition is flat and frontal, with a shallow depth of field that keeps the focus on the man’s face and the headline, while the surrounding text fades into obscurity. The style is cinematic and atmospheric, reminiscent of classic noir or historical documentary footage, with a palpable sense of suspense and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:37.586944",
+  "word_count": 166,
+  "error_message": null
+}

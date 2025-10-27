@@ -1,0 +1,12 @@
+{
+  "image_filename": "2baed48d-70a7-48a5-87ab-ed205169d01b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single modern smartphone lies face-up on a flat, matte teal surface, partially obscuring a large, irregular pool of deep red liquid that strongly resembles blood. The phone’s screen is dark and reflective, hinting at inactivity or abandonment. The composition is minimalistic and centered, with the phone and the blood pool forming the focal point against the empty, textured background. The lighting is cool and subdued, casting soft, diffused shadows and enhancing the contrast between the stark red of the liquid and the muted blue-green of the floor. The overall mood is tense and cinematic, evoking a sense of mystery or aftermath. The camera angle is directly overhead, creating a clinical, almost forensic perspective, while the shallow depth of field keeps the entire scene in sharp focus. The color palette is dominated by cold tones, with the vivid red providing a dramatic, unsettling accent. The style is reminiscent of neo-noir or psychological thriller cinematography, emphasizing isolation and the gravity of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:49.975582",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "47422a90-808a-4085-b5c7-0929329cc721.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, sparsely furnished surveillance room with muted beige walls and a single large window letting in soft, natural daylight. In the foreground, a man in a white dress shirt sits in a gray office chair, his back to the camera, partially silhouetted and contemplative as he observes multiple monitors. The screens display black-and-white footage of an intense police interrogation: two figures sit across from each other at a table, their body language tense and formal. The room is cluttered with old-fashioned CRT monitors, a keyboard, and wire baskets filled with papers, evoking a sense of bureaucratic routine. The color palette is subdued, dominated by cool grays, pale blues, and the faint yellow of the walls, with deep shadows creating a moody, cinematic atmosphere. The composition uses a medium-wide shot from behind the observer, emphasizing his isolation and the voyeuristic nature of surveillance. The overall style is reminiscent of a neo-noir crime drama, with a shallow depth of field and naturalistic, low-key lighting that heightens the sense of secrecy and psychological tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:43.396783",
+  "word_count": 173,
+  "error_message": null
+}

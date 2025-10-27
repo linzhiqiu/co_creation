@@ -1,0 +1,12 @@
+{
+  "image_filename": "139e62d7-ed0b-4e12-89e4-2c9d10a49fe0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-sized, modern gray SUV is driving along a winding two-lane road through a dense pine forest. The vehicle is viewed from a low, rear three-quarter angle, emphasizing its dynamic motion as it travels away from the camera. On the roof rack, two brightly colored kayaks—one yellow and one orange—are securely fastened, their vibrant hues contrasting sharply with the muted tones of the car and the natural surroundings. The road is bordered by tall, straight pine trees, their deep green needles creating a serene, outdoor atmosphere. The sky is overcast, casting a soft, diffused light that enhances the cool, subdued color palette of grays, greens, and earth tones, while the kayaks provide a pop of color. The composition captures a sense of adventure and freedom, with the SUV centered in the frame and the road leading the viewer’s eye into the distance. The overall style is cinematic, with a shallow depth of field that keeps the car and kayaks in sharp focus while gently blurring the background, evoking the feeling of a road trip or outdoor escape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:01.753006",
+  "word_count": 177,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e853612-b2c6-4e75-9ee0-01b037a4db95.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of people is seen jogging together under a modern, open-air structure with a geometric, ribbed ceiling. The camera angle is positioned from behind, capturing the runners as they move away from the viewer, creating a sense of motion and unity. The group is diverse, with both men and women, most dressed in dark athletic wear, except for one woman in the center who stands out in a white tank top. The lighting is warm and diffused, suggesting either early morning or late afternoon, casting soft shadows and giving the scene a golden, cinematic glow. The background features urban architectural elements, including concrete and glass, with the lines of the ceiling drawing the eye toward the vanishing point. The overall style is naturalistic yet dynamic, with a shallow depth of field that keeps the focus on the runners while subtly blurring the background, emphasizing the energy and collective spirit of the group in motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:34.897496",
+  "word_count": 155,
+  "error_message": null
+}

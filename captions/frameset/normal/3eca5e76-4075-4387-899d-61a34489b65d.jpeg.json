@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eca5e76-4075-4387-899d-61a34489b65d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of a stainless steel kettle or pitcher filled with hot water, with a metal analog thermometer inserted into the liquid. The thermometer’s dial is prominently in focus, its needle pointing to a temperature in the mid-range, with condensation and droplets visible on the rim of the vessel, emphasizing the heat and freshness. The background is softly blurred, suggesting a cozy indoor setting with hints of natural light filtering through a window, and subtle, out-of-focus shapes that evoke a kitchen or café environment. The color palette is warm and natural, with silvery metallic reflections, soft browns, and gentle greens from the background. The lighting is diffuse and natural, creating a calm, inviting atmosphere. The composition uses a shallow depth of field to draw attention to the thermometer and the vessel, with a slight vignette effect that adds a cinematic, documentary feel. The overall mood is one of quiet anticipation, capturing a precise moment in the ritual of making coffee or tea.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:49.076230",
+  "word_count": 165,
+  "error_message": null
+}

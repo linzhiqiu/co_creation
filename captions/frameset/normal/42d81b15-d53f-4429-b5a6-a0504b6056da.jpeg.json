@@ -1,0 +1,12 @@
+{
+  "image_filename": "42d81b15-d53f-4429-b5a6-a0504b6056da.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young boy stands outdoors in bright daylight, intently focused on solving a Rubik’s Cube held in his hands. He wears a short-sleeved, blue henley shirt with subtle horizontal stripes, and his dark hair is slightly tousled. His expression is one of concentration and curiosity, with his gaze directed downward at the puzzle. The background features a large, modern concrete building with a minimalist facade, characterized by horizontal rows of rectangular windows and a muted gray color palette. The scene is shot from a slightly low angle, giving the boy a sense of presence against the stark, geometric backdrop. The lighting is natural and crisp, casting soft shadows and highlighting the textures of the boy’s hair and clothing. The overall composition is clean and uncluttered, with a shallow depth of field that keeps the boy in sharp focus while gently blurring the background, evoking a contemplative and cinematic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:11.614581",
+  "word_count": 149,
+  "error_message": null
+}

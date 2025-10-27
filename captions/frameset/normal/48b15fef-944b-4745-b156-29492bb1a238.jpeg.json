@@ -1,0 +1,12 @@
+{
+  "image_filename": "48b15fef-944b-4745-b156-29492bb1a238.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of an old, weathered book lying open on a wooden surface, its thick, yellowed pages rough and uneven at the edges, suggesting age and frequent handling. The book is opened to the center, with the word \"BACKBONE\" boldly handwritten across both pages in large, black, expressive letters that stretch from the top to the bottom of the paper, crossing the book’s spine. The lighting is warm and natural, casting soft shadows and highlighting the texture of the paper and wood. The composition is intimate and focused, with a shallow depth of field that blurs the background, drawing attention to the tactile details of the book and the dramatic typography. The overall mood is nostalgic and contemplative, evoking a sense of history and significance, as if the book holds a powerful message or secret. The color palette is dominated by earthy browns, beiges, and warm golden tones, enhancing the vintage, timeless atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:09.191928",
+  "word_count": 154,
+  "error_message": null
+}

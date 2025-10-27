@@ -1,0 +1,12 @@
+{
+  "image_filename": "20dc6dc9-53cb-4d40-a8b5-1b8efbe3fa03.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic stage scene set in near-total darkness, illuminated by sharp, angled beams of white light streaming through a grid-like structure at the back of the stage. The light creates striking, geometric patterns and deep shadows, casting long silhouettes of several human figures moving across the glossy, reflective floor. One central figure is highlighted by a subtle, warm orange glow, possibly from a costume or prop, providing a stark contrast to the otherwise cool, monochromatic palette. The background is shrouded in darkness, with only the beams of light and faint outlines of the set visible, evoking a mysterious, suspenseful atmosphere. The composition is wide and spacious, with a strong sense of depth created by the interplay of light and shadow, and the figures are positioned to emphasize movement and tension within the scene. The overall style is minimalist and theatrical, with a focus on dramatic lighting and mood rather than detailed set design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:55.133109",
+  "word_count": 154,
+  "error_message": null
+}

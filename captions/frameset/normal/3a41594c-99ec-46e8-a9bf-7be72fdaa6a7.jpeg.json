@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a41594c-99ec-46e8-a9bf-7be72fdaa6a7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, wide-angle shot of a clear blue sky dominates the composition, with the sun positioned in the upper left quadrant, radiating bright, star-like beams that create a subtle lens flare effect. Wispy, golden-white clouds stretch horizontally across the lower portion of the frame, softly illuminated by the sunlight, adding a sense of depth and movement. The color palette is warm and inviting, featuring deep azure blues transitioning to gentle yellows and creams near the horizon. The lighting is natural and intense, evoking a late afternoon or early morning atmosphere, with the sun casting a gentle glow over the scene. The overall style is reminiscent of a serene, contemplative moment in a film, with a minimalist approach that emphasizes the vastness of the sky and the tranquility of the moment. The camera angle is slightly tilted upward, enhancing the sense of openness and infinite space, while the shallow depth of field keeps the focus on the interplay between light, sky, and clouds, creating a peaceful and uplifting mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:12.096136",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e91d7ed-4ed1-4f39-aa06-b9f42310980f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person whisking eggs in a large, clear glass bowl. The camera angle is low and intimate, positioned at the level of the wooden countertop, emphasizing the swirling motion of the golden-yellow egg yolks as they begin to blend. The person’s hand, partially visible, holds a metal whisk mid-action, capturing a sense of movement and energy. In the foreground, a few brown eggs rest in a cardboard carton, slightly out of focus, adding depth and context to the scene. The lighting is warm and natural, with soft highlights and gentle shadows that create a cozy, inviting atmosphere reminiscent of early morning or late afternoon sunlight streaming through a kitchen window. The color palette is dominated by rich yellows, warm browns, and subtle earth tones, enhancing the organic, homely feel. The overall style is realistic with a shallow depth of field, drawing attention to the textures of the eggs and the glass, while the background remains softly blurred, suggesting a rustic kitchen environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:19.328773",
+  "word_count": 167,
+  "error_message": null
+}

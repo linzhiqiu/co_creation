@@ -1,0 +1,12 @@
+{
+  "image_filename": "34aee8ee-3cf7-4e46-a974-4a995d7d3b4b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-contrast image featuring a single, dark navy blue price tag centered against a soft, off-white textured background. The tag is rectangular with slightly rounded corners and a small, rounded hole near the top center, suggesting it could be attached to an item. The composition is stark and uncluttered, with the tag casting no visible shadow, emphasizing its flat, graphic quality. The lighting is even and diffuse, eliminating any harsh highlights or deep shadows, and the overall style is clean and modern, evoking a sense of simplicity and focus. The color palette is limited to the deep blue of the tag and the creamy, almost paper-like background, creating a striking visual contrast. The camera angle is directly overhead, presenting the tag in perfect symmetry and isolation, with a shallow depth of field that keeps the entire tag and background in sharp focus. The mood is calm, contemplative, and subtly elegant, reminiscent of contemporary product photography or minimalist graphic design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:06.314588",
+  "word_count": 161,
+  "error_message": null
+}

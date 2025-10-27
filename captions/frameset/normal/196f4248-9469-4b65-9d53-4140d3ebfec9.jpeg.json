@@ -1,0 +1,12 @@
+{
+  "image_filename": "196f4248-9469-4b65-9d53-4140d3ebfec9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene featuring two figures embracing closely in a moment of intimacy, partially silhouetted against a striking architectural wall composed of large, geometric hexagonal cutouts. The figures are dressed in dark, heavy coats, their faces partially obscured as they lean into each other, conveying a sense of comfort and quiet connection. Soft, natural daylight streams through the honeycomb-like openings, casting gentle, diffused shadows and bathing the scene in a muted, almost melancholic palette of cool grays, soft whites, and subtle hints of green from the foliage visible outside. The composition is carefully framed with a shallow depth of field, focusing on the emotional closeness of the subjects while the repeating geometric patterns of the wall create a sense of rhythm and modernist elegance. The overall mood is contemplative and intimate, with a subdued, almost dreamlike quality reminiscent of art-house cinema, emphasizing both the architectural beauty of the setting and the emotional resonance of the embrace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:17.764560",
+  "word_count": 156,
+  "error_message": null
+}

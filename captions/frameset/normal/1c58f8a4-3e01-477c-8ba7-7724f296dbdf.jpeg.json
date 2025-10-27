@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c58f8a4-3e01-477c-8ba7-7724f296dbdf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping, cinematic landscape of rugged mountain terrain under a clear sky. The foreground is dominated by a densely forested, shadowy mountain ridge, its dark green pine trees creating a textured, almost velvety surface. The midground features a prominent, craggy peak, its rocky summit catching subtle highlights from the soft, diffused daylight. In the distance, layers of receding mountain ranges fade into cool blue and gray tones, culminating in a line of snow-capped peaks that glisten under the sunlight. The color palette is natural and subdued, with deep greens, slate blues, and crisp whites. The lighting is gentle and naturalistic, suggesting late afternoon or early morning, with long shadows and a tranquil, contemplative mood. The composition is wide and panoramic, with a high vantage point that emphasizes the vastness and majesty of the wilderness. The overall style is reminiscent of a nature documentary or an epic adventure film, with a focus on grandeur, solitude, and the untamed beauty of the natural world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:18.731536",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d7c5b79-c0e9-4c57-8bf5-d1c8f5b4fc7b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-2000s office scene, captured in a realistic, cinematic style with a shallow depth of field. The central subject is a woman with long, wavy brown hair and bangs, seated at a cluttered desk in the foreground. She wears a dark blazer over a patterned blouse, and a delicate heart-shaped necklace. Her expression is tense and slightly exasperated, mouth open as if caught mid-sentence, conveying stress or urgency. She is holding a large stack of disorganized folders and papers, her hands resting on top, suggesting a heavy workload.\n\nThe background is softly blurred, but several other office workers are visible: a man in a blue shirt talking on the phone, another man in a suit standing near a filing cabinet, and additional figures engaged in typical office tasks. The office is filled with standard furniture—desks, computers, paperwork, and a coffee mug in the foreground. The lighting is cool and fluorescent, casting a slightly harsh, realistic tone over the scene. The color palette is dominated by muted blues, grays, and blacks, enhancing the mundane, slightly oppressive atmosphere of a busy workplace. The camera angle is eye-level, directly facing the woman, creating an intimate, documentary-like feel. The overall mood is one of stress and urgency, capturing the chaotic energy of a high-pressure office environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:53.959986",
+  "word_count": 212,
+  "error_message": null
+}

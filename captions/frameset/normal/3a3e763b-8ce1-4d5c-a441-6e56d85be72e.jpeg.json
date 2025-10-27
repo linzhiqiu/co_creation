@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a3e763b-8ce1-4d5c-a441-6e56d85be72e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-century Japanese television studio set, captured in a wide, symmetrical shot. Two Japanese men in dark suits and ties sit across from each other at a small round table, both wearing glasses and exuding a serious, contemplative demeanor. Their posture is formal, with hands resting on their laps or the table, and their expressions are focused and intent, as if engaged in a thoughtful discussion or interview. On the table between them are two glasses of orange juice, a glass ashtray, and a single, prominent microphone, emphasizing the broadcast setting.\n\nThe background features a pale, neutral wall adorned with four framed illustrations, each labeled with Japanese text and numbers. The images depict a sequence: a classroom, a dinosaur, a building with a red object above it, and finally a large question mark, suggesting a theme of inquiry or progression. The lighting is soft and even, with minimal shadows, creating a calm, almost clinical atmosphere. The color palette is muted, dominated by grays, whites, and subdued earth tones, with the orange juice providing a subtle pop of color.\n\nThe overall style is reminiscent of 1960s Japanese cinema, with a restrained, documentary-like realism. The camera is positioned at eye level, directly facing the subjects, lending the composition a sense of balance and formality. The depth of field is moderate, keeping both men and the background illustrations in clear focus, reinforcing the intellectual and analytical mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:14.236292",
+  "word_count": 237,
+  "error_message": null
+}

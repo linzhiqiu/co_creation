@@ -1,0 +1,12 @@
+{
+  "image_filename": "2aa0e914-21ca-4367-a8aa-26cd2ff03b2d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply dressed man in a dark, tailored suit sits nonchalantly atop a tall, exposed server rack filled with colorful, tangled wires and blinking lights. He is positioned in the center of a sleek, modern office corridor lined with glass walls and vertical blinds, which create a sense of symmetry and depth. The man’s posture is relaxed yet slightly aloof, with one leg dangling and the other bent, his expression contemplative as he gazes off to the side. The corridor is bathed in cool, diffused daylight streaming through the glass, casting soft shadows and lending the scene a muted, almost clinical color palette dominated by pale beiges, grays, and subtle greens. The composition is cinematic, with a wide-angle lens emphasizing the length of the hallway and the isolation of the subject. The overall mood is enigmatic and slightly surreal, blending corporate sterility with a touch of absurdity, reminiscent of a high-concept drama or a stylish thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:29.037502",
+  "word_count": 156,
+  "error_message": null
+}

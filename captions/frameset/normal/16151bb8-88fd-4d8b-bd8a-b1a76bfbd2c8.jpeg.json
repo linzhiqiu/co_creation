@@ -1,0 +1,12 @@
+{
+  "image_filename": "16151bb8-88fd-4d8b-bd8a-b1a76bfbd2c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary off-road vehicle, viewed from above, drives along a pair of parallel dirt tracks cutting through a grassy field. The image is seen through three overlapping circular lenses, creating a triptych effect where the same scene is repeated in each circle, slightly offset but identical in content. The vehicle is dark-colored, boxy, and rugged, with a visible spare tire mounted on the rear. The grass is a muted green, with the dirt tracks forming pale, winding lines that lead the viewer’s eye diagonally across the frame. The background is out of focus beyond the circles, enveloped in deep black, emphasizing the vignetted, almost surveillance-like perspective. The lighting is natural and soft, suggesting daylight but with no harsh shadows, lending a subdued, contemplative mood. The overall style is cinematic and mysterious, with a voyeuristic quality reminiscent of a spy film or a scene observed through binoculars or a scope. The composition is minimalistic, with the repetition of the vehicle and tracks in each lens creating a sense of tension and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:59.625455",
+  "word_count": 171,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "187e800c-421a-4008-9e1e-a35b987bc190.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic black-and-white photograph set in a bustling urban environment, reminiscent of a classic film noir. The central subjects are a sharply dressed man in a tailored suit, exuding confidence and seriousness, and a futuristic humanoid robot with a sleek, mechanical design, standing side by side as they move through a crowded city street. The man’s expression is focused and intense, while the robot’s presence is both striking and enigmatic, drawing the attention of passersby. Around them, blurred figures and indistinct faces create a sense of motion and anonymity, emphasizing the contrast between the human and the machine. The background features urban architecture, street signs, and hints of neon, all rendered in high-contrast monochrome tones. The lighting is dramatic, with deep shadows and bright highlights, enhancing the gritty, atmospheric mood. The composition uses a shallow depth of field to keep the main subjects crisp while the crowd and cityscape fade into soft focus, evoking a sense of isolation and intrigue amidst the chaos.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:53.675225",
+  "word_count": 164,
+  "error_message": null
+}

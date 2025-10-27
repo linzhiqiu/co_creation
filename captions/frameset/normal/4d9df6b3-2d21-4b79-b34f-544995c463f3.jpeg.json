@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d9df6b3-2d21-4b79-b34f-544995c463f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, minimalist room with dark, matte walls and a cool, desaturated color palette dominated by deep blues and grays. The scene is composed with a strong sense of symmetry and order: a group of individuals, all dressed in identical, loose-fitting gray uniforms, sit in rigid rows on simple rectangular stools facing forward. Their postures are upright and attentive, suggesting discipline or indoctrination. At the front of the room stands a single figure, also in gray, positioned beside a large, square display embedded in the wall. The display is filled with a grid of small, illuminated squares and is partially obscured by a chaotic arrangement of photographs or cards, which spill out in a stark contrast to the otherwise orderly environment. Overhead, a geometric skylight casts a cold, diffused light that creates sharp, dramatic shadows and highlights the angular architecture of the space. The overall mood is austere, clinical, and slightly oppressive, evoking themes of surveillance, conformity, or institutional control. The camera angle is slightly elevated and centered, enhancing the sense of detachment and control, with a shallow depth of field that keeps the focus on the group and the display, while the background recedes into darkness. The style is reminiscent of dystopian cinema, with a precise, almost painterly composition and a palpable sense of tension and unease.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:01.690487",
+  "word_count": 219,
+  "error_message": null
+}

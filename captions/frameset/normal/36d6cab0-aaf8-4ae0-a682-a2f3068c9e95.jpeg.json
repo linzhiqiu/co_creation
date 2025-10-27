@@ -1,0 +1,12 @@
+{
+  "image_filename": "36d6cab0-aaf8-4ae0-a682-a2f3068c9e95.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, softly lit domestic scene set in a modern kitchen at night. The foreground is dominated by a tablet or laptop screen, angled slightly from behind and to the left, showing a video call with two people in separate windows. Both participants appear focused and engaged, one gesturing as he speaks, the other listening intently. On the shared screen, handwritten mathematical equations and diagrams in bright pink stand out against a dark background, suggesting a collaborative problem-solving session.\n\nSurrounding the device, the table is scattered with objects that hint at a family environment: a baby bottle filled with milk, a colorful plastic toy, a plush lion, and a bowl of cereal. The lighting is warm and intimate, with a gentle bokeh effect blurring the background, drawing attention to the screen and the objects in the immediate foreground. The overall color palette is muted and natural, with soft blues and warm yellows, evoking a sense of quiet concentration and domestic warmth. The camera angle is slightly over-the-shoulder, creating a sense of immersion and personal perspective, as if the viewer is part of the scene. The style is cinematic, with shallow depth of field and a focus on the interplay between technology, learning, and everyday family life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:54.458209",
+  "word_count": 206,
+  "error_message": null
+}

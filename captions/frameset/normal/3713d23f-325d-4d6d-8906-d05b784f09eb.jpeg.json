@@ -1,0 +1,12 @@
+{
+  "image_filename": "3713d23f-325d-4d6d-8906-d05b784f09eb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, action-packed scene set in a futuristic urban environment. The central subject is a man with slicked-back dark hair, dressed in a black suit, captured in a moment of intense motion as he lunges forward with a fierce, determined expression—his teeth bared in a snarl, eyes wide with aggression. The background features tall, modern skyscrapers that loom on either side, their forms blurred and distorted to emphasize speed and kinetic energy. The color palette is dominated by cool blue tones, lending the image a cold, cyberpunk atmosphere. The lighting is diffuse and slightly overexposed, creating a washed-out effect that heightens the sense of urgency and otherworldliness. The camera angle is low and close to the subject, with a shallow depth of field that keeps the man sharply in focus while the cityscape behind him swirls in motion blur, suggesting rapid movement or a supernatural leap. The overall style is cinematic, reminiscent of late-90s science fiction films, with a heightened sense of drama and tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:59.725363",
+  "word_count": 165,
+  "error_message": null
+}

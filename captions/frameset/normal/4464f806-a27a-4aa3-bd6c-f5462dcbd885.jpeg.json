@@ -1,0 +1,12 @@
+{
+  "image_filename": "4464f806-a27a-4aa3-bd6c-f5462dcbd885.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene of a cyclist riding a modern orange bicycle along a city street. The subject is a single adult, seen from behind and slightly to the side, wearing a black helmet, a dark long-sleeve shirt, and gray pants. The cyclist is in motion, leaning forward with intent, suggesting speed and focus. The background features contemporary urban architecture with glass and steel buildings, a river or canal with railings, and a lightly overcast sky that casts soft, diffused lighting across the scene. The color palette is cool and muted, dominated by grays, blues, and the warm accent of the orange bike. The camera angle is low and slightly tilted, creating a sense of movement and urgency, with a shallow depth of field that blurs the background and emphasizes the cyclist. The overall style is modern and energetic, evoking the feeling of urban exploration and active city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:44.884386",
+  "word_count": 149,
+  "error_message": null
+}

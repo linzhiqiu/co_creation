@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c06f528-22ed-4385-bee0-4d2ce22906cd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody close-up of a rectangular side-view mirror on a vehicle, shot during dusk or early evening. The mirror dominates the foreground, reflecting a winding rural road receding into the distance, with the faint glow of two car headlights approaching from behind. The background outside the mirror is blurred, with dark, indistinct trees and hedgerows rushing past, suggesting motion and speed. The sky is overcast, painted in muted blue-grays, casting a cool, subdued light over the entire scene. The overall color palette is desaturated, with deep shadows and soft, natural lighting, evoking a somber, introspective mood. The composition uses shallow depth of field to keep the mirror and its reflection in sharp focus, while the world outside is rendered as a streaked, impressionistic blur, enhancing the sense of movement and fleeting time. The style is reminiscent of atmospheric road movies, with a contemplative, almost melancholic tone.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:37.854930",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e1794dd-092f-43f6-9b05-dd1ff501504c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a long, narrow bridge stretching across a deep, forested river valley. The bridge, constructed of concrete and steel, stands high above the winding blue river below, supported by tall pillars anchored into rocky terrain. Dense green pine forests blanket the steep hillsides on both sides of the valley, with the landscape receding into rolling, tree-covered mountains under a clear blue sky. The lighting is bright and natural, suggesting midday, with sunlight casting crisp shadows and illuminating the lush foliage. The composition emphasizes the dramatic height and length of the bridge, with the camera positioned high above and slightly to the side, creating a sense of scale and grandeur. The overall color palette is dominated by rich greens, deep blues, and earthy grays, evoking a serene and majestic wilderness. The mood is tranquil and awe-inspiring, capturing the harmony between human engineering and the untamed beauty of nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:26.195924",
+  "word_count": 151,
+  "error_message": null
+}

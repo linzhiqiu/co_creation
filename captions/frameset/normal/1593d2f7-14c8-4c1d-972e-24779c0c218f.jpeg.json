@@ -1,0 +1,12 @@
+{
+  "image_filename": "1593d2f7-14c8-4c1d-972e-24779c0c218f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, surreal interior scene set in a spacious, empty room with smooth, pale gray walls and a polished concrete floor. The composition features several geometric white objects: a large rectangular bench with two small cube stools in the foreground, and a set of three ascending rectangular pedestals to the left. Two white cubes float mysteriously in midair—one above the pedestals and another, larger cube, hovering above the bench, casting soft, diffuse shadows on the surfaces below. The lighting is even and cool, with gentle, natural illumination that enhances the clean, monochromatic palette of whites and grays. The overall style is stark and modern, evoking a sense of calm, abstraction, and quiet intrigue. The camera is positioned at eye level, capturing the scene with a wide, balanced frame and a deep depth of field, emphasizing the spatial relationships and the surreal, weightless quality of the floating forms.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:48.668890",
+  "word_count": 147,
+  "error_message": null
+}

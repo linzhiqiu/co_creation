@@ -1,0 +1,12 @@
+{
+  "image_filename": "609d9194-cf16-4ece-b18f-29bc72e8db63.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a high-resolution, cinematic image of an empty indoor velodrome, viewed from a low, centered perspective at track level. The composition is symmetrical, with a bold white line running vertically up the middle of the wooden cycling track, drawing the viewer’s eye toward the steeply banked curve in the background. The track surface is made of smooth, light-toned wood, marked with subtle lines and numbers, including a prominent \"200\" at the base of the curve. The background features a mix of industrial and modern architectural elements: blue and gray walls, metal railings, and a row of blue stadium seats partially visible at the top left. The lighting is soft and diffuse, suggesting natural daylight filtering in, which highlights the textures of the wood and the muted, cool color palette of blues, grays, and pale browns. The overall mood is quiet and anticipatory, with a sense of stillness and focus, emphasizing the geometry and clean lines of the velodrome. The depth of field is deep, keeping all elements sharp and clear, while the camera angle is perfectly aligned to enhance the sense of symmetry and order.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:34.907323",
+  "word_count": 186,
+  "error_message": null
+}

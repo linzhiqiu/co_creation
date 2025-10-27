@@ -1,0 +1,12 @@
+{
+  "image_filename": "4780563d-c36c-4f3a-8094-c49c08f073e3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a whimsical, surreal scene set inside a small, dollhouse-like living room with exaggerated proportions and a playful, retro aesthetic. The room features warm, patterned wallpaper in shades of pink and orange, and a plush yellow carpet that covers the floor. The furniture is minimal and slightly cartoonish: a small white arcade machine sits in one corner, a disco ball rests on the floor, and a laptop is open in the center of the room. Books and framed pictures line the walls, and a blue door and window add pops of cool color.\n\nDominating the scene is a large window with heavy yellow curtains, dramatically parted to reveal an oversized, hyper-realistic human face peering inside. The person, wearing tinted sunglasses and a beard, sticks out their tongue playfully, creating a sense of mischievous intrusion. The lighting is soft and diffused, casting gentle shadows and enhancing the dreamlike, cinematic quality of the image. The camera angle is slightly wide, capturing the entire room in a single, immersive shot, with a shallow depth of field that keeps the focus on the surreal juxtaposition between the cozy interior and the giant face outside. The overall mood is quirky, imaginative, and slightly absurd, blending elements of stop-motion animation and live-action fantasy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:49.843023",
+  "word_count": 208,
+  "error_message": null
+}

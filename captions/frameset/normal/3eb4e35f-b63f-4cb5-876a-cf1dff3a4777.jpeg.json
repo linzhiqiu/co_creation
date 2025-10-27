@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eb4e35f-b63f-4cb5-876a-cf1dff3a4777.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, cinematic scene set in the golden light of early morning or late afternoon, capturing a tranquil rural landscape. In the foreground, a vintage dark blue Ford F-350 camper van is parked on the edge of a country road, its front angled toward the viewer. The van’s window is rolled down, and inside, a young woman with long hair and sunglasses sits in the passenger seat, relaxed and smiling, her hand raised to adjust her glasses or shield her eyes from the sun. She wears casual, outdoorsy clothing, evoking a sense of adventure and freedom.\n\nOutside the van, a bearded man in a cap and t-shirt leans casually against the hood, looking toward the woman with a friendly, easygoing demeanor. The background reveals a wide, open field dotted with large, round hay bales, bordered by tall grass and distant trees. A red barn sits far off in the distance, adding a touch of rural Americana to the scene.\n\nThe color palette is warm and natural, with soft greens, golden yellows, and muted blues. The lighting is diffuse and gentle, suggesting either dawn or dusk, with a slight haze that gives the image a nostalgic, filmic quality. The composition uses a shallow depth of field, keeping the van and its occupants in sharp focus while the background softly blurs, enhancing the sense of intimacy and immediacy. The overall style is reminiscent of indie road movies or documentary photography, evoking themes of travel, companionship, and the quiet beauty of everyday moments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:47.748982",
+  "word_count": 250,
+  "error_message": null
+}

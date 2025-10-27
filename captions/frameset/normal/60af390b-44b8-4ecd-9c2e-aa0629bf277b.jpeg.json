@@ -1,0 +1,12 @@
+{
+  "image_filename": "60af390b-44b8-4ecd-9c2e-aa0629bf277b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with short, neatly combed hair sits alone by the window on a train, gazing pensively outside. He wears a muted gray suit and a pale shirt, his expression somber and introspective, as if lost in troubling thoughts. The scene is bathed in a cool, blue-tinted light, evoking a sense of melancholy and isolation. Raindrops streak the window, blurring the view of a rural landscape with fields and distant barns, further enhancing the mood of quiet unease. The camera is positioned at a medium close-up, slightly angled to capture both the man's profile and the passing scenery outside. The depth of field is shallow, keeping the man in sharp focus while the background remains soft and indistinct. The overall style is cinematic and atmospheric, with a subdued color palette dominated by blues and grays, and soft, diffused lighting that suggests early morning or dusk. The composition emphasizes the character's solitude and emotional distance, creating a contemplative, almost haunting visual impression.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:33.330042",
+  "word_count": 162,
+  "error_message": null
+}

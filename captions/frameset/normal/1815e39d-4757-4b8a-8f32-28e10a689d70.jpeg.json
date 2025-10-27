@@ -1,0 +1,12 @@
+{
+  "image_filename": "1815e39d-4757-4b8a-8f32-28e10a689d70.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of an elderly Black man, his face turned in profile and partially shrouded in shadow. The lighting is low and moody, with a cool, bluish tint that accentuates the deep textures and wrinkles of his skin, highlighting the contours of his cheekbones and brow. His eyes are closed, and his expression is serene, introspective, and contemplative, suggesting a moment of quiet reflection. The background is softly blurred and indistinct, drawing all focus to the subject’s face. The composition is intimate, with a shallow depth of field and a tight crop that emphasizes the emotional gravity of the scene. The overall style is reminiscent of dramatic portrait photography or a still from an art-house film, with a subdued, almost monochromatic color palette and a strong emphasis on naturalistic detail and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:42.835438",
+  "word_count": 134,
+  "error_message": null
+}

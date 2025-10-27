@@ -1,0 +1,12 @@
+{
+  "image_filename": "623b41a8-3e65-47fe-aa3e-70c0525a15b6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a realistic outdoor scene set at the edge of a dense, lush forest. The focal point is a weathered wooden sign mounted on a simple post, slightly off-center to the right. The sign reads \"BEWARE ANIMALS\" in bold, faded black letters, with visible stains and signs of age, suggesting years of exposure to the elements. Surrounding the sign, the background is filled with thick, verdant foliage—broad-leaved plants and tall trees with layered green canopies, creating a sense of depth and wildness. The lighting is natural and diffused, as if on an overcast day or under the shade of the forest, casting soft shadows and enhancing the earthy, muted color palette of greens, browns, and subtle yellows. The composition is straightforward and documentary in style, with a slight cinematic quality due to the shallow depth of field that keeps the sign in sharp focus while the background foliage is gently blurred. The overall mood is one of quiet caution and untamed nature, evoking a sense of mystery and the unknown lurking just beyond the sign.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:08.907874",
+  "word_count": 175,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b278cf2-daa7-4297-83e3-205104ddf980.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cozy, warmly lit living room interior, captured from a dramatic low-angle, close-up perspective at floor level. In the foreground, a bare human foot stands on smooth wooden flooring, positioned right next to a sleek, modern robotic vacuum cleaner. The vacuum’s rounded edge and subtle red accents are in sharp focus, emphasizing its proximity to the foot. Soft, golden sunlight streams in from the right, casting gentle highlights and creating a welcoming, homely atmosphere. The background is softly blurred, revealing a tastefully decorated space with plush furniture, potted plants, and ambient lighting from recessed ceiling fixtures. The overall color palette features warm earth tones, with hints of green and orange, enhancing the inviting mood. The composition uses shallow depth of field to draw attention to the interaction between human and machine, evoking a sense of everyday life and quiet domesticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:51.097173",
+  "word_count": 141,
+  "error_message": null
+}

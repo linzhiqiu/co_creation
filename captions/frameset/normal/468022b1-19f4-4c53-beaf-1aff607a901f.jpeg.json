@@ -1,0 +1,12 @@
+{
+  "image_filename": "468022b1-19f4-4c53-beaf-1aff607a901f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A narrow, modern hallway bathed in soft, natural daylight streaming through a partially open window with sheer white curtains. The walls are clad in dark, vertical wooden slats, creating a sense of depth and texture. On the far wall, a single framed abstract artwork featuring a grid of intersecting blue lines on a white background serves as the focal point. The light casts gentle, angular shadows across the floor and walls, highlighting the clean lines and minimalist aesthetic of the space. The color palette is subdued and sophisticated, dominated by deep browns, creamy whites, and cool blue accents from the artwork. The composition is carefully balanced, with a slight off-center perspective that draws the viewer’s eye down the corridor toward the illuminated art piece. The overall mood is calm, contemplative, and quietly elegant, evoking the style of a high-end architectural photograph or a scene from a meticulously designed modernist film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:26.133537",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e976913-a9c4-4d4a-add5-ecab159f5f4b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern single-engine propeller airplane soars gracefully above a sea of soft, billowing clouds, bathed in warm, golden sunlight. The aircraft is painted a pristine white with subtle blue accents, its streamlined body and wings catching the light with a gentle sheen. Through the cockpit windows, two figures are visible—one piloting, the other seated beside them—both wearing headsets and focused on the flight, their faces illuminated by the ambient daylight. The sky is a clear, pale blue, fading softly toward the horizon, creating a serene and expansive atmosphere. The camera angle is dynamic, positioned slightly below and to the side of the plane, capturing its motion and the vastness of the sky. The overall style is cinematic and crisp, with a shallow depth of field that keeps the airplane in sharp focus while the clouds and sky blur gently in the background, evoking a sense of adventure, freedom, and tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:39.751509",
+  "word_count": 151,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bc54fcb-f6df-476f-a2f2-450b0771611a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a highly polished, modern boat anchor mounted on the bow of a sleek, dark-hulled yacht. The anchor’s chrome surface gleams with sharp reflections, emphasizing its smooth, angular design and precision engineering. The background is softly out of focus, revealing the interior of a spacious, industrial boat hangar with high ceilings, exposed beams, and large, shadowy doors. The color palette is cool and desaturated, dominated by steely blues, silvers, and muted grays, evoking a sense of sophistication and calm. The lighting is soft and diffused, casting gentle highlights and subtle shadows that accentuate the metallic textures without harsh glare. The composition is dramatic, with the camera angled upward from below the bow, creating a sense of scale and importance. The overall mood is one of modern luxury, technical excellence, and quiet anticipation, as if the vessel is poised for its next journey.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:34.357750",
+  "word_count": 146,
+  "error_message": null
+}

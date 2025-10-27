@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ffb79ae-9246-4a86-bec3-ceedcb866c76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a dense evergreen forest at sunrise, captured from a high vantage point. The scene is filled with tall, lush pine trees stretching out to the horizon, their deep green needles illuminated by soft, golden sunlight streaming in from the upper left corner. The light creates a gentle haze and long, dappled shadows across the treetops, enhancing the sense of depth and tranquility. The atmosphere is serene and almost ethereal, with a subtle mist lingering in the distance, suggesting early morning coolness. The color palette is dominated by rich greens and warm yellows, with hints of blue-gray in the shaded areas. The overall style is cinematic and naturalistic, evoking a sense of untouched wilderness and peaceful solitude. The composition emphasizes the vastness and beauty of the forest, with a shallow depth of field that keeps the focus on the sunlit canopy while the background softly fades into mist.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:20.849543",
+  "word_count": 152,
+  "error_message": null
+}

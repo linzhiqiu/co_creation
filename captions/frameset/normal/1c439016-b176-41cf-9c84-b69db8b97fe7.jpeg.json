@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c439016-b176-41cf-9c84-b69db8b97fe7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a laptop screen dominates the foreground, its display showing a paused or playing video of a person shooting a basketball on an outdoor court. The video frame captures the moment just after the ball has left the shooter’s hands, arcing toward the hoop. The court is surrounded by a tall chain-link fence, with a sprawling cityscape and a hazy blue sky in the background, suggesting an urban setting. The lighting is soft and natural, with a gentle, slightly desaturated color palette that evokes a calm, contemplative mood. The laptop itself is slightly out of focus at the edges, drawing attention to the video content. In the blurred background, hints of a classroom or indoor environment are visible, with muted tones and indistinct shapes suggesting desks and chairs. The overall composition uses shallow depth of field to isolate the laptop screen, creating an intimate, cinematic feel. The camera angle is at eye level, as if the viewer is sitting directly in front of the laptop, immersed in the moment. The style is realistic with a touch of melancholy, reminiscent of a coming-of-age film or a quiet documentary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:15.805890",
+  "word_count": 190,
+  "error_message": null
+}

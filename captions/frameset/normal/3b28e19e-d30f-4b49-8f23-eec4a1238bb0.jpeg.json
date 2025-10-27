@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b28e19e-d30f-4b49-8f23-eec4a1238bb0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure sits on the floor in the center of a dimly lit room, facing away from the viewer. The subject wears an orange jumpsuit, suggesting imprisonment or institutionalization, and is hunched over, deeply absorbed in examining a piece of paper. The wall in front of them is covered with a chaotic collage of notes, photographs, and documents, all interconnected by a web of blue string and arrows, evoking the classic \"conspiracy board\" motif. The lighting is moody and atmospheric, dominated by a teal-green hue that casts dramatic shadows and heightens the sense of obsession and isolation. Scattered papers and closed folders lie on the floor around the subject, adding to the sense of frantic investigation. The camera angle is low and positioned directly behind the figure, emphasizing their solitude and the overwhelming complexity of the wall. The overall style is cinematic, with a shallow depth of field that keeps the focus on the subject and the board, while the rest of the room fades into obscurity. The mood is tense, mysterious, and slightly surreal, reminiscent of psychological thrillers or detective dramas.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:34.838496",
+  "word_count": 183,
+  "error_message": null
+}

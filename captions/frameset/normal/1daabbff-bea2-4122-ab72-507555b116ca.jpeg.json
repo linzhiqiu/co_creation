@@ -1,0 +1,12 @@
+{
+  "image_filename": "1daabbff-bea2-4122-ab72-507555b116ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand gripping a small, modern flashlight or camera light, with the device emitting a bright, almost blinding white beam directly toward the viewer. The hand is partially silhouetted, fingers gently curled around the device, with subtle skin texture visible in the soft, diffused lighting. A small red indicator light glows on the side of the device, adding a touch of color contrast. The background is abstract and out of focus, rendered in cool blue and gray tones, creating a moody, atmospheric ambiance. The overall color palette is cool and desaturated, emphasizing the stark brightness of the light source. The composition uses shallow depth of field, with the hand and device in sharp focus while the background melts into a soft blur. The lighting is naturalistic but dramatic, with the intense beam creating lens flare and subtle haze, evoking a sense of anticipation or investigation. The camera angle is intimate and slightly low, as if the viewer is in the path of the light, heightening the sense of immediacy and immersion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:49.140526",
+  "word_count": 176,
+  "error_message": null
+}

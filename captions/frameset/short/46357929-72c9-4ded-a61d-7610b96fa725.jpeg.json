@@ -1,0 +1,12 @@
+{
+  "image_filename": "46357929-72c9-4ded-a61d-7610b96fa725.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, low-lit scene featuring a cyclist riding a vintage penny-farthing bicycle, the large front wheel dominating the composition. The rider wears modern cycling attire—tight shorts, jersey, and white shoes—contrasting with the antique bike. The background is dark and minimal, emphasizing the bicycle’s silhouette and the rider’s poised motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:16.930051",
+  "word_count": 49,
+  "error_message": null
+}

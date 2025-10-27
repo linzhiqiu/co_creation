@@ -1,0 +1,12 @@
+{
+  "image_filename": "494d8df1-b3eb-46b4-a5dd-7b83f3a11ae8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric attic scene with a strong sense of mystery and nostalgia. The central subject is an older man with a gray beard, dressed in a dark overcoat and a black beret, standing partially obscured behind a massive, antique clock face with bold Roman numerals and ornate clock hands. The man’s expression is serious and contemplative, as if he is waiting or hiding, and he holds an object in his hand, partially concealed by his coat. The background is filled with wooden beams, old furniture, and clutter, evoking a sense of history and forgotten stories. The lighting is warm and diffused, casting soft golden hues and deep shadows, with a single hanging lamp in the foreground out of focus, adding depth and a cinematic quality. The overall style is reminiscent of classic film noir or period dramas, with a muted, sepia-toned color palette and a shallow depth of field that draws attention to the man and the clock, creating a mood of suspense and timelessness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:18.782118",
+  "word_count": 167,
+  "error_message": null
+}

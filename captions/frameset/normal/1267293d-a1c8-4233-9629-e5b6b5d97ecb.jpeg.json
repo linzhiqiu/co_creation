@@ -1,0 +1,12 @@
+{
+  "image_filename": "1267293d-a1c8-4233-9629-e5b6b5d97ecb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, contemporary art gallery scene with a strong sense of calm and abstraction. Center the composition on a tall, rectangular white pedestal placed on a polished concrete floor, surrounded by smooth, pale gray walls. Above the pedestal, capture a delicate, ethereal white fabric frozen in mid-air, as if gently floating or suspended by an unseen breeze. The fabric should appear soft and weightless, with subtle folds and translucent qualities, evoking a sense of movement and lightness. Use a cool, muted color palette dominated by whites and soft grays, with diffused, even lighting that eliminates harsh shadows and enhances the serene, contemplative atmosphere. Frame the scene with a wide-angle lens at eye level, emphasizing symmetry and negative space, and maintain a shallow depth of field to keep the focus on the pedestal and floating fabric, while softly blurring the background. The overall style should be clean, modern, and almost surreal, evoking the quiet elegance of high-concept installation art.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:33.837991",
+  "word_count": 159,
+  "error_message": null
+}

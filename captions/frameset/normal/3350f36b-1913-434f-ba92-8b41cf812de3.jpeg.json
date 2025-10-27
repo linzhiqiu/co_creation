@@ -1,0 +1,12 @@
+{
+  "image_filename": "3350f36b-1913-434f-ba92-8b41cf812de3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA solitary figure stands in the foreground at night, gazing up at a large, glowing McDonald's sign that dominates the right side of the composition. The figure is mostly in shadow, their silhouette outlined by the ambient light, creating a sense of mystery and contemplation. The McDonald's sign is brightly illuminated, its iconic golden arches casting a warm, almost surreal glow against the dark, misty backdrop. The text beneath the arches reads \"McDonald's\" and \"OVER 9 BILLION SERVED\" in bold white and yellow letters on a red background. The background is a dense, shadowy forest, with tall pine trees barely visible in the dim, atmospheric lighting. The scene is enveloped in deep, moody tones—primarily blacks, dark greens, and the golden yellow of the sign—evoking a cinematic, almost dreamlike quality. The lighting is dramatic, with high contrast between the illuminated sign and the surrounding darkness, and a subtle haze adds depth and a sense of quiet isolation. The camera angle is slightly low, emphasizing the scale of the sign and the smallness of the lone figure, creating a powerful, contemplative mood reminiscent of neo-noir or surrealist cinema.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:30.619955",
+  "word_count": 187,
+  "error_message": null
+}

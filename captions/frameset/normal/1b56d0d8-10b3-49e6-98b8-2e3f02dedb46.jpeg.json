@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b56d0d8-10b3-49e6-98b8-2e3f02dedb46.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand reaching toward a shelf filled with neatly organized VHS tapes, each labeled with handwritten dates in black marker, such as \"16 MARCH 2016\" and \"18 MARCH 2016.\" The focus is on the index finger gently pointing at or about to select one of the tapes, creating a sense of anticipation and curiosity. The tapes are arranged vertically in a wooden or neutral-toned shelving unit, with the handwritten labels providing a personal, archival feel. The color palette is soft and muted, dominated by whites, grays, and natural wood tones, with a gentle, diffused daylight illuminating the scene from the left, casting subtle shadows and enhancing the sense of nostalgia. The composition uses a shallow depth of field, blurring the background tapes while keeping the hand and the selected tape in sharp focus, evoking a cinematic, documentary-like atmosphere. The overall style is intimate and contemplative, suggesting themes of memory, history, and personal storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:55.458767",
+  "word_count": 157,
+  "error_message": null
+}

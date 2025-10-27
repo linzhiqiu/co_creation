@@ -1,0 +1,12 @@
+{
+  "image_filename": "2fdd3d0f-be79-45b7-8fc5-02ad7ddecf7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, emotionally charged scene featuring two people standing face to face, both blindfolded with patterned fabric. On the left, a man with long blond hair wears a sleeveless gray tank top, his expression calm and focused. On the right, a woman in a taupe hijab and a dark, patterned headband, dressed in a deep purple long-sleeve top, mirrors his posture. Their hands are pressed gently together, palm to palm, creating a sense of connection and trust despite their inability to see. The background is softly lit with warm amber tones, contrasted by a dark curtain that adds depth and intimacy to the composition. The lighting is soft and diffused, casting gentle shadows and highlighting the contours of their faces and hands. The camera angle is eye-level, with a shallow depth of field that keeps the subjects in sharp focus while subtly blurring the background, enhancing the sense of isolation and emotional intensity. The overall style is naturalistic yet intimate, evoking themes of vulnerability, empathy, and human connection across cultural boundaries.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:18.809297",
+  "word_count": 171,
+  "error_message": null
+}

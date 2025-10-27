@@ -1,0 +1,12 @@
+{
+  "image_filename": "4902ca6e-9f6e-4980-bf1b-34daed2b8cde.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, topographic map of France, centered against a pure black background for dramatic contrast. The map should be rendered in a realistic, three-dimensional style, with clear elevation changes depicted through a nuanced color palette: use soft greens for lowlands, gentle tans and beiges for mid-elevations, and rich ochres and browns for the highest mountain regions, especially in the southeast. Subtle shading and shadowing should emphasize the texture and relief of the terrain, highlighting river valleys, mountain ranges, and plateaus. The map should include the island of Corsica in the northwest, maintaining accurate geographic proportions. The overall composition is minimalist, with no text, borders, or extraneous details—just the landform itself, floating against the void. The lighting is even and diffuse, enhancing the sense of depth and realism, while the perspective is directly overhead, offering a clear, unobstructed view of the entire country. The style is scientific yet visually striking, evoking the precision of satellite imagery combined with the artistry of a relief sculpture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:14.238856",
+  "word_count": 165,
+  "error_message": null
+}

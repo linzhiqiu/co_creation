@@ -1,0 +1,12 @@
+{
+  "image_filename": "16f75b95-cf1c-4fd2-a235-761d92be8cd7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric attic room with rough, dark wooden walls bathed in deep red-orange light. In the center of the scene, an old-fashioned CRT television sits on a simple black metal table. The TV screen glows softly, displaying a young woman with long, reddish-brown hair, wearing a simple black spaghetti-strap dress. She sits against a pitch-black background, smiling warmly and looking directly at the camera, her expression open and inviting. The lighting on her face is gentle and even, creating a striking contrast with the shadowy, saturated red tones of the attic. The composition is symmetrical, with the TV perfectly centered, drawing the viewer’s eye to the woman’s image. The overall mood is mysterious and cinematic, evoking a sense of nostalgia and intrigue, with a shallow depth of field that keeps the focus on the TV and its subject while the background remains softly blurred. The color palette is dominated by rich reds, deep shadows, and the cool glow of the television, creating a visually arresting and slightly surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:19.538705",
+  "word_count": 171,
+  "error_message": null
+}

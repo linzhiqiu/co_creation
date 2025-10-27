@@ -1,0 +1,12 @@
+{
+  "image_filename": "466fbb77-277a-4c17-b6dc-78211d246de5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a digital chess clock sits at the center of a chessboard, its display showing the tense countdown of seconds left for each player. The clock is sleek and black, with a slightly angled top and clear, glowing digital numbers—one side reads 0:58, the other 0:54—emphasizing the urgency of the moment. The foreground is artfully blurred, with the soft, out-of-focus silhouettes of chess pieces—one dark knight on the left and a light pawn on the right—framing the clock and adding depth to the composition. The background is a deep, neutral brown, minimalist and unobtrusive, drawing all attention to the clock and the implied drama of the game. The lighting is warm and subdued, casting gentle highlights on the clock’s surface and creating a moody, contemplative atmosphere. The overall style is reminiscent of a high-stakes chess tournament scene in a film, with a shallow depth of field and a focus on tension, precision, and the passage of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:20.380372",
+  "word_count": 161,
+  "error_message": null
+}

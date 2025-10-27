@@ -1,0 +1,12 @@
+{
+  "image_filename": "5af57530-f61d-437e-9946-09ddabe09a94.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a metallic keypad access panel mounted on a dark, textured wall. The keypad features a grid of round, silver buttons arranged in a standard numeric layout, with a small display or speaker grille above the buttons. The lower portion of the panel is partially obscured by a strip of white tape with black, partially illegible writing or markings, adding a sense of urban wear and improvisation. The lighting is soft and diffused, casting gentle shadows that emphasize the contours and slight grime on the keypad, suggesting frequent use. The background is out of focus, with hints of a lighter-colored wall or doorway to the left, creating a shallow depth of field that draws attention to the keypad as the central subject. The overall color palette is muted, dominated by shades of black, gray, and off-white, contributing to a utilitarian, slightly gritty atmosphere. The composition is slightly off-center, with a subtle tilt, lending a candid, documentary feel to the image.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:14.619746",
+  "word_count": 163,
+  "error_message": null
+}

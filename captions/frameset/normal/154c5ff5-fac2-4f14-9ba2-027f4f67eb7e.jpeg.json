@@ -1,0 +1,12 @@
+{
+  "image_filename": "154c5ff5-fac2-4f14-9ba2-027f4f67eb7e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single illuminated light bulb hangs from the ceiling against a plain, slightly textured wall, casting a soft, diffused glow that gently fades into shadow. The bulb is classic in shape, with a visible pull chain hanging down, suggesting an old-fashioned or utilitarian setting. The composition is minimalist, with the bulb positioned slightly off-center to the right, creating a sense of quiet isolation and simplicity. The color palette is monochromatic, rendered entirely in shades of black, white, and gray, evoking a timeless, contemplative mood. The lighting is low-key, with the bulb itself as the only light source, producing subtle gradients and a gentle vignette effect around the edges. The overall style is stark and cinematic, reminiscent of film noir or early black-and-white photography, with a focus on mood, contrast, and the interplay of light and shadow. The camera angle is straightforward and eye-level, emphasizing the solitary presence of the bulb and the emptiness of the surrounding space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:42.625345",
+  "word_count": 157,
+  "error_message": null
+}

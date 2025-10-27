@@ -1,0 +1,12 @@
+{
+  "image_filename": "2fbe9319-075f-4ef7-8e00-8e56d909e59b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A white Jeep Cherokee SUV is captured in motion, driving along an empty urban road. The camera angle is low and slightly to the front-left of the vehicle, emphasizing its bold grille and rugged design. The SUV’s headlights are off, and its black wheels and trim contrast sharply with the clean white body. The background features a beige concrete bridge with decorative railings, and the distant city skyline is softly blurred, suggesting depth and a shallow depth of field. The lighting is natural, likely late afternoon, casting soft shadows and giving the scene a warm, slightly muted tone. The overall style is cinematic and dynamic, with a sense of movement and urban adventure, evoking a modern, aspirational mood. The composition is balanced, with the Jeep dominating the foreground and the cityscape providing context and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:17.582151",
+  "word_count": 135,
+  "error_message": null
+}

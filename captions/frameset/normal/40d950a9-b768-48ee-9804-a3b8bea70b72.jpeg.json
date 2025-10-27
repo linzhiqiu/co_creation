@@ -1,0 +1,12 @@
+{
+  "image_filename": "40d950a9-b768-48ee-9804-a3b8bea70b72.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern, dimly lit office workspace in the early evening. The foreground is dominated by a sleek black desk, on which rests a closed, beige cardboard box with minimalist white text in a foreign language. Next to the box, a matte black ceramic mug holds an assortment of pens and pencils, and a spiral-bound notebook lies open, its pages slightly curled. In the background, a laptop with a blurred, softly glowing screen displays a calendar or scheduling interface, its cool blue light contrasting with the warm, ambient lighting that softly illuminates the room. The background is out of focus, revealing hints of large windows and industrial-style decor, with golden hour sunlight streaming in and creating a cozy, inviting atmosphere. The overall color palette is a harmonious blend of cool blues and warm ambers, with a shallow depth of field that draws attention to the objects on the desk while rendering the rest of the office in a gentle blur. The composition feels intimate and contemplative, evoking a sense of quiet productivity and modern professionalism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:26.678763",
+  "word_count": 179,
+  "error_message": null
+}

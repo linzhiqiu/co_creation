@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b21f784-c299-4bd8-b473-67b5add82825.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, cinematic scene set against a softly clouded sky at dusk, rendered in a muted, naturalistic color palette of cool grays and warm browns. In the foreground, a woman is captured in sharp silhouette, her profile and hands dramatically outlined by the backlight. She holds a delicate chain between her fingers and lips, the metal links catching the light and creating intricate, geometric shapes in the air. Her expression is contemplative, almost meditative, with her gaze focused on the chain. She wears simple, modern jewelry—bracelets and rings that glint subtly in the ambient light.\n\nIn the background, another woman stands in soft focus, elevated and distant, as if she is walking on air or a raised platform. She is dressed in a long, dark, flowing garment that moves gently with the breeze, her posture poised and serene. The composition uses a shallow depth of field, emphasizing the foreground figure while allowing the background subject to appear ethereal and dreamlike. Contrails streak the sky, adding a sense of motion and time passing.\n\nThe overall style is reminiscent of art-house cinema, with a strong emphasis on silhouette, negative space, and the interplay of light and shadow. The camera angle is low and slightly tilted upward, enhancing the sense of scale and intimacy. The mood is contemplative and surreal, evoking themes of connection, distance, and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:39.381488",
+  "word_count": 224,
+  "error_message": null
+}

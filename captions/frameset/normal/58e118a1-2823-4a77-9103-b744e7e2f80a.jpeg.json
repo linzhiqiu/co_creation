@@ -1,0 +1,12 @@
+{
+  "image_filename": "58e118a1-2823-4a77-9103-b744e7e2f80a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt to generate this image:\n\n\"Create a realistic scene set inside a small hobby shop during the daytime, with natural light streaming in through large front windows. In the foreground, a glass display counter holds a detailed model airplane with a red and white color scheme, its wings and tail clearly visible. Behind the counter, a middle-aged man with a stocky build, wearing a maroon polo shirt with navy blue trim, stands in a relaxed posture, engaged in conversation. Across from him, a slightly younger man with blond hair, wearing a pale yellow jacket over a green shirt, listens attentively. The background features shelves lined with colorful bottles of model fuel in green, pink, and orange hues, as well as various hobby supplies and a computer monitor on the counter. The overall color palette is warm and natural, with soft daylight illuminating the scene and creating gentle reflections on the glass surfaces. The composition is intimate and grounded, with a medium shot that captures both men at eye level, emphasizing their interaction and the inviting, cluttered atmosphere of the shop.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:28.214868",
+  "word_count": 183,
+  "error_message": null
+}

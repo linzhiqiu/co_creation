@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fb31eaf-3ea7-4772-aba3-6590d2987230.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic convenience store interior, viewed from a high, slightly tilted angle behind a checkout counter. The foreground features a hand holding a transparent, high-tech smartphone or AR device, which overlays a digital interface onto the scene. Through the device’s screen, a young man with short hair and a serious expression is visible, looking up toward the camera. The device displays a red warning banner reading “AGE FILTER DETECTED,” with digital graphics highlighting the subject’s face. The background is filled with brightly lit shelves stocked with colorful snacks, drinks, and energy bars, arranged in neat, geometric patterns. The color palette is cool and modern, dominated by whites, blues, and neon accents, with pops of red and yellow from product packaging. The lighting is crisp and artificial, emphasizing the clean, almost clinical atmosphere. The overall style is cinematic and slightly dystopian, with a shallow depth of field focusing on the AR interface and the young man’s face, while the background shelves blur slightly, enhancing the sense of technological surveillance and control.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:02.636069",
+  "word_count": 170,
+  "error_message": null
+}

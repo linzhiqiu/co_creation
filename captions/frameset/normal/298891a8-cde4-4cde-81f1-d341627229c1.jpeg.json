@@ -1,0 +1,12 @@
+{
+  "image_filename": "298891a8-cde4-4cde-81f1-d341627229c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic landscape at dusk, featuring the dark, sharply defined silhouette of a mountain range stretching horizontally across the lower third of the composition. Behind the mountains, an intense, fiery orange glow radiates upward, suggesting either a sunset or a distant wildfire, with the light diffusing into a smoky, atmospheric haze that gradually fades into deep blackness at the top and sides of the image. The color palette is dominated by rich oranges and deep blacks, creating a striking contrast and a sense of mystery. The scene is devoid of any human presence or vegetation, focusing solely on the interplay between the jagged mountain forms and the luminous sky. The overall style is cinematic and moody, with a wide aspect ratio and a soft, natural gradient in the lighting, evoking a sense of awe and quiet intensity. The camera angle is level, capturing the mountains in profile, and the depth of field is deep, keeping both the silhouette and the glowing sky in sharp focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:06.758587",
+  "word_count": 166,
+  "error_message": null
+}

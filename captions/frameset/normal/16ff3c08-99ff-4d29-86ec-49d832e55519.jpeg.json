@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ff3c08-99ff-4d29-86ec-49d832e55519.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, modern office scene with a striking red and white color palette. In the foreground, a Newton’s cradle with five metallic balls is sharply in focus, positioned on a sleek, white table that extends toward the background. The background features a person sitting at a desk, dressed in a white shirt and dark jacket, but their face and details are intentionally blurred, creating a sense of anonymity and detachment. The walls and floor are stark white, punctuated by bold red panels behind the desk and beneath the table, adding geometric visual interest and a sense of depth. The lighting is bright and even, casting soft shadows and emphasizing the clean, clinical atmosphere. The composition uses a shallow depth of field, with the Newton’s cradle as the focal point and the rest of the scene receding into a soft blur, evoking a sense of focus, contemplation, and modernist precision. The camera angle is low and centered, drawing the viewer’s eye along the table toward the distant figure, creating a cinematic, almost surreal mood reminiscent of high-concept science fiction or psychological drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:17.854512",
+  "word_count": 181,
+  "error_message": null
+}

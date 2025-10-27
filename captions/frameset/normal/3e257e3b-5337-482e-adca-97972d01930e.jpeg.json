@@ -1,0 +1,12 @@
+{
+  "image_filename": "3e257e3b-5337-482e-adca-97972d01930e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, high-angle overhead shot captures a dense barrage of arrows mid-flight, converging toward a fortified gate. The scene is visually striking, with hundreds of black arrows frozen in motion, their shafts creating a dynamic, radiating pattern that fills the frame and draws the viewer’s eye toward the center. The color palette is dominated by deep blues, blacks, and muted metallic tones, evoking a sense of tension and impending impact. The lighting is low and moody, casting subtle highlights on the arrow shafts and the ornate, weathered surface of the gate below, which features intricate carvings and geometric patterns. The overall style is cinematic and stylized, with a strong sense of depth and movement, as if time has been suspended at the peak of action. The composition emphasizes the overwhelming force and precision of the attack, creating a visually arresting and almost abstract tableau of war.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:33.187223",
+  "word_count": 146,
+  "error_message": null
+}

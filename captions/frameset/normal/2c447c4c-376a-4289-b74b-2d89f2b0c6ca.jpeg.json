@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c447c4c-376a-4289-b74b-2d89f2b0c6ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A winding mountain road cuts through dense, mist-shrouded forested hills, captured from a high, wide aerial perspective. The scene is enveloped in a cool, moody color palette dominated by deep greens, muted blues, and soft grays, evoking a sense of early morning or late afternoon fog. The road curves sharply along a steep cliffside, its pale surface standing out against the dark, textured foliage. A single red car travels along the bend, providing a striking focal point and a sense of scale and solitude within the vast, untamed landscape. The lighting is diffuse and natural, with soft shadows and a gentle haze that blurs the distant trees, enhancing the atmospheric depth. The overall composition emphasizes the dramatic isolation of the road and the car, with the mist lending a cinematic, almost dreamlike quality to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:02.671853",
+  "word_count": 136,
+  "error_message": null
+}

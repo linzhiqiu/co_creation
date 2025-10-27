@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cc0097f-2d42-4521-9d1d-2c9c35f8dca7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a cluttered pile of mail, with the focal point being a white envelope prominently stamped with bold red text reading \"FINAL REMINDER.\" The envelope is partially pulled from the stack, surrounded by other letters and documents, some of which have visible red warning labels such as \"NOTICE.\" The lighting is natural and slightly muted, casting soft shadows and creating a sense of urgency and neglect. The color palette is dominated by neutral tones—whites, off-whites, and grays—contrasted sharply by the vivid red lettering. The composition is tight and intimate, with a shallow depth of field that blurs the background mail, drawing the viewer’s eye directly to the urgent message. The overall mood is tense and slightly anxious, evoking the feeling of overdue responsibilities. The style is realistic, with a cinematic quality reminiscent of a drama or thriller, using close framing and selective focus to heighten the emotional impact.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:25.713970",
+  "word_count": 151,
+  "error_message": null
+}

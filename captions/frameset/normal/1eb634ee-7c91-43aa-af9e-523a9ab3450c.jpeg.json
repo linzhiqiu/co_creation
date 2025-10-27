@@ -1,0 +1,12 @@
+{
+  "image_filename": "1eb634ee-7c91-43aa-af9e-523a9ab3450c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of an urban traffic light, viewed from a low angle looking upward, with the signal lights turned off and their lenses dark. The traffic light is weathered, with a slightly worn yellow metal casing, and is mounted on a metal pole. To the right, a green and white highway sign reads \"9A NORTH H. HUDSON PKWY\" with an arrow pointing right, and a smaller \"ONE WAY\" sign is partially visible below. The background features a soft, overcast sky with a gradient from pale white to light blue, creating a moody, contemplative atmosphere. The composition emphasizes the verticality of the traffic light and the signage, with a shallow depth of field that blurs the sky and background structures, drawing focus to the foreground elements. The color palette is muted, dominated by cool blues and greys, with subtle yellow and green accents. The overall style is reminiscent of a dramatic film still, evoking a sense of quiet anticipation and urban solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:11.378335",
+  "word_count": 163,
+  "error_message": null
+}

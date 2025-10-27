@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ae02cd6-0bc5-437a-8a2b-9df07f565aec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot set in a warmly lit retail environment, focusing on a transaction at a checkout counter. In the foreground, a hand extends a bright yellow Valley West Visa debit card toward another hand reaching out to accept it, capturing the moment of payment. The hands are the central subjects, with natural skin tones and soft, diffused lighting that highlights their gesture and the glossy surface of the card. The background is softly blurred, but visible details include a black point-of-sale terminal, a clear cup holding pens and pencils, and a display of promotional flyers and coupons, one prominently advertising a “Project Education” campaign with bold red and white graphics. The overall color palette is warm and inviting, with pops of yellow and red against neutral tones. The composition is intimate and documentary-style, with a slight cinematic quality achieved through the use of selective focus and a natural, candid atmosphere. The camera angle is eye-level, drawing the viewer into the everyday moment of human interaction and commerce.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:46.440562",
+  "word_count": 170,
+  "error_message": null
+}

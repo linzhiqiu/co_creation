@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b7cb95c-f325-46a7-a589-e1a3aec6f548.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed macro photograph capturing the abstract beauty of condensation on a smooth, curved glass surface. The image is dominated by cool blue tones, creating a tranquil and slightly mysterious atmosphere. Tiny water droplets cluster densely across the upper portion of the frame, their rounded forms catching and refracting the soft, diffused light. The lower part of the image features a blurred, translucent edge of the glass, with subtle iridescent highlights and a gentle gradient of color. The focus is shallow, with only a narrow band of droplets rendered sharply, while the foreground and background dissolve into a dreamy, out-of-focus haze. The overall composition emphasizes texture and light, evoking a sense of quiet introspection and the delicate interplay between water and glass. The style is cinematic and contemplative, reminiscent of fine art photography, with a strong emphasis on mood, abstraction, and the tactile qualities of the materials.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:42.875747",
+  "word_count": 148,
+  "error_message": null
+}

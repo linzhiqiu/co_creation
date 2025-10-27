@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d127987-3edd-4759-a703-bb174987f3f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic black-and-white photograph of a solitary figure standing with their back to the camera in a minimalist, empty room. The subject is a woman with shoulder-length hair, dressed in a crisp white button-up shirt with the sleeves rolled up and dark, high-waisted trousers. She stands slightly off-center, her posture relaxed yet introspective, with one hand resting on her lower back and the other hanging loosely by her side. The floor is glossy, reflecting her silhouette and adding depth to the composition. A subtle, low-lying cloud of mist or smoke drifts in from the left, enhancing the sense of atmosphere and mystery. The background is a plain, textured wall, and the lighting is soft and diffused, casting gentle shadows and emphasizing the grayscale tones. The overall mood is contemplative and cinematic, with a strong sense of solitude and quiet drama, reminiscent of classic film noir or fine art portraiture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:20.132967",
+  "word_count": 150,
+  "error_message": null
+}

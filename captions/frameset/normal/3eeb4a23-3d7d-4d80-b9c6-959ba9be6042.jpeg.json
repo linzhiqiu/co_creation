@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eeb4a23-3d7d-4d80-b9c6-959ba9be6042.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA close-up architectural photograph of a modern building facade, featuring a repeating geometric pattern of three-dimensional, diamond-shaped window frames. The windows are large, rectangular, and tinted, reflecting subtle vertical lines and shadows from the surrounding environment. The facade is composed of angular, faceted panels in shades of off-white and light gray, creating a dynamic interplay of light and shadow across the surface. The composition is tightly cropped, focusing solely on the grid of windows and the sculptural quality of the facade, with no visible sky or ground. The lighting is natural and diffuse, suggesting late afternoon or overcast conditions, which enhances the depth and texture of the architectural details. The overall style is minimalist and contemporary, with a strong emphasis on symmetry, repetition, and the interplay between light, shadow, and form. The image has a crisp, high-resolution quality, with sharp lines and a cool, neutral color palette, evoking a sense of modern urban sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:54.056957",
+  "word_count": 155,
+  "error_message": null
+}

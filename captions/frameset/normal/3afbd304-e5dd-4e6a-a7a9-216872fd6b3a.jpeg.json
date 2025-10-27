@@ -1,0 +1,12 @@
+{
+  "image_filename": "3afbd304-e5dd-4e6a-a7a9-216872fd6b3a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of two muscular arms locked in a powerful handshake, capturing the moment of intense camaraderie and competition. The left arm, with darker skin, is clad in a short-sleeved white shirt, while the right arm, with lighter skin, wears a bright red short-sleeved shirt. Both arms are highly defined, veins and muscles prominently visible, glistening under dramatic, directional lighting that emphasizes their strength and texture. The background is softly blurred, keeping the focus entirely on the clasped hands and forearms, creating a shallow depth of field. The color palette is dominated by natural skin tones, the stark contrast of white and red fabric, and subtle grayish hues in the out-of-focus background. The overall style is reminiscent of 1980s action cinema, with a sense of tension, solidarity, and raw physicality, as if capturing a legendary moment of mutual respect between two formidable characters.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:27.979505",
+  "word_count": 145,
+  "error_message": null
+}

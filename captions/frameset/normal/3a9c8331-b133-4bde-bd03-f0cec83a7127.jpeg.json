@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a9c8331-b133-4bde-bd03-f0cec83a7127.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with a short, sleek black bob leans pensively over a clothing rack in a cozy vintage boutique. She gazes thoughtfully toward the camera, her expression introspective and slightly melancholic, with her head resting on her arm, which is draped languidly over the rack. The scene is bathed in warm, golden ambient light, creating a nostalgic, dreamy atmosphere. Behind her, softly blurred dresses in pastel and floral patterns hang on wooden hangers against a creamy yellow wall, adding to the retro charm of the setting. The composition is intimate and cinematic, with a shallow depth of field that keeps the focus on the woman’s face and the foreground rack, while the background details melt into a gentle bokeh. The color palette is dominated by warm yellows, soft browns, and muted pastels, evoking a sense of comfort and quiet reflection. The camera angle is slightly low and off-center, enhancing the candid, unposed quality of the moment, as if capturing a fleeting, private reverie in the midst of everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:20.370939",
+  "word_count": 170,
+  "error_message": null
+}

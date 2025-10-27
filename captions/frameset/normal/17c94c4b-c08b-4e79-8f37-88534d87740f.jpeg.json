@@ -1,0 +1,12 @@
+{
+  "image_filename": "17c94c4b-c08b-4e79-8f37-88534d87740f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, atmospheric scene viewed through a large, circular spaceship window looking out into the vastness of deep space. The window dominates the composition, its edges softly illuminated, framing a star-speckled void. Subtly superimposed or reflected in the glass are the faint, ghostly images of two figures: an older man with a rugged beard and a young girl, both appearing contemplative and ethereal, as if memories or spirits lingering in the darkness. Their expressions are somber and introspective, blending seamlessly with the cosmic backdrop. The color palette is dominated by deep blacks, muted blues, and hints of starlight white, creating a mysterious, melancholic mood. The lighting is low and diffuse, emphasizing the contrast between the cold expanse of space and the soft, spectral presence of the figures. The overall style is reminiscent of a science fiction film, with a focus on emotional depth, isolation, and the passage of time, captured in a single, hauntingly beautiful frame.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:36.534219",
+  "word_count": 158,
+  "error_message": null
+}

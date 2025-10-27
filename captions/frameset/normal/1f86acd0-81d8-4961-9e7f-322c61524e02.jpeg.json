@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f86acd0-81d8-4961-9e7f-322c61524e02.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast black and white photograph of a storefront window. The glass is clean and reflective, with bold, modern sans-serif text printed on it that reads \"HELLO ZURICH\" on the left and \"COMING SOON\" on the right, spaced apart and aligned horizontally. In the center of the window, the word \"RIOT\" is spray-painted in rough, expressive black graffiti, disrupting the otherwise orderly and commercial appearance. The background is softly blurred, hinting at an urban street scene with indistinct shapes and figures, but the focus remains sharply on the text and graffiti. The lighting is diffuse and even, creating a neutral, almost clinical atmosphere, while the monochrome palette emphasizes the stark contrast between the official signage and the rebellious graffiti. The composition is frontal and symmetrical, with a sense of tension between order and disorder, commerce and protest.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:28.842668",
+  "word_count": 138,
+  "error_message": null
+}

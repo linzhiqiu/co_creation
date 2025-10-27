@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bdc1842-8c96-4c4e-ba41-6d4a702aa63d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a rugged, bearded man with a bald head, wearing dark aviator goggles pushed up onto his forehead. His expression is confident and slightly enigmatic, with a subtle, knowing smile and eyes that catch the light, suggesting determination and resilience. The lighting is dramatic and moody, with cool blue and gray tones dominating the color palette, evoking a misty or stormy atmosphere. The background is softly blurred, filled with swirling clouds or fog, enhancing the sense of mystery and adventure. The camera angle is slightly low, emphasizing the subject’s strength and presence, while the shallow depth of field keeps the focus sharply on his face and upper shoulders, allowing the background to fade into a dreamy, cinematic haze. The overall style is reminiscent of a gritty, post-apocalyptic film or a high-stakes adventure story, with a strong emphasis on character and mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:12.877152",
+  "word_count": 146,
+  "error_message": null
+}

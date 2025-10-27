@@ -1,0 +1,12 @@
+{
+  "image_filename": "3aa17e99-d294-4291-a039-566b1628a42e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, slightly angled screenshot of a modern web application interface, focusing on a content editing or email template customization screen. The main subject is a white, minimalist digital workspace with clean lines and soft shadows, evoking a professional and user-friendly atmosphere. In the center, a rectangular text input box with a subtle orange border is highlighted, containing the text: “Hope this inspired you. See you soon!” Above the input box, there are section headers in a muted gray font, such as “CONCLUSION,” and below, a smaller, lighter gray instructional note. To the right, a prominent blue and white button labeled “Save Content” is being hovered over or clicked, indicated by a circular cursor with a blue outline and a checkmark icon. The color palette is dominated by whites and light grays, with accents of blue and orange for interactive elements, creating a crisp, high-contrast look. The lighting is even and bright, with no harsh shadows, emphasizing clarity and readability. The overall style is flat and contemporary, with a focus on usability and clean design, reminiscent of SaaS or productivity tool interfaces. The composition draws the viewer’s eye to the interactive elements, suggesting a moment of user engagement and digital workflow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:22.745915",
+  "word_count": 201,
+  "error_message": null
+}

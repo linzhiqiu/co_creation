@@ -1,0 +1,12 @@
+{
+  "image_filename": "3502197b-5e2b-4a86-b91d-7f7efcf5cd7e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a single human hand, positioned horizontally and extending from the right side of the frame, holding a blue credit card between the thumb and index finger. The hand is well-lit, with soft, even lighting that highlights the natural skin tones and subtle textures. The credit card is angled slightly toward the viewer, making the chip and embossed numbers visible, though the details are generic and not specific to any real bank. The background is a smooth, solid, vibrant yellow, creating a striking contrast with the blue card and drawing attention to the subject. The composition is minimalist, with a shallow depth of field that keeps the hand and card in sharp focus while the background remains perfectly blurred and uniform. The overall style is clean, modern, and commercial, evoking a sense of simplicity and clarity, suitable for advertising or promotional material.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:16.178896",
+  "word_count": 145,
+  "error_message": null
+}

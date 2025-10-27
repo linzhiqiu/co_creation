@@ -1,0 +1,12 @@
+{
+  "image_filename": "4245b353-6a5f-4aed-b2a1-dbdb7b32a19a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, monochromatic scene featuring a life-sized statue of Jesus Christ wearing a crown of thorns. The statue is depicted from the waist up, with a sorrowful, contemplative expression and downcast eyes, evoking a sense of suffering and solemnity. The figure is partially shrouded in shadow, with soft, diffused lighting coming from above, highlighting the contours of the face and the texture of the hair and crown. The background consists of a curved, textured ceiling, possibly made of stone or plaster, adding a sense of enclosure and intimacy to the scene. The overall composition is moody and introspective, with a high-contrast black-and-white palette that emphasizes the emotional weight and spiritual gravity of the subject. The camera angle is slightly low and off-center, enhancing the statue’s presence and the somber, reverent atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:58.945777",
+  "word_count": 132,
+  "error_message": null
+}

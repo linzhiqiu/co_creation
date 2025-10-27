@@ -1,0 +1,12 @@
+{
+  "image_filename": "3710b819-9c28-445b-8c4a-c5cce81c7908.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A contemplative man sits outdoors at night, illuminated by the warm, flickering glow of a nearby campfire. He wears a light-colored t-shirt with subtle stripes on the sleeves and a dark baseball cap worn backwards. His expression is thoughtful and introspective, with his gaze directed downward, partially in shadow. The background is a deep, rich blue, suggesting twilight or early night, with the silhouette of a building or structure faintly visible, adding depth and context to the scene. The lighting is dramatic and cinematic, with the firelight casting soft, orange highlights on the man's face and upper body, creating a strong contrast against the cool, dark surroundings. The composition is intimate, focusing closely on the subject in profile, with a shallow depth of field that blurs the background, emphasizing the mood of quiet reflection. The overall style is naturalistic and atmospheric, evoking a sense of solitude and calm in the stillness of the night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:00.229295",
+  "word_count": 154,
+  "error_message": null
+}

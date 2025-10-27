@@ -1,0 +1,12 @@
+{
+  "image_filename": "48d871f6-e334-424b-968c-1463e2e7faa0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, low-angle shot inside a dimly lit boxing gym. The main subject is a young male boxer with short dark hair, wearing a white tank top and red boxing gloves. He is captured in a moment of intense focus and exhaustion, sweat glistening on his face, as he leans forward with his arms raised, possibly resting on the ropes or preparing for another round. The background features a grid of large, reflective windows, casting soft, diffused light and subtle reflections that add depth to the scene. The color palette is warm and muted, dominated by earthy browns, deep reds, and soft golden tones, evoking a gritty, realistic atmosphere. The composition uses a dramatic, slightly off-kilter camera angle from below, emphasizing the boxer's physicality and emotional state. The overall style is reminiscent of classic sports dramas, with a shallow depth of field that keeps the focus tightly on the subject while the background remains softly blurred, enhancing the sense of isolation and determination.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:10.264924",
+  "word_count": 165,
+  "error_message": null
+}

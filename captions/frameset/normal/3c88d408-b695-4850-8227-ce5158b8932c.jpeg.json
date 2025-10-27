@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c88d408-b695-4850-8227-ce5158b8932c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, dystopian laboratory scene viewed from a low, wide-angle perspective, evoking a sense of claustrophobia and unease. The setting is an industrial chamber with a grated metal floor and rough, weathered walls, illuminated by eerie, yellow-green overhead lights that cast a sickly glow. Lining both sides of the corridor are large, cylindrical glass tanks filled with murky liquid, each containing a human head suspended in stasis, their faces pale and expressionless, eyes closed or half-open in unnatural repose. The tanks are capped with metallic lids, and faint condensation clings to the glass, enhancing the sense of cold sterility. The color palette is dominated by muted blues, greens, and yellows, with high contrast between the glowing tanks and the shadowy recesses of the room. The overall style is cinematic and atmospheric, reminiscent of science fiction or horror films, with a shallow depth of field that draws focus to the haunting faces in the jars while the background recedes into darkness. The mood is unsettling and mysterious, suggesting themes of experimentation, preservation, or the loss of humanity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:05.655646",
+  "word_count": 177,
+  "error_message": null
+}

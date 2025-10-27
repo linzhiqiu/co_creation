@@ -1,0 +1,12 @@
+{
+  "image_filename": "578569fa-6154-48a0-b411-ebc1ccc5f923.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, low-angle shot looking directly up at a basketball hoop and backboard inside a gymnasium. The composition centers the hoop and backboard, with the metal support structure and glass panels dominating the frame. The ceiling of the gym is visible above, featuring a grid of exposed beams and several bright, circular overhead lights that cast a cool, even illumination across the scene. The color palette is subdued, with muted blues and grays from the ceiling and backboard, contrasted by the red rim and subtle hints of warm light from the bulbs. The overall mood is quiet and contemplative, evoking the anticipation before a game or the stillness after one. The style is realistic with a touch of cinematic grain, emphasizing the geometry and symmetry of the gym’s architecture. The depth of field is deep, keeping all elements in sharp focus, and the camera angle is dramatic, enhancing the scale and presence of the basketball hoop against the vast, empty ceiling.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:50.298924",
+  "word_count": 163,
+  "error_message": null
+}

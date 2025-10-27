@@ -1,0 +1,12 @@
+{
+  "image_filename": "20030457-4b4b-4c39-bcc4-ab7d1cfbed03.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, warmly lit kitchen scene in the evening, with a soft, golden glow illuminating the space. In the foreground, three young children—two girls and one boy—are seated at a wooden table, deeply focused on drawing and coloring with pencils and crayons on white sheets of paper. Their expressions are intent and absorbed, each child lost in their creative activity. Scattered on the table are red notebooks, colored pencils, and a small toy soccer ball, adding a sense of lived-in authenticity.\n\nIn the background, a woman in a bright pink sweater stands at the kitchen counter, preparing food. She looks toward the children with a gentle, attentive expression, suggesting a nurturing and caring atmosphere. The kitchen is homey and slightly cluttered, with children’s artwork, including a rainbow drawing, taped to the walls and cabinets. Potted plants and kitchen utensils add to the domestic feel.\n\nThe composition uses a shallow depth of field, keeping the children and the woman in sharp focus while softly blurring the background details. The camera angle is slightly low and at table height, drawing the viewer into the children’s world. The overall style is naturalistic and cinematic, evoking warmth, comfort, and the quiet intimacy of family life. The color palette features warm earth tones, soft yellows, and pops of color from the children’s clothes and artwork, enhancing the inviting, homely mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:43.316566",
+  "word_count": 225,
+  "error_message": null
+}

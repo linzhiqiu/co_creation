@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a6bcbae-befb-4d6a-8735-d667a79e5e3f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone samurai stands in the foreground, his expression intense and resolute, with furrowed brows and a stern, weathered face. His hair is wild and disheveled, adding to his fierce and battle-worn appearance. He wears a dark, loose-fitting kimono that drapes heavily over his broad frame, the fabric textured and slightly rumpled, suggesting recent action or hardship. The samurai grips the hilt of his sword, partially visible at his side, ready for confrontation.\n\nThe background is softly blurred, with tall, vertical tree trunks creating a natural frame around the figure. Beyond the trees, a pale, almost ethereal blue sky hints at either dawn or dusk, bathing the scene in cool, diffused light. The color palette is dominated by earthy browns and muted blues, enhancing the somber, contemplative mood.\n\nThe composition is cinematic, with a shallow depth of field that keeps the samurai in sharp focus while the background recedes into a gentle blur. The camera angle is slightly low and centered, emphasizing the subject’s imposing presence and emotional gravity. The overall style evokes classic Japanese period films, with a sense of quiet tension and dramatic anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:42.844679",
+  "word_count": 186,
+  "error_message": null
+}

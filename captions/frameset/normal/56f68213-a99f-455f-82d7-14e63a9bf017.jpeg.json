@@ -1,0 +1,12 @@
+{
+  "image_filename": "56f68213-a99f-455f-82d7-14e63a9bf017.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic scene set in an ancient, stone-paved arena under diffuse, sepia-toned lighting. At the center of the composition is a large, perfectly circular pit embedded in the ground, its dark interior contrasting starkly with the pale, geometric stone tiles that radiate outward in concentric patterns. Two figures dominate the foreground: one, a tall, imposing warrior clad in ornate, dark armor and a flowing cape, stands at the very edge of the pit, facing the viewer with a stoic, unyielding posture. The other figure, partially obscured and seen from behind, wears a similar cloak and appears to be in motion, either approaching or confronting the armored warrior. The camera angle is high and slightly off-center, emphasizing the vast emptiness of the arena and the isolation of the figures. The overall mood is tense and foreboding, with a sense of impending action. The color palette is muted, dominated by earthy browns, grays, and golds, lending the scene a timeless, almost mythic quality. The lighting is soft but directional, casting subtle shadows that enhance the depth and texture of the stonework. The composition is meticulously balanced, with the circular pit serving as a powerful visual anchor, drawing the viewer’s eye to the confrontation at its edge.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:39.326914",
+  "word_count": 205,
+  "error_message": null
+}

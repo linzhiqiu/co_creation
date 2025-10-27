@@ -1,0 +1,12 @@
+{
+  "image_filename": "25e41dd1-a05b-4c60-b333-1e8ddf51b78a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage electronic device, focusing on a slightly dusty, darkened display screen embedded in a bold orange plastic casing. The screen shows faint, greenish-yellow monochrome text and numbers, reminiscent of old CRT or early LCD technology, with some words and data barely legible due to glare and age. To the right of the screen, part of a control panel is visible, featuring a cream-colored section with a grid of black buttons, each marked with simple white geometric symbols. The lighting is soft and natural, casting gentle highlights on the textured plastic surface and emphasizing the retro, utilitarian design. The composition is tight, with a shallow depth of field that blurs the background and edges, drawing attention to the tactile details and nostalgic atmosphere of the device. The overall mood is one of quiet technological history, evoking a sense of curiosity and reverence for analog machinery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:45.341114",
+  "word_count": 149,
+  "error_message": null
+}

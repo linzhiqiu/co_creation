@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f940165-31bd-4219-a6e8-3344521f5df8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic landscape scene featuring a dramatic, layered volcanic hill as the central subject. The hill is composed of striking, undulating strata in shades of dark brown, black, and muted gray-green, giving it a rugged, almost otherworldly texture. In the foreground, include jagged volcanic rocks and a rocky shoreline, with gentle waves lapping against the stones. The sky is overcast, casting a soft, diffused light that mutes the colors and enhances the stark, moody atmosphere. The overall color palette is subdued and earthy, dominated by dark volcanic tones and pale, cloudy whites. The composition is wide and expansive, with the hill occupying the center and background, and the rocky shore leading the viewer’s eye into the scene. The style is naturalistic and contemplative, evoking a sense of isolation and raw geological beauty, reminiscent of a remote, windswept coastal landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:11.587061",
+  "word_count": 140,
+  "error_message": null
+}

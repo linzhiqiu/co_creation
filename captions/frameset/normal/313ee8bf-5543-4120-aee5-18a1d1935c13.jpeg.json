@@ -1,0 +1,12 @@
+{
+  "image_filename": "313ee8bf-5543-4120-aee5-18a1d1935c13.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, cinematic image looking up from the base of a large, ancient tree, capturing the intricate network of thick, twisting branches and dense foliage overhead. The perspective is from directly below, emphasizing the grandeur and complexity of the tree’s structure as the branches radiate outward, filling the frame. The color palette is muted and moody, dominated by deep greens, dark browns, and cool, shadowy tones, with diffused, overcast lighting filtering through the leaves, creating a somber, almost mysterious atmosphere. The overall style is naturalistic yet slightly desaturated, evoking a sense of awe and quiet reverence. The composition is symmetrical and immersive, drawing the viewer’s eye upward into the canopy, with a shallow depth of field that keeps the focus on the texture of the bark and the interplay of light and shadow among the leaves.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:48.029107",
+  "word_count": 138,
+  "error_message": null
+}

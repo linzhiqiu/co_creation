@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d0561ea-72f6-4892-94a1-7b3579cfb9ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone basketball player stands poised on a dimly lit indoor court, captured mid-shot as the ball arcs gracefully toward the hoop. The athlete, wearing a vivid orange jersey with the number 2, is positioned to the left of the frame, their form silhouetted against the hazy, golden light that streams from two bright overhead lamps. The gymnasium is enveloped in a soft, atmospheric fog, diffusing the light and creating dramatic halos around the fixtures, lending the scene a cinematic, almost dreamlike quality. The background is largely obscured in shadow, with faint outlines of bleachers barely visible, emphasizing the sense of solitude and focus. The color palette is dominated by warm ambers and deep shadows, with the orange of the jersey providing a striking focal point. The composition uses a wide shot and a low angle, enhancing the sense of space and isolation, while the shallow depth of field keeps the player and the ball in sharp relief against the blurred, glowing background. The overall mood is contemplative and aspirational, evoking themes of dedication, perseverance, and the quiet intensity of practice.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:33.839817",
+  "word_count": 181,
+  "error_message": null
+}

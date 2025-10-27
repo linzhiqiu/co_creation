@@ -1,0 +1,12 @@
+{
+  "image_filename": "1dcf04b3-5662-428a-9282-c79243d36b43.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of two bright yellow directional signposts mounted on a metal pole, set against a softly blurred winter forest background. The top sign points to the left and reads \"Suvretta Champfer,\" while the lower sign points to the right and prominently displays \"St. Moritz\" in bold black letters. Both signs feature a small pink snowflake symbol on the arrowhead, indicating a winter or ski route. The background is composed of tall, dark evergreen trees with patches of snow on the ground, rendered with a shallow depth of field that keeps the focus sharply on the signs. The lighting is natural daylight, casting gentle shadows and giving the yellow signs a warm, inviting glow. The overall color palette contrasts the vivid yellow of the signs with the cool blues and muted browns of the wintry landscape, creating a crisp, clear, and slightly cinematic atmosphere. The composition centers the signs in the frame, emphasizing their importance as wayfinding markers in a serene alpine setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:52.085740",
+  "word_count": 164,
+  "error_message": null
+}

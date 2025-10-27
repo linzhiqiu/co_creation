@@ -1,0 +1,12 @@
+{
+  "image_filename": "12cfc2f4-29c2-4cd1-984e-2fa64eb2b617.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle shot from the perspective of a car’s dashboard, looking out through the windshield as the vehicle travels down a narrow, gravel country road. The hood of the car dominates the lower third of the frame, its metallic surface reflecting a bright sun flare, adding a touch of realism and warmth. The road stretches forward, flanked by tall, wild grasses and sparse, slightly overgrown vegetation, leading the viewer’s eye toward a distant, weathered farmhouse partially obscured by a cluster of leafless and budding trees. The sky above is expansive, with soft, natural daylight illuminating the scene, casting gentle shadows and creating a serene, slightly nostalgic rural atmosphere. The color palette is muted and earthy, with subdued greens, browns, and the soft blue of the sky, evoking a sense of quiet isolation and anticipation. The overall style is reminiscent of classic American road movies, with a naturalistic, almost documentary feel, and a subtle sense of motion implied by the perspective and composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:43.086230",
+  "word_count": 163,
+  "error_message": null
+}

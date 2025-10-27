@@ -1,0 +1,12 @@
+{
+  "image_filename": "3389af36-af86-469b-975e-5da5dd06871f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, cinematic close-up portrait of a mysterious figure, centered in the frame, gazing directly into the camera with intense, expressive eyes. The subject wears a dark, fuzzy bucket hat that casts a subtle shadow over their forehead, and their lower face is obscured by a stylish black face covering adorned with bold pink and white vertical stripes. Hints of intricate patterns and textures are visible on the mask and the subject’s clothing, suggesting a fusion of streetwear and urban fashion influences. The lighting is dramatic and vibrant, with cool blue and purple tones illuminating the edges of the subject, creating a neon glow effect that contrasts with the warm, blurred background of fiery orange and magenta hues. The overall mood is enigmatic and edgy, with a shallow depth of field that keeps the focus sharply on the subject’s eyes while the background melts into a soft, colorful bokeh. The composition and color palette evoke a modern, music video aesthetic, blending elements of urban nightlife and high-fashion editorial photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:37.749797",
+  "word_count": 170,
+  "error_message": null
+}

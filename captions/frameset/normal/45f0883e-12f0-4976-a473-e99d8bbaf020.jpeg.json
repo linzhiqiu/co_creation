@@ -1,0 +1,12 @@
+{
+  "image_filename": "45f0883e-12f0-4976-a473-e99d8bbaf020.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, low-angle close-up shot of a row of orange training cones arranged in a straight line on a smooth indoor floor. The camera is positioned at ground level, creating a dramatic sense of depth and perspective as the cones recede into the distance. The background is softly blurred, with a single, bright, circular light source glowing in the center, casting a warm, golden hue across the scene. Subtle lens flare and bokeh effects add to the atmospheric quality. The overall color palette is dominated by earthy browns, warm oranges, and soft yellows, evoking a cozy, late-afternoon or early-evening ambiance. The lighting is soft but directional, highlighting the texture of the floor and the plastic sheen of the cones, while the out-of-focus background suggests an indoor sports facility or gymnasium with wooden or metal structures faintly visible. The composition emphasizes leading lines and a shallow depth of field, creating a focused, contemplative mood reminiscent of a sports film or motivational training montage.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:15.813269",
+  "word_count": 162,
+  "error_message": null
+}

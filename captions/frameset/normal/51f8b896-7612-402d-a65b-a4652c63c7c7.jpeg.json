@@ -1,0 +1,12 @@
+{
+  "image_filename": "51f8b896-7612-402d-a65b-a4652c63c7c7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A female athlete is captured in a dramatic, cinematic moment as she prepares to sprint on an indoor track. She is positioned in a classic starting stance, one knee on the ground, hands braced on the track, her head bowed in intense focus. The lighting is soft and diffused, streaming in from the left side of the frame, creating a hazy, atmospheric effect with gentle highlights on her muscular arms and shoulders. The background is dimly lit, with blurred details of the indoor stadium, including starting blocks and a digital clock, adding depth and context without distracting from the subject. The color palette is muted and cool, dominated by shades of gray, brown, and subtle blue tones in her athletic wear. The composition uses a low, side angle, emphasizing the athlete’s form and determination, with a shallow depth of field that keeps her in sharp focus while the background fades into a soft blur. The overall mood is one of anticipation, strength, and quiet intensity, evoking the moments just before a race begins.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:35.650889",
+  "word_count": 173,
+  "error_message": null
+}

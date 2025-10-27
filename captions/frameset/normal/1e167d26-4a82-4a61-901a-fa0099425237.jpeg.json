@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e167d26-4a82-4a61-901a-fa0099425237.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, black Mercedes-Benz E55 AMG speeds down a desolate, rural road under a moody, overcast sky. The camera is positioned low and slightly behind the car, capturing its aggressive stance and muscular lines as it moves swiftly along the cracked, weathered pavement. Bare, leafless trees and dry, brown grasses line the roadside, their silhouettes stark against the cold, bluish-gray light of late afternoon or early evening. The overall color palette is muted and somber, dominated by cool tones and deep shadows, evoking a sense of isolation and quiet intensity. The lighting is diffuse and natural, with soft, cloud-filtered daylight casting subtle reflections on the car’s glossy surface. The composition emphasizes motion and atmosphere, with a shallow depth of field that blurs the background slightly, drawing focus to the car’s dynamic presence. The scene has a cinematic, almost noir quality, reminiscent of a tense moment in a crime thriller or a dramatic road movie.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:56.842650",
+  "word_count": 154,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "542963cb-6acb-4d8d-90cb-43fe67f8c537.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a realistic, well-lit interior scene focused on a closed white door with classic rectangular paneling, centered in the composition. The door is framed by white trim, standing out against a warm beige wall. To the left of the door, hang a single framed piece of abstract art featuring a pattern of blue and white circular shapes, bordered by a muted gray-blue frame. The lighting is soft and natural, suggesting daylight filtering in from an unseen window, casting gentle, diffuse shadows and creating a calm, quiet atmosphere. The camera angle is straight-on at eye level, emphasizing symmetry and simplicity. The overall style is clean and minimalistic, with a subtle, homey feel, and the color palette is dominated by neutral tones with a pop of blue from the artwork. No people or additional objects are present, allowing the viewer to focus on the serene, everyday quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:29.166886",
+  "word_count": 149,
+  "error_message": null
+}

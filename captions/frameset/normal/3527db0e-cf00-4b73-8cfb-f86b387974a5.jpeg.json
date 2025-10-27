@@ -1,0 +1,12 @@
+{
+  "image_filename": "3527db0e-cf00-4b73-8cfb-f86b387974a5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a hyper-realistic, cinematic close-up shot from inside a transparent glass as water is being poured in. The perspective is from within the glass, looking outward through the curved, ribbed surface, capturing the swirling motion and dynamic flow of the liquid. The water forms intricate ripples and splashes, with droplets suspended in mid-air, emphasizing the sense of movement and fluidity. The color palette is cool and muted, dominated by silvery blues and soft grays, with subtle reflections and refractions of light playing across the glass and water. The lighting is soft and diffused, highlighting the clarity and texture of both the glass and the liquid. The overall style is crisp and detailed, with a shallow depth of field that blurs the background, focusing attention on the mesmerizing patterns and motion within the glass. The mood is immersive and almost abstract, evoking a sense of freshness and purity.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:15.585656",
+  "word_count": 148,
+  "error_message": null
+}

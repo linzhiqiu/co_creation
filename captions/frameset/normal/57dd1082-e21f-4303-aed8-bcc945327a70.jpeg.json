@@ -1,0 +1,12 @@
+{
+  "image_filename": "57dd1082-e21f-4303-aed8-bcc945327a70.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, stylized scene set in a dimly lit, industrial garage or workshop. The central subject is a teenage girl standing in a powerful, wide-legged stance, viewed from a low, upward camera angle that emphasizes her dominance and determination. She wears a traditional Japanese school uniform: a crisp white sailor blouse with a blue neckerchief, a pleated navy skirt, knee-high white socks with blue stripes, and blue-and-white shoes. Her short, dark hair frames a serious, focused expression. \n\nIn each hand, she firmly grips a large, metallic kettle, holding them out to her sides as if they are weights, suggesting strength and resolve. The background is cluttered with industrial elements—metal fencing, stacked tires, scattered tools, and shafts of sunlight filtering through high windows, casting dramatic shadows and highlights across the scene. The color palette is dominated by cool blues and metallic grays, with warm golden light creating striking contrasts. The overall style is cinematic, with a shallow depth of field that keeps the girl sharply in focus while the background blurs slightly, enhancing the sense of intensity and isolation. The mood is bold and slightly surreal, blending elements of youth, strength, and defiance in a visually arresting composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:03.005717",
+  "word_count": 198,
+  "error_message": null
+}

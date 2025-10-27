@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d239000-df94-4430-b63b-9513288cfce8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, immersive scene viewed from deep inside a large, hollowed-out tree trunk, looking outward toward the opening. The interior of the trunk is dark, textured, and charred, with rough, organic patterns and patches of snow clinging to the edges, suggesting a cold, wintry environment. At the far end of the tunnel, a single figure crouches, partially silhouetted against the daylight. The person is dressed in dark, winter-appropriate clothing, and their face is obscured by shadow, adding an air of mystery. They hold a flashlight, its beam cutting through the gloom and illuminating the tunnel’s interior with a stark, focused light. The overall color palette is muted and natural, dominated by earthy browns, blacks, and the stark white of snow. The lighting is high-contrast, with the bright, cold daylight outside sharply juxtaposed against the deep shadows within the trunk. The composition uses a strong sense of depth and perspective, drawing the viewer’s eye through the tunnel toward the figure, evoking a sense of exploration, suspense, and discovery. The style is realistic with a touch of cinematic drama, reminiscent of a tense moment in an adventure or survival film.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:23.804549",
+  "word_count": 190,
+  "error_message": null
+}

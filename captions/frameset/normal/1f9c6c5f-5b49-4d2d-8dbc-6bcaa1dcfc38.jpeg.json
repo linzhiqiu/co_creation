@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f9c6c5f-5b49-4d2d-8dbc-6bcaa1dcfc38.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white photograph capturing a candid moment at a vintage chess event. The central subject is a man in his 30s, dressed in a classic suit and striped tie, with a name tag pinned to his lapel. He has dark, neatly combed hair and a friendly, engaged expression, as if in mid-conversation or responding to someone just out of frame. The background features a wall decorated with large chess piece motifs, reinforcing the chess theme. In the foreground, partially obscuring the man, is an old-fashioned CRT computer monitor displaying a digital chessboard with pieces in their starting positions, rendered in simple pixel graphics. The composition uses a shallow depth of field, with the man in soft focus and the monitor slightly sharper, creating a sense of immediacy and immersion. The lighting is soft and diffuse, evoking a nostalgic, documentary feel reminiscent of 1970s or 1980s archival footage. The overall mood is intellectual and slightly celebratory, capturing the intersection of human intellect and early computer technology in a historical chess setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:32.298365",
+  "word_count": 170,
+  "error_message": null
+}

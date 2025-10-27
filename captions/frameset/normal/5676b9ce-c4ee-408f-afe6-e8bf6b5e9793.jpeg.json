@@ -1,0 +1,12 @@
+{
+  "image_filename": "5676b9ce-c4ee-408f-afe6-e8bf6b5e9793.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a stylized, high-contrast portrait of a person in profile, facing to the right. The subject wears a dark beanie hat and has shoulder-length hair, with a faint mustache and beard visible. Overlay the face with a geometric wireframe mesh, composed of fine orange lines and nodes, evoking facial recognition or digital mapping technology. The background is a clean, minimal off-white, creating a stark contrast with the subject and emphasizing the wireframe overlay. The lighting is soft and diffuse, eliminating harsh shadows and lending the image a clinical, almost scientific atmosphere. The overall style is a blend of digital illustration and photography, with a slightly surreal, futuristic quality. The composition is centered and tightly cropped, focusing attention on the subject’s head and the intricate facial mesh, while the muted color palette of blacks, grays, and oranges enhances the modern, technological mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:23.251041",
+  "word_count": 141,
+  "error_message": null
+}

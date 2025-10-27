@@ -1,0 +1,12 @@
+{
+  "image_filename": "28dd5418-b103-458f-9a38-274eadf7ab45.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, top-down view of a vintage topographic map, focusing on a mountainous region. The map should feature a complex network of winding yellow contour lines indicating elevation changes, interspersed with red and blue lines representing trails, roads, and rivers. The terrain is rendered in varying shades of green, from deep forest to lighter grassy areas, with occasional patches of white and beige to denote higher altitudes or open land. Small, precise labels in a classic serif font mark towns, peaks, and natural features, adding an authentic cartographic touch. The overall color palette is earthy and muted, evoking the look of an old, well-used map. The lighting is even and soft, with no harsh shadows, emphasizing the intricate details and textures of the paper. The composition is flat and immersive, inviting the viewer to explore the landscape through the map’s carefully drawn lines and subtle color gradations. The style is realistic and documentary, with a focus on clarity, accuracy, and the tactile quality of traditional printed maps.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:47.871295",
+  "word_count": 169,
+  "error_message": null
+}

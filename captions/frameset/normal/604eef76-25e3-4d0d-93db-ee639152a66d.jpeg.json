@@ -1,0 +1,12 @@
+{
+  "image_filename": "604eef76-25e3-4d0d-93db-ee639152a66d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white cinematic scene set on a deserted rural road under a sky filled with dramatic, billowing clouds. In the foreground, the glossy hood of a vintage car reflects the light, its curves catching subtle highlights. A uniformed police officer stands beside the car, his posture alert yet calm as he examines a document or license, the brim of his cap casting a shadow over his focused expression. The officer’s crisp uniform, complete with a badge and utility belt, evokes mid-20th-century Americana. Behind him, a classic police motorcycle is parked at an angle, its chrome details gleaming softly. The background features silhouetted palm trees and dense foliage, creating a sense of isolation and suspense. The lighting is high-contrast, with deep shadows and luminous highlights, enhancing the noir atmosphere. The composition uses a shallow depth of field, keeping the officer and the car in sharp focus while the background blurs slightly, drawing attention to the tense interaction. The overall style is reminiscent of 1940s film noir, with moody, atmospheric lighting and a sense of narrative intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:20.341975",
+  "word_count": 175,
+  "error_message": null
+}

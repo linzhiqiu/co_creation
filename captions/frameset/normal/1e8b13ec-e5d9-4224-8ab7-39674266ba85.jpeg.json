@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e8b13ec-e5d9-4224-8ab7-39674266ba85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, angled shot of a modern, sleek laptop partially open on a light wooden desk. The focus is on the black keyboard with backlit keys, rendered in sharp detail, while the screen displays a soft, out-of-focus gradient of warm colors—reds, oranges, and yellows—suggesting a vibrant desktop wallpaper. The laptop’s metallic body reflects ambient light, emphasizing its smooth, minimalist design. The composition is intimate and slightly diagonal, with the camera positioned above and to the left, creating a sense of depth and perspective. In the lower right corner, a blurred edge of a notebook and a pen are just visible, adding a subtle touch of context and realism. The lighting is natural and diffused, casting gentle shadows and highlights that enhance the textures of both the laptop and the wooden surface. The overall mood is calm, focused, and modern, evoking a workspace ready for creativity or productivity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:09.443474",
+  "word_count": 147,
+  "error_message": null
+}

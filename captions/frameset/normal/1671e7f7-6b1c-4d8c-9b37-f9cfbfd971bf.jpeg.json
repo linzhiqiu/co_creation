@@ -1,0 +1,12 @@
+{
+  "image_filename": "1671e7f7-6b1c-4d8c-9b37-f9cfbfd971bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic scene of two hikers standing atop a rugged rocky outcrop at twilight, silhouetted against a deep blue sky. Both figures wear headlamps that emit bright, glowing beams, creating striking halos of light and subtle lens flares in the foreground. The hikers’ postures suggest a moment of pause and accomplishment, gazing out over the unseen landscape below. The color palette is dominated by cool blues and muted grays, with a gentle gradient at the horizon hinting at the last light of sunset. The lighting is low and atmospheric, emphasizing the contrast between the illuminated headlamps and the shadowy forms of the rocks and figures. The composition uses a low, upward camera angle to enhance the sense of scale and adventure, with a shallow depth of field that keeps the focus on the hikers and the immediate foreground, while the background fades softly into the evening sky. The overall mood is one of quiet triumph and exploration, evoking the spirit of adventure and the beauty of the wilderness at dusk.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:06.914950",
+  "word_count": 171,
+  "error_message": null
+}

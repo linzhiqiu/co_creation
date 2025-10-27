@@ -1,0 +1,12 @@
+{
+  "image_filename": "45dfd565-05a3-4666-a6c1-a8d5f53d758b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a high-tech security operations center at night, filled with a diverse team of professionals intensely monitoring multiple computer screens. The room is spacious and modern, illuminated by cool blue and white LED lighting that casts a sleek, futuristic glow. In the background, a massive wall-mounted video display shows a grid of live surveillance camera feeds, each depicting various industrial or urban scenes in monochrome blue tones. The operators, both men and women, are dressed in business attire—suits, blazers, and headsets—focused on their tasks, some seated at desks with multi-monitor setups, others standing or conferring in small groups. The atmosphere is tense and purposeful, with a sense of urgency and coordination. The composition is cinematic, shot from a slightly elevated angle to capture the scale and complexity of the room, with a shallow depth of field that emphasizes the activity in the foreground while keeping the background screens sharp and detailed. The overall style is sleek, professional, and reminiscent of a modern thriller or cyber-espionage film.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:13.526308",
+  "word_count": 167,
+  "error_message": null
+}

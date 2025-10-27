@@ -1,0 +1,12 @@
+{
+  "image_filename": "23d8dcc4-fb5b-4c3c-9640-a4f634869687.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA moody, cinematic urban scene set beneath a modern architectural overhang, with a dramatic interplay of light and shadow. The composition features two blurred, silhouetted figures in the foreground, suggesting motion and anonymity, their features indistinct. The background is dominated by sleek, contemporary buildings with glass and metal facades, their geometric lines and grids creating a sense of depth and urban sophistication. A large, square window set into a wall of warm, reddish-brown tiles reflects the cool, overcast sky, while a sharp beam of sunlight cuts diagonally across the wall, casting a striking highlight and enhancing the contrast between light and darkness. The color palette is subdued and atmospheric, with cool blues and grays from the buildings and sky, offset by the warm tones of the tiled wall. The overall style is reminiscent of a high-end architectural photograph or a scene from a modern noir film, with a low camera angle, deep shadows, and a shallow depth of field that keeps the focus on the interplay of architecture, light, and the fleeting presence of people.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:03.157993",
+  "word_count": 176,
+  "error_message": null
+}

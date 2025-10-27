@@ -1,0 +1,12 @@
+{
+  "image_filename": "32ff6c4f-b0df-4886-9b7d-d4dfabf1102f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a printed book page, with the camera tightly focused on a specific passage. The text is in a serif font, and the words \"SLEEP DEPRIVATION\" are prominently featured in all capital letters, standing out in bold among the surrounding sentences. The lighting is soft and even, creating minimal shadows and allowing the text to be clearly legible. The background is entirely filled by the page, with no other objects or context visible, emphasizing the importance of the highlighted words. The color palette is subdued, consisting mainly of off-white paper and dark, almost black ink. The overall style is clinical and documentary-like, evoking a sense of seriousness and focus, as if the viewer is being drawn into the critical details of a psychological or medical text. The composition is straightforward, with a shallow depth of field that blurs the edges of the page, directing all attention to the central, bolded phrase.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:24.551749",
+  "word_count": 154,
+  "error_message": null
+}

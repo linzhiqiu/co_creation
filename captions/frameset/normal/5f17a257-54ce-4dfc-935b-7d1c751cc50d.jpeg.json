@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f17a257-54ce-4dfc-935b-7d1c751cc50d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, overhead shot of a cluttered wooden desk, bathed in soft, natural daylight with a warm, slightly muted color palette. The focal point is a large, worn binder labeled “Cloud Physics” in hand-written, blue marker on a faded beige cover, suggesting frequent use. Scattered around the binder are other academic materials: a dark blue spiral notebook with a visible label, a partially obscured folder, and loose sheets of paper, all arranged in a casual, slightly messy manner. In the lower right, a hand with a light skin tone, fingers gently curled, is caught mid-motion as if about to pick up or adjust something on the desk, adding a sense of life and immediacy to the scene. The composition is intimate and documentary-like, with a shallow depth of field that keeps the focus on the binder and hand, while the background elements softly blur. The overall mood is studious and contemplative, evoking the quiet intensity of academic work or personal research.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:55.425828",
+  "word_count": 161,
+  "error_message": null
+}

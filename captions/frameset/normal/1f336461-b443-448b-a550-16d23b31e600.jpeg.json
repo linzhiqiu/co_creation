@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f336461-b443-448b-a550-16d23b31e600.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a person typing on a modern smartphone. The camera is positioned at a low, intimate angle, focusing on the hands and the illuminated touchscreen keyboard, with the fingers in mid-action, pressing the virtual keys. The phone displays a white keyboard with clear, crisp letters and a subtle blue accent, set to English (US). The lighting is soft and natural, possibly from a nearby window, casting gentle reflections and highlights on the phone’s glass surface. The background is blurred, drawing all attention to the tactile interaction between the hands and the device. The overall color palette is neutral, with warm skin tones contrasting against the cool, sleek surface of the phone. The composition conveys a sense of immediacy and modern connectivity, emphasizing the everyday intimacy of digital communication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:21.563188",
+  "word_count": 133,
+  "error_message": null
+}

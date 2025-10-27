@@ -1,0 +1,12 @@
+{
+  "image_filename": "2216268d-d388-4d88-bdd7-3551eab2162f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, first-person perspective shot of an archery target set up outdoors in a sunlit park. The camera is positioned directly behind a single arrow in mid-flight, creating a dramatic sense of motion and depth as the arrow speeds toward the bullseye. The target is a classic circular design with concentric colored rings—white, black, blue, red, and yellow—mounted on a wooden easel. The surface of the target is covered with an eclectic mix of colorful, graffiti-style stickers and bold text, including phrases like \"LOVE NEVER DIES\" and \"NEVER GIVE UP,\" adding a rebellious, urban flair to the scene. The background features lush green grass, tall palm trees, and hints of suburban houses under a clear, vibrant blue sky. The lighting is bright and natural, casting crisp shadows and enhancing the vividness of the colors. The overall style is cinematic, with a shallow depth of field that keeps the arrow and target in sharp focus while softly blurring the background, emphasizing the intensity and anticipation of the moment just before impact.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:22.000018",
+  "word_count": 170,
+  "error_message": null
+}

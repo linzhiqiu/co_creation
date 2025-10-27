@@ -1,0 +1,12 @@
+{
+  "image_filename": "535d16a2-2a88-4d03-831f-931f4a54eed9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime cityscape of a deserted urban street, viewed from a low, ground-level perspective that emphasizes the dramatic architecture of two large, curved, art-deco style buildings flanking either side of the road. The buildings are multi-storied, with rounded corners and rows of windows, their facades illuminated by the warm, golden glow of evenly spaced streetlights that cast soft pools of light onto the empty pavement. The street is wide and stretches into the distance, lined with closed storefronts and a few parked cars, including a green car on the right. The atmosphere is quiet and slightly eerie, with deep shadows and a sense of stillness, evoking a film noir or neo-noir aesthetic. The color palette is dominated by muted earth tones, warm yellows from the streetlights, and cool, desaturated blues and grays in the shadows. The overall style is realistic with a subtle cinematic depth of field, capturing the emptiness and architectural grandeur of the urban night.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:09.647030",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "414d0c73-65db-41b1-9adb-153043940d5b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, eye-level shot of a modern car’s dashboard navigation screen, displaying a digital map interface in Chinese. The screen is centered in the frame, surrounded by the sleek, dark plastic and metallic trim of the dashboard, with tactile buttons for functions like \"HOME,\" \"NAV,\" \"PHONE,\" \"RADIO,\" and \"MEDIA\" visible on either side. The navigation display shows a detailed city map with a highlighted blue route, directional arrows, and clear turn-by-turn instructions, including a right turn in 300 meters. The interface features a mix of blue, white, and green tones, with subtle red and yellow traffic indicators, and a small circular compass in the lower right. The lighting is soft and natural, suggesting daylight filtering through the car’s interior, with gentle reflections on the screen and dashboard surfaces. The overall style is clean, realistic, and utilitarian, emphasizing clarity and modern automotive technology, with a shallow depth of field that keeps the focus on the navigation display while softly blurring the surrounding dashboard elements.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:37.302536",
+  "word_count": 163,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ebd6bf6-860e-450b-a53c-9ad440a09c4d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic rural scene featuring two blue tractors in a muddy field under clear daylight. The foreground is dominated by the rear view of a large, mud-splattered tractor with thick, dirt-caked tires, its cabin partially open and a man in work clothes seated inside, focused on operating the vehicle. The man’s posture is intent, suggesting concentration and effort. Behind this tractor, another blue tractor is visible, slightly out of focus, following along a deep, freshly carved rut in the earth. The background reveals a lush, green landscape with patches of grass, scattered trees, and a bright blue sky, evoking a crisp, cool day. The lighting is natural and bright, casting soft shadows and highlighting the textures of mud, metal, and grass. The camera angle is low and slightly behind the first tractor, emphasizing the ruggedness of the terrain and the machinery’s scale. The overall style is realistic and documentary-like, with a shallow depth of field that draws attention to the tractors and the immediate action, while the background remains softly blurred, enhancing the sense of depth and immersion in the rural environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:27.596679",
+  "word_count": 182,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "24e29a77-2276-4f28-a2ed-87158e3fcb64.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage-style classroom scene set in what appears to be a European school during the late 1970s or early 1980s. The composition is a wide, slightly elevated angle, capturing the entire room and its occupants. The classroom is bathed in soft, natural daylight streaming through large windows on the left, casting gentle shadows and creating a warm, nostalgic atmosphere. The color palette features muted greens, yellows, and browns, with pops of color from students’ clothing and classroom materials.\n\nAt the center, a wooden teacher’s desk sits in front of a chalkboard. A teacher, dressed in a dark sweater and collared shirt, stands behind the desk, interacting with a student who is handing over a paper. Another student stands at the chalkboard, writing in cursive. The chalkboard displays a lesson in Italian, and a world map hangs on the wall behind the teacher, adding an educational context. The classroom is filled with students seated at green desks, their backs to the camera, attentively watching the front of the room. The students wear a mix of sweaters and jackets in earthy tones, their hairstyles and clothing reflecting the era.\n\nThe walls are adorned with educational posters and a crucifix, reinforcing the setting’s cultural and historical context. The overall style is reminiscent of classic European cinema, with a slightly grainy texture, soft focus, and a sense of lived-in authenticity. The mood is calm, studious, and subtly nostalgic, evoking memories of childhood and traditional schooling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:23.548078",
+  "word_count": 241,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f834503-c438-4dd0-a779-509485385a1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph capturing a tense, intellectual moment. In the foreground, a pair of hands is poised over the keys of a vintage chess clock, fingers mid-action as if about to press the button. The hands are slightly blurred, suggesting motion and urgency. The background is softly out of focus, but a chessboard with classic Staunton-style chess pieces is clearly visible, some pieces standing upright while others are toppled, hinting at an ongoing or recently finished game. The scene is set in what appears to be a formal or competitive environment, with blurred figures in suits or jackets visible behind the chessboard, adding to the atmosphere of concentration and seriousness. The lighting is soft and diffuse, creating gentle shadows and a timeless, documentary feel. The overall composition emphasizes the drama and intensity of the moment, with a shallow depth of field drawing the viewer’s eye to the hands and the chess clock, while the monochrome palette enhances the sense of focus and gravity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:42.361334",
+  "word_count": 164,
+  "error_message": null
+}

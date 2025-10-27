@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a05e028-2f37-4221-b253-8f26c13c2de9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, sharply focused image of a product package with a modern, minimalistic design, set against a soft pink background. The main subject is a rectangular box with a vibrant red and pink color palette, featuring abstract floral or organic shapes in the background. In the foreground, a vintage brass magnifying glass is held up, its round lens magnifying a white label on the box. The label reads \"Ingredients:\" followed by three thick, black censor bars, obscuring the actual ingredients. The website \"www.flowtex.com\" is clearly visible below the label. The lighting is bright and even, creating a clean, almost clinical atmosphere, with no harsh shadows. The composition centers the magnifying glass and the censored label, drawing attention to the theme of hidden or secret information. The overall style is crisp and contemporary, with a hint of playful irony, reminiscent of commercial product photography with a conceptual twist.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:12.243136",
+  "word_count": 147,
+  "error_message": null
+}

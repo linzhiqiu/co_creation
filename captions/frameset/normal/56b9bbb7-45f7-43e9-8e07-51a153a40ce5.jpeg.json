@@ -1,0 +1,12 @@
+{
+  "image_filename": "56b9bbb7-45f7-43e9-8e07-51a153a40ce5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit, industrial interior. Two young men stand close to a large, weathered metal surface, possibly a chalkboard or a storage unit, which is marked with a simple game of tic-tac-toe drawn in white chalk. The man on the right, seen from behind and in profile, points at the board, his gesture frozen mid-action, while the man on the left, partially obscured and in shadow, watches intently. Both wear dark, casual clothing that blends into the subdued, cool-toned color palette dominated by grays, blues, and muted browns. The background features peeling paint, rust stains, and industrial textures, evoking a sense of urban decay. Soft, natural light filters in from a window out of frame, casting gentle highlights and deep shadows, enhancing the gritty realism. The camera angle is intimate and slightly over-the-shoulder, with a shallow depth of field that keeps the focus on the interaction and the chalk markings, while the background remains softly blurred. The overall mood is contemplative and tense, with a sense of quiet anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:34.383676",
+  "word_count": 175,
+  "error_message": null
+}

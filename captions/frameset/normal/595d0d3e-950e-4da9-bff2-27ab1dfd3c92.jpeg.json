@@ -1,0 +1,12 @@
+{
+  "image_filename": "595d0d3e-950e-4da9-bff2-27ab1dfd3c92.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-contrast black and white image, evoking the classic style of 1940s film noir. The scene is composed of a dramatic shadow cast across a textured stone or concrete surface. The shadow is formed by sunlight streaming through a window or glass door, projecting the bold, capitalized words \"LA BELLE AURORE\" in a vintage, sans-serif typeface. The letters are crisp and sharply defined, with the shadow of a window frame bisecting the text horizontally. In the lower right, the soft, organic silhouettes of leafy branches intrude into the frame, adding a touch of natural irregularity to the otherwise geometric composition. The lighting is stark and directional, creating deep blacks and bright highlights, with no visible human figures—only the interplay of light, shadow, and text. The overall mood is mysterious and nostalgic, reminiscent of a pivotal, atmospheric moment in a classic black-and-white film. The camera angle is slightly oblique, enhancing the sense of intrigue and abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:40.010195",
+  "word_count": 155,
+  "error_message": null
+}

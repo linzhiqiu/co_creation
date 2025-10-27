@@ -1,0 +1,12 @@
+{
+  "image_filename": "38866566-81d8-47ea-888c-2a7c3e780f0e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of lush palm trees forming a dense, symmetrical canopy over dark, shadowy ground. The color palette features deep greens and muted browns, with soft, diffused natural lighting. The composition emphasizes organic patterns and textures, evoking a tranquil, tropical atmosphere from a high, top-down perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:30.993318",
+  "word_count": 46,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3964b790-9b37-4fe1-8c32-234eaf3492db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman with short, dark hair, wearing oversized, translucent blue sunglasses that reflect subtle star-shaped patterns. She is dressed in a sleek, high-collared blue top, and her expression is serious and focused, gazing slightly downward as if absorbed in thought or concentration. The lighting is dramatic and futuristic, with cool blue tones illuminating her face from below, contrasted by a soft, ambient pink and purple gradient in the background. The composition is tight and intimate, with a shallow depth of field that keeps the subject sharply in focus while the background remains smooth and abstract. The overall style is modern and slightly surreal, evoking a sense of mystery and introspection, reminiscent of a sci-fi film or a high-fashion editorial.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:49.436544",
+  "word_count": 125,
+  "error_message": null
+}

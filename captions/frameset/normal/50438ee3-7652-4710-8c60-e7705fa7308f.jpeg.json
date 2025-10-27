@@ -1,0 +1,12 @@
+{
+  "image_filename": "50438ee3-7652-4710-8c60-e7705fa7308f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot from inside a helicopter cockpit at golden hour, with warm, diffused sunlight streaming through the windows and reflecting off the water below. The main focus is on a person’s hands holding a tablet device, which displays a vibrant, high-tech interface with a 3D schematic of a helicopter rotor system in bold reds, oranges, and purples. The person is dressed in a dark blue flight suit, with only their hands and part of their lap visible, suggesting a professional or pilot at work. The cockpit interior is rendered in cool blue and teal tones, with visible instrument panels and a glimpse of the pilot’s legs and boots. The background outside the window is softly blurred, showing a serene, expansive view of water and sky, enhancing the sense of altitude and motion. The composition uses a shallow depth of field to keep the tablet and hands in sharp focus, while the rest of the cockpit and the outside world are gently out of focus, creating an immersive, documentary-style realism. The overall mood is calm, focused, and technologically advanced, with a subtle sense of adventure and precision.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:02.261435",
+  "word_count": 188,
+  "error_message": null
+}

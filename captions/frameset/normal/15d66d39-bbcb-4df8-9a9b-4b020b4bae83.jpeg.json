@@ -1,0 +1,12 @@
+{
+  "image_filename": "15d66d39-bbcb-4df8-9a9b-4b020b4bae83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A professional portrait of a man in his late 30s to early 40s, standing in the foreground of a modern, open-plan office. He has short, dark hair and is clean-shaven, wearing a simple, dark crew-neck sweater. His expression is neutral and attentive, as if he is mid-conversation or being interviewed, with his gaze directed slightly off-camera. The background features rows of empty desks and ergonomic office chairs, with large windows letting in soft, natural daylight that fills the space with a gentle, diffused glow. The color palette is muted and contemporary, dominated by shades of gray, white, and black, with subtle hints of beige from the walls and natural light. The composition uses a shallow depth of field, keeping the man in sharp focus while the background is softly blurred, creating a sense of depth and drawing attention to the subject. The overall style is clean, modern, and cinematic, with a slight vignette effect and a balanced, symmetrical framing that emphasizes the professional and contemplative mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:54.240400",
+  "word_count": 169,
+  "error_message": null
+}

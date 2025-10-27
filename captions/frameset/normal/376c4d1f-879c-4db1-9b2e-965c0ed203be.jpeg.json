@@ -1,0 +1,12 @@
+{
+  "image_filename": "376c4d1f-879c-4db1-9b2e-965c0ed203be.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Depict a black-and-white scene viewed through a window, capturing two men intently working at a shared wooden desk in an old-fashioned office. Both men wear white shirts with rolled-up sleeves, dark vests, and ties, their hair neatly parted in a 1930s or 1940s style. They are hunched over manual typewriters, deeply focused on their tasks, with stacks of papers and books scattered across the desk. The background is dominated by a wall of small, uniform filing drawers, evoking a sense of meticulous organization and archival work. The lighting is soft and diffused, casting gentle shadows that enhance the vintage, cinematic atmosphere. The composition is symmetrical, with the window frame dividing the scene and adding a voyeuristic quality, as if the viewer is peering into a private moment of diligent labor. The overall mood is one of quiet concentration and historical authenticity, reminiscent of classic film noir or early documentary photography.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:07.494678",
+  "word_count": 151,
+  "error_message": null
+}

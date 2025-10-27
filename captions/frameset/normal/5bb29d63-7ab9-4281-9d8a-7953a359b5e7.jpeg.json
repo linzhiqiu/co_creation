@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bb29d63-7ab9-4281-9d8a-7953a359b5e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-contrast black and white photograph featuring a single human arm reaching upward from the bottom left of the frame. The arm is extended vertically, with the hand open and fingers splayed, as if reaching for help or expressing longing. The background is a smooth, featureless expanse of light gray, emphasizing emptiness and isolation. The lighting is soft and diffuse, casting no harsh shadows, and the overall mood is somber and contemplative. The composition is stark and uncluttered, with a strong sense of negative space dominating the image, drawing attention to the solitary gesture. The camera angle is straight-on, with a shallow depth of field that keeps the arm in sharp focus while the background remains blurred and abstract. The style evokes a sense of vulnerability and existential yearning, reminiscent of fine art photography or cinematic stills exploring themes of solitude and human emotion.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:30.986352",
+  "word_count": 146,
+  "error_message": null
+}

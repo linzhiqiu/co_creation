@@ -1,0 +1,12 @@
+{
+  "image_filename": "473ab6ba-a2bb-41bf-bfe5-11e41cf34260.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, perfectly centered shot of a classic paper shooting target. The target features concentric black and white rings, each marked with bold numbers, with the innermost circle labeled \"5.\" A single, clean bullet hole is precisely in the center of the bullseye, demonstrating perfect accuracy. The image is rendered in a monochromatic grayscale palette, emphasizing sharp contrasts and subtle gradients of light and shadow. The lighting is even and diffuse, eliminating harsh reflections and allowing the texture of the paper to be subtly visible. The composition is symmetrical and minimalistic, with the target filling the frame and no extraneous elements in the background, creating a sense of focus and precision. The overall style is documentary and straightforward, with a crisp, high-resolution finish that highlights the achievement of a flawless shot.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:38.172831",
+  "word_count": 132,
+  "error_message": null
+}

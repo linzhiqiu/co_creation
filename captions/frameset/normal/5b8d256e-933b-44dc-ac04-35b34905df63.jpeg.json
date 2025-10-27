@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b8d256e-933b-44dc-ac04-35b34905df63.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands against a vast, pale sky, captured from a dramatic low-angle perspective that emphasizes their dominance and resolve. The subject, a rugged individual with long, unkempt hair, wears weathered, earth-toned robes and layered garments that evoke a sense of historical or frontier setting. Their expression is intense and focused, eyes fixed on a distant target, as they extend one arm forward, gripping a long-barreled revolver with unwavering determination. The lighting is natural and diffuse, casting soft shadows and lending a muted, almost sepia-toned quality to the scene, enhancing the sense of timelessness and grit. The background is minimal, with only the textured expanse of a cloudy sky, allowing the figure’s silhouette and gesture to command full attention. The overall composition is cinematic, reminiscent of classic Westerns or samurai films, with a shallow depth of field that isolates the subject and heightens the tension and drama of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:33.618693",
+  "word_count": 151,
+  "error_message": null
+}

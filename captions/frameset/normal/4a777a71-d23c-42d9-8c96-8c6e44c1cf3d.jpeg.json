@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a777a71-d23c-42d9-8c96-8c6e44c1cf3d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an abstract, cinematic scene that evokes the sensation of traveling at high speed through a tunnel of darkness. The composition is centered on a vanishing point, with dynamic, elongated streaks of light radiating outward from the center, suggesting rapid motion or a warp-speed effect. The color palette is dominated by deep blacks, with accents of neon purples, pinks, and subtle hints of blue and green, creating a sense of depth and energy. The lighting is minimal, with the glowing light trails providing the only illumination, casting a faint, ethereal glow against the darkness. The overall style is futuristic and atmospheric, reminiscent of science fiction space travel sequences. The camera angle is straight-on, emphasizing the sense of acceleration and drawing the viewer’s eye into the infinite void. The mood is mysterious and exhilarating, with a strong sense of movement and immersion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:41.439153",
+  "word_count": 141,
+  "error_message": null
+}

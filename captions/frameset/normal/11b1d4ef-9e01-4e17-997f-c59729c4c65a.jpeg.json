@@ -1,0 +1,12 @@
+{
+  "image_filename": "11b1d4ef-9e01-4e17-997f-c59729c4c65a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands on a stark, minimalist stage, dramatically leaning backward at an impossible angle, as if defying gravity. The subject is dressed in loose, flowing white clothing that contrasts sharply against the deep black background, evoking a sense of purity and vulnerability. The backdrop is a vast expanse of darkness, scattered with countless tiny, luminous stars, creating the illusion of floating in outer space. The lighting is crisp and focused, casting soft shadows and highlighting the contours of the figure’s face and body, while the rest of the scene remains enveloped in darkness. The composition is wide and cinematic, with the figure positioned slightly off-center, emphasizing the vast emptiness around them. The overall style is surreal and dreamlike, with a high-contrast monochrome palette that enhances the sense of isolation and wonder. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the figure in sharp focus against the infinite, star-speckled void. The mood is contemplative and otherworldly, capturing a moment of suspended motion and existential awe.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:20.761682",
+  "word_count": 174,
+  "error_message": null
+}

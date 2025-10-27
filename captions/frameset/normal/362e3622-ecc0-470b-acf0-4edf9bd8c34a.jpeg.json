@@ -1,0 +1,12 @@
+{
+  "image_filename": "362e3622-ecc0-470b-acf0-4edf9bd8c34a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, introspective portrait of a young man reflected in an ornate, circular mirror mounted on a textured, dark wall. The subject stands in profile, gazing downward with a contemplative expression, his hands tucked into the pockets of a loose, olive-green jacket. The background features a softly lit, geometric pattern of circular shapes, adding a subtle retro-modern ambiance. The color palette is muted and earthy, dominated by greens, browns, and soft grays, with gentle, natural light casting soft shadows and enhancing the reflective mood. The composition uses shallow depth of field, keeping the mirror’s reflection in sharp focus while the foreground and edges blur, creating a sense of intimacy and quiet isolation. The overall style is evocative of art-house cinema, with a focus on mood, emotion, and visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:38.579198",
+  "word_count": 131,
+  "error_message": null
+}

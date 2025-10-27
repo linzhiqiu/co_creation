@@ -1,0 +1,12 @@
+{
+  "image_filename": "2fb91447-2e5f-494a-a50e-db530429a8db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a car’s side mirror, with the camera focused sharply on the mirror itself. Reflected in the mirror is a dramatic sky filled with large, fluffy cumulus clouds, rendered in soft, natural light. The car’s sleek, dark exterior is visible in the foreground, its lines and contours catching subtle highlights. The background is softly blurred, suggesting an outdoor setting but keeping all attention on the mirror and its reflection. The color palette is muted and monochromatic, with sepia or grayscale tones that evoke a nostalgic, contemplative mood. The lighting is diffuse, with no harsh shadows, creating a gentle, almost dreamlike atmosphere. The composition uses shallow depth of field to isolate the mirror and its reflection, lending the image a sense of quiet introspection and cinematic elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:14.019136",
+  "word_count": 130,
+  "error_message": null
+}

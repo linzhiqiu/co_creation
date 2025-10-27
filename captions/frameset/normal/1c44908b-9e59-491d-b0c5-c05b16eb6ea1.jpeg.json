@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c44908b-9e59-491d-b0c5-c05b16eb6ea1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply focused close-up shot of a person holding a smartphone in their right hand, with the phone screen prominently displayed in the foreground. The phone shows a credit report app interface, featuring a clean, modern design with teal and white colors, clear typography, and numerical credit scores. The person’s face is out of focus and partially cropped, drawing all attention to the phone. The subject is dressed in a dark blue sweater over a collared shirt, suggesting a casual yet professional appearance. The background is softly blurred, with cool, natural lighting that creates a bright, airy atmosphere. The composition uses a shallow depth of field to emphasize the phone and its contents, while the rest of the scene remains unobtrusive and minimalistic. The overall style is contemporary and realistic, evoking a sense of trust, clarity, and modern digital convenience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:13.735142",
+  "word_count": 140,
+  "error_message": null
+}

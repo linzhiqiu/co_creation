@@ -1,0 +1,12 @@
+{
+  "image_filename": "59f41d94-7009-4422-b16d-009a7a45c3ef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand adjusting the volume knob on a dark, vintage audio amplifier or guitar amp. The focus is on the fingers delicately gripping the textured black knob, with the white indicator line clearly visible. The background is softly blurred, but faintly reveals other labeled controls such as \"DRIVE\" and \"BASS,\" rendered in white text against the matte black surface of the amp. The lighting is moody and low-key, casting gentle highlights on the skin and the metallic edges of the knob, creating a sense of intimacy and anticipation. The color palette is subdued, dominated by deep blacks, muted skin tones, and subtle hints of metallic sheen. The composition uses a shallow depth of field to draw attention to the tactile interaction, evoking a sense of focus and immersion, as if capturing a quiet, pivotal moment before a musical performance. The overall style is reminiscent of a dramatic film still, with a soft cinematic grain and a contemplative, almost reverent mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:48.976411",
+  "word_count": 165,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b7fab95-3e58-4ca2-8da6-edd5d9ef4804.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, round wall clock is mounted on a plain, light-colored wall, dominating the center of the composition. The clock face is white with bold, black Arabic numerals and simple black hour and minute hands, while a thin red second hand adds a subtle accent. The brand name is faintly visible near the center. A distinctive detail is a section of the clock’s clear plastic cover, which is partially peeled back and bent, creating a sharp highlight and a sense of imperfection or disruption in an otherwise orderly scene. The lighting is soft and diffuse, casting minimal shadows and lending a cool, almost clinical atmosphere to the image. The color palette is restrained, featuring mostly whites, pale grays, and blacks, with the red second hand providing the only pop of color. The camera is positioned straight-on at eye level, creating a sense of symmetry and focus. The overall style is minimalist and slightly surreal, with a subtle tension introduced by the damaged clock cover, evoking themes of time, fragility, and impermanence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:50.583958",
+  "word_count": 171,
+  "error_message": null
+}

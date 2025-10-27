@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ba29655-de56-4b50-ae80-8271d0605532.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, well-lit interior scene featuring a sleek silver laptop placed on a wooden table in the foreground. The laptop screen displays an online shopping website with a large, high-resolution image of a black mountain bike set against a sunlit outdoor landscape. The website interface is clean and minimal, with product details and purchase options visible to the right of the bike image. To the left of the laptop, a clear glass of water sits on the table, catching the soft natural light. The background is softly blurred, revealing a cozy living space with a dark blue sofa, green plants, and warm wooden accents, evoking a comfortable and contemporary home environment. The color palette is dominated by neutral tones—grays, browns, and soft blues—enhanced by gentle daylight streaming in from an unseen window, creating a calm and inviting atmosphere. The composition uses a shallow depth of field to keep the focus on the laptop and table, while the background elements add context and warmth. The overall style is cinematic and realistic, with a balanced, natural lighting that highlights the textures of the wood, glass, and metal.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:45.964502",
+  "word_count": 185,
+  "error_message": null
+}

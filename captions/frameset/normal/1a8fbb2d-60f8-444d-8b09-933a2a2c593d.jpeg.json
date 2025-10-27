@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a8fbb2d-60f8-444d-8b09-933a2a2c593d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a tense, atmospheric scene set at dusk, featuring three figures partially submerged in murky water, with only their eyes and the tops of their heads visible above the surface. Each figure wears a dark, hooded garment that blends seamlessly with the water’s shadowy reflections, enhancing their stealthy, almost predatory presence. The water is still, with subtle ripples and reeds breaking the surface, adding to the sense of concealment and suspense. The lighting is low and moody, casting deep shadows across the figures’ faces, while their intense, focused gazes pierce through the gloom, conveying a sense of anticipation and danger. The color palette is dominated by deep blues, blacks, and muted earth tones, creating a somber, cinematic atmosphere. The composition is tight and intimate, with the camera positioned at water level, drawing the viewer into the scene and emphasizing the hidden, watchful nature of the subjects. The overall style is reminiscent of a suspenseful thriller or samurai film, with a strong emphasis on mood, tension, and visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:39.611983",
+  "word_count": 168,
+  "error_message": null
+}

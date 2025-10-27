@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e99f5f4-0836-4db8-a26f-52296da3b555.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary male runner is captured mid-stride along the edge of a deserted highway, set against the vast expanse of a sunlit desert landscape. He wears a light gray athletic ensemble—long-sleeve top, shorts, and a beanie—contrasting subtly with his tanned skin and visible tattoos on his legs and hands. His focused expression and forward gaze convey determination and resilience. The background features rolling sand dunes, sparse desert shrubs, and distant blue-gray mountains under a clear, cloudless sky. The color palette is dominated by warm sandy tones, muted grays, and soft blues, evoking a sense of arid heat and isolation. The lighting is natural and bright, casting crisp shadows and highlighting the textures of both the runner’s clothing and the desert terrain. The composition uses a shallow depth of field, keeping the runner sharply in focus while the background gently blurs, emphasizing motion and the subject’s journey. The camera angle is slightly low and side-on, lending a cinematic, documentary feel that captures both the scale of the landscape and the intensity of the runner’s effort.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:40.244909",
+  "word_count": 174,
+  "error_message": null
+}

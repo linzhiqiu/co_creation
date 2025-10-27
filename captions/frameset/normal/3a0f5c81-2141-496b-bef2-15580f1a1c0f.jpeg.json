@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a0f5c81-2141-496b-bef2-15580f1a1c0f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist studio portrait of a young woman standing in profile against a seamless, light gray background. She wears a simple white t-shirt layered under black overalls, her hair pulled back neatly. Her pose is confident and expressive: one hand rests on her hip while the other is raised slightly, palm facing outward in a subtle gesture. Her expression is calm and contemplative, with her gaze directed forward and slightly upward. The lighting is soft and even, casting gentle shadows that accentuate the clean lines of her clothing and the smoothness of her skin. The overall composition is uncluttered and modern, with a neutral color palette dominated by whites, blacks, and grays. The camera angle is slightly low and off-center, creating a sense of depth and dynamism while maintaining a serene, almost cinematic quality. The focus is sharp on the subject, with a shallow depth of field that softly blurs the background, emphasizing the figure and her poised demeanor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:06.484929",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "59f8f54e-c042-4107-af1e-3e58a1bd80d9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist studio portrait featuring a single woman as the central subject. She is positioned in a wide, low squat, with one elbow resting on her knee and her chin thoughtfully propped on her hand, exuding confidence and poise. She wears a fitted black turtleneck and loose black trousers, paired with striking patterned ankle boots that add a subtle pop of color and texture. The background is a seamless, soft gray gradient, devoid of distractions, emphasizing the subject’s form and presence. The lighting is soft and diffused, casting gentle shadows that sculpt her features and create a sense of depth without harsh contrasts. The overall color palette is muted and monochromatic, with the exception of the boots. The composition is centered, with ample negative space around the subject, evoking a sense of calm and focus. The camera angle is eye-level, and the depth of field is moderate, keeping the subject sharply in focus while the background remains smooth and unobtrusive. The mood is modern, introspective, and stylish, reminiscent of high-fashion editorial photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:50.483764",
+  "word_count": 173,
+  "error_message": null
+}

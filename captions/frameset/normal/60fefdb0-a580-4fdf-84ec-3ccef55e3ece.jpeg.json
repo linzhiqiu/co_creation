@@ -1,0 +1,12 @@
+{
+  "image_filename": "60fefdb0-a580-4fdf-84ec-3ccef55e3ece.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, cluttered home office viewed from a high, almost top-down angle, evoking a sense of surveillance or voyeurism. At the center, a man sits hunched over a desk, intently typing on a keyboard, illuminated by the cool glow of multiple computer monitors displaying code and technical diagrams. To his left, a woman stands, partially obscured, her long hair catching the faint light as she looks at a separate screen filled with documents and data. The room is filled with scattered objects: coffee mugs, papers, a water dispenser, and a tangle of wires, creating an atmosphere of organized chaos. The color palette is dominated by muted greens, browns, and blues, with occasional pops of red and yellow from electronic devices and desk lamps. The lighting is low and moody, casting deep shadows and emphasizing the focused, secretive mood. The overall style is cinematic and gritty, with a shallow depth of field that draws attention to the central figures and their screens, while the periphery fades into soft blur, enhancing the sense of immersion in a late-night hacking or investigative scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:41.698472",
+  "word_count": 181,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d94865f-ec20-4405-9908-5e5775c8221d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dreamy, surreal scene set against a soft, peach-toned sky, with fluffy, cotton-like clouds floating gently in the background. The lighting is diffuse and warm, creating a tranquil, ethereal atmosphere. In the foreground, a delicate, semi-transparent object—possibly a butterfly net—arcs gracefully upward, its motion subtly blurred to suggest movement. The net’s mesh is faintly visible, catching the light in a way that adds a touch of realism to the otherwise whimsical composition. The overall style is minimalist and slightly abstract, with a shallow depth of field that keeps the focus on the net and the nearest cloud, while the background remains softly out of focus. The color palette is dominated by warm creams and soft whites, enhancing the serene, almost magical mood of the image. The composition is airy and uncluttered, evoking a sense of lightness and gentle wonder, as if capturing a fleeting moment in a dreamlike world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:29.920001",
+  "word_count": 149,
+  "error_message": null
+}

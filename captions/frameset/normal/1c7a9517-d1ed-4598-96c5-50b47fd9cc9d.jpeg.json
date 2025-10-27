@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c7a9517-d1ed-4598-96c5-50b47fd9cc9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-tech control room display showing a digital map of Japan, rendered in a retro 1990s sci-fi style. The map is displayed on a rectangular monitor with a black frame, featuring a stylized, simplified green landmass with blue ocean. Overlay the map with bold, labeled markers: one labeled \"SPACE GODZILLA\" in a white box near the top left, another labeled \"GODZILLA\" in a white box near the bottom center, and a third labeled \"MOGERA\" in a white box near the top right. Draw colored trajectory lines—one red, one yellow—connecting the labeled points, suggesting movement or tracking. Add additional map details such as city names (e.g., \"FUKUOKA\") and technical alphanumeric codes in white text along the edges and corners of the display, evoking military or scientific monitoring. The overall color palette should be dominated by greens, blues, and stark whites, with sharp, clean lines and a utilitarian, functional aesthetic. The lighting is even and flat, emphasizing the clarity of the digital interface, with no visible human subjects—only the screen and its graphical elements, as if viewed directly by an operator or through a camera focused on the monitor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:21.585206",
+  "word_count": 189,
+  "error_message": null
+}

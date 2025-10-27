@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c4b683a-bc24-450e-8f9e-b9258fc47cf0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, naturalistic scene set in a sun-dappled park during the golden hour, featuring a majestic peacock as the central subject. The peacock stands gracefully on a lush, green lawn, its iridescent blue and green plumage catching the warm, late afternoon sunlight. Its long, ornate tail feathers trail elegantly behind, displaying subtle hints of turquoise, emerald, and bronze. The bird is positioned slightly off-center, walking past a small, dry bush with faded leaves, adding a touch of contrast to the verdant grass.\n\nIn the background, tall trees with dense, leafy canopies cast soft, dappled shadows across the ground, their trunks and branches creating a sense of depth and tranquility. Beyond the trees, glimpses of modern buildings with white walls and large windows are visible, suggesting an urban park or garden setting. The overall color palette is rich and harmonious, dominated by greens and golds, with the peacock’s vivid hues providing a striking focal point.\n\nThe lighting is warm and natural, with sunlight filtering through the trees, creating a serene and inviting atmosphere. The composition is balanced, with a shallow depth of field that keeps the peacock and immediate foreground in sharp focus while gently blurring the background, enhancing the sense of depth and drawing attention to the bird. The style is realistic with a touch of cinematic elegance, evoking a peaceful, almost magical moment in nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:59.538404",
+  "word_count": 226,
+  "error_message": null
+}

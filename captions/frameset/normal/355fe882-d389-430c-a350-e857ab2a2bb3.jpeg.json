@@ -1,0 +1,12 @@
+{
+  "image_filename": "355fe882-d389-430c-a350-e857ab2a2bb3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast, black-and-white photograph of a solitary dancer in a minimalist, empty studio space. The subject is a person with curly hair, dressed in loose, dark clothing—a simple t-shirt and pants—striking a dynamic, expressive pose that suggests movement and emotion. Their body is hunched forward, one arm bent and raised near their face, the other extended back, capturing a moment of intense physicality and introspection. The background is a seamless, softly lit expanse with no visible corners or distractions, emphasizing the isolation and focus on the dancer. The lighting is diffuse and even, casting gentle shadows that enhance the three-dimensionality of the figure without creating harsh contrasts. The overall mood is contemplative and raw, with a cinematic, almost surreal quality achieved through the use of negative space and the stark monochrome palette. The camera angle is straight-on at eye level, with a wide frame that centers the dancer and accentuates the emptiness around them, evoking a sense of vulnerability and artistic expression.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:21.623389",
+  "word_count": 163,
+  "error_message": null
+}

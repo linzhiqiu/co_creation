@@ -1,0 +1,12 @@
+{
+  "image_filename": "17f51a73-cb09-4a4b-a302-158b9a769d88.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a digital medical scale display, centered in the frame, showing the number \"1.5\" in large, clear digits on a bright blue backlit screen. The display is set into a smooth, white plastic surface, with soft, diffused lighting that eliminates harsh shadows and gives the scene a clinical, sterile feel. Below the screen, four round, tactile buttons are visible, labeled \"ON/OFF TARE,\" \"HOLD,\" and \"UNIT,\" with a subtle logo and the word \"Med\" printed on the left side, suggesting a healthcare or laboratory setting. The composition is tight and focused, with a shallow depth of field that blurs the background, drawing all attention to the illuminated display and the tactile details of the buttons. The color palette is dominated by cool whites and blues, enhancing the sense of cleanliness and precision. The overall style is minimalistic and functional, evoking the calm, methodical atmosphere of a medical environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:39.240432",
+  "word_count": 150,
+  "error_message": null
+}

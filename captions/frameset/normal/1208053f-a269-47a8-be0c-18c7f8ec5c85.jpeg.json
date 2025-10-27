@@ -1,0 +1,12 @@
+{
+  "image_filename": "1208053f-a269-47a8-be0c-18c7f8ec5c85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic black-and-white cinematic scene featuring a single figure in dynamic motion. The subject is a young adult with long hair tied back, dressed in a layered outfit that includes a dark vest over a light long-sleeve shirt. The person is captured mid-action, crouched low with one arm extended upward, as if climbing or bracing against a vertical surface. The background consists of a large, industrial metal grid or mesh, casting intricate shadows and patterns that add depth and texture to the composition. The lighting is stark and directional, creating high contrast and emphasizing the contours of the subject’s face and clothing. The camera angle is slightly low and off-center, enhancing the sense of movement and tension. The overall mood is intense and suspenseful, with a gritty, urban atmosphere reminiscent of a noir action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:22.739216",
+  "word_count": 136,
+  "error_message": null
+}

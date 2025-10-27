@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a10053b-4478-4a25-af15-7346ade266e4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly stylized, minimalist scene set in a pristine, modern office environment. The composition is centered and symmetrical, with a strong sense of depth created by a shallow depth of field. In the foreground, a Newton’s cradle with gleaming metallic balls is sharply in focus, its chrome frame reflecting the clean white surface of the desk it sits on. The background is dominated by bold geometric shapes: a large, vivid red square panel directly behind a white desk, flanked by matching red floor panels, all set against stark white walls and floor. Seated at the desk, slightly out of focus, is a solitary figure dressed in a crisp white shirt and dark jacket, their features intentionally blurred to draw attention to the foreground object. The lighting is bright and even, casting soft shadows and enhancing the high-contrast, almost clinical atmosphere. The overall style is reminiscent of modernist or conceptual art photography, with a cinematic, Kubrickian precision in framing and color blocking, evoking a mood of calm, order, and subtle tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:05.450243",
+  "word_count": 170,
+  "error_message": null
+}

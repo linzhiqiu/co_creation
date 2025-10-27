@@ -1,0 +1,12 @@
+{
+  "image_filename": "415e018f-ea73-480c-a933-7eb26fb1a20d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands in a small, dimly lit elevator, viewed from a high, wide-angle perspective that exaggerates the claustrophobic space. He wears a sharp, dark suit with a white dress shirt and a black tie, his hands tucked into his pockets. His expression is somber and contemplative, eyes cast downward, as if lost in thought or weighed down by anxiety. The elevator walls are covered in a textured, dark metallic pattern, reflecting the cold, clinical lighting that casts subtle blue and green hues across the scene. The control panel glows faintly, its buttons illuminated, adding a touch of modernity and tension. The overall color palette is cool and desaturated, dominated by blacks, grays, and hints of blue, enhancing the mood of isolation and introspection. The composition is tight and symmetrical, with a shallow depth of field that keeps the focus on the man while the background blurs slightly, creating a cinematic, almost surveillance-like quality. The atmosphere is tense and introspective, evoking a sense of psychological drama and urban alienation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:37.195381",
+  "word_count": 170,
+  "error_message": null
+}

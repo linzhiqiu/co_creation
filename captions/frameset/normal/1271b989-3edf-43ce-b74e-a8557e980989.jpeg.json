@@ -1,0 +1,12 @@
+{
+  "image_filename": "1271b989-3edf-43ce-b74e-a8557e980989.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage analog timer, its face partially visible and marked with bold white numbers and tick marks, the central knob prominent in the foreground. The entire scene is bathed in a deep, saturated red light, evoking the atmosphere of a photographic darkroom. The background is softly blurred, with indistinct rectangular shapes suggesting photographic trays or equipment, enhancing the sense of depth and focus on the timer. The lighting is low and moody, casting subtle shadows and highlighting the worn, textured surface of the timer. The composition is intimate and slightly off-center, with a shallow depth of field that draws the viewer’s eye to the tactile details of the device. The overall style is cinematic and evocative, reminiscent of classic film photography processes, with a color palette dominated by intense reds and dark shadows, creating a sense of suspense and concentration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:35.293587",
+  "word_count": 144,
+  "error_message": null
+}

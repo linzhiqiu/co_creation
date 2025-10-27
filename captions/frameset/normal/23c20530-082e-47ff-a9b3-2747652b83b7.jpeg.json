@@ -1,0 +1,12 @@
+{
+  "image_filename": "23c20530-082e-47ff-a9b3-2747652b83b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a nearly empty military classroom, viewed from the back of the room facing forward. The composition is symmetrical, with rows of black metal chairs and long tables receding toward the front, creating a strong sense of depth and perspective. At the far end, a small group of soldiers in camouflage uniforms sit and stand in a tight cluster, their postures formal and attentive. The walls are a muted beige, adorned with military posters, maps, and diagrams, adding to the institutional atmosphere. Large rectangular windows line both sides of the room, letting in soft, diffused daylight that casts gentle shadows and gives the scene a subdued, almost desaturated color palette dominated by grays, beiges, and olive greens. The lighting is even and clinical, enhancing the sterile, disciplined mood. The overall style is realistic and cinematic, with a slightly washed-out look that evokes a sense of isolation, order, and anticipation. The camera is positioned at eye level, perfectly centered, emphasizing the emptiness of the space and the smallness of the figures within it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:58.174883",
+  "word_count": 175,
+  "error_message": null
+}

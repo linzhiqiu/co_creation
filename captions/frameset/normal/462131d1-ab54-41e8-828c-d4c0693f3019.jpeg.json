@@ -1,0 +1,12 @@
+{
+  "image_filename": "462131d1-ab54-41e8-828c-d4c0693f3019.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, cinematic scene featuring a humanoid police robot standing in the foreground, viewed from behind at a medium-close angle. The robot is constructed from dark, weathered metal with visible joints, bolts, and mechanical components, giving it a rugged, utilitarian appearance. Its armor is marked with police insignia, serial numbers, and warning labels, emphasizing its law enforcement role. The robot’s head is boxy and angular, with a digital display and various sensors, evoking a sense of advanced but practical technology.\n\nThe background is chaotic and dynamic, with blurred figures of people running and crouching amidst urban unrest. Smoke billows from burning debris and overturned barricades, casting a hazy, apocalyptic atmosphere over the scene. The color palette is dominated by muted blues, grays, and metallic tones, punctuated by the warm orange glow of fire and the stark white of police markings. Lighting is natural but diffused by smoke, creating dramatic contrasts and a gritty, realistic mood.\n\nThe composition centers the robot, emphasizing its imposing presence and authority, while the shallow depth of field keeps the focus on its detailed construction, allowing the turmoil in the background to remain suggestive but not distracting. The overall style is reminiscent of a dystopian science fiction film, blending realism with futuristic elements to convey tension, conflict, and the uneasy intersection of technology and society.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:20.337716",
+  "word_count": 220,
+  "error_message": null
+}

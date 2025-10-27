@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bb9c846-f2bf-4f51-9c0b-e1987959a6b7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a smartphone screen, focusing on a user’s finger sliding a toggle switch from left to right. The interface is sleek and modern, dominated by a cool blue and white color palette, with the toggle bar filled in a vibrant blue as it moves. Korean text is clearly visible above the toggle, with “비공개” (private) on the left and “전체공개” (public) on the right, indicating a privacy setting being changed. The lighting is soft and natural, with gentle reflections on the screen and a subtle warm highlight on the fingertip, suggesting ambient daylight. The composition is tight and intimate, emphasizing the tactile interaction and the clarity of the digital interface, evoking a sense of modern technology and user agency. The overall style is clean, minimalistic, and cinematic, with a focus on the immediacy and significance of the action.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:07.548693",
+  "word_count": 143,
+  "error_message": null
+}

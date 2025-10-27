@@ -1,0 +1,12 @@
+{
+  "image_filename": "583d586c-2609-4fab-9e51-8e3dc6cf9d00.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set outdoors in an industrial area during daylight, with a clear, pale blue sky dominating the background. The main subject is a solitary figure seen from behind, standing in the foreground. The person wears a dark beanie and a dark jacket, their silhouette sharply outlined by the bright, natural sunlight. The figure gazes upward, adding a sense of contemplation or anticipation. In the background, include the tops of shipping containers with faded markings and a distant, low cityscape or treeline. A tall, utilitarian streetlamp rises on the right side of the frame, and a subtle lens flare or light artifact adds a touch of realism and atmosphere. The overall color palette is cool and muted, with soft shadows and a slight haze, evoking a quiet, introspective mood. The camera angle is low and slightly behind the subject, emphasizing their perspective and the vastness of the sky above. The composition should feel cinematic, with a shallow depth of field that keeps the focus on the figure while allowing the background to softly blur, enhancing the sense of isolation and scale.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:15.482835",
+  "word_count": 184,
+  "error_message": null
+}

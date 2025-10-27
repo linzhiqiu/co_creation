@@ -1,0 +1,12 @@
+{
+  "image_filename": "57723854-2687-47d3-8ed6-648cbed17737.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young girl sits at a wooden desk in a dimly lit bedroom, illuminated by the soft, warm glow of a single desk lamp. She is focused intently on her homework, her head resting on one hand as she writes in an open notebook. The girl wears light-colored pajamas with a subtle pattern, her long dark hair falling gently over her shoulders. The background is shrouded in deep shadows, with the faint outline of a bunk bed and another child sleeping on a mattress on the floor, partially visible in the darkness. The scene is composed with a shallow depth of field, drawing attention to the girl's concentrated expression while the rest of the room fades into a moody blur. The color palette is dominated by warm amber and deep brown tones, creating an intimate, contemplative atmosphere. The overall style is cinematic, evoking a sense of quiet solitude and late-night determination, with soft, diffused lighting and a natural, documentary-like composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:49.035246",
+  "word_count": 160,
+  "error_message": null
+}

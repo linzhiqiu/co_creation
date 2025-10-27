@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e19f496-89d3-43db-a14c-0d4079e5ae7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a glossy orange ping pong ball resting on the keys of a vintage, off-white computer keyboard. The focus is sharp on the ball and the immediate keys beneath it, with a shallow depth of field that softly blurs the background. In the out-of-focus background, a beige lucky cat figurine with a raised paw and a green bib is visible, along with the indistinct form of an old computer monitor, evoking a nostalgic, retro office or home workspace. The lighting is warm and natural, casting gentle highlights and reflections on the smooth surface of the ping pong ball, and creating a cozy, slightly golden ambiance. The composition is intimate and tactile, with the camera positioned at a low angle, almost at the level of the keyboard, emphasizing the texture of the keys and the spherical perfection of the ball. The overall style is reminiscent of analog film photography, with soft grain and a subtle vintage color palette dominated by warm creams, oranges, and muted grays, capturing a moment of quiet curiosity and playful stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:37.911163",
+  "word_count": 178,
+  "error_message": null
+}

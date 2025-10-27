@@ -1,0 +1,12 @@
+{
+  "image_filename": "1afab6ae-fd76-4c29-bb3f-570d07b668d5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set in a dark, abandoned urban environment. The composition centers on a small child, dressed in white, standing alone and illuminated by a harsh, focused spotlight. The child faces a concrete wall adorned with graffiti, including a large, stylized eye. To the left, the shadowy silhouette of an adult figure is cast dramatically on the wall, suggesting a sense of distance or separation. The ground is wet, creating a subtle reflection of the child and the light. The overall color palette is dominated by deep blacks and muted grays, with stark contrasts created by the bright white of the child’s clothing and the cold, bluish-white light. The atmosphere is tense and mysterious, evoking a sense of isolation and vulnerability. The camera angle is wide, with a strong sense of negative space and depth, emphasizing the smallness of the child within the vast, shadowy surroundings. The style is reminiscent of neo-noir or psychological thriller films, with high contrast lighting, soft focus on the periphery, and a haunting, surreal mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:48.026456",
+  "word_count": 173,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d351c4f-699e-463f-a77a-747f1c8f7ecb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with short, dark hair stands in front of a large window at night, gazing intently at her own reflection in a mirror. She wears a simple, dark tank top, her expression pensive and slightly anxious as she gently touches her chin with one hand, as if searching for something beneath the surface. The city skyline glows softly in the background, with cool blue and teal lights from distant skyscrapers illuminating the scene and casting a moody, cyberpunk ambiance. The room is dimly lit, with subtle highlights accentuating the contours of her face and shoulders, creating a sense of intimacy and introspection. The composition is tight and cinematic, focusing closely on the woman and her mirrored image, with a shallow depth of field that blurs the city lights outside, drawing attention to her emotional state. The overall style is atmospheric and contemplative, evoking a sense of solitude and self-examination in a futuristic urban setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:17.622110",
+  "word_count": 156,
+  "error_message": null
+}

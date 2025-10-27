@@ -1,0 +1,12 @@
+{
+  "image_filename": "4235a024-a836-4554-923d-4569885084df.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, high-detail scene set inside a dimly lit industrial warehouse, filled with stacked cardboard boxes, metal shelving, and scattered equipment. The focus is on two humanoid robots in the foreground: one is a sleek, dark metallic robot with exposed mechanical joints and a slender build, while the other is a larger, white robot with red and blue markings, labeled \"B43-C\" on its chest. The white robot has a prominent, articulated arm raised in a dynamic gesture, suggesting movement or interaction. Both robots are facing each other, their postures conveying a sense of communication or confrontation. The background is softly blurred, emphasizing the depth of field and drawing attention to the robots. The color palette is dominated by cool grays, metallic tones, and muted industrial hues, with occasional pops of color from the robots' markings. Overhead industrial lighting casts dramatic highlights and shadows, enhancing the mechanical textures and creating a moody, futuristic atmosphere. The composition is balanced, with the robots slightly off-center, and the camera angle is at eye level, immersing the viewer in the scene. The overall style is reminiscent of a high-budget science fiction film, blending realism with a gritty, industrial aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:04.404915",
+  "word_count": 195,
+  "error_message": null
+}

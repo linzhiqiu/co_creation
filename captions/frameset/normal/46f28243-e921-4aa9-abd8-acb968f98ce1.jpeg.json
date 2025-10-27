@@ -1,0 +1,12 @@
+{
+  "image_filename": "46f28243-e921-4aa9-abd8-acb968f98ce1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic urban street scene viewed from an elevated, slightly diagonal angle, capturing two modern light rail trains passing each other on parallel tracks. The foreground features a sleek, white tram in motion, slightly blurred to convey speed, while the background tram is stationary or moving slowly, painted in blue and white with prominent advertising graphics displaying well-dressed news anchors and bold text. The setting is a city intersection with concrete pavement, embedded rails, and a small traffic island with blue bollards and a utility cover. The color palette is cool and muted, dominated by shades of blue, white, and gray, with subtle warm accents from the advertisement and pavement. The lighting is natural daylight, soft and diffused, suggesting an overcast or late afternoon atmosphere. The composition emphasizes urban movement and modernity, with a shallow depth of field that keeps the trains in sharp focus while gently blurring the background, evoking a cinematic, documentary style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:34.711888",
+  "word_count": 155,
+  "error_message": null
+}

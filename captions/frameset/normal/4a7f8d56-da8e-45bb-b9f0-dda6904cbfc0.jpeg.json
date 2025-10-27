@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a7f8d56-da8e-45bb-b9f0-dda6904cbfc0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of freshly ground coffee being dispensed into a portafilter. The focus is tight on the rich, dark brown coffee grounds as they pile up inside the metallic portafilter basket, capturing the fine texture and subtle variations in color. The background is softly blurred, creating a shallow depth of field that draws attention to the coffee and the gleaming chrome surface of the portafilter. The lighting is moody and low-key, with soft highlights reflecting off the metal and warm tones accentuating the coffee grounds. The overall style is intimate and tactile, evoking the sensory experience of preparing espresso, with a sense of anticipation and craftsmanship. The composition is slightly off-center, emphasizing the process and the materiality of the coffee, while the muted, neutral background keeps the viewer’s focus on the main subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:42.081753",
+  "word_count": 135,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "507b11a0-de22-45f9-b42d-123bc6fd8473.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-resolution image of a computer screen displaying a spreadsheet application, such as Microsoft Excel. The focus is on a section of the spreadsheet with alternating light green and white rows, containing numerical data under columns labeled \"Very Likely\" and \"Total.\" The text \"Impairment among Computer Users\" is visible in a dropdown menu, suggesting the spreadsheet is analyzing survey or research data. A circular comment icon with three dots appears next to a selected cell, indicating collaboration or a comment feature in use. The right edge of the screen is visible, with a subtle reflection and a hint of the monitor’s bezel. The color palette is dominated by soft greens, whites, and grays, with crisp, clear text and interface elements. The lighting is even and natural, with no harsh reflections or glare, creating a clean, professional, and modern office atmosphere. The composition is tight and focused, emphasizing the digital workspace and the act of data analysis or collaboration. The overall style is realistic and documentary, with a shallow depth of field that keeps the spreadsheet in sharp focus while softly blurring the monitor’s edge, evoking a sense of concentration and productivity.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:07.651568",
+  "word_count": 192,
+  "error_message": null
+}

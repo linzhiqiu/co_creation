@@ -1,0 +1,12 @@
+{
+  "image_filename": "19ffeec5-3fd3-4436-9fef-1cb4246df62f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic close-up shot taken from the back seat of a modern sports car, focusing on the sleek, sculpted headrest of the driver's seat. The headrest features a metallic accent with a prominent, illuminated \"N\" logo, suggesting a high-performance vehicle. The upholstery is premium black leather with subtle stitching, exuding luxury and precision. The lighting is moody and dramatic, with cool blue and silver tones dominating the palette, casting soft highlights and deep shadows that emphasize the contours of the seat. The composition is intimate and slightly off-center, with a shallow depth of field that blurs the foreground and background, drawing the viewer’s eye to the illuminated logo. The edge of a person’s shoulder, clad in a dark jacket, is just visible in the lower right, adding a sense of presence and anticipation. The overall style is sleek, modern, and evocative of high-end automotive advertising, with a focus on detail, texture, and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:27.372373",
+  "word_count": 154,
+  "error_message": null
+}

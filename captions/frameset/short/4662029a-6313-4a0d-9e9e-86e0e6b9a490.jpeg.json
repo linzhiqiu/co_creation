@@ -1,0 +1,12 @@
+{
+  "image_filename": "4662029a-6313-4a0d-9e9e-86e0e6b9a490.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman in a black mini dress and a man in a police uniform stand mid-crosswalk, pausing and looking directly at the camera. The Parisian street scene features a red-awning butcher shop, muted urban tones, and soft daylight, evoking a candid, cinematic 1960s French New Wave atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:19.485293",
+  "word_count": 48,
+  "error_message": null
+}

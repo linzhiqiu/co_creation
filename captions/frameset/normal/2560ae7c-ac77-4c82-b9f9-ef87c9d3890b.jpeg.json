@@ -1,0 +1,12 @@
+{
+  "image_filename": "2560ae7c-ac77-4c82-b9f9-ef87c9d3890b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands confidently in the foreground of an aircraft hangar, positioned slightly off-center with a small private airplane softly out of focus behind her. She wears a light taupe quilted jacket over a white turtleneck, her dark brown hair falling naturally around her shoulders. Her expression is warm and approachable, with a gentle smile that conveys a sense of ease and professionalism. The lighting is soft and diffused, casting a gentle glow on her face while the background recedes into shadow, creating a cinematic depth and drawing attention to her as the focal point. The color palette is muted and natural, dominated by soft grays, whites, and subtle earth tones, with the white airplane providing a clean, modern contrast to the darker hangar interior. The composition uses a shallow depth of field, blurring the background to emphasize the subject, while the wide aspect ratio and slight vignette effect add a filmic quality. The overall mood is calm, inviting, and subtly aspirational, evoking themes of adventure, professionalism, and possibility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:35.563751",
+  "word_count": 170,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "246bdb71-1cf2-44b8-ab18-b05b4c2d7d84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of two people embracing in a warmly lit, intimate interior. The primary subject is a woman with short, curly brown hair, wearing a deep red blouse. She holds a man close, her hand gently cradling the back of his head, her expression soft and comforting, eyes closed in a moment of empathy and solace. The man, whose face is mostly hidden, wears a faded blue denim shirt. The background is softly out of focus, featuring a window with a crossbar letting in diffused, cool light, and hints of bookshelves and framed art, suggesting a cozy, personal space. The color palette is rich and warm, with deep reds, browns, and soft blues, contrasted by the cool light from the window. The composition uses a shallow depth of field to draw attention to the emotional connection between the two figures, with the camera positioned at shoulder height, slightly behind the man, emphasizing the woman’s protective gesture. The overall mood is tender and cinematic, evoking a sense of comfort, vulnerability, and human connection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:14.856722",
+  "word_count": 174,
+  "error_message": null
+}

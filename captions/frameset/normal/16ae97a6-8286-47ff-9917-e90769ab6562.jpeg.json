@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ae97a6-8286-47ff-9917-e90769ab6562.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of a car tachometer, the needle sharply angled at around 4,500 RPM, suggesting acceleration and dynamic motion. The dial is black with crisp white numerals and tick marks, accented by a bold red needle and a subtle metallic center. The lighting is cool and subdued, creating soft reflections on the glass and a sense of depth within the instrument cluster. The background is out of focus, emphasizing the clarity and precision of the gauge. The composition is tight and cinematic, with a shallow depth of field that draws the viewer’s eye to the needle’s position and the fine details of the dial. The overall mood is tense and energetic, evoking the sensation of speed and mechanical power, as if captured in a high-stakes driving sequence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:13.898641",
+  "word_count": 128,
+  "error_message": null
+}

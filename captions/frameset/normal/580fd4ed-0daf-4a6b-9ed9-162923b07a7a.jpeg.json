@@ -1,0 +1,12 @@
+{
+  "image_filename": "580fd4ed-0daf-4a6b-9ed9-162923b07a7a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA breathtaking panoramic landscape of a mountain range at sunrise, captured from a high vantage point. The sun is just above the horizon on the left side of the frame, casting long, golden rays across the scene and bathing the entire landscape in a warm, amber glow. Wisps of low-lying clouds and mist drift through the valleys, creating a sense of depth and ethereal beauty. The jagged silhouettes of distant peaks stretch across the background, their forms softened by atmospheric haze. In the foreground, rugged rocky outcrops are partially illuminated by the early morning light, their textures subtly highlighted. The overall color palette is dominated by rich golds, soft yellows, and muted browns, with gentle gradients in the sky. The composition is wide and cinematic, with a shallow depth of field that keeps the entire scene in sharp focus, emphasizing the vastness and tranquility of the natural environment. The mood is serene and majestic, evoking a sense of awe and peaceful solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:05.956616",
+  "word_count": 163,
+  "error_message": null
+}

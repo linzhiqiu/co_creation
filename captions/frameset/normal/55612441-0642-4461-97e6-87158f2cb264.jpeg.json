@@ -1,0 +1,12 @@
+{
+  "image_filename": "55612441-0642-4461-97e6-87158f2cb264.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary hunter stands with his back to the viewer in a lush, sun-dappled forest clearing. The central figure is a man wearing a vivid orange cap, which stands out sharply against the muted, natural tones of his camouflage jacket. He holds a rifle slung over his right shoulder, the barrel angled upward, suggesting readiness and alertness. The scene is framed from behind at shoulder height, creating a sense of immersion and anticipation, as if the viewer is following in the hunter’s footsteps. The background is softly blurred, with tall trees and verdant grass bathed in gentle, diffused daylight, evoking a tranquil yet focused atmosphere. The color palette is dominated by earthy greens and browns, punctuated by the bright orange of the cap, while the lighting is natural and even, enhancing the realism and quiet tension of the moment. The overall style is cinematic, with a shallow depth of field drawing attention to the hunter and subtly hinting at the mysteries of the forest beyond.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:57.906223",
+  "word_count": 165,
+  "error_message": null
+}

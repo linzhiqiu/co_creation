@@ -1,0 +1,12 @@
+{
+  "image_filename": "233f1ebb-68fb-4f12-979f-9ad646d29bd8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up shot of a large, industrial-style electric fan mounted on a wall. The fan is centered in the frame, its circular metal grill and blades dominating the composition, with the brand name \"TROTEC\" clearly visible at the center. The lighting is moody and atmospheric, casting soft, warm highlights and subtle shadows that accentuate the metallic texture and concentric lines of the grill. The background features a muted, beige wall with faint signs of wear, and a hint of a ceiling above, adding to the utilitarian, slightly vintage ambiance. The overall color palette is subdued, with earthy tones and gentle contrasts, evoking a sense of quiet, functional simplicity. The camera angle is straight-on, emphasizing symmetry and drawing the viewer’s eye directly to the fan, while a shallow depth of field keeps the focus sharp on the fan itself, allowing the background to softly recede. The scene feels still and contemplative, with a touch of industrial nostalgia.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:50.678876",
+  "word_count": 158,
+  "error_message": null
+}

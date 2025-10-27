@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f2a024e-3231-4100-bf4c-a05f4d57345e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime street scene, captured with a wide-angle lens and a low vantage point, evoking a moody, atmospheric tone. The setting is a quiet, empty intersection bordered by construction fencing and a tall, shadowy building on the right. The sky is a deep, rich blue, heavy with clouds, suggesting the late hours of dusk or early night. In the midground, a single car with headlights on is parked near the curb, casting a soft, diffused glow onto the wet pavement and subtly illuminating two figures: one standing near the car, the other crossing the street. Both figures are dressed in dark, casual clothing, their features obscured by the low light, adding a sense of mystery and narrative tension. The scene is punctuated by warm, orange streetlights and construction lamps, which contrast with the cool blue tones of the night, creating a dramatic interplay of color and shadow. The overall composition is spacious and contemplative, with a strong sense of isolation and quiet suspense, reminiscent of neo-noir or urban thriller cinematography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:26.079592",
+  "word_count": 171,
+  "error_message": null
+}

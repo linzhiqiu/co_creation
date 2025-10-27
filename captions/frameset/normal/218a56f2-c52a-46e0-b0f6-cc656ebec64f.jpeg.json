@@ -1,0 +1,12 @@
+{
+  "image_filename": "218a56f2-c52a-46e0-b0f6-cc656ebec64f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in the center of a vast, dimly lit industrial warehouse. The subject, a man dressed in a dark, heavy coat, is captured mid-action as he raises a camera to his face, suggesting he is about to take a photograph. His silhouette is sharply defined against the dramatic backdrop, with his features obscured by shadow, creating an air of mystery and anonymity. \n\nThe space is cavernous and mostly empty, with a smooth, unadorned floor that subtly reflects the ambient light. High above, large rectangular windows punctuate the walls, allowing beams of pale, diffused sunlight to stream in at sharp angles. These shafts of light cut through the dusty air, converging on the figure and illuminating floating particles, lending the scene a cinematic, almost ethereal quality. \n\nThe color palette is muted and cool, dominated by deep grays, soft blacks, and hints of silvery light. The overall lighting is low-key, with strong contrasts between the illuminated dust motes and the enveloping darkness. The composition is centered and symmetrical, with the camera positioned at eye level and a moderate depth of field that keeps the figure in crisp focus while the background remains softly blurred. The mood is contemplative and atmospheric, evoking a sense of solitude, introspection, and quiet anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:11.160072",
+  "word_count": 210,
+  "error_message": null
+}

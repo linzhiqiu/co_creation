@@ -1,0 +1,12 @@
+{
+  "image_filename": "1aa3f60a-4dd9-4619-8a0e-5575b5d7d74d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, high-angle shot of a modern industrial factory floor, bustling with activity. The scene is filled with intricate conveyor belts, automated machinery, and workstations arranged in neat rows, creating a sense of organized complexity. Several workers, dressed in matching blue uniforms and hairnets, are stationed at various points along the production lines, focused on their tasks. Some are monitoring machines, while others are handling products or packaging materials. The factory is brightly lit with natural daylight streaming in from large rectangular windows along the upper walls, casting soft, even illumination across the space. The color palette is dominated by cool blues and grays from the uniforms and machinery, contrasted by the warm reddish-brown of the polished concrete floor and the occasional cardboard boxes stacked neatly in the background. The overall style is clean, functional, and documentary-like, with a slight cinematic quality due to the depth of field and the dynamic composition that leads the viewer’s eye through the maze of equipment and activity. The mood is industrious and efficient, capturing the essence of modern manufacturing in action.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:41.019417",
+  "word_count": 178,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "18cabab4-9cbf-4842-bcb2-1f69ce946f3a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, immersive forest scene viewed from a dramatic low-angle perspective, looking straight up toward the sky. Tall, slender pine trees dominate the composition, their trunks converging toward the center of the frame and their leafy canopies forming a natural, radial pattern overhead. The sky is visible through the gaps in the foliage, rendered in soft, muted tones that suggest early morning or late afternoon light. The color palette is rich with deep greens, earthy browns, and subtle hints of blue and gold, evoking a tranquil, almost dreamlike atmosphere. The lighting is diffuse and natural, with gentle highlights on the tree trunks and a slight vignette effect around the edges, enhancing the sense of depth. The overall style is reminiscent of analog film photography, with a slight grain and a warm, nostalgic mood. The composition emphasizes the towering scale of the trees and the serenity of the forest, inviting the viewer to feel small and awed beneath the canopy.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:02.657312",
+  "word_count": 161,
+  "error_message": null
+}

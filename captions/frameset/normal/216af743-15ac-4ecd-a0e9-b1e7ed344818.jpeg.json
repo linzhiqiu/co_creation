@@ -1,0 +1,12 @@
+{
+  "image_filename": "216af743-15ac-4ecd-a0e9-b1e7ed344818.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up shot of a car’s dashboard tachometer, focusing tightly on the instrument panel. The gauge is illuminated with a soft, moody light, creating a dramatic contrast between the dark background and the glowing indicator lights. The needle is pointing just above zero, suggesting the car is idling or just started. Prominently displayed are several warning icons in vivid amber and green: an EPC (Electronic Power Control) warning, a traction control symbol, a car with a key, and a headlight indicator. The numbers on the dial are crisp and clear, rendered in cool white and blue tones, while the warning lights stand out in warm hues. The composition is symmetrical and intimate, with a shallow depth of field that blurs the edges, drawing the viewer’s eye to the illuminated symbols. The overall style is sleek and modern, evoking a sense of tension or anticipation, as if something is about to happen. The lighting is low-key, with subtle reflections on the glass, enhancing the cinematic and suspenseful atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:10.366995",
+  "word_count": 168,
+  "error_message": null
+}

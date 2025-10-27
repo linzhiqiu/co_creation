@@ -1,0 +1,12 @@
+{
+  "image_filename": "19e4dbfa-3a32-41c1-89e6-5270d71bbffe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of the side of a sleek, modern sports car, focusing on the front fender and the distinctive side vent. The car is painted in a rich, metallic gold color that catches the soft, diffused daylight, creating subtle reflections and a luxurious sheen. The vent features a black mesh grille with a chrome badge that reads \"V8 BITURBO,\" emphasizing the vehicle's high-performance engineering. The composition is tight, with the car's smooth curves and sharp lines dominating the frame, while the background is softly blurred, drawing all attention to the car's details. The lighting is natural and slightly overcast, lending a cool, sophisticated mood to the scene. The overall style is clean and modern, with a shallow depth of field and a focus on texture and form, reminiscent of high-end automotive advertising photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:28.794227",
+  "word_count": 135,
+  "error_message": null
+}

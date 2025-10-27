@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a6ec3e2-6d6b-4419-aad3-070aa472c537.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage Nikon film camera hangs from a neck strap against a bold, Mondrian-inspired patterned shirt with blocks of white, yellow, blue, and red. Soft natural light highlights the camera’s metallic details, creating a nostalgic, artistic atmosphere with a shallow depth of field and a warm, inviting color palette.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:18.643759",
+  "word_count": 49,
+  "error_message": null
+}

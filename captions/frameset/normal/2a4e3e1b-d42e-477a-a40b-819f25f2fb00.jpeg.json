@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a4e3e1b-d42e-477a-a40b-819f25f2fb00.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone astronaut in a vivid orange space suit, complete with a helmet and a detailed life-support backpack, moves through a futuristic, hexagonal corridor aboard a spacecraft. The corridor is stark white, lined with geometric black panels and illuminated by bright, even strips of white light embedded along the edges, creating a high-contrast, almost clinical atmosphere. The astronaut is seen from behind, one arm raised to touch the wall for balance, emphasizing the sense of weightlessness and careful movement. The perspective is centered and symmetrical, with the camera positioned directly behind the astronaut, capturing the receding tunnel and drawing the viewer’s eye into the depth of the scene. The overall color palette is dominated by whites, blacks, and the striking orange of the suit, with a clean, minimalist aesthetic. The lighting is cool and artificial, enhancing the sense of isolation and technological precision. The composition is highly controlled and cinematic, evoking a sense of awe, mystery, and the vastness of space exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:19.449540",
+  "word_count": 162,
+  "error_message": null
+}

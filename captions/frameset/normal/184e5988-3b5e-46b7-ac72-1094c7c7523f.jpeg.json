@@ -1,0 +1,12 @@
+{
+  "image_filename": "184e5988-3b5e-46b7-ac72-1094c7c7523f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, industrial-style office space at night, illuminated by cold, bluish fluorescent overhead lights that cast a moody, cinematic glow. In the foreground, a young man with short dark hair sits hunched over a cluttered desk, intently focused on paperwork and a laptop, his face partially obscured in shadow. Another man, older and wearing a cap, sits further back at a separate workstation, also absorbed in his computer screen. The desks are scattered with office supplies, keyboards, and monitors, contributing to a sense of organized chaos. The background reveals metal shelving filled with boxes and equipment, hinting at a utilitarian, perhaps clandestine work environment. The overall color palette is dominated by cool blues and muted grays, enhancing the tense, secretive atmosphere. The composition uses a shallow depth of field, with the foreground in sharp focus and the background softly blurred, drawing attention to the subjects’ concentration. The camera angle is slightly low and off-center, adding to the sense of unease and immersion, reminiscent of a gritty crime thriller or cyber-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:50.872178",
+  "word_count": 172,
+  "error_message": null
+}

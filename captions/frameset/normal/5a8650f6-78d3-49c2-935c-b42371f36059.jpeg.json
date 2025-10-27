@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a8650f6-78d3-49c2-935c-b42371f36059.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a computer monitor angled slightly to the left, displaying a video call in progress. The main subject on the screen is a middle-aged woman with glasses and braided hair, wearing a red patterned shirt. She appears to be speaking or listening intently, her expression serious and focused. The video call interface shows several smaller participant windows along the top edge, suggesting a group meeting. The background behind the woman is softly blurred, with hints of a lavender wall and a window, creating a sense of depth. The lighting is natural and diffused, with gentle highlights on the monitor and subtle reflections on the screen. The room surrounding the monitor is dimly lit, with indistinct furniture and framed pictures visible in the background, adding a lived-in, domestic atmosphere. The overall color palette is muted, with soft earth tones and cool shadows, evoking a sense of intimacy and realism. The composition emphasizes the digital mediation of human connection, with a shallow depth of field drawing attention to the screen and the emotional presence of the remote participant.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:29.658622",
+  "word_count": 180,
+  "error_message": null
+}

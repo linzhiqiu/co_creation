@@ -1,0 +1,12 @@
+{
+  "image_filename": "15815359-369b-42ff-bf93-f99e5437c4e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, surreal landscape filled with hundreds of identical men dressed in sharp, modern blue suits, all standing in synchronized rows. Each man faces forward with arms extended, as if mid-gesture or performing a coordinated movement. The ground beneath them is a perfectly reflective, glass-like surface, creating striking mirror images of every figure and amplifying the sense of repetition and infinity. The sky above is expansive, with soft, voluminous clouds and a gentle blue gradient, adding depth and a dreamlike quality to the scene. The color palette is dominated by cool blues and crisp whites, with subtle highlights and shadows enhancing the three-dimensionality of the figures. The lighting is bright and even, evoking a clear day, and the overall composition is symmetrical and meticulously ordered, emphasizing the uncanny uniformity. The camera angle is slightly low and wide, capturing the endless rows and their reflections, creating a mesmerizing, almost cinematic tableau with a sense of both order and surrealism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:48.349557",
+  "word_count": 158,
+  "error_message": null
+}

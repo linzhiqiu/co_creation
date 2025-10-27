@@ -1,0 +1,12 @@
+{
+  "image_filename": "55e7d112-222b-4f20-91b3-d14c8d76f71a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic nighttime scene featuring a rugged, middle-aged man in the foreground, illuminated by dramatic, cool-toned lighting that casts deep shadows across his face. He wears a wide-brimmed safari hat and a khaki vest over a light shirt, evoking the look of an experienced outdoorsman or game warden. He grips a large shotgun with both hands, his expression serious and alert, eyes focused ahead as if anticipating danger. Surrounding him are several uniformed guards, partially obscured by darkness and mist, holding rifles and flashlights that create sharp beams of light cutting through the blue-tinged haze. The background reveals metal staircases and industrial structures, suggesting a high-security facility or containment area. The composition uses a low camera angle and shallow depth of field, emphasizing the central figure’s authority and the urgency of the moment. The overall style is reminiscent of a suspenseful adventure or science fiction film, with moody, atmospheric lighting and a palpable sense of imminent threat.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:10.409309",
+  "word_count": 158,
+  "error_message": null
+}

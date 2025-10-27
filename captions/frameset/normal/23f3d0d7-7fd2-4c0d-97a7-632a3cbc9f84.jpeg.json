@@ -1,0 +1,12 @@
+{
+  "image_filename": "23f3d0d7-7fd2-4c0d-97a7-632a3cbc9f84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, cinematic close-up of a person's face, focusing tightly on the area around their eyes. The subject is wearing dark, reflective sunglasses that dominate the frame, with only the bridge of their nose and a hint of their skin visible beneath the glasses. Reflected in the lenses are two brightly lit vehicles—possibly trucks or race cars—approaching head-on at night, their headlights and taillights glowing vividly against the deep blue and black tones of a nighttime forest road. The background is almost entirely obscured, emphasizing the tension and anticipation in the scene. The color palette is moody and high-contrast, with deep shadows, cool blues, and the intense, warm glow of the vehicle lights. The lighting is low-key, heightening the sense of suspense and focus. The overall style is reminiscent of a high-stakes action or thriller film, with a shallow depth of field and a sense of imminent confrontation, captured from a low, intimate camera angle that immerses the viewer in the subject’s perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:01.133956",
+  "word_count": 164,
+  "error_message": null
+}

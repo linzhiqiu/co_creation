@@ -1,0 +1,12 @@
+{
+  "image_filename": "4cff304c-599e-40d4-9dd5-b5cfc2c7be84.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A narrow, dimly lit archive room stretches into the distance, lined on both sides with tall metal shelving units packed tightly with white cardboard storage boxes. The fluorescent ceiling lights cast a cold, clinical glow, creating stark shadows and a sense of depth along the corridor. In the foreground, a man in a crisp white dress shirt is seen from behind, mid-stride, holding a telephone receiver to his ear, his posture tense and urgent. Further down the aisle, another man in a checkered shirt and khaki pants stands sideways, bracing himself against the shelving, his body language alert and wary as he looks back toward the approaching figure. The camera angle is low and slightly off-center, emphasizing the claustrophobic, labyrinthine quality of the setting. The color palette is muted, dominated by whites, grays, and beiges, with the harsh lighting enhancing the institutional, almost oppressive atmosphere. The overall style is cinematic and suspenseful, evoking a sense of secrecy and tension, as if capturing a pivotal moment in a thriller or investigative drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:44.084168",
+  "word_count": 171,
+  "error_message": null
+}

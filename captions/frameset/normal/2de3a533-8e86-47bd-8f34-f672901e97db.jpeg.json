@@ -1,0 +1,12 @@
+{
+  "image_filename": "2de3a533-8e86-47bd-8f34-f672901e97db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands at the edge of a weathered concrete pier, gazing out over a vast, tranquil expanse of water. The person is dressed in muted, earth-toned clothing, their posture contemplative and still, evoking a sense of quiet introspection. The pier juts into the calm sea, its surface marked by age and exposure, with a tall, slender pole painted in red and white stripes rising near the edge, slightly bent and crowned with a small, delicate fixture.\n\nThe horizon stretches wide and low, with a faint, distant shoreline barely visible beneath a soft, overcast sky. Wispy clouds diffuse the daylight, casting a gentle, even illumination across the scene, with cool blue and gray tones dominating the color palette. In the distance, a thin metal structure stands isolated in the water, adding a sense of scale and solitude.\n\nThe composition is minimalist and cinematic, with a wide-angle perspective that emphasizes the openness of the seascape and the smallness of the human figure. The overall mood is serene and contemplative, with a subtle sense of melancholy. The image has a filmic quality, with soft focus and natural grain, enhancing its nostalgic and atmospheric character.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:36.237918",
+  "word_count": 193,
+  "error_message": null
+}

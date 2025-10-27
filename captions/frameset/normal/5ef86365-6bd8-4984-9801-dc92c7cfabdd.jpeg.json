@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ef86365-6bd8-4984-9801-dc92c7cfabdd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nighttime scene set in a quiet, dimly lit urban park. The composition centers on a woman and a small child walking hand in hand, their backs to the viewer as they move into the darkness. The woman wears a light-colored coat and a long skirt, while the child is bundled in a puffy, pink jacket, suggesting a cold evening. Soft, diffused light from tall, vertical windows or street lamps in the background creates glowing, abstract shapes, casting a gentle, ethereal illumination across the scene. Snow or light rain falls, visible as delicate specks against the dark, almost monochromatic palette of deep blues and blacks, punctuated by the warm, muted glow of the lights. The overall mood is quiet, contemplative, and slightly melancholic, with a cinematic, shallow depth of field that blurs the background and focuses attention on the figures. The camera angle is low and slightly behind the subjects, enhancing the sense of intimacy and solitude as they walk together through the night.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:55.759889",
+  "word_count": 164,
+  "error_message": null
+}

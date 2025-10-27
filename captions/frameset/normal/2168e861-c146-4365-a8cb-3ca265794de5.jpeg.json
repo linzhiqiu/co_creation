@@ -1,0 +1,12 @@
+{
+  "image_filename": "2168e861-c146-4365-a8cb-3ca265794de5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene viewed through a small, rectangular window set in a dark, almost pitch-black environment. The only visible area is the view through the window, which frames the face and upper torso of a young person with striking red hair, leaning in close and peering intently inside. The subject wears a red hoodie, their expression serious and focused, with soft, natural light illuminating their features and casting gentle shadows. In the background, slightly out of focus, a group of people stands in an outdoor setting, suggesting a sense of distance and separation. The color palette is muted and cool, dominated by deep blacks, subtle earth tones, and the vivid red of the subject’s hair and clothing. The composition uses strong contrast and negative space, with the window acting as a frame within the frame, creating a sense of voyeurism and tension. The overall style is reminiscent of an indie film or psychological thriller, with a shallow depth of field and a sense of narrative mystery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:05.654171",
+  "word_count": 167,
+  "error_message": null
+}

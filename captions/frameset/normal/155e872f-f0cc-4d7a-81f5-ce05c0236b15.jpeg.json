@@ -1,0 +1,12 @@
+{
+  "image_filename": "155e872f-f0cc-4d7a-81f5-ce05c0236b15.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, suspenseful scene set beneath a series of stone arches bathed in warm, late afternoon sunlight. The composition is dynamic, with a shallow depth of field and a subtle motion blur that draws the viewer’s eye toward the central figure. The subject, a person dressed in a loose, olive-green jacket, dark pants, and brown boots, stands partially in shadow, their face obscured by the angle and lighting. Their posture is tense and purposeful, with one arm hanging down, gripping a black handgun. The arches recede into the background, creating a rhythmic pattern of light and shadow along the stone corridor. The color palette is dominated by earthy tones—muted browns, ochres, and olive greens—contrasted by the sharp, dark silhouette of the figure. The overall style is reminiscent of a neo-noir thriller, with dramatic natural lighting, a low camera angle, and a sense of imminent action or confrontation. The mood is tense and mysterious, evoking a moment of anticipation just before a pivotal event.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:45.451527",
+  "word_count": 163,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f0136a3-35bf-484e-b6a1-ce7dbbebac27.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic scene viewed from inside a modern car, focusing on the front passenger seat and dashboard. The car interior is sleek, with dark leather upholstery and subtle metallic accents, bathed in soft, natural daylight. Through the open window, a breathtaking coastal landscape unfolds: rolling green hills, a calm body of water, and distant mountains under a cloudy, overcast sky. The composition uses a wide-angle perspective from the back seat, framing the car’s interior in the foreground and the expansive, serene scenery outside. The color palette is cool and muted, with soft grays, deep greens, and gentle blues, evoking a tranquil, contemplative mood. The lighting is diffuse and natural, with no harsh shadows, enhancing the peaceful, almost cinematic quality of the moment. The overall style is realistic and immersive, with a subtle depth of field that keeps both the car interior and the landscape outside in sharp focus, inviting the viewer to imagine themselves in this quiet, scenic journey.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:18.046264",
+  "word_count": 161,
+  "error_message": null
+}

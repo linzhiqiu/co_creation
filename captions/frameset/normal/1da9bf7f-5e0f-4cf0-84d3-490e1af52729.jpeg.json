@@ -1,0 +1,12 @@
+{
+  "image_filename": "1da9bf7f-5e0f-4cf0-84d3-490e1af52729.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person using a digital tablet with a stylus, focusing on a brightly lit screen displaying a fantasy football or sports management interface. The user’s hand, holding the stylus, is poised above the screen, suggesting active engagement and decision-making. The interface features a list of player names, teams, and statistics in a clean, modern layout, with green and red numbers indicating performance metrics. The person’s arm and partial torso are visible, dressed in a casual green shirt, with the rest of the body slightly out of focus, emphasizing the interaction with the device. The background is softly blurred, with hints of a cozy indoor setting and warm, natural lighting that creates a comfortable, lived-in atmosphere. The color palette is dominated by the cool blues and whites of the tablet screen, contrasted with the warm earth tones of the surroundings. The composition uses a shallow depth of field to draw attention to the digital interface, evoking a sense of concentration and modern digital lifestyle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:51.141226",
+  "word_count": 168,
+  "error_message": null
+}

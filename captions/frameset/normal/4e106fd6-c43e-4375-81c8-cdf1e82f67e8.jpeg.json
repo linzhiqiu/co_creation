@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e106fd6-c43e-4375-81c8-cdf1e82f67e8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of uniformed naval officers are gathered in a dimly lit, utilitarian briefing room aboard a ship. The central focus is on a confident officer standing at the front, holding a folder and gesturing as he addresses the seated crew. Another officer, dressed in a green flight suit, stands to the side with arms crossed, observing the proceedings. The audience, composed of attentive sailors in dark navy uniforms, sits at tables facing the speaker, their faces partially illuminated by the soft, overhead fluorescent lighting. The room is compact and functional, with exposed pipes, ventilation ducts, and a whiteboard at the front, partially lit by a subtle red glow from emergency lights. The color palette is muted, dominated by shades of navy blue, olive green, and off-white, with occasional splashes of red from the lighting. The camera angle is slightly low and off-center, capturing both the speaker and the attentive audience, creating a sense of depth and immersion. The overall style is cinematic and realistic, evoking the tense, focused atmosphere of a military briefing at sea.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:09.823641",
+  "word_count": 176,
+  "error_message": null
+}

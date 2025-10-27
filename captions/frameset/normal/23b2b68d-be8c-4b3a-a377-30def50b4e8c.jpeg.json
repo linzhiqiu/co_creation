@@ -1,0 +1,12 @@
+{
+  "image_filename": "23b2b68d-be8c-4b3a-a377-30def50b4e8c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic aerial view of a winding road cutting through a dense forest, captured from directly overhead. On the left side of the image, the forest is lush and dark green, evoking a sense of deep, untouched nature. On the right side, the trees are dusted with white frost or snow, creating a stark contrast with the green side and suggesting a transition between seasons or climates. The road curves smoothly through the center, dividing the two distinct halves. A single blue car is driving along the frosted side, while a red vehicle is visible on the green side, both adding a sense of scale and narrative tension. The color palette is cool and moody, dominated by deep greens, icy whites, and muted blues, with soft, diffused lighting that enhances the wintry atmosphere. The composition is symmetrical and striking, emphasizing the dramatic division between the two environments. The overall style is reminiscent of a high-budget nature documentary or a contemplative art film, with a sharp focus and subtle depth of field that draws the viewer’s eye along the road and into the contrasting worlds on either side.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:59.316133",
+  "word_count": 187,
+  "error_message": null
+}

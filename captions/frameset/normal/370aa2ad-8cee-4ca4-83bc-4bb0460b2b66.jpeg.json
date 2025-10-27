@@ -1,0 +1,12 @@
+{
+  "image_filename": "370aa2ad-8cee-4ca4-83bc-4bb0460b2b66.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic portrait of a young biathlete in action during a winter competition. The subject is intently aiming a precision rifle, with their face partially obscured by the rifle’s scope and orange stock. They wear a navy blue beanie adorned with a Norwegian flag patch, and their expression is focused and determined. The athlete’s hands are gloved in bright orange and blue, gripping the rifle with practiced confidence. The background is softly blurred, suggesting a cold, snowy outdoor environment with muted gray and blue tones, enhancing the sense of chilly weather and concentration. The lighting is natural and diffuse, typical of an overcast winter day, lending a soft, even illumination to the scene. The overall color palette is cool, dominated by blues, oranges, and neutral tones, with a shallow depth of field that keeps the viewer’s attention on the athlete’s intense gaze and the intricate details of the rifle. The composition is tight and immersive, capturing the tension and precision of the moment, reminiscent of a sports documentary or a high-stakes competition film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:02.465594",
+  "word_count": 175,
+  "error_message": null
+}

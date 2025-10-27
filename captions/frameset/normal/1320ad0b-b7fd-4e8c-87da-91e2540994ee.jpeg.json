@@ -1,0 +1,12 @@
+{
+  "image_filename": "1320ad0b-b7fd-4e8c-87da-91e2540994ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure, viewed from a high overhead perspective, walks across a vast, empty concrete surface. The subject is dressed in dark clothing, their form casting a subtle shadow, and their head is slightly bowed, suggesting introspection or solitude. The background is minimalist and expansive, with the smooth, slightly textured ground dominating the composition. Soft, dappled light filters in from the right side, creating gentle, abstract patterns and adding depth to the otherwise stark scene. The color palette is monochromatic, rendered in shades of black, white, and gray, evoking a moody, contemplative atmosphere. The lighting is diffuse, with no harsh contrasts, and the overall style is cinematic and minimalist, emphasizing negative space and the isolation of the lone figure. The camera angle is directly overhead, creating a sense of detachment and abstraction, while the shallow depth of field keeps the entire scene in crisp focus, heightening the sense of stillness and quiet.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:51.044921",
+  "word_count": 152,
+  "error_message": null
+}

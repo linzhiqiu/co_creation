@@ -1,0 +1,12 @@
+{
+  "image_filename": "42d6a7d3-416b-498e-87b9-5e11b1c1cfc0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with gray hair and glasses, dressed in a light blue dress shirt, dark gray sweater vest, and gray slacks, is captured in a dramatic low-angle shot. He stands in a modern, minimalist interior with tall white columns and soft natural light streaming through large windows, creating a cool, almost clinical atmosphere. The man’s expression is one of shock and frustration, his mouth open in a grimace as he looks down at a large, old-fashioned credit card terminal in his hands. He is kneeling with one knee on a raised surface, emphasizing his tense posture. The color palette is dominated by cool whites, grays, and soft blues, enhancing the sterile, high-key lighting. The composition uses a wide-angle lens to exaggerate the man’s features and the imposing architecture, with a shallow depth of field that keeps the focus on his face and the device, while the background columns blur slightly. The overall style is cinematic, with a touch of surrealism, evoking a sense of absurdity and heightened emotion in an otherwise mundane setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:11.795844",
+  "word_count": 174,
+  "error_message": null
+}

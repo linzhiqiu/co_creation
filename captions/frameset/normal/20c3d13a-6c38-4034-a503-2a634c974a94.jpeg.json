@@ -1,0 +1,12 @@
+{
+  "image_filename": "20c3d13a-6c38-4034-a503-2a634c974a94.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mesmerizing, cinematic night scene viewed from a low, wide-angle perspective, capturing the hypnotic repetition of streetlights and illuminated signs stretching into the distance along a dark, urban tunnel or underpass. The composition emphasizes strong leading lines, with rows of bright, star-like lights receding in perfect symmetry, creating a sense of infinite depth and vanishing point. The color palette is dominated by deep purples, inky blacks, and warm amber glows, with the artificial lights casting soft halos and subtle reflections on unseen surfaces. The overall mood is mysterious and slightly surreal, evoking a dreamlike, almost sci-fi atmosphere. The image is softly focused at the edges, with a gentle vignette effect that draws the viewer’s eye toward the luminous corridor, enhancing the sense of endless repetition and urban isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:50.656796",
+  "word_count": 128,
+  "error_message": null
+}

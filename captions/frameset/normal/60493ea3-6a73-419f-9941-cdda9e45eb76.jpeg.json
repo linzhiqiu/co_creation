@@ -1,0 +1,12 @@
+{
+  "image_filename": "60493ea3-6a73-419f-9941-cdda9e45eb76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle cinematic shot set inside a spacious, industrial warehouse bathed in cool, natural daylight streaming through large, grid-like windows on the right. The central subject is a solitary industrial worker standing confidently in the middle of the frame, facing the camera. He wears a navy blue work uniform with high-visibility yellow safety accents, a yellow hard hat, and protective gloves, embodying a sense of professionalism and readiness. His expression is neutral and focused, conveying determination and resilience. Beside him is a sturdy cart loaded with large, rugged tires, emphasizing the industrial setting and the physical nature of his work.\n\nThe background features towering metal structures, exposed pipes, and a spiral staircase ascending into the upper levels, adding depth and complexity to the composition. Scattered wooden planks and industrial materials rest against the far wall, enhancing the sense of an active, functional workspace. The color palette is dominated by cool blues and grays, punctuated by the bright yellow of the worker’s gear and the soft, diffused light from the windows, creating a crisp, almost cinematic atmosphere. The overall style is realistic and slightly desaturated, with a shallow depth of field that keeps the worker sharply in focus while subtly blurring the distant background, drawing the viewer’s attention to the human element within the vast industrial environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:20.201996",
+  "word_count": 216,
+  "error_message": null
+}

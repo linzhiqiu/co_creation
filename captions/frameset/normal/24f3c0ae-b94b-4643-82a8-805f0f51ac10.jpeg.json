@@ -1,0 +1,12 @@
+{
+  "image_filename": "24f3c0ae-b94b-4643-82a8-805f0f51ac10.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up portrait of a futuristic, spherical robot with a smooth, matte yellow exterior. The robot’s face is dominated by a single, horizontal, rectangular visor that glows with a vibrant, electric blue light, suggesting advanced technology and artificial intelligence. The visor emits a subtle lens flare, adding a sense of realism and depth. The background is dark and softly blurred, allowing the robot’s illuminated face to stand out dramatically. The lighting is cinematic, with a gentle rim light outlining the robot’s curved form and creating a sense of three-dimensionality. The overall mood is sleek, modern, and slightly mysterious, evoking the aesthetic of high-end science fiction films. The composition is centered and symmetrical, focusing attention on the robot’s expressive, glowing eye.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:21.715640",
+  "word_count": 121,
+  "error_message": null
+}

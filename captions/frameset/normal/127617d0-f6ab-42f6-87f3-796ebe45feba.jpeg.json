@@ -1,0 +1,12 @@
+{
+  "image_filename": "127617d0-f6ab-42f6-87f3-796ebe45feba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, cinematic portrait of a solitary figure standing in profile against a seamless, softly gradient background that transitions from warm beige to pale gray. The subject is a young person wearing loose, dark clothing, including a hooded jacket that casts their face in shadow, emphasizing their silhouette. Their posture is relaxed yet introspective, with hands in pockets and head slightly bowed, evoking a contemplative or melancholic mood. The lighting is diffused and gentle, creating a subtle halo effect around the figure and enhancing the sense of isolation. The composition is simple and uncluttered, with the subject positioned off-center to the right, and the overall style is reminiscent of fine art photography or a moody film still, utilizing shallow depth of field and soft focus to draw attention to the figure’s outline and the tranquil atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:36.718104",
+  "word_count": 137,
+  "error_message": null
+}

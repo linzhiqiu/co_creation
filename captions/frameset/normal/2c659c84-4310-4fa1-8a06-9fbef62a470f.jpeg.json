@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c659c84-4310-4fa1-8a06-9fbef62a470f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a warm, inviting scene set in a sunlit school corridor with soft, natural lighting streaming in from arched windows in the background. In the foreground, two young boys stand side by side, facing the camera and smiling gently. Both boys have short, dark hair and wear round glasses, dressed in matching light beige school uniforms with red backpacks. Each boy holds up a large piece of parchment paper with bold, elegant Arabic calligraphy written in black ink. The background is softly blurred, with a few indistinct figures walking in the distance, emphasizing the boys as the main subjects. The overall color palette is warm and neutral, with creamy whites, soft beiges, and gentle golden highlights, creating a nostalgic, uplifting atmosphere. The composition is balanced and symmetrical, with the boys centered and the architectural arches providing depth and a sense of place. The style is cinematic, with a shallow depth of field and a gentle, optimistic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:02.756273",
+  "word_count": 157,
+  "error_message": null
+}

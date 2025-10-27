@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a3b2e8e-af81-40ea-bae8-6b1e6fd2cdf4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a spinning circular saw blade mounted on a table saw in a dimly lit woodworking shop. The camera is positioned at a low angle, almost level with the surface of the table, emphasizing the sharp, metallic teeth of the blade as it rotates at high speed. Fine wood dust and small shavings are scattered across the smooth, silvery surface, catching the soft, diffused light that streams in from a window in the blurred background. The overall color palette is muted and earthy, with cool grays and silvers dominating the foreground, contrasted by warm, brownish tones in the out-of-focus workshop interior. The lighting is natural and moody, creating dramatic highlights and shadows that accentuate the texture of the metal and wood. The depth of field is shallow, keeping the saw blade and immediate area in sharp focus while the background fades into a soft blur, evoking a sense of tension and anticipation. The composition is tight and immersive, drawing the viewer’s attention to the dangerous beauty of the machinery and the tactile details of the workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:10.275974",
+  "word_count": 180,
+  "error_message": null
+}

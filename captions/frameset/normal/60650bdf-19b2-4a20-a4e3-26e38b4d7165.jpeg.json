@@ -1,0 +1,12 @@
+{
+  "image_filename": "60650bdf-19b2-4a20-a4e3-26e38b4d7165.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, wide-angle street scene at dawn, viewed from a low, almost ground-level perspective in the center of an empty urban road. The composition draws the viewer’s eye down the vanishing point of the street, which is flanked by tall, shadowy buildings on either side. The asphalt is dark and smooth, with crisp white lane markings and a large, circular speed limit sign painted directly on the road in the foreground, displaying the number \"30\" in bold, white numerals. The city is deserted, with no vehicles or pedestrians present, evoking a sense of stillness and quiet. The lighting is soft and cool, with the first hints of daylight illuminating the distant horizon, casting long, subtle shadows and creating a gentle gradient from darkness to light. The overall color palette is muted, dominated by deep grays, blues, and soft whites, enhancing the tranquil, almost surreal atmosphere. The image has a shallow depth of field, with the foreground details in sharp focus and the background gradually blurring, emphasizing the emptiness and scale of the urban environment. The mood is contemplative and cinematic, reminiscent of early morning scenes in art-house films.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:25.322369",
+  "word_count": 190,
+  "error_message": null
+}

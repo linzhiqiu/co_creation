@@ -1,0 +1,12 @@
+{
+  "image_filename": "58d0792b-c965-45b8-8ac2-7839746752c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young man standing outdoors in a park-like setting during the daytime. The subject is positioned in the center of the frame, facing the camera directly with a calm, neutral expression. He has short, dark hair and wears a dark jacket over a muted shirt. The background is softly blurred with a shallow depth of field, featuring hints of green foliage and dappled sunlight, suggesting a natural environment with trees and open sky. The lighting is soft and natural, illuminating the subject’s face evenly and highlighting his features without harsh shadows. The overall color palette is subdued and realistic, with earthy greens and browns in the background and natural skin tones. The composition is intimate and focused, with the subject’s face occupying much of the frame, evoking a contemplative and introspective mood. The camera angle is eye-level, enhancing the sense of direct connection between the viewer and the subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:23.428248",
+  "word_count": 154,
+  "error_message": null
+}

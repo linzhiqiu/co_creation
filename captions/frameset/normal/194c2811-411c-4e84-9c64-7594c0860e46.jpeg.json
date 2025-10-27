@@ -1,0 +1,12 @@
+{
+  "image_filename": "194c2811-411c-4e84-9c64-7594c0860e46.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, open-plan office filled with rows of white desks, each equipped with computers, monitors, and office supplies. The room is spacious, with high ceilings and large windows on one side letting in soft, natural daylight, which mixes with the cool, even overhead fluorescent lighting to create a balanced, slightly subdued atmosphere. The color palette is dominated by neutral tones—white desks, black office chairs, grey carpeting, and muted clothing in shades of blue, grey, and beige.\n\nThe composition is dynamic, captured from a high, wide-angle perspective that emphasizes the depth and scale of the workspace. In the foreground, a woman with shoulder-length brown hair, dressed in a dark green blazer, stands with her back to the camera, observing the office. To the left, a small group of people, some looking towards the camera, are either entering or leaving the scene, adding a sense of motion and daily activity.\n\nThroughout the office, employees are engaged in various tasks—typing, talking, or focused on their screens—conveying a sense of productivity and quiet concentration. The overall style is cinematic, with a slight vignette and shallow depth of field that draws the viewer’s eye towards the center of the room, highlighting the collective energy of the workspace while maintaining an air of professionalism and modernity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:15.517386",
+  "word_count": 210,
+  "error_message": null
+}

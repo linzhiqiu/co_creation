@@ -1,0 +1,12 @@
+{
+  "image_filename": "58da9c32-4adb-4ec1-b53a-996cdceee177.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a detailed, realistic scene set inside a modern industrial food processing factory. The foreground features a conveyor belt filled with rows of shiny, metallic cans, their reflective surfaces catching the ambient light. The cans are neatly aligned, moving in a single direction, suggesting efficient, automated production. In the background, the factory floor is filled with complex machinery, pipes, and metal frameworks, all rendered in a slightly soft focus to emphasize depth of field. The color palette is dominated by cool metallic tones—silvers, grays, and blues—contrasted with the warm, yellowish glow of overhead industrial lighting. The overall atmosphere is clean, orderly, and industrious, with a sense of motion and productivity. The camera angle is low and close to the conveyor belt, creating a dynamic perspective that draws the viewer’s eye along the line of cans toward the busy, bustling background. The style is hyper-realistic, with crisp details on the cans and a cinematic, documentary feel to the composition.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:33.429370",
+  "word_count": 159,
+  "error_message": null
+}

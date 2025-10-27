@@ -1,0 +1,12 @@
+{
+  "image_filename": "623fca66-4d16-45cf-ad3e-fff9f3310467.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern office scene featuring a man in his mid-30s, dressed in a light blue button-down shirt and dark trousers, standing beside a cluttered desk. He is captured in profile, holding a stack of colorful sticky notes, mid-action as if about to add another note to an already chaotic wall covered in overlapping Post-its. The notes, in vibrant shades of yellow, pink, green, and orange, dominate the background, attached above a row of neatly organized binders, creating a striking contrast between order and creative chaos. The man’s expression is focused and slightly intense, suggesting deep concentration or problem-solving.\n\nThe workspace is bathed in soft, natural light filtering through a large window on the right, casting gentle shadows and giving the scene a calm, contemplative mood. The desk in the foreground is cluttered with a computer monitor, a laptop, a desk lamp, and various office supplies, adding to the sense of a busy, dynamic environment. The color palette is a mix of cool grays and blues, punctuated by the vivid colors of the sticky notes, creating visual interest and energy. The camera angle is slightly off-center, at eye level, with a shallow depth of field that keeps the man and the sticky notes in sharp focus while subtly blurring the foreground, lending a cinematic, documentary-style realism to the composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:10.435598",
+  "word_count": 218,
+  "error_message": null
+}

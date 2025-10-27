@@ -1,0 +1,12 @@
+{
+  "image_filename": "336047b0-7966-49ba-ab92-bb4f6fc177ea.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, suspenseful interior scene set in a dimly lit, vintage kitchen bathed in deep, saturated red lighting. The foreground features a cluttered kitchen table with glassware and a bottle, while retro appliances and cabinets line the walls, evoking a 1970s or early 1980s aesthetic. The refrigerator is metallic and textured, and the countertops are crowded with everyday objects, adding to the sense of realism and lived-in atmosphere. In the background, through a doorway, a solitary figure stands partially in shadow—a woman with long, curly hair, wearing a loose, patterned dress. Her posture is tense and ambiguous, as if she is hesitating or watching something unseen. The composition uses a wide-angle perspective, with a strong sense of depth leading the viewer’s eye from the intimate, detailed foreground to the mysterious figure in the distance. The overall mood is eerie and foreboding, with the red lighting casting dramatic shadows and heightening the sense of unease, reminiscent of classic horror or psychological thriller films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:33.654618",
+  "word_count": 164,
+  "error_message": null
+}

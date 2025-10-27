@@ -1,0 +1,12 @@
+{
+  "image_filename": "4dcfa1f2-24cf-48a5-8216-606c55a35f78.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a robotic arm in a high-tech laboratory setting. The mechanical hand, constructed from brushed metal and visible bolts, is articulated with precision joints and exposed gears, giving it an industrial, utilitarian appearance. Several thick, white cables snake around the arm, emphasizing its advanced engineering. The background is softly blurred, rendered in cool blue tones that evoke a sterile, futuristic atmosphere. Wisps of mist or vapor drift through the scene, adding a sense of motion and mystery. The lighting is low and cinematic, with soft highlights reflecting off the metal surfaces, creating dramatic contrasts and emphasizing the textures of the machinery. The overall composition is tight and focused, with a shallow depth of field that isolates the robotic hand as the central subject, conveying a mood of technological sophistication and quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:59.581245",
+  "word_count": 135,
+  "error_message": null
+}

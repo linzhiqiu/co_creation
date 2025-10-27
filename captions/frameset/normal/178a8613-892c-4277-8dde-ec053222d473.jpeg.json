@@ -1,0 +1,12 @@
+{
+  "image_filename": "178a8613-892c-4277-8dde-ec053222d473.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands at the threshold of a mesmerizing, futuristic installation: a rectangular corridor lined with mirrored walls and ceiling, filled with hundreds of glowing blue LED lights suspended in a grid pattern. The person, seen from behind and silhouetted against the radiant display, appears contemplative and small in contrast to the vast, immersive light environment. The corridor stretches into the darkness, creating a sense of infinite depth and perspective through the reflections. The color palette is dominated by cool, electric blues and stark blacks, with the only illumination coming from the ethereal glow of the LEDs, casting soft, diffused light and subtle reflections on the polished floor. The overall style is cinematic and minimalist, evoking a sense of wonder, isolation, and futuristic exploration. The camera angle is set at eye level, centered on the corridor, emphasizing symmetry and drawing the viewer’s gaze into the luminous tunnel. The mood is both serene and otherworldly, blending elements of science fiction and contemporary art installation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:34.114069",
+  "word_count": 164,
+  "error_message": null
+}

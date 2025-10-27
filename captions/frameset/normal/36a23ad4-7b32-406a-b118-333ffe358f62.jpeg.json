@@ -1,0 +1,12 @@
+{
+  "image_filename": "36a23ad4-7b32-406a-b118-333ffe358f62.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of two people’s hands at a cluttered workbench in a dimly lit workshop. One person is holding a smartphone horizontally, displaying a video or image of mechanical parts in cool blue tones, while the other hand points at the screen, indicating something specific. The workbench is scattered with tools and equipment, including a digital multimeter with red and black wires, a pair of work gloves, and various metal objects, all suggesting a technical or engineering environment. The background is softly out of focus, revealing shelves with more tools and workshop materials, contributing to the authentic, lived-in feel. The lighting is warm and natural, casting soft shadows and highlighting the textures of the hands, tools, and wooden surface. The overall color palette is earthy and muted, with browns, grays, and subtle pops of color from the tools and the phone screen. The composition is intimate and documentary-style, with a shallow depth of field drawing attention to the interaction and the tactile details of the workspace, evoking a sense of concentration and collaboration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:52.168320",
+  "word_count": 174,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "146e02c9-e946-43b8-ab26-0e3f12ec93a4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up of a hand holding a smartphone, displaying an online shop page for a Messi match-worn jersey. The background is dimly lit, revealing hanging football jerseys, including one with the name \"Suarez.\" The scene uses moody, cinematic lighting and a shallow depth of field, emphasizing anticipation and desire.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:18.195001",
+  "word_count": 49,
+  "error_message": null
+}

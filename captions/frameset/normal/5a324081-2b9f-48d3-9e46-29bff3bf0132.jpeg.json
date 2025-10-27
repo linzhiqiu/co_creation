@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a324081-2b9f-48d3-9e46-29bff3bf0132.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic nighttime scene of a person working alone at a desk in a dimly lit room. The subject is seen from behind, silhouetted against the soft glow of a computer monitor displaying lines of code and a design interface. The room is sparsely illuminated, with deep shadows dominating the space and only a few highlights from the screen and a faint ambient light source. The desk is cluttered with a laptop, a desktop monitor, and various small objects, suggesting a creative or technical workspace. A large houseplant hangs from a shelf above the desk, adding a touch of organic texture to the otherwise minimal, modern setting. The overall color palette is monochromatic, rendered in high-contrast black and white, emphasizing the interplay of light and shadow. The composition uses a wide aspect ratio, with the subject centered but surrounded by negative space, evoking a sense of solitude and focus. The camera angle is slightly elevated and set back, creating a voyeuristic, contemplative mood, while the shallow depth of field keeps the background softly blurred, drawing attention to the illuminated figure and their work.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:55.081147",
+  "word_count": 184,
+  "error_message": null
+}

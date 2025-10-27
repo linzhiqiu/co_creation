@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ac428e3-193b-4988-b4b3-25fcf52d0b68.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, minimalist interior scene focused on a simple, round wall clock mounted on a pale, off-white partition. The clock is viewed in close-up from a slightly low, off-center angle, emphasizing its clean, modern design with thin black hour and minute hands and a slender red second hand. The background features a softly lit, beige drop ceiling with recessed black light fixtures, rendered out of focus to create a shallow depth of field. The color palette is warm and muted, dominated by creamy yellows and soft browns, evoking a quiet, almost sterile atmosphere reminiscent of a hospital or institutional setting. The lighting is diffuse and natural, casting gentle shadows and enhancing the subdued, contemplative mood. The overall composition is spare and balanced, with a sense of stillness and subtle tension, as if time is suspended in a moment of waiting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:10.538414",
+  "word_count": 141,
+  "error_message": null
+}

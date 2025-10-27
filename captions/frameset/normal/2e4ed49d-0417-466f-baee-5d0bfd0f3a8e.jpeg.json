@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e4ed49d-0417-466f-baee-5d0bfd0f3a8e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a woman in profile, standing against a minimalist, softly lit background. The subject has long, straight black hair styled in a sleek ponytail, with some strands framing her face. She wears a black halter top that leaves her shoulders bare, emphasizing the clean lines of her silhouette. The lighting is moody and atmospheric, with a cool teal wash filling the space and a subtle, warm red glow illuminating the contours of her face and upper body from below, creating a dramatic color contrast. The composition is tight, focusing on the woman’s profile with a shallow depth of field that blurs the background, drawing attention to her serene, contemplative expression. The overall style is modern and minimalist, evoking a sense of quiet introspection and cinematic elegance, reminiscent of contemporary art photography or neo-noir film stills.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:46.844313",
+  "word_count": 139,
+  "error_message": null
+}

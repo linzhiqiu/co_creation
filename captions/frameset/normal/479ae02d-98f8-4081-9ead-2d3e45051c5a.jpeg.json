@@ -1,0 +1,12 @@
+{
+  "image_filename": "479ae02d-98f8-4081-9ead-2d3e45051c5a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet, rural gas station sits at the edge of a gently curving country road during the early evening, bathed in the soft, cool light of dusk. The sky is a gradient of pale blue fading into a subtle peach near the horizon, suggesting the sun has just set. The gas station canopy is modern, with clean lines and a bright yellow-orange accent, illuminated by understated overhead lights that cast a gentle glow on the forecourt. A digital price sign stands prominently, displaying fuel prices in green and red, with a “COSTA” coffee logo beneath, adding a touch of commercial familiarity.\n\nTo the left, a single-story house with a sloped roof and a parked car hints at a small, close-knit community. The surrounding landscape is open and tranquil, with grassy verges and a few scattered trees silhouetted against the fading light. The road is empty, emphasizing the stillness and isolation of the scene. The overall color palette is muted and natural, dominated by cool blues, soft greys, and the warm highlights of artificial lighting. The composition is cinematic, with a wide-angle perspective that captures both the gas station and the expanse of the countryside, evoking a sense of quiet solitude and understated beauty. The mood is contemplative and serene, reminiscent of a scene from a modern British drama or a road movie, where the ordinary becomes quietly poetic in the fading light.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:48.718986",
+  "word_count": 232,
+  "error_message": null
+}

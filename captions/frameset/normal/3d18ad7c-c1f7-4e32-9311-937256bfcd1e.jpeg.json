@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d18ad7c-c1f7-4e32-9311-937256bfcd1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an abstract, close-up image of a textured surface that evokes the look of weathered, painted concrete or plaster. The composition should be dominated by a blend of cool and earthy tones—primarily greens, blues, and hints of yellow—creating a sense of organic flow and subtle gradient. The surface is pitted and uneven, with small holes and cracks scattered throughout, adding tactile depth and visual interest. The colors bleed and merge softly, reminiscent of watercolor washes or oxidized patina, with some areas appearing more saturated and others faded. Lighting is diffuse and even, minimizing harsh shadows and emphasizing the natural variations in color and texture. The overall mood is tranquil and contemplative, with a painterly, almost dreamlike quality. The camera angle is straight-on, focusing tightly on the surface to abstract the subject and invite close inspection of its details.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:15.583184",
+  "word_count": 138,
+  "error_message": null
+}

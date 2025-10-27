@@ -1,0 +1,12 @@
+{
+  "image_filename": "14dabf92-26af-4ac8-a40e-35136ae7367a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage electronic oscilloscope sits centered on a dark wooden surface against a softly lit, neutral white background. The device is boxy and industrial, with a matte gray-blue metal casing and a large, slightly convex glass display dominating the left side. On the screen, green and red waveform traces are visible, with the green line steady and the red line more erratic, both set against a faint grid overlay. The right side of the oscilloscope features an array of tactile, rectangular buttons and switches, each labeled with technical terms and symbols, as well as a few rotary knobs and indicator lights. The lighting is diffuse and even, creating gentle shadows that emphasize the device’s texture and form without harsh contrasts. The overall color palette is subdued, with cool grays and blues from the oscilloscope contrasting subtly with the warm brown of the tabletop. The composition is symmetrical and direct, shot at eye level with a shallow depth of field that keeps the oscilloscope in sharp focus while softly blurring the background, evoking a sense of retro scientific precision and quiet technological nostalgia.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:31.998661",
+  "word_count": 182,
+  "error_message": null
+}

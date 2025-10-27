@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e8da106-690d-4ff2-8234-eac3d23cf8f2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands alone in a dimly lit, modern office at night, illuminated by the cool, bluish glow of desk lamps and computer screens. She wears a bright red apron over a loose, striped t-shirt, her hair pulled back in a ponytail, and she is captured mid-action, reaching out with a focused expression toward a black cat perched on a cluttered desk. The desk is scattered with various objects—papers, electronics, a potted plant, and a small lamp casting a warm pool of light. The background reveals an open-plan office with empty desks and chairs, glass partitions, and a sense of quiet stillness, emphasizing the late hour. The composition uses a shallow depth of field, drawing attention to the woman and the cat, while the rest of the office fades softly into the background. The color palette contrasts the cool ambient lighting with the vivid red of the apron, creating a visually striking and cinematic atmosphere. The camera angle is slightly elevated and off-center, enhancing the sense of candidness and intimacy in this solitary, nocturnal moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:19.380307",
+  "word_count": 176,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e5c3025-ff71-4c3a-bf0e-dfc5f2c20273.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal urban scene featuring a lone young man in a bright red jacket and dark pants, standing confidently on a massive concrete structure. The entire image is presented upside down, creating a disorienting, gravity-defying effect. The architecture is brutalist, with large geometric pillars and angular forms, bathed in soft, natural daylight that casts long, dramatic shadows across the surfaces. In the background, glimpses of modern glass skyscrapers and bare winter trees suggest a cityscape, their lines and reflections further enhancing the sense of spatial distortion. The color palette is cool and muted, dominated by grays and blues, with the red jacket providing a striking focal point. The composition is wide-angle, with a deep depth of field that keeps both the foreground and background sharply in focus, emphasizing the scale and surrealism of the environment. The overall mood is contemplative and dreamlike, blending urban realism with a cinematic, otherworldly twist.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:11.968082",
+  "word_count": 150,
+  "error_message": null
+}

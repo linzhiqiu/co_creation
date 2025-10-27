@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b8af0d5-c4b2-4cb1-9652-736d3d7d0d37.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, high-fashion portrait of a confident woman standing in a futuristic, tunnel-like corridor. The subject is centered in the frame, walking forward with a powerful, poised expression. She wears a form-fitting, intricately patterned dress with geometric cutouts and a halter neckline, the fabric featuring a mix of metallic silver, blue, and nude tones that catch the light. Her hair is slicked back into a sleek ponytail, emphasizing her strong features and determined gaze.\n\nThe corridor is composed of glossy black walls lined with evenly spaced, horizontal white LED light strips that create a dramatic sense of depth and perspective, converging toward the vanishing point behind her. The lighting is cool and stark, casting sharp highlights and deep shadows that sculpt the subject’s figure and add a cinematic, almost sci-fi atmosphere. The overall color palette is dominated by monochromatic blacks, whites, and silvers, with subtle blue accents from the dress. The camera angle is eye-level, with a shallow depth of field that keeps the focus on the woman while the background lines blur slightly, enhancing the sense of motion and intensity. The mood is bold, modern, and empowering, evoking the style of a high-end fashion editorial or a scene from a stylish science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:57.872701",
+  "word_count": 206,
+  "error_message": null
+}

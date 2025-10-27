@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d21b4af-bbd7-40d2-b69f-71d37edfa926.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young man with delicate, smooth features and slightly tousled dark hair. His expression is calm and introspective, with soft, parted lips and a gentle gaze directed slightly off-camera. The lighting is warm and diffused, casting a golden glow across his face and highlighting the natural contours of his skin. There is a dreamy, ethereal quality to the image, achieved through a shallow depth of field and a subtle, blurred foreground element that partially veils the subject, adding a sense of intimacy and mystery. The background is indistinct and softly blurred, ensuring all focus remains on the subject’s face. The overall color palette is warm and muted, with creamy skin tones and hints of gold and brown, evoking a sense of quiet elegance and emotional depth. The composition is tight, with the subject’s face filling most of the frame, and the camera angle is slightly tilted, enhancing the intimate, almost cinematic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:15.986864",
+  "word_count": 158,
+  "error_message": null
+}

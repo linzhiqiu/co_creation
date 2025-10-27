@@ -1,0 +1,12 @@
+{
+  "image_filename": "24edf16f-b99a-4c42-80eb-3d2a64846ccf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, macro shot of a high-tech industrial process, focusing on the tip of a 3D printer or CNC machine nozzle in action. The central subject is a metallic nozzle, slightly out of focus at the top, with a vivid, electric blue and purple plasma arc or laser beam emanating from its tip, illuminating the immediate area with a soft, ethereal glow. The background is intentionally blurred, rendered in muted, gradient tones of gray and violet, creating a sense of depth and isolating the subject. The lighting is low-key, with the primary illumination coming from the intense, concentrated light of the plasma or laser, casting subtle reflections on the metal surface. The overall mood is futuristic and industrial, with a cinematic, almost sci-fi quality. The composition emphasizes the energy and precision of advanced manufacturing technology, with a shallow depth of field drawing the viewer’s eye to the glowing point of action.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:24.508613",
+  "word_count": 151,
+  "error_message": null
+}

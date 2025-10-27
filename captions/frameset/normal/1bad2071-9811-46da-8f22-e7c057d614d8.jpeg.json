@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bad2071-9811-46da-8f22-e7c057d614d8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A heartfelt, cinematic scene set on an outdoor running track during a bright, sunlit day. In the foreground, a coach and a young athlete are the central focus, both dressed in vibrant red sports attire. The coach, an adult male, is crouched down beside the child, gently placing a reassuring hand on the child’s shoulder. The child, also crouched, appears to be catching their breath or preparing for a race, their posture suggesting a moment of vulnerability or encouragement. Both figures are seen from behind, emphasizing the supportive dynamic between them.\n\nThe background is softly blurred, with hints of other athletes in red vests, colorful track markers, and lush green trees, creating a sense of depth and a lively, active environment. The lighting is natural and warm, casting soft highlights and subtle shadows, enhancing the emotional tone of the scene. The color palette is dominated by rich reds, deep greens, and the cool blues of the distant track, contributing to a vibrant yet grounded atmosphere.\n\nThe composition uses a shallow depth of field to draw attention to the coach and child, with the camera positioned at a low angle, almost at ground level, to evoke intimacy and immediacy. The overall style is reminiscent of a sports drama film, capturing a poignant moment of mentorship, encouragement, and human connection amidst the energy of a youth sports event.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:58.964317",
+  "word_count": 226,
+  "error_message": null
+}

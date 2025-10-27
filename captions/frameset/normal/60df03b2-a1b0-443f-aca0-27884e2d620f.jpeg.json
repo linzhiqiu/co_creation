@@ -1,0 +1,12 @@
+{
+  "image_filename": "60df03b2-a1b0-443f-aca0-27884e2d620f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, documentary-style shot of a person in a white shirt standing beside a modern computer monitor, their arm extended as they point thoughtfully at a complex network diagram displayed on the screen. The diagram features interconnected nodes and lines in various colors—greens, yellows, and oranges—suggesting data analysis or digital mapping. The subject’s hand is in sharp focus, emphasizing the gesture and interaction with the digital content, while their face is out of frame, keeping the attention on the action and the screen. The background is softly blurred, with hints of large windows and daylight streaming in, creating a cool, professional atmosphere. The color palette is dominated by soft blues and whites, with the monitor’s light casting a subtle glow. The composition uses a shallow depth of field and a slight over-the-shoulder perspective, evoking a sense of immediacy and engagement, as if the viewer is part of a collaborative, high-tech workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:35.817978",
+  "word_count": 151,
+  "error_message": null
+}

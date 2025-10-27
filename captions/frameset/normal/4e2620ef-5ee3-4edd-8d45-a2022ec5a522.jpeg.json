@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e2620ef-5ee3-4edd-8d45-a2022ec5a522.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage stereo receiver, with a human hand in the foreground delicately adjusting one of the front dials. The receiver is metallic, slightly worn, and features tactile buttons and knobs, with a few small indicator lights softly glowing green. The lighting is moody and atmospheric, casting gentle shadows and highlighting the textures of both the metal surface and the hand. The background is softly blurred, suggesting a cozy, dimly lit interior space with warm, earthy tones. The overall color palette is muted, dominated by browns, beiges, and metallic grays, evoking a nostalgic, cinematic feel. The composition is intimate, with a shallow depth of field focusing attention on the interaction between the hand and the device, creating a sense of quiet concentration and tactile engagement. The camera angle is slightly off-center, at eye level with the stereo, enhancing the realism and immersive quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:10.132275",
+  "word_count": 149,
+  "error_message": null
+}

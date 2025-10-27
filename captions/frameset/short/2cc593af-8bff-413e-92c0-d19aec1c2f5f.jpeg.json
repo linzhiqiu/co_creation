@@ -1,0 +1,12 @@
+{
+  "image_filename": "2cc593af-8bff-413e-92c0-d19aec1c2f5f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up of polished wooden and metallic spheres, some bisected, arranged on a matte black surface with a geometric black pyramid. Soft, diffused lighting creates gentle reflections and a moody, elegant atmosphere. The color palette features warm browns, coppers, and deep shadows, evoking a modern, minimalist aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:10.084185",
+  "word_count": 47,
+  "error_message": null
+}

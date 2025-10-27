@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c684a3a-1f03-4d40-89be-26e53233061b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit bar scene with a shallow depth of field, focusing on a row of billiard balls on a teal pool table. In the blurred background, a person lines up a shot, their cue extended. The color palette is moody, with deep blues and warm, muted highlights, evoking a cinematic, intimate atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:57.844172",
+  "word_count": 53,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "52fdaace-4f96-4d95-bcf8-e9b3a351986a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, retro-futuristic control room filled with an air of tense observation. In the foreground, two figures sit at a console, their backs to the viewer, both dressed in muted gray uniforms that evoke a clinical, institutional atmosphere. One figure wears large, over-ear headphones, suggesting a role in monitoring or surveillance. Before them, a bank of old-fashioned CRT monitors glows with grainy, distorted images: one screen displays the profile of a woman with voluminous curly hair, rendered in a soft, almost painterly blur of reds and blues; another monitor shows a man’s face in profile, his features cast in cool, bluish tones, the image flickering with analog static. The background is shrouded in darkness, with only the faintest suggestion of additional equipment and a wall-mounted brain scan, adding to the sense of secrecy and psychological intrigue. The color palette is dominated by desaturated greens, grays, and blues, punctuated by the eerie glow of the screens. The lighting is low and moody, with deep shadows and a cinematic, almost voyeuristic quality. The camera angle is positioned behind and slightly above the seated figures, creating a sense of distance and surveillance, while the shallow depth of field keeps the focus on the monitors and the tense, enigmatic atmosphere of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:04.313166",
+  "word_count": 210,
+  "error_message": null
+}

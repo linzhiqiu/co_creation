@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fe1aa37-8132-4db7-a883-e75172e567c6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene of a solitary person viewed from behind, seated at a wooden table in a dimly lit café or workspace. The subject has short, dark hair with subtle highlights, and is dressed in a dark, simple top. The focus is on the back of their head and shoulders as they face a laptop, the screen softly illuminating their silhouette. The background is moody and blurred, with a large window to the right letting in cool, natural daylight that casts a gentle blue glow across the scene. Outside the window, faint outlines of a street and urban elements are visible but out of focus, enhancing the sense of quiet isolation. The color palette is dominated by deep blues, warm browns, and muted neutrals, with soft, diffused lighting creating a contemplative, introspective atmosphere. The composition uses a shallow depth of field, drawing attention to the subject while allowing the background to fade into gentle abstraction, evoking a sense of solitude and focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:52.006496",
+  "word_count": 164,
+  "error_message": null
+}

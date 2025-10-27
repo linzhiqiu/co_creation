@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c6ced02-f2e5-424a-b723-a3163bdca6fa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, dramatic scene set in low, eerie green lighting. The main subject is a man with long, wavy hair and a scruffy beard, wearing a loose headscarf or bandana. His face is partially illuminated from below, casting deep shadows that accentuate his intense, wide-eyed expression and slightly parted lips, as if he is speaking or in awe. The background is almost entirely black, creating a sense of isolation and suspense. To the right of the frame, a large, circular object dominates the composition, resembling a telescope lens or a viewing device, through which a solar eclipse is visible—an almost complete ring of darkness with a thin crescent of light. The overall color palette is dominated by sickly greens and deep blacks, with the eclipse providing a stark, pale contrast. The camera angle is slightly low and close, heightening the sense of drama and unease. The style is cinematic, reminiscent of psychological thrillers or supernatural tales, with a strong emphasis on chiaroscuro lighting and a shallow depth of field that keeps the focus tightly on the man's face and the mysterious eclipse.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:49.721934",
+  "word_count": 182,
+  "error_message": null
+}

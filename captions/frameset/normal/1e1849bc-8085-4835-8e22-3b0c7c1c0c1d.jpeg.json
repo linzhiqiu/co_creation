@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e1849bc-8085-4835-8e22-3b0c7c1c0c1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic black and white photograph of a large suspension bridge spanning a wide river at dusk, with the city skyline visible in the background. The bridge dominates the composition, its steel cables and towers rendered in sharp detail against a moody, cloud-filled sky. The city lights twinkle faintly along the horizon, reflecting softly on the water below. The overall mood is contemplative and cinematic, with high contrast between the dark silhouettes of the bridge and the luminous sky. The camera angle is low and slightly off-center, emphasizing the scale and grandeur of the structure. The lighting is natural, with the last light of day fading behind the clouds, creating a sense of depth and atmosphere. The style is reminiscent of classic film noir, with a focus on architectural lines, dramatic shadows, and a timeless urban ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:56.205748",
+  "word_count": 137,
+  "error_message": null
+}

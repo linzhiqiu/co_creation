@@ -1,0 +1,12 @@
+{
+  "image_filename": "3428a10d-a6da-437c-8bb1-85fa2f19d1b6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene featuring a woman with shoulder-length dark hair, positioned centrally in the frame, her face softly smiling and exuding a sense of warmth and openness. The background suggests an indoor setting, possibly an airport or a busy terminal, with blurred figures and hints of structural elements, evoking a sense of movement and transience. The entire image is viewed through a heavily textured, frosted or rain-streaked glass, which distorts and diffuses the details, creating an impressionistic, dreamlike effect. The color palette is muted, with soft blues, grays, and subtle hints of red and white, contributing to a nostalgic, almost ethereal atmosphere. The lighting is gentle and natural, with no harsh shadows, enhancing the soft focus and emotional tone. The composition is intimate, with a shallow depth of field that keeps the woman as the focal point while the background remains abstract and indistinct. The overall style is reminiscent of a memory or a fleeting moment, captured with a painterly, almost surreal quality, as if seen through the haze of recollection or emotion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:48.037790",
+  "word_count": 174,
+  "error_message": null
+}

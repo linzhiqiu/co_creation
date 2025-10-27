@@ -1,0 +1,12 @@
+{
+  "image_filename": "28fb8ece-c3dc-4214-a669-29c5f68115ae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand resting on the trackpad of a modern silver laptop, which dominates the foreground. The laptop screen displays a chaotic, glitchy digital pattern with horizontal black, white, and colored lines, evoking a sense of computer malfunction or data corruption. The background is softly out of focus, revealing a cluttered office desk with various objects: a retro-style calculator, a stack of papers, and a few personal items, including a small figurine and a photo frame. The lighting is natural and diffused, suggesting daylight streaming in from a nearby window, creating a calm yet slightly tense atmosphere. The color palette is muted and realistic, with the neutral tones of the desk and technology contrasting sharply with the vivid, distorted colors on the laptop screen. The composition uses a shallow depth of field to draw attention to the hand and the malfunctioning screen, while the background details add context and narrative depth, hinting at a work environment disrupted by unexpected technical issues.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:50.329713",
+  "word_count": 165,
+  "error_message": null
+}

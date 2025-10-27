@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b920ed7-858b-4acf-bca2-d6c29e9fc03a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a black pen, poised above a white, grid-lined notebook. The hand is in the process of writing simple arithmetic equations, specifically \"1 + 1 =\", with several similar equations already written on the page in neat, clear handwriting. The lighting is soft and natural, casting gentle shadows and creating a warm, intimate atmosphere. The focus is sharp on the pen tip and the writing, while the background and edges of the notebook are softly blurred, emphasizing the act of writing. The color palette is muted and understated, dominated by whites, creams, and subtle skin tones, with the black ink providing strong contrast. The composition is tight and personal, evoking a sense of quiet concentration and introspection, as if capturing a private moment of learning or contemplation. The overall style is cinematic and contemplative, with a shallow depth of field and a naturalistic, almost documentary feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:56.067061",
+  "word_count": 152,
+  "error_message": null
+}

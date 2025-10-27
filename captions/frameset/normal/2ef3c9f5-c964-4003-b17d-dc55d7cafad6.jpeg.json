@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ef3c9f5-c964-4003-b17d-dc55d7cafad6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern car’s infotainment touchscreen display, rendered in sharp focus with a cinematic, high-tech aesthetic. The screen shows a dark, sleek interface with a deep blue and black color palette, accented by subtle gradients and reflections that suggest ambient lighting within the vehicle. At the top left, Chinese characters are displayed in crisp white text, while below, a highlighted name appears in a slightly larger font. On the right side of the screen, a prominent yellow icon resembling a stylized human profile is illuminated, drawing the viewer’s attention. The interface elements are clean and minimalistic, with a thin white “X” icon in the upper right corner for closing the menu. The composition is angled slightly from the side, creating a sense of depth and immersion, with the edges of the screen softly fading into shadow. The overall mood is modern and sophisticated, evoking the quiet, focused atmosphere of a nighttime drive in a technologically advanced vehicle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:07.784310",
+  "word_count": 160,
+  "error_message": null
+}

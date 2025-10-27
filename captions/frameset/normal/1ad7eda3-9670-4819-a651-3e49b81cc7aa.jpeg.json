@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ad7eda3-9670-4819-a651-3e49b81cc7aa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, slightly surreal close-up portrait of a young woman with dark hair, centered in the frame and looking directly into the camera with a neutral, enigmatic expression. The scene is shot through a digital camera or surveillance lens, with a subtle vignette and soft focus around the edges, evoking a sense of voyeurism or observation. Overlay a translucent, rectangular facial recognition box around her face, with faint digital interface elements and scan lines, suggesting technology or surveillance themes. The background is softly blurred, featuring warm, earthy tones and indistinct shapes, possibly an indoor setting with ambient light filtering in. The color palette is muted, with a mix of cool and warm hues, and the lighting is natural but slightly diffused, creating gentle shadows and highlights on her face. The overall style is reminiscent of a modern thriller or sci-fi film, with a shallow depth of field, a sense of intimacy, and a subtle tension in the composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:45.505974",
+  "word_count": 159,
+  "error_message": null
+}

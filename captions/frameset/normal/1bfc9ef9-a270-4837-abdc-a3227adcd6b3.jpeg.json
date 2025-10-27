@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bfc9ef9-a270-4837-abdc-a3227adcd6b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit room filled with vintage CRT monitors, some stacked haphazardly and others glowing softly with blue and white static. In the center, one monitor displays a sharp, modern close-up of a hand holding a smartphone, the screen illuminated with a messaging or social media app, contrasting starkly with the analog technology surrounding it. The composition is tight and immersive, with thick, tangled cables snaking across the foreground, adding a sense of technological chaos and nostalgia. The color palette is dominated by deep blues, cool grays, and the cold white glow of the screens, creating a mysterious, almost cyber-noir atmosphere. The lighting is low-key, with focused highlights on the monitors and subtle reflections on the cables, enhancing the sense of depth and isolation. The camera angle is low and slightly off-center, drawing the viewer’s eye through the maze of wires toward the central screen, emphasizing the juxtaposition of old and new technology. The overall style is reminiscent of a retro-futuristic film still, blending elements of suspense and digital age commentary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:08.091969",
+  "word_count": 177,
+  "error_message": null
+}

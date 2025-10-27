@@ -1,0 +1,12 @@
+{
+  "image_filename": "17bcb82b-fde5-4704-bb2a-13c1225d4d2f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, intimate shot of a person sketching architectural or technical diagrams in a large, white sketchbook. The focus is on the person's hands—one holding a pencil, actively drawing, while the other rests on the page, fingers splayed for stability. The subject is partially covered by a soft, blue blanket, suggesting a relaxed, informal setting, possibly on a bed or couch. The lighting is soft and moody, with natural, diffused daylight casting gentle shadows and highlighting the texture of the skin and fabric. The color palette is subdued, dominated by cool blues and neutral tones, creating a calm, contemplative atmosphere. The composition is tight, with a shallow depth of field that blurs the background and draws attention to the hands and the sketchbook. The overall style is cinematic and introspective, evoking a sense of quiet focus and creative process.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:34.710354",
+  "word_count": 139,
+  "error_message": null
+}

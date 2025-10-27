@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ab757cd-2f97-4bbb-94cd-ee6d05db3cd6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up of a young woman singing passionately into a microphone, her intense gaze fixed directly at the camera. She has long, wavy brown hair, partially illuminated by warm, golden backlighting that creates a soft halo effect and adds a dramatic, almost ethereal glow to the scene. Her makeup is bold yet natural, accentuating her expressive eyes. She wears edgy, dark clothing with metallic accents and statement earrings, evoking a modern rock or pop aesthetic. The background is softly blurred, with hints of large speakers and diffused, fiery lights, suggesting a live performance or music video set. The overall color palette is dominated by warm ambers and golds, with subtle shadows adding depth and intimacy. The shallow depth of field keeps the focus on her face and the microphone, while the soft bokeh and gentle lens flare contribute to a dreamy, emotionally charged atmosphere. The composition is tight and immersive, capturing the raw energy and charisma of the performer in a moment of musical intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:31.714273",
+  "word_count": 166,
+  "error_message": null
+}

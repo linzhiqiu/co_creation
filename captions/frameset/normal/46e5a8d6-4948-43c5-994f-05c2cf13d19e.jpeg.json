@@ -1,0 +1,12 @@
+{
+  "image_filename": "46e5a8d6-4948-43c5-994f-05c2cf13d19e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dense, atmospheric coniferous forest stretches into the distance, shrouded in thick, bluish-gray morning fog. The tops of tall pine and fir trees emerge from the mist, their dark green needles muted by the haze. The scene is devoid of human presence, evoking a sense of solitude and mystery. The color palette is dominated by cool tones—deep greens, slate blues, and soft grays—creating a moody, almost monochromatic effect. The lighting is diffuse and soft, with no direct sunlight, enhancing the ethereal quality of the fog. The camera angle is a high, wide aerial shot, looking down over the treetops and capturing the vastness of the forest as it fades into the misty distance. The overall style is cinematic and contemplative, with a shallow depth of field that blurs the farthest trees, emphasizing the enveloping fog and the quiet, haunting beauty of the wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:32.616592",
+  "word_count": 143,
+  "error_message": null
+}

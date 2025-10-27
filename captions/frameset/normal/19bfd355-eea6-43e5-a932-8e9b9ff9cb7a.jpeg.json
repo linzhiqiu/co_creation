@@ -1,0 +1,12 @@
+{
+  "image_filename": "19bfd355-eea6-43e5-a932-8e9b9ff9cb7a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black and white photograph of a male basketball player in a gymnasium, captured in a candid moment as he prepares to take a shot. The subject stands in the foreground, slightly off-center, holding a basketball with both hands at chest level, his eyes focused intently on the hoop. He wears a light-colored, short-sleeved athletic shirt and dark shorts, with a wristband on his left wrist. His expression is serious and concentrated, highlighting the intensity of the moment. The background features a blurred basketball hoop and backboard, with the gym’s high walls and acoustic panels visible, creating a sense of depth. The lighting is soft and even, casting gentle shadows that emphasize the subject’s form and the texture of his clothing. The overall style is documentary and cinematic, with a shallow depth of field that isolates the player from the background, drawing attention to his poised stance and the anticipation of action. The monochrome palette enhances the mood, lending the scene a timeless, contemplative quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:23.256385",
+  "word_count": 165,
+  "error_message": null
+}

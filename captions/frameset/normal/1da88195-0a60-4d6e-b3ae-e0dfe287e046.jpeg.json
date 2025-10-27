@@ -1,0 +1,12 @@
+{
+  "image_filename": "1da88195-0a60-4d6e-b3ae-e0dfe287e046.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A classic, deep blue 1960s Chevrolet Chevelle SS is parked inside a warmly lit suburban garage, its hood propped open as if mid-repair. The car dominates the foreground, angled slightly to the right, with chrome details and a California license plate (\"29PEL65\") catching the soft, golden light. A red cloth and a dark fender cover drape over the front, suggesting ongoing mechanical work. In the background, the garage is cluttered yet homey, filled with tools, shelves, and an American flag hanging on the left wall. The lighting is natural and inviting, with sunlight streaming in from the open garage door, creating a gentle bokeh effect on some out-of-focus foliage in the lower right corner. The overall color palette is warm and nostalgic, with rich blues, reds, and earthy tones. The composition is cinematic, shot at a low angle to emphasize the car’s presence, with a shallow depth of field that keeps the focus on the vehicle while softly blurring the background details. The mood is one of quiet concentration and Americana, evoking a sense of pride and care in classic car restoration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:46.700483",
+  "word_count": 182,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a5cee1a-3e9c-4e56-a119-26d27f6b6303.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands at the center of a vast, unfinished concrete structure, surrounded by tall, raw columns with exposed rebar jutting from their tops. The person is dressed in a surreal, avant-garde costume covered in dark, spiky protrusions, creating a striking silhouette that contrasts sharply with the stark, industrial environment. The ground is a smooth, pale gray expanse, echoing the cold, desaturated color palette of the scene. The lighting is diffuse and overcast, casting soft, shadowless illumination that enhances the sense of isolation and emptiness. The camera angle is high and slightly off-center, emphasizing the scale of the space and the smallness of the lone figure within it. The overall mood is haunting and enigmatic, with a minimalist, cinematic quality reminiscent of dystopian or conceptual art photography. The composition draws the viewer’s eye to the central figure, evoking a sense of alienation and surrealism amidst the unfinished architectural landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:40.234061",
+  "word_count": 150,
+  "error_message": null
+}

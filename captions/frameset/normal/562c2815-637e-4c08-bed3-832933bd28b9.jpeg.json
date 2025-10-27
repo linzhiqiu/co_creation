@@ -1,0 +1,12 @@
+{
+  "image_filename": "562c2815-637e-4c08-bed3-832933bd28b9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic close-up scene set in a dimly lit, industrial room. In the foreground, a middle-aged man sits restrained in a metal contraption, his head and neck immobilized by a heavy, mechanical collar bolted to a wooden frame. His mouth is tightly sealed with a wide strip of black tape, and his eyes are wide open, conveying fear and desperation. Behind him, partially obscured and out of focus, another man in a dark suit and white shirt leans in, his expression unreadable but intent on his task. The background is cluttered with industrial tools and equipment, bathed in muted green and brown tones that evoke a grim, suspenseful atmosphere. The lighting is low and moody, casting deep shadows and highlighting the sheen of sweat on the captive’s face. The camera angle is slightly low and close, intensifying the sense of claustrophobia and danger. The overall style is reminiscent of a psychological thriller or horror film, with a focus on tension, menace, and the vulnerability of the restrained subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:21.303291",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "425b7024-e8f9-4aef-9d89-1ca4bd070808.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tender black-and-white close-up of a father and young son reading together, their faces illuminated by soft natural light. The father leans in, engaged and gentle, while the boy smiles with delight. The background is softly blurred, emphasizing intimacy and warmth, evoking a timeless, cinematic feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:57.330084",
+  "word_count": 46,
+  "error_message": null
+}

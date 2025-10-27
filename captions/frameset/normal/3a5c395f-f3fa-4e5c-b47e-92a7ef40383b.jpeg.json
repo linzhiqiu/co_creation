@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a5c395f-f3fa-4e5c-b47e-92a7ef40383b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an intimate, cinematic scene set at a dimly lit party or social gathering. The focus is on a young woman with short dark hair, dressed in a white blouse, warmly embracing a man in a dark suit. She is smiling with genuine joy, her face softly illuminated by a warm, golden light that creates a gentle glow and highlights her expression. The background is filled with softly blurred figures, dressed in formal or semi-formal attire, engaged in conversation and dancing, but they remain indistinct, adding depth and a sense of lively atmosphere without drawing attention from the central embrace. The overall color palette is dominated by deep shadows and rich, warm tones, evoking a nostalgic, almost filmic quality. The lighting is low and moody, with selective highlights that sculpt the subjects and create a sense of intimacy and celebration. The composition uses a shallow depth of field to keep the focus on the embracing pair, while the rest of the scene fades into a soft, atmospheric blur. The camera angle is slightly off-center, at shoulder height, enhancing the candid, documentary feel of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:13.800337",
+  "word_count": 185,
+  "error_message": null
+}

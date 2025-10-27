@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f43e9a2-c5ca-4d2f-add9-02a3776142a5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, over-the-shoulder shot of a young man aiming a bright red toy gun in a dimly lit, futuristic indoor arena. The subject is positioned on the left side of the frame, his face partially visible in profile, wearing clear protective glasses and a casual gray shirt. The background is a spacious, industrial-style room with smooth concrete floors and dark, shadowy walls. Rectangular LED ceiling lights cast a cool, blue-toned glow, creating dramatic highlights and deep shadows throughout the space. In the distance, large windows or screens emit a soft, diffused light, adding depth and atmosphere. The focus is sharp on the subject and the toy gun, while the background is slightly blurred, emphasizing a shallow depth of field. The overall mood is tense and immersive, with a sense of anticipation and action, reminiscent of a high-stakes training simulation or a sci-fi film scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:04.649843",
+  "word_count": 145,
+  "error_message": null
+}

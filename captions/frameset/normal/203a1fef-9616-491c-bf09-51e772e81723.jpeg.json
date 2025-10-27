@@ -1,0 +1,12 @@
+{
+  "image_filename": "203a1fef-9616-491c-bf09-51e772e81723.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, shallow depth-of-field shot set in a softly lit elementary school classroom during an arts and crafts activity. The focus is on a young boy with dark hair and a gray sweater, sitting at a desk in the midground, his chin resting on his arms as he gazes forward with a pensive, slightly melancholic expression. Around him, other children are absorbed in their creative tasks, painting and handling paper cups, but their faces are blurred, emphasizing the boy’s sense of isolation or introspection. The desks are scattered with colorful construction paper, white paper cups with green leaf patterns, and art supplies, creating a subtle contrast against the muted, cool-toned color palette of the room. The background is softly out of focus, revealing classroom posters and shelves, contributing to the authentic school environment. The lighting is natural and diffused, streaming gently from the left, casting soft shadows and enhancing the contemplative mood. The composition uses a medium close-up with a slight angle, drawing the viewer’s attention to the boy’s emotional state while maintaining the context of a busy, yet emotionally distant, classroom scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:45.722954",
+  "word_count": 183,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "597ff6f3-1a7e-4c78-aa90-34a390d0e8fb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime portrait of a young woman with long, dark hair, gazing thoughtfully into the distance. She wears an off-the-shoulder white sweater, which softly catches the ambient light. The background is a blur of city lights and neon signs, rendered in vibrant purples, blues, and warm golden tones, creating a dreamy bokeh effect. The lighting is soft and diffused, casting gentle highlights on her face and hair, with subtle shadows adding depth and dimension. The composition is intimate, with the subject positioned slightly off-center and captured from a low, three-quarter angle, emphasizing her contemplative expression. The overall mood is serene and introspective, with a shallow depth of field that keeps the focus on the woman while the city lights form an abstract, colorful backdrop. The style is reminiscent of modern cinematic photography, blending urban energy with a sense of quiet reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:42.751124",
+  "word_count": 143,
+  "error_message": null
+}

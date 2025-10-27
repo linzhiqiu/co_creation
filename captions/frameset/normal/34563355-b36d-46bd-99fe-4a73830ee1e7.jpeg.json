@@ -1,0 +1,12 @@
+{
+  "image_filename": "34563355-b36d-46bd-99fe-4a73830ee1e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic portrait of a man standing in a dimly lit environment. The subject is partially turned toward the camera, his face mostly obscured by deep shadows, with only the faintest highlights outlining his features and hair. He wears a dark, textured coat, and his expression is subtle and enigmatic, almost unreadable due to the low light. The background is blurred and indistinct, contributing to the mysterious atmosphere. The color palette is dominated by dark, muted tones—deep greens, grays, and blacks—with minimal contrast, evoking a sense of suspense or introspection. The lighting is extremely low-key, with a single, soft light source barely illuminating the edge of the subject’s face, creating dramatic chiaroscuro. The composition is intimate, with a shallow depth of field and a close-up framing that draws the viewer into the subject’s quiet, contemplative presence. The overall style is reminiscent of a psychological thriller or noir film, emphasizing mood and ambiguity over clarity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:53.774821",
+  "word_count": 156,
+  "error_message": null
+}

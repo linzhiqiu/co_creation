@@ -1,0 +1,12 @@
+{
+  "image_filename": "1dd04ddd-d79a-423f-8e8a-0424cf5d7a9c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an intense, hyper-realistic black and white close-up portrait of a middle-aged man with a rugged, slightly unshaven face. The composition is tightly framed, focusing on the subject’s eyes, nose, and mouth, capturing every detail of his skin texture, stubble, and subtle facial lines. The man’s expression is serious and contemplative, with a direct, unwavering gaze that conveys depth and introspection. The lighting is soft and diffused, eliminating harsh shadows and highlighting the natural contours and pores of his face. The background is neutral and unobtrusive, ensuring all attention remains on the subject’s features. The overall style is cinematic and intimate, with a shallow depth of field that blurs the edges, drawing the viewer into the emotional intensity of the man’s eyes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:49.708506",
+  "word_count": 122,
+  "error_message": null
+}

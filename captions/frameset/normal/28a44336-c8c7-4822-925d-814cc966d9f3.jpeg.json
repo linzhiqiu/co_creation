@@ -1,0 +1,12 @@
+{
+  "image_filename": "28a44336-c8c7-4822-925d-814cc966d9f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-detailed, cinematic close-up of a person’s face, focusing on the eye area. The subject is wearing clear, protective safety glasses that dominate the frame, with the camera capturing the subtle curvature and reflections on the lens. In the reflection of the glasses, faint, intricate details of a computer screen or digital interface are visible, suggesting the person is intently working on or analyzing something technical. The lighting is soft and cool, creating a calm, focused atmosphere with gentle highlights on the skin and glasses. The background is blurred into a smooth gradient of muted blues and grays, emphasizing the subject’s concentration and the high-tech environment. The composition is tight and intimate, with a shallow depth of field that draws attention to the reflections and the subject’s intense gaze, evoking a sense of precision, intelligence, and modernity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:37.412732",
+  "word_count": 137,
+  "error_message": null
+}

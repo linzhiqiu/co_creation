@@ -1,0 +1,12 @@
+{
+  "image_filename": "39d7d455-3f48-4f40-8d9b-42e46c2f39d9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly stylized, cinematic image of a transparent glass petri dish placed precisely at the center of a surface divided into two bold, contrasting halves: the left side is a deep, saturated blue, and the right side is a rich, intense red. A crisp, white horizontal line runs through the middle of the scene, bisecting both the background and the petri dish, emphasizing symmetry and balance. The petri dish is filled with clear liquid, capturing subtle ripples and reflections, and is perfectly centered in the composition. The lighting is dramatic and focused, casting soft highlights and gentle shadows that accentuate the glass’s contours and the surface’s texture. The overall mood is scientific yet abstract, with a clean, modern aesthetic. The camera angle is directly overhead, creating a flat, graphic perspective with sharp focus and minimal depth of field, highlighting the interplay of color, geometry, and transparency.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:02.377486",
+  "word_count": 147,
+  "error_message": null
+}

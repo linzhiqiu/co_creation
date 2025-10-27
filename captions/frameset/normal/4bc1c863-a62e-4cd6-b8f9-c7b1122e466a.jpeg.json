@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bc1c863-a62e-4cd6-b8f9-c7b1122e466a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a realistic scene set at a lumber yard, featuring two adult men standing side by side in the foreground. The man on the left is rugged, with a full beard and visible tattoos on his arms, wearing a bright orange safety vest over a gray shirt and a red construction helmet. He is holding a blue clipboard or tablet, looking down at it with a focused expression. The man on the right is clean-shaven, dressed in a sharp navy blue business suit, white shirt, and tie, also wearing a red construction helmet. He is holding a large set of architectural blueprints, examining them intently. Both men are engaged in a serious discussion, collaborating on a project. The background is filled with large, stacked logs, suggesting an industrial or forestry setting, with lush green foliage visible beyond the logs. The lighting is natural daylight, casting soft, even illumination across the scene. The color palette emphasizes earthy browns, vibrant orange, deep blue, and the red of the helmets, with a touch of green from the trees. The composition is tight, focusing on the upper bodies and faces of the two men, capturing their professional interaction and the contrast between manual labor and business attire. The overall style is realistic and documentary-like, with a shallow depth of field that keeps the subjects sharp while gently blurring the background, evoking a sense of purposeful collaboration in an industrial environment.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:11.865171",
+  "word_count": 245,
+  "error_message": null
+}

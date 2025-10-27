@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c463658-5ada-4fa7-a330-93d650c4931a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, contemplative scene set inside a car driving down a quiet, rural road. The camera is positioned from the back seat, focusing on the rearview mirror, which prominently reflects the face of a young woman with blonde hair. Her expression is pensive and introspective, her eyes gazing forward with a hint of melancholy. The background outside the car window reveals a blurred, sunlit landscape of green fields and distant trees under a cloudy sky, evoking a sense of solitude and journey. The interior of the car is softly lit with natural daylight, creating gentle highlights and shadows on the dashboard and steering wheel, which is partially visible in the foreground. The color palette is muted and natural, dominated by soft greens, grays, and subtle earth tones, enhancing the reflective mood. The overall style is realistic with a shallow depth of field, keeping the focus on the woman's face in the mirror while the road and scenery outside remain slightly out of focus, adding to the sense of motion and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:46.043712",
+  "word_count": 171,
+  "error_message": null
+}

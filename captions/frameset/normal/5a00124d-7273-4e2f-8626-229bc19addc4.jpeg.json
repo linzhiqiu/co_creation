@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a00124d-7273-4e2f-8626-229bc19addc4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, moody street scene set in a small, old European village under overcast, rainy weather. The composition is from a low, slightly tilted angle, looking up at a man walking away from the camera toward a stone church with a bell tower. The man is dressed in a brown jacket and light-colored pants, carrying a metal canister in his right hand. The cobblestone street is wet, reflecting the cold blue-gray tones of the overcast sky. The stone buildings on either side are weathered, with rough textures and small windows, some with wooden shutters. Moss and greenery grow in the cracks of the stone steps leading up to the church. The lighting is diffuse and soft, with a cool, desaturated color palette that enhances the somber, mysterious atmosphere. The overall style is reminiscent of a European art film, with a sense of quiet tension and isolation, and a strong sense of place and mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:48.961189",
+  "word_count": 155,
+  "error_message": null
+}

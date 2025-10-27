@@ -1,0 +1,12 @@
+{
+  "image_filename": "56f6ac06-e399-4202-b14e-99c0b18c2b1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic shot of a sleek black luxury sedan speeding down a sunlit road. The camera is positioned low and close to the rear quarter of the car, capturing the motion blur of the spinning wheels and the smooth, reflective surface of the vehicle’s body. The sunlight casts warm highlights and soft shadows, emphasizing the car’s glossy finish and elegant curves. The taillights glow subtly red, and the dual chrome exhaust pipes add a touch of sophistication. The background is softly blurred, suggesting movement and speed, with hints of road markings and a sun-drenched urban environment. The overall color palette is warm and slightly desaturated, evoking a late afternoon or early evening ambiance. The composition focuses on the car’s rear, with a shallow depth of field and a sense of forward momentum, creating a stylish, high-end automotive advertisement aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:38.529257",
+  "word_count": 140,
+  "error_message": null
+}

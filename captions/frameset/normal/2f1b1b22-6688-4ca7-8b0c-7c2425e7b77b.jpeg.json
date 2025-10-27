@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f1b1b22-6688-4ca7-8b0c-7c2425e7b77b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit lecture hall filled with a large group of attentive students, all seated closely together and facing the front of the room. At the center, a charismatic male lecturer stands beside a large blackboard densely covered with complex mathematical equations, diagrams, and chalk illustrations. He gestures animatedly, engaging the audience, while a few assistants or students stand nearby, one of them holding a pointer. The lecturer is dressed in dark, modest clothing, and his expressive posture suggests deep involvement in the subject matter. The background features dark blue curtains and wooden-paneled walls adorned with additional diagrams and scientific posters, contributing to an academic, almost cinematic atmosphere. The color palette is muted and naturalistic, dominated by earthy browns, deep blues, and soft, diffused lighting that casts gentle shadows, creating a sense of intimacy and focus. The camera angle is slightly elevated and wide, capturing the entire scene and emphasizing the collective attention of the audience. The overall style is realistic with a subtle dramatic flair, reminiscent of a biographical or inspirational film set in a university or research institute.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:01.012566",
+  "word_count": 180,
+  "error_message": null
+}

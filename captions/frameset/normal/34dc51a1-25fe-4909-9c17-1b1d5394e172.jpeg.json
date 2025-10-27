@@ -1,0 +1,12 @@
+{
+  "image_filename": "34dc51a1-25fe-4909-9c17-1b1d5394e172.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands at the intersection of two immense, monolithic walls, dwarfed by the overwhelming scale of the architecture. The person, dressed in a long, dark coat, is positioned near the sharp edge where the two walls meet, their posture contemplative and slightly hunched, as if lost in thought or awe. The scene is rendered in stark black and white, with deep shadows and dramatic contrasts emphasizing the geometric forms and the texture of the concrete surfaces. The lighting is low and directional, casting elongated shadows and creating a sense of mystery and isolation. The composition is minimalist and cinematic, with the figure placed off-center to accentuate the vast emptiness and the monumental scale of the environment. The overall mood is somber, introspective, and surreal, evoking a sense of existential solitude. The camera angle is wide and slightly low, enhancing the towering presence of the walls and the insignificance of the lone human figure within the monumental space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:09.955106",
+  "word_count": 159,
+  "error_message": null
+}

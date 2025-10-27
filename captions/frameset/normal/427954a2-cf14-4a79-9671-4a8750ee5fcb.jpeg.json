@@ -1,0 +1,12 @@
+{
+  "image_filename": "427954a2-cf14-4a79-9671-4a8750ee5fcb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand holding a smartphone in the foreground, the phone encased in a bright green cover. The phone screen displays a translation app with a large blue search icon and Arabic text, along with the English phrase “Mail the checks.” The background is softly blurred, revealing the open hood of a red car in what appears to be a dimly lit garage or workshop. The lighting is moody and cinematic, with warm, ambient tones illuminating the car and cool shadows enveloping the rest of the scene. The composition uses a shallow depth of field to keep the focus on the phone and the hand, while the out-of-focus car and garage details add context and atmosphere. The overall style is modern and realistic, with a hint of documentary or indie film aesthetics, capturing a moment of problem-solving or communication in a practical, everyday setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:01.836124",
+  "word_count": 148,
+  "error_message": null
+}

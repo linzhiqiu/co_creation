@@ -1,0 +1,12 @@
+{
+  "image_filename": "20ef2289-a317-4dc4-9527-05b617fedd7b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wintry landscape bathed in cool blue tones, with soft, textured snow covering the ground. The main focus is the elongated, mysterious shadows of figures cast across the snow, suggesting movement and presence just out of frame. The lighting is diffuse, evoking a cold, tranquil, and slightly enigmatic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:52.298137",
+  "word_count": 49,
+  "error_message": null
+}

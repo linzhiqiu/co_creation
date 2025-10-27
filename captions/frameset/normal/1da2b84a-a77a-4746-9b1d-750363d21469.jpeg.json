@@ -1,0 +1,12 @@
+{
+  "image_filename": "1da2b84a-a77a-4746-9b1d-750363d21469.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of four adults sits closely together in a dimly lit room, arranged in a staggered row as if attending a press conference or seminar. The focus is on a bearded man in the center, wearing glasses, a white shirt, and a yellow lanyard, who is adjusting his glasses with a thoughtful expression. To his right, a woman with curly dark hair, dressed in a light blue blazer, holds a notepad and pen, appearing engaged and attentive. On the left, two men are partially visible: one in a dark shirt looking down and smiling, and another in a suit and tie, gazing forward with a neutral expression. The background is dark, with bright studio lights creating a dramatic, high-contrast atmosphere and subtle rim lighting on the subjects. The color palette is cool and subdued, dominated by blues, whites, and grays, with pops of yellow from the lanyard. The composition uses a shallow depth of field, keeping the central figures sharp while softly blurring the background, evoking a candid, documentary-style moment with a cinematic, intimate feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:48.486215",
+  "word_count": 176,
+  "error_message": null
+}

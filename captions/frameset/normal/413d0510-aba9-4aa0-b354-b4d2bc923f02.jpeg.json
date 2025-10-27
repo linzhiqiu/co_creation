@@ -1,0 +1,12 @@
+{
+  "image_filename": "413d0510-aba9-4aa0-b354-b4d2bc923f02.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic black-and-white photograph capturing a candid urban moment: In the foreground, a large soccer ball is frozen mid-air, slightly out of focus, dominating the left side of the frame and creating a sense of immediacy and motion. Behind the ball, a young person with dark skin and an afro hairstyle sits on a low concrete ledge, wearing a striped sports jersey, shorts, and white socks. Their posture is relaxed yet alert, as if they have just kicked or thrown the ball toward the camera. The background features a stark, modern apartment building with smooth, pale walls and rows of rectangular windows, some covered with blinds. Harsh sunlight casts deep, angular shadows across the scene, emphasizing the geometric lines of the architecture and the ledge. The overall composition uses a shallow depth of field, with the ball in the foreground blurred and the subject in sharper focus, creating a sense of depth and energy. The mood is raw and spontaneous, evoking the spirit of street sports and urban youth culture, with a cinematic, documentary-style realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:35.090002",
+  "word_count": 175,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c654d00-da74-4e7f-a4dd-69ea206f1ac5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA solitary figure walks along a modern, urban walkway beneath a large, angular steel overpass. The person, dressed in dark clothing with a long coat and white sneakers, is captured from an elevated, diagonal perspective, emphasizing the geometric lines and industrial architecture of the scene. The background features concrete surfaces, metal railings, and a faintly visible sign reading \"NYMSATA PARK\" painted on the ground. The color palette is cool and desaturated, dominated by shades of blue-gray and muted concrete tones, creating a calm, contemplative atmosphere. Soft, diffused daylight casts gentle shadows, enhancing the sense of depth and space. The overall style is cinematic and minimalist, with a strong focus on composition, leading lines, and the interplay between human presence and urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:27.426183",
+  "word_count": 123,
+  "error_message": null
+}

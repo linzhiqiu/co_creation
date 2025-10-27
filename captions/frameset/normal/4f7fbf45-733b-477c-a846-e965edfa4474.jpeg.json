@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f7fbf45-733b-477c-a846-e965edfa4474.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a plastic bottle filled with orange liquid, freshly taken from a refrigerator. The bottle is capped with a red lid and has visible condensation, suggesting it is cold. Affixed to the bottle is a yellow sticky note with bold, handwritten text in Spanish: \"CAMI ¡NO TOCAR!\" The background is softly blurred, revealing the dimly lit interior of a refrigerator with hints of other bottles and containers, creating a sense of depth and intimacy. The lighting is low and moody, casting gentle shadows and highlighting the texture of the condensation on the bottle. The color palette is dominated by cool, muted tones with pops of warm orange and yellow from the bottle and note, evoking a cinematic, almost secretive atmosphere. The composition centers the bottle and note, drawing the viewer’s attention to the message and the act of holding the drink, while the shallow depth of field isolates the subject from the background, enhancing the sense of focus and immediacy.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:45.116789",
+  "word_count": 166,
+  "error_message": null
+}

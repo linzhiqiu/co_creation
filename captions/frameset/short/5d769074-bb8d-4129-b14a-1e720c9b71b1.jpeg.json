@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d769074-bb8d-4129-b14a-1e720c9b71b1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A motorcyclist in a black helmet and brown jacket rides a sleek, modern Honda scooter through an industrial, glass-walled corridor. Dramatic, cinematic lighting casts sharp reflections and deep shadows, with cool blue and steel tones dominating the palette. The composition is symmetrical, evoking a tense, urban atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:06.911404",
+  "word_count": 47,
+  "error_message": null
+}

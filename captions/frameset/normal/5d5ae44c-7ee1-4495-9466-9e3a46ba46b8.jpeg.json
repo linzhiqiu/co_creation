@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d5ae44c-7ee1-4495-9466-9e3a46ba46b8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits in the center of the frame, captured in stark black and white. He wears a dark suit and tie, his shirt buttoned up, and his expression is tense, almost haunted, with wide, anxious eyes and furrowed brows. His hair is strikingly voluminous, styled in a wild, upward sweep that adds a surreal quality to his appearance. The background is minimal and shadowy, with heavy, dark curtains that recede into deep blacks, creating a sense of isolation and unease. The lighting is dramatic and high-contrast, casting sharp shadows that sculpt his features and emphasize the intensity of his gaze. The composition is tight, with the subject’s head and shoulders filling most of the frame, and the camera positioned at eye level for an intimate, confrontational effect. The overall style is reminiscent of classic film noir or early surrealist cinema, with a moody, unsettling atmosphere and a focus on psychological tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:09.300189",
+  "word_count": 153,
+  "error_message": null
+}

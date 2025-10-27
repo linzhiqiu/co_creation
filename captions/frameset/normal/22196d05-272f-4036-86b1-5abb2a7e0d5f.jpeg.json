@@ -1,0 +1,12 @@
+{
+  "image_filename": "22196d05-272f-4036-86b1-5abb2a7e0d5f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic science fiction scene featuring two characters standing face-to-face in intense, silent confrontation. Both are lit by a deep, monochromatic blue light that casts dramatic shadows and highlights their sharp facial features. The characters, a man and a woman, have pale complexions and blonde hair, styled neatly and slicked back, emphasizing their symmetry and seriousness. They wear dark, minimalist clothing that blends into the low-key, futuristic environment. The background consists of smooth, curved metallic panels, suggesting the interior of a spaceship or advanced laboratory. The camera is positioned at eye level, capturing the profiles of both characters in sharp focus, with a shallow depth of field that softly blurs the background. The overall mood is tense and enigmatic, with a cold, clinical atmosphere reminiscent of high-concept sci-fi films. The composition is balanced and symmetrical, drawing attention to the intense eye contact and emotional undercurrents between the two subjects.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:23.186721",
+  "word_count": 150,
+  "error_message": null
+}

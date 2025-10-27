@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e71de5f-4ff8-4a9e-a16d-d15eb2f695c2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A low-angle, cinematic shot taken from beneath a curved metal bench in an outdoor park setting. The camera is positioned at ground level, looking through the arch of the bench, creating a tunnel-like frame that draws the viewer’s eye toward the center of the image. In the distance, a small, white, round robot with a black top and a visible camera lens is moving along the wooden pathway, its design sleek and modern. The foreground features a blurred human hand reaching in from the left edge, suggesting motion and interaction, while the background is softly out of focus, revealing hints of greenery, park benches, and indistinct figures sitting or walking, all bathed in natural daylight. The color palette is muted and cool, with soft grays, whites, and subtle greens, evoking a calm, slightly overcast atmosphere. The overall style is realistic with a shallow depth of field, emphasizing the robot and the sense of perspective, while the lighting is diffuse and natural, enhancing the tranquil, observational mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:35.399434",
+  "word_count": 169,
+  "error_message": null
+}

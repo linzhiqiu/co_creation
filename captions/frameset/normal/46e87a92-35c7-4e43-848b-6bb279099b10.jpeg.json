@@ -1,0 +1,12 @@
+{
+  "image_filename": "46e87a92-35c7-4e43-848b-6bb279099b10.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a sprawling urban highway interchange, captured from directly overhead. The scene features multiple layers of curving overpasses and underpasses, with streams of cars in various colors—predominantly white, black, and red—moving along the roads. The intricate, looping design of the highways creates a dynamic, almost abstract pattern, emphasizing the complexity of modern city infrastructure. Lush green trees and patches of vegetation fill the spaces between the roads, providing a vivid contrast to the gray concrete and asphalt. The lighting is natural daylight, casting soft, diffuse shadows that enhance the depth and three-dimensionality of the scene. The overall color palette is a balanced mix of cool grays, muted greens, and occasional pops of color from the vehicles. The composition is symmetrical and meticulously framed, with a sharp focus and high level of detail, evoking a sense of organized chaos and urban energy. The image has a documentary, cinematic quality, reminiscent of drone photography used in contemporary cityscape studies.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:35.043912",
+  "word_count": 161,
+  "error_message": null
+}

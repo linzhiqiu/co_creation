@@ -1,0 +1,12 @@
+{
+  "image_filename": "121cdccd-3e9d-4e58-8310-23750cd53d4d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA young woman stands in a modern, urban setting, captured from a dramatic low-angle perspective that emphasizes her presence and the action she is performing. She is dressed in a vibrant cobalt blue jacket layered over a pale pink hoodie, with a small red crossbody purse slung at her side, adding pops of color to her outfit. Her hair is neatly pulled back, and her expression is focused and intent as she holds a sleek black smartphone toward a large, dark kiosk or ticket machine in the foreground. The background features a ceiling lined with parallel, multicolored fluorescent lights, casting a cool, slightly futuristic glow over the scene. The lighting is bright but diffused, highlighting the textures of her clothing and the reflective surfaces around her. The composition uses a shallow depth of field, keeping the woman and the machine in sharp focus while softly blurring the background, creating a sense of depth and immersion. The overall style is cinematic, with a dynamic, slightly wide-angle lens that enhances the sense of immediacy and urban energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:26.861497",
+  "word_count": 176,
+  "error_message": null
+}

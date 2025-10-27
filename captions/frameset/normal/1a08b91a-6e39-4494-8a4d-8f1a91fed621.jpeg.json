@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a08b91a-6e39-4494-8a4d-8f1a91fed621.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial photograph taken from directly overhead, capturing a winding residential road weaving through a lush, hilly neighborhood. The scene is composed of several large, modern houses with varied architectural styles, each surrounded by dense greenery and mature trees. Some homes feature turquoise-blue swimming pools, while others have red or gray rooftops, creating a patchwork of color and texture. The roads curve organically, following the natural contours of the landscape, and are bordered by both manicured gardens and wild, untamed vegetation. The lighting is soft and diffuse, suggesting an overcast day or early morning, with gentle shadows and a muted, natural color palette dominated by greens, browns, and earth tones. The overall style is cinematic and serene, with a sense of quiet affluence and seclusion, emphasizing the harmony between the built environment and the surrounding nature. The composition is balanced and detailed, with a slight vignette effect that draws the eye toward the center of the image, evoking the perspective of a drone or satellite camera.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:30.822769",
+  "word_count": 167,
+  "error_message": null
+}

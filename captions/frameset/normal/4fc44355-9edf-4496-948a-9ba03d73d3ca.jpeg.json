@@ -1,0 +1,12 @@
+{
+  "image_filename": "4fc44355-9edf-4496-948a-9ba03d73d3ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man sits at a cluttered workbench in a dimly lit garage or workshop, facing a sleek, futuristic white robot with a rounded head and glowing blue accents. The man wears safety glasses and a green work shirt, his expression one of fascination and delight as he interacts with the robot. The background is shadowy and industrial, with shelves, tools, and electronic components barely visible in the soft, moody lighting. The scene is composed with a shallow depth of field, focusing sharply on the man and the robot while the background blurs into darkness. The color palette is muted and cool, dominated by greens, grays, and the soft blue glow from the robot, creating a cinematic, intimate atmosphere that emphasizes the connection between human and machine. The camera angle is at eye level, capturing the moment as if the viewer is witnessing a private, groundbreaking exchange between inventor and creation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:49.379566",
+  "word_count": 151,
+  "error_message": null
+}

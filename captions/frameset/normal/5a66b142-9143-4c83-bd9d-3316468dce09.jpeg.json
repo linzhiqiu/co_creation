@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a66b142-9143-4c83-bd9d-3316468dce09.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, documentary-style scene set outdoors in bright daylight, featuring an elderly woman with short gray hair and glasses, wearing a sleeveless white top. She is leaning forward over a table, intently reading or examining a document in front of her, her expression focused and slightly serious. To her right, partially visible, stands another person in a vibrant red shirt, their posture suggesting engagement in the same activity. The background reveals a modern, sunlit building with large windows and a green sign, slightly out of focus to emphasize the subjects in the foreground. The color palette is natural and slightly muted, with soft shadows and a gentle, even lighting that conveys a warm, summery atmosphere. The composition uses a medium close-up angle, drawing attention to the woman’s concentration and the interaction between the two figures, while the shallow depth of field subtly blurs the background, enhancing the sense of immediacy and intimacy in the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:59.627680",
+  "word_count": 155,
+  "error_message": null
+}

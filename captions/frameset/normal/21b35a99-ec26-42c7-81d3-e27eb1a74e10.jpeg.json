@@ -1,0 +1,12 @@
+{
+  "image_filename": "21b35a99-ec26-42c7-81d3-e27eb1a74e10.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single figure, a man dressed in a dark blue jacket and black pants, is captured mid-stride as he runs across a grassy field. The scene is divided into a 4x3 grid, with the man appearing only in the left-center panel, creating a fragmented, almost cinematic effect that emphasizes motion and the passage of time. The background consists of a lush, green field that transitions into a dense, dark forest, providing a natural, serene setting. The color palette is dominated by muted greens and deep blues, with soft, diffused daylight lending a calm, overcast ambiance. The composition is minimalist, with the man’s dynamic pose contrasting against the stillness of the landscape. The camera angle is straight-on at eye level, and the depth of field is moderate, keeping both the runner and the background in clear focus. The overall style is reminiscent of contemporary art photography, with a conceptual, almost surreal quality created by the grid overlay and the isolated movement of the subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:13.414311",
+  "word_count": 163,
+  "error_message": null
+}

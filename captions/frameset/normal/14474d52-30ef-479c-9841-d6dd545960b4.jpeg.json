@@ -1,0 +1,12 @@
+{
+  "image_filename": "14474d52-30ef-479c-9841-d6dd545960b4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, vintage classroom scene set in the mid-20th century, viewed from the back of the room with a deep, one-point perspective. The classroom is filled with young boys seated at old wooden desks, their attention focused on a single adult male teacher standing at the front. The teacher, dressed in a dark suit, stands beside a large, worn map propped on an easel, with a chalkboard and a crucifix mounted on the wall behind him. The walls are aged and textured, adorned with faded educational maps, and tall windows on the left let in soft, natural light that casts gentle shadows across the room. The color palette is warm and muted, dominated by earthy browns, ochres, and sepia tones, evoking a nostalgic, historical atmosphere. The composition is symmetrical and balanced, with a cinematic, painterly quality, and a shallow depth of field that draws the viewer’s eye toward the teacher and the front of the classroom. The overall mood is contemplative and subdued, capturing a moment of quiet focus and discipline in an old-fashioned educational setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:16.751887",
+  "word_count": 177,
+  "error_message": null
+}

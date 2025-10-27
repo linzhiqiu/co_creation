@@ -1,0 +1,12 @@
+{
+  "image_filename": "368375fb-8929-4c7f-b304-3ea71db6b54f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a moody, cinematic scene in black and white, featuring the back view of a solitary figure, likely a young woman, seated or standing in front of a glowing television screen. The subject’s long hair cascades down her back, partially obscured by a loose, casual jacket. The television dominates the background, its bright, out-of-focus light casting a soft halo around the figure and illuminating the edges of her silhouette, while the rest of the room remains shrouded in deep shadow. The composition is intimate and contemplative, with the camera positioned directly behind the subject at head height, emphasizing her isolation and the quiet, introspective atmosphere. The overall style is reminiscent of classic film noir, with high contrast lighting, soft focus on the background, and a shallow depth of field that keeps the viewer’s attention on the interplay between light and darkness. The mood is pensive and slightly mysterious, evoking a sense of solitude and quiet reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:45.763447",
+  "word_count": 157,
+  "error_message": null
+}

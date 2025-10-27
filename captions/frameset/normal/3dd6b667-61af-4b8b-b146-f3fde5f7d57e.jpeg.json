@@ -1,0 +1,12 @@
+{
+  "image_filename": "3dd6b667-61af-4b8b-b146-f3fde5f7d57e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, black-and-white cityscape featuring a modern skyline with tall skyscrapers and geometric high-rise buildings. The composition should be symmetrical, with the city mirrored perfectly along the horizontal axis, so that the top and bottom halves reflect each other, creating an illusion of two cities facing each other. The central focus is on a prominent, pyramid-topped building, flanked by a variety of rectangular and cylindrical towers. The sky is overcast, rendered in soft grayscale tones, lending a moody, contemplative atmosphere. The lighting is diffuse and even, with no harsh shadows, emphasizing the architectural forms and the stark contrast between the buildings and the sky. The overall style is minimalist and cinematic, with a sharp depth of field that keeps all architectural details crisp and clear, evoking a sense of dreamlike urban abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:31.475204",
+  "word_count": 133,
+  "error_message": null
+}

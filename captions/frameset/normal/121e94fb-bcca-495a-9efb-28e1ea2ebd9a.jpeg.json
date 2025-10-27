@@ -1,0 +1,12 @@
+{
+  "image_filename": "121e94fb-bcca-495a-9efb-28e1ea2ebd9a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a person holding a tablet, viewed from over their shoulder. On the tablet screen, a live video of a young woman playing an electric guitar is visible, her face partially obscured by the angle and the glare of the screen. Overlaid on the video are three harsh, negative comments in bold text: “YOU SUCK!!!”, “THIS SOUNDS AWFUL”, and “MY EARS HURT!”. The background is softly blurred, suggesting a dimly lit, intimate indoor setting with cool blue and teal tones. Papers and a pair of headphones are scattered on the table beneath the tablet, hinting at a creative or practice environment. The lighting is moody and naturalistic, with soft highlights on the tablet and the subject’s hands, evoking a sense of vulnerability and isolation. The overall style is cinematic and realistic, with a focus on the emotional impact of online negativity and the personal experience of the subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:27.374756",
+  "word_count": 153,
+  "error_message": null
+}

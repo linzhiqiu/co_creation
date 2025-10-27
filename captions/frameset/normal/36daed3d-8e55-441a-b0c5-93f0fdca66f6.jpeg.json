@@ -1,0 +1,12 @@
+{
+  "image_filename": "36daed3d-8e55-441a-b0c5-93f0fdca66f6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, minimalist close-up image of a single water droplet falling into a perfectly still, clear pool of water. Capture the precise moment when the droplet has just impacted the surface, creating concentric ripples that radiate outward in smooth, even circles. Above the impact point, two additional droplets are suspended in mid-air, frozen in time, with a subtle golden tint that contrasts gently against the otherwise cool, monochromatic palette. The background is a seamless, soft white gradient, lending an ethereal, almost meditative quality to the scene. Use soft, diffuse lighting to eliminate harsh shadows and enhance the sense of purity and tranquility. The composition is centered and symmetrical, with a shallow depth of field that keeps the focus on the droplets and ripples, while the edges of the image gently blur into the background. The overall mood is serene, delicate, and contemplative, evoking a sense of calm and stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:56.138752",
+  "word_count": 150,
+  "error_message": null
+}

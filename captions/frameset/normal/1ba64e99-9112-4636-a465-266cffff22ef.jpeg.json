@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ba64e99-9112-4636-a465-266cffff22ef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, minimalist black-and-white photograph of a solitary woman standing barefoot in the center of a seamless, softly lit studio backdrop. The subject is positioned with her back to the camera, her long, unkempt hair cascading down her back, partially obscuring her face as she tilts her head to one side in a gesture of vulnerability or introspection. She wears a simple, loose-fitting, ankle-length dress that drapes naturally over her form, emphasizing a sense of quiet solitude. Her arms are crossed in front of her chest, as if hugging herself for comfort. The lighting is gentle and diffused, creating subtle gradients of gray and soft shadows that enhance the emotional atmosphere. The overall composition is sparse and uncluttered, with a shallow depth of field that keeps the focus on the figure while the background fades smoothly into a gentle vignette. The mood is contemplative, melancholic, and intimate, evoking a sense of isolation and inner reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:58.684688",
+  "word_count": 156,
+  "error_message": null
+}

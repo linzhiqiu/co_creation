@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f994567-1122-4e3a-b908-66140baab2fa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a human hand gently resting on a laptop trackpad, fingers slightly curved as if poised to click or scroll. The lighting is soft and warm, casting subtle highlights and shadows across the skin, creating a sense of intimacy and focus. The background is softly blurred with a shallow depth of field, emphasizing the hand and the edge of the laptop while abstracting the surroundings into a blend of muted browns and golds. The overall color palette is subdued and earthy, with hints of ambient light reflecting off the laptop surface. The composition is tight and intimate, capturing the quiet concentration of someone working or browsing in a calm, dimly lit environment. The mood is contemplative and introspective, with a cinematic quality reminiscent of a thoughtful drama or a late-night workspace scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:45.397331",
+  "word_count": 136,
+  "error_message": null
+}

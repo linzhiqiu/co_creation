@@ -1,0 +1,12 @@
+{
+  "image_filename": "5838f172-1bce-420e-a09b-97ceb472e99d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person playing an off-white electric guitar, focusing on the right hand strumming the strings and the detailed texture of the guitar’s body and fretboard. The subject’s hand is slightly blurred in motion, conveying the dynamic act of playing, while the guitar’s glossy surface reflects soft, natural light. The background is out of focus, drawing all attention to the instrument and the musician’s hand. The color palette is muted and cool, with creamy whites, subtle browns from the fretboard, and hints of metallic hardware. The lighting is gentle and diffused, creating soft shadows and a moody, intimate atmosphere. The composition is tight and cropped, emphasizing the tactile interaction between the musician and the instrument, with a shallow depth of field that enhances the sense of focus and immediacy. The overall style is reminiscent of a music documentary or an indie film, capturing the artistry and emotion of live performance in a visually striking, detailed manner.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:12.332661",
+  "word_count": 160,
+  "error_message": null
+}

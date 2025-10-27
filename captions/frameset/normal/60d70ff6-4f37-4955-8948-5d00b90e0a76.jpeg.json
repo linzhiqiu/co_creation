@@ -1,0 +1,12 @@
+{
+  "image_filename": "60d70ff6-4f37-4955-8948-5d00b90e0a76.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a car window at night, rain droplets glistening on the glass, illuminated by soft, moody street lighting. The main focus is a white paper sign taped to the inside of the window, with bold black French text reading “A VENDRE URGENT CAUSE DEPART PRIX A DEBATTRE TEL : HEURES DE BUREAU 01 42 96 78 15.” The background is dark and out of focus, with subtle hints of city lights and reflections, creating a cinematic, noir atmosphere. The color palette is subdued, dominated by deep blacks, muted grays, and the occasional warm glow from distant lights. The composition is intimate and slightly angled, emphasizing the urgency and personal nature of the message, while the rain and reflections add a sense of melancholy and transience. The overall style is reminiscent of European art-house cinema, with a shallow depth of field and a contemplative, almost voyeuristic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:35.410235",
+  "word_count": 149,
+  "error_message": null
+}

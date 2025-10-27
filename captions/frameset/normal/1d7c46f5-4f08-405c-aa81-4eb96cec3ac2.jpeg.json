@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d7c46f5-4f08-405c-aa81-4eb96cec3ac2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit bedroom scene viewed from a high, almost overhead angle, capturing a double bed with rumpled beige sheets and two pillows. The most striking element is the ethereal, glowing blue light that emanates from the center of the bed, casting an otherworldly illumination across the linens. Within this luminous area, the shadowy silhouette of a human figure is visible, lying supine and partially obscured by the intense glow, creating a ghostly, supernatural effect. The figure’s hand is outstretched, clutching the edge of the bed or a small object, adding a sense of tension and mystery. The surrounding room is shrouded in darkness, with only faint details of a nightstand and indistinct objects visible at the edge of the frame. The color palette is dominated by cool blues and muted earth tones, with the blue light providing a stark, cinematic contrast against the otherwise subdued environment. The overall style is moody and atmospheric, evoking a sense of suspense and the uncanny, reminiscent of supernatural or science fiction cinema.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:42.276864",
+  "word_count": 169,
+  "error_message": null
+}

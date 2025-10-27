@@ -1,0 +1,12 @@
+{
+  "image_filename": "45f176b8-a422-4b9d-832c-2a28de29a389.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial view of a modern cityscape, captured from directly overhead in the late afternoon. The composition centers on a large hospital rooftop with a prominent helipad marked by a white “H” and circular landing zone, surrounded by angular buildings with flat roofs and geometric patterns. The structures cast long, sharp-edged shadows, emphasizing the time of day and adding depth to the scene. The streets below curve around the buildings, filled with small, scattered vehicles and hints of urban activity. The color palette is dominated by cool blues and muted grays, contrasted with the warm, sunlit tones of the rooftop and subtle red accents. The lighting is crisp and natural, with high contrast between sunlit surfaces and deep shadows, evoking a cinematic, almost noir atmosphere. The overall style is realistic and highly detailed, with a sense of scale and urban density, reminiscent of a scene from a high-stakes thriller or a city documentary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:15.755802",
+  "word_count": 154,
+  "error_message": null
+}

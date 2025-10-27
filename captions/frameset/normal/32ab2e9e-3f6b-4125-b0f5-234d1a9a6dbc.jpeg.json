@@ -1,0 +1,12 @@
+{
+  "image_filename": "32ab2e9e-3f6b-4125-b0f5-234d1a9a6dbc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a portrait of a young woman with long, straight brown hair, parted in the middle and softly framing her face. She is wearing a textured, mustard yellow knit sweater that adds warmth and contrast to the scene. The woman is positioned centrally, facing the camera directly, with a gentle, natural smile and a relaxed, approachable expression. The background is a smooth, light gray gradient, free of distractions, which emphasizes the subject and creates a clean, modern aesthetic. The lighting is soft and even, illuminating her face without harsh shadows, giving the image a bright and inviting feel. The overall color palette is muted and harmonious, with the yellow sweater providing a pop of color against the neutral backdrop. The composition is simple and balanced, with a shallow depth of field that keeps the focus on the subject, evoking a sense of calm and authenticity. The style is reminiscent of contemporary portrait photography, with a minimalist, studio-like quality and a subtle cinematic touch.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:19.439640",
+  "word_count": 163,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "30cca257-a7eb-4c47-bb0d-7f5fbccd239b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, dreamlike scene featuring a silhouetted woman seen from a low, upward angle. She stands behind a translucent, softly draped fabric that diffuses the light, casting dramatic shadows and creating a sense of mystery and intimacy. The woman’s pose is expressive, with one hand pressed gently against the fabric, her head turned slightly, and her hair tied back in a loose ponytail. The lighting is ethereal, with beams of warm, diffused sunlight filtering through the fabric, creating a play of light and shadow across her form and the background. The color palette is muted and atmospheric, dominated by soft whites, pale blues, and gentle golden hues. The overall style is evocative of fine art photography or a moody arthouse film, with a shallow depth of field and a slight vignette around the edges, enhancing the sense of focus and intimacy. The mood is contemplative and enigmatic, inviting the viewer to wonder about the subject’s thoughts and emotions.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:40.521568",
+  "word_count": 160,
+  "error_message": null
+}

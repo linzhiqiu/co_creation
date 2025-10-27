@@ -1,0 +1,12 @@
+{
+  "image_filename": "3267c41c-d71e-425e-8f0a-a4d696edaad3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure sits hunched over a desk in the center of a narrow, dimly lit aisle between tall, densely packed bookshelves, deep within a shadowy archive or library. The person is illuminated only by a small, focused pool of warm light emanating from a desk lamp or reading light, which casts dramatic shadows and highlights the contours of their face and hands as they pore intently over a file or document. The surrounding shelves recede into darkness, their contents barely visible, creating a strong sense of depth and isolation. The overall color palette is muted and desaturated, dominated by deep blacks, grays, and subtle hints of yellowish light. The composition uses a central, symmetrical perspective, with the camera positioned at a low angle, looking directly down the aisle toward the subject, emphasizing the claustrophobic, secretive atmosphere. The lighting is stark and cinematic, evoking a mood of suspense, introspection, or clandestine research, reminiscent of a noir or thriller film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:17.753167",
+  "word_count": 159,
+  "error_message": null
+}

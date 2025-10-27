@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a29a032-13c7-4d9b-b959-2db322cf80e5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand interacting with a digital tablet in a dimly lit, modern interior. The tablet screen dominates the foreground, displaying a vibrant, glowing interface filled with cascading white numbers and financial data, all overlaid on a deep purple background. At the center of the screen is a prominent, bright pink button labeled “SELL,” which the person’s index finger is about to tap. The hand and part of the arm are visible, dressed in a dark, business-like sleeve, suggesting a professional or high-stakes environment. The background is softly blurred, with cool blue and teal tones, hinting at a spacious, contemporary office or trading floor. The lighting is moody and atmospheric, with the tablet’s screen casting a soft glow on the hand, creating a sense of urgency and focus. The overall style is sleek and modern, with a shallow depth of field and a slight cinematic vignette, emphasizing the tension and immediacy of a critical financial decision.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:09.136713",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c7583b1-bf37-4042-ac63-42422b236a44.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern black sedan is parked in front of a glass-walled, high-rise building at night. The scene is shot from a low angle, with the camera positioned at ground level, capturing the glossy, rain-soaked pavement in the foreground, which reflects the car and the building’s lights. The car is centered in the frame, its polished surface gleaming under the ambient city lights. Behind the car, a group of well-dressed people in dark suits and evening attire are gathered near the building’s entrance, engaged in conversation, their faces partially illuminated by the warm, golden glow from inside. The background features a grid of glass panels and metallic architectural elements, adding a sense of urban sophistication. The overall color palette is moody and cinematic, dominated by deep blacks, silvers, and subtle reflections of red and yellow lights. The lighting is soft but dramatic, with high contrast between the dark exterior and the inviting interior. The composition emphasizes luxury, exclusivity, and a sense of anticipation, reminiscent of a stylish neo-noir film or a high-end car commercial.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:31.297154",
+  "word_count": 174,
+  "error_message": null
+}

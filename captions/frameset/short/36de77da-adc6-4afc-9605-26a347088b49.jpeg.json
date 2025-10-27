@@ -1,0 +1,12 @@
+{
+  "image_filename": "36de77da-adc6-4afc-9605-26a347088b49.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern gas station at night, illuminated by bright white and green lights, with sleek cars parked at the pumps. The scene features a clean, urban setting with a dark sky, glowing signage, and a faint city skyline in the background. The atmosphere is calm, crisp, and contemporary.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:49.289651",
+  "word_count": 48,
+  "error_message": null
+}

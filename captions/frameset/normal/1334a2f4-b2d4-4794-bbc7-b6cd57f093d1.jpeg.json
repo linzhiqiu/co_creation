@@ -1,0 +1,12 @@
+{
+  "image_filename": "1334a2f4-b2d4-4794-bbc7-b6cd57f093d1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a young man holding a DSLR camera up to his face, preparing to take a photograph in a sun-dappled forest. The subject’s hands and camera dominate the foreground, with his face partially obscured by the camera body. He wears a casual, earth-toned outfit and a colorful woven bracelet on his wrist, adding a touch of personality and vibrancy. The background is softly blurred with a shallow depth of field, creating a dreamy bokeh effect of tall, vertical tree trunks and scattered sunlight filtering through the leaves. The color palette is natural and subdued, with warm skin tones, muted greens, and soft browns, while the lighting is gentle and diffused, evoking a peaceful, contemplative mood. The composition is intimate and immersive, with a slight upward camera angle that emphasizes the act of photography and the connection between the subject and his environment. The overall style is reminiscent of an indie film or nature documentary, capturing a quiet moment of creative focus in the wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:55.924681",
+  "word_count": 168,
+  "error_message": null
+}

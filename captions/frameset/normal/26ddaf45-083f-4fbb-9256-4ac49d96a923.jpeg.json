@@ -1,0 +1,12 @@
+{
+  "image_filename": "26ddaf45-083f-4fbb-9256-4ac49d96a923.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of an industrial doorway, focusing on the textures and materials. The left side of the frame features a rough, weathered concrete wall with vertical grooves, its pale gray surface catching soft, natural daylight. Adjacent to the concrete is a narrow strip of dark, slightly rusted metal, adding a sense of age and utilitarian character. Dominating the right half of the image is a sturdy metal door, painted in a muted gray-blue tone, with a prominent, slightly worn handle and visible bolts. The lighting is diffuse and even, suggesting an overcast day or shaded exterior, which enhances the tactile quality of the surfaces. The composition is tight and minimalistic, with a shallow depth of field that keeps the focus on the interplay of textures and the subtle contrast between the materials. The overall mood is quiet and contemplative, evoking a sense of urban solitude and understated industrial beauty.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:08.038261",
+  "word_count": 150,
+  "error_message": null
+}

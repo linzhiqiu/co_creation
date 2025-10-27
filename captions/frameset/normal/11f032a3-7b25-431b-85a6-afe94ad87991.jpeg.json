@@ -1,0 +1,12 @@
+{
+  "image_filename": "11f032a3-7b25-431b-85a6-afe94ad87991.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant yellow off-road SUV drives through a shallow, rocky river, sending up splashes of water around its tires. The vehicle is captured in profile, positioned slightly to the right of center, emphasizing its motion and rugged capability. The background features a serene, misty landscape of rolling hills and distant mountains, their slopes covered in dark, leafless trees that fade into the soft, bluish-gray haze of early morning or late afternoon. The sky is overcast, casting a cool, diffused light across the scene, which enhances the contrast between the bright yellow car and the subdued, natural tones of the environment. The overall color palette is dominated by cool blues and grays, with the SUV’s bold yellow providing a striking focal point. The composition uses a wide-angle perspective, with a shallow depth of field that keeps the vehicle sharp while gently blurring the distant background, creating a cinematic sense of depth and adventure. The mood is one of exploration and freedom, evoking the spirit of an off-road journey through untamed wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:23.540587",
+  "word_count": 170,
+  "error_message": null
+}

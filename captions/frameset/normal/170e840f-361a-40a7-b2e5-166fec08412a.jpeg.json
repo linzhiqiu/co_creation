@@ -1,0 +1,12 @@
+{
+  "image_filename": "170e840f-361a-40a7-b2e5-166fec08412a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime urban scene featuring an older model sedan parked on a wet street, wrapped almost entirely in translucent plastic sheeting. The car is positioned in profile, occupying the center of the frame, with the plastic clinging tightly to its contours and windows, creating a surreal, slightly unsettling effect. Inside the car, faint silhouettes of people are visible through the plastic, their features obscured, adding a sense of mystery and tension.\n\nThe background consists of industrial buildings with brick facades and metal shutters, interspersed with shipping containers and construction elements. In the distance, modern office buildings with illuminated windows rise against the night sky, their lights reflecting off the damp pavement. The overall color palette is dominated by cool blues and greens, punctuated by the warm yellow and white glow of city lights. The lighting is moody and atmospheric, with reflections on the wet ground and subtle highlights on the plastic wrap.\n\nThe composition uses a medium-wide shot at eye level, with a shallow depth of field that keeps the car in sharp focus while softly blurring the background. The mood is tense and cinematic, evoking a sense of urban isolation and intrigue, reminiscent of neo-noir or contemporary crime dramas.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:21.687146",
+  "word_count": 202,
+  "error_message": null
+}

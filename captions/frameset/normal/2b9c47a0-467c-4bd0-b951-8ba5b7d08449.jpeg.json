@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b9c47a0-467c-4bd0-b951-8ba5b7d08449.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, cinematic image featuring a vintage reel-to-reel tape recorder mounted on a smooth, seamless orange wall. The tape recorder is centered perfectly in the composition, with its metallic and plastic components rendered in soft, neutral tones—beige, cream, and muted silver—contrasting elegantly against the vibrant, saturated orange background. The lighting is even and diffused, casting gentle, almost imperceptible shadows that enhance the three-dimensionality of the device without introducing harsh contrasts. The overall style is clean and modern, with a retro-futuristic aesthetic reminiscent of mid-century design. The camera angle is straight-on, at eye level, with a shallow depth of field that keeps the entire tape recorder in sharp focus while the background remains a flawless, untextured expanse of color. The mood is nostalgic yet contemporary, evoking a sense of quiet contemplation and timeless design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:49.169365",
+  "word_count": 134,
+  "error_message": null
+}

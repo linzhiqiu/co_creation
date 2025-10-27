@@ -1,0 +1,12 @@
+{
+  "image_filename": "359f98d2-d24c-4d7d-b769-abc8adc42e64.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up of an open journal on a cozy, knitted beige blanket, handwritten bucket list titled \"Together Let's\" with doodles of hearts, a sun, a moon, and a seashell. Soft, warm lighting creates an intimate, nostalgic mood. A hand holding a pen points to the list, evoking personal reflection and gentle anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:23.611601",
+  "word_count": 51,
+  "error_message": null
+}

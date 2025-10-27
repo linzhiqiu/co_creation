@@ -1,0 +1,12 @@
+{
+  "image_filename": "358d8172-2348-49ce-89fc-0ffa1b8f04fa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in a dense, shadowy forest at night, reaching upward toward the trunk of a tall, imposing tree. The person is partially obscured by darkness, their form barely illuminated, suggesting a sense of mystery and vulnerability. The forest is thick with towering trees, their branches silhouetted against a backdrop of softly glowing, scattered points of light that resemble distant stars or fireflies, creating a dreamlike, ethereal atmosphere. The color palette is dominated by deep blacks and muted grays, with subtle highlights that gently outline the trees and the figure, evoking a moody, nocturnal ambiance. The lighting is minimal and naturalistic, as if lit only by the faint glow of the night sky. The composition uses a wide shot with a slightly low angle, emphasizing the scale of the trees and the smallness of the human presence. The overall style is cinematic and atmospheric, with a shallow depth of field that blurs the background, focusing attention on the interaction between the figure and the tree, and imbuing the scene with a sense of quiet wonder and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:26.054471",
+  "word_count": 179,
+  "error_message": null
+}

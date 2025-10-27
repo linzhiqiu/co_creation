@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f87db80-11a0-4fb5-883d-25e4d58e522a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A medium close-up shot of a man with medium brown skin and short curly hair, wearing a gray business suit, white shirt, and a red tie. His expression is one of mild exasperation or resignation, with raised eyebrows and a slight, closed-mouth frown. The most striking feature is that his face and upper body are covered with colorful sticky notes in shades of yellow, pink, and blue, some of which obscure his eyes and mouth. The background is a seamless, clean white, creating a high-key, minimalist look that draws all attention to the subject. The lighting is soft and even, eliminating harsh shadows and giving the scene a bright, almost clinical clarity. The camera is positioned at eye level, with a shallow depth of field that keeps the man and the sticky notes in sharp focus while the background remains unobtrusive. The overall mood is humorous yet relatable, evoking the chaos and overwhelm of office life. The composition is centered and symmetrical, emphasizing the subject’s predicament and the absurdity of the situation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:42.544768",
+  "word_count": 172,
+  "error_message": null
+}

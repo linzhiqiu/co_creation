@@ -1,0 +1,12 @@
+{
+  "image_filename": "400f99c5-d9a1-49f9-8b89-f8270dbc412b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-angle, overhead shot captures a cluttered workspace in moody black and white. At the center, a person’s hands type on a laptop keyboard, the screen displaying lines of code or technical text. To the right, a large white plate holds the remnants of a meal—scattered fries, a crumpled napkin, and scraps of food—suggesting a long work session. Below the plate, a smartphone lies face-up atop a notepad filled with sketches and handwritten notes, flanked by a pen and a stylus. The lighting is soft and diffused, casting gentle shadows and emphasizing the textures of the objects. The composition is tight and intimate, with a shallow depth of field that keeps the viewer’s focus on the hands, the laptop, and the surrounding mess, evoking a sense of late-night productivity and creative chaos. The monochrome palette enhances the cinematic, contemplative mood, reminiscent of a scene from a modern drama or a documentary about the life of a dedicated coder or designer.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:12.950660",
+  "word_count": 160,
+  "error_message": null
+}

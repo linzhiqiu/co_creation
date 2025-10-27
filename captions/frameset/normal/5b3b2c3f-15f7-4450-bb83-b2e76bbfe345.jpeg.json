@@ -1,0 +1,12 @@
+{
+  "image_filename": "5b3b2c3f-15f7-4450-bb83-b2e76bbfe345.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-shot of a young man with a short beard and glasses, seated at an office desk in a modern, open-plan workspace. He wears a rust-colored sweater over a collared shirt, and holds a smartphone in his right hand, looking slightly off-camera with a serious, contemplative expression. Behind him, a computer monitor displays a spreadsheet with yellow highlights, adding a sense of workplace activity. The background is softly out of focus, showing another person at a desk and the blurred outlines of office equipment, creating a sense of depth and a busy yet subdued atmosphere. The lighting is natural and diffused, suggesting daylight streaming in from windows outside the frame, with a warm, realistic color palette dominated by earth tones and soft blues. The composition uses a shallow depth of field to keep the main subject sharply in focus while the background remains gently blurred, evoking a cinematic, documentary-style realism. The overall mood is thoughtful and slightly tense, as if capturing a moment of reflection or decision-making in a professional environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:21.194000",
+  "word_count": 171,
+  "error_message": null
+}

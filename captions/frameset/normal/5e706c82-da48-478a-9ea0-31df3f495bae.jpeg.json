@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e706c82-da48-478a-9ea0-31df3f495bae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene overlooking a sprawling cityscape from a high vantage point. In the foreground, two figures sit on the hood of a car, their silhouettes dark and contemplative against the glowing expanse of city lights below. The city stretches out to the horizon, a sea of twinkling yellows, oranges, and whites, with the faint outline of skyscrapers visible in the distance. The sky is deep black, with no visible stars, emphasizing the artificial glow of the city. The overall color palette is dominated by dark shadows and the warm, diffused lights of the city, creating a sense of intimacy and quiet wonder. The composition is wide and panoramic, with the figures positioned off-center to the right, enhancing the feeling of vastness and solitude. The lighting is low-key, with the subjects rendered as near-silhouettes, and the focus is soft, lending a dreamy, contemplative mood reminiscent of classic coming-of-age or romantic films.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:32.480599",
+  "word_count": 154,
+  "error_message": null
+}

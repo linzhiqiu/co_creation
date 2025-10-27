@@ -1,0 +1,12 @@
+{
+  "image_filename": "355c736e-36a0-4cc8-bb8e-5fb2ebaea675.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-angle, slightly off-center shot captures a classroom filled with students taking an exam. The composition is geometric and orderly, with light wooden desks arranged in neat rows, each occupied by a single student. The students are focused, heads bent over their papers, pens in hand, conveying a sense of concentration and quiet intensity. Their clothing is casual and varied—striped shirts, denim, and simple tops—reflecting a diverse, contemporary student body. One student with braided hair stands out in the foreground, her posture intent as she writes. The background is softly blurred, emphasizing the foreground action and creating a shallow depth of field. The lighting is natural and diffused, casting soft shadows and lending a calm, studious atmosphere to the scene. The color palette is muted and neutral, dominated by beige desks, blue-gray carpet, and subtle earth tones in the students’ clothing. The overall style is documentary and realistic, with a slight cinematic quality due to the elevated perspective and careful composition, evoking the quiet tension and focus of an exam setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:22.497886",
+  "word_count": 171,
+  "error_message": null
+}

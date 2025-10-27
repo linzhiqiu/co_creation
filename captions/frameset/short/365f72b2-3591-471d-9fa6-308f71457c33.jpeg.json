@@ -1,0 +1,12 @@
+{
+  "image_filename": "365f72b2-3591-471d-9fa6-308f71457c33.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit urban street in Japan, featuring a cyclist crossing a zebra-striped intersection, pedestrians strolling along the sidewalks, and a mix of orange and white buildings with signage. The scene is shot at street level with natural daylight, muted colors, and a cinematic, documentary-style realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:39.814944",
+  "word_count": 45,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "61a338e8-c4ca-4411-9f8f-87110c8e8b9e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tightly framed, overhead close-up of a cluster of billiard balls, arranged in a compact group on a pool table. The central focus is on the deep purple 4-ball, its glossy surface reflecting soft, diffused light, with the number \"4\" clearly visible in a white circle. Surrounding the 4-ball are other vividly colored balls, including the yellow 9-ball, the orange 5-ball, and the red 3-ball, each with crisp white number circles. The color palette is rich and saturated, with bold primary and secondary hues standing out against the dark green felt background. The lighting is gentle and even, creating subtle highlights and soft shadows that emphasize the spherical forms and smooth textures of the balls. The composition is intimate and immersive, with a shallow depth of field that keeps the focus sharp on the central balls while softly blurring the edges, evoking a cinematic, almost tactile quality. The overall mood is vibrant and anticipatory, capturing the moment just before the break in a game of pool.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:00.031049",
+  "word_count": 166,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f0dc50a-a284-4dd9-86f5-3c06de4e1640.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody seascape featuring powerful ocean waves crashing dramatically against jagged, dark volcanic rocks in the foreground. The scene is devoid of human presence, focusing entirely on the raw energy of nature. The color palette is dominated by cool, desaturated tones—muted blues, soft grays, and deep charcoal blacks—evoking a sense of overcast weather and misty air. The lighting is diffuse and natural, with no direct sunlight, enhancing the somber, atmospheric mood. The composition is wide and slightly low-angled, emphasizing the scale and force of the waves as they explode into white spray, frozen mid-motion with fine detail in the water droplets. The background is a seamless, foggy sky that blends into the horizon, creating a sense of isolation and vastness. The overall style is reminiscent of minimalist landscape photography or a contemplative film still, with a focus on texture, movement, and the sublime power of the sea.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:52.496990",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5de01ec3-eb20-4c9a-9f20-3b4e1616a934.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking, high-resolution image of a distant galaxy viewed from deep space, rendered in dramatic black and white. The composition centers on a luminous galactic core, radiating intense white light that gradually diffuses into swirling clouds of cosmic dust and gas, forming a striking diagonal band across the frame. Countless stars, varying in brightness, are scattered throughout the vast darkness, creating a sense of infinite depth and scale. The background is a velvety black, punctuated by subtle nebulae and faint, distant galaxies, enhancing the sense of cosmic isolation. The overall style is cinematic and awe-inspiring, with a sharp focus on the galactic plane and a soft, ethereal glow around the brightest regions. The lighting is stark and high-contrast, emphasizing the interplay between light and shadow, while the monochrome palette lends the scene a timeless, otherworldly quality. The camera angle is wide and slightly tilted, capturing the grandeur and mystery of the universe in a single, evocative frame.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:18.680036",
+  "word_count": 157,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f3dc12b-8480-472c-a740-14fed18a0333.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set in a nearly empty parking lot at dusk, under a dramatic, cloud-filled sky with deep blue and gray tones. Two people, a man and a woman, are walking together toward a silver car parked in the foreground. Both are bundled in winter clothing: the man wears a dark parka with a fur-lined hood and light-colored pants, while the woman is dressed in a tan coat with white trim, a knit hat, and gloves. They each carry multiple colorful shopping bags, suggesting a day of holiday shopping. The pair share a warm, genuine smile, looking at each other with a sense of camaraderie and contentment. The wet pavement reflects the soft, golden glow of distant parking lot lights, adding a subtle warmth to the otherwise cool color palette. The composition uses a shallow depth of field, focusing on the subjects while the background trees and sky blur slightly, enhancing the sense of intimacy and isolation. The overall mood is cozy and cinematic, evoking the quiet joy of shared moments during the winter season.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:05.175148",
+  "word_count": 176,
+  "error_message": null
+}

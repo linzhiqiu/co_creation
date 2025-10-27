@@ -1,0 +1,12 @@
+{
+  "image_filename": "541cf492-4ce3-4a97-8fa7-706bacc67481.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a large whiteboard or wall-mounted map, softly lit with cool, natural light that creates a subdued, contemplative atmosphere. The focal point is a cluster of colorful push pins—red, yellow, blue, and green—arranged in a rough circle and encircled with a hand-drawn blue marker line. The hand of a person, partially visible in the upper right, is in the act of writing or drawing on the board, suggesting active investigation or analysis. Faint, intricate lines and numbers are visible across the surface, hinting at a complex map or chart, while a small yellow sticky note is attached nearby, adding a touch of realism and informality. The composition is tight and intimate, with a shallow depth of field that blurs the background, focusing attention on the pins and the hand. The overall style is cinematic and slightly desaturated, evoking a sense of mystery, strategy, or scientific inquiry, as if capturing a pivotal moment in a detective story or science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:26.977467",
+  "word_count": 163,
+  "error_message": null
+}

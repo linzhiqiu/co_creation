@@ -1,0 +1,12 @@
+{
+  "image_filename": "61678835-5ec3-4fea-b89f-287735bdd45f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt to generate this image:\n\n\"Interior of a modern car, shot from the front passenger seat looking towards the back. Two adults, a man and a woman, are seated in the back row, facing each other in conversation. The man, on the left, has short brown hair and wears a navy blue quilted jacket over a collared shirt, his expression attentive and slightly serious as he looks at the woman. The woman, on the right, has light hair and wears glasses, a pale lavender cardigan, and a teal top, smiling gently as she listens. The car seats are dark with subtle patterns, and the seatbelt hangs unused between them. Sunlight streams in from the windows, casting soft, natural light and creating a calm, candid atmosphere. The background outside the car is slightly blurred, showing a parking lot and greenery, emphasizing the focus on the two subjects. The color palette is muted and realistic, with cool and neutral tones dominating. The composition is balanced, with both figures occupying equal space, and the camera angle is eye-level, enhancing the sense of intimacy and realism in the scene.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:53.515695",
+  "word_count": 188,
+  "error_message": null
+}

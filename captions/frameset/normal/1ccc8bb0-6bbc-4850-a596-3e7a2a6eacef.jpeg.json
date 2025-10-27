@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ccc8bb0-6bbc-4850-a596-3e7a2a6eacef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A warmly lit, modern coffee shop interior with exposed brick walls and large windows letting in natural daylight. In the foreground, a smiling female barista with dark hair tied back, wearing a blue apron over a light shirt, stands behind the counter. She is handing a blue takeaway coffee cup to a male customer. The customer is dressed in a yellow construction safety vest, a plaid shirt, and a yellow hard hat, and is in the act of paying with a blue credit card. The countertop features a small potted plant and a brown paper bag, suggesting a to-go order. The background includes shelves with coffee bags, a display case, and various café equipment, all contributing to a cozy, bustling atmosphere. The color palette is warm and inviting, with earthy tones from the brick and wood, contrasted by the bright yellow of the safety vest and hard hat. The composition is candid and natural, with a shallow depth of field that keeps the focus on the interaction between the barista and the customer, evoking a sense of everyday friendliness and community.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:28.741099",
+  "word_count": 181,
+  "error_message": null
+}

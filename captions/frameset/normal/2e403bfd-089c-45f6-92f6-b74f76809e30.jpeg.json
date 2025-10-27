@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e403bfd-089c-45f6-92f6-b74f76809e30.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A simple, realistic scene featuring a round wall clock mounted on a textured, off-white plaster wall. The clock has a clean, white face with bold black Arabic numerals and black hour and minute hands, along with a thin red second hand. The time displayed is approximately 7:40:15. The clock’s frame is a soft, translucent white plastic, subtly diffusing the ambient light. The lighting is even and natural, with no harsh shadows, suggesting a softly lit indoor environment, possibly illuminated by daylight or gentle overhead lighting. The camera angle is slightly low and off-center, looking up at the clock from the right, creating a sense of depth and perspective. The overall color palette is muted and neutral, dominated by whites and creams, with the black and red hands providing minimal but effective contrast. The composition is straightforward and uncluttered, focusing attention solely on the clock and the subtle texture of the wall, evoking a quiet, everyday atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:43.290131",
+  "word_count": 156,
+  "error_message": null
+}

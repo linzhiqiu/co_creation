@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a223c6c-0fe8-4543-b78b-3cdbc2bc7bb6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a vibrant, contemporary outdoor portrait of a young man standing confidently in the foreground. He wears a large, whimsical sunhat with a wide brim, crocheted in white with a yellow edge, which casts a soft shadow over his face. His expression is calm and approachable, with a gentle smile and direct eye contact through round, brown-rimmed glasses. He has a neatly groomed beard and mustache, and his dark hair is just visible beneath the hat. He is dressed casually in a white t-shirt with a red collar, evoking a relaxed, summery vibe.\n\nThe background is softly out of focus, suggesting a lively social gathering or festival, with blurred figures and colorful decorations, including hints of purple and yellow shapes that add a playful, celebratory atmosphere. The setting appears to be in front of a modern building with large windows and balconies, where people are mingling. The color palette is warm and inviting, with natural daylight illuminating the scene, creating a gentle, cinematic glow. The composition uses a shallow depth of field to keep the subject crisp and detailed while the background remains dreamy and atmospheric, emphasizing the joyful, carefree mood of a summer event.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:10.454351",
+  "word_count": 195,
+  "error_message": null
+}

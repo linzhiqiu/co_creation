@@ -1,0 +1,12 @@
+{
+  "image_filename": "4a556b6c-b0e1-46b8-9791-aa7b06b4f13e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic close-up of a camera lens, filling the frame with the circular glass element. The focus is on the reflective surface of the lens, capturing subtle, abstract reflections of light and color—hints of red, blue, and white—suggesting the presence of objects or movement just outside the frame. The reflections are sharp and angular, almost geometric, adding a sense of intrigue and depth. The overall color palette is dark and moody, dominated by deep blacks and muted grays, with the colored reflections providing striking contrast. The lighting is low-key, emphasizing the glossy, almost liquid quality of the lens surface, and creating a sense of mystery. The composition is tight and intimate, with a shallow depth of field that blurs the outer edges, drawing the viewer’s eye to the center of the lens and its enigmatic reflections. The style is cinematic and atmospheric, evoking a sense of suspense and anticipation, as if the viewer is about to witness a pivotal moment through the eye of the camera.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:41.953462",
+  "word_count": 167,
+  "error_message": null
+}

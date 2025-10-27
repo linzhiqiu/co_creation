@@ -1,0 +1,12 @@
+{
+  "image_filename": "1813e54c-45a3-44fc-8fd9-ddc40ab12784.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, close-up macro shot of a dark blue printed circuit board (PCB), centered on a large metallic circular hole surrounded by evenly spaced small holes, evoking a sense of precision engineering. The circuit traces radiate outward in intricate, geometric patterns, highlighted by subtle reflections and a cool, desaturated color palette dominated by deep blues, silvers, and hints of teal. White alphanumeric codes and component labels are crisply printed on the board, adding a technical, futuristic feel. The lighting is soft and diffused, creating gentle shadows that emphasize the depth and texture of the board’s surface. The composition is symmetrical and tightly framed, with a shallow depth of field that blurs the edges, drawing the viewer’s eye to the central metallic ring. The overall style is hyper-realistic and cinematic, reminiscent of high-tech science fiction films, with a focus on clarity, detail, and the beauty of modern technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:43.403678",
+  "word_count": 148,
+  "error_message": null
+}

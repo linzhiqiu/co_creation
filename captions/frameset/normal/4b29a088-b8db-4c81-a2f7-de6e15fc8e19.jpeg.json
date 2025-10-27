@@ -1,0 +1,12 @@
+{
+  "image_filename": "4b29a088-b8db-4c81-a2f7-de6e15fc8e19.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, high-angle shot of a dimly lit film studio set, captured with a warm, sepia-toned color palette that evokes a nostalgic, almost dreamlike atmosphere. The scene is dominated by an array of filmmaking equipment: large camera cranes, tripods, lighting rigs, and ladders are scattered across the concrete floor, their elongated shadows stretching dramatically under the intense, focused beams of studio lights. Two silhouetted crew members stand near the center, engaged in conversation or collaboration, their forms partially illuminated by the golden light, adding a sense of scale and human presence to the otherwise industrial environment. The background fades into darkness, emphasizing the pool of light at the center and creating a strong contrast that draws the viewer’s eye to the activity and machinery. The overall composition is carefully balanced, with a sense of organized chaos typical of a behind-the-scenes movie set. The lighting is low-key and directional, casting deep shadows and highlighting the textures of the equipment. The mood is contemplative and quietly energetic, capturing the anticipation and artistry of filmmaking in progress.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:55.618477",
+  "word_count": 174,
+  "error_message": null
+}

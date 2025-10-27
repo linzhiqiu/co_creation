@@ -1,0 +1,12 @@
+{
+  "image_filename": "38affe8d-ced6-4de5-9eca-a01b126365a1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, wide-angle landscape shot of a rugged mountain range in winter, with steep, jagged cliffs partially covered in snow. The mountain’s rocky faces are layered with horizontal striations, and the snow clings to ledges and crevices, emphasizing the texture and contours of the stone. The lower slopes are dusted with a thin layer of snow, revealing dark patches of exposed rock and sparse, leafless trees. The sky above is overcast, filled with thick, gray clouds that diffuse the light, casting a cold, muted tone over the scene. The color palette is dominated by cool grays, whites, and subtle blue undertones, creating a stark, almost monochromatic atmosphere. The overall style is realistic and cinematic, with a sense of scale and grandeur, and a slightly subdued, moody ambiance. The composition is balanced, with the mountain occupying the upper two-thirds of the frame and the sky looming above, evoking a sense of isolation and natural majesty.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:38.214986",
+  "word_count": 154,
+  "error_message": null
+}

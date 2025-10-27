@@ -1,0 +1,12 @@
+{
+  "image_filename": "35db1512-c224-42c6-b91d-cccc6ede5a9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, minimalist scene featuring a sleek, open laptop placed horizontally atop a skateboard, as if the laptop is riding the skateboard. The laptop screen displays an online store page for a t-shirt, with a large product photo of a man in a turquoise shirt and red beanie, and clear text showing the product name and price. The skateboard is classic with a black grip tape surface and visible wheels, positioned on a smooth, light gray concrete floor that suggests an urban or studio environment. The lighting is soft and natural, casting gentle shadows and highlighting the textures of both the laptop and skateboard. The color palette is cool and neutral, dominated by grays, blacks, and the subtle blue tones from the laptop screen, with a pop of color from the t-shirt image. The composition is clean and centered, with a shallow depth of field that keeps the focus on the laptop and skateboard, while the background remains softly blurred. The overall style is contemporary and slightly playful, blending elements of technology and street culture in a visually striking, commercial-inspired setup.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:34.529475",
+  "word_count": 181,
+  "error_message": null
+}

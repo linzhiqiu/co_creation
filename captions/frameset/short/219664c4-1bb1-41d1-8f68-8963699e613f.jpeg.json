@@ -1,0 +1,12 @@
+{
+  "image_filename": "219664c4-1bb1-41d1-8f68-8963699e613f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white close-up of a hand holding an old photograph of a young man in a buttoned shirt and tie, standing in front of a porch. The background is softly blurred, creating a nostalgic, noir atmosphere with high contrast lighting and shallow depth of field, evoking mystery and memory.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:06.252569",
+  "word_count": 49,
+  "error_message": null
+}

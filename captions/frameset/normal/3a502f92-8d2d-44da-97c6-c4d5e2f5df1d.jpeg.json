@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a502f92-8d2d-44da-97c6-c4d5e2f5df1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with shoulder-length hair and glasses is intently writing at a desk in a dimly lit room. He is dressed in a dark sweater, and his posture is hunched forward in deep concentration, with his face illuminated by a soft, cool-toned light. Behind him, a bright beam from a film projector cuts through a hazy atmosphere, casting a dramatic shaft of light across the scene and creating a cinematic, almost nostalgic mood. The background is out of focus, emphasizing the subject and the act of writing. The color palette is subdued, dominated by cool blues and muted earth tones, with gentle contrasts between the warm highlights on the subject’s skin and the cold, bluish ambient light. The composition is intimate and low-angled, with a shallow depth of field that blurs the foreground and background, drawing attention to the young man’s focused expression and the movement of his hand. The overall style is reminiscent of an art-house film, evoking a sense of introspection and creative solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:14.165536",
+  "word_count": 167,
+  "error_message": null
+}

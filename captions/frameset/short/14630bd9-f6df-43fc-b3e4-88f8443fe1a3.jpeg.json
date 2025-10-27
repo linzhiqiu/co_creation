@@ -1,0 +1,12 @@
+{
+  "image_filename": "14630bd9-f6df-43fc-b3e4-88f8443fe1a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense police interrogation room, dimly lit with cool, muted tones. In the foreground, a man in a dark suit and tie sits stoically, his expression unreadable. Behind him, through a reflective glass, another man in casual sportswear is visible, his image slightly blurred, evoking suspense and psychological drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:17.433715",
+  "word_count": 49,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f7bea53-6c17-4c70-87fa-09101d20ba87.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial view of a rugged, arid landscape, rendered in high-contrast black and white. The terrain is marked by undulating hills and deep, eroded gullies, their contours sharply defined by the interplay of light and shadow. Sparse vegetation punctuates the scene—most notably, a solitary, dark tree casting a long, distinct shadow across the sun-bleached earth, with a few smaller bushes scattered in the distance. The surface of the land is textured, with striations and ridges that emphasize the harsh, weathered nature of the environment. The composition is minimalist and abstract, with the organic forms of the hills and the stark silhouette of the tree creating a sense of isolation and timelessness. The lighting is natural and directional, likely from a high midday sun, accentuating the relief and depth of the landscape. The overall mood is stark, contemplative, and cinematic, evoking the visual language of classic black-and-white photography or a wide-angle establishing shot in an art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:46.133420",
+  "word_count": 157,
+  "error_message": null
+}

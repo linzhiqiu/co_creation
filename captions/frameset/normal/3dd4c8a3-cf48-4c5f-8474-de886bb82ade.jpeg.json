@@ -1,0 +1,12 @@
+{
+  "image_filename": "3dd4c8a3-cf48-4c5f-8474-de886bb82ade.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern computer monitor displaying a business dashboard interface, with a focus on the screen’s content. The interface features a clean, light blue and white color palette, with rounded rectangular panels and soft gradients, evoking a sleek, contemporary tech aesthetic. On the left side of the screen, there is a vertical list of email addresses, each in its own cell, with subtle alternating background shades for clarity. The top of the interface includes navigation tabs labeled “Buyer,” “Graph,” “Pending,” “Help,” “Edit,” “Display,” and “Log Out,” with a circular user icon labeled “CM” in the upper right corner. The main section of the screen displays two data visualizations: an upper chart with a dramatic spike in a line graph, and a lower section with two horizontal bar graphs. The background is softly blurred, with hints of a warm, softly lit office environment and a large blue screen or window, creating a shallow depth of field that keeps the viewer’s attention on the monitor. The lighting is natural and slightly warm, suggesting daylight filtering into the workspace. The overall composition is cinematic, with a slight tilt to the monitor and a sense of immediacy, as if the viewer is peering over someone’s shoulder in a high-stakes business or tech setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:33.247520",
+  "word_count": 212,
+  "error_message": null
+}

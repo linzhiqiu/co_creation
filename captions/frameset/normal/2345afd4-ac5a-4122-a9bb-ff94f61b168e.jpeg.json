@@ -1,0 +1,12 @@
+{
+  "image_filename": "2345afd4-ac5a-4122-a9bb-ff94f61b168e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands inserting a VHS tape into a vintage VCR, with an old CRT television above displaying static. The person wears a teal-green sweatshirt, their hands poised delicately over the VCR’s buttons, suggesting anticipation or nostalgia. The VHS tape has a handwritten label, adding a personal, retro touch. The scene is warmly lit with soft, golden ambient light, casting gentle shadows and evoking a cozy, intimate atmosphere. The background is softly blurred, focusing attention on the hands, the VCR, and the TV screen. The color palette features muted earth tones, teal, and warm highlights, enhancing the vintage 1980s or 1990s aesthetic. The composition is tight and immersive, with a shallow depth of field and a slightly low camera angle, emphasizing the tactile interaction with the analog technology and the evocative mood of revisiting old memories.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:49.727673",
+  "word_count": 141,
+  "error_message": null
+}

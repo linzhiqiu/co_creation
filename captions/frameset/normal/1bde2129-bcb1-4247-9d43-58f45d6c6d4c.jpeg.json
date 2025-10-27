@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bde2129-bcb1-4247-9d43-58f45d6c6d4c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, chaotic pile of discarded electronic devices dominates the foreground, forming a jagged mound of outdated technology. The heap includes old televisions, computer monitors, radios, vacuum cleaners, and various other appliances, all stacked haphazardly, their screens cracked and surfaces worn. The color palette is muted and desaturated, with shades of gray, off-white, and faded blue, evoking a sense of decay and obsolescence. The lighting is natural but overcast, casting a soft, diffused glow that enhances the somber, melancholic mood. In the background, the remnants of an industrial structure—weathered concrete pillars and rusted metal—frame the scene, suggesting an abandoned or forgotten urban environment. The composition is tight and immersive, with a shallow depth of field that keeps the viewer’s focus on the intricate details and textures of the electronic waste. The overall style is cinematic, reminiscent of a post-apocalyptic or dystopian film, with a documentary realism that emphasizes the environmental impact and passage of time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:05.107806",
+  "word_count": 155,
+  "error_message": null
+}

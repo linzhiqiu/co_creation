@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d7bc488-b8b5-4b46-a291-4b9092ceaf0a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits hunched over in a claustrophobic, geometric room constructed from rough, textured blue-gray blocks. The scene is viewed from a high, almost surveillance-like angle, emphasizing the confined, maze-like environment. The man wears a muted blue suit and round glasses, his hair slightly disheveled, and his expression is tense and focused as he types on a flat, rectangular slab that resembles a keyboard but is made of the same material as the surrounding blocks. His hands are poised in a nervous, almost desperate gesture. The only source of light is a stark, rectangular beam illuminating the workspace from below, casting dramatic shadows and heightening the sense of isolation. The color palette is dominated by cold blues and grays, creating a somber, surreal atmosphere. The overall style is reminiscent of a dystopian or existential film, with a shallow depth of field that blurs the edges of the frame, drawing attention to the man’s anxious posture and the oppressive architecture around him.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:11.113325",
+  "word_count": 162,
+  "error_message": null
+}

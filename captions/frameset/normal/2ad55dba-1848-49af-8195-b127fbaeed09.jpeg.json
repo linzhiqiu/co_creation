@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ad55dba-1848-49af-8195-b127fbaeed09.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, high-contrast image featuring the soft, out-of-focus shadow of a solitary human figure projected onto a smooth, white background. The figure is only partially visible, with indistinct edges and no discernible facial features, evoking a sense of mystery and anonymity. The composition is dominated by negative space, with the shadow positioned off-center, slightly to the right and lower half of the frame. The lighting is bright and diffuse, creating a gentle gradient from the center outward, and the overall color palette is monochromatic, emphasizing shades of white, gray, and black. The mood is ethereal and contemplative, with a dreamlike, abstract quality reminiscent of fine art photography or experimental cinema. The camera angle is straight-on, and the depth of field is shallow, ensuring the shadow remains soft and blurred, enhancing the sense of ambiguity and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:32.771554",
+  "word_count": 137,
+  "error_message": null
+}

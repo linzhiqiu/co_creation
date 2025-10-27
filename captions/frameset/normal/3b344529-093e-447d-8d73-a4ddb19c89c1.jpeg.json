@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b344529-093e-447d-8d73-a4ddb19c89c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a striking, minimalist scene set in a long, narrow, futuristic corridor. The walls, ceiling, and floor are all pristine white, creating a seamless, almost clinical environment that feels both sterile and infinite. The corridor is perfectly symmetrical, with sharp, clean lines and a strong sense of perspective that draws the viewer’s eye toward the vanishing point at the center of the image. A single, continuous strip of bright white fluorescent lighting runs along the ceiling, casting a cool, even illumination throughout the space and enhancing the sense of depth. At the far end of the corridor, two small, distant human figures dressed in white are barely visible, emphasizing the vast scale and emptiness of the environment. The overall mood is one of isolation, precision, and futuristic austerity, reminiscent of classic science fiction cinematography. The camera is positioned low and centered, with a wide-angle lens to exaggerate the length and symmetry of the hallway, and a shallow depth of field that keeps the focus sharp from foreground to background. The color palette is dominated by shades of white and subtle grays, with no other colors present, reinforcing the stark, otherworldly atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:33.000749",
+  "word_count": 192,
+  "error_message": null
+}

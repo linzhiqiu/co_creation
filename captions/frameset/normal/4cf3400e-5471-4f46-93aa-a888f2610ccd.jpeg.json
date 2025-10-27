@@ -1,0 +1,12 @@
+{
+  "image_filename": "4cf3400e-5471-4f46-93aa-a888f2610ccd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA breathtaking arctic landscape viewed through a natural ice arch, with the camera positioned inside a hollowed-out section of a glacier or iceberg. The foreground is dominated by smooth, sculpted blue-white ice, forming an organic, rounded frame that draws the viewer’s eye toward the distant horizon. Through the icy aperture, a serene expanse of calm, reflective water stretches out, dotted with floating icebergs and smaller chunks of ice. In the distance, larger icebergs rise majestically against a dramatic sky filled with soft, pastel-hued clouds—lavenders, pinks, and muted blues—suggesting either dawn or dusk. The lighting is diffuse and cold, casting a gentle, ethereal glow over the scene and enhancing the subtle gradients of blue within the ice. The overall composition is cinematic, with a strong sense of depth created by the tunnel-like ice formation leading the viewer’s gaze outward. The mood is tranquil, awe-inspiring, and slightly mysterious, evoking the pristine beauty and isolation of the polar regions.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:43.293696",
+  "word_count": 157,
+  "error_message": null
+}

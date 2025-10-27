@@ -1,0 +1,12 @@
+{
+  "image_filename": "51ce507e-56a2-4a68-b059-3afdee27cf9f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, minimalist scene set in a dark, industrial environment. The background is almost entirely black, evoking a sense of depth and mystery, with only a few metallic truss structures and beams partially illuminated by stark, directional lighting. In the center of the composition, place a bold, abstract white logo or symbol, perfectly centered and sharply contrasted against the darkness. The logo should have a modern, geometric design, with smooth, curved shapes forming a symmetrical pattern. The lighting is high-contrast, emphasizing the metallic sheen of the trusses and the crisp edges of the logo, while leaving the rest of the scene in deep shadow. The overall mood is sleek, futuristic, and enigmatic, with a focus on negative space and strong visual impact. The camera angle is slightly upward, capturing the trusses receding into the darkness and drawing the viewer’s eye toward the glowing central emblem.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:31.950250",
+  "word_count": 146,
+  "error_message": null
+}

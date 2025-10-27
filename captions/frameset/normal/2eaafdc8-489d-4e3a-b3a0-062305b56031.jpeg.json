@@ -1,0 +1,12 @@
+{
+  "image_filename": "2eaafdc8-489d-4e3a-b3a0-062305b56031.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern silver sedan speeds along a winding, deserted road that cuts through a rugged, shadowy landscape. The car is captured in a dynamic, low-angle three-quarter front view, emphasizing its aerodynamic lines and polished metallic finish. The headlights are off, and the vehicle’s chrome grille and detailed contours catch the soft, diffused light of an overcast or late afternoon sky, lending a cool, subdued tone to the scene. The background is a blur of dark, rocky hillsides and sparse vegetation, suggesting motion and isolation. The road is marked with faded yellow lines, and the overall color palette is dominated by muted grays, silvers, and deep earth tones, creating a cinematic, almost somber atmosphere. The composition is crisp and focused, with a shallow depth of field that keeps the car sharply in focus while the background recedes into gentle blur, enhancing the sense of speed and forward momentum. The lighting is natural and understated, with soft shadows and minimal glare, evoking a realistic, documentary style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:53.528065",
+  "word_count": 165,
+  "error_message": null
+}

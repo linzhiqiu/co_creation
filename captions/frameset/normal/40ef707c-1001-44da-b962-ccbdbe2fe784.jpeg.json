@@ -1,0 +1,12 @@
+{
+  "image_filename": "40ef707c-1001-44da-b962-ccbdbe2fe784.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic action scene set on a sunlit, dusty urban street, featuring a dark blue sedan dramatically tilted and balancing on its right side wheels as it speeds forward, capturing a moment of intense motion and suspense. The car’s undercarriage and tires are clearly visible, emphasizing the precariousness of the stunt. The background consists of weathered, beige concrete buildings with faded signage, and a partially visible green industrial vehicle, adding a sense of realism and grit to the environment. The lighting is natural, with warm, late afternoon sunlight casting soft shadows and enhancing the earthy tones of the setting. The camera angle is low and slightly canted, heightening the sense of speed and danger, while a shallow depth of field keeps the focus on the car’s movement, subtly blurring the background. The overall style is cinematic and raw, reminiscent of high-stakes chase sequences in modern action films, with a color palette dominated by muted blues, tans, and grays, evoking a tense, adrenaline-fueled atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:28.381259",
+  "word_count": 163,
+  "error_message": null
+}

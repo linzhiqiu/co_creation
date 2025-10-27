@@ -1,0 +1,12 @@
+{
+  "image_filename": "1faecc48-b5d4-4b2c-8951-5b70727b96c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern car interior at night, illuminated by the cool, ambient glow of digital dashboard displays and touchscreens. The focus is on the luxurious, high-tech cockpit of a premium Audi vehicle, with the iconic four-ring logo visible on the steering wheel. The dashboard and center console are adorned with glossy black surfaces, brushed metal accents, and subtle wood grain trim, exuding sophistication and cutting-edge design. The digital instrument cluster and infotainment screens emit a soft blue and white light, casting gentle reflections across the smooth surfaces. The composition is cinematic, shot from the passenger side with a shallow depth of field, emphasizing the clean lines and advanced technology. The overall mood is refined and futuristic, with a cool, desaturated color palette and dramatic, low-key lighting that highlights the contours and textures of the interior while leaving the background in deep shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:31.384440",
+  "word_count": 142,
+  "error_message": null
+}

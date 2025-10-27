@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f96527f-e43b-4d67-90e9-b460e933e0e2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, conceptual scene featuring two square monitors mounted side by side on a neutral, light gray wall. On the left screen, display a close-up of a person's face, focusing on the left eye and part of the nose, with soft, natural lighting that highlights delicate skin tones and subtle facial details. On the right screen, show a close-up of another person's head, turned away from the viewer, emphasizing the ear and the back of the head, with similarly gentle lighting and a cool, muted color palette. Both images should have a slightly desaturated, almost ethereal quality, evoking a sense of quiet introspection and emotional distance. The composition is symmetrical and balanced, with the screens aligned horizontally and thin black cables visible beneath them, adding a touch of industrial modernity. The overall mood is contemplative and enigmatic, with a focus on intimacy, separation, and the interplay between presence and absence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:59.990129",
+  "word_count": 151,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "33d8ffd5-61cf-4417-b591-bdd05c3f7067.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set inside a dimly lit, industrial warehouse filled with stacked cardboard boxes and scattered machinery. The main subjects are several humanoid robots with exposed mechanical structures, intricate wiring, and metallic limbs. Two robots stand prominently in the foreground, facing each other as if in conversation or confrontation; their faces are partially human-like but clearly artificial, with smooth, pale surfaces and neutral expressions. In the background, more robots are visible, some engaged in various tasks, adding depth and a sense of activity to the scene. The lighting is cool and industrial, with overhead fluorescent lights casting soft, diffused glows and subtle reflections on the robots’ metallic bodies. The color palette is dominated by muted grays, silvers, and blues, with occasional warm highlights from the boxes and machinery. The camera angle is slightly low and wide, emphasizing the scale and complexity of the environment, while a shallow depth of field keeps the focus on the foreground robots, allowing the background to blur gently. The overall style is realistic and detailed, evoking a futuristic, slightly dystopian atmosphere reminiscent of high-budget science fiction films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:44.802314",
+  "word_count": 184,
+  "error_message": null
+}

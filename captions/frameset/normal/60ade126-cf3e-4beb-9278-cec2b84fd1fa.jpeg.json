@@ -1,0 +1,12 @@
+{
+  "image_filename": "60ade126-cf3e-4beb-9278-cec2b84fd1fa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, slightly elevated view of a busy multi-lane highway during evening rush hour, filled with dense traffic in both directions. The scene is dominated by a sea of cars, SUVs, and a few large white trucks, all with their headlights and taillights glowing brightly, creating starburst reflections on the wet or glossy asphalt. The vehicles are packed closely together, emphasizing the congestion and slow movement. The lighting is warm and golden, suggesting the sun is setting, casting a soft amber hue over the entire scene and enhancing the reflective surfaces of the road and vehicles. In the background, there are highway signs, overpasses, and a hint of greenery along the roadside, with more cars visible in the distance. The overall mood is dynamic yet tense, capturing the everyday reality of urban commuting. The composition uses a deep depth of field to keep all elements sharp, and the cinematic quality is heightened by the interplay of artificial lights and natural dusk, evoking a sense of transition from day to night.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:29.759727",
+  "word_count": 170,
+  "error_message": null
+}

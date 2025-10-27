@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c3afa4e-8d9d-4e0e-a84e-7699fc02548b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a woman with straight, long hair and blunt bangs, standing against a seamless, softly glowing orange background. The subject is centered in the frame, her head slightly bowed and eyes cast downward, creating a contemplative and introspective mood. Her facial features are accentuated by dramatic, stylized makeup, with bold lines above the eyes that evoke a futuristic or avant-garde aesthetic. The lighting is low and diffused, casting gentle shadows that sculpt her face and hair, while the monochromatic orange color palette envelops the entire scene, lending it a surreal, dreamlike quality. The composition is minimalist, with no visible clothing details or background elements, focusing all attention on the subject’s expression and the interplay of light and shadow. The overall style is reminiscent of high-concept fashion photography or a still from a science fiction film, with a shallow depth of field and a sense of quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:54.783451",
+  "word_count": 151,
+  "error_message": null
+}

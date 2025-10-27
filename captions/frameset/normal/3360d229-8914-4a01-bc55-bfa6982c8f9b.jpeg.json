@@ -1,0 +1,12 @@
+{
+  "image_filename": "3360d229-8914-4a01-bc55-bfa6982c8f9b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, wide-angle shot set inside a modern industrial or research facility, with a strong sense of depth created by long, parallel metal rails or conveyor tracks leading toward the background. Two men walk side by side down the central aisle, engaged in animated conversation. The man on the left wears a dark suit with a white shirt, exuding a formal, professional demeanor, while the man on the right is dressed more casually in a light blue shirt and dark trousers, gesturing expressively as he speaks. Both appear focused and engaged, suggesting a collaborative or consultative atmosphere.\n\nThe background features a large, white wall adorned with a prominent sign reading \"RWTH AACHEN UNIVERSITY,\" indicating an academic or technological setting. The lighting is soft and diffused, with a cool, neutral color palette dominated by whites, greys, and subtle blue tones, enhancing the clean, high-tech ambiance. Overhead, industrial light fixtures add to the utilitarian feel, while the shallow depth of field keeps the foreground rails slightly out of focus, drawing attention to the two central figures. The overall style is crisp and contemporary, with a documentary or corporate film aesthetic that emphasizes innovation, teamwork, and intellectual engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:34.741915",
+  "word_count": 196,
+  "error_message": null
+}

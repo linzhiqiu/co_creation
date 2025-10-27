@@ -1,0 +1,12 @@
+{
+  "image_filename": "165b4656-31a3-4c4a-ad36-37d0cbdf50fe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping aerial view of a coastal city at golden hour, captured from a high vantage point looking straight down a central avenue that stretches toward the distant ocean. The cityscape is bathed in warm, soft sunlight, casting gentle shadows and highlighting the lush greenery interspersed among residential and commercial buildings. The horizon reveals a calm, expansive sea with a faint outline of land or mountains in the far distance, and a marina with numerous small boats docked along the shoreline. The overall color palette is natural and inviting, dominated by earthy greens, muted browns, and the deep blue of the ocean, all under a clear, pale blue sky. The composition emphasizes symmetry and depth, with the main road acting as a strong leading line guiding the viewer’s eye from the foreground through the heart of the city to the tranquil water beyond. The atmosphere is serene and cinematic, evoking a sense of peacefulness and the quiet beauty of a coastal town at the end of the day.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:05.774344",
+  "word_count": 168,
+  "error_message": null
+}

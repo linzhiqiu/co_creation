@@ -1,0 +1,12 @@
+{
+  "image_filename": "48c584b9-982d-4436-8470-efc0c900c807.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set beneath a massive concrete bridge, where two men stand face-to-face in intense conversation. Both figures are shown in sharp silhouette, their features obscured by deep shadow, emphasizing their profiles and body language rather than individual identity. The background is dominated by the imposing, geometric arches of the bridge, rendered in cool, desaturated blue tones that evoke a sense of coldness and tension. The water below reflects the ambient blue light, adding to the moody, atmospheric quality of the scene. The lighting is low and diffuse, with no direct source, creating strong contrast and a dramatic, noir-inspired effect. The camera is positioned at eye level, framing the two men centrally and symmetrically beneath the arch, with a shallow depth of field that keeps the focus on their confrontation while the architectural details recede into soft blur. The overall style is minimalist and stark, with a somber, suspenseful mood reminiscent of a psychological thriller or neo-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:11.754451",
+  "word_count": 161,
+  "error_message": null
+}

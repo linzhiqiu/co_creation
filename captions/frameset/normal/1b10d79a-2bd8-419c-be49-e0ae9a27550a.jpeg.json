@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b10d79a-2bd8-419c-be49-e0ae9a27550a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense military briefing scene set in a dimly lit room. In the foreground, the silhouettes of several seated soldiers are visible, their attention focused on a large projection screen at the front of the room. The main subject, a man in military fatigues with a close-cropped haircut, stands to the left of the screen, partially illuminated by a cold, bluish overhead light that casts dramatic shadows and highlights the texture of his uniform. He gestures toward the screen, which displays a high-contrast satellite map with intersecting roads and forested terrain, rendered in muted grays and greens. The background is sparse, with a brick wall and a radiator barely visible in the shadows, contributing to the utilitarian, no-nonsense atmosphere. The overall color palette is subdued, dominated by olive greens, grays, and cool blue tones, evoking a sense of seriousness and urgency. The composition uses a shallow depth of field, keeping the presenter and the map in sharp focus while the audience remains blurred, emphasizing the gravity of the briefing and the importance of the information being shared. The cinematic style is reminiscent of modern war dramas, with moody, directional lighting and a slightly desaturated look that heightens the tension and realism of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:52.301471",
+  "word_count": 204,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cf3ba3d-212e-40dd-b3ad-fb7e4626467c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary, vintage white car drives down the center of a wide, empty city street at night, captured from a high, symmetrical, almost bird’s-eye perspective. The road is perfectly aligned with the frame, emphasizing the vanishing point created by the receding lines of streetlights and lane markings, which stretch into the deep darkness of the background. The street is illuminated by evenly spaced, glowing street lamps that cast soft pools of light, creating a rhythmic pattern of brightness and shadow along the asphalt. The crosswalk in the foreground is starkly rendered in bold white stripes, contrasting sharply with the dark pavement. The traffic light to the right glows green, adding a subtle pop of color to the otherwise muted, nocturnal palette dominated by deep blacks, cool grays, and the soft yellow-white of artificial lighting. The overall mood is quiet, cinematic, and slightly surreal, evoking a sense of isolation and stillness. The composition is meticulously balanced, with a strong sense of depth and symmetry, reminiscent of a scene from a contemplative road movie or a neo-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:29.266419",
+  "word_count": 176,
+  "error_message": null
+}

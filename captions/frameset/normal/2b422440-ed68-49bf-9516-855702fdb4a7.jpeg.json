@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b422440-ed68-49bf-9516-855702fdb4a7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, action-packed scene featuring a man in his 30s or 40s, with short brown hair and a rugged, intense expression, is captured from a low, upward-facing camera angle, creating a sense of urgency and tension. He is dressed in dark, tactical clothing, suggesting a military or covert operations background. The man is gripping a cluster of glowing, neon green glass spheres, which emit an otherworldly, almost radioactive light that contrasts sharply with the natural daylight. The background is a clear blue sky, devoid of distractions, emphasizing the subject and the vivid green objects in his hands. The lighting is bright and natural, casting realistic shadows and highlighting the sweat and strain on the man's face. The overall style is cinematic, with a shallow depth of field that keeps the focus tightly on the man's face and the glowing spheres, while the background remains softly blurred. The composition and color palette heighten the sense of danger and immediacy, evoking the high-stakes atmosphere of a suspenseful action thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:47.132315",
+  "word_count": 167,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e055061-374b-4265-b95a-bfbf27c43216.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A medium-wide shot set in a dimly lit, institutional room with muted blue-gray walls and a utilitarian carpeted floor. Three adults are the focus: a woman with curly, reddish-blonde hair sits on the left, wearing a light beige cardigan, a pale green scarf, and blue jeans, her posture reserved and expression contemplative. To the right, a man in a brown sweater and dark pants stands, extending a card toward a seated man in a white shirt with a dark vest. The seated man, seen in profile, reaches to take the card, which reads “NEUTRALIZES RESOURCES.” Behind them, a large easel holds a board covered in neatly arranged cards with printed words, suggesting a structured group activity or therapy session. The lighting is soft and slightly cool, casting gentle shadows and emphasizing the subdued, introspective mood. The composition is balanced, with the board anchoring the center and the three figures forming a subtle triangle. The overall style is cinematic and naturalistic, with a shallow depth of field that keeps the focus on the interaction and the emotional tension between the participants.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:55.284935",
+  "word_count": 180,
+  "error_message": null
+}

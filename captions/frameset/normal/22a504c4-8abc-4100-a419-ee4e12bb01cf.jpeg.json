@@ -1,0 +1,12 @@
+{
+  "image_filename": "22a504c4-8abc-4100-a419-ee4e12bb01cf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, cinematic close-up of a superhero in motion, inspired by The Flash. The subject is a young man wearing a sleek, form-fitting red and gold armored suit with a distinctive lightning bolt motif. His helmet covers most of his head, leaving his intense, wide-eyed expression visible, conveying urgency and focus. He is captured mid-action, reaching forward with one hand as if running at super speed, with his body angled diagonally across the frame to emphasize movement.\n\nThe background is a blur of cool blue and white tones, suggesting rapid motion and a sense of speed. Electric blue lightning arcs and crackles around the character, illuminating his suit and face with a dramatic, ethereal glow. The lighting is high-contrast, with bright highlights and deep shadows, enhancing the metallic sheen of the costume and the energy of the scene.\n\nThe overall style is hyper-realistic with a cinematic quality, reminiscent of a high-budget superhero film. The camera angle is slightly low and close, creating an immersive, intense perspective. The depth of field is shallow, keeping the hero’s face and outstretched hand in sharp focus while the background remains abstract and motion-blurred, heightening the sense of velocity and power.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:35.811596",
+  "word_count": 197,
+  "error_message": null
+}

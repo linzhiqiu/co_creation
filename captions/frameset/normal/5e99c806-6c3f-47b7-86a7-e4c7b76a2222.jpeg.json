@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e99c806-6c3f-47b7-86a7-e4c7b76a2222.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a hauntingly atmospheric scene set within a narrow, monolithic corridor formed by two towering concrete walls. The perspective is centered and symmetrical, drawing the viewer’s eye down the length of the passageway, which seems to stretch infinitely toward a distant, pale horizon. The corridor is empty, devoid of any human presence, amplifying a sense of isolation and introspection. The ground is highly reflective, mirroring the vertical lines of the walls and the faint, overcast sky above, adding depth and a subtle sense of surrealism. The color palette is muted and desaturated, dominated by cool grays and soft, diffused light, evoking a somber, contemplative mood. The lighting is natural but subdued, with gentle highlights on the upper edges of the walls and a gradual transition into shadow as the eye moves downward. The overall style is minimalist and cinematic, reminiscent of modern architectural photography or a scene from a contemplative science fiction film. The camera angle is perfectly aligned and eye-level, emphasizing symmetry and the overwhelming scale of the environment, with a shallow depth of field that keeps the focus sharp along the corridor’s vanishing point.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:38.773744",
+  "word_count": 187,
+  "error_message": null
+}

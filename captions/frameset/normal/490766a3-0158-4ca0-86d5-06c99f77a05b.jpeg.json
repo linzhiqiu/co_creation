@@ -1,0 +1,12 @@
+{
+  "image_filename": "490766a3-0158-4ca0-86d5-06c99f77a05b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a moody, atmospheric scene set in a dimly lit underground music venue. The composition is dominated by deep shadows and dramatic, low-key lighting, with the foreground featuring the dark, indistinct silhouette of a person standing at a railing, their features obscured in shadow. In the background, a makeshift banner with the word \"FEAR\" crudely painted in large, bold letters hangs against a black wall, secured with visible strips of tape, evoking a raw, punk aesthetic. To the right, a rainbow-striped mural adds a subtle pop of color to the otherwise muted palette of blacks, grays, and faded tones. Scattered stage equipment and a few partially visible figures contribute to the sense of a live performance space. The overall style is gritty and documentary-like, with a slightly grainy texture and a sense of candid realism. The camera angle is slightly elevated, looking down toward the stage area, enhancing the feeling of being an observer in a hidden, rebellious subculture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:15.441412",
+  "word_count": 160,
+  "error_message": null
+}

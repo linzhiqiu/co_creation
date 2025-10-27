@@ -1,0 +1,12 @@
+{
+  "image_filename": "27ac18ec-c50c-465b-b563-e711b210f294.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car dashboard, focusing on the digital display and analog gauges. The central digital screen prominently shows a warning graphic: a stylized car icon with a red box around another vehicle ahead, accompanied by the text \"Obstacle Detected.\" The analog speedometer and tachometer frame the display on either side, their needles and numbers sharply in focus, with subtle reflections on the glass. The color palette is dominated by deep blacks, cool grays, and crisp whites, with vivid red and orange highlights drawing attention to the warning. The lighting is soft and natural, suggesting daylight filtering into the car’s interior, creating gentle highlights and shadows. The composition is tight and immersive, with a shallow depth of field that blurs the dashboard edges, emphasizing the urgency and clarity of the warning message. The overall style is sleek and realistic, evoking a sense of modern technology and attentive driving.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:18.605877",
+  "word_count": 152,
+  "error_message": null
+}

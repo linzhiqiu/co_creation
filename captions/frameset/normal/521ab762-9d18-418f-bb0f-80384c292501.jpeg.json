@@ -1,0 +1,12 @@
+{
+  "image_filename": "521ab762-9d18-418f-bb0f-80384c292501.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, macro shot of numerous translucent bubbles suspended in a deep red liquid. The bubbles vary in size, some sharply in focus while others blur softly into the background, creating a sense of depth and three-dimensionality. The lighting is warm and diffused, casting subtle highlights and reflections on the surface of each bubble, enhancing their spherical form and glass-like texture. The background is a rich, uniform crimson, with gentle gradients and out-of-focus bubbles adding to the dreamy, abstract quality of the composition. The overall mood is mysterious and immersive, with a cinematic, almost otherworldly atmosphere. The camera angle is straight-on, with a shallow depth of field that isolates the foreground bubbles and blurs the rest, emphasizing the floating, weightless sensation. The color palette is dominated by shades of red and amber, with occasional glints of gold where the light catches the bubbles. The style is modern and abstract, reminiscent of high-end beverage or science photography, focusing on the interplay of light, color, and form.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:40.043902",
+  "word_count": 165,
+  "error_message": null
+}

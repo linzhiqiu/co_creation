@@ -1,0 +1,12 @@
+{
+  "image_filename": "1fda00f3-462f-4776-ac6c-d132a943f336.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern security camera mounted on an exterior brick wall, the camera encased in a protective black wire mesh cage. The bricks are a mix of deep reddish-browns and muted grays, with visible mortar lines, giving the wall a rugged, urban texture. The camera is angled slightly downward, its white and metallic components contrasting sharply with the dark mesh and the earthy tones of the bricks. The lighting is soft and diffuse, suggesting an overcast day, with no harsh shadows, lending a subdued, almost somber mood to the scene. The composition is tight, focusing attention on the camera and its protective cage, with the background wall filling the frame and providing a sense of solidity and permanence. The overall style is realistic and documentary-like, with a shallow depth of field that keeps the camera and cage in sharp focus while subtly blurring the surrounding bricks, emphasizing the subject and creating a sense of quiet surveillance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:35.417241",
+  "word_count": 159,
+  "error_message": null
+}

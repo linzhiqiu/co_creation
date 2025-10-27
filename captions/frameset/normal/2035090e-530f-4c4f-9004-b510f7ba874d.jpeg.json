@@ -1,0 +1,12 @@
+{
+  "image_filename": "2035090e-530f-4c4f-9004-b510f7ba874d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer monitor displaying a web-based dashboard titled \"Global Monitoring Hub.\" The screen is filled with a grid of rows and columns, most of which are highlighted in green, indicating normal or successful statuses, with a few rows in red, suggesting issues or alerts. The interface is clean and modern, with a blue and yellow header featuring a stylized logo on the left. Draped across the top of the monitor is a strand of blue tinsel, adding a festive touch, and a small red felt stocking with a white cuff and green holly detail hangs from the right side, suggesting a holiday season setting. The lighting is soft and cool, with a slight blue cast, creating a calm, subdued office atmosphere. The camera angle is slightly off-center, focusing on the monitor while subtly including the blurred silhouette of a person in the foreground, possibly wearing a dark outfit and a Santa hat, further enhancing the festive mood. The depth of field is shallow, keeping the monitor and its decorations in sharp focus while the background and foreground remain softly blurred, emphasizing the importance of the screen’s content and the seasonal details. The overall style is realistic and documentary-like, with a hint of warmth and personality brought in by the holiday decorations amidst the otherwise utilitarian workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:46.211891",
+  "word_count": 220,
+  "error_message": null
+}

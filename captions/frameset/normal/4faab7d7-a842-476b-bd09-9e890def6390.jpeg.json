@@ -1,0 +1,12 @@
+{
+  "image_filename": "4faab7d7-a842-476b-bd09-9e890def6390.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sepia-toned, vintage film still depicting a tranquil outdoor scene at the entrance of a traditional Japanese building. The composition is framed by the arched gateway, supported by stone columns entwined with climbing plants, leading into a serene courtyard. Two women in patterned kimonos are the central subjects: one stands beneath the archway, holding an umbrella and gazing forward with a calm, contemplative expression, while the other walks past her, mid-stride, suggesting gentle motion. To the right, a man sits on a bicycle, partially obscured by foliage, adding a subtle narrative element. The background features tiled rooftops, lush greenery, and a soft, diffused natural light that bathes the scene in a nostalgic, early 20th-century atmosphere. The overall style is reminiscent of classic Japanese cinema, with a slightly elevated camera angle, moderate depth of field, and a warm, monochromatic palette that enhances the sense of memory and quiet elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:47.694862",
+  "word_count": 148,
+  "error_message": null
+}

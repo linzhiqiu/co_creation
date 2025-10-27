@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ef2fc58-9065-46f9-bedf-b4e9101d8a2b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a lush, rural landscape, featuring a winding country road that snakes diagonally across the frame. The scene is dominated by vibrant green fields, each plot separated by thin, irregular stone walls that create a patchwork effect reminiscent of traditional European farmland. The fields vary subtly in hue, from deep emerald to lighter grassy tones, suggesting a mix of pastures and meadows. The road is narrow and gray, with gentle curves and no visible vehicles or people, emphasizing the tranquility and isolation of the countryside. The lighting is bright and natural, with soft midday sunlight casting minimal shadows, enhancing the vividness of the greens and the crispness of the stone boundaries. The overall composition is geometric and orderly, with the organic curves of the road contrasting against the angular, mosaic-like divisions of the fields. The image has a serene, pastoral mood, and the perspective is directly overhead, creating a sense of abstraction and emphasizing the patterns in the landscape. The style is realistic, with sharp detail and a documentary, almost painterly quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:28.488571",
+  "word_count": 176,
+  "error_message": null
+}

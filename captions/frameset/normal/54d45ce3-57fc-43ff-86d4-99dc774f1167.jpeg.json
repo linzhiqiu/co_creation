@@ -1,0 +1,12 @@
+{
+  "image_filename": "54d45ce3-57fc-43ff-86d4-99dc774f1167.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic outdoor scene set in a spacious city park at sunset, with two young men performing bicycle tricks on a wide, paved path. Both riders wear casual clothing—one in a green t-shirt and dark pants, the other in a gray hoodie and shorts—and protective helmets. The rider on the left is captured mid-stunt, balancing on the front wheel of his bike with his body leaning forward, while the rider on the right pops a wheelie, lifting his front wheel off the ground with a confident expression. The background features lush, green trees framing the path, with soft, golden evening light filtering through the foliage, casting gentle shadows and creating a warm, inviting atmosphere. The composition uses a slightly low, eye-level camera angle to emphasize the action and energy of the scene, with a shallow depth of field that keeps the riders sharply in focus while subtly blurring the background. The overall style is cinematic and vibrant, capturing the thrill and camaraderie of urban cycling in a natural, lively setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:42.128627",
+  "word_count": 171,
+  "error_message": null
+}

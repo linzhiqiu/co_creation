@@ -1,0 +1,12 @@
+{
+  "image_filename": "33549800-8906-4b5f-9e97-562f0756a806.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody scene viewed from inside a dark, unlit room. The main focus is a large, arched window with divided panes, framed by heavy, dark curtains that are partially drawn back. Through the window, a surreal, dreamlike landscape is visible, bathed in a thick, golden-yellow haze that diffuses the light and creates an ethereal, almost otherworldly atmosphere. In the misty background outside, the faint, shadowy silhouette of a large, indistinct creature or figure can be seen moving or reaching, its form partially obscured by the fog. The overall color palette is dominated by deep blacks and rich, muted golds, with soft, diffused lighting that enhances the sense of mystery and suspense. The composition is symmetrical, with the window perfectly centered, and the camera angle is straight-on, as if the viewer is standing in the middle of the room, gazing out. The style is reminiscent of atmospheric horror or dark fantasy films, with a strong sense of isolation, tension, and the uncanny.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:36.601409",
+  "word_count": 164,
+  "error_message": null
+}

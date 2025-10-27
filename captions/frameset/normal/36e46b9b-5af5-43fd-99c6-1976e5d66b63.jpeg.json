@@ -1,0 +1,12 @@
+{
+  "image_filename": "36e46b9b-5af5-43fd-99c6-1976e5d66b63.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a paintbrush delicately applying color to a textured canvas. The composition focuses tightly on the tip of the brush as it touches the surface, capturing the tactile detail of the canvas weave and the blending of rich, earthy tones—deep browns, muted blues, and hints of green. The background is softly blurred, with dappled golden sunlight filtering through, creating a warm, natural bokeh effect. The lighting is gentle and natural, evoking a serene, contemplative mood. The overall style is cinematic and intimate, with a painterly quality that emphasizes the act of creation and the subtle interplay of color and texture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:53.072739",
+  "word_count": 105,
+  "error_message": null
+}

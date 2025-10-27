@@ -1,0 +1,12 @@
+{
+  "image_filename": "431a234d-196a-44d9-ac00-990f014e03fe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody urban street scene captured through the reflective glass of a storefront window, with the faint outline of brickwork visible in the foreground. The main subject is a solitary cyclist, slightly blurred to convey motion, riding away from the camera along a deserted city street. The cyclist wears dark clothing with a hint of orange at the waist, and their posture suggests a sense of urgency or purpose. In the background, two pedestrians walk side by side on the opposite sidewalk, their figures partially obscured by shadow and distance, adding a sense of depth and narrative intrigue. The buildings lining the street are industrial and nondescript, with closed metal shutters and muted blue-gray tones dominating the palette. The lighting is soft and diffused, evoking an overcast day or early evening, and the overall color scheme is cool and subdued, punctuated by the warm beige of the brickwork in the foreground. The composition uses a shallow depth of field and a slightly off-center framing, lending a cinematic, observational quality to the image, as if the viewer is quietly witnessing a fleeting moment in an urban landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:17.615352",
+  "word_count": 186,
+  "error_message": null
+}

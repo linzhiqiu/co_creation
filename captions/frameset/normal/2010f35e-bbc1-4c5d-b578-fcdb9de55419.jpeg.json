@@ -1,0 +1,12 @@
+{
+  "image_filename": "2010f35e-bbc1-4c5d-b578-fcdb9de55419.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up shot focused on the barrel of a double-barreled shotgun, with the gun dominating the foreground in sharp detail while the background and the person holding the weapon are heavily blurred. The subject, a shirtless young man with tousled hair, is only partially visible and out of focus, emphasizing the threatening presence of the firearm. The setting appears to be an industrial or warehouse-like space, with muted, neutral tones and soft, natural lighting that creates a slightly gritty, realistic atmosphere. The composition uses a shallow depth of field to draw the viewer’s eye directly to the gun, creating a sense of tension and immediacy. The overall style is reminiscent of a dramatic, suspenseful film scene, with a raw, unpolished aesthetic and a focus on the psychological impact of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:37.838024",
+  "word_count": 132,
+  "error_message": null
+}

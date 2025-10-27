@@ -1,0 +1,12 @@
+{
+  "image_filename": "197a73af-12d5-40bb-ac68-edc8a338d954.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene set in an empty parking lot, illuminated by a single, tall streetlamp casting a warm, amber glow. Two white, vintage sedans are parked directly opposite each other, perfectly symmetrical, their headlights off but interiors faintly lit, revealing drivers inside each car. The drivers are partially visible, their faces dimly illuminated, creating a sense of tension and anticipation. The background is shrouded in darkness, with only the faint outline of a third, older vehicle parked in the distance, barely discernible. The composition is balanced and minimalist, with a strong sense of symmetry and negative space. The color palette is dominated by deep shadows, muted whites, and the golden hue of the streetlight, evoking a moody, suspenseful atmosphere. The camera is positioned at a low, eye-level angle, directly facing the cars, emphasizing the standoff-like arrangement. The overall style is reminiscent of neo-noir or retro crime films, with soft focus and subtle film grain adding to the atmospheric, cinematic quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:20.548384",
+  "word_count": 161,
+  "error_message": null
+}

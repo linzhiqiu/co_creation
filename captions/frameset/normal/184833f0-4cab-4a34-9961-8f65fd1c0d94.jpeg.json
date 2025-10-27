@@ -1,0 +1,12 @@
+{
+  "image_filename": "184833f0-4cab-4a34-9961-8f65fd1c0d94.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand holding a smartphone over a red contactless payment terminal, about to make a purchase using a digital wallet app. The phone screen displays a Santander Mastercard interface, with the “Place your finger” prompt visible, indicating fingerprint authentication. The hand is positioned confidently, with the thumb ready to authenticate. The person wears a mustard yellow sleeve, adding a pop of color to the scene. In the background, on a rustic wooden table, there is a loaf of artisan bread partially wrapped in brown paper, suggesting a cozy, everyday shopping moment. The lighting is warm and natural, casting soft shadows and highlighting the textures of the wood and bread. The composition is tight and focused, with a shallow depth of field that blurs the background slightly, drawing attention to the interaction between technology and daily life. The overall style is modern and inviting, with a hint of lifestyle photography, emphasizing convenience and the seamless integration of digital payments into routine activities.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:47.484431",
+  "word_count": 167,
+  "error_message": null
+}

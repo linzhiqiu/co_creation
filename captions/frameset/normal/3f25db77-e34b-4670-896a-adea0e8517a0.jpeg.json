@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f25db77-e34b-4670-896a-adea0e8517a0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands with their back to the viewer, centered in the frame, facing down a narrow, shadowy corridor. The subject’s hair is short and light-colored, and they wear a collared shirt, the fabric catching subtle highlights. The scene is bathed in deep, moody blue lighting, casting dramatic shadows and creating a sense of mystery and tension. The corridor is flanked by vertical lines and panels, some softly illuminated with cool blue and purple hues, suggesting a futuristic or high-tech environment. The lighting is low-key, with a strong emphasis on contrast and selective illumination, evoking a cinematic, neo-noir atmosphere. The camera angle is at head height, directly behind the subject, emphasizing their isolation and the unknown that lies ahead. The overall composition is symmetrical and immersive, with a shallow depth of field that keeps the focus on the figure and the immediate environment, while the background fades into darkness. The mood is tense, introspective, and enigmatic, reminiscent of a psychological thriller or science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:53.194464",
+  "word_count": 166,
+  "error_message": null
+}

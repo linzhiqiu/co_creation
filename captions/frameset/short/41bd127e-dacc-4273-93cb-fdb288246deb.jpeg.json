@@ -1,0 +1,12 @@
+{
+  "image_filename": "41bd127e-dacc-4273-93cb-fdb288246deb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a blue plastic moving crate filled with books, including visible titles like \"The Earl Grey\" and \"Willow Menth.\" A person in a black skirt stands beside the crate, their legs partially visible. The background is softly lit, with a modern, minimal interior and a calm, everyday atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:41.047142",
+  "word_count": 51,
+  "error_message": null
+}

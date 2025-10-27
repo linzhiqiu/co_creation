@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ebfadf4-00b3-4dbf-82d7-8c5584efa183.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic still life set on a metal storage shelf in a dimly lit room. The focal point is a classic black twin-bell alarm clock, its white face and black numerals clearly visible, showing the time as just past 11:55. The clock is positioned in front of two large, orange plastic storage baskets with slatted sides, which catch and diffuse the ambient light. The background is softly illuminated by a strip of cool, neon-like blue and purple lighting, creating a dramatic contrast with the warm, orange tones of the baskets. The overall color palette is a striking mix of deep shadows, warm oranges, and cool blues, evoking a sense of quiet anticipation or suspense. The composition is tight and intimate, with a shallow depth of field that keeps the focus on the clock while the background elements blur gently. The camera angle is slightly low and close, emphasizing the clock’s presence and the texture of the shelf and baskets. The lighting is low-key, with a cinematic quality that highlights the interplay of shadow and colored light, creating a mysterious, almost surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:24.848474",
+  "word_count": 183,
+  "error_message": null
+}

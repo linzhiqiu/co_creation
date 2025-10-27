@@ -1,0 +1,12 @@
+{
+  "image_filename": "5eeb2d8b-9a9b-4d06-83b3-8ae51da6ba63.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young child sits alone in a dimly lit room, viewed from an overhead, slightly behind angle that emphasizes their smallness and isolation. The child is dressed in a pale pink shirt and dark pants, their face partially obscured by the soft, shallow depth of field. They hold a smartphone in both hands, intently watching a video call or a video featuring an adult figure on the screen, which glows warmly and casts a gentle light on the child’s face and hands. The background is a smooth, dark gradient, fading into shadow and creating a sense of quiet intimacy and focus. The overall color palette is muted and subdued, with cool grays and soft pinks dominating, while the phone screen provides the only bright, colorful element in the scene. The lighting is low and moody, with a cinematic quality that highlights the emotional tone of solitude and connection through technology. The composition draws the viewer’s eye to the illuminated screen, making it the focal point amidst the surrounding darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:47.788671",
+  "word_count": 169,
+  "error_message": null
+}

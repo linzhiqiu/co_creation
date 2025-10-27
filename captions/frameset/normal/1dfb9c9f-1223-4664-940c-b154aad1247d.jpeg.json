@@ -1,0 +1,12 @@
+{
+  "image_filename": "1dfb9c9f-1223-4664-940c-b154aad1247d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a sleek, futuristic scene featuring a transparent, holographic dashboard interface suspended in mid-air above a simple, concrete pedestal. The interface displays high-tech automotive data: a glowing, wireframe side view of a car in the center, digital speed and fuel gauges on the left, a stylized navigation map, and circular control elements on the right. The color palette is dominated by deep blues and blacks, contrasted with vibrant neon golds and oranges for the holographic elements, giving the display a luminous, high-tech glow. The background is dark and minimal, with subtle gradients and soft, diffused lighting that emphasizes the floating interface and creates a sense of depth and mystery. The overall style is cinematic and polished, with a shallow depth of field that keeps the focus on the holographic display, evoking a sense of advanced technology and modern design. The camera angle is straight-on at eye level, presenting the interface as if the viewer is about to interact with it, enhancing the immersive, sci-fi atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:56.932835",
+  "word_count": 165,
+  "error_message": null
+}

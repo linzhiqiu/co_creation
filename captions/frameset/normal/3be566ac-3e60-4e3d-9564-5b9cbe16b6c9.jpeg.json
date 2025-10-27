@@ -1,0 +1,12 @@
+{
+  "image_filename": "3be566ac-3e60-4e3d-9564-5b9cbe16b6c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, cinematic scene set in a modern, industrial environment. In the foreground, two large, orange robotic arms—clearly marked with the \"KUKA\" brand—are positioned in front of an upright piano with its front panel removed, exposing the intricate inner mechanics of strings and hammers. The robotic arms are actively engaged, with one arm pressing down on the piano keys while the other hovers above, poised for action, suggesting a moment of mechanical performance or experimentation. The lighting is cool and diffused, casting soft reflections on the glossy, metallic floor and highlighting the smooth, industrial surfaces of the robots. The background is minimal and slightly out of focus, with hints of additional robotic machinery, emphasizing the technological setting. The color palette is dominated by the warm orange of the robots contrasted against the neutral tones of the piano and the cool grays and silvers of the environment. The composition is tight and focused, with a shallow depth of field that draws attention to the interaction between machine and instrument, evoking a sense of futuristic artistry and precision engineering.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:56.211668",
+  "word_count": 178,
+  "error_message": null
+}

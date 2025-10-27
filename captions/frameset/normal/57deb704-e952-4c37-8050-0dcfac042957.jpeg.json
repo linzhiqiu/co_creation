@@ -1,0 +1,12 @@
+{
+  "image_filename": "57deb704-e952-4c37-8050-0dcfac042957.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-angle overhead shot of a small, modern apartment room at night, viewed from directly above as if the ceiling has been removed. The room is sparsely furnished with a single bed pushed against one wall, a tan and white striped blanket, and a man lying sprawled on the bed, one arm outstretched, gazing upward in a contemplative or exhausted pose. The man wears casual, dark clothing. The room is illuminated by warm, ambient lighting from a standing lamp and a small bedside lamp, casting soft, golden glows and deep shadows that create a moody, introspective atmosphere. \n\nThe floor is a mix of concrete and a circular rug, with a brown leather armchair positioned near the bed. Scattered around the room are personal items: books, a pair of shoes, a potted plant, and a few pieces of clothing, suggesting a lived-in, slightly messy space. The walls are textured concrete, and a single window with sheer curtains lets in a sliver of cool, bluish exterior light, contrasting with the warm interior tones. The composition emphasizes the geometry of the room, with sharp lines and a sense of isolation, evoking a feeling of solitude and introspection. The overall color palette is a blend of muted earth tones, warm yellows, and cool blues, with a shallow depth of field that keeps the focus on the man and the immediate surroundings, while the rest of the apartment fades into soft blur.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:01.766427",
+  "word_count": 239,
+  "error_message": null
+}

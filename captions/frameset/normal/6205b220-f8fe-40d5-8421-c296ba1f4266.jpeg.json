@@ -1,0 +1,12 @@
+{
+  "image_filename": "6205b220-f8fe-40d5-8421-c296ba1f4266.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dynamic, cinematic scene set in a modern, open-roofed stadium under bright artificial lights. Two athletic men are captured mid-action on a lush green soccer field, both wearing casual sportswear—one in a dark gray t-shirt and light gray shorts, the other in a light gray t-shirt and black shorts. Their bodies are tense and focused, suggesting an intense moment of play or competition, with one man slightly ahead and the other closely following, both looking intently toward something off-frame. The stadium seats in the background are mostly empty, creating a sense of spaciousness and anticipation, while the large scoreboard and structural beams add architectural interest. The color palette is cool and muted, dominated by grays, greens, and soft blues, with pops of color from the players’ shoes. The lighting is crisp and even, highlighting the players and casting soft shadows, while a subtle lens flare or light leak effect adds a cinematic touch. The camera angle is low and slightly behind the players, emphasizing their movement and the scale of the stadium, with a shallow depth of field that keeps the focus on the athletes while gently blurring the background. The overall mood is energetic, focused, and slightly dramatic, evoking the tension and excitement of a professional sports moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:02.389723",
+  "word_count": 210,
+  "error_message": null
+}

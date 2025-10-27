@@ -1,0 +1,12 @@
+{
+  "image_filename": "62f4af70-9560-4348-a4dd-719e3cf54ac2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with slicked-back dark hair, dressed in a crisp white dress shirt and a patterned tie, is peering intently through a pair of small black binoculars. He is positioned behind a gray office cubicle partition, partially crouched as if trying to remain unseen while observing something in the distance. The background is softly blurred, suggesting a typical corporate office environment with muted colors and vertical blinds, creating a sense of depth and focus on the subject. The lighting is cool and even, evoking the sterile ambiance of fluorescent office lights. The overall color palette is subdued, dominated by grays, whites, and soft blues, enhancing the mundane yet slightly comedic tone of the scene. The camera angle is at eye level, with a shallow depth of field that isolates the man and his action, lending a cinematic, almost voyeuristic quality to the composition. The mood is a blend of curiosity and subtle humor, as the man’s serious expression contrasts with the playful absurdity of using binoculars indoors.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:25.825965",
+  "word_count": 168,
+  "error_message": null
+}

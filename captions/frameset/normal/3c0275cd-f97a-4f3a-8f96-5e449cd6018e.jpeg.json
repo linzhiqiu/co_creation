@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c0275cd-f97a-4f3a-8f96-5e449cd6018e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a blacksmith at work in a dimly lit forge. The focus is on a glowing, orange-hot piece of metal resting on a sturdy anvil, with the blacksmith’s strong, weathered hands gripping a hammer, poised to strike. The background is a rough, earthen floor scattered with metal rods and tools, rendered in muted browns and grays, creating a gritty, authentic atmosphere. The lighting is low and dramatic, with the primary illumination coming from the incandescent metal, casting warm highlights and deep shadows that emphasize the textures of the hands, tools, and ground. The composition uses a shallow depth of field, blurring the background and drawing attention to the intense heat and craftsmanship at the center of the frame. The overall style is reminiscent of a documentary or period film, evoking a sense of hard labor, tradition, and focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:53.948433",
+  "word_count": 142,
+  "error_message": null
+}

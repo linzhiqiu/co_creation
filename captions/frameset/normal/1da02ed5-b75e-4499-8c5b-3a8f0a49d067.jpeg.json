@@ -1,0 +1,12 @@
+{
+  "image_filename": "1da02ed5-b75e-4499-8c5b-3a8f0a49d067.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic close-up shot of a person’s hand drawing a precise line with a pencil along the edge of a wooden ruler on a dark, textured surface. The camera angle is extremely low and tight, almost at table level, emphasizing the tactile interaction between the fingers, the pencil, and the ruler. The focus is shallow, with the pencil tip and the ruler’s edge in sharp detail while the background and the rest of the hand blur softly into the distance, creating a strong sense of depth. The lighting is natural and diffused, casting gentle highlights on the skin and subtle reflections on the ruler, evoking a calm, focused atmosphere. The color palette is muted and earthy, dominated by warm wood tones, soft skin hues, and the deep charcoal of the tabletop. The overall style is reminiscent of a contemplative, slow-motion sequence in a film, capturing the quiet intensity and precision of craftsmanship.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:47.155916",
+  "word_count": 153,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5ab87fbc-ddf6-43c5-82d0-03e2f1c787d3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet, wintry suburban street at night, viewed from an elevated perspective as if through a window. The scene is dominated by freshly fallen snow, blanketing the ground and creating soft, uneven mounds along the sidewalk and curb. In the foreground, two black trash bins and a small, round, snow-capped object—possibly a birdbath or garden ornament—stand on a shoveled patch of pavement, their dark forms contrasting starkly with the pristine white snow. A few black garbage bags are piled beside the bins, partially buried in snow. The street beyond is wet and dark, reflecting the cold blue and amber glow of streetlights, with a crosswalk faintly visible in the background. The lighting is moody and cinematic, with a cool blue cast and a single warm pool of light illuminating the trash area, creating a sense of isolation and quiet. The composition is carefully framed, with a shallow depth of field and a soft blur in the right foreground, suggesting the presence of a window or an observer. The overall mood is contemplative and slightly melancholic, evoking the stillness of a winter night in a quiet neighborhood.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:09.398962",
+  "word_count": 186,
+  "error_message": null
+}

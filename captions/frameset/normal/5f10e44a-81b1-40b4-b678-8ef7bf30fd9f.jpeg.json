@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f10e44a-81b1-40b4-b678-8ef7bf30fd9f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic black-and-white photograph of a minimalist interior scene. In the foreground, a modern glass vase with three stacked, rounded sections sits on a sleek, reflective table. Next to the vase is a small, highly polished metallic sphere, catching and reflecting the ambient light. The background is softly blurred, revealing the faint outline of a sofa and abstract geometric shapes, contributing to a sense of depth and quiet sophistication. The lighting is low and dramatic, with a single, diffused light source casting gentle highlights and subtle shadows across the glass and metal surfaces, creating a play of reflections and transparency. The overall composition is balanced and contemplative, with a shallow depth of field focusing attention on the objects, evoking a sense of calm and introspection. The style is reminiscent of fine art photography, with a strong emphasis on form, texture, and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:50.460873",
+  "word_count": 148,
+  "error_message": null
+}

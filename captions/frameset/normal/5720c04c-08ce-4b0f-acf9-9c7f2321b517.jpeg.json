@@ -1,0 +1,12 @@
+{
+  "image_filename": "5720c04c-08ce-4b0f-acf9-9c7f2321b517.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage flip clock, frozen at the time \"20:53.\" The numbers are large, bold, and white, standing out starkly against the deep black background of the clock face. The lighting is low and moody, casting subtle blue and teal tones that evoke a sense of nighttime or early evening, with soft shadows enhancing the mechanical details of the clock’s flipping mechanism. The composition is tight and symmetrical, focusing solely on the split between the two panels displaying the hour and minute, with no extraneous elements in the frame. The overall style is cinematic and minimalist, reminiscent of a suspenseful or contemplative moment in a film, with a shallow depth of field that keeps the numbers crisp while the edges of the clock fade gently into darkness. The mood is quiet, tense, and introspective, as if time itself is momentarily suspended.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:42.979669",
+  "word_count": 144,
+  "error_message": null
+}

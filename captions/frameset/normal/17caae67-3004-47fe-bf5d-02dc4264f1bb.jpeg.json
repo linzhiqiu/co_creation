@@ -1,0 +1,12 @@
+{
+  "image_filename": "17caae67-3004-47fe-bf5d-02dc4264f1bb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic image captured from a low, worm’s-eye view, looking directly upward at a diverse group of people standing in a tight circle. Their arms are outstretched, hands stacked together in the center, creating a powerful sense of unity and teamwork. The subjects are of varying ages, genders, and ethnicities, each partially illuminated by soft, diffused daylight filtering through an overcast sky above. The color palette is muted and natural, with subtle tones of skin, hair, and casual athletic clothing—light blues, greens, and grays—contrasting against the pale, cloudy background. The composition emphasizes the radial symmetry of the arms and hands, drawing the viewer’s eye to the focal point at the center. Faces are partially visible around the perimeter, some smiling, others focused, all exuding a sense of camaraderie and shared purpose. The overall style is documentary and authentic, with a shallow depth of field that keeps the hands sharp while the faces and sky blur slightly, enhancing the emotional impact and sense of collective energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:37.480923",
+  "word_count": 166,
+  "error_message": null
+}

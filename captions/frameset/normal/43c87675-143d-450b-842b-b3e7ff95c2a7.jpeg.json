@@ -1,0 +1,12 @@
+{
+  "image_filename": "43c87675-143d-450b-842b-b3e7ff95c2a7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, post-apocalyptic scene viewed from a high, slightly tilted angle, as if captured by a drone or crane camera. The setting is a vast, devastated urban landscape, with the ground split open into a deep, jagged chasm filled with broken concrete slabs, debris, and scattered fires emitting faint orange glows. Thick, swirling gray smoke and dust fill the air, partially obscuring the background and lending a sense of chaos and destruction.\n\nIn the center of the composition, two armored figures in futuristic, military-style exosuits walk cautiously through the rubble, their metallic armor reflecting the muted, cold daylight. Flanking them on the left, three unarmored individuals—two men and a woman—move carefully along the edge of the chasm, their clothing dark and practical, faces tense and alert. The group’s body language conveys urgency and wariness, as if they are navigating a dangerous, unstable environment.\n\nThe color palette is dominated by desaturated grays, charcoals, and muted earth tones, punctuated by the occasional warm glow of fire. The lighting is diffuse and natural, filtered through the haze, creating soft shadows and a somber, moody atmosphere. The overall style is gritty and realistic, with a strong sense of depth and scale emphasized by the wide shot and the dramatic, ruined landscape. The image evokes themes of survival, teamwork, and the aftermath of catastrophe, reminiscent of high-budget science fiction or action films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:55.846883",
+  "word_count": 228,
+  "error_message": null
+}

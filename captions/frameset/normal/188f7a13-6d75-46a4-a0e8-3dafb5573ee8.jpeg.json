@@ -1,0 +1,12 @@
+{
+  "image_filename": "188f7a13-6d75-46a4-a0e8-3dafb5573ee8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-tech command center scene set in a dimly lit, futuristic control room. The composition is symmetrical, with a central console flanked by multiple large, glowing monitors displaying world maps, data streams, and satellite imagery. The screens emit a cool blue and teal light, casting an ambient glow across the dark, industrial walls. Two horizontal fluorescent lights above the monitors provide additional stark, white illumination, enhancing the moody, cyberpunk atmosphere. The room is devoid of people, focusing entirely on the advanced technology and the immersive, high-stakes environment. The camera angle is straight-on at eye level, emphasizing the symmetry and depth of the workspace. The overall style is sleek and modern, with sharp contrasts between the luminous screens and the shadowy background, evoking a sense of urgency and global surveillance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:54.998233",
+  "word_count": 131,
+  "error_message": null
+}

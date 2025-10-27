@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c4f02b8-6051-48df-b4da-963bceaacfb1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, abstract landscape that evokes the feeling of being inside a cavernous, otherworldly space. The composition is dominated by swirling, marbled textures in shades of black, white, and deep gray, resembling polished stone or flowing liquid. The scene is framed by two massive, irregular rock formations on either side, curving inward and partially obscuring the view, creating a sense of depth and enclosure. In the center foreground, a smooth, rounded form—suggestive of a human silhouette seen from behind—emerges from the darkness, its surface reflecting the same marbled patterns as the surrounding environment. The background opens up to a luminous, cloudy sky, with soft, diffused light filtering through, casting subtle highlights and shadows across the scene. The overall mood is mysterious and contemplative, with a monochromatic color palette and a dreamlike, almost cinematic quality. The camera angle is low and slightly behind the central figure, emphasizing scale and immersion, while a shallow depth of field keeps the focus on the foreground textures, allowing the background to blur gently into abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:58.485373",
+  "word_count": 172,
+  "error_message": null
+}

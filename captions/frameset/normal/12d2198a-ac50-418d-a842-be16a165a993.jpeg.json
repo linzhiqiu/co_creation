@@ -1,0 +1,12 @@
+{
+  "image_filename": "12d2198a-ac50-418d-a842-be16a165a993.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a futuristic high school environment. The focus is on a young woman with long, dark auburn hair and fair skin, standing in the foreground, turned slightly to her left but looking back over her shoulder with a wide, radiant smile. She exudes confidence and happiness, her expression open and joyful. She wears a light blue top with a darker jacket, blending seamlessly with the modern, clean aesthetic of the setting.\n\nBehind her, a large digital display screen dominates the background, glowing with a cool blue hue. The screen features bold, yellow text displaying her name, \"IBANEZ C,\" along with the words \"MATH FINALS\" and a high score of \"97%,\" emphasizing her academic achievement. The background is softly out of focus, with other students partially visible, their faces turned away or obscured, ensuring the main subject remains the clear focal point.\n\nThe color palette is composed of cool blues and soft neutrals, with the digital yellow text providing a striking contrast. Lighting is bright and even, evoking a sense of optimism and clarity. The camera angle is at eye level, with a shallow depth of field that keeps the subject sharp while gently blurring the background, lending a cinematic quality to the composition. The overall mood is uplifting and aspirational, capturing a moment of personal triumph in a sleek, near-future academic setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:46.376333",
+  "word_count": 228,
+  "error_message": null
+}

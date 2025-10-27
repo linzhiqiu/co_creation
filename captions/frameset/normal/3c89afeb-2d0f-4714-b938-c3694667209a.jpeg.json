@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c89afeb-2d0f-4714-b938-c3694667209a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands beneath a large, glowing square light suspended from above, casting a stark, focused illumination onto him while the surrounding space dissolves into deep, impenetrable blackness. He wears a minimalist, modern outfit: a light gray collared shirt layered under a dark, sleeveless vest, paired with matching light gray trousers. His posture is upright yet contemplative, with his head tilted back and eyes gazing upward toward the luminous panel, his expression one of quiet wonder or introspection. The composition is centered and symmetrical, emphasizing the isolation and psychological intensity of the scene. The color palette is subdued and cool, dominated by shades of gray and white, with the harsh, clinical light creating sharp contrasts and soft shadows. The overall style is cinematic and minimalist, evoking a sense of existential drama and futuristic ambiguity, with a shallow depth of field that keeps the focus tightly on the subject and the illuminated area, while the background remains a void. The camera angle is eye-level, reinforcing the subject’s vulnerability and the enigmatic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:03.491082",
+  "word_count": 172,
+  "error_message": null
+}

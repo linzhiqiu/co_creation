@@ -1,0 +1,12 @@
+{
+  "image_filename": "566fa588-09a3-4105-a302-8667162fb066.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man sits posed for a formal portrait against a muted olive-green backdrop. He is centered in the frame, seated on a stool with his hands resting calmly in his lap, exuding a composed and professional demeanor. He wears a red polo shirt emblazoned with the word \"EDISON\" on the left chest, paired with khaki pants. Around his neck hangs a lanyard with an ID badge, further emphasizing his role in an institutional or educational setting. The man is bald, wears glasses, and gazes directly at the camera with a neutral, slightly serious expression.\n\nThe lighting is soft and diffused, casting gentle shadows that add depth to his features without creating harsh contrasts. The color palette is warm and subdued, dominated by earthy tones from the backdrop and his clothing, with subtle highlights from the natural light filtering in from a window on the left side of the image. The background is simple and uncluttered, with only faint hints of bookshelves and window frames at the edges, keeping the focus squarely on the subject. The composition is straightforward and balanced, with a shallow depth of field that softly blurs the background, lending a professional, documentary-style quality to the portrait. The overall mood is calm, respectful, and slightly introspective, reminiscent of a school or workplace staff photo session.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:27.566580",
+  "word_count": 218,
+  "error_message": null
+}

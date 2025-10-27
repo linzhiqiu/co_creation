@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bca31a2-ad8e-4c15-a3d5-31ad640fafa1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a neatly stacked document titled \"FINAL REPORT\" with the date \"07.n\" partially visible beneath the title, clipped together with a black binder clip in the upper left corner. On top of the report, a yellow sticky note is prominently placed, handwritten with the words \"DRAFT for APPROVAL\" in bold, black ink. A hand enters the frame from the right, gently holding the edge of the report, suggesting imminent action or review. The scene is bathed in cool, bluish lighting, creating a professional, slightly clinical atmosphere. The background is minimal and uncluttered, with a smooth, pale surface that emphasizes the focus on the document. The composition is top-down, with a shallow depth of field that keeps the report and sticky note sharply in focus while subtly blurring the background, evoking a sense of anticipation and importance. The overall style is clean, modern, and businesslike, reminiscent of a corporate office environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:36.841037",
+  "word_count": 153,
+  "error_message": null
+}

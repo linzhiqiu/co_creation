@@ -1,0 +1,12 @@
+{
+  "image_filename": "2d29b24c-938c-4365-832a-0924f4d3b467.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A gritty, urban close-up of a weathered metal door, partially ajar, covered in graffiti. The most prominent tag, written in bold, black spray paint, reads \"ARASH TA MERE\" with a thick underline, while other faded and less legible tags are scattered above and around it. The surface of the door is scratched and speckled, showing years of wear and neglect. The lighting is stark and moody, casting deep shadows and highlighting the texture of the metal, evoking a sense of abandonment and raw urban realism. The composition is tight, focusing on the graffiti and the edge of the door, with a sliver of brighter light spilling in from the right, suggesting an unseen space beyond. The color palette is monochromatic, dominated by shades of black, white, and gray, enhancing the somber, documentary-style atmosphere. The overall style is reminiscent of street photography or a neo-noir film still, with a shallow depth of field that keeps the viewer’s attention on the gritty details of the door and graffiti.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:19.885046",
+  "word_count": 166,
+  "error_message": null
+}

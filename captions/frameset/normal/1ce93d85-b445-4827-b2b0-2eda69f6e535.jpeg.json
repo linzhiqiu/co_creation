@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ce93d85-b445-4827-b2b0-2eda69f6e535.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle photograph of an expansive, open grassy field dotted with multiple soccer goals, each receding into the distance and perfectly aligned to create a striking sense of depth and perspective. The foreground is dominated by a single, white metal goalpost, its frame slightly weathered, standing on a patch of green and yellowed grass. Beyond it, several more identical goals are visible, each smaller and more distant, drawing the viewer’s eye toward the horizon. The field is bordered by a line of lush, leafy trees, and in the far background, a tall, modern apartment building rises against a dramatic, overcast sky filled with thick, gray clouds. The lighting is diffuse and natural, casting soft shadows and lending a subdued, contemplative mood to the scene. The color palette is dominated by muted greens, earthy browns, and cool grays, evoking a sense of calm and quiet anticipation. The composition is symmetrical and balanced, with the central goalpost acting as a visual anchor, and the overall style is realistic with a touch of cinematic minimalism, emphasizing the vastness and solitude of the empty sports field.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:31.956252",
+  "word_count": 182,
+  "error_message": null
+}

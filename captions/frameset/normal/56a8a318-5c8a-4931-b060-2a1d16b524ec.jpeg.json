@@ -1,0 +1,12 @@
+{
+  "image_filename": "56a8a318-5c8a-4931-b060-2a1d16b524ec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed close-up photograph of a miniature battle scene, featuring a small, gray plastic Roman soldier figurine in mid-stride, holding a round shield and wearing a crested helmet and armor. The soldier is sharply in focus at the center of the composition, with dynamic body language suggesting movement or combat. In the foreground, out of focus, are the blurred forms of other toy figures, including a green-armored figure with a raised arm and a hint of colorful plastic weaponry, creating a sense of depth and action. The background is a textured, metallic surface with a cool, desaturated color palette dominated by grays and muted tones, evoking a gritty, urban battlefield. The lighting is natural and slightly diffuse, casting soft shadows and subtle highlights on the plastic figures, enhancing their three-dimensionality. The camera angle is low and intimate, at toy-eye level, with a shallow depth of field that isolates the central Roman soldier and blurs the surrounding chaos, giving the scene a cinematic, almost epic quality despite the miniature scale.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:28.877128",
+  "word_count": 170,
+  "error_message": null
+}

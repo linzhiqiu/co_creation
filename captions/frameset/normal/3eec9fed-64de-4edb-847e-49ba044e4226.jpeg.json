@@ -1,0 +1,12 @@
+{
+  "image_filename": "3eec9fed-64de-4edb-847e-49ba044e4226.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA moody, cinematic still life of a stack of vintage electronic equipment, including oscilloscopes, signal generators, and analog control panels, arranged haphazardly in a dimly lit, industrial setting. The devices are metallic, with worn dials, switches, and small cathode ray tube screens, some displaying faint blue-green glows. The color palette is muted and desaturated, dominated by cool grays, faded greens, and subtle hints of rust and patina, evoking a sense of age and abandonment. The lighting is low and directional, casting soft shadows and highlighting the textures of metal and glass, while the background fades into deep shadow, suggesting a large, empty, and possibly derelict space. The composition is tight and focused on the equipment, with a shallow depth of field that blurs the background, creating an atmosphere of quiet nostalgia and technological obsolescence. The overall style is reminiscent of a post-apocalyptic or retro-futuristic film, with a sense of mystery and forgotten history.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:51.565277",
+  "word_count": 154,
+  "error_message": null
+}

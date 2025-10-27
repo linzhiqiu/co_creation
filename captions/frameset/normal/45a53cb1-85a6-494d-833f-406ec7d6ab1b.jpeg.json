@@ -1,0 +1,12 @@
+{
+  "image_filename": "45a53cb1-85a6-494d-833f-406ec7d6ab1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a white construction hard hat lying upside down on wet, dark gravel. The hard hat is partially filled with rainwater, with visible ripples on the water’s surface, suggesting recent or ongoing rainfall. To the left of the frame, a neat stack of light brown wooden planks is arranged, their edges catching the soft, diffused daylight. The ground is composed of small, glistening stones, their wet surfaces reflecting the ambient light and adding texture to the scene. The overall color palette is cool and subdued, dominated by grays, whites, and muted browns, evoking a somber, overcast mood. The lighting is natural and soft, with no harsh shadows, enhancing the sense of dampness and quiet. The camera angle is low and intimate, at ground level, with a shallow depth of field that keeps the hard hat and immediate foreground in sharp focus while gently blurring the background. The composition conveys a sense of stillness and abandonment, with a subtle narrative of work paused or interrupted by rain.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:57:08.938105",
+  "word_count": 170,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f1f72cc-0df7-4579-9686-7525f8bcc6b6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, abstract architectural scene viewed from below, focusing on a series of diagonal beams and stair-like structures. The entire composition is bathed in deep, saturated red tones, creating a dramatic and intense atmosphere. The lighting is bold and directional, casting sharp shadows and enhancing the geometric forms, while the color palette is limited almost exclusively to shades of red, from crimson to scarlet. The camera angle is tilted, emphasizing the dynamic lines and depth of the structure, with a strong sense of perspective and repetition. The overall style is modern and minimalist, evoking a sense of mystery and intrigue, with a cinematic quality reminiscent of experimental or avant-garde photography. No human figures are present; the focus is entirely on the interplay of light, shadow, and architectural form.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:33.669148",
+  "word_count": 129,
+  "error_message": null
+}

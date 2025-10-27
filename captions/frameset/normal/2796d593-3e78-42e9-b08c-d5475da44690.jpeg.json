@@ -1,0 +1,12 @@
+{
+  "image_filename": "2796d593-3e78-42e9-b08c-d5475da44690.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young, wide-eyed elephant calf stands alone on a dimly lit metal staircase inside what appears to be the hull of a ship. The elephant’s large ears and small stature emphasize its vulnerability and innocence. The lighting is moody and cinematic, with a warm, golden glow illuminating the elephant from behind, casting soft shadows and highlighting the texture of its skin. The background features industrial elements: riveted steel walls, thick ropes strung along the staircase, and a small round porthole emitting a faint yellow light. The composition is slightly off-center, with the camera positioned low and angled upward, creating a sense of depth and drawing attention to the elephant’s tentative posture as it descends the stairs. The overall color palette is muted, dominated by dark grays, deep blues, and warm amber tones, evoking a sense of melancholy and wonder. The scene feels intimate and cinematic, with a shallow depth of field that keeps the focus on the elephant while the background softly recedes into shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:16.842924",
+  "word_count": 165,
+  "error_message": null
+}

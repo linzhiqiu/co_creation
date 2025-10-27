@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e8f0ab5-c5c2-49b4-b120-658e86aa8e26.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, cinematic scene featuring two women with similar appearances, possibly twins, seated across from each other at a small, modern table in the center of a stark, gray-walled room. Both women have dark hair pulled back in low ponytails and wear simple, dark, loose-fitting clothing that blends harmoniously with the muted, monochromatic color palette of the environment. They are engaged in a game of chess, with the chessboard and pieces sharply in focus on the table between them. The women’s expressions are calm and contemplative, suggesting deep concentration and a quiet intensity. The room is sparsely furnished, with only the table, two minimalist benches, and a single, industrial-style desk lamp overhead, casting soft, diffused light that creates gentle shadows and a serene, introspective mood. The composition is symmetrical and balanced, with the camera positioned at eye level, directly facing the table, emphasizing the psychological tension and mirroring between the two subjects. The overall style is clean, modern, and slightly surreal, evoking a sense of isolation, focus, and quiet intellectual rivalry.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:41.866519",
+  "word_count": 171,
+  "error_message": null
+}

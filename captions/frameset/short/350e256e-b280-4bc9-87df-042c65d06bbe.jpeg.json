@@ -1,0 +1,12 @@
+{
+  "image_filename": "350e256e-b280-4bc9-87df-042c65d06bbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A grayscale, vintage classroom scene with a stern teacher in a Mao-style uniform lecturing from a wooden podium. Students in simple attire sit facing forward. The cracked, textured wall behind features a portrait of a stern leader and exposed pipes. Scientific diagrams are displayed on an easel, evoking a somber, authoritarian atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:12.266455",
+  "word_count": 52,
+  "error_message": null
+}

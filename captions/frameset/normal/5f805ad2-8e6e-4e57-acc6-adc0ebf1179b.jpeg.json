@@ -1,0 +1,12 @@
+{
+  "image_filename": "5f805ad2-8e6e-4e57-acc6-adc0ebf1179b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bald man stands in the foreground, gazing upward with a tense, determined expression. He wears a rugged, dark leather jacket over a plain, light-colored shirt, with a pair of wire-rimmed glasses hanging loosely around his neck. The setting is an industrial, metallic interior, dominated by cold steel beams and heavy chains that hang from the ceiling, creating a sense of confinement and tension. The background is shrouded in a bluish-gray haze, with diffused, moody lighting that casts soft shadows and highlights the stark, utilitarian architecture. The camera angle is low, looking up at the man to emphasize his presence and the imposing scale of the environment. The overall color palette is muted and desaturated, with cool tones and a gritty, cinematic atmosphere reminiscent of dystopian science fiction. The composition draws the viewer’s eye to the central figure, while the depth of field keeps the background slightly out of focus, enhancing the sense of isolation and suspense.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:03.178225",
+  "word_count": 157,
+  "error_message": null
+}

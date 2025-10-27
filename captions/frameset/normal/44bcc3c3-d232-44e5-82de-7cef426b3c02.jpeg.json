@@ -1,0 +1,12 @@
+{
+  "image_filename": "44bcc3c3-d232-44e5-82de-7cef426b3c02.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, moody close-up of a modern car interior at night, viewed from the passenger side and angled toward the driver’s seat and dashboard. The scene is bathed in cool, blue-tinted lighting, creating a sleek, almost futuristic atmosphere. The dashboard display glows softly, casting subtle reflections on the smooth, sculpted surfaces of the dashboard and door panel. The steering wheel and gear shift are in sharp focus, while the background fades into gentle shadow, emphasizing the contours and textures of the car’s interior. The overall composition is minimalist, with clean lines and a sense of quiet anticipation, evoking the feeling of solitude and introspection before a nighttime drive. The lighting is low-key, with deep shadows and selective highlights, reminiscent of a neo-noir film style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:45.923289",
+  "word_count": 125,
+  "error_message": null
+}

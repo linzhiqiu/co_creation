@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ce661b4-a8ad-46aa-b05f-469d7f463ed6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern smartphone floats in the foreground, its screen displaying a digital banking app interface in Russian. The app features a prominent image of a black credit card with silver details and a Mastercard logo, set against a clean white and green background. The top of the app interface is branded with a green header and a white geometric logo, accompanied by Cyrillic text. Below the card image, a large green button invites user interaction. The phone is rendered with a slight three-quarter angle, emphasizing its thin profile and edge-to-edge display.\n\nIn the background, a large, lime-green shopping bag with white handles is softly out of focus, suggesting a retail or e-commerce context. The backdrop is composed of deep blue vertical drapes, adding a sense of depth and contrast to the composition. The lighting is bright and even, highlighting the phone and the shopping bag while maintaining a clean, professional look. The overall style is crisp and contemporary, with a shallow depth of field that draws attention to the digital interface and creates a sense of modern convenience and technological sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:39.244610",
+  "word_count": 182,
+  "error_message": null
+}

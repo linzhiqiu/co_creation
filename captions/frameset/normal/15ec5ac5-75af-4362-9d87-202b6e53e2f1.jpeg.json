@@ -1,0 +1,12 @@
+{
+  "image_filename": "15ec5ac5-75af-4362-9d87-202b6e53e2f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a minimalist, softly lit scene featuring a close-up of a person seated on a simple white stool. The focus is on their lap and hand, with the upper body partially visible and the face out of frame. The subject wears pale pink tights and a loose, light-colored top, evoking a sense of calm and subtle elegance. In their hand, they firmly grip the handle of a flexible, looped object, possibly a massage tool or exercise device, which rests gently against their thigh. The background is a smooth, neutral gray, enhancing the serene and uncluttered atmosphere. The color palette is muted and pastel, dominated by soft pinks, whites, and grays. The lighting is diffuse and even, eliminating harsh shadows and creating a gentle, almost ethereal quality. The composition is tight and intimate, with a shallow depth of field that keeps the viewer’s attention on the textures of the clothing, the hand’s grip, and the contours of the tool, conveying a quiet, contemplative mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:55.661279",
+  "word_count": 163,
+  "error_message": null
+}

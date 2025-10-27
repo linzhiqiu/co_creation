@@ -1,0 +1,12 @@
+{
+  "image_filename": "51f42fc2-d6d1-46d0-901b-9da2128d2751.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mysterious, cinematic scene set inside a dimly lit underground parking garage. The main subject is a person sitting in the driver’s seat of a pristine white limousine, viewed from outside the windshield at a slight angle. The person wears a pale, expressionless mask that covers their entire face, creating an unsettling and enigmatic atmosphere. Their hand is raised to their head, as if adjusting the mask or tucking back hair, adding a subtle sense of motion and tension. The background is filled with other white limousines, parked in neat rows, their glossy surfaces reflecting the soft, diffused overhead lighting. The color palette is muted and cool, dominated by whites, grays, and soft shadows, with the mask’s pale hue standing out starkly against the darker interior of the car. The composition is carefully framed, with the limousine’s elongated shape leading the viewer’s eye into the depth of the garage. The overall style is minimalist and suspenseful, evoking a sense of intrigue and unease, reminiscent of a psychological thriller or neo-noir film.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:36.380183",
+  "word_count": 171,
+  "error_message": null
+}

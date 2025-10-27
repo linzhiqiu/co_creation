@@ -1,0 +1,12 @@
+{
+  "image_filename": "4d447f47-f6e5-4aac-83db-7888f9ae1897.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist still life composition featuring two gold bars placed side by side on a smooth, matte green surface. The gold bars are positioned in the lower left quadrant of the frame, each catching a small, bright glint of light that accentuates their metallic sheen and sharp edges. The background is a solid, muted mauve color, creating a subtle contrast with the green surface and the warm gold tones. The lighting is soft and directional, casting gentle shadows and highlighting the reflective quality of the gold. The overall style is clean and modern, with a focus on geometric forms and negative space. The camera angle is straight-on at table height, with a shallow depth of field that keeps the gold bars in crisp focus while the background remains smooth and unobtrusive. The mood is calm, elegant, and slightly surreal, evoking a sense of quiet luxury and refined simplicity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:47.098674",
+  "word_count": 148,
+  "error_message": null
+}

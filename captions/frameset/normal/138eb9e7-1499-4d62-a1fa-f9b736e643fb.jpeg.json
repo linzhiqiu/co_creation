@@ -1,0 +1,12 @@
+{
+  "image_filename": "138eb9e7-1499-4d62-a1fa-f9b736e643fb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a page from a French book, with the camera focused tightly on the printed text. The words are rendered in a classic serif font, crisp and clear, with phrases such as \"soulever des tempêtes\" and \"son essence inhumaine\" visible in the center of the frame. Soft, diagonal shadows—possibly cast by window blinds—fall across the page, creating a subtle interplay of light and darkness that adds depth and visual interest. The lighting is gentle and natural, evoking a quiet, contemplative atmosphere, as if the scene is set in a sunlit study or library. The color palette is muted and understated, dominated by the off-white of the paper and the deep black of the ink, with the shadows introducing gentle gradients of gray. The composition is intimate and immersive, with a shallow depth of field that keeps the focus on the text while allowing the background to blur softly, enhancing the sense of quiet introspection and literary reverence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:59.936688",
+  "word_count": 161,
+  "error_message": null
+}

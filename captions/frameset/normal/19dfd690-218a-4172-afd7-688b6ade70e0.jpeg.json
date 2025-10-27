@@ -1,0 +1,12 @@
+{
+  "image_filename": "19dfd690-218a-4172-afd7-688b6ade70e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic close-up shot of a vintage car dashboard, focusing on the central speedometer and surrounding dials. The composition is tight, with the camera positioned at a slight angle from the driver’s perspective, partially framing the classic wooden steering wheel in the foreground. The dashboard is crafted from brushed metal, featuring rivets and industrial detailing, evoking a sense of mid-20th-century automotive design. The speedometer needle is caught in motion, suggesting the car is accelerating, while the other gauges and switches add to the mechanical complexity. The color palette is dominated by cool metallic grays and silvers, contrasted by the warm brown of the steering wheel. Lighting is soft and diffused, creating subtle reflections and highlights on the metal surfaces, enhancing the tactile realism. The overall mood is nostalgic and cinematic, with a shallow depth of field that blurs the background, drawing attention to the intricate details and craftsmanship of the dashboard.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:26.065504",
+  "word_count": 152,
+  "error_message": null
+}

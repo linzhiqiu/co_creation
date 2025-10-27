@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d153fa5-e8a0-46ea-bcba-4ab4d6b2dcda.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic black-and-white portrait of a young male athlete in motion, captured mid-stride during an outdoor run. The subject has striking, short, bleached-blond hair that contrasts sharply with his dark skin and the monochrome palette. He wears a fitted, dark athletic shirt, and his intense, focused expression conveys determination and effort. Raindrops are visible in the air, adding a dynamic, dramatic element to the scene. The background is softly blurred, featuring indistinct trees and a hint of a road or sidewalk, creating a shallow depth of field that keeps the attention on the runner. The lighting is natural and diffused, likely from an overcast sky, enhancing the moody, gritty atmosphere. The overall composition is tight, with the subject slightly off-center, evoking a sense of movement and urgency. The style is reminiscent of documentary sports photography, emphasizing raw emotion and physicality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:13.086633",
+  "word_count": 141,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "29423ebe-0eb5-41c9-8053-eac5554b7435.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, atmospheric nighttime scene centered on a single vintage street lamp glowing softly in the darkness. The lamp is the focal point, casting a gentle, diffused white light that subtly illuminates its immediate surroundings. The background is shrouded in deep shadow, with the faint, intricate silhouettes of bare tree branches weaving across the scene, adding a sense of quiet solitude and mystery. The overall color palette is monochromatic, dominated by rich blacks and soft grays, enhancing the sense of night and stillness. The composition is minimalist, with the lamp positioned centrally and framed by the organic, almost haunting outlines of the trees. The lighting is low-key, with high contrast between the lamp’s glow and the enveloping darkness, evoking a cinematic, noir-inspired style. The camera angle is straight-on, with a shallow depth of field that keeps the lamp in sharp focus while the background remains blurred and indistinct, emphasizing the isolation and quiet beauty of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:55.971702",
+  "word_count": 158,
+  "error_message": null
+}

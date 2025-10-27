@@ -1,0 +1,12 @@
+{
+  "image_filename": "37192095-1b77-421a-8b10-6dafd4296d45.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of a tennis ball in mid-air, captured at the precise moment it bounces just above the green hardcourt surface near a white boundary line. The ball is sharply in focus, its fuzzy yellow-green texture vividly detailed, with flecks of black court debris scattering from the impact point beneath it. The shadow of the ball is crisply cast on the court, adding depth and dimension. The background is softly blurred, emphasizing the ball and the dynamic motion of the bounce. The color palette features rich greens, bright yellow, and stark white, with natural daylight illuminating the scene, creating a sense of clarity and intensity. The composition is tight and dramatic, with a shallow depth of field and a low-angle perspective that heightens the sense of action and immediacy, evoking the tension and precision of a high-stakes tennis match.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:01.482288",
+  "word_count": 140,
+  "error_message": null
+}

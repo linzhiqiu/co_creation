@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d942637-30a2-42ee-b5c3-e5af0cd920e1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a young man intently looking through a pair of large black binoculars, his face partially obscured by the lenses. The focus is sharp on the binoculars, with the reflections in the glass hinting at a distant, out-of-frame scene. The young man’s skin is softly lit, revealing subtle details like a faint mustache and the texture of his lips, while the rest of his features are slightly blurred, creating a shallow depth of field. The lighting is cool and natural, casting gentle shadows that add a sense of intrigue and suspense. The background is out of focus, emphasizing the subject’s concentration and the act of observation. The overall mood is tense and voyeuristic, reminiscent of classic suspense films, with a muted color palette dominated by soft blues, grays, and skin tones. The composition is tight and immersive, drawing the viewer into the subject’s perspective and heightening the sense of mystery and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:14.731625",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "37e50fd0-d7dd-4e2b-9b74-1301c2f29a47.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A first-person perspective inside a dimly lit, futuristic laboratory or workshop, illuminated by cool blue and teal lighting. The viewer’s gloved hands are visible in the foreground, reaching out as if exploring or reacting to the environment. The room features a large central table with scattered tools and objects, surrounded by tiled floors and industrial equipment. To the left, a partially disassembled car is suspended, hinting at advanced technology or experimentation. The background includes large windows with neon-lit cityscape views and complex machinery, adding depth and a cyberpunk atmosphere. The ceiling is partially open, revealing stylized clouds and beams, casting dramatic shadows across the scene. The overall style is cinematic, with a wide-angle lens effect, strong contrasts between light and shadow, and a sense of immersive, interactive storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:52:17.881416",
+  "word_count": 128,
+  "error_message": null
+}

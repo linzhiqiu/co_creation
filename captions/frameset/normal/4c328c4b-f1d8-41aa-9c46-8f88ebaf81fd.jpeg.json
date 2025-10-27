@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c328c4b-f1d8-41aa-9c46-8f88ebaf81fd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a woman’s face, centered in the frame, with a calm yet focused expression. Her skin is lightly freckled, and she has dark hair pulled back, wearing a high-collared, dark top. Overlay semi-transparent digital interface elements—charts, data grids, and technical readouts—across her face, as if she is intently studying a futuristic computer screen. The lighting is soft and cool, casting gentle highlights on her features while the background remains out of focus and indistinct, emphasizing her concentration. The overall color palette is muted, with subtle greens and blues from the digital overlays, evoking a high-tech, introspective atmosphere. The composition uses shallow depth of field and a slight reflection effect, blending the digital interface with her face to create a sense of immersion and technological engagement, reminiscent of a science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:21.712298",
+  "word_count": 135,
+  "error_message": null
+}

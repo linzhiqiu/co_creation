@@ -1,0 +1,12 @@
+{
+  "image_filename": "60313bc1-1bab-4e10-81db-6b9ccc23e518.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer screen displaying a technical 3D data visualization. The main focus is a blue, grid-like 3D surface plot with colored data points, set against a white background within a software interface. The graph is labeled with axes and numerical values, suggesting scientific or engineering data analysis. Below the graph, a detailed table with rows and columns of numbers and colored cells is visible, indicating complex data input or results. The software window features a standard toolbar with icons and menus at the top, rendered in a light gray and blue color scheme. The lighting is dim, with the screen itself providing the primary illumination, casting a cool, bluish glow. The composition is slightly off-center, with a subtle shadow or dark blur partially obscuring the lower right corner, adding depth and a sense of realism. The overall style is documentary and technical, evoking a focused, analytical atmosphere typical of a laboratory or engineering workspace. The camera angle is direct and level, emphasizing clarity and the importance of the data on display.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:18.495646",
+  "word_count": 175,
+  "error_message": null
+}

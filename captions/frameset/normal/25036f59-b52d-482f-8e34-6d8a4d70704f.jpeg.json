@@ -1,0 +1,12 @@
+{
+  "image_filename": "25036f59-b52d-482f-8e34-6d8a4d70704f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single kayaker navigates a fast-moving river, captured mid-action in a dynamic outdoor scene. The subject, a man, is seated in a bright red kayak, wearing a vivid orange life vest and a white safety helmet, emphasizing both adventure and safety. He holds a double-bladed paddle with orange blades, actively steering through the choppy, gray-green water. His expression is focused and determined, conveying the thrill and challenge of the moment. The background features lush, green riverbanks with dense foliage, slightly blurred to create a sense of depth and motion. The lighting is natural and diffuse, suggesting an overcast day, which softens shadows and enhances the rich, earthy color palette. The composition centers the kayaker, using a medium telephoto lens to compress the scene and highlight the subject against the textured water and verdant backdrop. The overall style is realistic and documentary-like, with a slight cinematic quality due to the shallow depth of field and the crisp capture of movement in the water.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:24.990111",
+  "word_count": 162,
+  "error_message": null
+}

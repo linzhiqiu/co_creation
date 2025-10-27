@@ -1,0 +1,12 @@
+{
+  "image_filename": "4914f5cb-0edd-41b2-a2ef-b4744b53db7f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene set on a wet cobblestone street, viewed from a low angle that emphasizes the glistening texture of the stones. The primary focus is on the reflection of four figures walking together, their forms slightly distorted in a shallow puddle. The figures are only visible as dark silhouettes, their features and clothing obscured by the mist and the play of light on the wet ground. Wisps of fog drift across the surface, adding an air of mystery and tension. The color palette is dominated by deep blues and muted grays, with subtle highlights from distant, out-of-focus streetlights that create a soft, diffused glow in the background. The overall mood is moody and atmospheric, evoking a sense of suspense or anticipation, reminiscent of a neo-noir film. The composition uses negative space and reflection to draw the viewer’s eye, with a shallow depth of field that keeps the background abstract and dreamlike.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:58:17.858062",
+  "word_count": 153,
+  "error_message": null
+}

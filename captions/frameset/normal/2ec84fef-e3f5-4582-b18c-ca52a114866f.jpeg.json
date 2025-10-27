@@ -1,0 +1,12 @@
+{
+  "image_filename": "2ec84fef-e3f5-4582-b18c-ca52a114866f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands outdoors at the base of a short staircase, framed by lush green hedges on either side. She is captured from a slightly elevated, almost overhead angle, creating a sense of intimacy and focus on her action. The woman has light brown hair and wears a crisp white short-sleeved blouse with subtle ruffles and dark trousers, giving her a professional yet approachable appearance. Her expression is intent and concentrated as she holds a smartphone above her head with both hands, as if trying to capture a photo or get a better signal. The background features a paved street with white painted lines and a small silver car parked along the curb, adding a touch of urban context. The lighting is natural daylight, soft and diffused, suggesting an overcast sky. The color palette is cool and subdued, with greens from the hedges, grays from the pavement, and whites from the blouse and street markings. The overall style is realistic and candid, with a shallow depth of field that keeps the woman in sharp focus while gently blurring the background, evoking a cinematic, documentary-like quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:55.420537",
+  "word_count": 186,
+  "error_message": null
+}

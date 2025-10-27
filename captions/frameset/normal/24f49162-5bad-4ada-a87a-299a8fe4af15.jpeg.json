@@ -1,0 +1,12 @@
+{
+  "image_filename": "24f49162-5bad-4ada-a87a-299a8fe4af15.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"View from inside a vintage tram as it moves through a sunlit European city street, likely mid-20th century. The camera is positioned just behind the tram’s window, framing the scene with the tram’s dark wooden window frames and metal bars in the foreground, creating a sense of depth and enclosure. Outside, the street is lined with elegant, historic stone buildings featuring ornate facades, arched windows, and classical architectural details. Signs in Italian are visible, suggesting an Italian city, and the street is populated with a few classic cars in motion, their rounded shapes and muted colors evoking a bygone era. The lighting is natural and bright, casting soft shadows and highlighting the warm tones of the stone buildings and the reflective surfaces of the cars. The overall color palette is warm and slightly desaturated, with creamy beiges, pale yellows, and hints of blue and green. The composition captures a fleeting, documentary-style moment, with a slight motion blur on the passing cars and buildings, enhancing the sense of movement and nostalgia. The style is cinematic, reminiscent of classic European films, with a focus on realism, atmosphere, and the interplay between interior and exterior spaces.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:27.163033",
+  "word_count": 194,
+  "error_message": null
+}

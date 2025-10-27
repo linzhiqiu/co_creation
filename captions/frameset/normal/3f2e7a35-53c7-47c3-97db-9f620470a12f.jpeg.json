@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f2e7a35-53c7-47c3-97db-9f620470a12f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits in a dimly lit, modern interior, framed from the chest up in a shallow depth of field. She wears large, round eyeglasses and a patterned blouse with a white and green geometric design, accented by an orange-trimmed neckline. Her light brown hair is loosely pulled back, and she gazes upward with a pensive, slightly exasperated expression, as if lost in thought or reacting to something unseen above her. The lighting is moody and cinematic, with soft, diffused highlights on her face and subtle shadows that add depth and drama. The background is out of focus, featuring hints of glowing orange and green lights that suggest a high-tech or office environment, contributing to a subdued, contemplative atmosphere. The overall color palette is muted, with earthy tones and gentle contrasts, evoking a sense of introspection and quiet tension. The camera angle is at eye level, with the subject centered and partially framed by dark, out-of-focus foreground elements, enhancing the sense of isolation and focus on her emotional state.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:55.688843",
+  "word_count": 170,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ed4a9f7-0bab-4d9a-a7b0-f12020fa179e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, geometric interior scene viewed from a central, one-point perspective, as if looking down a long, rectangular corridor or tunnel. The walls, ceiling, and floor are densely packed with an array of three-dimensional cubes and rectangular prisms in various sizes, creating a sense of depth and complexity. The color palette is bold and playful, dominated by primary colors—vivid reds, yellows, and blues—interspersed with muted tones like beige, brown, and teal. At the far end of the corridor, a solitary human figure sits on a white platform, facing forward, their small scale emphasizing the vastness and intricacy of the surrounding space. The lighting is bright and even, with soft shadows that enhance the dimensionality of the blocks. The overall style is modern and abstract, reminiscent of a digital or architectural rendering, with clean lines and a slightly glossy finish. The composition draws the viewer’s eye toward the distant figure, creating a sense of curiosity and wonder within this imaginative, maze-like environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:25.652403",
+  "word_count": 163,
+  "error_message": null
+}

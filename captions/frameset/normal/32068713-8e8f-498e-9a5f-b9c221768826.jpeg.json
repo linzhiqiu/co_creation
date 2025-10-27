@@ -1,0 +1,12 @@
+{
+  "image_filename": "32068713-8e8f-498e-9a5f-b9c221768826.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern gym interior, brightly lit with cool, even fluorescent lighting, featuring rows of sleek, dark gray treadmills and elliptical machines lined up along the left side of the frame. In the foreground to the right, a man in a light gray t-shirt and dark shorts is running on a treadmill, his back to the camera, captured mid-stride with a sense of motion. In the background, four people—three men and one woman—walk together toward the camera, dressed in athletic wear: one in a yellow top, another in a red top, and the others in black. Their expressions are relaxed and friendly, suggesting camaraderie. The ceiling is low with a grid of white panels, and the carpeted floor is a muted blue, adding to the clean, orderly atmosphere. The composition uses a wide-angle perspective, emphasizing the spaciousness and symmetry of the gym, with a slight depth of field that keeps both the foreground and background subjects in focus. The overall mood is energetic yet casual, evoking a sense of community and motivation in a contemporary fitness environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:07.869680",
+  "word_count": 176,
+  "error_message": null
+}

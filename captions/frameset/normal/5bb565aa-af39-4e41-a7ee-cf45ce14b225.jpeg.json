@@ -1,0 +1,12 @@
+{
+  "image_filename": "5bb565aa-af39-4e41-a7ee-cf45ce14b225.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, sunlit café interior with a warm, inviting atmosphere. In the foreground, two people—a young woman with dark hair pulled back and a man with a short beard and glasses—sit across from each other at a small wooden table. Both wear matching dark gray zip-up vests with a blue and white embroidered logo over casual shirts, suggesting they are colleagues or students from the same organization. The woman, seated on the left, leans slightly forward, her expression focused and engaged as she listens. The man, on the right, gestures gently toward an open notebook on the table, his demeanor attentive and collaborative. Scattered papers, a pen, and a laptop add to the sense of a productive meeting or tutoring session. In the softly blurred background, another person stands at the counter, and shelves lined with coffee supplies and pastries evoke a bustling yet relaxed café environment. The color palette is dominated by warm browns, soft beiges, and muted grays, with natural daylight streaming in from large windows, creating gentle highlights and a shallow depth of field that keeps the focus on the two main subjects. The overall style is cinematic and naturalistic, with a slight documentary feel, capturing an authentic moment of teamwork and learning.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:34.200197",
+  "word_count": 206,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "13b91edd-54cc-4f0d-a554-fcfd4c5b834e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, minimalist office space bathed in soft, natural daylight streaming through large industrial windows. In the foreground, a white couch sits partially out of frame, adding a touch of comfort to the otherwise functional environment. The main focus is on two colleagues standing at a large whiteboard wall, deeply engaged in discussion. One, a woman with short dark hair, wears a simple white t-shirt and black shorts, her posture attentive as she faces the wall. The other, a bearded man in a light gray jacket with black accents and dark jeans, gestures animatedly toward a series of sketches and swatches pinned to the board, suggesting a creative brainstorming session. The wall is adorned with neatly arranged color samples and paper sheets, hinting at a design or fashion project.\n\nIn the background, a third person sits at a wooden desk, focused on a laptop, with a black helmet and other work items nearby, contributing to the sense of a busy, collaborative workspace. A tall black column with subtle white text and a small logo adds a touch of branding and divides the space. A large leafy plant and visible fire extinguisher provide pops of green and red, breaking up the neutral palette of whites, grays, and blacks. The overall composition is clean and balanced, with a shallow depth of field that keeps the focus on the interaction at the whiteboard while softly blurring the background. The mood is industrious yet relaxed, evoking the creative energy of a contemporary design studio.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:05.934261",
+  "word_count": 250,
+  "error_message": null
+}

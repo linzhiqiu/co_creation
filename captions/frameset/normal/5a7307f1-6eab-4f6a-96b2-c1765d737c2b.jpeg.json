@@ -1,0 +1,12 @@
+{
+  "image_filename": "5a7307f1-6eab-4f6a-96b2-c1765d737c2b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a dartboard at night, illuminated by soft, warm ambient lighting that creates a moody, intimate atmosphere. The focus is on the center of the dartboard, with several darts embedded in and around the bullseye, their metallic tips and colored flights catching the gentle glow. The background is deep and shadowy, fading into darkness, with only hints of out-of-focus string lights or subtle reflections suggesting an outdoor or backyard setting. The composition uses a shallow depth of field, blurring the background and drawing attention to the sharp details of the dartboard and darts. The color palette is subdued, dominated by dark blues and blacks, with accents of muted gold and soft purples from the dart flights. The overall style is reminiscent of a contemplative, slow-paced film, evoking a sense of quiet focus and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:01.116727",
+  "word_count": 138,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "450a5ae9-7970-44f8-b76a-6c2fe95502b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody scene set in a dimly lit, industrial laboratory with a mysterious, almost dystopian atmosphere. In the center of the composition, two young men stand face-to-face, their silhouettes sharply defined by a dramatic overhead light source that casts a cool, teal glow throughout the room. Both figures wear dark, modern clothing—jackets and pants—that blend into the shadowy environment, emphasizing their anonymity and tension.\n\nSurrounding them is a circular arrangement of empty metal chairs and peculiar helmet-like devices suspended from a ring of cables, suggesting experimental or psychological undertones. The background features exposed brick walls and a large, cage-like structure behind the central table, adding to the sense of confinement and intrigue. The lighting is low-key, with deep shadows and selective highlights that create a high-contrast, film noir effect. The overall color palette is dominated by cool blues, teals, and muted grays, enhancing the sense of unease and suspense.\n\nThe camera angle is straight-on at eye level, with a symmetrical composition that draws the viewer’s focus to the two central figures and the enigmatic apparatus around them. The depth of field is moderate, keeping the main subjects and immediate surroundings in sharp focus while allowing the background to softly recede. The mood is tense, enigmatic, and charged with psychological drama, reminiscent of a high-concept science fiction or psychological thriller film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:58.472015",
+  "word_count": 223,
+  "error_message": null
+}

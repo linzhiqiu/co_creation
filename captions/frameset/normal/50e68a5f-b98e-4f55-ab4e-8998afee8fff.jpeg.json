@@ -1,0 +1,12 @@
+{
+  "image_filename": "50e68a5f-b98e-4f55-ab4e-8998afee8fff.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a richly detailed, cinematic still life scene featuring an ornate, vintage book as the central subject. The book, titled \"How to Make Things Deliciously Different,\" is bound in deep burgundy leather with intricate gold filigree embellishments on the corners and a decorative emblem at the bottom. The title is embossed in elegant, classic serif lettering, exuding a sense of old-world charm and culinary mystery. The book is placed atop a dark, velvet-textured surface, bordered by another large, leather-bound tome with gold-embossed spine details, suggesting a library or study filled with treasured volumes.\n\nThe composition is shot from a top-down perspective, emphasizing symmetry and the tactile richness of the materials. The lighting is warm and moody, casting gentle highlights and soft shadows that accentuate the textures of the leather, gold, and velvet. The color palette is dominated by deep reds, rich browns, and muted golds, evoking a sense of nostalgia and timeless elegance. The overall style is reminiscent of a classic still life painting, with a cinematic quality that draws the viewer into a world of culinary secrets and refined taste.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:14.725461",
+  "word_count": 181,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "1c654374-4e01-421f-a2f5-8e24365be741.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a futuristic, high-tech corridor with dark, textured walls featuring geometric patterns and panels. The corridor is dimly lit, with a cool blue and black color palette dominating the environment. In the center of the composition, two figures stand face-to-face, their bodies outlined by glowing, neon blue circuitry integrated into their sleek, form-fitting black suits. The woman on the left has a sharp bob haircut and exposed shoulders, while the man on the right has short hair and a determined expression. Both characters are illuminated by the soft, ethereal glow of their suits, which casts subtle reflections on the polished floor. The background features an open doorway leading to a brighter, white-lit space, creating a strong contrast and drawing the viewer’s eye toward the center. The camera angle is at eye level, capturing the tension and intimacy between the two characters, with a shallow depth of field that keeps the focus on their interaction while the corridor walls recede into shadow. The overall style is sleek, minimalist, and inspired by cyberpunk aesthetics, evoking a sense of mystery and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:17.930604",
+  "word_count": 184,
+  "error_message": null
+}

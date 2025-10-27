@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b49e1f0-eb9a-4a1a-b59f-6e9ad4232c2f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, intimate portrait of a young person with tousled, short dark hair and oversized black glasses, standing indoors in soft, warm lighting. The subject wears a light-colored, striped shirt and is partially wrapped in a large, crinkled blue-gray blanket or fabric, which adds texture and a sense of coziness to the scene. Their expression is gentle and slightly shy, with a subtle, closed-mouth smile and downcast eyes, conveying a quiet, introspective mood. The background is softly blurred, featuring neutral walls and a hint of a framed picture, enhancing the sense of depth and focus on the subject. The overall color palette is muted and earthy, with warm beige and brown tones contrasting with the cool blue of the blanket. The composition is close-up and slightly off-center, with a shallow depth of field that draws attention to the subject’s face and the tactile quality of the fabric. The style is cinematic and naturalistic, evoking a sense of warmth, comfort, and vulnerability.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:36.358587",
+  "word_count": 161,
+  "error_message": null
+}

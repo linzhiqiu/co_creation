@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f5a51ff-da04-484c-afe3-bbf7e1b26f38.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial shot over a dark, choppy ocean, capturing a tense rescue scene. In the foreground, a bright orange and white rescue boat with a sturdy, utilitarian design is positioned near a small, modern seaplane that has landed on the water. The seaplane’s wings and floats are clearly visible, with its sleek, metallic body contrasting against the deep blue and gray hues of the sea. Between the boat and the plane, a single person in a life jacket floats in the water, their arms raised as they await rescue. The lighting is natural but subdued, suggesting overcast skies or late afternoon, casting soft, diffused shadows and enhancing the sense of urgency. The composition emphasizes the vastness and power of the ocean, with swirling waves and whitecaps surrounding the vessels. The overall style is cinematic and realistic, with a high level of detail, a cool color palette dominated by blues, grays, and the striking orange of the rescue boat, and a sense of motion conveyed by the rippling water and the dynamic arrangement of the subjects.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:59.639652",
+  "word_count": 176,
+  "error_message": null
+}

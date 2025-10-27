@@ -1,0 +1,12 @@
+{
+  "image_filename": "4cdb986e-5b31-44e2-a30e-f8e57e417a0a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A gritty, cinematic gym interior with a moody, industrial atmosphere. The scene is shot from a low, wide-angle perspective, emphasizing the high, patchwork ceiling and the raw, unfinished textures of the space. In the center background, a lone male figure stands atop a pull-up bar structure, silhouetted against the dim, diffused light filtering in from a row of glass block windows on the left. The gym is filled with metal equipment, weights, and racks, all rendered in muted tones of gray, black, and steel blue, contributing to the somber, utilitarian mood. The lighting is stark and directional, casting deep shadows and highlighting the rough surfaces of the walls and ceiling. The overall style is reminiscent of a dramatic sports film, with a strong sense of isolation, determination, and focus. The composition draws the viewer’s eye upward, creating a sense of scale and emphasizing the solitary figure’s presence within the vast, rugged environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:40.779874",
+  "word_count": 152,
+  "error_message": null
+}

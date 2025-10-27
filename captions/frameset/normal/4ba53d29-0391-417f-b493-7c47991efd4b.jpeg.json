@@ -1,0 +1,12 @@
+{
+  "image_filename": "4ba53d29-0391-417f-b493-7c47991efd4b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-detailed macro photograph of the interior of an electronic device, focusing on the intricate components of a circuit board. The composition centers on a close-up view of microchips, connectors, and battery cells, with sharp focus on the metallic and black elements of the hardware. The background is softly blurred, creating a shallow depth of field that draws attention to the fine textures and precise engineering of the circuitry. The lighting is cool and diffused, highlighting the reflective surfaces and subtle variations in the materials. The overall color palette is dominated by shades of black, gray, and silver, with occasional hints of white and gold from connectors or screws. The image conveys a sense of technological sophistication and precision, with a cinematic, almost clinical clarity that emphasizes the complexity and beauty of modern electronics. The camera angle is low and intimate, as if peering into the heart of the device, evoking a mood of curiosity and innovation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:10.163122",
+  "word_count": 157,
+  "error_message": null
+}

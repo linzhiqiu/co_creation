@@ -1,0 +1,12 @@
+{
+  "image_filename": "54cf3b4b-65aa-46a4-96d6-eb5ff926e122.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, cyberpunk-inspired scene set in a sprawling futuristic cityscape at dusk. The foreground features a close-up of a young woman with short, dark hair and striking blue eyes, her expression focused and contemplative as she gazes into the distance. She wears a sleek, black tactical jacket with subtle high-tech details, blending seamlessly with the urban environment. The background is filled with towering skyscrapers adorned with neon lights, holographic billboards, and industrial structures, all shrouded in a hazy, atmospheric mist. The color palette is dominated by cool blues, muted purples, and steely grays, with soft, diffused lighting that casts gentle shadows across the woman's face, highlighting her features and creating a sense of depth. The composition uses a shallow depth of field, keeping the woman in sharp focus while the city behind her blurs slightly, emphasizing her presence and the scale of the metropolis. The overall mood is moody, introspective, and futuristic, evoking the visual style of classic science fiction films.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:42.891694",
+  "word_count": 162,
+  "error_message": null
+}

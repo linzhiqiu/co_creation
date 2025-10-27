@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f3511f3-ddef-436f-a5c2-e0563c941d17.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of a modern digital car dashboard display, viewed from the driver’s perspective. The central focus is a large, circular speedometer with a bold white “0 km/h” at its center, surrounded by a gradient arc ranging from blue on the left to red on the right, indicating speed zones. Flanking the speedometer are two smaller digital gauges: on the left, a fuel gauge with a white needle and clear “E” and “F” markings, and on the right, a temperature gauge with a similar design. Below the speedometer, a digital screen shows a top-down graphic of a car in “P” (park) mode, with odometer reading “000010 km” and an outside temperature of “25°C.” The time “10:00” is displayed in the upper left corner. The color palette is dominated by cool blues, whites, and subtle reds, with crisp, high-contrast lighting that gives the display a clean, futuristic look. The background is dark and softly blurred, emphasizing the illuminated dashboard elements. The overall style is sleek, minimalistic, and technologically advanced, with sharp lines and a sense of depth created by the layered digital interface. The composition is symmetrical and balanced, evoking a sense of precision and modern automotive design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:56.029388",
+  "word_count": 198,
+  "error_message": null
+}

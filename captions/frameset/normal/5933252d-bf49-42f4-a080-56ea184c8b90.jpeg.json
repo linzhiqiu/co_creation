@@ -1,0 +1,12 @@
+{
+  "image_filename": "5933252d-bf49-42f4-a080-56ea184c8b90.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, sunlit scene viewed through the open window of a sleek, modern car with a minimalist white interior. The focus is on a woman sitting in the passenger seat, her expression soft and content, with a gentle, knowing smile. She has dark hair pulled back and is bathed in warm, natural daylight that creates subtle highlights on her skin. The background is softly blurred, suggesting an outdoor setting with hints of dry grass and distant mountains under a clear blue sky. The composition uses a shallow depth of field, with the car’s window frame creating a natural vignette around the subject, adding intimacy and focus. The color palette is dominated by cool whites and soft blues, contrasted with the warm tones of sunlight and the woman’s skin. The overall style is reminiscent of a high-end car commercial or a contemplative moment in a road movie, with a relaxed, aspirational mood and a sense of quiet connection between the passengers.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:04:36.229631",
+  "word_count": 160,
+  "error_message": null
+}

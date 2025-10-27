@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f1e4f52-98dc-4db8-b2b5-37f21a5a280f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cluttered, dimly lit workspace filled with the glow of two old CRT monitors. In the foreground, an off-white, boxy computer monitor displays a grainy, close-up black-and-white image of a man's intense eyes and face, framed by a blue desktop interface reminiscent of late 1990s or early 2000s operating systems. To the right, a larger television or monitor shows a dramatic, high-contrast black-and-white scene from a classic film or stage production: a man in period costume, possibly portraying Hamlet, holds a skull in one hand and gazes at it with a contemplative, sorrowful expression. The background is cluttered with stacks of books, papers, and pinned-up photographs, suggesting a creative or academic environment. The color palette is dominated by cool blues and monochrome tones, with the only warmth coming from the ambient desk lamp light reflecting off surfaces. The composition is tight and intimate, with a shallow depth of field that keeps the focus on the screens and their contrasting imagery—one digital and modern, the other theatrical and timeless. The overall mood is introspective and slightly nostalgic, evoking themes of memory, technology, and the intersection of past and present.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:55.140206",
+  "word_count": 188,
+  "error_message": null
+}

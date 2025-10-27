@@ -1,0 +1,12 @@
+{
+  "image_filename": "423b51eb-78c3-45aa-bf48-7aed6052f931.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph capturing the end of a large, weathered metal pipe protruding from a brick wall at an angle. The pipe is positioned in the upper left quadrant of the frame, its dark, circular opening facing the viewer, with a single droplet of water suspended at the rim, emphasizing a sense of stillness and anticipation. Below the pipe, a shallow, rectangular metal tray rests on a rough, textured concrete surface, slightly out of focus, suggesting its purpose as a catchment for drips. The background features a classic red brick wall, its mortar lines and surface imperfections rendered in sharp detail, providing a gritty, urban context. The lighting is soft and diffuse, casting gentle shadows and highlighting the textures of metal, brick, and concrete. The overall composition is minimalistic and contemplative, with a shallow depth of field drawing attention to the pipe and droplet, while the monochrome palette enhances the mood of quiet observation and industrial simplicity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:59.707967",
+  "word_count": 158,
+  "error_message": null
+}

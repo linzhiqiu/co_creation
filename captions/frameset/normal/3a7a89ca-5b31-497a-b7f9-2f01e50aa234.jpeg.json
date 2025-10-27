@@ -1,0 +1,12 @@
+{
+  "image_filename": "3a7a89ca-5b31-497a-b7f9-2f01e50aa234.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands in a compact, modern wooden cabin, her body angled slightly as she gazes up at the camera with a contemplative, almost melancholic expression. She wears a striking, long-sleeved red lace dress that contrasts vividly with the warm, honey-toned wood paneling of the interior. The cabin is bathed in soft, natural light streaming through a large window, revealing lush green forest outside and casting gentle shadows across the minimalist space. The bed is neatly made with white linens, and the small kitchenette features simple, functional appliances and uncluttered surfaces. The camera angle is high and slightly tilted, creating a sense of intimacy and subtle disorientation, while a shallow depth of field keeps the focus on the woman, blurring the background just enough to evoke a dreamy, cinematic quality. The overall color palette is warm and earthy, punctuated by the bold red of the dress, and the mood is introspective, quiet, and visually arresting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:18.929923",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "6328b0c9-4ddb-4954-b49c-dce072f5634d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, symmetrical shot from a low, first-person perspective, looking up into an open kitchen cabinet. The cabinet is meticulously stocked with multiple rows of identical cylindrical cans, each featuring a cream and yellow label with a prominent red logo, creating a sense of order and repetition. The shelves are wooden, contrasting with the clean, white cabinet doors, which are held open by a person whose head and dark hair are visible at the bottom center of the frame, seen from behind. The lighting is soft and natural, illuminating the cans and enhancing the warm, inviting tones of the scene. The overall composition emphasizes neatness and abundance, with a subtle sense of curiosity or anticipation as the viewer peers into the well-organized cupboard. The style is reminiscent of a carefully composed film still, with a shallow depth of field that keeps the focus on the contents of the cabinet and the act of discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:30.059321",
+  "word_count": 155,
+  "error_message": null
+}

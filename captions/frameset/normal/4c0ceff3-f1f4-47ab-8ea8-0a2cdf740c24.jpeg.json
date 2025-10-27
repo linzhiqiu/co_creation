@@ -1,0 +1,12 @@
+{
+  "image_filename": "4c0ceff3-f1f4-47ab-8ea8-0a2cdf740c24.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of several realistic, life-sized sculpted hands arranged in a row on a flat surface, each hand posed with fingers forming a gesture reminiscent of a classical mudra or symbolic sign. The hands vary in skin tone, from pale ivory to deep brown, and are detailed with visible veins, knuckles, and fingernails. Some hands display stitched seams or scars, suggesting they are prosthetic or anatomical models. The wrists of the hands are wrapped with bands or cuffs, and small name cards are partially visible at the base of each hand, hinting at a display or exhibition context. The background is softly blurred, rendered in cool, neutral tones of gray and blue, creating a clinical or gallery-like atmosphere. The lighting is soft and diffuse, minimizing harsh shadows and emphasizing the texture and craftsmanship of the hands. The overall composition is precise and orderly, with a shallow depth of field that draws focus to the hands’ intricate details, evoking a sense of curiosity and quiet contemplation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:19.190681",
+  "word_count": 166,
+  "error_message": null
+}

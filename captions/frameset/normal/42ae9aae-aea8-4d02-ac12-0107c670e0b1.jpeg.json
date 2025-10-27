@@ -1,0 +1,12 @@
+{
+  "image_filename": "42ae9aae-aea8-4d02-ac12-0107c670e0b1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lively street scene outside a boutique store during a major sale. The storefront features a large, bold sign in the window reading \"SALE SALE SALE 75% OFF\" in red letters on a yellow background, immediately drawing attention. In the foreground, a group of three women walk together on the sidewalk, engaged in conversation and carrying shopping bags, suggesting a successful shopping trip. Their casual attire includes jeans, comfortable tops, and crossbody bags, reflecting a relaxed, everyday style. Another figure, slightly out of focus and partially visible from behind, stands closer to the camera, adding depth and a candid, documentary feel to the composition. The background reveals the warmly lit interior of the store, with hints of chandeliers and merchandise, contributing to an inviting atmosphere. The color palette is natural and warm, with soft daylight illuminating the scene and creating gentle shadows. The camera angle is at street level, capturing the action from a human perspective, while a shallow depth of field subtly blurs the foreground figure, emphasizing the group of women and the sale sign as focal points. The overall style is realistic and contemporary, evoking the bustling, spontaneous energy of a shopping district during a big sale event.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:08.655758",
+  "word_count": 200,
+  "error_message": null
+}

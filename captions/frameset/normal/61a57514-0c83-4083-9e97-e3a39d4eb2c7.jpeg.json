@@ -1,0 +1,12 @@
+{
+  "image_filename": "61a57514-0c83-4083-9e97-e3a39d4eb2c7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, high-stakes urban scene set in a dimly lit subway station. Two young men are skateboarding directly on the train tracks, captured mid-action: one is performing an ollie, suspended in the air with dynamic posture, while the other balances skillfully on his board, arms outstretched for stability. Both wear casual, muted streetwear—dark jackets and pants—blending into the gritty, industrial environment. The background features a large, imposing subway train approaching with headlights glowing, its metallic surface reflecting the station’s harsh fluorescent lighting. The walls are stained and weathered, evoking a sense of urban decay, while the platform edge is visible in the foreground, emphasizing the danger and tension of the moment. The color palette is dominated by cold greens, grays, and yellows, with a desaturated, almost dystopian tone. The composition uses a wide-angle lens and deep focus, heightening the sense of space and peril, while the lighting casts stark shadows, enhancing the dramatic, rebellious mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:59.942102",
+  "word_count": 158,
+  "error_message": null
+}

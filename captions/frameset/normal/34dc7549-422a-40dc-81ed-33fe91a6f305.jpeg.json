@@ -1,0 +1,12 @@
+{
+  "image_filename": "34dc7549-422a-40dc-81ed-33fe91a6f305.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic portrait of a man with a rugged appearance and a short beard, standing confidently in the foreground. He wears a tan jacket over a dark shirt, gazing directly at the camera with a serious, almost defiant expression. Behind him, a large, circular neon sign glows with the partial word \"EMA,\" its cool white light casting a soft, ethereal glow and creating a halo-like effect around his head. The background is shrouded in atmospheric haze, adding depth and a sense of mystery. To the right, slightly out of focus, another figure in a dark bucket hat and jacket is seen in profile, walking away and partially obscured by the mist. The color palette is dominated by muted earth tones and cool blues, with the neon sign providing a striking contrast. The lighting is moody and dramatic, with a shallow depth of field that keeps the main subject sharply in focus while the background and secondary figure blur softly. The overall style is reminiscent of a modern music video or neo-noir film, with a strong emphasis on mood, attitude, and urban atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:07.783382",
+  "word_count": 182,
+  "error_message": null
+}

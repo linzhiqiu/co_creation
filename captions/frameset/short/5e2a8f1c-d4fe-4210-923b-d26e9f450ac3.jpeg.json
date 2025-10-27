@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e2a8f1c-d4fe-4210-923b-d26e9f450ac3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Close-up of an industrial pressure gauge with a metallic casing, needle pointing near 80 bar, set against a softly blurred background of pipes and machinery. Cool, muted color palette with natural, diffused lighting, emphasizing the gauge’s glass reflection and metallic textures. Cinematic, shallow depth of field.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:21.405077",
+  "word_count": 46,
+  "error_message": null
+}

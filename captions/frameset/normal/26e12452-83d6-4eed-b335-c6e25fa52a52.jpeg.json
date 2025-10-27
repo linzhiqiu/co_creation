@@ -1,0 +1,12 @@
+{
+  "image_filename": "26e12452-83d6-4eed-b335-c6e25fa52a52.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a human hand held upright in the center of the frame, with the palm facing the viewer. The hand is partially overlaid with a glowing, blue-tinted digital wireframe grid, giving the impression of a holographic scan or augmented reality interface. The wireframe effect is most prominent on the left side of the hand, gradually fading into the natural skin tones on the right. The background is a high-tech laboratory or control room, filled with blurred machinery, cables, and metallic surfaces, rendered in cool blue and gray hues. The lighting is bright but diffused, creating a clinical, futuristic atmosphere. The composition uses a shallow depth of field, keeping the hand and digital overlay in sharp focus while the background remains soft and indistinct. The overall style is cinematic and sleek, evoking themes of technology, cybernetics, and human-machine interaction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:04.805317",
+  "word_count": 141,
+  "error_message": null
+}

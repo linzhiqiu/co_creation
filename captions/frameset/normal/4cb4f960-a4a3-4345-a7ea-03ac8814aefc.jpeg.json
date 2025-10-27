@@ -1,0 +1,12 @@
+{
+  "image_filename": "4cb4f960-a4a3-4345-a7ea-03ac8814aefc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, cinematic scene set in a vast, abandoned industrial warehouse with towering rusted columns and broken concrete floors. The main subject is a humanoid robot, weathered and battered, sitting alone against a steel pillar. The robot’s design is intricate, with exposed mechanical joints, blue metallic plating, and subtle signs of wear and tear. It holds a small, whimsical ice cream cone in one hand, gazing at it with a sense of curiosity or melancholy. Scattered debris and a half-open cardboard box with papers spilling out lie nearby, emphasizing the sense of neglect and abandonment.\n\nThe background features high, broken windows letting in cold, natural daylight, casting long, soft shadows and creating a moody, desaturated color palette dominated by cool blues, grays, and muted browns. Graffiti in faded pastel colors decorates the distant walls, adding a touch of urban decay and subtle vibrancy. The composition uses a wide-angle perspective, with the robot positioned off-center to the left, drawing the viewer’s eye into the depth of the cavernous, empty space. The overall style is reminiscent of a post-apocalyptic or dystopian film, with a strong sense of atmosphere, isolation, and quiet introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:38.662071",
+  "word_count": 191,
+  "error_message": null
+}

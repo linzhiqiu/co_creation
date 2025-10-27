@@ -1,0 +1,12 @@
+{
+  "image_filename": "51b68157-1b46-48d2-b35e-276be05071c0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt to generate this image:\n\nA bearded man with light brown hair and a serious, slightly surprised expression is crouched under a kitchen sink, holding a large wrench in one hand and a flashlight in the other, which he shines upward. He wears a light beige t-shirt, and his hair is slightly tousled. The scene is set in a modern kitchen with dark cabinetry and a dishwasher visible in the background. The lighting is soft and natural, with a cool color palette dominated by blues and neutrals, creating a realistic, cinematic atmosphere. The camera angle is at eye level, focusing on the man’s face and upper body, with a shallow depth of field that blurs the foreground and background, drawing attention to his expression and the tools in his hands. The composition suggests a moment of interruption, as if someone has just spoken to him, and he looks up in response, caught mid-task. The overall style is naturalistic, with a hint of domestic drama and subtle storytelling through the character’s pose and the environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:30.078704",
+  "word_count": 177,
+  "error_message": null
+}

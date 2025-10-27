@@ -1,0 +1,12 @@
+{
+  "image_filename": "3d53d793-1ea0-41d6-8114-a00f857b0425.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a young Victorian-era man with pale skin and dark, neatly styled hair, dressed in a formal suit with a high-collared white shirt and a dark cravat. His expression is somber and contemplative, his gaze cast downward as if lost in thought. Projected across his face is a translucent, sepia-toned map, with legible place names such as \"Transylvania\" and other old European locations, giving the impression that his thoughts or fate are intertwined with this distant land. The background is softly blurred, dominated by deep crimson and amber hues, with heavy velvet drapes adding a sense of opulence and mystery. The lighting is low and moody, casting warm highlights and deep shadows, enhancing the introspective and gothic atmosphere. The overall style is reminiscent of classic gothic cinema, with a shallow depth of field and a painterly, almost surreal quality to the composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:21.091602",
+  "word_count": 146,
+  "error_message": null
+}

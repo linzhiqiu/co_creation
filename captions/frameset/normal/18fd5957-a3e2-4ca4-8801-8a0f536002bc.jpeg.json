@@ -1,0 +1,12 @@
+{
+  "image_filename": "18fd5957-a3e2-4ca4-8801-8a0f536002bc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single figure stands alone at the center of a dimly lit, expansive stage, their form partially obscured by deep shadows. The subject is dressed in loose, dark clothing that blends into the surrounding darkness, with only their bare feet and subtle highlights on their silhouette visible under a focused overhead spotlight. The stage floor is a cool, desaturated gray, marked by a faint white circle that frames the figure, emphasizing their isolation. The background fades into complete blackness, creating a sense of vast emptiness and drawing all attention to the solitary person. The lighting is dramatic and minimal, with a high-contrast, cinematic quality reminiscent of a theatrical performance or an art-house film. The camera angle is slightly elevated and centered, capturing the full circle and the figure within it, while the shallow depth of field keeps the focus tight on the subject and the immediate area, allowing the periphery to dissolve into darkness. The overall mood is introspective, mysterious, and contemplative, evoking themes of solitude, vulnerability, and self-reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:09.625158",
+  "word_count": 169,
+  "error_message": null
+}

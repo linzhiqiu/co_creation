@@ -1,0 +1,12 @@
+{
+  "image_filename": "33893a84-5cd2-4a3a-8cf5-23e9c2692d16.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up shot of a futuristic computer interface inside a dimly lit, high-tech environment. The main focus is a sleek digital display screen showing a stylized yellow soundwave graphic and the word \"INF:COM\" in bold, modern typography. The interface features additional vertical icons and a side panel, all rendered in a retro-futuristic, minimal design. Above the main screen, two smaller monitors display circular yellow gauges with technical readouts, adding to the sense of advanced technology. The scene is bathed in moody, teal and amber lighting, with soft shadows and subtle reflections on the screen. Thick cables and mechanical components frame the display, hinting at a complex, industrial setting. The overall style is reminiscent of classic sci-fi films, with a shallow depth of field that keeps the focus on the glowing interface while the background remains dark and atmospheric.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:35.378317",
+  "word_count": 140,
+  "error_message": null
+}

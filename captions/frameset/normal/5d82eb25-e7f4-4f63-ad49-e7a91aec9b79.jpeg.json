@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d82eb25-e7f4-4f63-ad49-e7a91aec9b79.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, formal conference room scene set in the late 20th century, featuring a group of Japanese officials and military personnel seated around a large, dark table. The room is modern and minimalist, with gray paneled walls and a subdued, professional atmosphere. At the front of the room, a man in a light blue short-sleeved shirt stands beside a podium, presenting to the group. Behind him, a large projection screen displays a green-on-black radar map labeled \"Unidentified Flying Object,\" with coordinates and tracking lines, evoking a sense of urgency and mystery.\n\nThe attendees, all men in business suits or military uniforms, are focused intently on the presenter and the screen, their expressions serious and contemplative. Some take notes on paper, while others have glasses of water in front of them. The lighting is cool and even, with no harsh shadows, emphasizing the clinical, high-stakes environment. The camera angle is slightly elevated and wide, capturing the entire table and the arrangement of participants, with a strong sense of depth and symmetry. The overall color palette is muted—dominated by grays, blacks, and subdued blues—reinforcing the somber, official tone of the meeting. The style is reminiscent of a 1980s or 1990s political thriller, with a focus on realism and understated tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:16.052728",
+  "word_count": 208,
+  "error_message": null
+}

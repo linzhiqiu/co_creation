@@ -1,0 +1,12 @@
+{
+  "image_filename": "32c4ee91-7683-401d-b6fb-193ae2aa73c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic scene set in a dimly lit, smoke-filled stadium corridor, capturing the fervor of passionate sports fans. The composition centers on a group of supporters, mostly men, partially obscured by haze and shadow, their faces animated with excitement and anticipation. The focal point is a large, bold yellow sign with striking black Arabic calligraphy, held aloft above the crowd—its message a declaration of love and loyalty. The fans are dressed in coordinated yellow and black attire, some wearing hats or scarves, reinforcing their unity and team spirit. The background is blurred, with hints of additional signs and indistinct figures, creating a sense of depth and bustling energy. The lighting is moody and atmospheric, with a cool blue-gray cast from the smoke, punctuated by a single vertical strip of bright white light on the right, adding a modern, almost industrial edge. The overall style is reminiscent of a sports documentary or a dramatic film, with a shallow depth of field that draws the viewer’s eye to the sign and the emotion of the moment, evoking the intensity and camaraderie of devoted fans rallying for their team.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:24.348472",
+  "word_count": 187,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3583d906-086a-47cb-a756-798899b45e41.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a small, wheeled robot on a table in the foreground, with a smartphone mounted on top of the robot as its apparent control interface. In the softly blurred background, three young adults—two men and one woman—are gathered around the table, smiling and engaged, suggesting a collaborative and enthusiastic atmosphere. The woman on the right holds a blue smartphone, possibly controlling the robot, while the others watch attentively. The group is dressed casually: the man on the left wears a black-and-white checkered shirt, the man in the center wears a red and navy polo shirt, and the woman wears glasses and a light-colored top. The background features a warm, yellow wall and a chalkboard, evoking a modern classroom or creative workspace. The lighting is bright and natural, highlighting the faces and the robot, with a soft, inviting color palette dominated by warm yellows, soft blues, and neutral tones. The composition emphasizes innovation, teamwork, and youthful curiosity, with a cinematic focus on the robot and a lively, optimistic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:24.938194",
+  "word_count": 173,
+  "error_message": null
+}

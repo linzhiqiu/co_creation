@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f86f718-c2e3-47b2-a794-eef1795cff85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand holding an early 2000s mobile phone, with the screen illuminated and displaying a text message in French. The hand, with dark skin tone, is positioned so that the thumb is poised over the keypad, suggesting the act of typing or sending a message. The phone’s screen is the focal point, showing a simple, monochrome interface with blue-tinted backlight, and the text “Ecrire un message” at the top, followed by a short message: “Ok pour 1000? 7 rue Hérouard.” The background is softly blurred and neutral, likely a plain wall, ensuring all attention is on the phone and hand. The lighting is soft and even, with no harsh shadows, creating a natural, documentary feel. The composition is intimate and direct, with a shallow depth of field that isolates the subject from the background, evoking a sense of immediacy and personal communication. The overall style is realistic and unembellished, reminiscent of a candid moment captured in a contemporary drama or social realist film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:16.259144",
+  "word_count": 168,
+  "error_message": null
+}

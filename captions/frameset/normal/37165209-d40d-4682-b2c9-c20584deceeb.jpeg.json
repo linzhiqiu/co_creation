@@ -1,0 +1,12 @@
+{
+  "image_filename": "37165209-d40d-4682-b2c9-c20584deceeb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A small, futuristic robot stands alone in the middle of a rain-soaked city street at night. The robot has a sleek, rounded metallic body with glowing blue accents and a large, rectangular head featuring two bright, expressive LED eyes that emit a soft blue light. Its posture and slightly tilted head convey a sense of curiosity or melancholy. Rain pours down heavily, creating shimmering reflections and ripples on the wet asphalt, while droplets bead and streak across the robot’s surface. In the background, blurred headlights and taillights of distant cars glow through the mist, adding depth and a sense of urban isolation. The color palette is dominated by cool blues, silvers, and deep blacks, with the artificial lights providing stark contrast against the darkness. The lighting is cinematic, with dramatic highlights and deep shadows, and the camera angle is low and intimate, placing the viewer at the robot’s level. The overall style is reminiscent of a sci-fi film, evoking a mood of loneliness and wonder in a rain-drenched, futuristic cityscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:59.577852",
+  "word_count": 170,
+  "error_message": null
+}

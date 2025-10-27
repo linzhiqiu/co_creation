@@ -1,0 +1,12 @@
+{
+  "image_filename": "5fb4afc7-e11b-485a-a088-a32159e9b567.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a woman gazing thoughtfully into a shard of mirror, her face partially reflected and softly distorted by the glass. She has short, dark hair with blunt bangs, and her makeup is subtle yet striking, with glossy lips and defined eyes. Her expression is pensive, almost melancholic, as she looks upward, her hand gently holding the mirror fragment near her face. The background is an out-of-focus, industrial interior with large windows letting in diffused, natural light, casting a cool, bluish tone across the scene. The color palette is muted and moody, dominated by soft grays, blues, and hints of green from her clothing. The composition uses shallow depth of field, keeping the focus on the woman's reflection while the surroundings blur into abstraction, creating an intimate, introspective atmosphere. The overall style is reminiscent of art-house cinema, with a contemplative mood and a sense of quiet isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:07.631215",
+  "word_count": 150,
+  "error_message": null
+}

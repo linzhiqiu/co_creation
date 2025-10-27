@@ -1,0 +1,12 @@
+{
+  "image_filename": "315d8189-c19c-4846-94d9-2fac2b3e5f48.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, cinematic close-up of a human face partially obscured and distorted as if viewed through a thick, swirling lens or glass. The subject’s features—eyes, nose, and mouth—are softly illuminated with warm, golden highlights, but much of the face is blurred and abstracted by concentric circular ripples and refracted light. The background is dark and indistinct, fading into deep shadows that enhance the mysterious, dreamlike atmosphere. The color palette is dominated by rich ambers, golds, and deep blacks, with subtle hints of blue and brown. The lighting is low and moody, casting soft glows and reflections that heighten the sense of depth and distortion. The overall style is evocative of experimental or psychological cinema, with a shallow depth of field and a focus on visual abstraction, creating an enigmatic, introspective mood. The composition centers the face but allows the swirling distortions to frame and partially obscure it, inviting the viewer into a hypnotic, otherworldly experience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:48.340835",
+  "word_count": 156,
+  "error_message": null
+}

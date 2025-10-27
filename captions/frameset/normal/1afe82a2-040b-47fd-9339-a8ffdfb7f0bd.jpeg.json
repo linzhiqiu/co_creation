@@ -1,0 +1,12 @@
+{
+  "image_filename": "1afe82a2-040b-47fd-9339-a8ffdfb7f0bd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, dynamic scene set on an outdoor basketball court with weathered, peeling turquoise and red paint, evoking a sense of urban nostalgia. The camera angle is high and slightly tilted, positioned just above the basketball hoop, capturing the moment a yellow basketball is about to drop through the net. Two young people stand below, gazing upward in anticipation—one male and one female, both wearing matching blue and red striped jerseys and white pants, their casual attire suggesting a friendly, informal game. The background features lush green trees and a hedge, providing a natural contrast to the worn court surface. The lighting is soft and diffuse, likely from an overcast sky, lending a gentle, cinematic quality to the scene. The composition emphasizes depth, with the hoop and ball in sharp focus in the foreground, while the players and court recede into a slightly softer background, creating a sense of immersion and immediacy. The overall mood is playful and relaxed, capturing the fleeting excitement of a basketball shot in a visually striking, almost dreamlike urban setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:49.707088",
+  "word_count": 175,
+  "error_message": null
+}

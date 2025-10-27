@@ -1,0 +1,12 @@
+{
+  "image_filename": "28d4a8fc-73c5-4dcb-8503-f2317b6f4244.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic close-up of a high-performance motorcycle engine, focusing on the intricate mechanical details and branding. The composition should highlight the engine’s matte metallic surfaces, with the \"GSX\" logo prominently embossed on a sleek, light gray cover. Surrounding components—hoses, bolts, and metallic textures—should be sharply rendered, emphasizing precision engineering. The background is softly blurred, with hints of a spinning fan or turbine, suggesting motion and advanced technology. Use a cool, desaturated color palette dominated by silvers, grays, and subtle blue tones, with soft, diffused lighting that creates gentle reflections and a sense of depth. The camera angle is slightly tilted, adding dynamic tension and a modern, industrial aesthetic. The overall mood is technical, powerful, and sophisticated, evoking the spirit of cutting-edge automotive design.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:46.948816",
+  "word_count": 125,
+  "error_message": null
+}

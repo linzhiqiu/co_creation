@@ -1,0 +1,12 @@
+{
+  "image_filename": "15b466cf-81d9-457d-a9e9-2a0cb1c31b9e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with curly hair stands in front of a row of weathered, concrete buildings, their surfaces marked by age and neglect. She wears a muted teal shawl draped over her shoulders, the fabric soft and natural, contrasting with the stark, industrial background. Her expression is calm and focused, eyes fixed intently on a hovering, metallic, geometric object in front of her. The object glows with a single, bright orange light at its core, casting a subtle illumination on her face and hands, which are gently outstretched as if she is controlling or communicating with the device.\n\nThe scene is bathed in cool, natural daylight, with soft shadows and a slightly desaturated color palette that emphasizes the somber, post-apocalyptic atmosphere. The camera angle is at eye level, creating an intimate connection with the subject, while a shallow depth of field keeps the woman and the floating object in sharp focus, allowing the background to blur slightly and heighten the sense of isolation. The overall style is cinematic, evoking a sense of quiet wonder and tension, as if capturing a pivotal moment in a science fiction narrative where technology and humanity intersect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:49.302274",
+  "word_count": 192,
+  "error_message": null
+}

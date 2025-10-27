@@ -1,0 +1,12 @@
+{
+  "image_filename": "144ea730-f200-41db-97e3-cd87dad08c59.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with short, vibrant pink hair stands confidently at the center of the frame, facing the camera with a calm, composed expression. She wears a simple, fitted white t-shirt that contrasts with her hair and the cool-toned background. Projected across her face, body, and the wall behind her are large, semi-transparent binary code numbers—ones and zeros—creating a dynamic interplay of light and shadow. The color palette is dominated by soft blues, whites, and subtle purples, lending a futuristic, digital atmosphere to the scene. The lighting is even and diffused, with the projection providing the primary source of illumination, casting gentle highlights and shadows that accentuate the contours of her face and clothing. The background is minimalist and out of focus, ensuring the subject remains the focal point. The overall style is modern and cinematic, with a shallow depth of field that blurs the binary code in the background while keeping the woman sharply in focus. The composition evokes themes of technology, identity, and the human connection to the digital world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:39:19.619636",
+  "word_count": 172,
+  "error_message": null
+}

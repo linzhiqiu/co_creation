@@ -1,0 +1,12 @@
+{
+  "image_filename": "12d2fab2-755b-4cf1-9d29-2c98c124d935.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up cinematic portrait of a man with short dark hair and a neatly trimmed goatee, sitting inside a vehicle. He gazes directly at the camera with a serious, contemplative expression, his eyes reflecting a sense of intensity and inner conflict. The lighting is cool and slightly dim, casting soft shadows across his face and highlighting subtle details like faint stubble and the texture of his skin. The background is blurred, suggesting the interior of a car, with hints of a window and seat behind him. Superimposed over the scene are translucent, holographic digital overlays in shades of blue, green, and purple, creating a futuristic, high-tech atmosphere. The composition uses a shallow depth of field to keep the focus on the man's face, while the digital effects add layers of visual complexity. The overall style is reminiscent of a modern sci-fi film, with a sleek, polished look and a mood that conveys tension and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:44.834086",
+  "word_count": 155,
+  "error_message": null
+}

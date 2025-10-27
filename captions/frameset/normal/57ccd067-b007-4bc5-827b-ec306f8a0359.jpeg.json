@@ -1,0 +1,12 @@
+{
+  "image_filename": "57ccd067-b007-4bc5-827b-ec306f8a0359.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with curly hair and glasses sits alone at a cluttered desk in a dimly lit, modern office at night. She wears a teal sweater and looks intently at something off-screen, her expression tense and focused, illuminated by the cool blue glow of overhead fluorescent lights. The background is shadowy, with large windows revealing a dark, empty office space and faint reflections. The desk is scattered with papers, a mug, and office supplies, suggesting late-night work or investigation. The overall color palette is dominated by deep blues and muted teals, with subtle warm highlights from a distant orange light, creating a moody, cinematic atmosphere. The composition uses a shallow depth of field, keeping the woman sharply in focus while the background blurs softly, enhancing the sense of isolation and concentration. The camera angle is slightly off-center at desk level, drawing the viewer into the intimate, contemplative mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:56.477665",
+  "word_count": 152,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "31fd4001-3f2f-430a-a443-cabfd588ecf3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a breakfast table scene, captured with a shallow depth of field to create a soft, intimate atmosphere. In the foreground, a hand holds a modern smartphone, the screen displaying a Google search result with a photo of a person riding a horse and text in Spanish. The hand is relaxed, suggesting a casual morning moment. The table is set with a glass of orange juice, a white plate with neatly sliced cantaloupe, and a croissant on a small plate, all arranged on a light-colored woven placemat. In the softly blurred background, there are hints of other breakfast items and a vase with flowers, adding to the cozy, inviting mood. The color palette is natural and fresh, with warm tones from the food and cool, diffused daylight illuminating the scene. The overall style is realistic and contemporary, with a focus on everyday life, evoking a sense of calm and quiet reflection. The camera angle is at table height, drawing the viewer into the personal perspective of the subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:06.314676",
+  "word_count": 172,
+  "error_message": null
+}

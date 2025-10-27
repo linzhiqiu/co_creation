@@ -1,0 +1,12 @@
+{
+  "image_filename": "256d071d-8e0b-4eaf-8fa8-6e4f780c354e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of an electric vehicle being charged, focusing on the charging port and cable. The car’s glossy black exterior reflects soft daylight, creating subtle highlights and a sense of modern sophistication. The charging plug, prominently featuring a blue Ford logo, is securely connected to the port, with a gentle green-blue indicator light glowing nearby to suggest active charging. The background is softly blurred, emphasizing the sleek lines and curvature of the car’s body, while the tire is partially visible at the edge of the frame, adding context without distracting from the main subject. The color palette is dominated by deep blacks, cool metallic tones, and hints of blue and green, evoking a clean, futuristic, and eco-friendly atmosphere. The lighting is natural and diffuse, with no harsh shadows, enhancing the polished, high-tech feel of the scene. The composition is tight and intimate, with a shallow depth of field that draws the viewer’s eye directly to the interaction between the charging cable and the vehicle, capturing the essence of modern electric mobility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:45:35.130856",
+  "word_count": 173,
+  "error_message": null
+}

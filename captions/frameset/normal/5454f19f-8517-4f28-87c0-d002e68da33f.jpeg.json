@@ -1,0 +1,12 @@
+{
+  "image_filename": "5454f19f-8517-4f28-87c0-d002e68da33f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man sits in the driver’s seat of a car at night, illuminated by soft, moody blue and purple lighting that filters through rain-speckled windows. He wears a textured white sweater and layered pearl necklaces, adding a touch of elegance and individuality to his look. His eyes are closed and his expression is serene, suggesting a moment of introspection or calm as he leans back against the seat, one hand resting on the steering wheel. The background is dark, with the only visible details being the blurred, rain-streaked glass and the subtle glow of city lights outside, casting a dreamy, cinematic ambiance. The composition is intimate, shot from the passenger side at a slight upward angle, with a shallow depth of field that keeps the focus on the subject’s face and upper body while the background melts into soft, abstract colors. The overall style is atmospheric and contemplative, evoking a sense of solitude and quiet reflection during a nighttime drive.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:37.802481",
+  "word_count": 161,
+  "error_message": null
+}

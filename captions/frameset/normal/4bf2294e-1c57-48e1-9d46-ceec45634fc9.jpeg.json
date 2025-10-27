@@ -1,0 +1,12 @@
+{
+  "image_filename": "4bf2294e-1c57-48e1-9d46-ceec45634fc9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic close-up of a classroom chalkboard, shot at a shallow angle to create a sense of depth and intimacy. The focus is on handwritten white chalk text reading \"How are we learning?\" in a casual, friendly script, surrounded by an eclectic collage of educational posters, printed images, and colorful stickers. Notable among the stickers are recognizable icons such as the YouTube logo, a Google Classroom symbol, and a purple puzzle piece labeled \"rw,\" evoking a modern, tech-integrated learning environment. The background is softly blurred, with the edges of various images and notes fading into a cool, subdued bokeh. The color palette is dominated by muted blues and greys, punctuated by pops of red, green, and purple from the stickers. Natural, diffused light streams in from the right, casting gentle shadows and lending the scene a contemplative, almost nostalgic atmosphere. The overall style is reminiscent of a thoughtful indie film, with a shallow depth of field and a focus on texture and detail, inviting the viewer to reflect on the evolving nature of education.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:59:18.100711",
+  "word_count": 175,
+  "error_message": null
+}

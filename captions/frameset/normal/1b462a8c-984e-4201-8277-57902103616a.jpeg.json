@@ -1,0 +1,12 @@
+{
+  "image_filename": "1b462a8c-984e-4201-8277-57902103616a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a person using a smartphone to shop online. The focus is on the screen, which displays a digital shopping cart with a list of grocery items, including a kiwi fruit with a small image, prices in euros, and a prominent green \"Checkout\" button. The user’s hand and finger are slightly blurred in the foreground, actively interacting with the screen, suggesting motion and immediacy. The color palette is dominated by the cool whites and blues of the app interface, contrasted by the vibrant green of the checkout button and the natural tones of the fruit image. The lighting is soft and even, with no harsh shadows, creating a modern, clean, and inviting atmosphere. The composition emphasizes the act of digital shopping, capturing the convenience and routine of contemporary life, with a cinematic, documentary-style realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:51.777534",
+  "word_count": 139,
+  "error_message": null
+}

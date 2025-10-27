@@ -1,0 +1,12 @@
+{
+  "image_filename": "3c883547-60ba-41dc-8362-a74bb7d281d9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene viewed from inside a dark, shadowy bedroom. The main focus is a large window framed by barely visible curtains, through which a vibrant cityscape is visible. The city outside is illuminated by the cool, neon glow of office buildings and apartment windows, with scattered lights in shades of blue, green, and yellow, evoking a sense of urban solitude. The interior of the room is almost entirely in shadow, with only the faintest outlines of a bed and rumpled bedding discernible in the foreground, emphasizing the contrast between the quiet, intimate darkness inside and the bustling, illuminated city outside. The overall color palette is dominated by deep blues and blacks, punctuated by the artificial lights of the city. The composition uses a wide aspect ratio, with the window centrally framed, creating a sense of stillness and introspection. The lighting is low-key and moody, with a soft, cinematic depth of field that keeps the city lights slightly out of focus, enhancing the dreamlike, contemplative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:05.755009",
+  "word_count": 169,
+  "error_message": null
+}

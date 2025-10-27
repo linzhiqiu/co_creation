@@ -1,0 +1,12 @@
+{
+  "image_filename": "34d74da6-eaf9-45d2-a089-c72101644095.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits on the edge of a concrete overpass, his body turned slightly toward the camera, exuding a sense of quiet contemplation. He wears a dark hoodie, light-colored pants, and sneakers, with a baseball cap pulled low over his brow, partially shadowing his face. His expression is neutral, almost pensive, as he gazes off into the distance. The scene is rendered in stark black and white, lending a timeless, cinematic quality to the image.\n\nThe composition is strikingly unconventional: the camera is rotated 90 degrees, so the horizon and cityscape appear vertical, creating a disorienting, dreamlike effect. The urban skyline stretches upward along the right side of the frame, with tall buildings and dense foliage beneath a dramatic sky filled with billowing clouds. Metal railings run parallel to the man, emphasizing the strong lines and geometric forms of the overpass.\n\nThe lighting is soft and diffuse, with gentle shadows that enhance the textures of concrete and fabric without harsh contrasts. The overall mood is introspective and surreal, blending urban realism with an almost otherworldly sense of isolation. The depth of field is moderate, keeping both the man and the distant cityscape in clear focus, while the unusual camera angle and monochrome palette evoke the visual language of art-house cinema or experimental photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:09.310286",
+  "word_count": 214,
+  "error_message": null
+}

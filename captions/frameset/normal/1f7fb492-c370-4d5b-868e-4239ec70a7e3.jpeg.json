@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f7fb492-c370-4d5b-868e-4239ec70a7e3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits alone at a cluttered workbench in a dimly lit, neon-soaked workshop, evoking a retro-futuristic, cyberpunk atmosphere. She wears a sleeveless black top, fingerless orange and black gloves, and a transparent visor adorned with small electronic components and lights, suggesting she is a tech-savvy mechanic or hacker. Her hair is tied up in a messy bun, and she sports bold, geometric earrings. The woman is deeply focused, intently examining a yellow handheld device with both hands, her expression serious and absorbed in her task.\n\nThe background features reflective glass panels, scattered tools, and various electronic gadgets, with a faint yellow sign in the distance adding to the industrial vibe. The lighting is moody and cinematic, dominated by green and yellow neon hues that cast dramatic highlights and shadows, creating a sense of depth and immersion. The composition is intimate, with a shallow depth of field that blurs the foreground and background, drawing attention to the subject’s concentration and the intricate details of her workspace. The overall style blends elements of science fiction and noir, with a tactile, lived-in feel and a color palette rich in greens, yellows, and deep shadows.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:32.725232",
+  "word_count": 193,
+  "error_message": null
+}

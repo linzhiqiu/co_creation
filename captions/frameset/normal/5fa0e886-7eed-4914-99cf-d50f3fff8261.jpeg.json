@@ -1,0 +1,12 @@
+{
+  "image_filename": "5fa0e886-7eed-4914-99cf-d50f3fff8261.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up scene of a digital tablet displaying a black-and-white storyboard sketch for a concert sequence. The storyboard panel shows a dynamic rock band performing on stage, with several musicians silhouetted against bright stage lights, their poses energetic and expressive. The foreground is filled with the dark, indistinct shapes of an enthusiastic audience, arms raised in excitement, creating a sense of depth and movement. The stage is framed by an arched proscenium and overhead lighting rigs, adding to the concert atmosphere. A human hand holding a stylus is actively drawing or annotating the storyboard, suggesting the creative process in action. The screen interface includes visible digital elements such as toolbars, text fields, and a handwritten note reading \"The Final Shot\" at the top of the panel. The color palette is dominated by cool, muted tones from the tablet’s interface, contrasted by the high-contrast black-and-white sketch. The lighting is soft and ambient, with the glow of the screen illuminating the hand and stylus, evoking a focused, late-night creative mood. The composition is intimate and immersive, with a shallow depth of field that keeps the viewer’s attention on the interaction between artist and digital canvas.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:06.596755",
+  "word_count": 195,
+  "error_message": null
+}

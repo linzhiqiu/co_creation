@@ -1,0 +1,12 @@
+{
+  "image_filename": "2a584169-1f29-4597-b335-be18a0a37026.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A spacious, empty room with high ceilings and elegant architectural details, featuring three large, tall windows that flood the space with soft, natural daylight. The walls are painted a clean, matte white, and the floor is covered in polished, light brown herringbone parquet wood, reflecting the light subtly. In the exact center of the room sits a single, perfectly round glass sphere, its surface catching and refracting the ambient light, creating delicate highlights and shadows on the floor around it. The composition is symmetrical, with the windows and doorways on either side creating a sense of balance and calm. The overall mood is serene and contemplative, with a minimalist aesthetic. The color palette is dominated by whites, soft grays, and warm wood tones, and the lighting is diffuse and ethereal, giving the scene a dreamlike, almost surreal quality. The camera is positioned at a low, straight-on angle, emphasizing the symmetry and depth of the space, with a sharp focus on the glass sphere and a gentle falloff in detail toward the background.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:20.270435",
+  "word_count": 172,
+  "error_message": null
+}

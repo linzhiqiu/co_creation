@@ -1,0 +1,12 @@
+{
+  "image_filename": "1cb7d887-48af-4eb7-be94-6c0f1bf9d4fd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene featuring a grid of old, boxy CRT televisions stacked three high and four across, filling the frame. The screens are mostly off, their glass surfaces reflecting faint, cold blue-green ambient light, creating a somber, almost dystopian atmosphere. One television in the center row has a large, dark crack or splotch on its screen, drawing the viewer’s eye and adding a sense of decay or disruption. The background is shadowy and indistinct, emphasizing the isolation of the TV wall. The lighting is low-key and directional, casting subtle highlights and deep shadows, with a cool, desaturated color palette dominated by teal and steel gray tones. The composition is symmetrical and tightly framed, with a shallow depth of field that keeps the focus on the televisions and their eerie, silent presence. The overall style evokes a sense of abandonment, nostalgia, and unease, reminiscent of neo-noir or post-apocalyptic visual storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:24.466886",
+  "word_count": 150,
+  "error_message": null
+}

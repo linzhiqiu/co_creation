@@ -1,0 +1,12 @@
+{
+  "image_filename": "62316b55-93be-46ca-868b-67f429c8ceac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a tense, atmospheric scene set inside the cramped, dimly lit interior of a World War II-era submarine. The camera is positioned at eye level, capturing a narrow corridor lined with exposed pipes and machinery, emphasizing the claustrophobic environment. In the foreground, a rugged, bearded man in a weathered leather jacket sits in profile, his face illuminated by a cold, bluish overhead light that casts dramatic shadows and highlights the sweat and grime on his skin. His expression is intense and focused, suggesting anxiety or anticipation. In the background, a group of weary crew members huddle together, their faces partially obscured by darkness and the metallic structure of the submarine. The color palette is dominated by muted blues, grays, and browns, with a slight haze in the air, evoking a sense of tension and confinement. The overall style is cinematic and realistic, with a shallow depth of field that draws attention to the main subject while keeping the background figures slightly blurred, enhancing the mood of suspense and isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:06.685479",
+  "word_count": 170,
+  "error_message": null
+}

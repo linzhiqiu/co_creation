@@ -1,0 +1,12 @@
+{
+  "image_filename": "4e18c885-c84d-4e83-a7a6-94b4b350b210.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of two hands holding up a slightly crumpled city map labeled \"Downtown Rochester\" in bold letters. The hands, belonging to a person wearing a light gray sweatshirt with a small Champion logo on the sleeve, are positioned in the foreground, framing the map as the central focus. The map is detailed, with colorful lines, highlighted routes, and handwritten notes in red and yellow marker, suggesting a sense of adventure or exploration. In the background, softly out of focus, stands a teal and white building with a triangular roof, set against an overcast, gray sky. The lighting is diffuse and natural, evoking a moody, overcast day, with muted colors that enhance the sense of realism and subtle drama. The composition uses a shallow depth of field to draw attention to the map and hands, while the background remains blurred, creating a sense of anticipation and journey. The overall style is reminiscent of a coming-of-age film, with a documentary-like authenticity and a touch of wanderlust.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:06.828517",
+  "word_count": 167,
+  "error_message": null
+}

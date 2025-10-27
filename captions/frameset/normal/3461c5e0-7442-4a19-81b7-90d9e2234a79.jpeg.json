@@ -1,0 +1,12 @@
+{
+  "image_filename": "3461c5e0-7442-4a19-81b7-90d9e2234a79.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black and white photograph captured from a unique, high-angle perspective, as if seen through a fisheye or convex security mirror mounted on the exterior of a shop. The central subject is a person wearing a casual jacket and a brimmed cap, holding a camera up to their face and taking a photo directly into the mirror, creating a sense of direct engagement with the viewer. Their reflection is slightly distorted by the curvature of the mirror, adding a dynamic, almost surreal quality to the composition. The background reveals a city street with the word \"BUS\" and part of a bus lane marking visible on the pavement, as well as the edge of the sidewalk and a few vertical poles. To the right, the glass window of the shop displays various stickers and small objects, contributing to the urban atmosphere. Another figure, partially visible and out of focus, stands nearby, their presence adding depth and a candid, documentary feel. The overall mood is introspective and spontaneous, with high contrast lighting emphasizing textures and details, while the monochrome palette enhances the timeless, cinematic quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:55.143858",
+  "word_count": 186,
+  "error_message": null
+}

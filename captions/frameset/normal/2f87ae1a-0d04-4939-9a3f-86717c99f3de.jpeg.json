@@ -1,0 +1,12 @@
+{
+  "image_filename": "2f87ae1a-0d04-4939-9a3f-86717c99f3de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene on a deserted rural road, illuminated by the deep blue hues of twilight. In the center of the composition lies an overturned car, its undercarriage and wheels exposed, with faint orange flames and smoke emanating from the wreckage, casting a subtle, ominous glow on the asphalt. The road stretches into darkness, flanked by indistinct grassy fields and a silhouette of distant trees against the dusky sky. The overall mood is tense and dramatic, with a sense of recent violence and isolation. The camera angle is low and slightly off-center, emphasizing the car’s precarious position and the emptiness of the surroundings. The color palette is dominated by cool blues and grays, contrasted by the warm, flickering light of the fire. The lighting is naturalistic, with the fading daylight providing soft, ambient illumination, while the fire adds dynamic highlights and shadows. The image evokes a sense of suspense and aftermath, as if capturing the immediate moments following a dramatic accident.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:15.957193",
+  "word_count": 162,
+  "error_message": null
+}

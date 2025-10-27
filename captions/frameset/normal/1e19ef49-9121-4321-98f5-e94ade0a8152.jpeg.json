@@ -1,0 +1,12 @@
+{
+  "image_filename": "1e19ef49-9121-4321-98f5-e94ade0a8152.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure sits at a table in a dimly lit room, their silhouette sharply defined against the bright daylight streaming through a large, arched window. The subject, a woman with long hair, is captured in profile, her posture contemplative as she appears to write or draw on the table before her. The open window frames a serene outdoor scene: a tranquil seascape with calm water, distant shoreline, and a few windswept trees, their branches gently curving against the sky. The composition is minimalist and cinematic, with high contrast black-and-white tones emphasizing the interplay of light and shadow. The room itself is dark, almost featureless, drawing the viewer’s eye to the luminous window and the delicate silhouette of the woman. The overall mood is introspective and peaceful, evoking a sense of quiet solitude and creative focus. The camera angle is straight-on, with a shallow depth of field that keeps the subject and the view outside in crisp focus, while the rest of the room fades into darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:54.505062",
+  "word_count": 167,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "4f8492b5-0ade-4924-8839-a935e09daa7c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-detailed close-up of a dark red scorpion suspended mid-air, sharply in focus against a blurred, green-tinted background with soft bokeh. Dramatic, cinematic lighting highlights the glossy texture and menacing claws, evoking tension and danger. The composition is dynamic, with a shallow depth of field and a surreal, almost dreamlike atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:00:38.777009",
+  "word_count": 51,
+  "error_message": null
+}

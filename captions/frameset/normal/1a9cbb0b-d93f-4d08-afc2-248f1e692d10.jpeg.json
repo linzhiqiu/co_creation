@@ -1,0 +1,12 @@
+{
+  "image_filename": "1a9cbb0b-d93f-4d08-afc2-248f1e692d10.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a wide-angle, high-resolution landscape photograph of a modern city skyline at dawn, viewed from a distant elevated vantage point. The city is bathed in soft, golden morning light, with long shadows and a gentle haze that gives the scene a tranquil, atmospheric quality. The skyline features a cluster of tall, contemporary skyscrapers and mid-rise buildings, their silhouettes sharply defined against the pale sky. In the foreground, there are open fields and patches of dry grassland, interspersed with a calm body of water and a line of dark, leafy trees. The midground is dominated by a dense, dark green forest, creating a strong horizontal band that contrasts with the illuminated city beyond. The background fades into distant, misty hills under a pale blue and gray sky, adding depth and a sense of vastness. The overall color palette is muted and natural, with earthy browns, deep greens, and soft yellows, evoking a serene, early morning mood. The composition emphasizes the contrast between the natural landscape and the urban skyline, with a clear, cinematic sense of scale and distance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:41:41.846590",
+  "word_count": 177,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "327b6847-3fa9-40b4-94b7-900e92f914bb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast black and white close-up portrait focusing on the lower half of an elderly man's face. The subject has a thick, bushy white mustache and beard, with the texture of the facial hair rendered in sharp detail. The man's lips are slightly parted, suggesting he is about to speak or is caught mid-breath. The lower part of his nose and the bottom rim of his eyeglasses are visible, but his eyes and forehead are obscured by deep shadow, creating a mysterious and intimate atmosphere. The background is completely black, isolating the face and drawing attention to the textures and contours of the skin and hair. The lighting is stark and directional, emphasizing the wrinkles and age spots, and casting dramatic shadows that enhance the sense of depth. The overall composition is tight and centered, with a cinematic, almost noir quality, evoking a sense of introspection and gravitas.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:12.398862",
+  "word_count": 150,
+  "error_message": null
+}

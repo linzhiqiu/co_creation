@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c2c071a-77ac-4d02-93f9-4f5517ead7c3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A medium shot of a woman sitting behind a supermarket checkout counter, facing the camera. She has straight, shoulder-length blonde hair and wears a bright green polo shirt with a small red and black embroidered logo on the chest. Her expression is neutral, with a slight, polite smile, conveying professionalism and approachability. The background is a well-lit grocery store aisle, filled with colorful packaged goods and products neatly arranged on shelves, creating a vibrant and busy retail environment. The lighting is bright and even, typical of commercial fluorescent store lighting, which enhances the clarity and saturation of the colors. The composition centers the subject, with the checkout counter and register in the foreground, and the depth of field keeps both the woman and the background products in sharp focus, emphasizing the everyday realism of the scene. The overall style is clean, documentary-like, and naturalistic, capturing the authentic atmosphere of a working supermarket.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:42.348693",
+  "word_count": 152,
+  "error_message": null
+}

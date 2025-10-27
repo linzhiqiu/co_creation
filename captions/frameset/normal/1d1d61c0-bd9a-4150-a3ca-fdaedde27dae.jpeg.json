@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d1d61c0-bd9a-4150-a3ca-fdaedde27dae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder digital screenshot of a Gmail inbox interface in dark mode. The main focus is on the upper toolbar above an open email, where a white hand-shaped cursor hovers over the trash bin icon, highlighting the \"Delete\" tooltip in a small gray pop-up. The email subject line, \"Welcome to the European,\" is partially visible, along with the sender's name, \"Music Idol,\" and a blurred-out email address. The background features the Gmail search bar and navigation elements, all rendered in cool, muted shades of blue and gray, creating a modern, tech-centric atmosphere. The composition is tight and cropped, emphasizing the act of deleting an email, with crisp, clean lines and a soft, diffused digital glow, evoking a sense of focus and intention within a contemporary user interface.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:34.167419",
+  "word_count": 128,
+  "error_message": null
+}

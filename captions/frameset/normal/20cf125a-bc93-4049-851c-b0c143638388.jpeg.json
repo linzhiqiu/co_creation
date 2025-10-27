@@ -1,0 +1,12 @@
+{
+  "image_filename": "20cf125a-bc93-4049-851c-b0c143638388.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands centered in the frame, facing the camera with a calm, confident expression. She wears a light gray hijab and a cream-colored scarf adorned with delicate brown floral patterns, draped loosely over a textured taupe sweater. Her right hand is raised near her face, fingers poised in a gesture that suggests she is signing or communicating in sign language. The background is a soft, muted teal wall, slightly out of focus, with subtle architectural details and a couple of framed posters or boards adding depth and context, hinting at an institutional or educational setting. The lighting is soft and natural, casting gentle shadows that highlight the contours of her face and the folds of her clothing. The color palette is subdued and harmonious, dominated by cool blues and warm neutrals, creating a serene and contemplative mood. The composition is intimate, with a shallow depth of field that draws attention to the subject while softly blurring the background, evoking a cinematic, documentary-style portrait.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:50.727130",
+  "word_count": 165,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2e291064-71d6-47b1-8ca3-d892ed38ebc2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a realistic office scene set in a modern, open-plan workspace with a bright, neutral color palette dominated by soft whites, light wood tones, and subtle grays. In the foreground, feature two young professionals: a woman and a man. The woman stands on the left, wearing a black blazer over a white blouse, with long dark hair parted to the side. Her expression is serious and attentive, as if she has just been interrupted or is listening intently. The man stands to her right, holding a white coffee mug in one hand and a smartphone to his ear with the other. He has curly brown hair, a short beard, and wears a navy blue sweater over a collared shirt. His mouth is slightly open, mid-sentence, suggesting he is engaged in a conversation. The background is softly focused, revealing a corridor lined with vertical wooden slats on one side and glass-walled offices or meeting rooms on the other, with potted plants adding a touch of greenery. The lighting is natural and diffused, streaming in from large windows, creating a clean, professional, and slightly cinematic atmosphere. The camera angle is eye-level, with a shallow depth of field that keeps the subjects sharply in focus while gently blurring the background, emphasizing the immediacy and realism of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:41.400652",
+  "word_count": 216,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "2c59a084-0224-4dd8-bed6-c12d5df3d75f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A narrow, dimly lit industrial corridor stretches into the distance, its slick, wet concrete walls glistening under harsh, fluorescent lighting. The space is claustrophobic, with water streaming down the walls and pooling on the floor, reflecting the cold, greenish-blue glow from a single overhead light source at the far end. Two figures, partially silhouetted and backlit, walk cautiously through the corridor—one in a dark suit, the other less distinct, their features obscured by shadow and the intense backlight. The atmosphere is tense and foreboding, evoking a sense of danger and suspense. The camera angle is low and slightly off-center, emphasizing the oppressive height and length of the corridor, while the shallow depth of field keeps the focus on the figures and the glistening surfaces. The overall style is cinematic and moody, reminiscent of neo-noir or dystopian thrillers, with a color palette dominated by deep blacks, metallic greens, and stark white highlights.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:48:04.885362",
+  "word_count": 151,
+  "error_message": null
+}

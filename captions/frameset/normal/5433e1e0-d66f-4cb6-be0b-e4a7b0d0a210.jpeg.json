@@ -1,0 +1,12 @@
+{
+  "image_filename": "5433e1e0-d66f-4cb6-be0b-e4a7b0d0a210.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody close-up portrait of a man with his eyes closed, wearing a tight-fitting cap covered in numerous white electrodes, reminiscent of a medical or scientific brainwave monitoring device. The subject’s face is partially illuminated by a soft, dim, and diffused light source, creating deep shadows and a sense of isolation against a nearly black, indistinct background. The man’s expression is one of subtle tension or concentration, with his mouth slightly open as if in the midst of an intense experience or experiment. The overall color palette is dark and muted, dominated by deep purples, blacks, and faint flesh tones, enhancing the mysterious and clinical atmosphere. The composition is centered and symmetrical, with a shallow depth of field that keeps the focus tightly on the man’s face and the intricate pattern of electrodes, while the background fades into darkness. The visual style is reminiscent of psychological science fiction or experimental cinema, evoking a sense of introspection, vulnerability, and technological intrusion.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:29.507673",
+  "word_count": 162,
+  "error_message": null
+}

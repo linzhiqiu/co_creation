@@ -1,0 +1,12 @@
+{
+  "image_filename": "401d2b97-3289-4a9b-8789-4891e36bccb8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of pine needles gently hanging from a branch, rendered in sharp focus against a softly blurred background. The scene is bathed in cool, moody blue tones, evoking a tranquil nighttime atmosphere. In the distance, a large, out-of-focus circular light source—possibly a streetlamp or the moon—glows softly, adding depth and a sense of quiet mystery. The lighting is low and diffused, with subtle highlights catching on the edges of the pine needles, emphasizing their delicate texture. The composition is intimate and cinematic, with a shallow depth of field that isolates the foreground details while allowing the background to dissolve into abstract shapes and color. The overall style is contemplative and atmospheric, reminiscent of a quiet moment in a nocturnal forest or a serene suburban night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:13.247018",
+  "word_count": 127,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "355b86d8-fae9-42a5-a5be-0d29db2fcf6e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, hyper-saturated scene set inside a small convenience store or bodega, viewed from a central, symmetrical perspective. The walls and shelves are densely packed with a chaotic collage of brightly colored snack packages, lottery tickets, and advertisements, creating an overwhelming mosaic of reds, blues, yellows, and oranges. In the center of the composition, framed by the cluttered aisles, stands a solitary figure on a small, slightly elevated platform. The figure is partially obscured by the packaging, with only their legs and shoes clearly visible, adding a mysterious and dreamlike quality. The lighting is artificial and slightly neon, casting a cool, bluish glow that contrasts with the warm tones of the packaging. The overall style is reminiscent of a cinematic wide-angle shot, with a deep depth of field that keeps every detail in sharp focus, and a slight fisheye distortion that enhances the sense of immersion and visual intensity. The mood is both playful and uncanny, evoking a sense of sensory overload and surreal isolation within a familiar, everyday environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:20.990564",
+  "word_count": 170,
+  "error_message": null
+}

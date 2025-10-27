@@ -1,0 +1,12 @@
+{
+  "image_filename": "1bbbd3cc-b599-480a-85ca-40f3b3f77e8c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-tech command center filled with rows of workstations, each manned by focused individuals facing large, glowing monitors. The room is dimly lit, illuminated primarily by the cool blue and teal light emanating from the massive digital screens that dominate the front wall. On these screens, intricate data visualizations, radar-like graphics, and complex system readouts are displayed, creating a sense of urgency and technological sophistication. In the center of the main screen, a large login prompt is visible, with the password field humorously filled in as \"ihatemyjob1\" in bold, clear text, adding a touch of irony to the otherwise serious atmosphere.\n\nThe composition is cinematic, with a slight over-the-shoulder perspective from behind several seated operators, drawing the viewer’s eye toward the central figure standing in the foreground, who appears to be observing or supervising the activity. The color palette is dominated by cool blues, cyans, and subtle whites, with occasional pops of red and yellow from indicator lights and data points. The lighting is soft and diffused, emphasizing the glow of the screens and casting gentle shadows across the room. The overall style is sleek and modern, reminiscent of a science fiction thriller or a high-stakes cyber-espionage film, with a sense of depth created by the staggered arrangement of desks and the immersive digital environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:04.005996",
+  "word_count": 215,
+  "error_message": null
+}

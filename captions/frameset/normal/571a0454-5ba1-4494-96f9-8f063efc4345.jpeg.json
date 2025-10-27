@@ -1,0 +1,12 @@
+{
+  "image_filename": "571a0454-5ba1-4494-96f9-8f063efc4345.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, cinematic image of a futuristic space station floating in the vast emptiness of space. The station is circular in design, resembling a large wheel or ring, with multiple rectangular modules and docking ports evenly spaced around its circumference. The structure is composed of sleek, white and metallic surfaces, with subtle paneling and solar arrays visible on some of the modules. The lighting is stark and dramatic, with the station illuminated by a distant, cold light source, casting soft highlights and deep shadows that emphasize its geometric forms. The background is a deep, infinite black, devoid of stars or any other celestial objects, creating a sense of isolation and scale. The camera angle is directly facing the station from a distance, perfectly centered, capturing the symmetry and engineering precision of the structure. The overall mood is one of awe and quiet tension, evoking the grandeur and loneliness of deep space exploration. The style is hyper-realistic, with crisp details and a subdued, monochromatic color palette dominated by whites, grays, and blacks.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:43.987036",
+  "word_count": 173,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d682c4e-d189-4022-8e08-33ca30a80ff3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nighttime urban highway scene viewed from an elevated vantage point, looking down at a multi-lane road filled with moving cars. The vehicles’ headlights and taillights create streaks and pools of white and red light, contrasting against the deep, shadowy blues and blacks of the night. The road is bordered by a low stone wall on the right and a tall fence on the left, with sparse streetlights casting warm yellow glows onto the pavement. In the distance, the city skyline is visible as a scatter of small, twinkling lights, suggesting a sprawling metropolis. The overall composition is cinematic, with a wide-angle perspective and a shallow depth of field that keeps the focus on the flow of traffic while softly blurring the foreground and background. The mood is contemplative and slightly melancholic, evoking a sense of solitude amidst the bustle of city life. The color palette is dominated by cool tones, punctuated by the warm highlights of artificial lighting, creating a visually striking contrast.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:09.568959",
+  "word_count": 164,
+  "error_message": null
+}

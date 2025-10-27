@@ -1,0 +1,12 @@
+{
+  "image_filename": "16ea8851-4bce-4fcd-b6fe-ccc646c929c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands in a dimly lit, futuristic room, her face partially illuminated by vivid green laser projections that trace geometric patterns across her closed eyes and features. She wears a shiny, metallic hooded jacket that reflects the ambient light, adding to the cyberpunk aesthetic. Her expression is serene and introspective, as if lost in thought or immersed in a digital experience. The background is softly blurred, with cool blue and green tones dominating the color palette. In the distance, a stack of old CRT monitors emits a soft, bluish glow, casting an eerie light that enhances the moody, high-tech atmosphere. The camera angle is slightly tilted and elevated, creating a sense of disorientation and depth, while a shallow depth of field keeps the focus tightly on the subject. The overall style is cinematic, reminiscent of neo-noir or sci-fi films, with dramatic lighting, rich shadows, and a sense of quiet tension and mystery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:17.377750",
+  "word_count": 154,
+  "error_message": null
+}

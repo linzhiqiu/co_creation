@@ -1,0 +1,12 @@
+{
+  "image_filename": "3fd45e93-a33e-4480-9091-810de4cdaeaf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a computer screen displaying a stylish, pastel-colored digital newsletter or blog post. The main visual element on the screen is an artistic collage: a hand holding a black spoon hovers above a glass filled with a dark beverage and ice, which is adorned with a bouquet of vibrant pink and purple flowers. The background of the collage is a soft peach or blush tone, giving the image a modern, trendy feel. Below the collage, there is a block of text beginning with a large, friendly \"HELLO!\" in a light, sans-serif font, followed by a paragraph in smaller text. The lighting is dim and moody, with the screen casting a soft glow in an otherwise dark environment. The right side of the frame is out of focus, suggesting the presence of a person viewing the screen, but their features are obscured, adding a sense of intimacy and quiet concentration. The overall style is contemporary and minimalistic, with a shallow depth of field and a subtle, cinematic grain, evoking the feeling of a late-night creative session or a moment of digital reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:55:08.221479",
+  "word_count": 185,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "431160b4-e05b-420c-9eff-89f3752b651a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody close-up of a woman's face displayed on a dark computer monitor, her expression enigmatic with a subtle, knowing smile. She has short, light-colored hair and is illuminated by cool, blue-tinted lighting that casts dramatic shadows, emphasizing the contours of her face and giving the scene a mysterious, almost cyberpunk atmosphere. The background is pitch black, isolating her visage and drawing all attention to her features. Below the screen, the edge of a keyboard and some visible cables are dimly lit with hints of purple and red, suggesting a high-tech or hacker environment. The overall composition is intimate and slightly off-center, with a shallow depth of field that keeps the focus on the woman's face while the foreground elements remain blurred. The color palette is dominated by deep blues, purples, and blacks, creating a sense of intrigue and technological sophistication. The style is reminiscent of neo-noir or science fiction films, with a strong emphasis on mood, contrast, and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:13.633075",
+  "word_count": 166,
+  "error_message": null
+}

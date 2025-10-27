@@ -1,0 +1,12 @@
+{
+  "image_filename": "31a359a0-567d-4549-94b7-e6f280ee639c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking fashion editorial scene set in a rugged, sunlit desert landscape with rocky, uneven terrain and large sandstone formations under a clear blue sky. In the center stands a tall, poised Black male model, dressed in a bold, avant-garde black suit adorned with large, irregular white geometric patches, creating a dramatic contrast against both his skin and the natural earth tones of the environment. His expression is calm and contemplative, gazing slightly off-camera, exuding confidence and introspection. Scattered around him are oversized, white, paper airplane sculptures, their sharp, angular forms echoing the geometric motifs of his outfit and adding a surreal, conceptual element to the composition. The lighting is natural and crisp, casting defined shadows and highlighting the textures of the rocks and fabric. The camera angle is slightly low, lending the subject a sense of stature and presence, while the depth of field keeps both the model and the immediate background in sharp focus, emphasizing the interplay between fashion and landscape. The overall style is modern, minimalistic, and editorial, with a cinematic quality reminiscent of high-concept fashion photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:49:56.778764",
+  "word_count": 180,
+  "error_message": null
+}

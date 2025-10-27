@@ -1,0 +1,12 @@
+{
+  "image_filename": "3bbc1007-338d-4c56-872d-568e8d9adfc9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, symmetrical overhead shot of a large group of people arranged in a precise, geometric grid formation. The group is composed of two distinct sections: the majority wear bright red jackets, black pants, and white shoes, while a smaller group at the back wears gray jackets with the same black pants and white shoes. All individuals stand upright, facing forward, with their arms positioned in a synchronized gesture, contributing to a sense of unity and discipline. The background is a smooth, neutral gray, free of distractions, emphasizing the vivid contrast between the red and gray clothing. The lighting is even and soft, eliminating harsh shadows and highlighting the uniformity of the group. The overall style is minimalist and modern, with a focus on order, repetition, and collective identity. The camera angle is directly overhead, creating a flat, graphic composition that accentuates the pattern and symmetry of the arrangement. The mood is formal, disciplined, and visually captivating, reminiscent of a choreographed performance or a ceremonial display.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:48.950879",
+  "word_count": 167,
+  "error_message": null
+}

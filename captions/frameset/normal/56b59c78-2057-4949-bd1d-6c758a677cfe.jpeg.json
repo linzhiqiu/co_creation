@@ -1,0 +1,12 @@
+{
+  "image_filename": "56b59c78-2057-4949-bd1d-6c758a677cfe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic black-and-white scene set in feudal Japan, captured with a shallow depth of field and dramatic, high-contrast lighting. In the foreground, two samurai crouch behind a rough barricade of jagged stones. The man on the right, with slicked-back hair and a stern, contemplative expression, wears a patterned kimono, his face partially illuminated by a shaft of natural light. Beside him, another man with a shaved head and a headband grips a long bamboo staff, his eyes wide and intense, peering over the rocks with a look of anxious vigilance. The background is shadowy and indistinct, suggesting the entrance to a wooden structure, adding to the sense of suspense and imminent danger. The overall composition is tight and intimate, emphasizing the psychological tension between the characters and their environment. The monochrome palette enhances the mood, with deep blacks and crisp whites lending a timeless, classic samurai film aesthetic reminiscent of mid-20th-century Japanese cinema.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:31.038732",
+  "word_count": 154,
+  "error_message": null
+}

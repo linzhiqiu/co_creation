@@ -1,0 +1,12 @@
+{
+  "image_filename": "22677911-4420-48e7-a628-4fb9ba79fbf3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern race car speeds down an empty urban racetrack, captured from a high, slightly rearward angle that emphasizes the car’s motion and the dramatic perspective of the cityscape ahead. The scene is set in a sunlit city, with tall, glassy skyscrapers rising in the hazy distance, their forms softened by atmospheric perspective. On either side of the track, metal safety barriers and blue-painted walls line the road, while dense trees and mid-rise apartment buildings cast dappled shadows across the asphalt. The lighting is natural and golden, suggesting late afternoon, with long shadows and a warm, cinematic glow. The color palette is dominated by muted blues, grays, and greens, punctuated by the bright, reflective surfaces of the car and the subtle warmth of sunlight filtering through the trees. The overall style is realistic with a touch of cinematic grandeur, evoking the tension and excitement of a high-stakes urban race, while the wide composition and deep depth of field draw the viewer’s eye toward the distant skyline and the solitary car in motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:44:28.678728",
+  "word_count": 173,
+  "error_message": null
+}

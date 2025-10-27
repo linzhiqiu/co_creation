@@ -1,0 +1,12 @@
+{
+  "image_filename": "5d52955a-a0eb-46e5-af61-890aa6890d39.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a slightly worn smartphone lying face-up on a paint-splattered, weathered wooden table, its screen displaying a notification. The phone is surrounded by several well-used paintbrushes with stained handles, and a painter’s palette with smears of dried paint is visible in the background, slightly out of focus. The surface of the table is covered in layers of colorful paint marks—greens, yellows, and blues dominate the palette, creating a vibrant, artistic atmosphere. The lighting is natural and soft, casting gentle highlights and subtle shadows that emphasize the textures of the brushes, palette, and table. The composition uses a shallow depth of field, keeping the phone and immediate foreground in sharp focus while the background elements blur, drawing attention to the intersection of technology and creativity. The overall mood is contemplative and intimate, evoking the quiet moment of an artist interrupted by a digital message amidst their creative process.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:07.300054",
+  "word_count": 150,
+  "error_message": null
+}

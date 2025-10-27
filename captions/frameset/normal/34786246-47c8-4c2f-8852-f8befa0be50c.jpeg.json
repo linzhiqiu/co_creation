@@ -1,0 +1,12 @@
+{
+  "image_filename": "34786246-47c8-4c2f-8852-f8befa0be50c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a pair of adult hands carefully working on the internal components of an electronic device, such as a circuit board. The hands are slightly weathered, suggesting experience, and are positioned with intent focus, delicately manipulating small parts or connectors. The background is softly blurred, drawing attention to the intricate details of the green circuit board, with its array of metallic components and solder points. The lighting is warm and natural, casting gentle highlights on the skin and the electronics, evoking a sense of craftsmanship and concentration. The overall color palette features earthy tones—warm skin, green circuit board, and subtle metallic accents—creating an intimate, documentary-style atmosphere that emphasizes the precision and care involved in hands-on technical work. The composition is tight and immersive, as if inviting the viewer into the meticulous world of electronics repair or assembly.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:50:57.795905",
+  "word_count": 142,
+  "error_message": null
+}

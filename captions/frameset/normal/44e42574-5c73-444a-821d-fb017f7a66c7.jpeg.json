@@ -1,0 +1,12 @@
+{
+  "image_filename": "44e42574-5c73-444a-821d-fb017f7a66c7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime street scene in the rain, featuring a sleek, modern maroon sedan parked at the curb under the glow of streetlights. The car’s headlights and taillights cast soft reflections on the wet asphalt, enhancing the moody, reflective atmosphere. In the background, contemporary storefronts with large glass windows emit a warm, diffused light, contrasting with the cool, bluish tones of the rainy night. A few figures, partially obscured by shadows and rain, walk along the sidewalk; one person holds a dark umbrella, their beige trench coat illuminated by the ambient light. The rain falls steadily, creating visible streaks and ripples in the puddles on the street. The overall composition is cinematic, with a shallow depth of field that keeps the car in sharp focus while the background remains slightly blurred. The color palette is dominated by deep blues, grays, and muted earth tones, punctuated by the car’s rich maroon and the warm interior lights of the buildings. The mood is contemplative and atmospheric, evoking a sense of quiet urban solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:56:58.026191",
+  "word_count": 171,
+  "error_message": null
+}

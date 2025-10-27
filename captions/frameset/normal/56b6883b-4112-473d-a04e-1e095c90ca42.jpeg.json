@@ -1,0 +1,12 @@
+{
+  "image_filename": "56b6883b-4112-473d-a04e-1e095c90ca42.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, moody interior scene set in a quiet, dimly lit room. The main focus is a classic round wall clock with Roman numerals, mounted on a pale, off-white wall. The clock is captured from a low, slightly tilted angle, emphasizing its presence and the passage of time. A dramatic shaft of warm, golden sunlight cuts diagonally across the wall, illuminating part of the clock and creating a striking contrast with the otherwise cool, shadowy ambiance. In the background, to the right, vertical blinds partially cover a window, allowing slivers of blue daylight to filter in, casting soft, linear shadows. A small vase with yellow flowers sits near the window, subtly catching the light and adding a gentle pop of color. The overall color palette is a blend of cool blues and warm golds, with deep shadows and soft highlights. The composition evokes a sense of stillness and introspection, with a cinematic, almost melancholic atmosphere, reminiscent of an early morning or late afternoon. The depth of field is moderate, keeping the clock and the interplay of light and shadow in sharp focus while allowing the background elements to softly recede.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:31.525746",
+  "word_count": 191,
+  "error_message": null
+}

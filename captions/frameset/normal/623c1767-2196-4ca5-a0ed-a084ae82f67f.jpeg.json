@@ -1,0 +1,12 @@
+{
+  "image_filename": "623c1767-2196-4ca5-a0ed-a084ae82f67f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vivid, cinematic scene featuring a bright yellow luxury SUV speeding through an industrial area. The car is captured in sharp focus with a dynamic sense of motion, using a panning technique that blurs the foreground and background, emphasizing the vehicle’s velocity. The SUV’s sleek, modern design stands out against the muted, utilitarian backdrop of corrugated metal warehouses and concrete barriers. The color palette is dominated by the bold yellow of the car, contrasted with cool grays and blues of the industrial setting, and occasional hints of green from distant machinery. The lighting is natural daylight, slightly diffused, casting soft shadows and highlighting the glossy finish of the car. The composition is horizontal, with the car positioned slightly off-center, creating a sense of movement and urgency. The overall style is reminiscent of a high-budget action film, with a shallow depth of field and a sense of kinetic energy, immersing the viewer in the thrill of the chase.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:08:09.268522",
+  "word_count": 157,
+  "error_message": null
+}

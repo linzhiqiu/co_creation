@@ -1,0 +1,12 @@
+{
+  "image_filename": "361c51ba-0a44-4e30-9316-33add0e8f789.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric laboratory scene featuring a humanoid mannequin or robot lying horizontally in the foreground, partially obscured by shadow. The mannequin’s head and upper torso are visible, with a mechanical arm or apparatus delicately poised above its face, suggesting a moment of scientific examination or experimentation. The background is softly blurred, revealing a wall of electronic equipment with glowing, multicolored indicator lights, adding a sense of technological complexity and intrigue. The color palette is dominated by warm, muted earth tones and deep shadows, punctuated by the subtle glow of the machinery. The lighting is low and moody, casting gentle highlights and soft gradients across the mannequin’s surface, evoking a cinematic, almost noir ambiance. The composition uses a shallow depth of field, focusing attention on the interaction between the mechanical arm and the mannequin, while the out-of-focus background enhances the sense of mystery and isolation. The overall style is reminiscent of a science fiction film, blending realism with a touch of surreal, contemplative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:37.671576",
+  "word_count": 165,
+  "error_message": null
+}

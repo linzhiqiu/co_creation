@@ -1,0 +1,12 @@
+{
+  "image_filename": "1f799b9f-a7c4-49ab-9ea3-6500c301ca41.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up of a row of black suit jackets hanging neatly on metal hangers, viewed from an oblique angle that emphasizes depth and repetition. The focus is sharp on the shoulders and collars of the jackets in the foreground, gradually softening into a shallow depth of field as the line recedes into the background. The lighting is soft and diffused, casting gentle highlights on the fabric and subtle shadows between each jacket, creating a moody, sophisticated atmosphere. The color palette is dominated by deep blacks and muted grays, with hints of cool tones from the metal hangers and a slightly blurred, neutral background. The overall style is minimalist and elegant, evoking a sense of order, professionalism, and quiet luxury, reminiscent of a high-end tailor’s shop or a backstage wardrobe in a film noir setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:43:28.003478",
+  "word_count": 135,
+  "error_message": null
+}

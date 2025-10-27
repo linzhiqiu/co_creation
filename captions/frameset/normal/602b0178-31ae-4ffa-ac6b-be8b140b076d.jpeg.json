@@ -1,0 +1,12 @@
+{
+  "image_filename": "602b0178-31ae-4ffa-ac6b-be8b140b076d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, emotionally charged scene set at dusk in a desolate, open landscape. In the foreground, two middle-aged individuals—a man and a woman—stand close together, embracing tightly. Their expressions are somber and deeply emotional, suggesting a moment of comfort or farewell. The woman has short, dark hair and wears a dark jacket with a subtle pattern, while the man, slightly taller, wears a light-colored vest over a striped shirt. Their embrace is central and intimate, conveying vulnerability and support.\n\nBehind them, slightly to the left, is an old white car parked on a dirt surface, its headlights off, adding to the sense of stillness and isolation. The background stretches into a barren, rural expanse with faint structures and a low horizon, all bathed in the cool, fading blue light of early evening. The sky is clear, transitioning from deep blue at the top to a lighter hue near the horizon, enhancing the melancholic mood.\n\nThe color palette is dominated by cool blues and muted earth tones, with soft, natural lighting that gently highlights the subjects’ faces and creates subtle shadows. The composition uses a shallow depth of field, keeping the focus on the embracing figures while softly blurring the background, heightening the sense of intimacy and emotional gravity. The overall style is reminiscent of a dramatic, art-house film, with a contemplative, poignant atmosphere and a strong sense of narrative depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:18.982438",
+  "word_count": 231,
+  "error_message": null
+}

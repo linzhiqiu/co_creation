@@ -1,0 +1,12 @@
+{
+  "image_filename": "550f849c-66af-4f26-9767-e01ca13437eb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a person with delicate, androgynous features, their face partially illuminated by a dramatic, narrow beam of light that cuts diagonally across their face, leaving the rest in deep shadow. The subject gazes slightly past the camera with a calm, enigmatic expression, lips slightly parted, conveying a sense of quiet intensity and introspection. The background is a vivid, solid green, providing a striking contrast to the warm, natural skin tones and the interplay of light and shadow on the face. The overall color palette is minimalistic, dominated by the green backdrop and the soft, warm highlights on the skin. The composition is intimate and tightly framed, with a shallow depth of field that keeps the focus on the subject’s illuminated features while the rest of the image falls off into soft blur. The lighting is moody and artistic, reminiscent of film noir or high-fashion editorial photography, emphasizing texture and form. The mood is contemplative and mysterious, with a sophisticated, modern aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:02:52.146805",
+  "word_count": 166,
+  "error_message": null
+}

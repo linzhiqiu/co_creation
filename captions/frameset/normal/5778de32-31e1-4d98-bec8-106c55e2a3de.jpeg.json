@@ -1,0 +1,12 @@
+{
+  "image_filename": "5778de32-31e1-4d98-bec8-106c55e2a3de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, abstract photograph focusing on the textured surface of a soft, blue fabric. The image is dominated by a single seam running vertically through the center, with the weave of the material clearly visible in sharp detail. The lighting is soft and diffused, casting gentle shadows that enhance the tactile quality of the fabric and create a subtle gradient from deep blue to lighter teal tones. The background is out of focus, rendered in smooth, muted blue-green hues, providing a sense of depth and minimalism. The overall composition is simple and modern, with a shallow depth of field and a calm, contemplative mood, reminiscent of fine art macro photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:03:49.490715",
+  "word_count": 110,
+  "error_message": null
+}

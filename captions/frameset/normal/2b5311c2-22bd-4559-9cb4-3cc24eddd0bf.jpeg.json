@@ -1,0 +1,12 @@
+{
+  "image_filename": "2b5311c2-22bd-4559-9cb4-3cc24eddd0bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime cityscape viewed from a low angle, looking up toward a deep, rich blue sky. In the foreground, include the silhouette of a tall modern building with illuminated windows, its edges slightly softened by the darkness. The main focal point is a brilliant, radiant white light source high in the sky, emitting dramatic, symmetrical beams that fan outward in all directions, creating a striking starburst effect. The beams cut through the blue atmosphere, giving a sense of depth and ethereal energy. The overall mood is mysterious and awe-inspiring, with a cool color palette dominated by shades of blue and white. The composition emphasizes the contrast between the geometric lines of the building and the organic, radiant pattern of the light, evoking a sense of wonder and urban surrealism. The lighting is crisp and clear, with the beams sharply defined against the night sky, and the perspective draws the viewer’s eye upward, enhancing the sense of scale and spectacle.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:42.414822",
+  "word_count": 162,
+  "error_message": null
+}

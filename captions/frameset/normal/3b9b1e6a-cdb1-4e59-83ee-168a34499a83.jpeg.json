@@ -1,0 +1,12 @@
+{
+  "image_filename": "3b9b1e6a-cdb1-4e59-83ee-168a34499a83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a laptop screen displaying a split interface, with the left side showing lines of JavaScript code in a dark-themed text editor and the right side featuring a blank or light-colored output panel. The code is clearly legible, with syntax highlighting in shades of white, green, blue, orange, and purple, creating a visually engaging contrast against the dark background. The laptop is angled slightly from the side, with the screen dominating the frame and the keyboard only partially visible at the bottom edge. The lighting is soft and natural, suggesting an indoor setting with ambient daylight, and the focus is sharp on the code, with a shallow depth of field gently blurring the edges of the screen and background. The overall mood is calm and studious, evoking a sense of concentration and technical creativity, as if capturing a moment in the workflow of a programmer or developer. The composition emphasizes the clarity and structure of the code, with a modern, minimalistic aesthetic and a subtle cinematic quality reminiscent of tech-focused documentaries or educational content.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:53:45.238805",
+  "word_count": 177,
+  "error_message": null
+}

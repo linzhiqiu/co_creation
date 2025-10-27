@@ -1,0 +1,12 @@
+{
+  "image_filename": "133d3ae8-9c43-428a-92e0-61e6be8756d5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage black cassette tape recorder sits on a dimly lit surface, bathed in moody, teal-blue ambient lighting. The device is slightly angled, with its rectangular cassette compartment and tactile buttons clearly visible, evoking a sense of nostalgia. The plastic casing shows subtle signs of wear, and the transparent window reveals a cassette tape inside, its label partially legible. The background is softly blurred, emphasizing the recorder as the focal point and creating a shallow depth of field. The overall color palette is subdued, dominated by cool blues and muted blacks, with gentle highlights catching the edges of the device. The composition feels cinematic, reminiscent of a suspenseful or retro-inspired film, with a quiet, contemplative atmosphere and a sense of anticipation, as if the recorder is about to play a crucial message.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:53.420183",
+  "word_count": 136,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "3ec43c86-2340-47eb-8c54-89b0b8d05222.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot inside a spacious, dimly lit gymnasium, with diffuse natural light streaming through a row of rectangular windows high on the back wall, casting a soft, hazy glow across the scene. The foreground is dominated by a group of young people practicing judo on a large, glossy red and green mat. Several figures wear white gis, while a few in the background are dressed in blue. One person in the foreground is mid-fall, captured in a dynamic blur as they tumble to the mat, while another stands over them, slightly bent forward, suggesting movement and action. In the background, pairs of students grapple or observe, their postures relaxed yet focused. The overall color palette is muted, with subdued whites, blues, and the earthy tones of the mat, contrasted by the cool, ambient light filtering through the windows. The composition emphasizes depth, with the camera positioned low and slightly off-center, drawing the viewer’s eye through the layered action toward the distant, shadowy recesses of the gym. The mood is contemplative and cinematic, evoking a sense of discipline, quiet intensity, and the ritual of training.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:47.567290",
+  "word_count": 185,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "36e675a1-73dd-4977-a890-92cb4dc4b3ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist scene set within a large, rectangular, shadowbox-like display. The background is a smooth, gradient slate gray, softly illuminated from above and below by cool, diffused white light, creating a sense of depth and quiet drama. Suspended in midair throughout the center of the box are numerous black and dark gray electronic components—circuit boards, chips, wires, and fragments—each meticulously hung by nearly invisible threads, giving the impression of a technological explosion frozen in time. The objects are arranged in a loose, dynamic arc, as if caught in a moment of disintegration or assembly, with varying sizes and shapes creating visual rhythm and intrigue. The overall color palette is monochromatic, dominated by shades of black, gray, and white, emphasizing the stark contrast and modern, almost futuristic aesthetic. The composition is symmetrical and balanced, with a strong sense of negative space and a contemplative, gallery-like atmosphere. The camera is positioned straight-on at eye level, with a wide angle that captures the entire installation, lending the image a sense of precision, order, and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:51:55.781245",
+  "word_count": 175,
+  "error_message": null
+}

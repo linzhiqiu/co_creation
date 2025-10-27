@@ -1,0 +1,12 @@
+{
+  "image_filename": "282d84cb-8f62-4b33-bfe1-db5475f86b6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a billiards table under moody, low-key lighting with a cool blue color palette. The focus is on a player's hand, poised delicately on the felt, guiding a cue stick just behind the white cue ball. The hand is captured in sharp detail, with soft shadows and subtle highlights, suggesting concentration and anticipation. Nearby, the black 8-ball and a red ball are positioned on the table, their glossy surfaces reflecting the ambient blue and hints of warm orange-pink light, possibly from neon or bar lighting. The background is softly blurred, emphasizing the shallow depth of field and drawing attention to the tactile textures of the felt and the smoothness of the balls. The overall mood is intimate and tense, evoking the quiet focus of a late-night game in a stylish, modern pool hall. The composition is dynamic, with the diagonal lines of the hand and cue leading the viewer’s eye through the frame, creating a sense of motion and intent.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:29.359298",
+  "word_count": 164,
+  "error_message": null
+}

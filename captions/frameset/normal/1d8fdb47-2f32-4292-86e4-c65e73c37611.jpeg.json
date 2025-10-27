@@ -1,0 +1,12 @@
+{
+  "image_filename": "1d8fdb47-2f32-4292-86e4-c65e73c37611.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of an androgynous young person with sharp, striking features, gazing directly into the camera with an intense, enigmatic expression. The subject wears a light beige or off-white hooded jacket, the hood pulled up to frame their face and cast subtle shadows over their eyes, enhancing the sense of mystery. The lighting is soft and diffused, creating gentle highlights on the subject’s skin and fabric, while the background is minimalist and out of focus, rendered in muted, desaturated tones that complement the subject’s clothing. The overall color palette is subdued, dominated by pale neutrals and soft grays, evoking a calm, contemplative mood. The composition is tight, with the subject’s face filling much of the frame, and a shallow depth of field blurs any background elements, drawing all attention to the subject’s piercing gaze. The style is reminiscent of high-fashion editorial photography, with a minimalist, almost monochromatic aesthetic and a sense of quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:45.430464",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "28c6eb5a-7bd1-4c98-bccf-8177f6e9b83a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, melancholic scene set in a desolate winter park. The central subject is a solitary young man with disheveled hair, sitting hunched and introspective on a simple metal chair. He wears a heavy, oversized dark coat and dark trousers, his posture closed and withdrawn, hands tucked in his lap, conveying a sense of loneliness and contemplation. The park is sparsely populated with empty green metal chairs scattered haphazardly across a pale, gravelly ground, amplifying the feeling of emptiness. Bare, leafless trees form a stark, symmetrical backdrop, their dark trunks creating vertical lines that recede into the misty, overcast distance. The color palette is muted and cold, dominated by grays, browns, and faded greens, with soft, diffused natural lighting that casts no harsh shadows. The composition is centered and symmetrical, with the subject placed in the middle of the frame, evoking a sense of isolation. The overall style is reminiscent of European art-house cinema, with a static camera angle at eye level and a deep depth of field, allowing the bleak, wintry landscape to envelop the lone figure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:46:46.063339",
+  "word_count": 179,
+  "error_message": null
+}

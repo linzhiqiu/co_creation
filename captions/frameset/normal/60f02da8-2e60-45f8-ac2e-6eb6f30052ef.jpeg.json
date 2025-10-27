@@ -1,0 +1,12 @@
+{
+  "image_filename": "60f02da8-2e60-45f8-ac2e-6eb6f30052ef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-tech control room scene featuring three people monitoring multiple surveillance screens. In the foreground, a man in a suit with gray hair stands to the left, facing two women in gray lab coats. One woman stands beside him, partially turned away, while the other sits at a futuristic workstation filled with glowing blue holographic displays and digital interfaces. The monitors on the wall show live feeds of workers in gray uniforms performing various manual tasks in an industrial setting—carrying red buckets, handling tools, and working with equipment. The lighting is cool and clinical, emphasizing the blue and gray color palette, with subtle highlights on the digital screens. The composition uses a medium-wide angle, capturing both the operators and the surveillance footage, creating a sense of depth and technological sophistication. The overall mood is professional and focused, evoking a cinematic, near-future atmosphere reminiscent of a sci-fi thriller or a high-stakes operations center.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:40.271305",
+  "word_count": 152,
+  "error_message": null
+}

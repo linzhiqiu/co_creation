@@ -1,0 +1,12 @@
+{
+  "image_filename": "1707cd8d-9fba-4035-a90e-12eb3f87139a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vintage television set from the late 1970s or early 1980s sits atop a simple wooden box, dominating the foreground of the composition. The TV’s screen displays a blurred, silhouetted figure seated on a stool against a bright, seamless white backdrop, evoking the look of a photo studio or interview set. The figure’s features and clothing are indistinct, rendered as a dark shape by the overexposed lighting behind them, creating a sense of anonymity and mystery. The television itself is detailed, with tactile dials, a speaker grille, and a small colored logo, all rendered in muted, retro tones of beige, brown, and black. \n\nIn the softly lit background, a neutral off-white wall is visible, adorned with several yellow sticky notes arranged in a loose, informal pattern, their handwritten contents just out of focus. The overall color palette is subdued and nostalgic, with warm, ambient lighting casting gentle shadows and lending the scene a cinematic, contemplative mood. The camera angle is straight-on, with a shallow depth of field that keeps the TV and its screen in sharp focus while softly blurring the background, emphasizing the sense of separation between observer and subject. The style is reminiscent of analog film photography, with a slight grain and a carefully composed, documentary-like atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:40:22.257366",
+  "word_count": 209,
+  "error_message": null
+}

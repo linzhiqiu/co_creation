@@ -1,0 +1,12 @@
+{
+  "image_filename": "6082d686-67c5-4f5e-971b-764466da4533.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-contrast portrait of a young man with sharp features and styled dark hair, set against a cool-toned, minimalist blue background. The subject is captured mid-movement, with his mouth slightly open as if singing or speaking, and his gaze directed intensely toward the camera, conveying a sense of confidence and charisma. He wears a plush, textured velvet jacket with a bold, abstract pattern in shades of black and gray, layered over a dark shirt with a high collar. One ear is adorned with a small, subtle earring. In the foreground, a second figure’s gloved hand enters the frame, fingers splayed in a dynamic gesture, adding a sense of motion and energy. The lighting is soft yet directional, casting gentle shadows that accentuate the contours of the subject’s face and clothing, while the overall color palette remains cool and monochromatic, dominated by blues and grays. The composition is tight and intimate, with a shallow depth of field that keeps the focus on the main subject, evoking a stylish, music video-inspired aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:07:28.084183",
+  "word_count": 172,
+  "error_message": null
+}

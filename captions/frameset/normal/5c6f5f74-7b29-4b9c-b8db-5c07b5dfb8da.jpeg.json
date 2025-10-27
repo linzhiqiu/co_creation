@@ -1,0 +1,12 @@
+{
+  "image_filename": "5c6f5f74-7b29-4b9c-b8db-5c07b5dfb8da.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, monochromatic aerial view of a rugged, rocky landscape, reminiscent of a barren lunar or Martian surface. The terrain is dominated by jagged cliffs, steep slopes, and deep crevices, with a variety of textures ranging from rough, craggy outcrops to smoother, dust-covered inclines. The lighting is stark and directional, casting sharp shadows that accentuate the dramatic relief and depth of the scene, evoking a sense of desolation and otherworldliness. The color palette is limited to shades of gray, emphasizing the stark, inhospitable nature of the environment. The composition is tightly framed, focusing on the interplay of light and shadow across the uneven surface, with no visible signs of life or vegetation. The overall style is cinematic and documentary-like, as if captured by a high-resolution camera from a drone or spacecraft, with a slightly elevated angle that enhances the sense of scale and isolation. The mood is austere and contemplative, inviting the viewer to explore the alien beauty of this remote, untouched landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:05:50.310276",
+  "word_count": 164,
+  "error_message": null
+}

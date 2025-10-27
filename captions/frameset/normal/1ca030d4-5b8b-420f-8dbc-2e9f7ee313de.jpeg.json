@@ -1,0 +1,12 @@
+{
+  "image_filename": "1ca030d4-5b8b-420f-8dbc-2e9f7ee313de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a high-tech touchscreen interface in a futuristic laboratory setting. The foreground features a gloved hand, clad in a sleek, purple-gray lab coat, interacting with the digital display. The screen is angled slightly toward the viewer, revealing detailed scientific graphics, including a 3D anatomical model of a fish, data readouts, and various illuminated icons and text in a clean, modern font. The background is softly blurred, with hints of metallic surfaces and cool blue lighting, suggesting a sterile, advanced environment. The color palette is dominated by cool blues, purples, and subtle reds, with the screen emitting a soft, luminous glow that highlights the contours of the hand and the edge of the monitor. The overall style is reminiscent of a sci-fi film, with sharp focus on the interface and shallow depth of field, creating a sense of immersion and technological sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:42:23.140993",
+  "word_count": 145,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "5e2d789c-f7be-44fb-92ce-1cfaf7789f71.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, close-up portrait of a woman's face in profile, focusing on her right side. The composition should capture her from the bridge of her nose to just past her ear, with particular emphasis on her eye, eyebrow, and lips. Her skin is smooth and luminous, with a natural, healthy glow. She wears bold, matte mauve lipstick and soft, blended eyeshadow in shades of plum and rose, accentuating her greenish-brown eye. Her eyelashes are long and defined, and her eyebrow is thick and well-groomed. The background is a seamless, solid dusty pink, creating a minimalist and modern aesthetic. The lighting is soft and diffused, eliminating harsh shadows and highlighting the contours of her face. The overall style is clean, elegant, and editorial, with a shallow depth of field that keeps the facial features in sharp focus while the background remains smooth and unobtrusive. The mood is sophisticated and serene, evoking a sense of quiet confidence and beauty.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:06:26.946072",
+  "word_count": 158,
+  "error_message": null
+}

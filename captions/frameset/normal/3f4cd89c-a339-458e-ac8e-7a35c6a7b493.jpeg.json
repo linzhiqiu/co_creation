@@ -1,0 +1,12 @@
+{
+  "image_filename": "3f4cd89c-a339-458e-ac8e-7a35c6a7b493.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic scene inspired by retro video games, featuring a young man as the central subject. He is mid-motion, smiling confidently as he moves through a sun-dappled forest. The man wears a casual, light-colored t-shirt with a bold graphic design on the front. The background is lush and vibrant, filled with tall trees and dense green foliage, with warm sunlight filtering through the leaves, casting a golden glow and creating a lively, energetic atmosphere.\n\nOverlay the image with classic video game interface elements: a coin counter with a character icon and a multiplier (e.g., \"x2\"), a score display in bold yellow numbers, a segmented health or energy bar in the top right corner, and a subtle targeting reticle at the bottom right. The overall color palette is rich and saturated, with deep greens, warm oranges, and soft yellows, evoking a nostalgic, pixelated aesthetic reminiscent of early 2000s arcade or adventure games.\n\nThe composition should have a slight cinematic quality, with a shallow depth of field that keeps the young man in sharp focus while the background is softly blurred. The camera angle is at chest height, slightly tilted upward to emphasize the subject’s movement and optimism. The image should blend the playful, low-resolution charm of vintage video games with the natural beauty of an outdoor setting, capturing a sense of adventure, joy, and youthful energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:54:57.822303",
+  "word_count": 226,
+  "error_message": null
+}

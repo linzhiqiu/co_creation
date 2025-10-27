@@ -1,0 +1,12 @@
+{
+  "image_filename": "2aa798d6-d089-40f3-b2d3-b0368e85f0a9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands in the foreground of a grand, stone building entrance, framed by imposing architectural columns and textured stonework. She is centered in the composition, gazing down at her smartphone with a neutral, focused expression, her attention absorbed by the device. She wears a black leather jacket over a light gray t-shirt, her straight, shoulder-length hair softly framing her face. The lighting is natural and diffuse, suggesting an overcast day, with soft shadows and a cool, muted color palette dominated by grays, blacks, and subtle earth tones. The background recedes into shadow, with the entranceway leading to a dimly lit interior, where a blurred figure stands in the distance, adding depth and a sense of urban anonymity. The camera angle is eye-level, with a shallow depth of field that keeps the woman sharply in focus while gently blurring the architectural details behind her. The overall style is cinematic and contemporary, evoking a sense of urban solitude and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:47:38.593184",
+  "word_count": 160,
+  "error_message": null
+}

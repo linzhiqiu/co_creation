@@ -1,0 +1,12 @@
+{
+  "image_filename": "525743b5-3a83-47a6-92ad-6374989f928c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic urban scene set in overcast daylight, featuring an elevated subway train traveling across a weathered, industrial bridge. The train is composed of white, slightly reflective cars with dark windows, stretching horizontally across the upper third of the composition. Below the train, the bridge structure is detailed with rusted metal beams, exposed pipes, and tangled wiring, emphasizing a sense of age and urban grit. In the background, mid-rise brick apartment buildings and utility structures rise against a pale, cloudy sky, adding depth and context to the cityscape. The color palette is muted and cool, dominated by grays, faded greens, and browns, with subtle hints of red and yellow from distant lights and building details. The overall style is cinematic and documentary-like, with a medium telephoto lens compressing the scene and a deep depth of field keeping all elements in sharp focus. The mood is contemplative and slightly melancholic, capturing the everyday reality and quiet drama of city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T04:01:42.454994",
+  "word_count": 159,
+  "error_message": null
+}
