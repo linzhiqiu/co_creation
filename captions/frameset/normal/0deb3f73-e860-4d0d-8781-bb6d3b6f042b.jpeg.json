@@ -1,0 +1,12 @@
+{
+  "image_filename": "0deb3f73-e860-4d0d-8781-bb6d3b6f042b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man with a shaved head and strong facial features stands indoors, captured from the chest up in a shallow depth of field. He wears a deep blue work jacket with a yellow circular logo on the left chest, layered over a blue collared shirt. His expression is serious and focused, eyes cast downward as if concentrating on a task just out of frame. The background is softly blurred, suggesting an industrial or workshop setting with muted beige and gray tones, punctuated by indistinct shapes and equipment. The lighting is soft and natural, casting gentle highlights on his face and head, creating a realistic and intimate atmosphere. The composition centers the subject, using a medium close-up and a slightly low camera angle to convey a sense of dignity and quiet determination. The overall style is cinematic and documentary-like, emphasizing authenticity and the everyday heroism of skilled labor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:51.992700",
+  "word_count": 148,
+  "error_message": null
+}

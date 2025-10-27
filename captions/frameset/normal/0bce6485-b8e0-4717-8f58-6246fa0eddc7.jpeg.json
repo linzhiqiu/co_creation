@@ -1,0 +1,12 @@
+{
+  "image_filename": "0bce6485-b8e0-4717-8f58-6246fa0eddc7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody close-up of an East Asian man in a black suit and white dress shirt, standing in an elevator. The composition is strikingly off-center, with the man’s face occupying the left third of the frame, his expression somber and introspective, eyes cast slightly downward. His slicked-back hair and formal attire suggest a sense of seriousness or tension. The background is a muted, industrial green, with the metallic elevator walls softly illuminated by overhead fluorescent lighting, creating subtle reflections and a cold, sterile atmosphere. The lighting is diffuse, casting gentle shadows that enhance the contemplative mood. The overall color palette is subdued, dominated by cool greens and grays, with the man’s skin tone providing the only warmth. The camera angle is at eye level, with a shallow depth of field that keeps the focus on the man’s face while the background remains softly blurred, emphasizing isolation and emotional weight. The style evokes neo-noir or psychological thriller aesthetics, with a minimalist, almost claustrophobic composition that heightens the sense of suspense and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:11.724067",
+  "word_count": 172,
+  "error_message": null
+}

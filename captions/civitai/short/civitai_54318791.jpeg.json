@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_54318791.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A charming anthropomorphic rabbit in a mustard-yellow dress and round glasses stands in a sunlit park, holding an open book. Soft morning light filters through lush trees, casting gentle shadows. The scene is rendered in a warm, painterly style with a shallow depth of field, evoking a whimsical, storybook atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:05:55.040086",
+  "word_count": 50,
+  "error_message": null
+}

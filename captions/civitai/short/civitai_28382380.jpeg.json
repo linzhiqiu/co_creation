@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_28382380.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Four men in dark suits stand against a minimalist beige background, their heads replaced by colorful balloons—one with a heart-shaped balloon. A circular window reveals a blue sky and fluffy cloud, creating a surreal, whimsical atmosphere. The lighting is soft, with a clean, dreamlike composition and subtle surrealist undertones.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:54:34.885213",
+  "word_count": 49,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a0dbe6c-3fda-4ae8-9c9e-1c9c16819894.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a gloved hand reaching out to touch the screen of an old, rugged monitor. The monitor displays a blue-tinted, ghostly image of a woman's face, her expression calm and slightly melancholic, as if she is communicating from a distant or digital realm. The hand, clad in a black tactical glove with visible seams and red wiring, partially obscures her face, creating a sense of longing and separation. The monitor itself is weathered, with physical buttons and dials along the left side, evoking a retro-futuristic or post-apocalyptic aesthetic. The lighting is dim and moody, with cool blue and gray tones dominating the palette, and subtle reflections suggesting a metallic, industrial environment. The composition is intimate and emotionally charged, with a shallow depth of field that keeps the focus on the interaction between the hand and the screen, blurring the background and enhancing the sense of isolation and connection. The overall style is reminiscent of a science fiction film, blending realism with a touch of digital surrealism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:28.826048",
+  "word_count": 170,
+  "error_message": null
+}

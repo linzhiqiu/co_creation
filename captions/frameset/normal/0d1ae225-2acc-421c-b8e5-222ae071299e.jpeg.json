@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d1ae225-2acc-421c-b8e5-222ae071299e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up shot of a hand plugging a white USB-C cable into a sleek, modern electronic device, possibly a tablet or smartphone, resting on a wooden surface. The camera angle is extremely low and intimate, almost at table level, emphasizing the tactile interaction between the fingers and the device. The focus is sharp on the cable tip and the port, while the background and edges of the device blur softly, creating a shallow depth of field. Warm, natural sunlight streams in from a window in the background, casting soft golden highlights and gentle shadows across the wood grain and the device’s metallic edge. The overall color palette is warm and inviting, with rich browns from the wood, creamy whites from the cable, and subtle metallic grays from the device. The mood is calm and contemplative, evoking a sense of quiet routine and modern technology. The composition is cinematic, with a strong sense of texture and light, reminiscent of a scene from a high-end commercial or a tech-focused film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:36.570905",
+  "word_count": 169,
+  "error_message": null
+}

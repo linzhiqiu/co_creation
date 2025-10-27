@@ -1,0 +1,12 @@
+{
+  "image_filename": "01c94f61-6c63-4c05-9eec-bb7e18247cf9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody interior shot from the backseat of a car at dusk, looking forward through the windshield. The dashboard and steering wheel are softly illuminated by the fading natural light, casting gentle shadows and creating a subdued, contemplative atmosphere. The car’s interior is rendered in muted, neutral tones, with the upholstery and dashboard blending into the low light. Outside the windshield, a tranquil landscape of marshland and distant trees is visible, bathed in the cool, bluish hues of twilight. The sky is overcast, with soft gradients of gray and blue, enhancing the somber mood. In the rearview mirror, the partial reflection of a person’s face is visible, their expression pensive and introspective, adding a subtle human presence to the otherwise still scene. The composition uses a shallow depth of field, keeping the car’s interior in gentle focus while the background remains slightly blurred, emphasizing the sense of isolation and quiet reflection. The overall style is reminiscent of an art-house film, with naturalistic lighting, a restrained color palette, and a focus on atmosphere and emotional nuance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:19.765508",
+  "word_count": 176,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "02a8be07-2881-4e96-9e2f-828e53cffd55.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, minimalist scene featuring a single dancer captured in mid-motion, silhouetted against a softly lit, gradient gray background. The dancer’s pose is expressive and fluid, with arms raised and slightly bent, head tilted back, and hair in motion, conveying a sense of freedom and emotion. The figure is entirely in shadow, with no visible facial features or clothing details, emphasizing the elegant contours and dynamic lines of the body. The lighting is diffused and moody, creating a gentle halo effect around the silhouette and a subtle gradient from darker tones at the edges to lighter tones near the center. The floor is smooth and unobtrusive, blending seamlessly into the background. The overall composition is cinematic and artistic, with a focus on negative space, graceful movement, and a monochromatic color palette that enhances the sense of mystery and introspection. The camera angle is straight-on at eye level, with a shallow depth of field that keeps the dancer sharply defined against the soft, out-of-focus backdrop.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:37.852496",
+  "word_count": 165,
+  "error_message": null
+}

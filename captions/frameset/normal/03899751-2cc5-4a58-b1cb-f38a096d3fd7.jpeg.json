@@ -1,0 +1,12 @@
+{
+  "image_filename": "03899751-2cc5-4a58-b1cb-f38a096d3fd7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an abstract, dreamlike forest scene viewed through a heavily distorted lens, as if seen through water or glass. The composition centers on tall, dark tree trunks silhouetted against a bright, diffused light source—possibly the sun—shining through the dense foliage. The image is intentionally blurred and swirled, with soft, circular motion creating a sense of disorientation and ethereal movement. The color palette is muted and monochromatic, dominated by deep grays, blacks, and silvery whites, with subtle hints of blue. The lighting is low and moody, with high contrast between the dark trees and the glowing light, evoking a mysterious, almost otherworldly atmosphere. The overall style is cinematic and impressionistic, with a shallow depth of field and a strong emphasis on mood and texture rather than clear detail. The camera angle is slightly tilted upward, enhancing the sense of being enveloped by the forest and the surreal quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:53.269935",
+  "word_count": 150,
+  "error_message": null
+}

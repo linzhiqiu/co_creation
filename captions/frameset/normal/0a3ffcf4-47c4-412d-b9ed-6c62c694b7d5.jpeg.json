@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a3ffcf4-47c4-412d-b9ed-6c62c694b7d5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a striking black-and-white image that captures the dramatic shadow of a person in profile, projected onto a stark concrete wall. The subject’s silhouette is dynamic and expressive, with one knee bent and both arms extended forward, as if reaching or pushing against an unseen force. The shadow is sharply defined, emphasizing the contours and gesture of the figure. To the right, the angular, geometric shadow of a metal staircase cuts across the wall, adding a sense of architectural depth and visual tension. The composition is minimalist, with strong contrasts between light and dark, and a high-contrast lighting scheme that evokes classic film noir or German Expressionist cinema. The overall mood is mysterious and evocative, with a focus on the interplay between human form and urban structure. The camera angle is straight-on, emphasizing the flatness of the wall and the graphic quality of the shadows, while the absence of color heightens the sense of abstraction and drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:30.251937",
+  "word_count": 158,
+  "error_message": null
+}

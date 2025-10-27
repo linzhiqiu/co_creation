@@ -1,0 +1,12 @@
+{
+  "image_filename": "07c204f7-d6a5-41b2-9246-0f5ecb563f72.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a hyper-realistic, high-resolution interior shot of a modern luxury car, viewed from the back seat looking forward through the windshield. The focus is on the sleek, minimalist dashboard and cockpit of an Audi, featuring a digital instrument cluster behind the steering wheel and a large central infotainment display showing a car interface. The steering wheel is prominently branded with the Audi logo, and the dashboard is accented with subtle blue ambient lighting. The interior is finished in dark, matte materials with soft leather seats in a muted taupe or brown shade. The lighting is soft and diffuse, suggesting a well-lit showroom or garage environment, with gentle reflections on the surfaces but no harsh shadows. The composition is symmetrical, emphasizing the clean lines and advanced technology of the vehicle. The overall mood is sophisticated, high-tech, and inviting, with a cinematic depth of field that keeps the dashboard and controls in sharp focus while the background remains softly blurred.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:31.711632",
+  "word_count": 159,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0942406c-a037-41a2-875d-2a5da7953672.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle shot of a dark green station wagon driving down a perfectly straight, two-lane rural road in the Netherlands. The camera is positioned directly in front of the car, slightly above hood level, creating a symmetrical, centered composition that emphasizes the long, vanishing perspective of the road. The car’s yellow Dutch license plate is clearly visible, and two people are seated in the front seats, their faces partially obscured by the windshield’s reflection. The road is flanked by lush green grass and a narrow canal on the left, with calm water reflecting the cloudy sky. On the right, expansive flat fields stretch into the distance, dotted with occasional trees and bordered by a line of dark forest on the horizon. The sky is overcast with soft, diffused daylight, casting gentle, natural shadows and lending the scene a muted, realistic color palette of greens, grays, and earth tones. The overall mood is quiet and contemplative, evoking a sense of journey and solitude in a serene, open landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:10.165822",
+  "word_count": 168,
+  "error_message": null
+}

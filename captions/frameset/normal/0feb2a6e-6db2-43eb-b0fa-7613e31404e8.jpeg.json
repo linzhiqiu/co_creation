@@ -1,0 +1,12 @@
+{
+  "image_filename": "0feb2a6e-6db2-43eb-b0fa-7613e31404e8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial photograph of a suburban neighborhood at dusk, captured from directly overhead. The central focus is a uniquely designed cul-de-sac shaped like a teardrop or guitar pick, with a looping road and several parked cars arranged in a semi-organized pattern within the circle. Radiating outward from the cul-de-sac are multiple driveways and streets, each leading to single-family homes with varied roof colors—muted reds, browns, grays, and a striking black roof in the lower left. The houses are evenly spaced, surrounded by patches of green lawns and bare trees, suggesting late autumn or early winter. The lighting is soft and cool, with a bluish tint cast by the fading daylight, creating gentle shadows and a tranquil, almost somber mood. The composition emphasizes geometric patterns and symmetry, with the cul-de-sac as the visual anchor. The overall style is cinematic and contemplative, evoking a sense of quiet suburban life from a detached, almost abstract perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:39.192597",
+  "word_count": 154,
+  "error_message": null
+}

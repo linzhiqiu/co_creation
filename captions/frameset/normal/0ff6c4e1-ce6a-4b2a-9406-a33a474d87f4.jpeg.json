@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ff6c4e1-ce6a-4b2a-9406-a33a474d87f4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary cyclist, dressed in a sleek, dark outfit and wearing a helmet, rides a mountain bike through a sun-dappled forest. The scene is viewed through a dreamy, impressionistic lens, as if seen through a pane of rippled glass or reflected in water, creating a soft, painterly blur that merges the figure with the lush, green surroundings. The background is a tapestry of deep greens and earthy browns, with sunlight filtering through the trees and casting gentle highlights across the scene. The composition is horizontal, with the cyclist positioned slightly off-center, moving from left to right, evoking a sense of quiet motion and introspection. The overall color palette is natural and subdued, dominated by forest greens, muted yellows, and hints of blue from the cyclist’s attire. The lighting is diffuse and natural, enhancing the tranquil, almost ethereal mood. The camera angle is at eye level, with a shallow depth of field that further blurs the boundaries between subject and environment, lending the image a cinematic, contemplative quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:39.029420",
+  "word_count": 167,
+  "error_message": null
+}

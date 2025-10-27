@@ -1,0 +1,12 @@
+{
+  "image_filename": "07c649c7-66e2-4c54-9b15-b8d6a14104af.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial view of a lush, green vineyard captured in bright daylight. The camera is positioned directly overhead, creating a striking top-down perspective that emphasizes the geometric rows of grapevines. Each row casts long, dramatic shadows onto the vibrant grass below, forming a rhythmic pattern of alternating light and dark stripes across the landscape. The grapevines are dense and healthy, their leaves a rich emerald green, with subtle variations in hue that add depth and texture. The sunlight is crisp and clear, suggesting a cloudless sky, and the overall color palette is dominated by fresh greens and deep shadows. The composition is orderly and almost abstract, with the repeating lines and shadows creating a sense of harmony and tranquility. The image has a naturalistic, documentary style, with sharp focus and high detail, evoking the serene beauty and quiet order of a well-tended vineyard at the height of summer.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:30.588946",
+  "word_count": 149,
+  "error_message": null
+}

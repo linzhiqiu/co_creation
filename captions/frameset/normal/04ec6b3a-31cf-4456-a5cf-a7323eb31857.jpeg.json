@@ -1,0 +1,12 @@
+{
+  "image_filename": "04ec6b3a-31cf-4456-a5cf-a7323eb31857.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, slightly surreal scene set in the atrium of a modern, minimalist building with raw concrete walls and large, rounded rectangular windows. The architecture is stark and geometric, with smooth, cool-toned concrete surfaces and soft, diffused lighting. In the foreground, centered and facing away from the viewer, stands a mysterious figure dressed in a dark overcoat. The figure’s head is obscured by a futuristic, black virtual reality headset, and their neck is covered by a textured, deep blue scarf or garment, giving them an enigmatic, almost faceless appearance. \n\nThrough the windows in the background, glimpses of warm, softly lit interior spaces are visible: one window reveals a cozy room with bookshelves, while another shows a modern, sculptural yellow chair bathed in gentle light. The overall color palette is muted and cool, dominated by grays and blues, with contrasting warm yellow highlights from the interior lighting. The composition is symmetrical and balanced, with a sense of depth created by the architectural lines and the placement of the figure. The mood is contemplative and slightly uncanny, blending elements of science fiction and modernist design, as if capturing a moment of quiet introspection in a near-future world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:25.148372",
+  "word_count": 197,
+  "error_message": null
+}

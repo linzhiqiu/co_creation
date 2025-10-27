@@ -1,0 +1,12 @@
+{
+  "image_filename": "101d91d5-df18-402f-921f-ed5c9b2f8882.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A first-person perspective of a modern military shooter video game, set in a war-torn urban environment. The viewer looks down the sights of a black assault rifle, the weapon held steady in the foreground by gloved hands clad in tactical gear. The background features a dilapidated, multi-story building with broken windows and faded, weathered walls, partially obscured by a haze of dust and smoke, evoking a sense of recent conflict. The lighting is diffuse and natural, with a muted, desaturated color palette dominated by grays, beiges, and hints of green from overgrown vegetation. \n\nHeads-up display (HUD) elements overlay the scene: a minimap with a red heat signature, ammunition and weapon stats, a cash counter, and player status indicators such as health and armor bars. The composition is immersive and dynamic, with a shallow depth of field that blurs the background, focusing attention on the weapon and HUD. The overall style is hyper-realistic and cinematic, reminiscent of high-budget action games, with a slight motion blur suggesting movement and tension. The mood is intense and suspenseful, capturing the adrenaline of a firefight in a devastated urban battlefield.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:40.827574",
+  "word_count": 185,
+  "error_message": null
+}

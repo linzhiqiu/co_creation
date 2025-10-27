@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d3b165c-921d-4cd9-8324-f0424f2eecd3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up of a series of yellow evidence markers, each with bold black numbers, arranged on a smooth, matte surface in a warm, softly lit environment. The markers are scattered at varying distances from the camera, creating a strong sense of depth and selective focus; the marker labeled \"2\" is sharply in focus at the center, while others—numbered 7, 13, 18, 20, and 23—fade into a gentle blur in the foreground and background. The color palette is dominated by warm, peachy-orange tones, both in the surface and the softly gradient background, evoking a controlled, almost surreal atmosphere. The lighting is diffuse and even, with no harsh shadows, lending the scene a calm, contemplative mood. The composition is minimalist, with the evidence markers as the only objects, and the camera angle is low and level with the surface, enhancing the sense of immersion and drawing the viewer’s eye toward the central marker. The overall style is reminiscent of a stylized crime scene or conceptual art photograph, with a shallow depth of field and a focus on form, color, and spatial arrangement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:39.165168",
+  "word_count": 181,
+  "error_message": null
+}

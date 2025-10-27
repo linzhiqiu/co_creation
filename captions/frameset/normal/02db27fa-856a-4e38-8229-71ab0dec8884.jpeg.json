@@ -1,0 +1,12 @@
+{
+  "image_filename": "02db27fa-856a-4e38-8229-71ab0dec8884.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic close-up of a chessboard viewed from a low, eye-level angle, with the camera positioned at the edge of the board, creating a sense of depth and anticipation. The chess pieces are arranged in their starting positions, with contrasting sets of light and dark pieces made from polished wood, their surfaces catching the warm, focused spotlight that illuminates the center of the board. The background is completely black, fading into darkness and isolating the chessboard as the sole subject, enhancing the intensity and focus of the scene. The lighting is moody and theatrical, casting long, soft-edged shadows across the squares and highlighting the intricate details and curves of the chess pieces. The color palette is rich and earthy, dominated by deep browns, creamy ivories, and golden highlights, evoking a sense of classic elegance and intellectual tension. The overall style is reminiscent of a suspenseful film or a high-stakes tournament, with a shallow depth of field that blurs the edges of the board and draws the viewer’s eye to the central pieces, creating an atmosphere of quiet concentration and strategic anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:43.565676",
+  "word_count": 182,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "00e80ddb-5635-4bd2-8843-7538a13b1d66.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dimly lit, atmospheric coffee shop interior at night, captured with a cinematic, shallow depth of field. The scene centers on two baristas behind a curved, wooden counter with a smooth, gray stone surface. One barista, wearing a dark shirt and cap, is engaged in conversation with a second barista, who has light hair pulled back and wears a gray t-shirt. The second barista is reaching over the counter, interacting with the cash register, her posture suggesting focus and collaboration. Warm, ambient lighting from round pendant lamps and soft wall sconces creates a cozy, intimate mood, casting gentle highlights and deep shadows throughout the space. The background is softly blurred, revealing hints of industrial decor—exposed brick, shelves, and coffee equipment—while the foreground counter is in sharp focus, emphasizing the human interaction. The overall color palette is muted and earthy, with rich browns, grays, and golden light, evoking a sense of quiet, late-night routine in an urban café. The camera angle is slightly off-center, at counter height, drawing the viewer into the intimate workspace and highlighting the teamwork and quiet energy of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:00.023296",
+  "word_count": 184,
+  "error_message": null
+}

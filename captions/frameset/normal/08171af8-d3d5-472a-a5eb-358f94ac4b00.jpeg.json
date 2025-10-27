@@ -1,0 +1,12 @@
+{
+  "image_filename": "08171af8-d3d5-472a-a5eb-358f94ac4b00.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A long, dimly lit hotel corridor stretches into the distance, its perspective exaggerated by a centered, symmetrical composition. The walls are covered in faded, vintage floral wallpaper, giving the space an eerie, timeworn atmosphere. The ceiling is low and stained, with exposed light bulbs casting a cold, yellowish glow that creates deep shadows and a sense of unease. On either side of the hallway, closed wooden doors line the walls, their surfaces worn and slightly uneven, adding to the unsettling mood.\n\nAt the far end of the corridor, two identical young girls stand side by side, facing the viewer. They wear matching pale blue, knee-length dresses with puffed sleeves, white lace trim, and satin ribbons tied at the waist. Their hair is neatly parted and falls to their shoulders, and their expressions are blank, almost ghostly, heightening the sense of dread. The girls’ hands are loosely clasped together, their posture unnaturally still.\n\nThe color palette is muted and desaturated, dominated by sickly greens, faded blues, and dull browns, evoking a sense of decay and psychological tension. The lighting is stark and clinical, with harsh overhead bulbs creating a tunnel-like effect and drawing the eye inexorably toward the figures at the end of the hall. The overall style is cinematic, reminiscent of classic psychological horror, with a deep depth of field that keeps every detail in sharp focus, amplifying the claustrophobic and haunting atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:45.378811",
+  "word_count": 233,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0985b48d-a753-442d-967a-120d635b1d83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, minimalist architectural scene viewed from a low, upward-facing perspective. The composition centers on an elongated oval skylight set into a massive, textured concrete ceiling. The concrete surfaces are rough, with visible lines and seams, emphasizing the brutalist style of the structure. Soft, natural daylight streams through the skylight, casting a gentle, diffused glow that contrasts with the deep shadows and muted earth tones of the concrete. The overall color palette is subdued, dominated by cool grays and browns, with the brightest element being the white-blue light from the skylight. The mood is contemplative and austere, evoking a sense of solitude and quiet introspection. The camera angle is dramatic, emphasizing the height and scale of the architecture, with a shallow depth of field that keeps the focus on the skylight and the play of light and shadow across the concrete surfaces. The style is reminiscent of modernist or brutalist architectural photography, with a strong emphasis on geometry, texture, and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:14.538123",
+  "word_count": 163,
+  "error_message": null
+}

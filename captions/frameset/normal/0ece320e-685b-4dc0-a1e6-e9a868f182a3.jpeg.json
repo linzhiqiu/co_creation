@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ece320e-685b-4dc0-a1e6-e9a868f182a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a hand gently touching the screen of a tablet device, set on a wooden surface in a dimly lit room. The scene is bathed in cool, moody blue tones, with soft, diffused lighting creating a sense of calm and focus. The finger is poised delicately above the glowing screen, which emits a subtle, ethereal light that softly illuminates the fingertip and part of the hand, casting faint reflections on the tablet’s surface. The background is blurred and dark, with only hints of shapes and shadows, drawing all attention to the interaction between the hand and the device. The composition uses a shallow depth of field, emphasizing the tactile moment and creating an intimate, contemplative atmosphere. The overall style is modern and minimalistic, evoking a sense of quiet concentration and technological engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:13.248007",
+  "word_count": 136,
+  "error_message": null
+}

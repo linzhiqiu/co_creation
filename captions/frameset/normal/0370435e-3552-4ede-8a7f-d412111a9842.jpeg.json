@@ -1,0 +1,12 @@
+{
+  "image_filename": "0370435e-3552-4ede-8a7f-d412111a9842.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic landscape set at night, featuring a desolate, alien shoreline. The foreground is dominated by a dark, rocky terrain that glistens with a wet, almost metallic sheen, reflecting faint, eerie light. Jagged rock formations rise dramatically from the ground, their silhouettes stark against a dim, clouded sky. The background is shrouded in deep shadow, with only a subtle, bluish glow hinting at distant light beyond the rocks, adding an otherworldly atmosphere. The color palette is dominated by deep blacks, muted browns, and cool blue undertones, evoking a sense of mystery and isolation. The lighting is low and diffuse, with minimal highlights, creating strong contrasts and a sense of depth. The overall style is reminiscent of classic science fiction or fantasy films, with a painterly, almost surreal quality. The camera angle is low and wide, emphasizing the vastness and strangeness of the landscape, while the composition draws the viewer’s eye toward the distant, glowing horizon.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:50.940929",
+  "word_count": 157,
+  "error_message": null
+}

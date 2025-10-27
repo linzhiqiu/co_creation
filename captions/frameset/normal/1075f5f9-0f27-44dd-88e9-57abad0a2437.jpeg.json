@@ -1,0 +1,12 @@
+{
+  "image_filename": "1075f5f9-0f27-44dd-88e9-57abad0a2437.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A stark, minimalist composition featuring a single, coarse rope noose suspended against a plain, light gray background. The noose is centered in the frame, its thick, twisted fibers clearly visible, with the knot and loop rendered in sharp detail. The lighting is soft and diffuse, casting no harsh shadows, which enhances the somber and contemplative mood of the scene. The color palette is monochromatic, dominated by shades of gray and muted brown, evoking a sense of bleakness and gravity. The camera angle is straight-on, with a shallow depth of field that keeps the noose in crisp focus while the background remains featureless and blurred. The overall style is reminiscent of classic black-and-white cinematography, with a strong emphasis on negative space and visual simplicity to heighten the emotional impact and symbolism of the image.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:45.173297",
+  "word_count": 133,
+  "error_message": null
+}

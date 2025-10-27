@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ca71d24-dae8-4e8b-8463-0141ecb40061.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, wide-angle shot of a set of racing start lights suspended on a horizontal metal bar against a pale, early morning or late afternoon sky. The lights are arranged in five vertical columns, each with three circular red lights illuminated at the bottom and two green lights illuminated at the top. The background is minimal and softly lit, with a gentle gradient from light blue to warm beige, evoking a calm, anticipatory atmosphere. Overhead wires cross the frame, adding subtle detail and depth. The composition is symmetrical and centered, emphasizing the geometric arrangement of the lights. The overall color palette is muted and natural, with the vivid red and green lights standing out sharply against the subdued sky. The lighting is soft and diffuse, with no harsh shadows, creating a serene yet tense mood reminiscent of the moments just before a race begins. The style is realistic with a slight cinematic quality, focusing on clarity, balance, and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:22.542603",
+  "word_count": 160,
+  "error_message": null
+}

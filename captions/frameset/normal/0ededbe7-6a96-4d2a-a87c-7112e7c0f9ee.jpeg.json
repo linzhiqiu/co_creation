@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ededbe7-6a96-4d2a-a87c-7112e7c0f9ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man is captured mid-motion as he steps out of a modern silver SUV parked on a city street. The camera angle is positioned slightly behind and to the left, focusing on his back and the open car door, creating a sense of candid realism. He wears a casual olive-green button-up shirt and dark jeans, his posture relaxed but purposeful as he exits the vehicle. The background features a contemporary urban setting with a concrete building and large windows, softened by a shallow depth of field that subtly blurs the architectural details and a pedestrian walking in the distance. The color palette is cool and muted, dominated by grays, silvers, and subdued earth tones, evoking a calm, overcast day. Natural daylight provides soft, even lighting, with gentle shadows that enhance the scene’s authenticity. The overall style is cinematic and documentary-like, emphasizing everyday life and movement, with a focus on realism and understated drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:17.032489",
+  "word_count": 153,
+  "error_message": null
+}

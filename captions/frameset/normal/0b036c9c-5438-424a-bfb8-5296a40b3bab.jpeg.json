@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b036c9c-5438-424a-bfb8-5296a40b3bab.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic urban street scene set in a European city, featuring a white compact SUV (Suzuki Vitara) parked at the curb in the foreground. The background showcases a pastel pink, classical-style building with ornate black wrought-iron balconies and tall windows, evoking a sense of old-world charm. Prominently displayed is a red \"METRO\" sign and a large red \"M\" indicating a subway entrance, adding a metropolitan feel. Several pedestrians animate the scene: a young woman in casual attire walks briskly on the sidewalk, while a man in a gray jacket and dark pants stands nearby, and another person sits on a bench, partially obscured by trees. The street is lined with white bollards, and the pavement is wet, suggesting recent rain, which enhances the reflective quality of the scene. The color palette is soft and muted, with pastel pinks, creams, and grays dominating, contrasted by the crisp white of the car and the bold red of the metro signage. The lighting is natural and diffused, likely overcast, lending a gentle, realistic tone. The camera angle is at street level, slightly wide, capturing both the car and the urban environment with a moderate depth of field, keeping all elements in clear focus. The overall mood is calm and everyday, with a touch of European elegance and urban life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:52.027255",
+  "word_count": 217,
+  "error_message": null
+}

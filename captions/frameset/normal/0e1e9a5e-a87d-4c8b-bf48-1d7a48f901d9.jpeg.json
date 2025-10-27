@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e1e9a5e-a87d-4c8b-bf48-1d7a48f901d9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, contemplative scene featuring two men standing side by side, viewed from behind as they overlook a sprawling suburban cityscape. The man on the left wears a casual plaid shirt and carries a black backpack, while the man on the right is dressed in a dark business suit, his posture formal and upright. Both figures are positioned in the lower foreground, partially framed by lush green foliage and a white metal railing, which adds depth and a sense of separation from the city below. The background reveals a dense urban environment with low-rise buildings, distant apartment blocks, and a network of tall electrical transmission towers stretching across the horizon. The sky is overcast, casting a muted, diffused light that bathes the scene in soft, subdued tones of green, gray, and beige, evoking a melancholic, introspective mood. The overall composition is wide and balanced, with a shallow depth of field that keeps the focus on the figures and the immediate foreground, while the cityscape gently blurs into the distance. The style is reminiscent of Japanese drama films, with a naturalistic color palette and a quiet, observational atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:01.143976",
+  "word_count": 188,
+  "error_message": null
+}

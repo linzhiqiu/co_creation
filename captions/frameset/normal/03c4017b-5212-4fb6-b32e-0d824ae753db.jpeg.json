@@ -1,0 +1,12 @@
+{
+  "image_filename": "03c4017b-5212-4fb6-b32e-0d824ae753db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, modern living room with a clean, neutral color palette dominated by soft whites and light grays. The main subject is a pristine white sofa positioned in the lower left foreground, its simple lines and plush cushions evoking a sense of comfort and contemporary elegance. Behind the sofa, a large, square window fills most of the wall, revealing a breathtaking, hyper-realistic landscape of a serene mountain lake. The scene outside features crystal-clear blue water, lush green pine trees on a small island, and majestic, snow-capped mountains rising dramatically against a vivid blue sky with wisps of clouds.\n\nIn a surreal twist, a portion of the landscape appears to peel away from the window, curling into the room as if it were a flexible photograph or a thin sheet of reality itself. This floating, three-dimensional fragment perfectly matches the scenery outside, with vibrant greens, blues, and the reflective surface of the water rendered in sharp detail. The lighting is bright and natural, as if illuminated by daylight streaming through the window, enhancing the crispness and depth of the scene. The overall composition is balanced and visually striking, blending photorealism with a touch of surrealism, and employing a wide-angle perspective that emphasizes both the inviting interior and the expansive, dreamlike view beyond.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:02.450404",
+  "word_count": 211,
+  "error_message": null
+}

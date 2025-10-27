@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f59d7f9-49df-4e57-b285-d72852d4a31c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, atmospheric scene set in a dimly lit attic or workshop with rustic wooden beams and stone walls. The focal point is a massive, ancient globe dominating the center of the room, its surface intricately cracked with golden seams reminiscent of kintsugi, suggesting repair and resilience. The globe’s continents and oceans are rendered in muted, vintage tones—faded blues, greens, and ochres—contrasting with the luminous gold lines that trace the fractures. Soft, diffused daylight filters in from the left, casting gentle shadows and illuminating dust particles in the air, enhancing the sense of age and quiet reverence. Surrounding the globe, shelves and tables are cluttered with books, papers, and scientific instruments, evoking a sense of scholarly curiosity and forgotten knowledge. The overall composition is symmetrical, with the globe perfectly centered, and the camera positioned at eye level for a sense of intimacy and awe. The mood is contemplative and mysterious, blending elements of magical realism with historical intrigue, and the color palette is subdued, with warm highlights from the golden cracks and cool ambient shadows.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:27.918618",
+  "word_count": 177,
+  "error_message": null
+}

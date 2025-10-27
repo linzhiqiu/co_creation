@@ -1,0 +1,12 @@
+{
+  "image_filename": "09eb6208-a274-4955-9c43-3e9a31455d6f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, moody scene set inside a high school gymnasium, viewed from a partially open doorway. The camera angle is low and slightly off-center, peering through the narrow gap between the door and the frame, creating a sense of secrecy or anticipation. The gym floor is polished wood, with bold, painted lines and large, blocky letters in red and blue marking the court. A single basketball rests near the threshold, partially visible and casting a soft shadow, suggesting recent activity or an impending game. The gym is empty, with no people present, and the bleachers and basketball hoops are visible in the background, bathed in diffused, natural light filtering from high windows. The color palette is subdued, dominated by cool blues, warm wood tones, and muted reds, with soft, ambient lighting that enhances the quiet, contemplative mood. The overall style is reminiscent of a coming-of-age sports drama, with a shallow depth of field focusing on the basketball and the immediate foreground, while the background remains slightly blurred, evoking a sense of solitude and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:23.532616",
+  "word_count": 175,
+  "error_message": null
+}

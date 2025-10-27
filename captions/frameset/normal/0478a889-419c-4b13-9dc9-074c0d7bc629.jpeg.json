@@ -1,0 +1,12 @@
+{
+  "image_filename": "0478a889-419c-4b13-9dc9-074c0d7bc629.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, moody nighttime scene focused on the elongated shadow of a bicycle and its rider cast onto a smooth, dark asphalt road. The composition is dynamic, with the camera angled slightly above and to the side, capturing the motion blur of the ground to convey a sense of speed and movement. The bicycle and rider themselves are mostly out of frame, with only the lower part of the wheels and pedals visible, emphasizing the dramatic, abstract shadow stretching diagonally across the image. The color palette is dominated by deep blues and blacks, with subtle highlights from distant, diffused street lighting, creating a mysterious and atmospheric mood. The overall style is minimalist and evocative, with a shallow depth of field and a strong focus on the interplay between light, shadow, and motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:14.479359",
+  "word_count": 134,
+  "error_message": null
+}

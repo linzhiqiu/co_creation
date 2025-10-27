@@ -1,0 +1,12 @@
+{
+  "image_filename": "026af084-72c8-4218-b1c1-6f82713459a2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A teenage girl with curly hair sits in a dimly lit room at night, illuminated softly by the warm, orange glow of a computer screen. She wears a dark blue tank top and has earphones in, her expression one of delight and gentle surprise as she looks at the screen in front of her. The background is mostly dark, with a window reflecting a single, blurred streetlight outside, adding a subtle bokeh effect and depth to the scene. The composition is intimate and cinematic, with a shallow depth of field that keeps the focus on the girl's face while the background fades into soft darkness. The color palette is dominated by deep shadows and warm highlights, creating a cozy, contemplative mood. The camera angle is slightly off-center, at eye level, enhancing the sense of personal connection and realism. The overall style is naturalistic, evoking the quiet, private moments of late-night digital connection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:31.898287",
+  "word_count": 152,
+  "error_message": null
+}

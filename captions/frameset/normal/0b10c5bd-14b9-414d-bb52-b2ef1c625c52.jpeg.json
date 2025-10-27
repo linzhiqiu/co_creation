@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b10c5bd-14b9-414d-bb52-b2ef1c625c52.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man is captured in a dimly lit phone booth at night, his face illuminated by the cold, bluish glow of the payphone’s digital display. He leans forward, intently speaking into the receiver, his expression tense and contemplative, partially obscured by shadows. The scene is framed through the glass of the booth, creating subtle reflections and a sense of isolation. The background is dark and indistinct, emphasizing the man’s solitude and the confined space. The color palette is dominated by deep blues and muted grays, with sharp contrasts between the artificial light and the surrounding darkness. The composition is intimate and cinematic, with a shallow depth of field focusing on the man’s profile and the details of the payphone, while the rest of the scene falls away into soft blur. The overall mood is somber and suspenseful, evoking a sense of secrecy and emotional weight, as if the man is making an urgent or difficult call late at night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:48.332398",
+  "word_count": 160,
+  "error_message": null
+}

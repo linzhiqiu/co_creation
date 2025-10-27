@@ -1,0 +1,12 @@
+{
+  "image_filename": "0da1f71d-bbba-47a6-8e2f-f15ddf16ce4f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man in a gray suit stands on a crosswalk island in front of a strikingly modern building with a repetitive, geometric facade of white vertical fins casting dramatic shadows. He holds a brown leather briefcase at his side and gazes forward with a neutral, contemplative expression. The scene is framed in wide angle, with the man positioned centrally, emphasizing his isolation against the architectural backdrop. The color palette is muted and cool, dominated by grays, whites, and subdued earth tones, lending a somber, almost cinematic atmosphere. The lighting is soft and diffuse, suggesting an overcast day, with minimal harsh shadows. Sparse urban elements—metal poles, a bare tree, and trimmed bushes—add to the sense of emptiness and order. The overall composition is symmetrical and precise, with a shallow depth of field that keeps the background in focus, highlighting the interplay of light and shadow on the building’s surface. The mood is contemplative and slightly surreal, evoking themes of solitude and modern alienation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:46.433005",
+  "word_count": 163,
+  "error_message": null
+}

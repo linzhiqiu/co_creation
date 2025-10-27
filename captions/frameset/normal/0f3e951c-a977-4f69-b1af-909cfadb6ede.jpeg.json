@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f3e951c-a977-4f69-b1af-909cfadb6ede.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, documentary-style photograph of a gallery wall featuring a large, framed diptych. The diptych consists of two black-and-white photographs side by side. On the left, depict a soldier in full camouflage uniform standing confidently, holding a large rifle across his chest, with a stern, alert expression. The background behind him is urban, possibly the entrance to a building, with vertical lines and a sense of structure. On the right, show a contrasting scene: a person in traditional attire, possibly a sari, bowing or kneeling in front of an ancient, intricately carved temple structure, surrounded by palm trees and sand, evoking a sense of reverence and history. The gallery wall is painted a deep, matte black, creating a stark border around the white-framed photographs, and the lighting is soft, even, and neutral, emphasizing the artwork without casting harsh shadows. The overall mood is contemplative and somber, with a focus on juxtaposition and cultural narrative. The composition is symmetrical and balanced, with a modern, minimalist aesthetic that draws attention to the powerful imagery within the photographs.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:26.986183",
+  "word_count": 176,
+  "error_message": null
+}

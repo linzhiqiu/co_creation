@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c8ac44d-a0da-4ba2-84ed-8d1e1b4cb14c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person sitting at a weathered wooden picnic table outdoors, studying a laminated field guide filled with illustrations of various natural specimens, possibly insects or plants. The person’s arm, clad in a gray jacket, is extended as they point or trace a finger along the guide, suggesting careful observation or identification. Scattered on the table are a red notebook, a stack of papers, a green patterned reusable cup with a metal lid, and a few fallen yellow leaves, adding a touch of autumnal color. The background is softly blurred, with hints of other people standing nearby, creating a shallow depth of field that keeps the focus on the hands and the guide. The lighting is natural and diffuse, likely from an overcast sky, lending a soft, contemplative mood to the scene. The overall color palette is muted and earthy, with greens, browns, and grays dominating, evoking a sense of quiet study and connection with nature. The composition feels candid and documentary, as if capturing a moment of fieldwork or outdoor learning.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:20.829819",
+  "word_count": 176,
+  "error_message": null
+}

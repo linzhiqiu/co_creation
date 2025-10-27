@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b94fa72-b71a-4297-9ec1-6ae1d19843d4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands in a sunlit, minimalist hallway, carefully adjusting a framed picture on a textured, concrete wall. He is dressed casually in a white shirt and dark pants, his posture focused and intent. The corridor is sparsely furnished, with a simple white chair and a few red chairs lined up against the right wall, casting elongated shadows on the polished floor. Natural light streams in from a glass door at the end of the hallway, illuminating the man and creating a dramatic contrast between the bright, sun-drenched area near the door and the deep shadows receding into the interior. Outside, lush greenery and hints of red and blue objects add a touch of color to the otherwise muted, earthy palette of grays, whites, and soft browns. The overall composition is cinematic, with a strong sense of depth and a contemplative, almost meditative atmosphere. The camera angle is slightly low and off-center, emphasizing the length of the hallway and the interplay of light and shadow, evoking a quiet, introspective mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:02.667240",
+  "word_count": 171,
+  "error_message": null
+}

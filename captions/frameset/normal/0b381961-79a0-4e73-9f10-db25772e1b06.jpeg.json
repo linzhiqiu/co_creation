@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b381961-79a0-4e73-9f10-db25772e1b06.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young boy sits alone at a classroom desk, intently focused on a laptop in front of him. He leans forward, his face illuminated by the soft glow of the screen, hands poised over the keyboard in concentration. The classroom is softly lit by diffused daylight streaming through large, partially shaded windows in the background, casting a gentle, natural ambiance across the scene. The background is slightly out of focus, with indistinct figures of other children and a teacher, creating a sense of depth and subtle activity without drawing attention away from the main subject. The boy’s expression is serious and absorbed, highlighting his engagement with the task at hand. The color palette is muted and natural, with subdued tones of beige, gray, and soft blues, evoking a calm, contemplative mood. The composition uses a shallow depth of field to isolate the boy, while the low, eye-level camera angle places the viewer at his perspective, enhancing the sense of immersion and intimacy. The overall style is cinematic and documentary-like, capturing a quiet, authentic moment of learning and focus in a modern classroom setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:53.997534",
+  "word_count": 183,
+  "error_message": null
+}

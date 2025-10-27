@@ -1,0 +1,12 @@
+{
+  "image_filename": "10e9d486-88dc-4c26-be95-910feca82c10.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern coffee roaster control panel, prominently featuring three digital displays stacked vertically. Each display shows red and green LED numbers indicating air temperature, roasting temperature, and roasting time, with the words \"AIR TEMP,\" \"ROASTING TEMP,\" and \"ROASTING TIME\" clearly labeled above each respective screen. The control panel is sleek and black, with a matte finish, and is attached to a cylindrical metal drum partially visible on the left side of the frame, hinting at the industrial design of the machine. The background is softly blurred, consisting of neutral off-white and gray tones, drawing full attention to the control panel. The lighting is soft and diffused, creating gentle shadows and a calm, focused atmosphere. The overall color palette is subdued, dominated by blacks, grays, and metallic silvers, with the vibrant LED displays providing the only pops of color. The composition is tight and intimate, shot at a slight angle to emphasize the depth and dimensionality of the machine, evoking a sense of precision and technical craftsmanship.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:03.224182",
+  "word_count": 170,
+  "error_message": null
+}

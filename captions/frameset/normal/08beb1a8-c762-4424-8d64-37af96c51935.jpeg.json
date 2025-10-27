@@ -1,0 +1,12 @@
+{
+  "image_filename": "08beb1a8-c762-4424-8d64-37af96c51935.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a futuristic, high-tech interior scene with a strong cyberpunk aesthetic. The composition is dominated by glowing white LED tube lights suspended from the ceiling at various angles, casting a cool, clinical illumination across the space. In the background, a digital wall displays cascading streams of blue and white data, reminiscent of falling code or holographic information, with abstract geometric patterns and faint circuitry motifs interwoven throughout. The color palette is primarily composed of deep blues, icy whites, and subtle hints of cyan, evoking a sense of advanced technology and digital immersion. The camera angle is slightly tilted upward, emphasizing the height of the room and the immersive quality of the digital wall. The overall style is sleek and modern, with sharp lines and a sense of depth created by the interplay of light, shadow, and transparent digital overlays. The mood is enigmatic and sophisticated, capturing the essence of a cutting-edge data center or a scene from a science fiction film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:56.494464",
+  "word_count": 162,
+  "error_message": null
+}

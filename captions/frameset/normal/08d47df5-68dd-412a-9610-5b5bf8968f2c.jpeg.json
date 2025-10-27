@@ -1,0 +1,12 @@
+{
+  "image_filename": "08d47df5-68dd-412a-9610-5b5bf8968f2c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle aerial view of a modern city skyline on a foggy, overcast day. The scene is dominated by tall skyscrapers with glass and steel facades, their upper floors partially obscured by low-hanging mist, creating a mysterious and atmospheric mood. The buildings are clustered closely together, forming a dense urban landscape along the edge of a large body of water in the foreground. The water is a deep, muted blue, reflecting the somber tones of the sky and city. The color palette is cool and desaturated, with shades of blue, gray, and hints of green, enhancing the moody, cinematic quality of the image. The lighting is diffuse and soft, with no direct sunlight, giving the entire scene a subdued, almost melancholic feel. The composition is balanced, with the city occupying the upper two-thirds of the frame and the water below, while the fog adds depth and a sense of scale. The overall style is reminiscent of a dramatic film establishing shot, evoking a sense of anticipation and urban solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:00.082954",
+  "word_count": 169,
+  "error_message": null
+}

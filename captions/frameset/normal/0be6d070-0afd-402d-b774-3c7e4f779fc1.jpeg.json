@@ -1,0 +1,12 @@
+{
+  "image_filename": "0be6d070-0afd-402d-b774-3c7e4f779fc1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a car tachometer, with the needle dramatically pointing just past the 6,000 RPM mark, suggesting high engine revs and intense speed. The dial is rendered in sharp focus, with crisp white numerals and tick marks standing out against a deep black background. The needle is illuminated in a vivid red, creating a sense of urgency and motion, with a subtle red glow reflecting onto the dial. The lower portion of the gauge includes a small temperature indicator, adding a touch of realism. The lighting is moody and directional, casting soft shadows and highlighting the glossy, slightly reflective surface of the instrument panel. The overall color palette is dominated by blacks, whites, and reds, evoking a high-performance, adrenaline-fueled atmosphere. The composition is tight and immersive, with a shallow depth of field that blurs the outer edges, drawing the viewer’s eye directly to the needle and the numbers, as if capturing a fleeting moment of acceleration in a high-speed drive.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:09.968857",
+  "word_count": 163,
+  "error_message": null
+}

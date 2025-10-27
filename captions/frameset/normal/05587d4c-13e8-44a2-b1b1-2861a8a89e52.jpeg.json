@@ -1,0 +1,12 @@
+{
+  "image_filename": "05587d4c-13e8-44a2-b1b1-2861a8a89e52.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial view of a winding mountain road cutting through a rugged, rocky canyon landscape at dusk. The scene is captured from directly overhead, emphasizing the sharp curve of the asphalt as it snakes through the reddish-brown earth and weathered stone formations. Sparse desert vegetation dots the terrain, adding texture to the arid environment. A single vehicle, small and solitary, travels along the road, its presence highlighting the vast scale and isolation of the setting. The color palette is dominated by muted earth tones—deep browns, dusty oranges, and cool grays—bathed in soft, low natural light that casts gentle shadows and enhances the contours of the land. The overall mood is quiet and contemplative, evoking a sense of solitude and the grandeur of nature. The composition is cinematic, with a high level of detail and a subtle, atmospheric haze that adds depth and realism to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:33.674175",
+  "word_count": 147,
+  "error_message": null
+}

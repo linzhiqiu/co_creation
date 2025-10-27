@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a785d69-79ed-4a2f-b759-e3ff1a3596db.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A breathtaking, cinematic view of Earth from outer space, captured from a high orbit. The planet dominates the left side of the composition, its curved horizon bathed in soft, ethereal sunlight. Swirling clouds and subtle landmasses are visible through a translucent blue atmosphere, fading into the deep blacks of space. On the right side of the frame, a small, detailed spacecraft floats in the vast emptiness, emphasizing the scale and isolation of the scene. The color palette is cool and natural, with gradients of blue, white, and hints of green on the planet, contrasted by the inky blackness of space. The lighting is realistic and dramatic, with the sun illuminating the edge of the Earth and casting gentle shadows. The overall style is photorealistic with a sense of awe and grandeur, reminiscent of classic science fiction cinematography. The camera angle is wide and slightly above the planet, creating a sense of depth and vastness, while the focus remains sharp on both the planet and the distant spacecraft, highlighting the loneliness and beauty of space exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:37.158349",
+  "word_count": 175,
+  "error_message": null
+}

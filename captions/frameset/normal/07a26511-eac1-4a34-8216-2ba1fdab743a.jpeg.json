@@ -1,0 +1,12 @@
+{
+  "image_filename": "07a26511-eac1-4a34-8216-2ba1fdab743a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit street scene in a European town, captured from a low angle looking up at a tall metal pole adorned with several street signs. The most prominent signs are two circular, blue and red no-parking and no-stopping signs, one with a right-pointing arrow. Below them, a rectangular white sign with black German text reads \"Parken in gekennzeichneten Flächen erlaubt.\" Above, a purple sign with white text and icons indicates \"Ersatzverkehr\" (replacement service) with an upward arrow. The background features the corner of a historic building with cream-colored walls, peach-pink vertical accents, and a steep, dark-tiled roof, partially in shadow. The sky is clear and pale blue, bathing the scene in soft, natural daylight. The overall color palette is warm and inviting, with gentle contrasts between the pastel building and the vivid signage. The composition emphasizes vertical lines and urban details, evoking a calm, everyday European atmosphere with a touch of cinematic clarity and shallow depth of field, keeping the focus on the signs while softly blurring the architectural backdrop.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:29.760796",
+  "word_count": 170,
+  "error_message": null
+}

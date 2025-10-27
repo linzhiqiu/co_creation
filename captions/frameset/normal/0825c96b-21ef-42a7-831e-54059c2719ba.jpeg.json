@@ -1,0 +1,12 @@
+{
+  "image_filename": "0825c96b-21ef-42a7-831e-54059c2719ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A crowded, dimly lit party scene with a shallow depth of field, focusing on a young man with spiky, neon green hair in the foreground. He is hunched over, gripping his head with both hands in a gesture of distress or overwhelm, his face partially obscured. Around him, several other young people are visible, slightly out of focus, their expressions ranging from curiosity to concern. The background is a blur of indistinct figures and soft, warm lights, creating a sense of movement and energy. The color palette is dominated by cool blues and greens, contrasted with occasional warm tones from the ambient lighting. The overall style is cinematic and gritty, with a handheld camera feel and a strong sense of immediacy and emotional tension. The lighting is low and moody, casting soft highlights and deep shadows, enhancing the raw, authentic atmosphere of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:45.995255",
+  "word_count": 144,
+  "error_message": null
+}

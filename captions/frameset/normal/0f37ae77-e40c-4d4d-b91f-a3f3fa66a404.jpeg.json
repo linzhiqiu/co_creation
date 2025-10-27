@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f37ae77-e40c-4d4d-b91f-a3f3fa66a404.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits alone on the edge of a large, unmade bed in a modern, minimalist hotel room. She wears a simple, dark slip dress, her posture slightly hunched and introspective, with a neutral or contemplative expression on her face. The room is softly lit by natural daylight streaming through a wide window, casting a cool, muted glow that creates gentle shadows and a subdued, almost melancholic atmosphere. The color palette is dominated by whites, grays, and deep browns, with crisp white bedding rumpled and cascading across the bed, contrasting against the dark wood-paneled accent wall behind her. A round mirror hangs above the bed, subtly reflecting part of the room and adding depth to the composition. The camera is positioned at a medium-wide angle, slightly below eye level, capturing both the subject and the architectural lines of the room. The overall style is cinematic and contemplative, with a shallow depth of field that keeps the focus on the woman while the background remains softly blurred, evoking a sense of solitude and quiet introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:28.104889",
+  "word_count": 175,
+  "error_message": null
+}

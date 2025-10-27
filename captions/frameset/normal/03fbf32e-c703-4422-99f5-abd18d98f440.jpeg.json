@@ -1,0 +1,12 @@
+{
+  "image_filename": "03fbf32e-c703-4422-99f5-abd18d98f440.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-angle, top-down cinematic shot of a vibrant, modern driving course set in a vast, empty parking lot. At the center of the composition, place a bright green compact car performing a tight circular maneuver around a blue and yellow striped pillar, with visible tire marks radiating outward to emphasize motion and precision. Surround the central area with a symmetrical arrangement of large, rectangular foam barriers in alternating orange and yellow colors, forming lanes and obstacles. In the foreground, include two large, curved orange barriers labeled \"DreamTrack\" in white script, adding a branded, playful touch. The background features faded parking lines and a distant, curved blue and yellow wall, reinforcing the controlled, urban environment. The color palette is dominated by cool grays of the asphalt, contrasted with the vivid greens, oranges, and yellows of the car and barriers. Lighting is bright and even, suggesting a clear day, with minimal shadows and a crisp, energetic atmosphere. The overall style is clean, dynamic, and slightly futuristic, with a focus on geometric order and the excitement of automotive skill.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:05.585879",
+  "word_count": 177,
+  "error_message": null
+}

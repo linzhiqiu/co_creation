@@ -1,0 +1,12 @@
+{
+  "image_filename": "1013a347-abe8-41d7-82ec-269321845aca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic black-and-white photograph of an elephant indoors, captured from a low, close-up angle that emphasizes the animal’s massive size and presence. The elephant’s trunk is extended toward the camera, partially obscuring its face and creating a sense of depth and immediacy. Its tusks are prominent, curving outward, and the texture of its wrinkled skin is highly detailed. The background reveals an industrial or exhibition hall setting, with a high ceiling made of metal beams and large windows letting in diffused natural light. The lighting is soft but directional, casting gentle shadows that accentuate the elephant’s form. The overall mood is both majestic and slightly surreal, with the monochrome palette lending a timeless, documentary quality to the image. The composition draws the viewer’s eye upward along the trunk, creating a sense of awe and intimacy with the subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:38.144757",
+  "word_count": 139,
+  "error_message": null
+}

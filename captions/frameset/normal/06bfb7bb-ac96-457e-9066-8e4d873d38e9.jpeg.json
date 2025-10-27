@@ -1,0 +1,12 @@
+{
+  "image_filename": "06bfb7bb-ac96-457e-9066-8e4d873d38e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A professional business setting featuring a close-up of a large, white presentation board mounted on a black easel. The board displays a clean, minimalist pie chart titled \"MONTHLY BUDGET\" in bold, modern sans-serif font at the top. The chart is divided into two segments: a larger green section labeled \"Savings\" and a smaller light blue section labeled \"Utilities,\" with a simple legend to the right of the chart. The background is softly blurred, revealing a warm-toned wooden wall that adds a subtle, corporate ambiance. On the left edge of the frame, a person in business attire—wearing a light blue collared shirt under a gray blazer—holds the board, their face out of view, focusing attention on the presentation. The lighting is soft and even, with natural daylight tones, creating a professional and inviting atmosphere. The composition is balanced, with the board centered and the person’s hands providing a sense of scale and human presence. The overall style is clean, modern, and documentary-like, with a shallow depth of field that keeps the focus on the visual information and the act of presenting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:07.660153",
+  "word_count": 180,
+  "error_message": null
+}

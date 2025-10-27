@@ -1,0 +1,12 @@
+{
+  "image_filename": "01021e73-7d43-4e98-a601-a3109a84c678.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial view of a sprawling urban highway interchange at dusk, captured from directly overhead. The scene is dominated by a complex network of curving overpasses and multilane roads, weaving gracefully above and around each other, forming intricate loops and intersections. To the left, tall office buildings with geometric rooftops and muted facades border the interchange, their windows reflecting the soft, fading daylight. The roads are sparsely populated with small, scattered vehicles, their headlights and taillights just beginning to glow in the dimming light. The color palette is subdued and cinematic, with warm golden-brown tones from the setting sun blending into cool grays and blues of concrete and asphalt. The lighting is soft and diffuse, casting gentle shadows and highlighting the textures of the roads and rooftops. The overall composition emphasizes the elegant, almost abstract patterns of the highway system, with a strong sense of depth and scale. The mood is contemplative and slightly melancholic, evoking the quiet transition between day and night in a bustling city.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:01.798804",
+  "word_count": 168,
+  "error_message": null
+}

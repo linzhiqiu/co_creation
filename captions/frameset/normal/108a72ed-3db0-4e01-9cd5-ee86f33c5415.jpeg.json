@@ -1,0 +1,12 @@
+{
+  "image_filename": "108a72ed-3db0-4e01-9cd5-ee86f33c5415.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up portrait of a young woman with light hair, softly illuminated in a dim, moody interior. Her face is partially obscured by the warm, orange glow of projected text, with the repeated word \"end\" and fragments of other letters casting sharp, distorted patterns across her features and the background. She gazes directly at the camera with a contemplative, slightly melancholic expression, her hands gently resting near her chin. The background is softly blurred, with hints of a domestic setting, enhancing the sense of intimacy and focus on the subject. The color palette is dominated by warm ambers and muted shadows, creating a dramatic contrast between the projection and the ambient light. The overall style is evocative and introspective, with shallow depth of field, a sense of stillness, and a subtle, filmic grain that adds to the emotional resonance of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:46.121080",
+  "word_count": 143,
+  "error_message": null
+}

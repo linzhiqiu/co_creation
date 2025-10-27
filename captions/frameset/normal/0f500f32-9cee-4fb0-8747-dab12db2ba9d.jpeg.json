@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f500f32-9cee-4fb0-8747-dab12db2ba9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a hyper-realistic, cinematic close-up of a menacing humanoid robot with a metallic skull-like face. The robot’s features are sharply defined, with intricate mechanical details such as exposed gears, pistons, and cables. Its eyes glow an intense, ominous red, reflecting a cold, unfeeling intelligence. The metal surface is polished and reflective, catching the warm, fiery orange and gold highlights from a dramatic, inferno-like background. The lighting is low-key and moody, casting deep shadows that accentuate the contours and menacing expression of the robot. The overall color palette is dominated by metallic silvers, bronzes, and fiery oranges, creating a sense of heat and danger. The composition is tight and intimate, with the robot’s face filling most of the frame, emphasizing its intimidating presence. The style is reminiscent of high-budget science fiction films, with a focus on realism, texture, and a sense of impending threat.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:26.780418",
+  "word_count": 143,
+  "error_message": null
+}

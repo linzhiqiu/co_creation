@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_2710014.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a black-and-white, instructional-style illustration reminiscent of IKEA assembly manuals. The main subject is a person peacefully sleeping in a simple, minimalistic single bed with a wooden frame. The person is lying on their back, eyes closed, with a serene expression, arms gently resting on top of a neatly arranged blanket. The bedding is plain and unadorned, emphasizing comfort and simplicity.\n\nAbove the scene, the word \"SLEEP\" is written in bold, sans-serif capital letters. Below the bed, a sequence of three step-by-step pictograms illustrates the process of preparing for sleep: first, a person standing beside the bed; second, the person pulling back the blanket; third, the person lying comfortably under the covers with their head on a pillow.\n\nAt the bottom, a row of small, iconographic images shows the necessary \"components\" for sleep: a person (quantity: 1), a bed (quantity: 1), a blanket, a pillow (quantity: 3), and a bedside lamp. The overall composition is clean and uncluttered, with clear linework and no shading, evoking a sense of calm and order. The style is utilitarian yet playful, with a touch of humor in its earnest, step-by-step depiction of a universal human activity. The lighting is even and flat, with no dramatic shadows, reinforcing the instructional, diagrammatic quality of the image.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:54:04.191473",
+  "word_count": 210,
+  "error_message": null
+}

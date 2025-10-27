@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ebb688a-5459-47b7-aa7f-e80509383124.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern, urban street scene captured in a cinematic, slightly desaturated color palette with warm undertones. The central focus is a metallic bronze Hyundai Santa Fe SUV parked at the curb, facing the viewer head-on, its headlights softly illuminated. The vehicle’s sleek, contemporary design contrasts with the more subdued, older architecture of the surrounding neighborhood. To the left, a sidewalk lined with leafy green trees and a quaint building with a sloped roof and flower boxes adds a touch of residential charm. In the background, another car approaches along the street, partially blurred to create a sense of depth and subtle motion. Overhead, utility poles and wires crisscross the sky, contributing to the urban atmosphere. The lighting is natural and diffuse, suggesting an overcast afternoon, with soft shadows and a gentle, even illumination across the scene. The composition is balanced, with the car slightly off-center, and the camera angle is at eye level, evoking a grounded, realistic perspective. The overall mood is calm and everyday, with a hint of narrative potential, as if capturing a quiet moment in a lived-in city neighborhood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:14.811613",
+  "word_count": 182,
+  "error_message": null
+}

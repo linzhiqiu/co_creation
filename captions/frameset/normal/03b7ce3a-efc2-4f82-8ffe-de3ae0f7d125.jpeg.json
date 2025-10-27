@@ -1,0 +1,12 @@
+{
+  "image_filename": "03b7ce3a-efc2-4f82-8ffe-de3ae0f7d125.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary vintage car drives down a long, empty two-lane road flanked by snowbanks, cutting through a wintry, rural landscape. The scene is viewed from a low, centered perspective behind the car, creating a sense of distance and quiet journey. Bare, leafless trees line both sides of the road, their dark, spindly branches contrasting starkly against the pale, overcast sky. Patches of snow cover the ground and the forest edges, while the road itself is mostly clear but wet, reflecting the cold blue-gray tones of the environment. The color palette is subdued and cool, dominated by icy blues, muted grays, and soft whites, evoking a somber, contemplative mood. The lighting is diffuse and natural, with no harsh shadows, suggesting a cloudy winter afternoon. The overall style is cinematic and atmospheric, with a shallow depth of field that keeps the focus on the car and the receding road, while the background trees and sky blur gently, enhancing the sense of isolation and quiet movement through a desolate landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:00.639773",
+  "word_count": 167,
+  "error_message": null
+}

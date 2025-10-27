@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_2022633.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic portrait of a young woman gazing pensively through a shattered mirror. The composition is fragmented, with her face reflected in multiple shards, creating a kaleidoscopic effect that multiplies her features and adds a sense of emotional complexity. The subject has long, chestnut hair and wears a dark, textured jacket, her expression somber and introspective. Soft, natural daylight filters through, casting intricate shadows and highlights across her face and the glass, enhancing the drama and depth. The background is softly blurred, with hints of teal and muted green, keeping the focus on the interplay of reflections and the woman's contemplative mood. The color palette is cool and subdued, with subtle contrasts between the warm tones of her skin and the cool, silvery glints of the broken mirror. The overall style is evocative and artistic, reminiscent of psychological drama films, with a shallow depth of field and a close-up camera angle that immerses the viewer in the subject’s emotional world.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:50:43.591294",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_49161944.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A towering, futuristic battle mech stands in a snowy mountain pass, illuminated by glowing red lights and intricate mechanical details. The scene is bathed in dramatic orange hues from a massive, low-hanging full moon, creating a cinematic, high-contrast sci-fi atmosphere with sharp focus and epic scale.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:04:11.197790",
+  "word_count": 46,
+  "error_message": null
+}

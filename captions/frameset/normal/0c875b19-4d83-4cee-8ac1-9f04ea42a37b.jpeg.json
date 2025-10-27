@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c875b19-4d83-4cee-8ac1-9f04ea42a37b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping, cinematic aerial view of a racetrack at sunset, capturing a dramatic, wide curve bordered by red, white, and green striped curbs. The track surface is smooth and dark, contrasting with the sandy run-off areas and patches of grass inside and outside the bend. The golden hour lighting bathes the entire scene in warm, amber tones, casting long shadows and creating a serene, almost nostalgic atmosphere. In the background, gentle hills and a line of trees are softly silhouetted against the glowing sky, while empty grandstands and fencing hint at the scale of the venue. The composition emphasizes the elegant geometry of the track, with the curve leading the viewer’s eye through the frame, and the elevated perspective providing a sense of depth and openness. The overall style is reminiscent of a high-end motorsport film, with crisp details, natural colors, and a tranquil yet anticipatory mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:19.492264",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ede5a11-7498-4b16-98fd-fd43feb6cf85.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of several beef burger patties sizzling on a dark, slightly greasy griddle. The focus is on one patty in the foreground, which has a small, square yellow sticky note placed on top of it instead of a slice of cheese. The note has the handwritten message \"BUY CHEESE\" in bold, black marker. The background is softly blurred, with other patties visible but out of focus, emphasizing the main subject. The lighting is warm and natural, highlighting the glistening texture of the cooked meat and the matte surface of the sticky note. The overall mood is slightly humorous and candid, with a shallow depth of field and a cinematic, documentary-style composition that draws attention to the unexpected detail. The color palette features rich browns, golden yellows, and subtle hints of black, creating a cozy, kitchen-like atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:14.694067",
+  "word_count": 138,
+  "error_message": null
+}

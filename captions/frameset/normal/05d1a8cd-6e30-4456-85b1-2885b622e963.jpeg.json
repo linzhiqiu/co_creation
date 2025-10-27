@@ -1,0 +1,12 @@
+{
+  "image_filename": "05d1a8cd-6e30-4456-85b1-2885b622e963.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution cinematic photograph of a fashion design studio, softly lit by natural daylight streaming through large windows on the right. The central focus is a tailor’s mannequin dressed in a fitted, elegant gray blazer, positioned prominently in the foreground. The mannequin stands on a worktable, surrounded by sewing materials and fabric, emphasizing the creative process. In the background, the studio is filled with shelves, racks of clothing, and scattered tools, evoking a sense of industrious activity. A person, slightly out of focus, works at a table to the left, adding depth and a sense of motion to the scene. The color palette is cool and muted, dominated by grays, whites, and soft blues, with subtle warm accents from wooden boxes and fabric. The composition uses a shallow depth of field, keeping the mannequin and blazer sharply in focus while the background remains softly blurred, creating a professional, documentary-style atmosphere. The overall mood is calm, creative, and industrious, with a touch of artistic sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:46.289327",
+  "word_count": 164,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_60101110.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic portrait of a humanoid cyborg in a dimly lit, industrial setting. The subject is shown in three-quarter profile, with intricate mechanical components exposed on the head and neck, seamlessly blending with human-like facial features. The cyborg’s face is partially covered by a glossy, metallic mask, splattered with dark, viscous fluid that drips from the chin, evoking a sense of recent damage or transformation. The skin is pale and smooth, contrasting with the complex network of wires, gears, and metal plating that make up the rest of the head and shoulders. The background is blurred but filled with vertical cables and industrial textures, enhancing the sense of a futuristic, dystopian environment. The color palette is dominated by deep teals, greens, and metallic silvers, with dramatic, moody lighting casting sharp highlights and deep shadows across the subject’s face and machinery. The overall style is dark, atmospheric, and highly detailed, with a shallow depth of field that keeps the focus tightly on the cyborg’s intense, almost human expression, conveying a blend of vulnerability and strength.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:08:41.890012",
+  "word_count": 175,
+  "error_message": null
+}

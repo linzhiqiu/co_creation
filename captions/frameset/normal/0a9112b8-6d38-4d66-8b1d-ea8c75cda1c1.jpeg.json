@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a9112b8-6d38-4d66-8b1d-ea8c75cda1c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of a vintage mechanical timer or dial, focusing on the numbered scale between 35 and 45. The image should capture the tactile, industrial design of the device, with a metallic or matte finish and subtle signs of wear. The lighting is soft and moody, with a cool blue cast dominating the upper part of the frame and a gentle warm glow illuminating the lower edge, suggesting ambient light from a nearby lamp or window. The composition is tight, with the numbers and tick marks in sharp focus, while the background and surrounding elements are blurred, creating a shallow depth of field. The overall mood is quiet and contemplative, evoking a sense of anticipation or the passage of time, with a photographic style reminiscent of a still from a thoughtful, atmospheric film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:37.940524",
+  "word_count": 136,
+  "error_message": null
+}

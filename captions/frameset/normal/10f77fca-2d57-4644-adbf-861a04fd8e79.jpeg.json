@@ -1,0 +1,12 @@
+{
+  "image_filename": "10f77fca-2d57-4644-adbf-861a04fd8e79.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man stands in a vast, minimalist white space, his figure small against the expansive, seamless background. He is dressed in a dark blazer and teal pants, creating a striking contrast with the pale surroundings. The man is positioned slightly off-center, facing right, with one arm extended upward as if gesturing or reaching toward something. In the upper right quadrant of the image, a cluster of fragmented, floating white geometric shapes appears to be disintegrating or assembling in midair, adding a surreal and dynamic element to the otherwise serene scene. The lighting is soft and diffuse, casting gentle shadows and enhancing the ethereal, dreamlike atmosphere. The composition employs a wide-angle perspective with ample negative space, emphasizing the sense of isolation and scale. The overall style is clean, modern, and conceptual, evoking a sense of wonder and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:56.036713",
+  "word_count": 138,
+  "error_message": null
+}

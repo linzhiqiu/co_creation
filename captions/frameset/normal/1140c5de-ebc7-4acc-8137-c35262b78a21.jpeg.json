@@ -1,0 +1,12 @@
+{
+  "image_filename": "1140c5de-ebc7-4acc-8137-c35262b78a21.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution aerial shot captures a winding mountain road as it curves dramatically through a rugged, forested landscape. The composition centers on a sharp S-bend, with the road cutting through a mix of sparse pine trees and rocky, earth-toned terrain. A single yellow sports car is seen navigating the curve, its vibrant color standing out against the muted browns, greens, and grays of the natural surroundings. The lighting is warm and golden, suggesting either early morning or late afternoon, casting long shadows from the trees and accentuating the textures of the ground. The overall style is cinematic, with a high vantage point and a sense of depth created by the interplay of light and shadow. The image conveys a mood of solitude and adventure, emphasizing the contrast between the engineered road and the wild, untamed environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:03.458477",
+  "word_count": 136,
+  "error_message": null
+}

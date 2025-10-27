@@ -1,0 +1,12 @@
+{
+  "image_filename": "07d4aed1-2f1d-4ebe-87c4-61770177bc2f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, high-tech control room bathed in cool, dim lighting, dominated by sleek metallic surfaces and illuminated panels. In the foreground, a solitary figure stands in silhouette, facing away from the viewer, their posture attentive and composed. The figure is dressed in dark, form-fitting attire, blending seamlessly with the shadowy environment. The focal point of the scene is a massive, semi-transparent digital screen that stretches across the room, displaying the holographic image of a man with glasses and a serious expression. The hologram is surrounded by intricate, glowing geometric patterns and data streams, creating a sense of depth and advanced technology. The background features angular architectural elements and additional digital displays, reinforcing the sci-fi atmosphere. The overall color palette is dominated by deep blues, silvers, and subtle white highlights, with sharp contrasts between light and shadow. The composition uses a wide-angle perspective, emphasizing the scale of the room and the immersive, cinematic quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:32.574908",
+  "word_count": 156,
+  "error_message": null
+}

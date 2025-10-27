@@ -1,0 +1,12 @@
+{
+  "image_filename": "02a9e429-63fd-4807-a68b-1f6d5e777d9e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, cinematic still life featuring a close-up of a human hand delicately tilting an empty glass above a second glass that is half-filled with water. The scene is set against a stark, deep black background, creating a dramatic contrast and isolating the subjects. The surface beneath the glasses is a smooth, matte blue, adding a subtle pop of color and enhancing the modern, clean aesthetic. The lighting is soft yet directional, casting gentle highlights and faint shadows that emphasize the contours of the hand and the transparency of the glass. The composition is carefully balanced, with the hand entering from the left and the glasses centrally aligned, evoking a sense of anticipation and quiet focus. The overall mood is contemplative and serene, with a cool color palette and a shallow depth of field that keeps the background unobtrusive, drawing all attention to the simple, elegant action at the heart of the image.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:36.347341",
+  "word_count": 153,
+  "error_message": null
+}

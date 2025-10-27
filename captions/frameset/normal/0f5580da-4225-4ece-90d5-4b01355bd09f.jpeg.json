@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f5580da-4225-4ece-90d5-4b01355bd09f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a futuristic, black prosthetic foot with a shoe-like covering, crafted from a textured carbon fiber material. The prosthetic features visible metallic bolts and a mechanical joint at the ankle, suggesting advanced engineering and modern design. The hand, partially visible on the right, gently supports the device, highlighting its lightweight and ergonomic form. The background is softly blurred with warm, natural light streaming in, creating a shallow depth of field that draws attention to the intricate details and matte finish of the prosthetic. The color palette is dominated by deep blacks and subtle grays, contrasted by the soft, golden bokeh of the out-of-focus environment, evoking a sense of innovation and hope. The overall style is cinematic and documentary-like, with a focus on technological advancement and human ingenuity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:26.434081",
+  "word_count": 133,
+  "error_message": null
+}

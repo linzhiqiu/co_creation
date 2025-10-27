@@ -1,0 +1,12 @@
+{
+  "image_filename": "0fad2ae2-7b66-48c2-94c6-ba3cc775dd9f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, high-contrast black and white image viewed from deep inside a dark tunnel, looking outward toward a circular opening. The tunnel interior is almost entirely shrouded in darkness, with only a faint, textured path or trickle of water leading from the foreground toward the light. The bright, circular exit frames a glimpse of the outside world: a sunlit forest scene with scattered rocks and trees, rendered in soft focus, creating a stark contrast between the shadowy tunnel and the illuminated outdoors. The composition uses strong central symmetry, with the tunnel’s round mouth perfectly centered, drawing the viewer’s eye toward the distant, inviting light. The overall mood is mysterious and contemplative, evoking themes of transition, hope, or escape. The lighting is natural, with the only illumination coming from the daylight outside, emphasizing the dramatic interplay between shadow and light. The style is reminiscent of classic film noir or art-house cinematography, with a shallow depth of field and a sense of depth and perspective leading the viewer’s gaze from darkness into light.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:34.235886",
+  "word_count": 172,
+  "error_message": null
+}

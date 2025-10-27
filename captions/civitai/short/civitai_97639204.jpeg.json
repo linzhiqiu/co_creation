@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_97639204.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A massive, menacing dragon with glowing orange scales and fiery accents perches atop a burning medieval castle, its wings unfurled against a stormy night sky. Lightning forks behind gothic spires, illuminating rain and smoke. The scene is dramatic, cinematic, with high contrast lighting and a dark, apocalyptic color palette.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:29:46.876939",
+  "word_count": 49,
+  "error_message": null
+}

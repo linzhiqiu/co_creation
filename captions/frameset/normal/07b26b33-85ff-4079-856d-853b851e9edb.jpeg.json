@@ -1,0 +1,12 @@
+{
+  "image_filename": "07b26b33-85ff-4079-856d-853b851e9edb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder view of a computer screen displaying a web-based version of Microsoft Word within a browser window. The interface is clean and modern, with a white document area occupying most of the screen, and a single blinking cursor positioned at the top left, suggesting a blank page ready for typing. The browser’s address bar is visible at the top, showing the URL for Office.com, and the familiar blue and white Microsoft Word ribbon is present, featuring tabs like \"File,\" \"Home,\" and \"Insert,\" along with standard editing tools. The color palette is dominated by crisp whites and soft grays, accented by the blue highlights of the Word interface and the subtle black of the browser’s frame. The lighting is even and neutral, evoking a professional, focused atmosphere. The composition is straightforward and functional, with a slight perspective angle that emphasizes the digital workspace and the anticipation of beginning a new document. The overall style is minimalistic and contemporary, capturing the essence of productivity and modern office technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:30.742989",
+  "word_count": 168,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "055dcec0-e246-4cf1-b04a-4aa41bbda37d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-resolution landscape scene featuring a towering, rugged mountain peak dominating the composition. The mountain is steep and craggy, with sharp ridges and sheer rock faces partially dusted with patches of snow. The color palette is cold and muted, with shades of slate gray, icy blue, and white, evoking a sense of chill and isolation. Wisps of mist or low clouds cling to the upper slopes, enhancing the atmosphere of altitude and remoteness. The lighting is diffuse and overcast, with soft, natural daylight filtering through a cloudy sky, casting minimal shadows and emphasizing the texture of the rock and snow. The camera angle is slightly low, looking up at the mountain to convey its imposing scale and grandeur. The overall style is cinematic and realistic, with a focus on natural majesty and a sense of awe-inspiring wilderness. No human presence or artificial elements are visible, allowing the raw beauty of the mountain to be the sole subject.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:35.190209",
+  "word_count": 159,
+  "error_message": null
+}

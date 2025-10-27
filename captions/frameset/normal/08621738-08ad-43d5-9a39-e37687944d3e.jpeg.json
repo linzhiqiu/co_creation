@@ -1,0 +1,12 @@
+{
+  "image_filename": "08621738-08ad-43d5-9a39-e37687944d3e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dynamic, cinematic close-up shot of a basketball hoop and backboard, viewed dramatically from a low angle looking upward. The net is crisp and white, hanging loosely from the rim, which is highlighted by the intense, stadium-style lighting that creates starburst flares and lens reflections across the image. The backboard is transparent, with a bold red support structure featuring a visible \"StateFarm\" logo, adding a touch of realism and authenticity to the scene. Above, the ceiling of a large indoor arena is visible, with steel beams, banners, and scoreboards partially in frame, contributing to the sense of scale and atmosphere. The color palette is rich and saturated, dominated by deep blues and reds, with bright white highlights from the lights. The overall style is sharp and modern, with a shallow depth of field that keeps the focus on the hoop while softly blurring the background, evoking the anticipation and energy of a professional basketball game.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:45.085405",
+  "word_count": 156,
+  "error_message": null
+}

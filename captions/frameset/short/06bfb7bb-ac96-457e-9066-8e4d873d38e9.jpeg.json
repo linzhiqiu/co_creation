@@ -1,0 +1,12 @@
+{
+  "image_filename": "06bfb7bb-ac96-457e-9066-8e4d873d38e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A professional setting with a person in a blue shirt and gray blazer presenting a clean, minimalist monthly budget chart on an easel. The chart features a simple pie graph with two segments labeled \"Utilities\" and \"Savings.\" Warm, soft lighting and a neutral wooden background create a focused, businesslike atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:03.826188",
+  "word_count": 50,
+  "error_message": null
+}

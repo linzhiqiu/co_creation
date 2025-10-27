@@ -1,0 +1,12 @@
+{
+  "image_filename": "0536c31d-f1da-4e57-a1cc-a4d3b8e5a6ae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A focused martial arts training scene set in a dojo, featuring a middle-aged man in the foreground wearing a black gi and glasses, his expression intense and concentrated as he holds a defensive pose with one arm raised and the other extended. Behind him, a woman in a white gi mirrors his stance, her long dark hair flowing and her gaze equally determined. The background reveals a softly lit, spacious dojo with muted gray and white walls, a red mat covering the floor, and a large industrial fan in the corner, adding a sense of realism. The color palette is subdued, dominated by blacks, whites, and earthy reds, with natural, diffused lighting that highlights the subjects’ focused expressions and the texture of their uniforms. The composition uses a shallow depth of field, keeping the main subjects sharply in focus while gently blurring the background, creating a cinematic, immersive atmosphere that emphasizes discipline, concentration, and the art of movement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:30.383769",
+  "word_count": 158,
+  "error_message": null
+}

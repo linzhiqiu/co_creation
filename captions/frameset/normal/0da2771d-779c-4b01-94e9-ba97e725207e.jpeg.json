@@ -1,0 +1,12 @@
+{
+  "image_filename": "0da2771d-779c-4b01-94e9-ba97e725207e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic close-up of a car tachometer, focusing tightly on the dial with the needle pointing just past the 5,000 RPM mark. The gauge is marked with bold, white numerals from 1 to 8, with a sleek \"G4\" logo at the center, suggesting a high-performance vehicle. The needle is illuminated in a vivid orange, standing out sharply against the deep black background of the dial. The lighting is low and moody, emphasizing the glossy, reflective surface of the gauge and creating a sense of intensity and speed. The composition is centered and symmetrical, with a shallow depth of field that blurs the outer edges, drawing the viewer’s eye directly to the needle and the numbers. The overall style is cinematic and modern, evoking the adrenaline and precision of motorsport, with a color palette dominated by black, white, and orange accents.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:47.580142",
+  "word_count": 141,
+  "error_message": null
+}

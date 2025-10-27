@@ -1,0 +1,12 @@
+{
+  "image_filename": "0df7e42f-b6fa-467c-89e3-c43384554f99.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary volcano dominates the center of the composition, its dark, rugged slopes rising sharply from a barren landscape. From the summit, a thick plume of smoke billows upward, curling and expanding into the sky, suggesting recent volcanic activity. The lighting is soft and natural, likely captured during the golden hour, casting warm, amber highlights on the mountain’s ridges and creating deep, dramatic shadows in the foreground. The sky transitions from a dusky blue at the top to a subtle gradient of warm hues near the horizon, enhancing the sense of depth and tranquility. The overall color palette is muted and earthy, with rich browns, grays, and hints of gold. The scene is devoid of human presence, emphasizing the raw power and isolation of nature. The camera angle is wide and slightly elevated, allowing the viewer to take in the full majesty of the volcano and the vastness of the surrounding terrain. The mood is both serene and awe-inspiring, capturing the sublime beauty and latent danger of the volcanic landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:54.342688",
+  "word_count": 170,
+  "error_message": null
+}

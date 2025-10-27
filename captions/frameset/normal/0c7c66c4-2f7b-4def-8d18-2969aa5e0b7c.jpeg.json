@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c7c66c4-2f7b-4def-8d18-2969aa5e0b7c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic close-up of two fists pressed tightly together, knuckles aligned and skin textures vividly detailed. The lighting is dramatic and focused, casting soft highlights and subtle shadows that accentuate the contours and fine hairs on the hands. Tiny particles and sparks are suspended in the air at the point where the fists meet, suggesting a moment of intense energy or impact. The color palette is naturalistic, dominated by warm skin tones and gentle amber glows from the sparks, contrasted against a softly blurred, neutral background. The composition is symmetrical and intimate, with a shallow depth of field that keeps the fists and the dynamic particles in sharp focus while the background fades away, creating a sense of immediacy and power. The overall style is cinematic and tactile, evoking a sense of strength, unity, or confrontation, with a hint of magical realism in the glowing particles.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:19.146263",
+  "word_count": 146,
+  "error_message": null
+}

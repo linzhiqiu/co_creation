@@ -1,0 +1,12 @@
+{
+  "image_filename": "09339897-679a-406f-a7d0-039d059561ed.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone off-road vehicle crests a sweeping sand dune at sunset, casting long shadows across undulating golden sands. The scene is bathed in warm, sepia-toned light, with fine dust swirling in the air. The composition is cinematic, evoking solitude and adventure in a vast desert landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:02.966280",
+  "word_count": 46,
+  "error_message": null
+}

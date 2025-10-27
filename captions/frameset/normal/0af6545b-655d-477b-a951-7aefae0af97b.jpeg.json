@@ -1,0 +1,12 @@
+{
+  "image_filename": "0af6545b-655d-477b-a951-7aefae0af97b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bright, inviting retail store scene set during the holiday season. In the foreground, a smiling female cashier with long dark hair, wearing a black shirt, stands behind a light wood counter. She is handing a large, glossy Nespresso coffee machine box to a customer. The customer, seen from behind and slightly out of focus, wears a textured, deep red knit sweater and has wavy blonde hair. The counter is neatly arranged with other boxed products and a blue pen. The background is softly blurred, revealing shelves stocked with colorful products and a festive green sign with the words \"DECK THE HALLS\" and a decorated Christmas tree, suggesting a holiday shopping atmosphere. The color palette is warm and vibrant, with natural daylight streaming in, creating a cheerful, welcoming mood. The camera angle is at eye level, with a shallow depth of field that keeps the focus on the interaction between cashier and customer, while the softly lit, bustling store environment adds context and seasonal charm.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:49.523512",
+  "word_count": 165,
+  "error_message": null
+}

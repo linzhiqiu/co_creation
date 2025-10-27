@@ -1,0 +1,12 @@
+{
+  "image_filename": "01336fd4-3d24-4b55-9e00-e6ef58a828d0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic close-up shot of a vintage beige sedan in motion, captured from a low angle near the rear wheel. The camera is positioned almost at ground level, emphasizing the spinning chrome hubcap and the blurred motion of the tire against the road, conveying a strong sense of speed and movement. The car’s body is slightly reflective, picking up muted tones from the overcast sky and bare winter trees that line the street in the background. The color palette is subdued and nostalgic, dominated by soft browns, grays, and faded greens, evoking a retro, filmic atmosphere. The depth of field is shallow, with the foreground wheel in sharp focus while the background and distant cars are softly blurred, enhancing the sense of depth and motion. The lighting is natural and diffuse, with no harsh shadows, contributing to the moody, almost melancholic ambiance. The overall style is reminiscent of 1970s or early 1980s cinema, with a grainy texture and a slightly desaturated look, as if shot on analog film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:04.900972",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0feab84b-0485-432a-8914-acbd7cdf70e5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric scene set in a large, shadowy industrial space, bathed in moody green and yellow lighting. Several young men, all dressed in loose, uniform beige or khaki clothing, are positioned throughout the frame, each kneeling on the ground. The central focus is on two figures facing each other, their hands pressed together in a gesture of connection or confrontation, their expressions intense and focused. Around them, other figures kneel in solitude or pairs, some with bowed heads, creating a sense of isolation and introspection. The background is dark and cavernous, with harsh, fluorescent green lights casting dramatic highlights and deep shadows, adding a surreal, almost dystopian atmosphere. The composition uses a wide-angle lens and a low camera angle, emphasizing the vastness of the space and the vulnerability of the subjects. The overall style is cinematic, with a shallow depth of field and a grainy, filmic texture, evoking a sense of tension, ritual, and emotional gravity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:36.752932",
+  "word_count": 158,
+  "error_message": null
+}

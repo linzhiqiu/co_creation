@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ef2db20-7a27-41de-8f4b-5a7f0597d7e9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, carefully composed scene featuring a young woman with light skin and straight, chestnut-brown hair, positioned behind two tall, clear glasses of water on a smooth, white marble table. The woman’s face is partially obscured by the glasses, her expression calm and contemplative, with her gaze directed forward. The glasses create striking, refracted reflections of her face, resulting in two distorted yet recognizable mirrored images that dominate the foreground. A hand, partially visible from the left edge of the frame, reaches toward the table, adding a subtle sense of interaction and narrative intrigue.\n\nThe background consists of a muted blue, industrial corrugated metal wall, lending a modern, minimalist atmosphere to the scene. The color palette is cool and subdued, with soft natural lighting that casts gentle shadows and highlights the clarity of the glass and water. The camera angle is eye-level, with a shallow depth of field that keeps the woman’s face and the glasses in sharp focus while softly blurring the background. The overall style is reminiscent of art-house cinema or fine art photography, emphasizing symmetry, reflection, and the interplay between reality and illusion. The mood is introspective and enigmatic, inviting the viewer to contemplate perception and identity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:17.072474",
+  "word_count": 200,
+  "error_message": null
+}

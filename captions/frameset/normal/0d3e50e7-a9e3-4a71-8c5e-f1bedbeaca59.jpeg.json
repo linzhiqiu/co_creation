@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d3e50e7-a9e3-4a71-8c5e-f1bedbeaca59.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, small, sculpted object sits centered on a clean, white surface, resembling a stylized swirl or coil. The object is smooth and matte, with a rich, medium-brown color and a soft, almost clay-like texture. Its form is reminiscent of a whimsical, cartoonish pile, with a rounded base that tapers upward into a gentle, curling point. The background is minimalist and softly out of focus, composed of pale, neutral tones that emphasize the subject and create a sense of calm, clinical simplicity. The lighting is diffuse and natural, casting soft shadows that subtly define the object's curves without harsh contrasts. The overall composition is straightforward and uncluttered, with a shallow depth of field that draws the viewer’s attention directly to the sculpted form, evoking a playful yet slightly surreal mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:37.395971",
+  "word_count": 130,
+  "error_message": null
+}

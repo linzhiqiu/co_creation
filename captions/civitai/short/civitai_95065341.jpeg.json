@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_95065341.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A muscular, anthropomorphic bear in a fitted charcoal button-up shirt and dark pants strides confidently down a misty forest path, gripping a gleaming axe. The scene is softly lit with diffused green light filtering through tall, straight trees, evoking a cinematic, animated adventure with a bold, heroic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:28:05.484806",
+  "word_count": 48,
+  "error_message": null
+}

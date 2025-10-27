@@ -1,0 +1,12 @@
+{
+  "image_filename": "06798902-7d50-4e4a-aad3-1a4ac6934a19.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary dancer stands poised at the center of a vast, empty stage, enveloped in dramatic chiaroscuro lighting. The scene is rendered in a monochromatic grayscale palette, evoking a sense of timelessness and introspection. A single, focused spotlight from above creates a circular pool of soft, diffused light on the floor, sharply contrasting with the surrounding darkness that fades into obscurity at the edges of the frame. The dancer’s form is partially silhouetted, with subtle highlights tracing the contours of their body and limbs, capturing a moment of graceful motion or anticipation. The background is minimal and shrouded in deep shadow, emphasizing the isolation and vulnerability of the figure. The overall composition is cinematic, with a high, slightly off-center camera angle and a shallow depth of field that draws the viewer’s attention to the dancer’s expressive posture. The mood is contemplative and atmospheric, suggesting themes of solitude, artistry, and the power of performance in an empty space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:00.617404",
+  "word_count": 157,
+  "error_message": null
+}

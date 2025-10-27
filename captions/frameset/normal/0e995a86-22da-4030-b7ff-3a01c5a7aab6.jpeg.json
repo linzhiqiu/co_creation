@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e995a86-22da-4030-b7ff-3a01c5a7aab6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a large, tiered university lecture hall with rows of wooden seats, partially filled with students. The professor stands at the front left, gesturing towards a large chalkboard densely covered with mathematical equations and diagrams. The students, casually dressed, are scattered throughout the auditorium, some attentively watching the professor, others taking notes or looking at their desks. The walls are made of reddish-brown brick, giving the room a utilitarian, institutional feel. The lighting is soft and diffuse, coming from overhead fluorescent panels, casting an even, slightly cool tone across the scene. The composition emphasizes the scale of the room and the relative smallness of the students within it, with a deep depth of field keeping both foreground and background in sharp focus. The overall mood is studious and contemplative, evoking the quiet intensity of academic life. The camera angle is slightly elevated, capturing the expanse of the lecture hall and the dynamic between the solitary professor and the dispersed audience.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:12.291554",
+  "word_count": 163,
+  "error_message": null
+}

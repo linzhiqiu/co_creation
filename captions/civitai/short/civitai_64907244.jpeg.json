@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_64907244.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A serene anime-style portrait of a young elf woman with long pink hair, pointed ears, and striking green eyes. She wears ornate black and gold robes with intricate patterns, standing in a softly lit, mystical forest. The background features tall trees and dappled sunlight, evoking a magical, tranquil atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:11:28.101178",
+  "word_count": 49,
+  "error_message": null
+}

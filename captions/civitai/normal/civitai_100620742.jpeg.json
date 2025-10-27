@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_100620742.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, post-apocalyptic city street at dawn, rendered in a highly detailed, realistic style. The scene is dominated by a small, plump bird standing in the center of a deserted, debris-strewn urban alleyway. The bird’s feathers are softly illuminated by warm, golden sunlight streaming through the tall, dilapidated buildings that line both sides of the street. The architecture is weathered and crumbling, with broken windows, exposed wires, and scattered rubble, evoking a sense of abandonment and decay. In the background, the silhouettes of distant cars and a few flying birds add depth and atmosphere. The color palette is rich in warm ambers, muted browns, and soft grays, with dramatic contrasts between the sunlit areas and deep, moody shadows. The composition uses a low, eye-level camera angle, focusing sharply on the bird in the foreground while the background recedes into a hazy, sunlit blur, creating a strong sense of depth and isolation. The overall mood is poignant and contemplative, blending the fragility of nature with the starkness of urban ruin.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:38:49.887964",
+  "word_count": 170,
+  "error_message": null
+}

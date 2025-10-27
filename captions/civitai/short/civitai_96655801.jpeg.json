@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_96655801.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Split-screen image: Top half shows a pristine, softly lit girl's bathroom with white walls, pink towels, flowers, and a framed inspirational quote, evoking warmth and cleanliness. Bottom half depicts a grimy, decayed boy's bathroom with cracked tiles, mold, cockroaches, a broken toilet, and a green radioactive “+53 RADS” overlay, creating a stark, humorous contrast.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:29:13.378492",
+  "word_count": 54,
+  "error_message": null
+}

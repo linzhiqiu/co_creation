@@ -1,0 +1,12 @@
+{
+  "image_filename": "09ab203d-76e0-421c-bfe0-9560c12e797b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up of a modern security camera mounted on a concrete wall. The camera is angled slightly downward, its lens dark and reflective, with a small red indicator light glowing inside, suggesting it is actively recording. The background consists of large, textured concrete panels, their cool gray-blue tones dominating the color palette and contributing to a cold, industrial atmosphere. The lighting is moody and subdued, with soft shadows and a slight vignette effect around the edges, enhancing the sense of surveillance and tension. The composition is tight and focused, with a shallow depth of field that blurs the background, drawing attention to the camera as the central subject. The overall style is reminiscent of a suspenseful thriller or dystopian film, evoking feelings of observation and unease.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:17.585271",
+  "word_count": 128,
+  "error_message": null
+}

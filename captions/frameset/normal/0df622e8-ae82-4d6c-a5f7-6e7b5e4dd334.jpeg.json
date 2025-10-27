@@ -1,0 +1,12 @@
+{
+  "image_filename": "0df622e8-ae82-4d6c-a5f7-6e7b5e4dd334.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic, high-resolution image of a simple, modern wall clock mounted on a dark, textured wall in an indoor setting. The clock has a clean white face, black numerals, and black hour and minute hands, with a thin orange second hand. The time displayed is approximately 11:54:30. The clock is framed by a metallic silver rim, and the background features a muted, industrial color palette of dark grays and blacks, with a subtle grid pattern on the ceiling tiles above. The lighting is soft and even, with no harsh shadows, creating a calm, neutral atmosphere. The composition is centered on the clock, with a slight hint of green blur in the lower right foreground, suggesting the out-of-focus presence of a plant or object, adding depth and a touch of natural color to the otherwise utilitarian scene. The overall style is minimalist and documentary, with a straightforward, eye-level camera angle and a shallow depth of field that keeps the focus on the clock while gently blurring the background and foreground elements.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:54.476673",
+  "word_count": 170,
+  "error_message": null
+}

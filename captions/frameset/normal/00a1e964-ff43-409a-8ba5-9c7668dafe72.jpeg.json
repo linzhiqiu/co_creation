@@ -1,0 +1,12 @@
+{
+  "image_filename": "00a1e964-ff43-409a-8ba5-9c7668dafe72.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, atmospheric interior scene split by a central wall, creating a diptych effect. On the left side, a solitary artist sits at an easel in a cluttered, bohemian studio, intently focused on a canvas. The artist wears a loose white shirt, sleeves rolled up, and is surrounded by scattered art supplies, sketches, and paint jars on the floor and desk. The walls are adorned with pinned drawings and faded posters, adding to the creative chaos. Soft daylight filters through a curtained window, casting a muted, golden glow and deep shadows across the room, enhancing the sense of solitude and concentration.\n\nOn the right side, a sparsely furnished bedroom is visible, featuring an unmade bed with a rust-colored blanket and a pale blue sheet draped across it. Light streams through sheer curtains, illuminating dust motes in the air and creating a gentle, melancholic ambiance. The room is minimally decorated, with a few personal items on a shelf and a single hanging bulb, emphasizing a sense of quiet and introspection.\n\nThe overall color palette is subdued and earthy, dominated by warm browns, ochres, and soft grays, with subtle highlights from the natural light. The image has a cinematic, almost dreamlike quality, with a shallow depth of field and slight vignette around the edges, drawing the viewer’s focus to the intimate details of each space. The composition and lighting evoke a mood of creative isolation and quiet reflection, reminiscent of classic art-house films or painterly interiors.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:57.756676",
+  "word_count": 245,
+  "error_message": null
+}

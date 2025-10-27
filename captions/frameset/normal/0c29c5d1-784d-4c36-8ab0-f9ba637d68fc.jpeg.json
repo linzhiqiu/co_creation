@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c29c5d1-784d-4c36-8ab0-f9ba637d68fc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up, cinematic shot of an unfinished oil painting on an easel, centered in the frame. The painting depicts a seated woman in a relaxed pose, rendered in an expressive, impressionistic style with bold, visible brushstrokes. She wears a striking red dress that contrasts with a muted olive or beige overcoat, her figure loosely defined with areas of the canvas left unpainted, especially around the edges. The woman's facial features are sketched with minimal detail, giving her an enigmatic, contemplative expression. The background of the painting is abstract, composed of soft, blended tones of cream, beige, and pale blue, suggesting an interior space without specific details. The real-life background behind the canvas is softly out of focus, with hints of a neutral-toned room and subtle architectural lines, enhancing the sense of depth. The lighting is soft and diffused, creating a calm, introspective mood, and the overall color palette is a harmonious blend of warm neutrals and vivid reds. The composition emphasizes the artistic process, inviting the viewer to contemplate both the subject and the act of creation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:15.784989",
+  "word_count": 178,
+  "error_message": null
+}

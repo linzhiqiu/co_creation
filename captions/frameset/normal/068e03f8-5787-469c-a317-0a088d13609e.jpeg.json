@@ -1,0 +1,12 @@
+{
+  "image_filename": "068e03f8-5787-469c-a317-0a088d13609e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, glossy black olive sits centered on a rustic wooden table in the foreground, its surface catching soft, natural light. The background is a lush, sunlit landscape of rolling green fields and orderly vineyard rows, rendered in a gentle, painterly blur that suggests a shallow depth of field and draws all focus to the olive. The color palette is warm and earthy, with rich browns in the wood, deep greens in the distant foliage, and a golden haze from the sunlight filtering through the scene. The lighting is natural and diffused, evoking a serene, late afternoon ambiance. The composition is minimalist and contemplative, with the olive as the solitary subject, inviting a sense of quiet appreciation for simple beauty. The camera angle is low and level with the table, enhancing the intimacy and immediacy of the scene, while the soft bokeh in the background adds a cinematic, almost dreamlike quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:01.142298",
+  "word_count": 151,
+  "error_message": null
+}

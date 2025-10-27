@@ -1,0 +1,12 @@
+{
+  "image_filename": "05ef41fd-9a96-4a26-99bd-e1a635daef53.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary boxer stands in the center of a dimly lit, empty boxing ring, captured in dramatic black and white. The scene is set in a gritty, industrial gym with exposed beams and rough concrete walls, evoking a sense of raw determination and solitude. The boxer, dressed in dark athletic gear and gloves, is caught mid-motion, hunched in a defensive stance with fists raised, as if shadowboxing or preparing for a fight. Wisps of dust or smoke hang in the air, illuminated by a single overhead light that casts stark shadows and creates a moody, cinematic atmosphere. The camera angle is low and slightly off-center, with the ropes of the ring dominating the foreground and adding depth to the composition. The overall style is reminiscent of classic sports photography or film noir, with high contrast, deep shadows, and a palpable sense of tension and focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:46.595178",
+  "word_count": 145,
+  "error_message": null
+}

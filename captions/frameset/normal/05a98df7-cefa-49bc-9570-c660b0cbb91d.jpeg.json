@@ -1,0 +1,12 @@
+{
+  "image_filename": "05a98df7-cefa-49bc-9570-c660b0cbb91d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a laptop screen displaying a virtual video conference call with sixteen participants, each visible in their own rectangular frame. The participants are a diverse group of people, varying in age, gender, and appearance, some sitting in well-lit rooms, others in dimmer settings. Their expressions range from attentive and engaged to neutral, with a few mid-conversation or gesturing. The interface is unmistakably that of a popular video conferencing platform, with familiar controls and icons visible along the bottom edge of the screen. The scene is bathed in a soft magenta and purple ambient light, casting a modern, slightly futuristic glow over the laptop and the blurred foreground, suggesting the presence of a person just out of focus. The composition emphasizes the digital, interconnected nature of remote communication, with a shallow depth of field that keeps the focus on the screen while the background and edges fade into a gentle blur. The overall mood is contemporary and slightly cinematic, evoking themes of technology, connection, and the new normal of virtual interaction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:41.129511",
+  "word_count": 173,
+  "error_message": null
+}

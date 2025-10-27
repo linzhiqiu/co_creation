@@ -1,0 +1,12 @@
+{
+  "image_filename": "03e5c5e3-9136-4159-8e4e-8d3da636a9c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a moody, atmospheric scene set inside an ancient stone corridor or underground passageway. The composition features a series of arched windows or openings carved into thick, weathered stone walls. Warm, amber light spills through the arches, casting soft, diffuse illumination onto the rough stone surfaces and creating deep, dramatic shadows that recede into darkness. The background fades into near-black, emphasizing the mysterious, cavernous quality of the space. The color palette is dominated by rich ochres, burnt oranges, and deep browns, evoking a sense of age and secrecy. The lighting is low and indirect, with a cinematic, chiaroscuro effect that highlights the texture of the stone and the architectural forms. The camera angle is slightly off-center, capturing the repeating arches in a way that draws the viewer’s eye into the depth of the corridor. The overall style is evocative and contemplative, with a focus on mood, shadow, and the interplay of light and ancient architecture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:03.840415",
+  "word_count": 156,
+  "error_message": null
+}

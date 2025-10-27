@@ -1,0 +1,12 @@
+{
+  "image_filename": "09339897-679a-406f-a7d0-039d059561ed.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, windswept desert landscape at golden hour, with rolling sand dunes stretching into the distance. The sun hangs low in the hazy sky, casting a warm, sepia-toned glow over the entire scene and creating long, dramatic shadows that accentuate the curves and textures of the dunes. Fine grains of sand are caught in the air, swirling gently and catching the light, adding a sense of motion and atmosphere. In the upper left, a small off-road vehicle or dune buggy is barely visible, kicking up a trail of dust as it ascends a steep dune, emphasizing the scale and isolation of the environment. The composition is cinematic, with a wide aspect ratio and a shallow depth of field that keeps the foreground and midground in sharp focus while the background dunes fade softly into the light. The overall mood is serene yet adventurous, evoking a sense of exploration and the raw beauty of untouched nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:05.410885",
+  "word_count": 155,
+  "error_message": null
+}

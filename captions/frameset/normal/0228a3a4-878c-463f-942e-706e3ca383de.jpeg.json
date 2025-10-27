@@ -1,0 +1,12 @@
+{
+  "image_filename": "0228a3a4-878c-463f-942e-706e3ca383de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a woolen plaid fabric draped over a surface, possibly the back of a chair or a coat rack. The fabric features a classic tartan pattern in muted earth tones—beige, brown, olive green, and subtle hints of yellow—intersected by fine, dark green lines. The texture of the wool is soft and slightly fuzzy, with the weave and individual fibers visible in the gentle, diffused lighting. The background is softly blurred, creating a shallow depth of field that draws attention to the tactile quality and intricate pattern of the cloth. The overall color palette is warm and subdued, evoking a cozy, nostalgic atmosphere. The composition is intimate and focused, with the fabric filling most of the frame, and the lighting is natural and soft, suggesting an indoor setting with ambient daylight filtering in. The mood is quiet and contemplative, reminiscent of a still from an art-house film or a vintage photograph.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:26.392013",
+  "word_count": 154,
+  "error_message": null
+}

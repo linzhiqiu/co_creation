@@ -1,0 +1,12 @@
+{
+  "image_filename": "02fc31fd-1756-46f0-9fff-f00cdaf3c1f6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime urban scene with a moody, neo-noir atmosphere. In the foreground, two motorcyclists sit astride their bikes, illuminated by a dramatic shaft of pale, almost ethereal light that cuts through the darkness, highlighting the chrome and contours of their motorcycles. The riders wear dark, modern gear with subtle reflective elements, their faces partially obscured by helmets or shadows, adding an air of mystery and tension.\n\nThe background features a dimly lit city street, with the facades of old apartment buildings rising into the gloom. Windows glow with soft yellow and greenish light, some blurred by rain or fog, suggesting life within. Neon signs and streetlights cast scattered pools of color—teal, green, and amber—across wet pavement, creating reflections and a sense of depth. The overall color palette is dominated by deep blacks, muted greens, and cool blues, punctuated by the occasional warm light.\n\nThe composition uses a low, slightly wide camera angle, emphasizing the imposing presence of the motorcycles and their riders against the urban backdrop. The lighting is stark and directional, with high contrast and deep shadows, evoking a sense of suspense and anticipation. The style is reminiscent of cyberpunk or classic noir films, with a focus on atmosphere, mystery, and the interplay of light and darkness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:54.093895",
+  "word_count": 210,
+  "error_message": null
+}

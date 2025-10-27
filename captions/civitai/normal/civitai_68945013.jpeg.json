@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_68945013.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up portrait of a young woman with long dark hair, her face partially illuminated by a dramatic, multicolored light leak that casts a vivid rainbow across her features. The subject gazes directly into the camera with an intense, contemplative expression, her eyes catching the light and reflecting subtle highlights. The composition is tight, with her face filling most of the frame, and the background is softly blurred, drawing all attention to her. The image has a dreamy, cinematic quality, enhanced by visible lens flares, bokeh, and a textured overlay that mimics film grain and dust particles. The color palette is rich and saturated, dominated by cool blues and warm reds and yellows from the light leak, creating a surreal, ethereal mood. The lighting is high-contrast, with deep shadows and bright highlights, evoking a sense of mystery and introspection. The overall style is reminiscent of vintage film photography, with a modern, artistic twist.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:14:07.548414",
+  "word_count": 154,
+  "error_message": null
+}

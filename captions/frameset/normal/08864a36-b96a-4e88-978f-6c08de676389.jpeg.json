@@ -1,0 +1,12 @@
+{
+  "image_filename": "08864a36-b96a-4e88-978f-6c08de676389.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic urban street scene set in the late afternoon, bathed in soft, golden sunlight that casts long shadows and highlights the architectural details. The composition features three prominent buildings: on the left, an ornate, historic European-style structure with intricate stonework, tall windows, and a mansard roof; in the center, a strikingly unique building rendered in a flat, sketch-like style, as if hand-drawn in sepia ink, contrasting sharply with its realistic surroundings; on the right, a grand neoclassical edifice with massive Corinthian columns and a detailed pediment. The street is wide and gently curving, with a few pedestrians scattered along the sidewalks and a dark car parked in the foreground, partially in shadow. The color palette is muted and elegant, dominated by warm creams, soft grays, and gentle blues, with the sunlight lending a nostalgic, almost dreamlike quality. The camera angle is slightly low and wide, emphasizing the scale and grandeur of the architecture, while the depth of field keeps all elements crisp and clear. The overall mood is contemplative and surreal, blending realism with a touch of artistic fantasy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:53.385966",
+  "word_count": 180,
+  "error_message": null
+}

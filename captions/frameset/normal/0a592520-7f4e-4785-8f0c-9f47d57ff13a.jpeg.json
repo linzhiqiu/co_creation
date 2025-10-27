@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a592520-7f4e-4785-8f0c-9f47d57ff13a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic black-and-white photograph of a woman walking down a modern, sunlit hallway. The woman is seen from behind, her long, wavy hair cascading down her back. She wears a flowing, dark robe or dress adorned with delicate embroidery, which contrasts elegantly with the bright, minimalist surroundings. The hallway features clean architectural lines, with large windows on the right casting dramatic, elongated shadows across the polished floor. On the left, a plush, tufted bench runs along the wall beneath a large abstract painting, while two sculptural, wavy figures stand further down the corridor, adding an artistic touch. The overall composition is balanced and serene, with soft natural light creating a high-contrast effect that emphasizes textures and shapes. The mood is contemplative and slightly mysterious, evoking a sense of quiet anticipation. The camera angle is at eye level, with a deep depth of field that keeps both the foreground and background in sharp focus, enhancing the sense of space and stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:33.195472",
+  "word_count": 160,
+  "error_message": null
+}

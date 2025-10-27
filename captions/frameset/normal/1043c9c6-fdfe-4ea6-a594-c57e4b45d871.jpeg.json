@@ -1,0 +1,12 @@
+{
+  "image_filename": "1043c9c6-fdfe-4ea6-a594-c57e4b45d871.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, cinematic scene set deep within a vast, shadowy cavern. The composition centers on a narrow, vertical shaft of golden sunlight piercing through an opening high above, illuminating a thin, ethereal waterfall that cascades down the rugged rock face. The surrounding cave is enveloped in darkness, with only the uppermost rocks and the falling water catching the light, creating a striking contrast between the illuminated elements and the deep, enveloping shadows. The color palette is dominated by rich blacks and muted earth tones, with the sunlight introducing warm golds and subtle highlights. The overall mood is mysterious and awe-inspiring, evoking a sense of isolation and wonder. The camera angle is wide and slightly low, emphasizing the height and grandeur of the cavern, while the focused beam of light and waterfall draw the viewer’s eye to the center of the frame. The style is reminiscent of high-contrast, atmospheric cinematography, with a strong emphasis on natural light and dramatic chiaroscuro.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:40.938134",
+  "word_count": 161,
+  "error_message": null
+}

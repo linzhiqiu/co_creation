@@ -1,0 +1,12 @@
+{
+  "image_filename": "0bb83a2f-cf59-4fd3-847a-9008e56b2ce6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bright, cheerful classroom scene featuring a young female teacher standing at the front, engaging with a small group of elementary school children. The teacher, dressed in a simple dark t-shirt and light pants, smiles warmly as she addresses the students, exuding enthusiasm and approachability. Several children, seen from behind and slightly out of focus in the foreground, eagerly raise their hands, suggesting active participation and excitement. The classroom walls are decorated with colorful educational posters, including days of the week in Spanish, geometric shapes, and a large, detailed map of France. Soft, natural daylight fills the room, creating a welcoming and vibrant atmosphere. The composition uses a shallow depth of field, focusing on the teacher while the children and background elements are gently blurred, drawing attention to the interaction. The color palette is lively, with pops of primary colors from the posters and students’ clothing, balanced by the neutral tones of the walls and furniture. The overall style is candid and documentary-like, capturing a genuine moment of learning and engagement in a modern, multicultural classroom setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:04.905108",
+  "word_count": 177,
+  "error_message": null
+}

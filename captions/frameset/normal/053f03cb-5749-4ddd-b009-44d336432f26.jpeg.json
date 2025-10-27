@@ -1,0 +1,12 @@
+{
+  "image_filename": "053f03cb-5749-4ddd-b009-44d336432f26.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA modern, minimalist apartment building rises into a clear, cloudless sky, captured from a low, upward-tilted angle that emphasizes its geometric lines and height. The building’s facade is split between a stark white section and a bold, vibrant orange corner, creating a striking contrast that draws the eye. Large, grid-like windows reflect the soft daylight, their clean lines reinforcing the structure’s contemporary aesthetic. The orange section features balconies with simple railings, adding depth and subtle shadow play. The overall color palette is dominated by the cool blue of the sky and the warm orange accent, with the white facade providing a crisp, neutral balance. The lighting is natural and even, suggesting late afternoon or early morning, with no harsh shadows. The composition is minimalist, with the building occupying the left side of the frame and the expansive sky filling the rest, evoking a sense of openness and modern urban tranquility. The style is clean and architectural, with a focus on form, color, and negative space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:32.241953",
+  "word_count": 166,
+  "error_message": null
+}

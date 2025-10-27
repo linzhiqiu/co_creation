@@ -1,0 +1,12 @@
+{
+  "image_filename": "116d2a9b-5f9d-4fe3-b678-31644977f379.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, dystopian portrait of a lone figure standing in a dimly lit urban environment. The subject is wearing a bulky, futuristic helmet with a large, protruding lens and orange filters, evoking a sense of advanced technology and anonymity. The helmet covers the entire head, obscuring the face and adding an air of mystery. The figure is dressed in a dark, layered jacket with a hood pulled up, blending into the moody, industrial setting. The background is softly blurred, featuring muted green and gray tones with hints of brick and metal, suggesting a rundown cityscape. The lighting is dramatic, casting a greenish glow that enhances the cyberpunk atmosphere. The composition is shot from a slightly low angle, focusing on the subject in profile, with a shallow depth of field that isolates the figure from the environment. The overall style is gritty and atmospheric, reminiscent of neo-noir or science fiction films, with a strong emphasis on mood, texture, and futuristic design elements.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:09.323067",
+  "word_count": 162,
+  "error_message": null
+}

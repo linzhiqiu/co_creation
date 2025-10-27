@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a7e5900-154a-41ec-9f72-03293bdd0efc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA medium shot of a man seated in a workshop or industrial studio, facing the camera and speaking with a calm, engaged expression. He has short dark hair, a trimmed beard, and wears a casual, buttoned-up denim shirt. The background is softly out of focus, revealing various workshop equipment and machinery, including green and metallic tools, pipes, and a workbench, all set against clean white walls. A large microphone is visible, suspended from above and slightly in frame, suggesting a documentary or interview setting. The lighting is soft and even, illuminating the subject’s face without harsh shadows, creating a natural and approachable atmosphere. The color palette is dominated by cool blues and neutral tones, with subtle pops of green and metallic hues from the equipment. The composition is balanced, with the subject centered and the background elements providing context without distraction. The overall style is cinematic and documentary-like, with a shallow depth of field that keeps the focus on the subject while hinting at the industrious environment behind him.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:37.004125",
+  "word_count": 170,
+  "error_message": null
+}

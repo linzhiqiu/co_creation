@@ -1,0 +1,12 @@
+{
+  "image_filename": "0904f49d-7e39-4ed7-8add-be0f4879b2a0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, emotionally charged cinematic shot of an elderly woman with short gray hair and wire-rimmed glasses, her eyes closed tightly in a moment of deep feeling as she embraces another person. The woman’s face is partially illuminated by soft, diffused lighting, highlighting the fine lines and gentle texture of her skin, while the background is dark and out of focus, drawing all attention to her expression. The other person, seen only from behind, has dark hair adorned with a subtle gold accessory, and their presence is mostly suggested by the blurred outline of their head and shoulder in the foreground. The color palette is muted and natural, with cool undertones and a gentle contrast that enhances the intimate, heartfelt mood. The composition uses a shallow depth of field, focusing sharply on the elderly woman’s face and glasses, while the rest of the scene fades into a soft blur, creating a sense of closeness and emotional intensity. The overall style is reminiscent of a tender, dramatic film moment, capturing the raw vulnerability and warmth of a meaningful embrace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:03.490448",
+  "word_count": 178,
+  "error_message": null
+}

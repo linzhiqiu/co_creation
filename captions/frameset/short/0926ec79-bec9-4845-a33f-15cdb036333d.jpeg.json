@@ -1,0 +1,12 @@
+{
+  "image_filename": "0926ec79-bec9-4845-a33f-15cdb036333d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A retro neon motel sign reading \"AZTEC\" glows in pastel pink, green, and yellow against a dusky, lavender sky. Palm fronds and power lines frame the scene, evoking a nostalgic, cinematic atmosphere with soft, ambient lighting and a vintage Americana aesthetic. Low-angle composition emphasizes the sign’s bold presence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:02.716686",
+  "word_count": 48,
+  "error_message": null
+}

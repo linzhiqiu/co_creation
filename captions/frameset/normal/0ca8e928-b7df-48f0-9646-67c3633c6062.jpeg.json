@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ca8e928-b7df-48f0-9646-67c3633c6062.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot set in a brightly lit supermarket aisle, captured at eye level with a deep depth of field that keeps every detail in sharp focus. The scene features a tall man in a blue plaid shirt and jeans, gently holding the hand of a young girl in a turquoise t-shirt and denim shorts. They stand side by side, facing the shelves, with the man slightly bending down to speak to the girl, creating a sense of intimacy and care. The shelves on both sides are densely packed with colorful canned goods, bottles, and packaged foods, forming symmetrical lines that draw the viewer’s eye toward the back of the aisle, where a red and white sign is partially visible. The lighting is even and natural, evoking the sterile, everyday atmosphere of a grocery store. The color palette is dominated by the vibrant packaging on the shelves, contrasted by the more subdued tones of the characters’ clothing. The overall composition emphasizes the mundane yet poignant moment between the two figures, surrounded by the abundance and orderliness of the supermarket environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:24.171013",
+  "word_count": 180,
+  "error_message": null
+}

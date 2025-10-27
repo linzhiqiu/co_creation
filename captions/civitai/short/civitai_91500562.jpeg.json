@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_91500562.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A serene Buddha statue made entirely of glossy caramel, seated cross-legged in a tranquil Japanese garden. The Buddha holds a caramel popsicle, with melted caramel dripping onto its lap. Soft, warm lighting enhances the rich amber tones, creating a whimsical yet peaceful atmosphere, blending surrealism with traditional Zen aesthetics.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:26:30.136307",
+  "word_count": 49,
+  "error_message": null
+}

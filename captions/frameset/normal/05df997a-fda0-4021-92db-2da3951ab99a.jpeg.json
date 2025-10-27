@@ -1,0 +1,12 @@
+{
+  "image_filename": "05df997a-fda0-4021-92db-2da3951ab99a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot from the driver’s perspective inside a modern Volkswagen vehicle, focusing on the digital dashboard display. The central subject is the illuminated red collision warning icon, depicting a car with alert lines, sharply rendered against a sleek, dark digital interface. The driver’s hands grip the steering wheel, partially visible in the foreground, adding a sense of immediacy and realism. The Volkswagen logo is prominently centered on the wheel, subtly reflecting ambient light. The dashboard’s digital readouts, including temperature, speed, and distance, are softly glowing in cool blue and white tones, contrasting with the vivid red warning symbol. The background is blurred, emphasizing the dashboard and steering wheel, with a shallow depth of field that draws the viewer’s eye to the warning display. The overall color palette is a sophisticated mix of matte blacks, metallic grays, and subtle highlights, evoking a high-tech, contemporary atmosphere. The lighting is natural and diffused, suggesting daylight filtering through the car’s interior, with a clean, polished look reminiscent of a premium automotive advertisement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:55.613156",
+  "word_count": 170,
+  "error_message": null
+}

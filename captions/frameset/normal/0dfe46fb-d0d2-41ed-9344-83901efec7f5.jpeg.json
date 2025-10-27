@@ -1,0 +1,12 @@
+{
+  "image_filename": "0dfe46fb-d0d2-41ed-9344-83901efec7f5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle shot taken from outside the windshield of a modern car, capturing two young adults—a man and a woman—seated in the front seats. Both subjects are turned slightly toward each other, exchanging warm, knowing smiles that suggest a moment of connection or shared amusement. The man, on the left, wears a dark jacket over a light shirt, while the woman, on the right, has a sleek bob haircut and is dressed in a neutral-toned top. The lighting is soft and natural, with daylight streaming in, creating gentle reflections on the windshield and subtle highlights on their faces. The background reveals an urban environment with blurred buildings, adding depth and context without distracting from the subjects. The overall color palette is muted and realistic, with cool grays and soft beiges dominating the scene. The composition emphasizes intimacy and authenticity, with a shallow depth of field that keeps the focus on the pair while the cityscape outside remains softly out of focus. The mood is light, intimate, and quietly joyful, evoking the feeling of a candid moment shared between close friends or partners during a city drive.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:53.295636",
+  "word_count": 187,
+  "error_message": null
+}

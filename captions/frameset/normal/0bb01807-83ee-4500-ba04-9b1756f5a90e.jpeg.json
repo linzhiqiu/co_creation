@@ -1,0 +1,12 @@
+{
+  "image_filename": "0bb01807-83ee-4500-ba04-9b1756f5a90e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, intimate nighttime scene set in an urban environment. The focus is on a close-up of a young woman with long dark hair, wearing fluffy red earmuffs and a dark winter coat, warmly embracing another person whose face is hidden, dressed in a hooded jacket. The woman’s expression is soft and content, her eyes slightly closed, conveying a sense of comfort and quiet happiness. The background is softly blurred with bokeh lights from city buildings and streetlights, creating a dreamy, atmospheric effect. The color palette is rich and moody, dominated by deep blues, blacks, and warm highlights from the city lights. The lighting is gentle and naturalistic, with soft shadows and a subtle glow on the woman’s face. The composition uses a shallow depth of field to keep the focus on the emotional connection between the two figures, evoking a sense of warmth and intimacy amidst the cool, bustling city night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:04.239046",
+  "word_count": 153,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f135536-fb41-4a61-8f56-db3392f2f1d3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a vivid, overhead scene of a person swimming alone in a clear blue pool. The subject is a young man with short hair, seen from above as he glides face-down through the water, arms extended forward in a relaxed, almost floating posture. He wears simple black swim trunks, and his bare back and shoulders are visible, catching the soft, natural daylight that filters through the water’s surface. The pool’s water is a vibrant, crystalline turquoise, with gentle ripples and subtle gradients of blue, creating a sense of calm and tranquility. The lighting is bright and even, evoking a sunny day, and the overall composition emphasizes the serene isolation of the swimmer against the expansive, inviting water. The style is realistic with a slight cinematic quality, focusing on clarity, color, and the peaceful mood of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:24.002264",
+  "word_count": 137,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "00cb431f-a326-443d-8208-3b5889721c81.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek black quadcopter drone hovers midair against a clear blue sky, viewed from below with a dramatic upward angle. Urban elements—streetlights and building edges—frame the scene, while soft daylight casts crisp shadows, evoking a modern, cinematic city surveillance atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:50.795739",
+  "word_count": 40,
+  "error_message": null
+}

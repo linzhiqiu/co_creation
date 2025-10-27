@@ -1,0 +1,12 @@
+{
+  "image_filename": "03fb8d16-8ed3-48ae-baec-e49f3f5be40d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer or typewriter screen displaying a block of text in a monospaced font, with the words sharply in focus in the center and gradually blurring toward the edges. The text describes a dramatic scene, mentioning a shooter, a staircase, and a dead body, evoking a sense of suspense and narrative tension. The lighting is soft and neutral, with a slight reflection or faint overlay of a window or outdoor scene at the bottom of the screen, adding a subtle layer of visual complexity. The color palette is muted, dominated by off-white and gray tones of the screen, with hints of beige and blue from the reflection. The composition is tight and intimate, immersing the viewer in the act of reading or writing, with a shallow depth of field that emphasizes the immediacy and importance of the words. The overall style is cinematic and contemplative, reminiscent of a thriller or mystery film, capturing the moment when written words become central to the unfolding story.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:04.708548",
+  "word_count": 168,
+  "error_message": null
+}

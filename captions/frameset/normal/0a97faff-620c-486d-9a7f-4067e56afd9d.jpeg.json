@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a97faff-620c-486d-9a7f-4067e56afd9d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A retro-futuristic science fiction scene set in a sleek, minimalist corridor with smooth, metallic walls and a dramatic, vanishing-point perspective. Two men stand in the foreground, both wearing matching beige jumpsuits with high collars and orange turtlenecks underneath, evoking a 1960s or 1970s vision of space exploration. Their expressions are serious and alert, as if they have just turned to face an unexpected presence behind them. The lighting is soft but directional, casting gentle shadows and highlighting the geometric lines of the corridor, which is illuminated by a bright, white strip of light running along the ceiling and converging in the distance. The color palette is dominated by muted grays and beiges, with the orange accents on the uniforms providing a striking contrast. The overall composition is symmetrical and cinematic, with a shallow depth of field that keeps the focus on the two figures while subtly blurring the background, enhancing the sense of mystery and anticipation. The style is reminiscent of classic sci-fi films, with a clean, polished aesthetic and a sense of quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:38.509709",
+  "word_count": 175,
+  "error_message": null
+}

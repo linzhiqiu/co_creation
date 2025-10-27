@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cb196e7-594d-409c-848a-c7667900b57c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a vibrant, candid portrait of a young woman standing in a bustling indoor environment. She is positioned at the center of the frame, facing the camera directly with a warm, genuine smile. Her straight, shoulder-length hair frames her face, and she wears a simple, solid blue crew-neck shirt. The background is softly blurred, filled with indistinct figures and muted colors, suggesting a lively crowd or social gathering, but keeping the focus entirely on the subject. The lighting is soft and natural, illuminating her face evenly and creating a welcoming, approachable atmosphere. The color palette is dominated by cool blues and gentle neutrals, enhancing the calm and friendly mood. The composition uses a shallow depth of field to isolate the subject, with a slight bokeh effect in the background, lending the image a modern, cinematic quality. The overall style is clean, contemporary, and uplifting, capturing a moment of authentic human connection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:23.882183",
+  "word_count": 151,
+  "error_message": null
+}

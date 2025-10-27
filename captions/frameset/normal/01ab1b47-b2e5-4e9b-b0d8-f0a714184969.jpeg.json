@@ -1,0 +1,12 @@
+{
+  "image_filename": "01ab1b47-b2e5-4e9b-b0d8-f0a714184969.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, science fiction cityscape at dusk, dominated by a colossal, hovering geometric structure—an immense, dark, metallic cube with a glowing vertical seam of light running down its center. The foreground is filled with angular, monolithic buildings and abstract, block-like architecture, rendered in shades of gunmetal gray and deep charcoal, with subtle reflections and a matte, industrial texture. The lighting is moody and atmospheric, with a pale, diffused sunlight filtering through a hazy sky, casting long, soft-edged shadows and lending the scene a sense of scale and mystery. The overall color palette is cool and desaturated, emphasizing silvers, grays, and muted blues, with occasional highlights from the cube’s internal illumination. The camera angle is low and slightly tilted upward, enhancing the monumental scale and otherworldly presence of the floating structure. The composition conveys a sense of awe and foreboding, with a minimalist, futuristic aesthetic reminiscent of high-concept sci-fi films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:24.307060",
+  "word_count": 151,
+  "error_message": null
+}

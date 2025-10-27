@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d6bbcab-9054-4b0f-ac7a-b90ac3853ccf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of six dancers, all dressed in sleek black suits with white shirts, perform a synchronized, dynamic routine in a dimly lit, modern interior space. The dancers are captured mid-movement, their bodies angled forward with expressive, powerful gestures, conveying intensity and unity. Their faces are partially illuminated, highlighting focused expressions, while the rest of the scene is enveloped in deep shadows, creating a dramatic, high-contrast atmosphere. The background features a large floor-to-ceiling window revealing a nighttime cityscape, with tall buildings and glowing lights softly blurred, adding depth and an urban sophistication to the composition. The color palette is dominated by dark tones—blacks, deep blues, and subtle highlights from the city lights—emphasizing the moody, cinematic quality. The camera angle is slightly low and wide, enhancing the sense of movement and group cohesion, while the lighting is minimal and directional, spotlighting the dancers against the shadowy environment. The overall style is modern, stylish, and evocative, reminiscent of a high-fashion editorial or a dramatic music video set in a metropolitan night.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:41.145277",
+  "word_count": 169,
+  "error_message": null
+}

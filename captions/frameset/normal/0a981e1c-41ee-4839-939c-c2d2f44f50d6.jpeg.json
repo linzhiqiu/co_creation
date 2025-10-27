@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a981e1c-41ee-4839-939c-c2d2f44f50d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone, imposing tall ship with dark, almost black sails cuts through a turbulent, stormy sea under a brooding, overcast sky. The vessel is dramatically tilted to one side, emphasizing the force of the wind and the churning waves. The ship’s hull is illuminated by a few faint, warm lights glowing from within, providing a stark contrast to the cold, blue-gray tones dominating the scene. The sky is filled with thick, swirling clouds, casting deep shadows and creating a sense of foreboding and tension. The composition is cinematic, with the ship positioned off-center, sailing into the vast, ominous expanse of the ocean. The lighting is low and moody, evoking a sense of mystery and adventure, while the overall color palette is dominated by deep blues, grays, and blacks, punctuated by the subtle golden glow from the ship’s windows. The perspective is wide, capturing the scale of the sea and sky, and the depth of field keeps both the ship and the restless water in sharp focus, enhancing the dramatic, almost painterly quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:37.430898",
+  "word_count": 175,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d14ced3-0bab-4006-a8ec-b46be99f4cf9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a human hand reaching out to interact with a glowing, futuristic touchscreen interface. The finger is poised just above a luminous circular icon, which features a stylized power symbol at its center, radiating soft blue and teal light. The background is dark and out of focus, with subtle hints of orange and green ambient lighting, creating a high-tech, sci-fi atmosphere. The composition emphasizes the tactile moment of contact, with shallow depth of field drawing attention to the fingertip and the illuminated interface. The overall color palette is cool and moody, dominated by blues and cyans, with dramatic contrast and soft reflections on the glassy surface. The lighting is low-key, with the main source coming from the screen itself, casting gentle highlights on the hand and creating a sense of anticipation and technological sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:38.719413",
+  "word_count": 138,
+  "error_message": null
+}

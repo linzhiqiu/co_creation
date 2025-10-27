@@ -1,0 +1,12 @@
+{
+  "image_filename": "1140ba5c-39f6-4565-bdc8-14b916122ed2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime cityscape in a futuristic, cyberpunk style. The scene is dominated by the façade of a tall, densely packed high-rise building, its surface cluttered with industrial details, pipes, and metallic structures. The building is bathed in deep shadows, with subtle green and blue ambient lighting reflecting off its surfaces, evoking a moody, atmospheric tone. \n\nA large, luminous digital billboard is mounted on the building, displaying the close-up image of a young woman with dark hair styled in two buns. Her expression is neutral, almost enigmatic, and she appears to be looking directly at the viewer. The screen emits a soft, glowing light that contrasts with the darkness of the surrounding architecture, casting a faint illumination on nearby surfaces. \n\nThe sky above is dark, dotted with faint stars, enhancing the sense of nighttime urban isolation. The overall color palette is cool and muted, dominated by greens, blues, and blacks, with the digital screen providing the main source of brightness. The camera angle is low and slightly tilted upward, emphasizing the scale of the building and the prominence of the digital portrait. The composition conveys a sense of futuristic melancholy and urban solitude, reminiscent of classic cyberpunk films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:08.303170",
+  "word_count": 200,
+  "error_message": null
+}

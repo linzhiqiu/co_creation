@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ead8161-fcac-4e9a-8644-e1d7fc659f05.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone samurai stands in the foreground, captured from a low, slightly upward camera angle that emphasizes his imposing presence against a vast, dramatic sky filled with billowing clouds. He wears traditional, weathered black robes that appear worn and battle-stained, with his hair wild and disheveled, adding to his intense, rugged demeanor. His expression is fierce and focused, eyes narrowed in concentration, as he grips a gleaming katana with both hands, the blade catching the light and reflecting a cold, steely glint. The lighting is natural, with soft daylight illuminating the scene and casting subtle shadows that enhance the textures of his clothing and the contours of his face. The color palette is muted and earthy, dominated by the dark tones of his attire and the pale blues and grays of the sky, creating a somber, cinematic atmosphere. The composition is dynamic, with the samurai slightly off-center, and the expansive sky providing a sense of isolation and tension, evoking the mood of a classic Japanese period film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:12.873323",
+  "word_count": 167,
+  "error_message": null
+}

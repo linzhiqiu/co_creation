@@ -1,0 +1,12 @@
+{
+  "image_filename": "073feab4-263d-4a12-8b51-7fe4af140688.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a tennis player practicing on an outdoor court. The focus is on the player’s torso and arms, capturing the moment just before they hit a bright yellow tennis ball with a black tennis racket. The player wears a sporty, short-sleeved shirt in bold red with navy blue side panels, emphasizing athleticism and movement. The background features a blue hardcourt with white lines, and a blurred view of a brick building and fencing, suggesting a school or community sports facility. The lighting is natural and slightly overcast, creating soft, diffused shadows and a muted, realistic color palette. The camera angle is low and dynamic, positioned at the player’s waist level, with a shallow depth of field that keeps the racket and ball in sharp focus while gently blurring the background. The overall style is modern and energetic, evoking the anticipation and concentration of a tennis match in progress.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:17.418274",
+  "word_count": 152,
+  "error_message": null
+}

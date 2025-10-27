@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c97644c-f012-48c4-b109-3653bbbeebdb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary football coach stands in front of a regulation-sized goal on a lush, well-manicured outdoor pitch. The coach, a bearded man with a sturdy build, wears a light gray long-sleeve training top adorned with a club crest and black athletic pants. His expression is focused and intent, as he appears to be preparing for a training session, holding a notepad or clipboard in his hands. At his feet, a cluster of brightly colored soccer balls—white with pink and blue accents—are gathered next to an open black equipment bag. The background features a line of dense, dark green trees under a clear blue sky, with a tall metal power line structure visible in the distance, adding a subtle industrial touch. The lighting is natural and even, suggesting a late morning or early afternoon setting, with soft shadows cast on the vibrant green grass. The composition is wide and cinematic, with the coach positioned slightly off-center, emphasizing the expanse of the field and the sense of preparation and anticipation. The overall mood is calm and professional, capturing a quiet moment before the energy of a training session begins.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:36.446449",
+  "word_count": 187,
+  "error_message": null
+}

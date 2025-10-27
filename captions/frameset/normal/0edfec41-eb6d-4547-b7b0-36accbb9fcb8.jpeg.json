@@ -1,0 +1,12 @@
+{
+  "image_filename": "0edfec41-eb6d-4547-b7b0-36accbb9fcb8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man in a crisp white dress shirt and dark slacks is seen from a dramatic low-angle perspective, as if the viewer is inside a trash bin looking up at him. His expression is tense and focused, with furrowed brows, as he forcefully discards a handful of crumpled papers and documents into the bin. The background reveals an industrial or office setting, with exposed wooden ceiling panels, visible pipes, and fluorescent lighting fixtures, lending a utilitarian, slightly gritty atmosphere. The color palette is muted and naturalistic, dominated by cool blues, greys, and the warm brown of the ceiling, with soft, diffused lighting that casts gentle shadows and highlights the textures of the man’s clothing and the flying papers. The composition uses a wide lens and shallow depth of field, emphasizing the dynamic motion of the papers as they fall toward the camera, creating a sense of urgency and narrative tension. The overall style is cinematic, reminiscent of a suspenseful drama or crime thriller, with a voyeuristic, immersive quality that places the viewer directly in the path of the discarded documents.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:17.224681",
+  "word_count": 181,
+  "error_message": null
+}

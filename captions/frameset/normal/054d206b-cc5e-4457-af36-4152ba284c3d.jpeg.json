@@ -1,0 +1,12 @@
+{
+  "image_filename": "054d206b-cc5e-4457-af36-4152ba284c3d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man walks across a stark, minimalist stage, illuminated by a single, focused spotlight in an otherwise dark, empty room. He wears casual clothing—jeans, a dark jacket, and a cap—his posture slightly hunched, hands mid-motion as if caught in a moment of contemplation or uncertainty. The lighting is dramatic and high-contrast, casting a long, exaggerated shadow of the man on the blank wall behind him, creating a sense of psychological tension and introspection. The color palette is strictly black and white, emphasizing the interplay of light and shadow and lending the scene a cinematic, film noir quality. The camera angle is slightly elevated and off-center, capturing both the man and his looming shadow, with a shallow depth of field that keeps the focus on the subject while the background fades into darkness. The overall mood is moody, introspective, and theatrical, evoking themes of isolation, duality, and self-reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:34.222614",
+  "word_count": 148,
+  "error_message": null
+}

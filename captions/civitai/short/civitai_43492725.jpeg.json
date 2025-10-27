@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_43492725.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A majestic, gothic castle rises atop misty, jagged mountains, its spires piercing dramatic, swirling pink and purple clouds. The scene is bathed in ethereal, diffused light, with deep shadows and cool blue tones in the foreground, evoking a fantastical, cinematic atmosphere of mystery and grandeur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:01:45.584893",
+  "word_count": 45,
+  "error_message": null
+}

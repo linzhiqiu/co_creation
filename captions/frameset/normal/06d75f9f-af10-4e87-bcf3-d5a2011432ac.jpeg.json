@@ -1,0 +1,12 @@
+{
+  "image_filename": "06d75f9f-af10-4e87-bcf3-d5a2011432ac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, dark chalkboard wall dominates the scene, covered with a dense collage of scientific notes, hand-drawn diagrams, mathematical equations, and maps. Sheets of paper, some yellowed and others crisp white, are taped and pinned in a seemingly chaotic yet purposeful arrangement, overlapping at the edges. The chalkboard itself is filled with white chalk writing—complex formulas, sketches of planetary orbits, and cryptic annotations—suggesting intense intellectual activity and problem-solving. The lighting is soft and natural, streaming in from the right, casting gentle shadows and giving the space a contemplative, almost cinematic atmosphere. The color palette is subdued, with deep blues and blacks from the chalkboard, contrasted by the whites and off-whites of the paper, and occasional hints of muted color from maps and diagrams. The camera angle is slightly low and off-center, emphasizing the scale and immersive quality of the wall, while the shallow depth of field keeps the focus on the intricate details of the notes and chalk marks. The overall style evokes the workspace of a brilliant scientist or detective, filled with mystery, discovery, and the pursuit of knowledge.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:09.957410",
+  "word_count": 180,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "115e43d7-e4b2-41dd-8505-edbe6b528de0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A widescreen monitor displays a cinematic scene of two people inside a car at night. The main subject, a man with short hair and a trimmed beard, sits in the driver’s seat, gripping the steering wheel with a focused, slightly tense expression. He wears a dark jacket, and the soft, cool lighting from the dashboard and city lights outside casts subtle highlights on his face, emphasizing the nighttime setting. In the passenger seat, a woman with long hair is partially visible, her face softly illuminated, suggesting a contemplative or concerned mood. The car’s interior is dim, with reflections of city lights on the windshield adding depth and atmosphere.\n\nThe monitor itself is set up in an industrial warehouse environment, with blurred overhead lights and structural elements in the background, creating a sense of a behind-the-scenes film production. To the right of the monitor, a computer screen displays editing or playback software, reinforcing the filmmaking context. The overall color palette is cool and muted, dominated by blues, greys, and soft whites, with a cinematic, shallow depth of field that keeps the focus on the characters inside the car. The composition is carefully framed, with the monitor centered and the background softly out of focus, evoking the mood of a tense, dramatic night-time sequence being reviewed on set.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:07.838475",
+  "word_count": 216,
+  "error_message": null
+}

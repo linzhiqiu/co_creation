@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b1bef45-e09f-4245-a117-6b8834513c67.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sweeping, cinematic landscape of a mountainous region under a clear sky. The foreground is dominated by a rugged, forested peak, its dense evergreen trees casting deep, dramatic shadows across the slopes. The midground reveals a series of overlapping ridges, each receding into the distance with a subtle blue haze, creating a strong sense of depth and scale. In the far background, snow-capped mountains rise majestically, their white peaks contrasting sharply against the darker, forested hills below. The lighting is natural and soft, suggesting late afternoon or early evening, with gentle sunlight illuminating the tops of the trees and mountain ridges while leaving the valleys in shadow. The color palette is rich and natural, featuring deep greens, cool blues, and crisp whites. The overall style is realistic and immersive, with a wide-angle perspective that emphasizes the grandeur and tranquility of the wilderness. The composition is balanced, with the main peak slightly off-center, drawing the viewer’s eye into the vast, serene expanse of the landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:50.865674",
+  "word_count": 164,
+  "error_message": null
+}

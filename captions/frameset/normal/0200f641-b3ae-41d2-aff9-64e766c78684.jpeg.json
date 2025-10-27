@@ -1,0 +1,12 @@
+{
+  "image_filename": "0200f641-b3ae-41d2-aff9-64e766c78684.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a shallow, fast-flowing stream with water rushing over smooth, mossy rocks. The camera is positioned low, almost at water level, creating a sense of immersion and intimacy with the scene. The focus is sharp on the midground rocks and the churning, splashing water, while the foreground and background are softly blurred, producing a shallow depth of field that draws the viewer’s eye to the dynamic movement of the water. Droplets are caught mid-air, frozen in time, adding a sense of motion and vitality. The color palette is cool and natural, dominated by muted greens, grays, and silvery blues, evoking a tranquil, overcast day in a forested area. The lighting is soft and diffuse, with no harsh shadows, suggesting a cloudy sky overhead. The overall mood is serene and contemplative, with a touch of wildness from the energetic flow of the stream. The composition emphasizes texture and movement, capturing the raw beauty of nature in a realistic, documentary style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:23.939738",
+  "word_count": 163,
+  "error_message": null
+}

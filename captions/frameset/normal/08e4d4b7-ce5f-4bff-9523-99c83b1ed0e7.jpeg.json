@@ -1,0 +1,12 @@
+{
+  "image_filename": "08e4d4b7-ce5f-4bff-9523-99c83b1ed0e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit, artistic workspace with a warm, muted color palette. The scene is composed with a shallow depth of field, focusing on a sleek, open laptop displaying a modern photography portfolio website. The laptop sits on a cluttered wooden desk scattered with printed photographs, suggesting a creative process in progress. To the left, a person’s hand, partially visible and dressed in a loose, beige sleeve, gently picks up a DSLR camera, hinting at a moment of inspiration or preparation. The background features a large window with a mesh screen, allowing soft, natural light to flood the space and cast gentle shadows, creating a cozy, contemplative atmosphere. The overall style is cinematic and intimate, with a slight backlight that highlights dust particles in the air and adds a sense of authenticity and lived-in charm. The camera angle is at desk level, drawing the viewer into the creative environment and emphasizing the tactile connection between the artist, their tools, and their work.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:01.753873",
+  "word_count": 160,
+  "error_message": null
+}

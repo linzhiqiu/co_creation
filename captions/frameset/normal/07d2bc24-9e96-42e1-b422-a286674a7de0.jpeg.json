@@ -1,0 +1,12 @@
+{
+  "image_filename": "07d2bc24-9e96-42e1-b422-a286674a7de0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking black-and-white portrait of a man in the foreground, wearing a wide-brimmed cowboy hat with a braided band and a patterned shirt partially visible beneath a dark leather jacket. His expression is intense and slightly enigmatic, with a subtle smirk and eyes glancing sideways, conveying a sense of confidence and intrigue. In the blurred background, a woman is partially visible, dressed in a dark, strappy top, her arms raised as if adjusting her hair, adding a sense of depth and narrative tension to the composition. The lighting is soft and even, casting gentle shadows that enhance the contours of the man's face and hat, while the background remains minimal and uncluttered, focusing attention on the subjects. The overall style is cinematic and moody, with a shallow depth of field that isolates the man as the focal point, evoking the atmosphere of a classic film noir or a modern Western.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:31.969943",
+  "word_count": 151,
+  "error_message": null
+}

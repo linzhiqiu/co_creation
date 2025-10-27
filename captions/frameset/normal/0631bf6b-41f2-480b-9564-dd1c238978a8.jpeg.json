@@ -1,0 +1,12 @@
+{
+  "image_filename": "0631bf6b-41f2-480b-9564-dd1c238978a8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary older man with a full white beard sits at a round table, deeply focused on a chessboard in front of him. He wears a muted, earth-toned plaid shirt, and his expression is intense and contemplative, with his brow furrowed in concentration. His right arm is extended, index finger poised above the chessboard as if about to make a decisive move. The chess pieces are sleek and metallic, catching the soft, diffused light that filters through the dim, modern interior. The background is out of focus, creating a shallow depth of field that isolates the man and the chessboard, emphasizing the tension and intimacy of the moment. The color palette is cool and subdued, dominated by teal and gray tones, with gentle highlights on the man’s face and hands. The overall style is cinematic, with a low, slightly off-center camera angle that draws the viewer into the psychological drama of the scene. The lighting is moody and atmospheric, casting soft shadows and enhancing the contemplative, almost suspenseful mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:57.207837",
+  "word_count": 169,
+  "error_message": null
+}

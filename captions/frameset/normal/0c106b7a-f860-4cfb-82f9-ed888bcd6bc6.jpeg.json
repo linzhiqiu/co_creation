@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c106b7a-f860-4cfb-82f9-ed888bcd6bc6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody interrogation room scene featuring two young professionals seated side by side at a table. Both are dressed in sharp, dark suits with white shirts; the man wears a striped tie, while the woman’s collar is open. They both have straight, dark hair and wear glasses, giving them an intelligent, analytical appearance. The woman is adjusting her glasses with a composed, slightly inquisitive expression, while the man sits with his hands folded, looking forward with a calm, serious demeanor. The background is dimly lit, with a single horizontal window blind casting soft, diffused light that creates dramatic shadows and a tense atmosphere. A video camera on a tripod is visible in the background, emphasizing the formal, investigative setting. The color palette is cool and desaturated, dominated by deep blues and grays, enhancing the suspenseful, noir-inspired mood. The composition is symmetrical, with a shallow depth of field that keeps the focus on the subjects, while the background remains softly blurred. The overall style is reminiscent of a modern crime thriller, with precise lighting and a sense of quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:13.646741",
+  "word_count": 180,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c1a0a95-1c0e-45b4-a2e7-de6c25a59820.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a clean, minimalist portrait of a young woman with straight, shoulder-length dark hair, standing against a seamless white background. She is wearing a casual, sporty t-shirt with bold blue and red accents and the word \"CALIFORNIA\" printed across the front. The woman is captured in a candid, natural pose, looking slightly down and to her left with a calm, focused expression. She is dispensing a small amount of product from a bottle into her open palm, suggesting a skincare or beauty routine. The lighting is soft and even, eliminating harsh shadows and highlighting her clear complexion. The overall color palette is fresh and airy, dominated by whites, blues, and subtle skin tones. The composition is centered and uncluttered, with a shallow depth of field that keeps the subject in sharp focus while the background remains smooth and distraction-free, evoking a modern, lifestyle editorial aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:12.913121",
+  "word_count": 145,
+  "error_message": null
+}

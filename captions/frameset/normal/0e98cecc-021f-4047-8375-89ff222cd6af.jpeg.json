@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e98cecc-021f-4047-8375-89ff222cd6af.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-resolution, wide-angle shot of a modern automotive factory assembly line, viewed from an elevated perspective. The scene is dominated by a series of large, bright orange industrial robotic arms, each equipped with various tools, working in synchronized motion on partially assembled white car bodies that move along a central conveyor. The robots are arranged in two parallel rows, creating a sense of depth and mechanical precision. The background reveals a spacious, well-lit industrial environment with high ceilings, metal railings, and safety barriers, all rendered in clean, neutral tones of gray and white. Overhead fluorescent lighting bathes the entire scene in a cool, even glow, highlighting the metallic surfaces and the glossy finish of the car frames. The composition emphasizes the scale and efficiency of automated manufacturing, with a focus on the repetitive, almost choreographed movements of the robotic arms. The overall style is hyper-realistic and documentary, capturing the technological sophistication and orderly complexity of a state-of-the-art production facility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:10.269427",
+  "word_count": 159,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e8bdb5b-ec10-4a40-b4e9-2d8cf6e2bd22.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a motorcycle’s side mirror dominates the frame, capturing a dynamic sense of motion. The mirror reflects a vivid, partly cloudy sky and a dense, leafless hedge, suggesting a rural landscape in late autumn or early spring. The background outside the mirror is a blur of earthy browns and muted greens, emphasizing speed and movement, as if the vehicle is racing down a country road. The color palette is natural and subdued, with soft blue and white tones in the sky, contrasted by the warm, dry hues of the landscape. The lighting is natural daylight, diffused by clouds, lending a gentle, realistic illumination to the scene. The composition uses shallow depth of field, with the mirror and its reflection in sharp focus while the surrounding environment is motion-blurred, creating a cinematic, immersive effect. The overall style is reminiscent of a road movie or travel documentary, evoking a sense of freedom, journey, and fleeting moments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:09.757633",
+  "word_count": 157,
+  "error_message": null
+}

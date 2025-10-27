@@ -1,0 +1,12 @@
+{
+  "image_filename": "1079883c-515a-4013-9210-9e8640f198ba.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone adventurer stands in a narrow, dramatic canyon, dwarfed by towering rock walls that rise steeply on either side. The figure is dressed in dark, rugged outdoor gear, with a backpack and equipment strapped to their body, suggesting a journey through challenging terrain. Their head is tilted back, gazing upward toward a sliver of bright daylight filtering down from above, illuminating dust and mist in the air. The adventurer’s posture conveys awe and determination, as if pausing to take in the grandeur and mystery of the landscape.\n\nThe canyon walls are textured and weathered, their surfaces catching warm, golden sunlight that creates striking contrasts of light and shadow. The color palette is dominated by earthy browns and ochres, with shafts of sunlight introducing vibrant yellows and soft blues from the sky above. The lighting is cinematic, with high contrast and a sense of depth, emphasizing the scale and verticality of the scene.\n\nThe composition is vertical, with the camera positioned low and behind the subject, looking upward to accentuate the height of the canyon and the smallness of the human figure within it. The overall style is atmospheric and immersive, evoking a sense of exploration and wonder, reminiscent of adventure films or nature documentaries. The mood is both tense and awe-inspiring, capturing the raw beauty and isolation of the natural world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:48.427889",
+  "word_count": 222,
+  "error_message": null
+}

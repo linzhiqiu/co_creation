@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e79cbbc-9414-47a7-ad61-4c6d66a07ed1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a wide-angle, cinematic scene set in a modern, minimalist hospital cafeteria during the daytime. The room is spacious and filled with natural light streaming in through large floor-to-ceiling windows that reveal a distant city skyline, slightly hazy in the background. The color palette is muted and cool, dominated by whites, grays, and soft beiges, with subtle reflections on the polished floor. \n\nThe cafeteria is sparsely populated with people sitting at white tables and chairs, arranged in a loose, informal pattern. The figures are a mix of hospital staff in white coats and everyday visitors or patients in casual clothing, all engaged in quiet, subdued activities—some eating, some talking in low voices, others sitting alone and contemplative. The overall mood is calm, introspective, and slightly somber, with a sense of stillness and routine.\n\nThe composition is symmetrical, with the camera positioned at a low, eye-level angle facing the windows, creating a sense of depth and drawing the viewer’s gaze toward the light outside. The lighting is soft and diffuse, with gentle shadows and a slight overexposure near the windows, enhancing the tranquil, almost sterile atmosphere. The ceiling features a recessed light panel, adding a subtle geometric element to the scene. The overall style is reminiscent of a contemplative drama film, with a focus on realism, quiet emotion, and understated detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:08.595568",
+  "word_count": 221,
+  "error_message": null
+}

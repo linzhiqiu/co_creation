@@ -1,0 +1,12 @@
+{
+  "image_filename": "07421774-5246-4bec-bb10-bf833b8f44e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, clinical interrogation scene set in a stark, futuristic laboratory. The composition centers on a disheveled, older man with wild, unkempt hair and a distressed expression, seated at a metal table. He wears a gray, institutional straitjacket, emphasizing his vulnerability and confinement. Across the table, three men in pristine white uniforms stand in a semi-circle, their postures rigid and authoritative, exuding an air of control and scrutiny. One of them, distinguished by a white lab coat and red tie, leans forward with intense focus, suggesting a figure of authority or a lead scientist. The other two, bald and expressionless, stand upright, their hands clasped behind their backs, reinforcing the sense of clinical detachment.\n\nOn the table between them sits a brightly colored, geometric puzzle cube, its vivid reds, blues, and yellows providing a stark contrast to the otherwise muted, cold color palette dominated by whites, grays, and metallic tones. The background features glass walls and a grid-like ceiling, bathed in harsh, fluorescent lighting that casts sharp reflections and deepens the sterile, oppressive atmosphere. The camera angle is slightly low and wide, capturing the power dynamic and psychological tension of the scene. The overall style is reminiscent of a high-concept science fiction thriller, with a focus on psychological drama, authority, and the dehumanizing effects of scientific experimentation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:21.865644",
+  "word_count": 217,
+  "error_message": null
+}

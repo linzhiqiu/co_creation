@@ -1,0 +1,12 @@
+{
+  "image_filename": "0823e4f5-8d91-4b41-8e39-1e2f26aa9f0c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern touchscreen interface inside a vehicle or office environment, with a human hand in the act of selecting an app icon. The screen displays a grid of colorful application tiles, each with distinct icons and labels, such as \"USB,\" \"Print and Scan for Dropbox,\" \"Xerox Easy Translator Service,\" and \"PrintByXerox.\" The finger, slightly out of focus in the foreground, is poised just above the \"PrintByXerox\" icon, suggesting an imminent tap. The lighting is soft and natural, likely from a nearby window, casting gentle highlights and subtle reflections on the glossy surface of the screen. The color palette is dominated by cool blues, purples, and neutral grays, with pops of color from the app icons. The background is intentionally blurred, drawing attention to the interaction and the digital interface. The overall style is clean, modern, and functional, with a shallow depth of field and a documentary, real-world feel, as if capturing a candid moment of technology in everyday use.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:43.858803",
+  "word_count": 163,
+  "error_message": null
+}

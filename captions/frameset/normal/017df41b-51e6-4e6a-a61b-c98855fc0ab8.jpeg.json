@@ -1,0 +1,12 @@
+{
+  "image_filename": "017df41b-51e6-4e6a-a61b-c98855fc0ab8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, night-time scene viewed through a circular vignette, as if seen through a camera lens or a peephole. Center the composition on a single, glowing red police siren light, its translucent dome illuminated from within, casting a soft, pinkish-red glow. The siren sits atop a vehicle, with its metallic base subtly reflecting the light. In the blurred background, a city street stretches into the distance, dotted with bokeh lights from street lamps and distant cars, creating a dreamy, out-of-focus effect. The color palette is dominated by deep blacks, muted purples, and vibrant reds, with the siren’s light providing the primary source of illumination. The overall mood is mysterious and slightly tense, evoking a sense of anticipation or urgency. The style is reminiscent of neo-noir cinematography, with a shallow depth of field, soft focus, and a strong emphasis on atmospheric lighting and visual contrast.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:12.367666",
+  "word_count": 145,
+  "error_message": null
+}

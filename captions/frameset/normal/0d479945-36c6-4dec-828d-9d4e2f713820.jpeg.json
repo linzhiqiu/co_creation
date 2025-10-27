@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d479945-36c6-4dec-828d-9d4e2f713820.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, overhead shot of a Scrabble board, focusing tightly on a single word spelled out in dark red letter tiles: \"DIGNITY.\" The tiles are arranged horizontally across the center of the frame, each letter clearly visible with its corresponding point value. The board itself is a muted beige with a grid of squares, some marked with blue labels indicating \"DOUBLE LETTER SCORE\" and \"TRIPLE LETTER SCORE.\" The lighting is soft and even, creating minimal shadows and emphasizing the clean, orderly arrangement of the tiles. The composition is precise and symmetrical, with the word \"DIGNITY\" serving as the visual anchor. The overall mood is contemplative and understated, evoking a sense of quiet importance and focus on the meaning of the word. The color palette is subdued, dominated by the contrast between the deep red of the tiles and the cool blue of the score markers, set against the neutral background of the board. The style is realistic and unembellished, reminiscent of a cinematic still from a drama, with a shallow depth of field that keeps the viewer’s attention on the central word.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:39.232136",
+  "word_count": 182,
+  "error_message": null
+}

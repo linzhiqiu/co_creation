@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_68527766.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, close-up portrait of a young woman with straight, dark hair partially obscuring her face, her expression intense and enigmatic. Her skin is pale with visible freckles, and her striking blue eyes are sharply in focus, reflecting vibrant neon lights. The composition is intimate, with the subject’s face filling most of the frame, and one eye positioned at the center, drawing the viewer’s attention. \n\nSurround the subject with a dreamy, ethereal atmosphere created by out-of-focus, multicolored bokeh lights in shades of pink, magenta, and soft orange, which dominate the foreground and background. The lighting is soft yet vivid, casting a surreal glow across her features and enhancing the reflective quality of her eyes. The background is abstract, blurred, and filled with luminous orbs, suggesting a city at night or a futuristic setting.\n\nThe overall style is modern and artistic, with a shallow depth of field and a slightly grainy, film-like texture. The camera angle is straight-on, emphasizing the emotional intensity and mystery of the subject. The mood is moody, introspective, and slightly otherworldly, blending elements of cyberpunk and contemporary portrait photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:13:47.808161",
+  "word_count": 183,
+  "error_message": null
+}

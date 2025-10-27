@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cb70ead-f9bd-4312-bb8f-8fba40e51b61.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, close-up shot of a modern car dashboard speedometer, with the digital display prominently showing the number \"220\" in bold, white, futuristic font at the center. The background glows with a deep red gradient, giving a sense of speed and intensity. Flanking the central number, include stylized, semi-circular gauge markings in white and blue, suggesting high velocity. At the top, display a digital clock reading \"01:40\" on the left and an outside temperature of \"13°C\" on the right, both in crisp, white text. At the bottom, add small, illuminated icons for engine temperature and fuel level, with the fuel gauge needle pointing towards empty. The overall color palette should feature strong contrasts: vivid reds, cool blues, and bright whites, with subtle reflections and a glossy finish to evoke a high-tech, cinematic feel. Use shallow depth of field to keep the focus sharp on the speedometer, with the surrounding dashboard elements slightly blurred, enhancing the sense of motion and urgency. The lighting should be dramatic, with the display glowing against a dark, shadowy background, capturing the adrenaline and precision of high-speed driving.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:27.505188",
+  "word_count": 183,
+  "error_message": null
+}

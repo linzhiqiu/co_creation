@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f38da1f-44a9-4e87-9d09-680a49473c4a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic, cinematic close-up shot of a bright yellow Lamborghini Huracán in motion, captured from a low front angle that emphasizes the car’s aggressive lines and aerodynamic design. The focus is on the sharp, angular headlights with their distinctive LED pattern, and the sleek, sculpted hood reflecting subtle hints of the surrounding environment. The background is softly blurred, suggesting high speed and movement, with hints of greenery and road visible but out of focus, enhancing the sense of velocity. The lighting is natural and slightly overcast, lending a soft, diffused quality to the scene and allowing the vibrant yellow paint to stand out vividly against the muted backdrop. The overall style is modern and luxurious, with a shallow depth of field that keeps the car crisp and detailed while the background melts away, evoking the feel of a high-end automotive commercial or a scene from a contemporary action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:25.208975",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "07ba730f-f11c-4437-a051-3e52f4c7bbe5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, symmetrical aerial view of a sprawling highway interchange, designed with a kaleidoscopic, geometric pattern radiating from the center. The scene features multiple wide lanes filled with small, evenly spaced cars traveling in both directions, their colors predominantly white, gray, and black, contributing to a muted, urban color palette. The roads intersect at sharp angles, forming a starburst or asterisk-like composition, with each segment mirroring the others perfectly, emphasizing the sense of order and repetition. The background is dark, possibly representing dense foliage or shadowed ground, which contrasts with the pale concrete of the highways. The lighting is diffuse and even, suggesting an overcast day, with no harsh shadows, allowing the intricate structure and flow of traffic to stand out crisply. The overall style is hyperrealistic with a touch of surrealism due to the impossible, mirrored symmetry, evoking a sense of both urban complexity and abstract art. The camera angle is directly overhead, creating a flat, graphic perspective with deep focus, ensuring every detail of the pattern and vehicles is sharp and clear.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:33.027704",
+  "word_count": 176,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "00c1ceac-409b-4a1a-8cef-7ea4c70957e4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet suburban street on an overcast day, with soft, diffused natural lighting that creates a calm, slightly melancholic mood. The scene is composed with a wide-angle lens, capturing a gentle slope of the road that leads the viewer’s eye toward the distant, misty blue mountains and a body of water on the horizon. In the foreground, a maroon sedan is parked at the curb, slightly off-center, with a person partially visible beside the car, their figure mostly obscured by the vehicle. The houses lining the street are mid-century suburban homes, featuring manicured lawns, neatly trimmed hedges, and a mix of green and brown tones in the landscaping. The sky is overcast, casting a cool, muted color palette dominated by grays, greens, and soft earth tones. The overall style is realistic and cinematic, with a sense of stillness and everyday normalcy, evoking a contemplative, almost nostalgic atmosphere. The camera is positioned at street level, providing a natural perspective and a sense of quiet observation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:57.988775",
+  "word_count": 164,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e4a58e5-8113-4f09-a712-45c4397c97ac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man with a neatly trimmed beard and short brown hair sits in a cozy, softly lit café, holding a small white espresso cup with a blue stripe near his lips. He wears a casual, buttoned-up plaid shirt in warm earth tones, and his expression is animated, as if he is mid-conversation, eyebrows slightly raised and mouth open in a lively, engaged manner. The background is softly blurred, featuring warm ambient lighting from a table lamp, hints of framed artwork, and a window that lets in natural daylight, creating a gentle interplay of warm and cool tones. The overall color palette is inviting, with rich browns, soft oranges, and muted greens, evoking a relaxed, intimate atmosphere. The camera angle is at eye level, with a shallow depth of field that keeps the focus on the subject while subtly suggesting the bustling yet tranquil environment of the café. The composition feels cinematic, capturing a candid, authentic moment of social interaction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:01.314307",
+  "word_count": 160,
+  "error_message": null
+}

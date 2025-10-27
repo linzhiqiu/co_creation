@@ -1,0 +1,12 @@
+{
+  "image_filename": "07e7fd4d-7ccc-4f6b-b232-525ebe70e6ef.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a rough, earthy surface, possibly a forest floor or a patch of disturbed ground. The composition is tight and intimate, with the camera angled low and close to the ground, emphasizing the texture of broken wood, splintered bark, and loose soil. The color palette is dominated by muted browns, grays, and earthy tones, creating a somber, naturalistic mood. Lighting is diffuse and soft, suggesting an overcast sky or shaded environment, with minimal shadows and a subdued, realistic atmosphere. The focus is sharp on the central area of the ground, highlighting the intricate details of the debris and organic matter, while the edges of the frame fall off into a gentle blur, enhancing the sense of depth and drawing the viewer’s eye to the disturbed earth. The overall style is gritty and immersive, evoking a sense of recent activity or impact, as if something significant has just occurred at this spot. The image conveys a quiet tension and invites curiosity about the unseen events that led to this moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:37.008254",
+  "word_count": 173,
+  "error_message": null
+}

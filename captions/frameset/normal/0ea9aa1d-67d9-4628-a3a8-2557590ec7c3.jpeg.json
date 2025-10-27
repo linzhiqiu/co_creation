@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ea9aa1d-67d9-4628-a3a8-2557590ec7c3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an extreme close-up portrait of a young man with medium brown skin, short curly hair, and a slight mustache and goatee. He is captured mid-expression, with one eye tightly shut and his mouth partially open, as if reacting to a sudden bright light or an unexpected sensation. His skin glistens with sweat, highlighting the texture and contours of his face, and giving a sense of exertion or intensity. The background is deep black, fading into darkness, which isolates the subject and draws all attention to his facial features and expression. The lighting is dramatic and directional, coming from above and slightly to the side, casting subtle shadows and accentuating the moisture on his skin. The color palette is naturalistic, with warm skin tones contrasting against the cool, shadowy backdrop. The overall style is cinematic and intimate, with a shallow depth of field that keeps the focus razor-sharp on the subject’s face while the background remains completely blurred. The composition is tight, filling the frame with the subject’s face to create a sense of immediacy and emotional impact.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:20.455300",
+  "word_count": 178,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e996395-7f81-48cb-b3c9-04d55e71e248.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, moody scene set at the base of a wide staircase inside a modern architectural structure. The composition is framed from a low angle, looking up the stairs toward a large, geometric glass ceiling that fills the background with natural, diffused daylight. The ceiling features striking, angular metal beams and repeating patterns, creating a sense of depth and symmetry. In the foreground, the lower half of the image is shrouded in deep shadow, with the silhouettes of four people: two figures on the left, one standing alone and another slightly behind, and a couple on the right, facing each other in quiet conversation. At the top of the stairs, two people dressed in light-colored clothing ascend side by side, their forms illuminated by the soft, cool light from above. The overall color palette is subdued, dominated by cool blues, grays, and muted whites, enhancing the contemplative, almost mysterious atmosphere. The lighting is natural but low-key, with strong contrasts between the dark interior and the bright exterior. The style is reminiscent of a dramatic film still, with careful attention to composition, negative space, and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:13.507123",
+  "word_count": 191,
+  "error_message": null
+}

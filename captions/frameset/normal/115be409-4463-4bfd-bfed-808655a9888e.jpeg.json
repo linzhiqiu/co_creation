@@ -1,0 +1,12 @@
+{
+  "image_filename": "115be409-4463-4bfd-bfed-808655a9888e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, contemplative outdoor scene featuring a young man with short hair, seated and deeply focused on drawing or writing on a digital tablet with a stylus. He wears a fitted, deep red t-shirt and dark pants, his posture slightly hunched in concentration. The background is softly blurred, filled with lush, sun-dappled greenery and out-of-focus tree branches, evoking a tranquil, natural setting. The lighting is warm and diffused, suggesting late afternoon or early evening, with gentle sunlight filtering through the leaves and casting a soft glow on the subject’s face and arms. The composition is intimate, shot from a side angle at eye level, with a shallow depth of field that keeps the man and his activity in sharp focus while the background melts into a dreamy bokeh. The overall mood is peaceful and introspective, with a rich, earthy color palette and a subtle cinematic quality reminiscent of a quiet moment in an indie film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:06.123358",
+  "word_count": 156,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0592510e-bf5e-4ed4-bf3e-7163a1790db4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a computer screen displaying JavaScript code in a retro, hacker-style aesthetic. The code is written in white monospaced font against a dark blue background with subtle horizontal scanlines, evoking the look of an old CRT monitor. The script demonstrates how to display the current date and time in various formats, with comments and output examples aligned neatly. The lighting is cool and subdued, emphasizing the glow of the screen and creating a focused, tech-centric atmosphere. The composition is tight, filling the frame with the code and omitting any extraneous elements, immersing the viewer in a vintage digital environment. The overall style is reminiscent of classic cyberpunk films, with a cinematic sense of depth and a slightly blurred, analog texture that enhances the nostalgic, high-tech mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:38.410019",
+  "word_count": 129,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0091e346-9042-475b-930a-2edaf89d78e3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary red car travels along a long, empty two-lane road cutting through a stark winter landscape, captured from a high aerial perspective. On one side of the road, a winding, partially frozen stream meanders through a patchwork of snow-covered ground and bare earth, with scattered leafless trees and brush creating organic, irregular patterns. The other side of the road is dominated by a dense, dark forest, its trees forming a nearly solid mass of shadowy black and deep green, contrasting sharply with the brightness of the snow. The overall color palette is cold and muted, with icy whites, pale browns, and deep, inky greens, punctuated by the vivid red of the car. The lighting is diffuse and overcast, casting a soft, melancholic mood over the scene. The composition emphasizes the isolation and scale of the landscape, with the road running vertically through the frame and the car appearing small and vulnerable within the vast, wintry expanse. The style is cinematic and atmospheric, evoking a sense of quiet solitude and introspection, with a strong sense of depth and natural texture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:53.979666",
+  "word_count": 180,
+  "error_message": null
+}

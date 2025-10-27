@@ -1,0 +1,12 @@
+{
+  "image_filename": "0789d00f-863f-4e94-9aca-9f16188e2bf9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic close-up of a red lipstick and a brown cigar, both suspended mid-air against a softly lit, smoky background. Warm, golden light creates dramatic shadows and a moody, mysterious atmosphere. The focus is sharp on the objects, with a shallow depth of field and subtle dust particles floating in the air.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:22.374659",
+  "word_count": 52,
+  "error_message": null
+}

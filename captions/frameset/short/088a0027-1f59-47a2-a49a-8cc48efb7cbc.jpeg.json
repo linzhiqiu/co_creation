@@ -1,0 +1,12 @@
+{
+  "image_filename": "088a0027-1f59-47a2-a49a-8cc48efb7cbc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, cyberpunk scene featuring a barefoot woman suspended mid-air, entangled in biomechanical cables. She wears dark, form-fitting attire with metallic elements. The background glows with purple neon X-shaped lights, casting dramatic shadows. The atmosphere is moody, with deep purples and blues, evoking a surreal, sci-fi aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:48.851459",
+  "word_count": 47,
+  "error_message": null
+}

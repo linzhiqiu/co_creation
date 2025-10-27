@@ -1,0 +1,12 @@
+{
+  "image_filename": "034b7bb7-9854-4649-b4ed-6a92f5d33913.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman jogs alone down a narrow, urban alleyway flanked by tall, red-brick buildings. She wears a white tank top and dark, patterned leggings, her hair pulled back, and her expression is focused and determined. The alley is lined with black metal fire escapes and scattered graffiti, adding a gritty, authentic city atmosphere. Overhead, a glass-enclosed skybridge connects the buildings, casting geometric shadows on the scene below. The lighting is soft and diffused, suggesting early morning or late afternoon, with sunlight filtering through the high-rise buildings in the background. The color palette is dominated by warm brick reds, deep shadows, and cool blue-gray highlights, creating a cinematic, almost painterly effect. The camera angle is low and slightly tilted upward, emphasizing the height of the buildings and the sense of urban isolation, while a shallow depth of field keeps the runner sharply in focus against the blurred architectural backdrop. The overall mood is dynamic and introspective, capturing a moment of solitary determination in a bustling cityscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:55.037745",
+  "word_count": 166,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "03447684-f5e0-4c50-a0f0-99725bc233dc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA realistic, eye-level photograph of a fast food drive-thru menu board, prominently featuring a variety of colorful food and drink options. The menu is divided into several sections, including \"Treats,\" \"Drinks,\" \"Combos,\" and \"Blizzard Menu,\" each with detailed images of ice cream sundaes, shakes, soft drinks, burgers, fries, and signature desserts. The menu items are illustrated with bright, appetizing photos and bold, easy-to-read text in a mix of blue, white, and pastel backgrounds, creating a cheerful and inviting atmosphere. The menu board is framed by a clean, modern structure with a white overhang and red and blue trim, evoking a classic American fast food aesthetic. The lighting is natural and diffuse, suggesting an overcast day, with soft shadows and even illumination that makes the menu details clearly visible. The overall composition is symmetrical and straightforward, focusing attention on the menu itself, with no people present and minimal background distractions, capturing the anticipation and simplicity of ordering at a drive-thru.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:48.814505",
+  "word_count": 160,
+  "error_message": null
+}

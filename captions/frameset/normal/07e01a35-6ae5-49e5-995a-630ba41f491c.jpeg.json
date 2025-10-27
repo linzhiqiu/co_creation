@@ -1,0 +1,12 @@
+{
+  "image_filename": "07e01a35-6ae5-49e5-995a-630ba41f491c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, minimalist corridor scene viewed from a low, central perspective, evoking a sense of infinite depth and disorientation. The corridor is starkly geometric, with perfectly straight lines and sharp angles, its walls and floor rendered in smooth, matte white. Along both sides, evenly spaced, dark rectangular panels or doors recede into the distance, their glossy surfaces reflecting faint, diffused light. The entire scene is bathed in a cool, bluish-white hue, with soft, ambient lighting that creates a dreamlike, almost clinical atmosphere. The image should have a strong sense of symmetry and vanishing point perspective, drawing the viewer’s eye toward the far end of the corridor, which fades into a misty, ethereal glow. The overall style is cinematic and futuristic, reminiscent of classic science fiction films, with a clean, uncluttered composition and a subtle, otherworldly mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:37.088231",
+  "word_count": 138,
+  "error_message": null
+}

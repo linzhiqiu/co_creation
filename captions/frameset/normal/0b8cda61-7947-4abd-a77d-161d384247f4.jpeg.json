@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b8cda61-7947-4abd-a77d-161d384247f4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a modern car’s dashboard and infotainment system, focusing on the center console display. The screen shows a high-resolution rearview camera feed with a parallel parking assist interface, including a top-down view of the vehicle and highlighted parking guidelines. The driver’s left hand is visible gripping the steering wheel, suggesting active engagement in the parking process. The dashboard features sleek, matte black and metallic finishes, with tactile buttons and dials for climate and audio controls. The lighting is natural and bright, indicating daytime, with soft sunlight streaming through the windshield and casting gentle highlights on the surfaces. The overall color palette is composed of neutral tones—blacks, grays, and silvers—contrasted by the vibrant, digital colors of the display. The composition is tight and immersive, with a shallow depth of field that keeps the focus on the screen and the driver’s hand, subtly blurring the background for a sense of intimacy and concentration. The mood is modern, precise, and slightly tense, capturing the technological sophistication and real-world utility of advanced driver assistance systems.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:03.942532",
+  "word_count": 175,
+  "error_message": null
+}

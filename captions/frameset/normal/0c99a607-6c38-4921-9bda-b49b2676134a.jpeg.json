@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c99a607-6c38-4921-9bda-b49b2676134a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A quiet, rural bridge leads into a small Italian village nestled in a lush, green valley. The scene is set in early spring, with soft, natural daylight illuminating the landscape and casting gentle shadows. The bridge, made of weathered stone and iron railings, stretches from the foreground into the midground, guiding the viewer’s eye toward a cluster of rustic buildings with faded, red-tiled roofs. To the right, a large, vintage sign reads “MARZABOTTO,” marking the entrance to the village. The background is dominated by rolling, forested hills under a pale, slightly overcast sky, creating a tranquil and slightly nostalgic atmosphere. The color palette is muted and earthy, with subdued greens, browns, and grays, evoking a sense of timelessness and quietude. The composition is balanced, with the bridge and sign anchoring the right side, while the village and hills provide depth and context. The overall style is cinematic and naturalistic, reminiscent of classic European films, with a wide-angle perspective and a soft, almost painterly quality to the light and colors.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:23.553743",
+  "word_count": 169,
+  "error_message": null
+}

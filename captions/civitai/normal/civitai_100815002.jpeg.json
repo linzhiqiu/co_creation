@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_100815002.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, futuristic cityscape at sunset, rendered in a highly detailed, painterly style reminiscent of concept art or graphic novels. The scene is dominated by a sleek, white bullet train speeding along elevated tracks in the foreground, its streamlined form catching the warm, golden-pink light of the setting sun. Towering skyscrapers with organic, rounded shapes and intricate, layered architecture rise in the background, interspersed with lush greenery and rooftop gardens that cascade down terraces and platforms. The sky is a dramatic blend of pastel pinks, oranges, and blues, with wispy clouds and distant contrails arcing overhead, adding a sense of motion and dynamism. The overall color palette is rich and saturated, with cool turquoise and teal tones contrasting against the warm hues of the sky. The composition uses a wide-angle perspective, creating a sense of depth and scale, while the lighting bathes the entire scene in a soft, cinematic glow. The mood is optimistic and energetic, evoking a harmonious blend of advanced technology and nature in a utopian urban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:39:12.115155",
+  "word_count": 170,
+  "error_message": null
+}

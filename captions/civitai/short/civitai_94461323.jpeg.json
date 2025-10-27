@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_94461323.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A whimsical, minimalist illustration featuring three stylized cats: a large black cat with wide eyes falling backward in the foreground, a white cat leaping joyfully in a pixelated, vibrant yellow field with cows at mid-frame, and a small black cat above. The composition blends digital glitch effects with playful, surreal energy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:27:48.271011",
+  "word_count": 51,
+  "error_message": null
+}

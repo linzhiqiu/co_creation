@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cd79ccd-5e25-4c11-a63d-c29207650f32.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, eye-level shot of a refrigerator door covered with an eclectic collage of photographs, notes, and magnets. The scene is bathed in soft, natural daylight, creating a warm and inviting atmosphere. The color palette is vibrant yet balanced, with pops of red, blue, yellow, and green from the magnets and photos, set against the cool metallic gray of the fridge. \n\nThe photographs feature candid, joyful moments: a dog leaping into a pool, a man affectionately holding a dog, a group of friends posing together, a child playing soccer with a dog, and a child in a construction helmet holding a stop sign. Each image radiates a sense of nostalgia and familial warmth. Scattered among the photos are handwritten notes, a postcard, a calendar, and a printed schedule, all attached with colorful, mismatched magnets—some shaped like animals or objects, adding a playful touch.\n\nThe composition is slightly cluttered but thoughtfully arranged, evoking the lived-in feel of a family home. The background is softly blurred, focusing attention on the fridge and its contents, with a hint of a sunlit window and kitchen elements visible at the edges, enhancing the domestic setting. The overall style is naturalistic and documentary-like, with a shallow depth of field that draws the viewer into the intimate details of everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:31.768291",
+  "word_count": 214,
+  "error_message": null
+}

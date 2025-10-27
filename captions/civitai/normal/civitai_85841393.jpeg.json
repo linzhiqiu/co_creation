@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_85841393.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a bold, satirical propaganda poster in the style of mid-20th-century American political art, using a limited color palette of red, beige, blue, and black. The upper half of the image features a menacing, metallic humanoid robot with glowing red eyes and exposed mechanical parts, reminiscent of a classic science fiction cyborg. The robot is positioned in front of a stylized American flag, its expression cold and emotionless, evoking both power and threat. Above the robot, large, capitalized text reads: \"HOW SKYNET COULD HELP MAKE AMERICA GREAT AGAIN,\" with \"GREAT AGAIN\" highlighted in bright red for emphasis.\n\nThe lower half of the poster is divided into four equal panels, each with a bold icon and slogan. The first panel shows a missile and shield icon with the words \"BOOST DEFENSE.\" The second panel features a robotic arm assembling machinery, labeled \"CREATE JOBS.\" The third panel displays a police badge and baton, captioned \"FIGHT CRIME.\" The fourth panel depicts a watchtower and barbed wire, titled \"PROTECT BORDER.\" The overall composition is clean and symmetrical, with strong lines and high contrast, evoking a sense of urgency and authority. The lighting is flat and graphic, enhancing the poster’s retro-futuristic, dystopian mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:23:50.801970",
+  "word_count": 198,
+  "error_message": null
+}

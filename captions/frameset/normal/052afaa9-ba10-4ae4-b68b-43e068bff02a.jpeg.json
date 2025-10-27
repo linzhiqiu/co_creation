@@ -1,0 +1,12 @@
+{
+  "image_filename": "052afaa9-ba10-4ae4-b68b-43e068bff02a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody scene set in a dimly lit storage room, with a single, focused spotlight illuminating a bright yellow industrial vacuum cleaner placed at the center of the composition. The vacuum’s coiled hose and attachments are artfully arranged, casting soft, dramatic shadows on the dusty concrete floor. Surrounding the vacuum, the background fades into darkness, revealing only hints of stacked cardboard boxes, a yellow caution sign, and various indistinct storage items, all rendered in muted browns and grays. The lighting is low-key, with a strong chiaroscuro effect that emphasizes the vacuum as the central subject, creating a sense of isolation and quiet suspense. The overall color palette is dominated by deep shadows, warm yellows, and subtle earth tones, evoking a mysterious, almost cinematic atmosphere. The camera angle is slightly low and centered, with a shallow depth of field that keeps the focus on the vacuum while the background remains softly blurred, enhancing the sense of depth and intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:33.280433",
+  "word_count": 159,
+  "error_message": null
+}

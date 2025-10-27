@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f72d349-29aa-49c5-93e1-078d7dfa7dc8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic, cinematic scene set in a modernist home with large glass windows overlooking a lush, sunlit garden. In the foreground, a humanoid robot with a sleek, reflective chrome exoskeleton stands at a minimalist wooden bar, its posture contemplative as it gazes outside. The robot’s design is intricate and highly polished, with smooth, curved surfaces that catch the warm, ambient light from a retro-style lamp with spherical bulbs. On the bar, several half-finished cocktails and glasses add a sense of recent human presence and casual sophistication.\n\nThrough the expansive window, the background reveals a serene garden bathed in soft daylight, with two human figures—one in a red dress and the other in casual attire—engaged in conversation near a white circular table and chairs. The garden is lush and slightly out of focus, creating a dreamy, almost nostalgic atmosphere. The color palette is a harmonious blend of warm golds and cool greens, with the metallic sheen of the robot providing a striking contrast. The overall style is reminiscent of high-end sci-fi cinema, with a shallow depth of field, naturalistic lighting, and a carefully composed frame that balances intimacy and futuristic intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:30.667218",
+  "word_count": 190,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_51022050.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly realistic scene set in a modern airport security checkpoint, featuring a humanoid robot with a sleek, metallic face and articulated limbs, dressed in a flowing, floral summer dress. The robot stands out as it walks through a metal detector, surrounded by uniformed security officers who watch it closely with a mix of curiosity and caution. The officers wear standard-issue khaki shirts with badges and dark trousers, some holding radios or notepads, their expressions serious and attentive. The background is bustling with travelers and airport staff, slightly blurred to emphasize the central action. The lighting is bright and clinical, typical of an airport interior, with cool tones and sharp clarity. The composition uses a shallow depth of field to focus on the robot and the immediate security team, while the rest of the scene fades softly. The overall style is cinematic and hyper-realistic, capturing a moment of tension and intrigue, blending elements of science fiction with everyday realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:04:57.072142",
+  "word_count": 159,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "09aa1be4-767c-4a5d-98b4-e8d867884cfd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a smartphone in mid-fall, captured at the precise moment it strikes the hard, glossy floor at an angle. The phone is encased in a clear protective case, and its screen is illuminated, displaying a blurred, partially visible image—suggesting motion or a disrupted video call. The background is softly out of focus, with hints of dark furniture and subtle, diffused lighting that creates a dramatic, high-contrast atmosphere. The color palette is cool and subdued, dominated by deep blues, grays, and blacks, with a few warm highlights reflecting off the floor. The composition emphasizes the tension and fragility of the moment, with the phone slightly off-center and its shadow cast crisply beneath it. The shallow depth of field and low camera angle evoke a sense of immediacy and suspense, as if time has slowed to capture the critical instant before impact. The overall style is realistic yet cinematic, reminiscent of a dramatic scene in a contemporary film where a pivotal event is about to unfold.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:19.253443",
+  "word_count": 168,
+  "error_message": null
+}

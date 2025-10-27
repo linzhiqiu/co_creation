@@ -1,0 +1,12 @@
+{
+  "image_filename": "096f0996-c1f5-4569-b331-5e35716b1770.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary white car drives along a narrow, muddy track that cuts through a vast, open expanse of green grassland. The scene is captured from a high, almost top-down aerial perspective, emphasizing the isolation of the vehicle within the wide, empty landscape. The car is positioned off-center, moving away from the viewer, leaving two distinct tire tracks in the soft earth. The grass is a muted, natural green, dotted with small patches of darker vegetation and subtle variations in texture. To the right, a single, thin utility pole stands, its shadow faintly visible on the ground, adding a sense of scale and loneliness. The lighting is soft and diffuse, suggesting an overcast sky, which lends the image a subdued, contemplative mood. The overall color palette is earthy and restrained, dominated by greens and browns, with the white car providing a stark contrast. The composition is minimalist, with a strong sense of negative space, evoking themes of solitude, journey, and the quiet beauty of open landscapes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:13.760916",
+  "word_count": 165,
+  "error_message": null
+}

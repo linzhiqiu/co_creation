@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ce6df20-650b-4a2f-a03a-348cdb346f3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic interrogation scene set in a dimly lit, minimalist room. Two men sit across from each other at a long, narrow table, their postures rigid and expressions serious, suggesting a psychological standoff. The man on the left is dressed in all black, exuding a calm, controlled demeanor, while the man on the right wears a crisp white shirt and light trousers, his body language slightly defensive yet composed. Both have short, neatly styled hair. Between them, the table is bare except for two identical glasses of water and a single closed folder, emphasizing the starkness of the setting.\n\nAbove the table, a single industrial pendant lamp casts a focused pool of light, creating dramatic shadows and highlighting the tension between the two figures. The background is dominated by a large evidence board covered with photographs and documents, pinned and connected by strings, hinting at a complex investigation. The color palette is cool and desaturated, with deep blues and grays dominating the scene, punctuated by the contrasting black and white of the characters’ clothing. The lighting is low-key and moody, with high contrast and sharp edges, reminiscent of neo-noir or crime thriller cinematography. The camera angle is wide and symmetrical, placing both subjects at opposite ends of the frame and emphasizing the psychological distance between them. The overall style is sleek, modern, and suspenseful, with a strong sense of narrative tension and visual clarity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:34.067013",
+  "word_count": 235,
+  "error_message": null
+}

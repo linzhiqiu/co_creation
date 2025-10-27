@@ -1,0 +1,12 @@
+{
+  "image_filename": "00cb431f-a326-443d-8208-3b5889721c81.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dynamic, cinematic shot looking straight up at a quadcopter drone hovering in the sky, its propellers slightly blurred to convey motion. The drone is centered in the frame, with protective guards around each rotor, and its dark silhouette contrasts against a clear blue sky with a few wispy clouds. On the left edge of the image, the corner of a tall urban building is visible, rendered in warm beige tones, while on the right, a modern streetlamp and a metal pole angle into the frame, adding depth and a sense of city environment. The lighting is bright and natural, suggesting midday, with crisp shadows and a high level of detail. The overall style is sharp and realistic, with a shallow depth of field that keeps the drone in sharp focus while the background elements are slightly softened, evoking a sense of scale and urban atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:53.190843",
+  "word_count": 147,
+  "error_message": null
+}

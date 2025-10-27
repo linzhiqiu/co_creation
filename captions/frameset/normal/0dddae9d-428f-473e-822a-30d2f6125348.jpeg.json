@@ -1,0 +1,12 @@
+{
+  "image_filename": "0dddae9d-428f-473e-822a-30d2f6125348.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A long, sterile hallway in a modern office or hotel, rendered in cool, muted tones of gray, white, and soft beige. The corridor is lined with closed wooden doors and illuminated by evenly spaced, minimalist wall sconces and hanging ceiling lights, casting a diffused, clinical glow. The walls are bare, emphasizing the impersonal, almost institutional atmosphere. In the midground, a solitary man in a dark suit and overcoat walks purposefully toward the camera, his posture upright and determined, while a second, more shadowy figure stands near a doorway on the left, partially obscured and facing the approaching man. The composition uses a deep focus and a centered, symmetrical perspective, drawing the viewer’s eye down the length of the corridor and heightening the sense of anticipation and tension. The overall mood is quiet, suspenseful, and cinematic, evoking the visual language of psychological thrillers or neo-noir films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:52.051289",
+  "word_count": 145,
+  "error_message": null
+}

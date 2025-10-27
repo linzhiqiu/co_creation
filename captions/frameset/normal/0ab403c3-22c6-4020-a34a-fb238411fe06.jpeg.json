@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ab403c3-22c6-4020-a34a-fb238411fe06.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA breathtaking, cinematic view of planet Earth as seen from outer space, with the camera positioned just above the planet’s curvature, capturing the upper hemisphere. The composition emphasizes the gentle arc of the horizon, with the sun illuminating the top edge of the atmosphere, creating a glowing blue halo that fades into the deep blackness of space. The surface of the Earth is partially shrouded in shadow, with swirling white clouds and hints of land and ocean visible beneath a soft, diffused light. The color palette is dominated by rich blues, stark whites, and deep blacks, evoking a sense of vastness and serenity. The lighting is natural and dramatic, with high contrast between the sunlit edge and the shadowed expanse. The overall style is hyper-realistic and awe-inspiring, reminiscent of high-budget science fiction films or NASA photography, with a wide-angle perspective and a subtle sense of depth and scale that conveys the majesty and fragility of our planet.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:41.368416",
+  "word_count": 158,
+  "error_message": null
+}

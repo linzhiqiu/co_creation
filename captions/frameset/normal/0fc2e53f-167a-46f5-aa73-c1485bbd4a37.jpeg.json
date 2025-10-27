@@ -1,0 +1,12 @@
+{
+  "image_filename": "0fc2e53f-167a-46f5-aa73-c1485bbd4a37.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman with short, dark hair, her face partially illuminated by a narrow, dramatic beam of warm golden light that cuts vertically across her features. The rest of the image is enveloped in deep shadow, creating a high-contrast, chiaroscuro effect reminiscent of classic film noir or Rembrandt lighting. The woman gazes directly at the camera with a calm, enigmatic expression, her eyes catching the light and drawing the viewer’s focus. The background is completely black, isolating the subject and emphasizing the interplay of light and darkness. The color palette is minimal, dominated by rich blacks and warm amber tones. The composition is tight, with the woman’s face centered and filling most of the frame, and the lighting creates a sense of depth and mystery. The overall mood is introspective and dramatic, with a painterly, almost surreal quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:33.607574",
+  "word_count": 143,
+  "error_message": null
+}

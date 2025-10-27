@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_50081373.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A majestic white stag with vibrant blue and pink antlers gazes upward, surrounded by ethereal clouds and adorned with luminous blue and purple flowers. The color palette is dreamy and saturated, with soft, glowing lighting and a painterly, surreal style. The composition feels magical and otherworldly, evoking fantasy and wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:04:32.531991",
+  "word_count": 50,
+  "error_message": null
+}

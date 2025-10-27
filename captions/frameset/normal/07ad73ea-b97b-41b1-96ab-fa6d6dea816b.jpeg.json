@@ -1,0 +1,12 @@
+{
+  "image_filename": "07ad73ea-b97b-41b1-96ab-fa6d6dea816b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set in a dimly lit, moody classroom at dusk. The main subject is a young woman with a short, dark bob haircut, dressed in a loose white shirt. She sits slouched at a wooden desk, her body language conveying boredom or exhaustion, with one arm draped languidly over the side and her head turned to gaze pensively out of frame. Her expression is distant and contemplative. The classroom is sparsely furnished, with empty desks in the foreground creating a sense of isolation and depth. A large window dominates the background, letting in a cool, bluish light that contrasts with the warmer, muted tones of the interior. The overall color palette is subdued, with desaturated blues and grays, and soft, diffused lighting that casts gentle shadows. The camera angle is low and slightly tilted, enhancing the sense of detachment and introspection. The style is reminiscent of an art-house film, with a shallow depth of field that keeps the focus on the subject while the background remains softly blurred, evoking a quiet, melancholic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:29.315548",
+  "word_count": 175,
+  "error_message": null
+}

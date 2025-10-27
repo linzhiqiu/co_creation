@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_103675900.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit, narrow alleyway winds through a hillside town, its walls painted in vibrant shades of blue and white. The scene is dominated by a rustic stone staircase, gently curving upward and flanked by lush green plants spilling from terracotta pots and window boxes. The sunlight casts sharp, warm shadows, highlighting the texture of the worn stone steps and the rough, painted plaster. Ornate wooden balconies and shuttered windows overlook the alley, their details softened by the bright daylight. In the background, the hillside is densely packed with more blue and white houses, creating a mesmerizing mosaic that stretches up toward the mountains. The sky is clear and blue, enhancing the crisp, Mediterranean atmosphere. The overall style is painterly and cinematic, with a high level of detail, rich color saturation, and a sense of depth created by the receding perspective and layered architecture. The mood is tranquil and inviting, evoking the charm and warmth of a sun-drenched Mediterranean village.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:45:49.802378",
+  "word_count": 159,
+  "error_message": null
+}

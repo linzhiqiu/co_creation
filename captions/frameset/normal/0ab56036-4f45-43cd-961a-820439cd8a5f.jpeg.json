@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ab56036-4f45-43cd-961a-820439cd8a5f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up portrait of an older man with a serious, contemplative expression, his face partially illuminated by a projection of large, white alphanumeric characters and symbols. The projected text is sharp and bright, casting dramatic shadows and creating a surreal, futuristic effect across his features. The background is deep black, isolating the subject and intensifying the focus on his face and the overlay of data. The lighting is low-key, with cool blue and neutral tones dominating the color palette, enhancing the mysterious, cybernetic atmosphere. The composition is tight, with the man’s eyes in sharp focus, gazing directly at the viewer, while the projected numbers and letters create a sense of depth and movement. The overall style is cinematic and moody, reminiscent of classic science fiction films, with a strong emphasis on technology and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:40.678912",
+  "word_count": 134,
+  "error_message": null
+}

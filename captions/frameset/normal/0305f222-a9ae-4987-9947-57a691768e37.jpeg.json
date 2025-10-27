@@ -1,0 +1,12 @@
+{
+  "image_filename": "0305f222-a9ae-4987-9947-57a691768e37.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A spacious, industrial workshop bathed in cool, fluorescent lighting. The scene is set in a high-ceilinged room with exposed pipes and ducts overhead, giving a utilitarian, slightly futuristic feel. In the foreground, large, angular machinery and workbenches are bordered with black-and-yellow hazard tape, emphasizing a sense of caution and technical precision. To the right, a man in casual attire—dark jeans and a fitted t-shirt—stands beside a tall, blue robotic apparatus, intently focused on its controls. The floor is polished and reflective, scattered with tools and equipment, including a yellow vacuum cleaner. The background features metallic cabinets, warning signs, and a cluttered shelf, all contributing to the sense of an active, high-tech workspace. The color palette is dominated by cool blues, grays, and metallic tones, punctuated by the stark yellow of the caution tape and signage. The composition uses a wide-angle perspective, capturing the depth and organized chaos of the environment, with a shallow depth of field that subtly blurs the distant background, drawing attention to the man and the robot as the focal points. The overall mood is industrious and focused, evoking the atmosphere of innovation and hands-on engineering.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:44.417768",
+  "word_count": 189,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "09bd15b5-c5ec-4408-a4ad-33f3cf508a9f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up portrait of a middle-aged woman with short, neatly styled hair, gazing directly into the camera with a deeply emotional expression. Her eyes are filled with tears, one tear visibly rolling down her cheek, conveying a sense of sorrow and vulnerability. The lighting is soft and diffused, casting gentle shadows that accentuate the contours of her face and highlight the glistening tear. She wears a dark, pinstriped jacket over a light blouse, suggesting a formal or somber context. The background is softly blurred, with abstract, light-toned shapes that do not distract from the subject, creating a shallow depth of field and focusing all attention on her face. The overall color palette is monochromatic, with a high-contrast black-and-white aesthetic reminiscent of classic European cinema. The composition is intimate and centered, evoking a powerful sense of empathy and introspection, as if capturing a pivotal, emotional moment in a dramatic film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:21.075294",
+  "word_count": 150,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cdaa35b-d909-4d93-a333-6f0673fd77f6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands at the center of a large, empty, dimly lit space, captured from a high, almost overhead camera angle. The subject is a young person with a neutral, contemplative expression, gazing upward toward the camera. They wear casual, slightly loose clothing: a light-colored hoodie layered over a darker shirt, paired with jeans and dark sneakers. The lighting is stark and dramatic, casting a soft but defined shadow to the left, and illuminating the subject while the surrounding environment fades into darkness. The floor beneath the figure is marked by a large, circular spotlight, emphasizing their isolation and drawing the viewer’s focus to the center. The image is rendered in high-contrast black and white, lending a cinematic, introspective mood reminiscent of classic film noir or minimalist art photography. The overall composition is simple yet powerful, with a strong sense of negative space and emotional gravity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:27.708595",
+  "word_count": 147,
+  "error_message": null
+}

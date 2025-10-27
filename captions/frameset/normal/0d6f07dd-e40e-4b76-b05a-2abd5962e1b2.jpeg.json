@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d6f07dd-e40e-4b76-b05a-2abd5962e1b2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set in a modern dance studio with cool, bluish lighting. The main subject is a female dancer with an athletic build, wearing a black leotard and black socks. She is captured mid-stretch, bending forward with her legs apart and her hands reaching toward the floor, her head lowered. Her reflection is clearly visible in the large wall mirror, emphasizing symmetry and depth. The studio has a minimalist, industrial feel with smooth, light gray floors and bare walls. The overall color palette is dominated by cool tones—blues, grays, and blacks—creating a calm, introspective atmosphere. The composition uses a slightly low, wide-angle perspective, enhancing the sense of space and the dancer’s form. The lighting is soft but directional, casting gentle shadows and highlighting the contours of the dancer’s body, evoking a sense of focus and quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:39.569475",
+  "word_count": 140,
+  "error_message": null
+}

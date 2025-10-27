@@ -1,0 +1,12 @@
+{
+  "image_filename": "117779e1-47df-4fed-b656-fc3d434a7a2c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a dynamic, upward-looking view from the deck of a classic sailing ship, focusing on the towering mast and rigging. The perspective should be dramatic, with the camera angled steeply upward along the length of a dark, cylindrical mast that dominates the center of the composition. Surrounding the mast, taut white sails billow outward, their crisp fabric catching the sunlight and casting soft shadows. Thick ropes and lines crisscross the scene, some coiled and others stretched taut, adding a sense of structure and complexity. The sky is a clear, pale blue, providing a serene and open backdrop that contrasts with the intricate details of the ship’s rigging. The lighting is bright and natural, emphasizing the textures of the sails and the sheen of the mast. The overall mood is adventurous and airy, evoking the freedom and grandeur of life at sea. The style is realistic with a slight cinematic quality, using a wide-angle lens effect to enhance the sense of scale and depth.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:10.671232",
+  "word_count": 164,
+  "error_message": null
+}

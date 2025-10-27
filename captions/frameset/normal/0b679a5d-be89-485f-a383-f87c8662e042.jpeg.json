@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b679a5d-be89-485f-a383-f87c8662e042.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, retro-futuristic control room filled with vintage television monitors and analog equipment. Two men are the central focus: one stands in a dark suit, exuding authority, while the other sits in a rolling chair, dressed in a white shirt with sleeves rolled up, appearing tense and attentive. The standing man looms over the seated figure, creating a palpable sense of power dynamics and psychological tension. The background is dominated by a wall of CRT screens, some displaying static, color bars, or grainy surveillance footage, casting a cool, bluish glow that contrasts with the warmer, muted tones of the men's clothing and skin. The composition is cinematic, with a slight low-angle perspective that emphasizes the imposing presence of the standing man and the vulnerability of the seated one. The lighting is soft but moody, with subtle shadows enhancing the dramatic atmosphere. The overall style evokes a late 1970s or early 1980s techno-thriller, blending elements of noir and psychological drama, with a focus on analog technology and a subdued, almost claustrophobic ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:57.032569",
+  "word_count": 172,
+  "error_message": null
+}

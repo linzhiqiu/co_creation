@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_90362694.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands confidently in a narrow, foggy steampunk alley, wearing an ornate teal dress with intricate brass and gearwork armor. Her piercing gaze and poised stance evoke strength. The background features industrial pipes and Victorian architecture, with muted, earthy tones and soft, diffused lighting for a cinematic, atmospheric effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:26:01.836380",
+  "word_count": 51,
+  "error_message": null
+}

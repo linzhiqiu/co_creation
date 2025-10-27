@@ -1,0 +1,12 @@
+{
+  "image_filename": "068ed58b-8b94-4a05-b4e3-176085c2488b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, emotionally charged scene set indoors at a political rally or public event. The central focus is on two men embracing in a heartfelt hug: one is an older man in a dark blue suit, his white hair visible, while the other is a younger man wearing a bright red t-shirt with white text on the back. The embrace is genuine and warm, conveying a sense of unity and support. The background is filled with a crowd of people, many also wearing red shirts, some holding up phones to capture the moment. Behind them, a large American flag hangs prominently, its red and white stripes providing a bold, patriotic backdrop. The lighting is bright but natural, illuminating the subjects and highlighting the emotional intensity of the scene. The composition is intimate, with a shallow depth of field that keeps the focus on the embrace while softly blurring the surrounding crowd. The overall style is documentary-like, with a cinematic quality that emphasizes authenticity and human connection, capturing a pivotal, uplifting moment in a public gathering.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:03.248810",
+  "word_count": 175,
+  "error_message": null
+}

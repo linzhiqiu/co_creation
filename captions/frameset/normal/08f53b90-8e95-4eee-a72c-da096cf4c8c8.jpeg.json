@@ -1,0 +1,12 @@
+{
+  "image_filename": "08f53b90-8e95-4eee-a72c-da096cf4c8c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, moody nighttime street scene featuring a young woman in profile, standing alone and absorbed in her smartphone. She has long, dark hair and wears a dark jacket, her silhouette softly illuminated by cool, bluish ambient light that creates a gentle halo around her head and shoulders. The background is softly blurred, with abstract shapes and bokeh from city lights, suggesting an urban environment after dark. The overall color palette is dominated by deep blues and teals, with subtle hints of warm light in the distance. The lighting is low and atmospheric, casting soft shadows and emphasizing the contemplative, introspective mood. The composition uses a shallow depth of field, focusing sharply on the woman while the background melts into an impressionistic wash of color and light. The camera angle is slightly below eye level, adding a sense of intimacy and immediacy to the scene, reminiscent of a still from an art-house film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:00.105719",
+  "word_count": 153,
+  "error_message": null
+}

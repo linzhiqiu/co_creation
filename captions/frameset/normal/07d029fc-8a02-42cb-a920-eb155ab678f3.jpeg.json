@@ -1,0 +1,12 @@
+{
+  "image_filename": "07d029fc-8a02-42cb-a920-eb155ab678f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man stands in the produce section of a brightly lit supermarket, holding a walkie-talkie close to his mouth as if communicating with someone. He wears a teal blue knit sweater layered over a plaid collared shirt, and round glasses that give him an attentive, professional appearance. His expression is focused and slightly concerned, suggesting he is either managing a situation or coordinating with staff. The background is softly blurred, with rows of fresh vegetables and fruits in black display bins stretching into the distance, and the overhead fluorescent lights create a cool, even illumination throughout the scene. The color palette is dominated by cool tones—blues, greens, and the occasional pop of red from produce and signage—contributing to a clean, modern supermarket atmosphere. The camera angle is at eye level, with a shallow depth of field that keeps the man sharply in focus while the background softly recedes, lending a cinematic, documentary-style realism to the composition. The overall mood is one of quiet diligence and everyday professionalism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:33.345372",
+  "word_count": 168,
+  "error_message": null
+}

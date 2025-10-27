@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_83514384.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A two-panel comic in a flat, cartoon style. Top panel: a worried man in an orange shirt clutches his stomach, saying, “I’m so hungry I could…” in a beige kitchen. Bottom panel: a muscular, anthropomorphic horse with a human body and horse head, holding a gun, interrupts with, “You could what?!” The palette is warm and muted.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:22:37.904563",
+  "word_count": 57,
+  "error_message": null
+}

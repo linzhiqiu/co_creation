@@ -1,0 +1,12 @@
+{
+  "image_filename": "04d3e50c-7cf5-444b-8119-79221e1a08cb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man in a dark leather jacket and black pants walks briskly through a dimly lit, utilitarian underground passageway. The corridor is constructed from pale, slightly grimy tiles, with harsh fluorescent lighting casting a cold, bluish hue over the scene. The man is positioned off-center, moving toward the camera from the right side of the frame, his expression unreadable and his posture tense, suggesting urgency or unease. On the left wall, signage in German—“Frauen” and “Männer”—marks entrances to public restrooms, their doors partially visible and framed in institutional beige. The floor is mottled and worn, hinting at years of heavy foot traffic. Sparse, utilitarian posters and notices are affixed to the walls, adding to the sense of a functional, impersonal space. The background recedes into shadow, with a set of stairs leading upward, barely illuminated. The overall composition is static and symmetrical, evoking a sense of isolation and suspense, reminiscent of 1970s European cinema. The color palette is muted and desaturated, dominated by grays, off-whites, and the occasional pop of faded color from the posters. The camera angle is eye-level, with a deep depth of field that keeps the entire corridor in focus, emphasizing the emptiness and the man’s solitary presence. The mood is tense, atmospheric, and slightly foreboding, capturing a moment of quiet anticipation in an urban, subterranean environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:29.302772",
+  "word_count": 221,
+  "error_message": null
+}

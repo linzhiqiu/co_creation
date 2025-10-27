@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d349f93-beb5-413a-8fcd-c8d9e63f79e1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern electric SUV in a striking metallic blue glides along a curving, elevated highway at dusk. The vehicle is positioned in the right lane, its bold, angular LED headlights and distinctive front grille illuminated, casting a futuristic glow. The car’s glossy surface reflects the soft, ambient light of the setting sun, which bathes the scene in cool blue and muted gold tones. The road curves gently to the left, bordered by a smooth concrete barrier, with a continuous line of warm, yellowish lights tracing the edge, creating a sense of motion and direction. In the background, misty mountains and a darkening sky evoke a tranquil, cinematic atmosphere. The camera angle is slightly elevated and to the left of the vehicle, emphasizing its dynamic lines and forward momentum. The overall style is polished and cinematic, with a shallow depth of field that keeps the focus on the car while subtly blurring the distant landscape, enhancing the sense of speed and modernity. The mood is sophisticated and aspirational, suggesting innovation and adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:36.167232",
+  "word_count": 172,
+  "error_message": null
+}

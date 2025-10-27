@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f7409ba-cb47-42a1-9efb-53b5269d1af0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, low-angle shot of a young woman standing outdoors in a sunlit pine forest. She wears a fitted black tank top and stylish dark sunglasses, exuding a sense of calm confidence. Her short, dark hair frames her face as she gazes upward, basking in the sunlight filtering through the tall trees above. The camera is positioned near the base of a textured pine tree trunk, emphasizing its height and leading the viewer’s eye upward toward the vivid blue sky. Sunbeams break through the canopy, casting dappled light and creating a warm, summery atmosphere. The color palette is rich and saturated, with deep greens, earthy browns, and a striking azure sky. The overall style is crisp and modern, with a shallow depth of field that keeps the woman and the tree in sharp focus while softly blurring the background, evoking a sense of tranquility and connection with nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:30.999644",
+  "word_count": 149,
+  "error_message": null
+}

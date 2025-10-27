@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_91500557.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solemn young man in ornate brown monk robes with gold embroidery stands in a candlelit stone chamber, hands pressed in prayer. He wears glasses, his expression intense and contemplative. Warm, dramatic lighting highlights his face, with soft shadows and a mystical, medieval atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:26:29.180488",
+  "word_count": 44,
+  "error_message": null
+}

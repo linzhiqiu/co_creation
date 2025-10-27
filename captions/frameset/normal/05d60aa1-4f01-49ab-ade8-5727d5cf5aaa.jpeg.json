@@ -1,0 +1,12 @@
+{
+  "image_filename": "05d60aa1-4f01-49ab-ade8-5727d5cf5aaa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white, vintage-style photograph capturing the reflection of three men on the curved glass of an old computer monitor. The men are seated closely together, their faces partially illuminated by the soft, diffused glow of the screen. The central figure, an older man with a mustache, gazes intently forward, flanked by two younger men—one wearing glasses, the other with a beard—both focused and serious. Behind them, a checkered pattern reminiscent of a chessboard or early computer graphics decorates the wall, adding a geometric element to the composition. The left side of the image features faint, glowing lines of text, likely computer code or system information, further emphasizing the technological context. The overall mood is contemplative and historic, evoking the early days of computing. The lighting is low and atmospheric, with soft shadows and a gentle gradient across the scene. The camera angle is slightly off-center, enhancing the sense of candid observation, while the shallow depth of field and the curvature of the monitor create a subtle distortion, lending the image a dreamlike, documentary quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:47.810635",
+  "word_count": 174,
+  "error_message": null
+}

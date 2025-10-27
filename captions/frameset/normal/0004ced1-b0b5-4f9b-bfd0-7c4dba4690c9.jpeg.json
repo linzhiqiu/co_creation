@@ -1,0 +1,12 @@
+{
+  "image_filename": "0004ced1-b0b5-4f9b-bfd0-7c4dba4690c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly stylized, cinematic overhead shot of a circular maze, its walls forming a hypnotic spiral pattern. At the center of the composition, a single white mouse is seen navigating the maze, its small form casting a delicate shadow on the pale, mint-green floor. The maze’s walls are a muted teal, their clean lines and sharp angles creating a sense of geometric precision and order. The lighting is soft and diffused, casting minimal shadows and lending the scene an almost clinical, surreal quality. The color palette is dominated by cool tones—greens, teals, and whites—enhancing the sense of detachment and focus. The camera angle is perfectly perpendicular to the maze, emphasizing the symmetry and complexity of the design, while the shallow depth of field keeps the entire maze in crisp focus. The overall mood is contemplative and slightly mysterious, evoking themes of experimentation, intelligence, and confinement. The composition is minimalist, with the mouse and the maze as the only elements, creating a striking visual metaphor for problem-solving and exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:44.062538",
+  "word_count": 168,
+  "error_message": null
+}

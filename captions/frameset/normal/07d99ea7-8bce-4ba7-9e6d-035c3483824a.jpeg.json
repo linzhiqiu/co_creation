@@ -1,0 +1,12 @@
+{
+  "image_filename": "07d99ea7-8bce-4ba7-9e6d-035c3483824a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a quiet, contemplative interior scene in a softly lit, modern apartment. The focal point is a minimalist, abstract black-and-white portrait hanging on a pale gray wall. The portrait features bold, simple lines forming the outline of a bearded man's head and shoulders, with exaggerated, asymmetrical features that evoke a sense of mystery and introspection. To the right, a birch tree trunk or large branch stands upright, partially obscuring the lower part of the artwork, adding an organic, unexpected element to the otherwise clean space. Natural daylight filters in from tall, sheer-curtained windows, casting a gentle, diffused glow and subtle shadows across the room. The overall color palette is muted and cool, dominated by soft grays and whites, with the stark black lines of the portrait providing striking contrast. The composition is balanced and serene, with a sense of stillness and understated sophistication, reminiscent of Scandinavian or minimalist interior design photography. The camera angle is straight-on, at eye level, emphasizing the artwork and the interplay of natural light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:35.998269",
+  "word_count": 171,
+  "error_message": null
+}

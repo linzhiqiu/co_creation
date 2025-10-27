@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ead8eb5-d72d-4896-83a5-ae3135a51302.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young Black man standing confidently in front of a chalkboard filled with complex mathematical equations and diagrams. He wears a light blue denim button-up shirt, neatly fastened to the collar, and gazes directly into the camera with a calm, self-assured expression and a subtle, gentle smile. The background is softly out of focus, emphasizing the subject while still allowing the chalkboard’s scientific notations and geometric shapes to be recognizable, suggesting an academic or intellectual setting. The lighting is soft and natural, illuminating the subject’s face evenly and creating a warm, inviting atmosphere. The color palette is dominated by cool blues and muted grays, with subtle highlights on the subject’s skin and shirt. The composition is centered and intimate, with a shallow depth of field that draws attention to the subject’s eyes, evoking a sense of intelligence, focus, and quiet determination. The overall style is modern and realistic, with a touch of cinematic clarity and depth.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:13.893079",
+  "word_count": 161,
+  "error_message": null
+}

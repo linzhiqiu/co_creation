@@ -1,0 +1,12 @@
+{
+  "image_filename": "06efef74-3ae5-49f5-acc7-04f51d9640d9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime street scene in black and white, evoking a moody, film noir atmosphere. The composition is a low-angle, wide shot positioned at the center of an empty urban street, with the camera placed just above the asphalt, emphasizing the perspective lines of the road and the crosswalk stripes in the foreground. On either side of the street, rows of parked cars line the curb, their forms rendered in sharp contrast by the streetlights that recede into the distance, creating a rhythmic pattern of glowing orbs. The buildings on the left are residential, with shuttered windows and simple facades, while the right side features a tall wall partially obscured by trees, their leaves softly illuminated. The overall lighting is stark and dramatic, with deep shadows and bright highlights, enhancing the sense of solitude and quiet. The scene is devoid of people, amplifying the feeling of stillness and anticipation. The visual style is reminiscent of classic black-and-white photography, with crisp details, high contrast, and a subtle grain that adds to the timeless, contemplative mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:12.270458",
+  "word_count": 175,
+  "error_message": null
+}

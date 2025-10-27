@@ -1,0 +1,12 @@
+{
+  "image_filename": "08237589-a130-48f7-9c08-c0e5b1fefdfb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a moody, atmospheric scene viewed through a textured, frosted glass window. Behind the glass, two human figures stand close together, their forms rendered as soft, indistinct silhouettes. The figures’ features and clothing are obscured by the rippled distortion of the glass, but their postures suggest a quiet, intimate moment—perhaps a conversation or a gentle interaction. The background is softly illuminated with cool, diffused light, casting subtle gradients of gray and blue across the scene. Hints of warmer tones appear in the upper left, suggesting ambient light from another room or a distant lamp. The overall composition is minimalist and cinematic, with a shallow depth of field and a focus on mood and ambiguity. The image evokes a sense of mystery, privacy, and emotional tension, reminiscent of a film noir or an art-house drama.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:42.339203",
+  "word_count": 135,
+  "error_message": null
+}

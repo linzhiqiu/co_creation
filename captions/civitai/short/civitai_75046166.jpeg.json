@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_75046166.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cartoon wolf dressed in a white Greek toga and laurel wreath sits pensively on a marble pedestal among ancient ruins, chin on paw, staring at a fallen acorn. Sunlight streams through broken columns, casting dramatic shadows. A speech bubble above reads “WHY ???” in bold letters, evoking a humorous, philosophical mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:17:25.157721",
+  "word_count": 52,
+  "error_message": null
+}

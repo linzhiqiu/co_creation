@@ -1,0 +1,12 @@
+{
+  "image_filename": "10b79bf1-e41b-498b-9c82-50542368462b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young person sits at a sleek, modern desk in a dimly lit room, intently focused on a widescreen computer monitor displaying a video editing timeline. The subject is viewed from behind and slightly to the side, their face mostly obscured, emphasizing their concentration and the glow of the screen. The monitor shows a video clip of a person standing in a sunlit, minimalist interior, with editing tracks and colorful waveforms visible below. The room around the subject is shadowy and minimalist, with soft, diffused natural light filtering in from an unseen source, creating a moody, contemplative atmosphere. The color palette is dominated by deep shadows, cool grays, and the subtle illumination from the monitor, lending a cinematic, almost noir quality to the scene. The composition uses a shallow depth of field, keeping the focus on the subject’s hand on the mouse and the vivid details of the editing software, while the background remains softly blurred. The overall style is modern, introspective, and evocative of late-night creative work, with a sense of quiet dedication and immersion in the editing process.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:50.891041",
+  "word_count": 180,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "073cedea-a8f1-4cba-9b98-5acca90f9300.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene featuring a sleek, modern drone hovering in mid-air against a pitch-black background. The drone is illuminated by vibrant neon green LED lights outlining its frame and propeller arms, casting a subtle glow and creating a striking contrast with the darkness. The lighting is low-key, emphasizing the luminous lines and technological details of the drone while leaving the rest of the environment in deep shadow. The camera angle is slightly below and to the side of the drone, capturing its dynamic form and the faint motion blur of the spinning propellers. The overall mood is futuristic and mysterious, with a minimalist composition that draws attention to the drone’s glowing silhouette and advanced design. The color palette is dominated by black and electric green, evoking a high-tech, cyberpunk aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:16.525839",
+  "word_count": 132,
+  "error_message": null
+}

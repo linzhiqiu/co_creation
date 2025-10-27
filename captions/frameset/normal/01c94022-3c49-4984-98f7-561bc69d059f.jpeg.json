@@ -1,0 +1,12 @@
+{
+  "image_filename": "01c94022-3c49-4984-98f7-561bc69d059f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a human hand interacting with a digital touchscreen device, focusing on a colorful pie chart displayed on the screen. The finger is gently touching or pointing at a specific segment of the chart, suggesting analysis or data exploration. The pie chart is divided into several vibrant sections—green, blue, yellow, orange, and red—each clearly separated and labeled with small white text or numbers. The lighting is soft and cool, creating a modern, high-tech atmosphere with subtle reflections on the glossy surface of the device. The background is blurred into deep blues and grays, emphasizing the clarity and importance of the hand and the chart. The overall style is cinematic and intimate, with a macro lens effect that draws attention to the tactile interaction and the vivid, graphical interface, evoking themes of technology, business analytics, and digital innovation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:16.506934",
+  "word_count": 142,
+  "error_message": null
+}

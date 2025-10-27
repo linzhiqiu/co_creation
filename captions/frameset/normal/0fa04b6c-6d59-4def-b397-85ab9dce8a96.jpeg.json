@@ -1,0 +1,12 @@
+{
+  "image_filename": "0fa04b6c-6d59-4def-b397-85ab9dce8a96.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit urban café interior with large industrial-style windows letting in abundant natural light, casting dramatic shadows and warm highlights across the scene. In the foreground, a young person with short, light brown hair sits at a metal table, wearing a rust-colored, short-sleeve shirt with a white geometric pattern. They are focused on a laptop, their posture relaxed yet engaged. Behind them, two other patrons are visible: one with dark curly hair and a blue shirt, and another in a green jacket and cap, both absorbed in their own activities. Outside the windows, greenery and a pedestrian in a pink outfit add a sense of life and movement to the background. The overall color palette is warm and inviting, with golden sunlight, muted earth tones, and soft shadows. The composition uses a shallow depth of field to keep the foreground subject sharp while gently blurring the background, creating a cinematic, contemplative atmosphere. The camera angle is slightly elevated and angled toward the windows, emphasizing the interplay of light, shadow, and reflections, and evoking a sense of quiet productivity and urban tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:34.365571",
+  "word_count": 181,
+  "error_message": null
+}

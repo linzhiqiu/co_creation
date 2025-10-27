@@ -1,0 +1,12 @@
+{
+  "image_filename": "007eff24-f643-4744-863d-c1eed0b650ca.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle, early evening scene of a modern supermarket exterior, prominently featuring a large, brightly illuminated green sign reading \"countdown open 7am-10pm 7 da\" with a stylized logo. The store’s glass facade glows warmly from interior lights, revealing glimpses of aisles and promotional posters inside. The parking lot in the foreground is partially filled with a few parked cars, their surfaces reflecting the ambient light. The sky is a deep, moody blue, suggesting dusk, with soft, diffused lighting casting gentle shadows. The overall color palette contrasts the vivid green signage and warm interior lights against the cool blue of the evening sky and the neutral tones of the asphalt and cars. The composition is balanced, with the store sign as the focal point, and the perspective is slightly low, giving a sense of scale and inviting the viewer into the scene. The mood is calm and everyday, evoking the quiet anticipation of a typical evening at a suburban supermarket.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:47.555141",
+  "word_count": 159,
+  "error_message": null
+}

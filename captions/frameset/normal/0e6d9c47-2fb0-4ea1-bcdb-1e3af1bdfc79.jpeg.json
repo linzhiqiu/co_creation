@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e6d9c47-2fb0-4ea1-bcdb-1e3af1bdfc79.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A serene, slightly futuristic park landscape in early autumn, with soft golden-brown grass and scattered birch trees, their white bark mottled with moss. In the foreground, a gentle stream flows over smooth rocks, reflecting the muted daylight. A golden retriever stands alert and playful near the water’s edge, gazing up at a hovering, sleek, white-and-black robotic drone that dangles a green leash, as if inviting the dog to play. The background features a mix of evergreen and leafless trees, with the faint, misty outlines of modern, high-rise buildings visible through the haze, suggesting a city on the horizon. The color palette is natural and subdued, with earthy tones and cool greens, contrasted by the metallic sheen of the drone. The lighting is diffuse and overcast, lending a calm, contemplative mood. The composition uses a shallow depth of field, focusing on the dog and drone, while the background remains softly blurred, evoking a cinematic, slightly surreal atmosphere that blends nature with advanced technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:03.362696",
+  "word_count": 162,
+  "error_message": null
+}

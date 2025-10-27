@@ -1,0 +1,12 @@
+{
+  "image_filename": "11215231-a272-4f60-9ad7-ef31f422e343.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime street scene focused on the lower half of a person standing on a cobblestone pavement. The subject is wearing loose, knee-length, light blue denim shorts with frayed hems, paired with white crew socks and shiny black loafers. The lighting is moody and dramatic, casting deep shadows and highlighting the texture of the cobblestones and the subtle sheen of the shoes. The background is softly blurred, emphasizing the circular stone pattern beneath the subject’s feet and creating a sense of depth. The overall color palette is cool and subdued, dominated by blues and grays, with a slight contrast from the white socks. The camera angle is low and close to the ground, capturing only the legs and feet, and evoking a sense of quiet anticipation or introspection. The style is reminiscent of a neo-noir film, with careful attention to composition, texture, and atmospheric lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:07.755992",
+  "word_count": 147,
+  "error_message": null
+}

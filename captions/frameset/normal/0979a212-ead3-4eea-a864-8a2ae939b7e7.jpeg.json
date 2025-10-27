@@ -1,0 +1,12 @@
+{
+  "image_filename": "0979a212-ead3-4eea-a864-8a2ae939b7e7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary young boy stands at the edge of a basketball court, holding a basketball in one hand. The scene is captured from a high, almost overhead angle, emphasizing the stark geometry of the court’s white boundary lines against the textured, slightly worn concrete surface. The boy is dressed in simple, dark athletic clothing—shorts and a t-shirt—his features obscured by deep shadow, creating a sense of anonymity and introspection. The lighting is dramatic and low, casting a long, sharply defined shadow of the boy and the ball onto the ground, which becomes a central visual element. The color palette is muted and monochromatic, dominated by sepia and gray tones, evoking a nostalgic, contemplative mood. The overall style is cinematic and minimalist, with a shallow depth of field that keeps the focus tightly on the boy and his shadow, while the background fades into soft blur. The composition conveys solitude, anticipation, and quiet determination, reminiscent of a poignant moment in a coming-of-age film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:14.666020",
+  "word_count": 162,
+  "error_message": null
+}

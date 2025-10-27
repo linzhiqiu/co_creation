@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f5faf07-1aee-4658-a8ca-888ac9086875.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, conceptual overhead photograph set against a stark white background. At the center of the composition is a classic black rotary telephone, its cord coiled and partially visible. Three hands are present: one pale hand reaches down from the top of the frame, grasping the receiver of the phone, while two darker-skinned hands emerge from the bottom corners, each resting on a separate black-and-white photograph taped to the surface with black tape at the corners. The photographs on either side of the phone appear to be X-ray or negative-style images, adding a sense of abstraction and intrigue. The overall color palette is monochromatic, dominated by whites, blacks, and subtle grays, creating a high-contrast, almost clinical atmosphere. The lighting is even and diffuse, eliminating shadows and emphasizing the clean, graphic quality of the scene. The composition is symmetrical and balanced, with a strong sense of order and intentionality, evoking a modern, conceptual art style with a hint of surrealism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:28.119471",
+  "word_count": 159,
+  "error_message": null
+}

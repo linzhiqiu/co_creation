@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_104021204.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, atmospheric scene set in a cozy, dimly lit study at night. The central subject is a young woman with long, lavender hair, dressed in soft, purple pajamas, sitting comfortably in a plush, vintage armchair. She holds a flashlight in one hand, illuminating a newspaper she is reading, with the headline partially visible. Perched contentedly atop her head is a sleek black cat, its eyes glinting with curiosity. The woman’s expression is playful and slightly mischievous, with a subtle, knowing smile.\n\nBehind her, a large window reveals a dramatic, oversized full moon glowing pink against a deep violet sky, casting ethereal moonlight into the room. The window is framed by heavy curtains and flanked by bookshelves filled with books and small decorative objects, adding to the scholarly, mysterious ambiance. A vase of red flowers sits on a nearby table, adding a pop of color to the predominantly purple and magenta palette.\n\nThe lighting is a blend of soft, ambient moonlight and the focused beam of the flashlight, creating striking contrasts and deep shadows. The overall style is cinematic and slightly surreal, with a dreamy, magical quality. The composition uses a slight low angle, drawing the viewer’s eye from the foreground details to the glowing moon outside, and employs a shallow depth of field to keep the focus on the woman and her cat while softly blurring the background. The mood is whimsical, mysterious, and inviting, evoking the feeling of a secret midnight adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:46:10.530863",
+  "word_count": 246,
+  "error_message": null
+}

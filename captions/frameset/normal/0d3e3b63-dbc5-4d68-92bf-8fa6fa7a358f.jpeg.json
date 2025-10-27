@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d3e3b63-dbc5-4d68-92bf-8fa6fa7a358f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands with their back to the viewer in a sleek, futuristic control room, arms raised as if interacting with an invisible interface. The subject wears a dark, fitted jacket, their short hair illuminated by cool, blue-toned overhead lighting that casts a subtle glow across the scene. In front of them, a large, glossy console emits a vivid red light, with holographic red geometric shapes and data projections suspended in the air above it, suggesting advanced technology. The background features minimalist industrial architecture: exposed concrete walls, metal railings, and a staircase leading to a mezzanine level. Several workstations with glowing red screens are scattered throughout the space, reinforcing the high-tech atmosphere. The color palette is dominated by deep blues, grays, and striking neon reds, creating a dramatic, cyberpunk mood. The composition is cinematic, shot from a low, centered angle behind the subject, emphasizing their command over the environment and the immersive, high-stakes ambiance of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:37.393671",
+  "word_count": 158,
+  "error_message": null
+}

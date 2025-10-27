@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c563bbe-fac6-42ea-aada-4e4a72b3d3de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a human hand reaching upward against a clear blue sky. The hand is in sharp focus, with the fingers slightly curled and extended toward the viewer, creating a sense of depth and immediacy. The skin tones are warm and natural, with soft highlights and subtle shadows that emphasize the contours and texture of the hand. The background is a smooth, vibrant sky blue, with a faint hint of a white cloud in the lower corner, adding a touch of softness and atmosphere. The lighting is bright and natural, suggesting daylight, and the overall color palette is clean and minimal, dominated by the contrast between the warm flesh tones and the cool blue sky. The composition uses a shallow depth of field, blurring the background to draw attention to the hand’s gesture, evoking a sense of longing, hope, or connection. The camera angle is slightly low, looking up at the hand, enhancing the feeling of aspiration or reaching for something beyond. The style is reminiscent of modern cinematic photography, with a focus on emotional resonance and visual clarity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:18.783556",
+  "word_count": 182,
+  "error_message": null
+}

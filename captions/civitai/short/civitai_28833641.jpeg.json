@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_28833641.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking young woman with vivid red hair and glasses stands on a rooftop at sunset, city skyline blurred behind her. She wears a black camisole, gazes intently at the camera, and holds a finger to her lips in a “shh” gesture. Warm, cinematic lighting, shallow depth of field, intimate mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:54:46.895550",
+  "word_count": 51,
+  "error_message": null
+}

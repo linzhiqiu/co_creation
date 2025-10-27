@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a9fc276-a7c4-4008-8b9c-e8e796641b4c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-action scene on a quiet, rural highway during daylight, captured with a cinematic, slightly desaturated color palette that emphasizes cool grays and muted earth tones. The main subject is a silver SUV, visibly damaged at the front, with smoke and debris trailing from its crumpled hood as it collides with a metal guardrail. The vehicle is angled sharply, suggesting a recent loss of control, and its motion is frozen at the moment of impact, with the front wheels turned and the body leaning slightly. In the foreground, the blurred edge of another vehicle’s hood is visible, adding depth and a sense of immediacy, as if the viewer is witnessing the crash from a nearby car. The background features a line of tall, dense trees and dry grass, with utility poles and wires running parallel to the road, reinforcing the rural setting. The lighting is natural and soft, casting gentle shadows and highlighting the metallic surfaces of the vehicles and guardrail. The overall composition uses a wide lens and a low camera angle, enhancing the drama and tension of the scene, while the shallow depth of field keeps the focus on the crashing SUV and the chaos of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:40.206838",
+  "word_count": 200,
+  "error_message": null
+}

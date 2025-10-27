@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c1b0327-e7c6-4abb-a32f-024c88de8b59.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A gritty, cinematic close-up shot taken from outside the windshield of a police car. The glass is dirty and streaked with dust, partially obscuring the view inside and creating a textured, almost grimy filter over the scene. Through the windshield, a middle-aged police officer is visible, wearing dark aviator sunglasses and a khaki uniform with a badge. He holds a radio microphone close to his mouth, mid-communication, his expression tense and focused. The lighting is natural daylight, casting subtle reflections and shadows across the windshield, enhancing the realism and moodiness of the scene. The color palette is muted and earthy, dominated by browns, grays, and the faded green of the car interior. The composition is intimate and slightly off-center, with the steering wheel and dashboard faintly visible, emphasizing the claustrophobic, high-stakes atmosphere. The overall style is reminiscent of a tense crime drama or neo-noir film, with a shallow depth of field and a sense of immediacy and realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:13.736823",
+  "word_count": 158,
+  "error_message": null
+}

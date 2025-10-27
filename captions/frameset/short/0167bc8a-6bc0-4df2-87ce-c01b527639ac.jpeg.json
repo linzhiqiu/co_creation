@@ -1,0 +1,12 @@
+{
+  "image_filename": "0167bc8a-6bc0-4df2-87ce-c01b527639ac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A fit man in athletic wear vigorously trains with battle ropes on a vast, sunlit green field. The low, wide-angle shot emphasizes dynamic motion and rope shadows, with dramatic clouds and bright sunlight casting crisp highlights, evoking an energetic, cinematic, and motivational outdoor workout scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:05.525964",
+  "word_count": 45,
+  "error_message": null
+}

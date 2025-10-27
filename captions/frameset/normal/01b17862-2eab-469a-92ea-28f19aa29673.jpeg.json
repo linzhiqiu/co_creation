@@ -1,0 +1,12 @@
+{
+  "image_filename": "01b17862-2eab-469a-92ea-28f19aa29673.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A nighttime cityscape focused on the illuminated facade of a modern office building, viewed straight-on from a distance. The composition is symmetrical, with the building’s glass exterior forming a grid of rectangular windows, each revealing a glimpse into various office spaces. Inside, fluorescent lighting casts a cool, white glow, contrasting sharply with the darkness outside. Multiple floors are visible, each window framing different scenes: some offices are empty, while others contain silhouetted figures working late, sitting at desks, or moving about. The interiors are sparsely decorated, featuring standard office furniture such as desks, chairs, computers, and filing cabinets. The overall color palette is dominated by muted grays, whites, and the occasional warm accent from wooden furniture or personal items. The mood is quiet and contemplative, evoking themes of urban isolation and the relentless pace of corporate life. The camera angle is perfectly perpendicular to the building, creating a sense of order and repetition, while the depth of field keeps both the exterior glass and the interior details in sharp focus. The style is reminiscent of cinematic urban photography, with a subtle voyeuristic quality, inviting the viewer to observe the private moments of anonymous office workers against the vast, impersonal architecture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:18.939219",
+  "word_count": 200,
+  "error_message": null
+}

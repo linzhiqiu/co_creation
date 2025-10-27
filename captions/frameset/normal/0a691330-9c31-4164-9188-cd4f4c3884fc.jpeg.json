@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a691330-9c31-4164-9188-cd4f4c3884fc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic still life scene set in a warmly lit, nostalgic study or living room. The focal point is a vintage twin-lens reflex camera, positioned slightly off-center atop a stack of old, hardcover books. Surrounding the camera are various objects that evoke a sense of history and memory: a sepia-toned framed photograph, a pair of eyeglasses, and scattered papers. The background is softly blurred, revealing hints of wooden shelves, retro audio equipment, and other personal artifacts, contributing to a cozy, lived-in atmosphere. The color palette is muted and earthy, dominated by deep browns, faded greens, and soft golden highlights, with gentle natural light filtering in from the side, casting subtle shadows and a faint lens flare. The composition uses a shallow depth of field, drawing the viewer’s eye to the camera and its immediate surroundings, while the rest of the scene fades into a gentle bokeh. The overall style is reminiscent of a contemplative, art-house film, with a sense of quiet nostalgia and intimate storytelling.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:35.039658",
+  "word_count": 165,
+  "error_message": null
+}

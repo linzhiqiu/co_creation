@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e7dcd50-c0f6-44b7-8c28-d41fbe2f7331.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person using a black marker to carefully outline the number \"47\" inside a white oval on a blue stencil template. The person's hand, with long, glossy red fingernails, is visible holding the stencil steady, adding a pop of vibrant color and a sense of precision to the scene. The background is softly blurred, with cool blue and white tones dominating the color palette, creating a clean, modern, and slightly clinical atmosphere. The lighting is soft but focused, highlighting the texture of the stencil and the shine on the fingernails, while casting gentle shadows that add depth. The composition is tight and intimate, with a shallow depth of field drawing attention to the act of tracing and the tactile details of the materials. The overall style is reminiscent of a high-definition product commercial or a meticulous design process, evoking a mood of concentration, craftsmanship, and attention to detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:09.819706",
+  "word_count": 153,
+  "error_message": null
+}

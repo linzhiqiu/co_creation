@@ -1,0 +1,12 @@
+{
+  "image_filename": "00453be6-1a8f-4798-b312-b32fbbabdf2e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic overhead shot of a glass filled with clear ice cubes, as a chilled Schweppes bottle pours sparkling liquid into it. The scene is set against a deep black background, with crisp, high-contrast lighting highlighting the bubbles and reflections, creating a refreshing, cinematic, and luxurious mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:39.832613",
+  "word_count": 47,
+  "error_message": null
+}

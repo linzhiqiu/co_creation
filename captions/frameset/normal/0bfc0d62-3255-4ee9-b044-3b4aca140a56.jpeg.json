@@ -1,0 +1,12 @@
+{
+  "image_filename": "0bfc0d62-3255-4ee9-b044-3b4aca140a56.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a surreal, cinematic close-up of a fragmented photograph of a child’s face, arranged in a grid of small, square paper pieces pinned to a surface. Each square is slightly separated, with torn or rough edges, and pinned at one corner, creating a patchwork effect that distorts the image. The child’s face, rendered in sepia or muted brown tones, gazes softly upward, with one eye and part of the mouth clearly visible through the grid. The lighting is soft and diffused, casting gentle shadows that emphasize the three-dimensionality of the pinned paper squares. The overall mood is mysterious and contemplative, evoking a sense of memory, loss, or reconstruction. The composition is tight and intimate, with a shallow depth of field that keeps the focus on the fragmented image, while the background remains blurred and unobtrusive. The style is reminiscent of psychological thrillers or art-house cinema, with a subtle, melancholic atmosphere and a strong emphasis on texture and visual abstraction.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:07.980751",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f3e86ab-4067-422b-ab57-fa3e9098da67.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, post-apocalyptic scene set in the interior of an abandoned, decaying shopping mall. The composition is wide and atmospheric, with a single human figure standing in the foreground, facing away from the viewer and gazing toward a pair of broken, overgrown escalators that ascend into a partially collapsed ceiling. The figure is dressed in dark, utilitarian clothing, blending into the shadowy environment. The escalators are covered in moss and creeping vegetation, emphasizing the passage of time and nature reclaiming the space. Above the escalators, a large, mysterious metallic sphere hovers in a shaft of cold, diffused daylight streaming through the broken roof, casting soft, eerie shadows. The color palette is dominated by desaturated blues, grays, and muted greens, creating a somber, melancholic mood. The lighting is low and moody, with strong contrasts between the dim interior and the pale natural light from above. The overall style is hyper-realistic with a touch of surrealism, evoking a sense of isolation, mystery, and the sublime beauty of urban decay. The camera angle is low and slightly off-center, enhancing the scale of the environment and the insignificance of the lone figure within it.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:22.145580",
+  "word_count": 192,
+  "error_message": null
+}

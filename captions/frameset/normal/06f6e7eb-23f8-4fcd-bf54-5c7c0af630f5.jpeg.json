@@ -1,0 +1,12 @@
+{
+  "image_filename": "06f6e7eb-23f8-4fcd-bf54-5c7c0af630f5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone astronaut stands inside a futuristic spacecraft, surrounded by an array of illuminated control panels and complex instrumentation. The astronaut wears a distinctive yellow space suit with ribbed detailing, patches on the arms, and a helmet tucked under one arm. He holds a bright orange equipment case, its surface adorned with technical markings and buttons. The lighting is low and atmospheric, casting dramatic shadows and highlighting the reflective surfaces of the suit and the glossy panels. The scene is shot with a wide-angle lens, creating a subtle fisheye distortion that emphasizes the claustrophobic, high-tech environment. The color palette is dominated by deep blues, blacks, and the vibrant yellow of the suit, punctuated by the multicolored lights of the control panels. The overall style is cinematic and precise, evoking a sense of isolation, tension, and the cold beauty of space exploration. The composition is carefully balanced, with the astronaut positioned off-center, drawing the viewer’s eye into the intricate, immersive world of the spacecraft’s interior.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:10.045369",
+  "word_count": 164,
+  "error_message": null
+}

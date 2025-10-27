@@ -1,0 +1,12 @@
+{
+  "image_filename": "05054667-0c64-4d8c-b4d3-5118da7c004b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic scene set outside a modern airport terminal, captured in a shallow depth of field with a soft, natural daylight ambiance. In the foreground, two men embrace in a warm, heartfelt hug. The man facing the camera has a full beard, expressive eyes, and a joyful, emotional smile, conveying a sense of reunion and relief. He wears a light gray jacket over a shirt, while the other man, seen from behind, is dressed in a blue denim jacket. The background is slightly blurred, featuring glass doors, structural elements of the terminal, and indistinct figures, enhancing the focus on the emotional connection between the two subjects. The color palette is muted and realistic, with cool blues and grays dominating, and the lighting is diffuse, suggesting an overcast day. The camera angle is slightly off-center and intimate, drawing the viewer into the moment and emphasizing the authenticity and warmth of the embrace. The overall style is reminiscent of contemporary drama films, with a focus on genuine human emotion and naturalistic composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:27.966227",
+  "word_count": 170,
+  "error_message": null
+}

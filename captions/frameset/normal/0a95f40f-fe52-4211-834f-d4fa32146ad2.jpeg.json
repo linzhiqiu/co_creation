@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a95f40f-fe52-4211-834f-d4fa32146ad2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bright, modern classroom filled with natural daylight streaming through large windows with blue curtains. The room is populated by a diverse group of elementary school children, each seated at white tables with yellow chairs, working on laptops and assembling small robotics kits. The focal point is a cheerful girl in a pink sweater standing in the center, mid-gesture with one arm outstretched and a wide, playful smile, exuding energy and confidence. Around her, other students are engaged in their projects, some glancing at her with curiosity or amusement. The background features educational posters, including a prominent one with the word \"GLOW\" in bold letters, and shelves with science-themed decorations. The color palette is soft and inviting, dominated by cool blues, warm yellows, and neutral whites, with gentle, even lighting that enhances the lively, collaborative atmosphere. The composition is cinematic, with a shallow depth of field that keeps the focus on the central figure while softly blurring the background, capturing a candid, joyful moment of creativity and learning in a STEM classroom.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:37.669505",
+  "word_count": 172,
+  "error_message": null
+}

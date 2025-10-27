@@ -1,0 +1,12 @@
+{
+  "image_filename": "0128e951-130d-48cf-bfc4-0ba7e317da0c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, futuristic white hatchback car, viewed from behind, speeds through a neon-lit, rain-slicked rooftop parking garage at night. The car’s taillights glow with a vivid magenta strip, contrasting sharply against the cool blue and cyan reflections shimmering on the wet concrete surface. The word “ALPINE” is prominently displayed on the rear of the vehicle, emphasizing its modern, high-performance design. In the background, the city skyline is softly blurred, with high-rise buildings illuminated by scattered lights, adding depth and a sense of urban energy. The garage is bathed in atmospheric blue lighting, with bold magenta arrows and digital timecodes projected onto the walls, enhancing the cyberpunk aesthetic. The camera angle is low and centered, creating a dynamic, cinematic composition that emphasizes speed and motion. The overall mood is sleek, high-tech, and slightly mysterious, with a color palette dominated by electric blues, purples, and cool whites, evoking a sense of nocturnal adventure in a near-future metropolis.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:03.481265",
+  "word_count": 155,
+  "error_message": null
+}

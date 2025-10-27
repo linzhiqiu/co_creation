@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ed5cbcc-d760-4885-b221-057088ca54d4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit, rustic garage converted into a home gym, filled with climbing equipment and sports gear. In the foreground, two sleek, white service robots with black screens for faces observe a young athletic woman. She is mid-jump, reaching upward with arms extended, her blonde hair flying, dressed in a black sports bra and dark athletic shorts. The background features a wooden climbing wall with colorful holds, ropes, and carabiners hanging neatly on the brick wall. The lighting is natural and warm, streaming in from a window or open door, casting soft highlights and gentle shadows that emphasize the textures of wood, brick, and fabric. The composition uses a wide-angle lens, creating a sense of depth and space, with the robots in sharp focus and the woman slightly blurred in motion, capturing her dynamic leap. The overall mood is energetic and futuristic, blending human athleticism with advanced technology in a cozy, lived-in environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:15.746809",
+  "word_count": 152,
+  "error_message": null
+}

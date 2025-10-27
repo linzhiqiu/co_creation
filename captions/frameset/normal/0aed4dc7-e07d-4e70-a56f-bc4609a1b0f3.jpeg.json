@@ -1,0 +1,12 @@
+{
+  "image_filename": "0aed4dc7-e07d-4e70-a56f-bc4609a1b0f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands in profile in the foreground of a wide, open rural landscape at sunset, holding an open laptop in her hands. She is dressed casually in a light shirt and jeans, her hair pulled back in a ponytail, and her posture is focused yet relaxed as she looks at the screen. The sky behind her is a dramatic gradient of warm oranges, soft pinks, and dusky purples, with the last light of day casting a gentle glow over the scene. Faint silhouettes of fence posts and rolling fields stretch into the distance, emphasizing the vastness and tranquility of the countryside.\n\nEmerging from the laptop, a stream of glowing, ethereal particles—primarily green and white—spirals upward and outward, forming a dynamic, magical trail that arcs across the sky. The particles are luminous, creating a sense of movement and wonder, as if digital data or energy is being released into the air. The overall composition is cinematic, with a shallow depth of field that keeps the woman and the digital effects in sharp focus while the background remains softly blurred. The lighting is natural and warm, enhancing the serene yet imaginative mood. The style blends realism with a touch of fantasy, evoking themes of technology, possibility, and connection to nature.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:46.976752",
+  "word_count": 210,
+  "error_message": null
+}

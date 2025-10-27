@@ -1,0 +1,12 @@
+{
+  "image_filename": "01373fee-ada9-46a4-ab13-906cb7bc5df1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a minimalist, cinematic scene set in a stark, modern interior. The composition is dominated by a long, narrow staircase with pale, almost white walls that converge toward a tall, vertical window at the far end, flooding the space with soft, natural daylight. At the center of the image, a solitary woman is descending the stairs, her back to the viewer. She wears a dark, tailored suit, her straight hair falling just past her shoulders, creating a striking contrast against the light surroundings. The atmosphere is quiet and contemplative, with a sense of solitude and introspection. The camera angle is slightly tilted, enhancing the dramatic perspective and depth, while the high-key lighting and muted color palette evoke a serene, almost ethereal mood. The overall style is clean and architectural, with an emphasis on geometric lines, negative space, and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:05.343117",
+  "word_count": 145,
+  "error_message": null
+}

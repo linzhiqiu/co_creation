@@ -1,0 +1,12 @@
+{
+  "image_filename": "05f0167a-f70a-4f0d-b492-fb30907dbaf9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, dimly lit auditorium filled with rows of Japanese high school students, all dressed in crisp white shirts and dark ties or ribbons, standing in orderly formation. The students’ expressions are serious and attentive, their faces partially illuminated by a cool, bluish overhead light that casts deep shadows, creating a somber and tense atmosphere. In the foreground, a single raised fist is silhouetted against the crowd, drawing the viewer’s focus and adding a sense of defiance or unity. The camera angle is elevated and slightly off-center, looking down over the sea of students, emphasizing the scale and uniformity of the group. The background features a set of double doors, slightly ajar, letting in a faint sliver of light that contrasts with the otherwise muted, monochromatic color palette. The overall style is cinematic and dramatic, with high contrast, minimal color saturation, and a shallow depth of field that keeps the focus on the mass of students and the solitary raised fist, evoking a mood of collective tension and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:47.611919",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e4eb209-11f1-4119-a32b-01c862fc8ced.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic scene featuring a vintage CRT television as the central subject, positioned prominently in the foreground. The TV screen displays bright, glowing static—white noise with a subtle flicker—casting a cold, bluish-white light that softly illuminates its immediate surroundings. The television sits on a low surface in a dimly lit, rustic room with dark wooden walls and visible beams, evoking an old attic or basement. The background is shrouded in deep shadows, with hints of warm, reddish ambient light seeping through the wood, creating a stark contrast with the cool light from the TV. The overall color palette is dominated by dark browns, deep reds, and the harsh white of the static, enhancing the eerie, suspenseful atmosphere. The composition is centered and symmetrical, with the TV framed tightly, drawing the viewer’s focus to the hypnotic static. The camera angle is eye-level, straight-on, and the depth of field is shallow, keeping the television in sharp focus while the background remains softly blurred, heightening the sense of isolation and mystery. The style is reminiscent of psychological horror films, with a palpable tension and a sense of anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:04.655248",
+  "word_count": 187,
+  "error_message": null
+}

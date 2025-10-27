@@ -1,0 +1,12 @@
+{
+  "image_filename": "02f6b808-c619-49a9-9254-68a4ac1f8a54.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, inviting café scene viewed from outside through a glass door. The focus is on a handwritten sign that reads \"abierto\" (Spanish for \"open\") hanging on the door, slightly off-center, with a soft, natural light illuminating the glass and the sign. Behind the door, partially obscured by a white lace curtain, a young woman is visible, her face joyful and smiling as she reaches up to adjust the sign. The background inside the café is softly blurred, hinting at shelves with various items and a warm, welcoming atmosphere. The color palette is muted and warm, with creamy whites, soft beiges, and gentle browns dominating the scene. The lighting is diffuse and natural, suggesting early morning or late afternoon, with a gentle, cinematic quality. The composition uses a shallow depth of field to keep the viewer’s attention on the sign and the woman’s expression, while the vertical lines of the door and the curtain add structure. The overall mood is intimate, hopeful, and quietly celebratory, evoking the anticipation of a new day or the start of something special.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:44.111668",
+  "word_count": 178,
+  "error_message": null
+}

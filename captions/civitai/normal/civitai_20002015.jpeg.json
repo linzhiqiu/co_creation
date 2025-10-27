@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_20002015.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A hyper-realistic, cinematic scene set in a neon-lit urban alley at night, featuring a striking motorcycle constructed almost entirely from oversized, glossy lemons. The motorcycle’s body, fuel tank, and wheels are all made of vibrant yellow lemons, some sliced open to reveal juicy interiors, with droplets of water glistening on their surfaces. The chrome engine and mechanical parts peek out from between the fruit, adding a surreal, whimsical contrast. Scattered lemons and lemon slices lie on the wet, reflective pavement, catching the glow of neon signs and streetlights above. The background is filled with blurred signage and industrial details, bathed in cool blue and magenta hues, creating a moody, cyberpunk atmosphere. The lighting is dramatic, with sharp highlights and deep shadows, emphasizing the surreal textures and the playful, imaginative fusion of organic and mechanical elements. The camera angle is low and close, giving the motorcycle a heroic, larger-than-life presence, with a shallow depth of field that keeps the focus on the lemon motorcycle while softly blurring the bustling city backdrop.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:50:53.775645",
+  "word_count": 170,
+  "error_message": null
+}

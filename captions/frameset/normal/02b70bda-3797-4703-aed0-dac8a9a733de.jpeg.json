@@ -1,0 +1,12 @@
+{
+  "image_filename": "02b70bda-3797-4703-aed0-dac8a9a733de.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a digital countdown timer, its large red LED numbers frozen at \"0:00:00,\" dominates the frame. The timer is encased in a black, utilitarian housing, with visible red and black wires snaking around the device, suggesting a sense of urgency and danger. Above the display, a small green circuit board with white connectors and a single amber LED adds a technical, improvised feel, hinting at a homemade or makeshift device. The background is dark and out of focus, drawing all attention to the glowing numerals and the intricate details of the timer’s construction. The lighting is moody and cinematic, with the red glow of the digits casting a subtle illumination on the surrounding components, enhancing the tension and suspense. The composition is tight and centered, emphasizing the critical moment as the timer reaches zero, evoking the climax of a thriller or action film. The overall color palette is dominated by deep blacks, vivid reds, and muted greens, creating a dramatic, high-stakes atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:39.139022",
+  "word_count": 165,
+  "error_message": null
+}

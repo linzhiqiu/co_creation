@@ -1,0 +1,12 @@
+{
+  "image_filename": "040061f6-3878-4e1e-88ed-16906ad2d28b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast monochrome scene featuring a young, androgynous figure sprinting directly toward the camera through a dark, minimalistic environment. The subject wears tactical, form-fitting black clothing, with visible straps and rugged boots, exuding a sense of urgency and determination. Their expression is intense and focused, eyes locked forward, with short, wet hair slicked back, suggesting recent exertion or rain. \n\nA large owl, wings outstretched in mid-flight, soars beside the runner at shoulder height, its feathers sharply detailed and illuminated by a single, directional light source from above, casting deep shadows and accentuating the textures. The background is a seamless, shadowy void, with no discernible features, enhancing the sense of isolation and suspense. \n\nDebris and dark particles are suspended in the air, frozen in motion, adding dynamic energy and a sense of chaos to the composition. The overall style is cinematic and moody, with a shallow depth of field that keeps the focus tightly on the subject and the owl, while the foreground and background blur into darkness. The image evokes a sense of action, mystery, and primal connection between human and animal, reminiscent of a high-stakes, dystopian narrative.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:09.090048",
+  "word_count": 190,
+  "error_message": null
+}

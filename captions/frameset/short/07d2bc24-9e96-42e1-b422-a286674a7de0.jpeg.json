@@ -1,0 +1,12 @@
+{
+  "image_filename": "07d2bc24-9e96-42e1-b422-a286674a7de0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking black-and-white portrait of a man in a wide-brimmed cowboy hat and patterned shirt, gazing sideways with a confident, enigmatic expression. Soft, even lighting highlights his features against a minimal, blurred background, where a second figure in dark attire adds intrigue. Cinematic, shallow depth of field, moody and stylish.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:31.797691",
+  "word_count": 50,
+  "error_message": null
+}

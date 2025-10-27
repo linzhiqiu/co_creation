@@ -1,0 +1,12 @@
+{
+  "image_filename": "0505bf9d-2a7a-4c78-a995-86dfe8a789c1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic urban street scene captured in bright midday sunlight, featuring a young person in mid-stride as they run along a residential sidewalk. The subject, dressed in a blue shirt, dark shorts, and sneakers, carries a yellow backpack, their motion frozen with one leg extended forward and the other bent behind, casting a sharp shadow on the pavement. The expression and details of the face are obscured by the angle and movement, emphasizing the energy and spontaneity of the moment.\n\nThe setting is a quiet suburban neighborhood with single-story houses, manicured lawns, and lush greenery. A chain-link fence lined with blooming red and pink flowers separates the sidewalk from a yard, where a yellow and white plastic playhouse adds a playful touch. Parked cars, including a red pickup truck and a blue sedan, line the street, while mature trees provide dappled shade in the background.\n\nA prominent yellow \"DIP\" road sign and a street pole anchor the left side of the composition, with a curb and a small puddle reflecting the sky at the bottom edge. The camera angle is slightly elevated, as if taken from a vehicle or street view perspective, creating a sense of candid observation. The color palette is vibrant and sunlit, with strong contrasts between the deep shadows and the saturated hues of the foliage, flowers, and clothing. The overall style is realistic and documentary, capturing the fleeting energy of everyday life in a suburban environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:31.140392",
+  "word_count": 240,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "017b08c7-550f-4fb0-9119-aee51b51d7bf.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dynamic nighttime scene of four male sprinters racing on an outdoor track under bright stadium lights. Each runner wears a distinct, vividly colored athletic outfit: one in green, one in red, one in yellow, and one in blue, with matching or complementary running shoes. The athletes are captured mid-stride, muscles tensed and faces focused with intense determination, conveying the energy and competition of the race. The background is dark, with only the faint outlines of distant hills and minimal stadium structures visible, emphasizing the isolation of the illuminated track. The lighting is dramatic, casting sharp shadows and highlighting the runners’ forms against the deep blue of the track and the blackness beyond. The camera angle is low and frontal, slightly off-center, creating a sense of immediacy and motion as the runners approach. The overall style is cinematic, with high contrast, saturated colors, and a shallow depth of field that keeps the athletes in sharp focus while the background fades into darkness, evoking the tension and excitement of a high-stakes nighttime competition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:10.678693",
+  "word_count": 173,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "00acece2-61f5-40c3-a89d-44a512bbf52e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person holding a modern smartphone in both hands, with the focus on the phone’s screen. The phone displays a notification from an app called “Autotrader,” featuring a cheerful car emoji and the message: “Your new car has arrived!” The time on the phone reads 4:30, and the date is Friday, October 2. The background is softly blurred with a neutral, gradient tone, creating a shallow depth of field that draws attention to the device and the hands. The lighting is soft and natural, highlighting the contours of the hands and the sleek edges of the phone without harsh shadows. The color palette is warm and inviting, with the phone’s screen displaying a gentle gradient of orange, blue, and cream hues. The overall style is clean, modern, and minimalistic, evoking a sense of anticipation and excitement. The composition centers the phone and notification, with the hands providing a subtle frame, and the camera angle is slightly above and in front of the device, offering a clear, unobstructed view of the screen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:53.921304",
+  "word_count": 175,
+  "error_message": null
+}

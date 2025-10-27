@@ -1,0 +1,12 @@
+{
+  "image_filename": "0bd0b96c-fde6-4860-a02c-d3e90a1aebe5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, split-screen bedroom scene at night, featuring two individuals in contrasting moods and lighting. On the left, a young man sits on a bed with a black metal headboard, dressed in a striped shirt, illuminated by cool blue and magenta neon light. He is absorbed in a digital tablet, his expression focused and introspective, the soft bedding and shadows adding a sense of solitude. On the right, a woman with her hair in a bun sits in an armchair beside a nightstand, wearing a deep red robe. She reads a book, bathed in the warm, golden glow of a vintage table lamp that casts intricate shadows on the ornate, patterned wallpaper behind her. The composition is balanced and symmetrical, with a clear division between the two color palettes—cool, modern tones on the left and warm, nostalgic hues on the right. The overall style is moody and atmospheric, with soft, diffused lighting, a shallow depth of field, and a painterly, cinematic quality that emphasizes the emotional distance and parallel solitude of the two characters.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:07.187443",
+  "word_count": 174,
+  "error_message": null
+}

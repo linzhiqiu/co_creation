@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_33843496.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A grid of twelve portrait photographs, each featuring the same male subject with distinctive Vulcan features: sharply arched eyebrows, pointed ears, and a straight, angular haircut reminiscent of the iconic character Spock from Star Trek. The subject is dressed in a simple, high-collared black shirt, and is positioned against a solid, deep black background, creating a stark contrast that emphasizes his facial features and expressions. Each portrait is labeled with a different emotion—such as \"BORED,\" \"GRUMPY,\" \"EXCITED,\" \"EMBARRASSED,\" \"ANGRY,\" \"DISTRUSTED,\" \"CONFUSED,\" \"SURPRISED,\" and \"BUZZ\"—yet the subject’s facial expression remains almost entirely unchanged in all but the last image, where he displays a wide, exaggerated smile. The lighting is even and soft, eliminating harsh shadows and lending a clinical, almost studio-like quality to the images. The color palette is muted, dominated by black, pale skin tones, and subtle highlights in the hair. The composition is symmetrical and formal, with each headshot tightly framed and centered, evoking a sense of uniformity and deadpan humor. The overall style is clean, minimalist, and slightly satirical, with a focus on the subtlety (or lack thereof) of emotional expression.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:57:18.625259",
+  "word_count": 183,
+  "error_message": null
+}

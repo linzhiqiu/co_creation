@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d77794d-ddba-44ce-b348-3b1fd3a88443.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A warmly lit, intimate interior scene set in a cozy home office at night. The composition centers on a large wooden desk, illuminated by the soft, golden glow of a table lamp on the left, casting gentle shadows and creating a moody, contemplative atmosphere. A person, visible only from the waist down and with their sleeves rolled up, leans over the desk, hands carefully unrolling a large architectural blueprint or floor plan. The focus is on the hands and the detailed lines of the blueprint, suggesting concentration and intent. In the background, subtle elements of domestic life are visible: a framed family photograph, a stack of books, and a few personal items, all softly blurred to emphasize depth of field. The color palette is dominated by warm ambers, deep browns, and muted shadows, evoking a sense of quiet focus and late-night dedication. The camera angle is slightly low and close to the desk, enhancing the intimacy and drawing attention to the tactile interaction with the paper. The overall style is cinematic, with naturalistic lighting and a shallow depth of field, capturing a moment of solitary work and reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:43.381804",
+  "word_count": 188,
+  "error_message": null
+}

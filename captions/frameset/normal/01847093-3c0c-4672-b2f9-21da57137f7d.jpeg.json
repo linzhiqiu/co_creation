@@ -1,0 +1,12 @@
+{
+  "image_filename": "01847093-3c0c-4672-b2f9-21da57137f7d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene featuring a sleek, modern silver BMW sedan parked in a dimly lit urban environment. The car is positioned front and center, dominating the composition, with its headlights turned on and shining brightly, casting a cool, bluish-white glow that creates dramatic reflections on the car’s polished surface and the ground below. The BMW emblem is clearly visible on the hood, emphasizing the luxury and sophistication of the vehicle. \n\nInside the car, a single female figure is partially visible through the windshield, seated in the driver’s seat. Her face is softly illuminated by the dashboard lights, but her features remain mostly in shadow, adding an air of mystery and introspection. The background is dark and out of focus, with faint hints of city buildings and windows, enhancing the sense of isolation and nighttime ambiance. \n\nThe overall color palette is cool and subdued, dominated by silvers, grays, and the stark white of the headlights, with subtle hints of blue and green from the ambient city lights. The lighting is moody and atmospheric, with high contrast between the illuminated car and the shadowy surroundings. The camera angle is low and head-on, creating a sense of power and presence, while a shallow depth of field keeps the focus tightly on the car and its driver, blurring the background for a cinematic, dramatic effect.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:17.571977",
+  "word_count": 223,
+  "error_message": null
+}

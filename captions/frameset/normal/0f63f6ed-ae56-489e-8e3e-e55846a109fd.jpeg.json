@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f63f6ed-ae56-489e-8e3e-e55846a109fd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern white hatchback car, specifically a SEAT Ibiza, drives along a quiet urban street at dusk. The car is captured in motion from a low, three-quarter front angle, emphasizing its dynamic lines and illuminated LED headlights, which cast a cool, bluish glow onto the pavement. The background features contemporary city architecture with glass and concrete facades, softly lit by streetlights and the warm, ambient glow of building interiors. Sparse trees line the sidewalk, their leaves tinged with the golden hues of artificial lighting. The overall color palette is a balanced mix of cool blues and warm yellows, creating a cinematic, slightly moody atmosphere. The street is mostly empty, with only a single parked scooter visible in the distance, enhancing the sense of calm and focus on the car. The image has a shallow depth of field, subtly blurring the background to draw attention to the vehicle, and the lighting is naturalistic, evoking the quiet energy of a city evening.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:28.941431",
+  "word_count": 161,
+  "error_message": null
+}

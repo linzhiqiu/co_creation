@@ -1,0 +1,12 @@
+{
+  "image_filename": "02917f35-7746-4c9f-9a5c-16df07d7a263.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A rainy parking lot scene viewed from above, with wet asphalt reflecting overcast light. A solitary figure in dark clothing pushes a shopping cart past rows of parked cars, carrying groceries. The muted color palette and soft focus foreground foliage evoke a somber, cinematic mood, emphasizing solitude and everyday routine.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:29.868354",
+  "word_count": 50,
+  "error_message": null
+}

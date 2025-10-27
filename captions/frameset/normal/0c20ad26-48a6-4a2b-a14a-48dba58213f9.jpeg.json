@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c20ad26-48a6-4a2b-a14a-48dba58213f9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, vintage-style world map scene, centered on a large, colorful map pinned to a wall. The map features rich, earthy tones—deep blues for the oceans, warm ochres, greens, and reds for the continents, and subtle topographical shading that gives a sense of elevation and terrain. The map is bordered at the top by a decorative strip with circular insets, suggesting an old-school, educational or explorer’s aesthetic. The setting is indoors, with soft, natural daylight filtering in from the left, casting gentle shadows and creating a warm, inviting atmosphere. The edges of the scene reveal hints of a cozy, wooden interior—visible beams, a window frame, and a few indistinct objects that suggest a lived-in, personal space. The composition is symmetrical and focused, with the map dominating the frame, inviting the viewer to explore its details. The overall style is reminiscent of a documentary or adventure film, with a nostalgic, tactile quality and a sense of curiosity and discovery.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:12.532753",
+  "word_count": 160,
+  "error_message": null
+}

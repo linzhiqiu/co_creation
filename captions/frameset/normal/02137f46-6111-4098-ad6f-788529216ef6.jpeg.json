@@ -1,0 +1,12 @@
+{
+  "image_filename": "02137f46-6111-4098-ad6f-788529216ef6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a dramatic, upward-looking view from the base of a large, leafless tree in winter. The camera angle is low, almost at ground level, gazing up into the intricate, sprawling network of bare branches that stretch outward and fill the frame. The tree’s thick, textured trunk dominates the center, with its dark, rough bark contrasting against the pale, overcast sky. The branches are thin and tangled, creating a web-like silhouette against the cool, bluish-gray background. The overall color palette is subdued and cold, with deep blacks and muted blues, evoking a sense of quiet, chilly stillness. The lighting is soft and diffuse, with no direct sunlight, enhancing the somber, contemplative mood. The composition emphasizes the tree’s grandeur and complexity, with a sense of depth created by the overlapping branches and the subtle gradient of the sky. The style is naturalistic and slightly moody, reminiscent of a winter morning or evening, capturing the stark beauty and solitude of the season.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:22.371376",
+  "word_count": 160,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "06b19e11-03cc-4f7f-a2d3-19bf7eaa53e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic urban scene set beneath elevated train tracks in a city, captured on an overcast day with diffused, natural lighting. The composition is layered, with rust-colored steel beams and girders dominating the foreground, framing the image and creating a sense of depth. In the midground, a silver subway train snakes along a teal-green elevated track, its cars slightly blurred to suggest motion. The background features a mix of modern high-rise buildings and older brick structures, some adorned with faded graffiti and weathered signage. The street below is sparsely populated, with a few small trees and street signs visible, adding to the gritty, authentic city atmosphere. The color palette is muted and cool, with dominant tones of steel blue, rust, and gray, punctuated by the occasional green from the train tracks and foliage. The overall style is reminiscent of urban photography or a scene from a contemporary drama film, with a slightly wide-angle perspective and a focus on architectural lines, urban textures, and the interplay between infrastructure and city life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:07.539968",
+  "word_count": 170,
+  "error_message": null
+}

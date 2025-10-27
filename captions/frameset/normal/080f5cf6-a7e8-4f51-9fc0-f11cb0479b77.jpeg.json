@@ -1,0 +1,12 @@
+{
+  "image_filename": "080f5cf6-a7e8-4f51-9fc0-f11cb0479b77.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A warmly lit kitchen scene at night, captured with a shallow depth of field for a cinematic, intimate feel. In the foreground, a tablet stands upright on a marble countertop, displaying a video call with an older woman wearing glasses and a patterned scarf, smiling and giving a thumbs-up gesture. The tablet screen is crisp and clear, showing the woman in a cozy, softly lit room. Surrounding the tablet on the counter are ingredients for cooking: a halved red onion, sliced carrots, and a chef’s knife on a wooden cutting board, with other food items and packaging slightly out of focus. The background features softly glowing under-cabinet lights, wooden cabinetry, and blurred kitchen appliances, creating a homely, inviting atmosphere. The color palette is dominated by warm, golden tones with gentle shadows, evoking a sense of comfort and connection. The composition centers the tablet and its screen, drawing attention to the virtual interaction, while the out-of-focus kitchen elements add depth and context, suggesting a shared cooking experience across distance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:38.420530",
+  "word_count": 168,
+  "error_message": null
+}

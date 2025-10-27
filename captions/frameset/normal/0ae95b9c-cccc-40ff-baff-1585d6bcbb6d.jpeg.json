@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ae95b9c-cccc-40ff-baff-1585d6bcbb6d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits at a modern white desk, intently gazing at a large desktop computer screen. The monitor displays a vibrant, digital painting of two colorful cats rendered in a dreamy, painterly style, with swirling hues of pink, purple, blue, and yellow. The cats’ expressive eyes and soft fur are accentuated by the bold, saturated color palette, giving the artwork a whimsical, almost surreal quality. The computer interface overlays the image, showing a camera icon and a folder, suggesting she is working on or viewing digital art.\n\nThe woman is captured in profile, her expression focused and slightly awed, as if inspired by the artwork before her. She wears a teal top, and her brown hair is pulled back, keeping the attention on her face and the screen. The room is softly lit by natural daylight streaming through a sheer white curtain, creating a gentle, diffused glow that enhances the calm, creative atmosphere. A small green potted plant adds a touch of life to the minimalist workspace.\n\nThe composition is intimate and cinematic, with a shallow depth of field that keeps the woman and the computer in sharp focus while the background remains softly blurred. The camera angle is at eye level, drawing the viewer into the scene and emphasizing the connection between the subject and her digital creation. The overall mood is one of quiet concentration and artistic inspiration, blending the modern digital world with a sense of personal creativity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:48.695798",
+  "word_count": 242,
+  "error_message": null
+}

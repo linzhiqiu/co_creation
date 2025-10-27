@@ -1,0 +1,12 @@
+{
+  "image_filename": "112b5381-61e0-4533-9cf3-e6c98e9ee33d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits at a wooden desk in a dimly lit room at night, illuminated only by the warm, focused glow of a modern desk lamp. He is intently working on a laptop, his posture slightly hunched, with his face partially in shadow, creating a contemplative and introspective mood. The man wears a dark, long-sleeved shirt, blending into the subdued, cool-toned environment. Outside the large window behind him, the blurred outlines of a white car and urban buildings are visible, softly lit by streetlights, adding depth and a sense of quiet city life. The overall color palette is a moody mix of deep blues and warm amber highlights, with high contrast between the lamp’s light and the surrounding darkness. The composition is cinematic, with a shallow depth of field that keeps the focus on the man and his immediate workspace, while the background remains softly out of focus. The scene evokes a sense of solitude, late-night dedication, and quiet determination, reminiscent of a dramatic film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:01.901677",
+  "word_count": 167,
+  "error_message": null
+}

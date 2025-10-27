@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b598e54-2ff7-463f-a7d4-4c44f6a55dfd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene featuring two security cameras mounted on the corner of an industrial building. The cameras are positioned at an angle, facing each other across the edge of a corrugated metal wall, creating a sense of surveillance and tension. The left camera glows with a subtle red light, while the right camera is illuminated by a cool blue light, casting dramatic shadows and reflections on the metallic surfaces. The background consists of vertical corrugated metal panels, bathed in a gradient of teal and blue hues, enhancing the cold, urban atmosphere. The foreground includes a dark, angular structure with a muted orange panel, adding a pop of contrasting color. The lighting is low-key and stylized, with strong color contrasts and a shallow depth of field that keeps the focus on the cameras and the interplay of light and shadow. The overall style is reminiscent of neo-noir cinematography, evoking a sense of mystery, surveillance, and modern urban isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:57.160220",
+  "word_count": 158,
+  "error_message": null
+}

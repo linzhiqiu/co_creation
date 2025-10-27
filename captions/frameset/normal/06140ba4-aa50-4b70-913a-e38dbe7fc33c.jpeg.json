@@ -1,0 +1,12 @@
+{
+  "image_filename": "06140ba4-aa50-4b70-913a-e38dbe7fc33c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic portrait of a middle-aged man in a workshop or garage setting. The man is seen in profile, his face partially turned toward the camera, wearing safety glasses and a wireless earpiece with a visible wire looping around his ear. He has short dark hair, a trimmed salt-and-pepper beard, and a focused, contemplative expression as he looks intently at something out of frame. The lighting is natural and diffused, casting soft shadows and highlighting the texture of his skin and stubble. The background is slightly out of focus, revealing hints of industrial elements—red toolboxes, metallic surfaces, and blurred signage—contributing to the authentic, working environment. The color palette is muted and realistic, dominated by cool grays, deep reds, and subtle blue tones, evoking a sense of concentration and craftsmanship. The composition uses a shallow depth of field, drawing attention to the subject’s face while allowing the background details to recede, creating an intimate, documentary-style atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:51.397748",
+  "word_count": 156,
+  "error_message": null
+}

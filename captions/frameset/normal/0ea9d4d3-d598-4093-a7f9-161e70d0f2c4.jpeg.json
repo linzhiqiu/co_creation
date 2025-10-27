@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ea9d4d3-d598-4093-a7f9-161e70d0f2c4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, cinematic overhead shot of a secretive council meeting set in a grand, dimly lit chamber. The composition is perfectly symmetrical, with a circular arrangement of twelve individuals seated in modern, deep red armchairs around a central glass floor. Beneath the glass, a classical painting of a reclining nude figure is visible, adding an enigmatic and artistic focal point. The council members wear coordinated, formal attire in muted tones—grays, blacks, and whites—contrasting with the vivid red of their chairs. Two additional figures stand outside the circle, dressed in black, observing the proceedings. The room is spacious, with large stone columns framing the scene and a cool, desaturated color palette that emphasizes the seriousness and secrecy of the gathering. The lighting is soft and diffused, casting gentle shadows and highlighting the reflective surface of the glass floor. The overall style is reminiscent of a high-budget, artful thriller, with a sense of ritual, power, and intrigue conveyed through the precise arrangement and somber mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:12.407837",
+  "word_count": 165,
+  "error_message": null
+}

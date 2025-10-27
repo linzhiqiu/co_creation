@@ -1,0 +1,12 @@
+{
+  "image_filename": "0568ea9a-f548-47cf-9117-238f74d53dfd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a vintage, octagonal wall clock with bold Roman numerals, centered perfectly in the frame. The clock’s face is slightly aged, with ornate black hour and minute hands pointing to 11:55, and a slender second hand near the bottom. The background features a striking, geometric wallpaper pattern of alternating diamond shapes in muted tones of gray and white, adding a sense of depth and visual rhythm. The lighting is soft and even, casting minimal shadows and highlighting the clock’s subtle textures and the crispness of the wallpaper. The overall style is reminiscent of classic black-and-white cinematography, with a sharp focus on the clock and a shallow depth of field that gently blurs the background, evoking a sense of anticipation and timelessness. The composition is symmetrical and balanced, emphasizing the clock as the central subject and creating a mood of suspense and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:34.315726",
+  "word_count": 146,
+  "error_message": null
+}

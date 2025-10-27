@@ -1,0 +1,12 @@
+{
+  "image_filename": "10d3c843-085b-4673-b756-006f51ae2e5b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary professor stands at the center of a spacious, old-fashioned lecture hall, illuminated by a shaft of warm, late-afternoon sunlight streaming through tall windows on the left. The professor, dressed in a white shirt and dark trousers, is positioned in front of a large, green chalkboard densely covered with complex mathematical equations and diagrams. The wooden paneling of the walls and the polished, empty benches in the foreground evoke a sense of academic tradition and quiet reverence. The camera angle is high and wide, capturing the emptiness of the room and emphasizing the professor’s isolation within the grand, echoing space. The color palette is dominated by rich, golden browns and deep greens, with dramatic contrasts between the sunlit areas and the deep shadows, creating a cinematic, contemplative mood. The overall style is reminiscent of classic European cinema, with careful attention to composition, natural light, and the interplay of solitude and intellectual pursuit.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:54.369571",
+  "word_count": 153,
+  "error_message": null
+}

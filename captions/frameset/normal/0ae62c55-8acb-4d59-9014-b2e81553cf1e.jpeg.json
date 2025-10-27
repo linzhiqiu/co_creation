@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ae62c55-8acb-4d59-9014-b2e81553cf1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits at a wooden table in a dimly lit, cozy café, working intently on a laptop. He wears a simple white t-shirt, his expression focused and contemplative, illuminated by the soft, warm glow of ambient lighting that creates gentle highlights on his face and arms. The background features rustic shelves lined with large glass jars, filled with various ingredients or coffee beans, adding texture and depth to the scene. Heavy curtains hang to one side, partially obscuring a concrete or stone wall, contributing to the intimate, slightly industrial atmosphere. The foreground is artfully blurred, with out-of-focus shapes and bokeh lights suggesting other tables or glassware, enhancing the sense of depth and drawing the viewer’s eye toward the subject. The overall color palette is muted and earthy, dominated by browns, grays, and warm golden tones, evoking a sense of quiet concentration and solitude. The composition uses a shallow depth of field and a slightly off-center camera angle, reminiscent of a cinematic still, capturing a moment of peaceful productivity in an urban hideaway.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:46.822768",
+  "word_count": 174,
+  "error_message": null
+}

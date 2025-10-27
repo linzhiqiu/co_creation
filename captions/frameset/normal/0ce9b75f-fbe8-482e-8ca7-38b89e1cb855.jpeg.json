@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ce9b75f-fbe8-482e-8ca7-38b89e1cb855.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A high-angle, cinematic aerial shot of a vast, meticulously trimmed hedge maze, its dark green walls forming sharp, geometric patterns that stretch across the frame. The maze is dense and labyrinthine, with tall, uniform hedges casting deep, moody shadows into the narrow pathways below. The lighting is subdued and overcast, lending a cool, desaturated color palette dominated by deep greens and muted grays, evoking a sense of mystery and quiet tension. The composition emphasizes the complexity and scale of the maze, with the camera positioned directly above, creating a sense of disorientation and intrigue. The overall style is atmospheric and slightly surreal, reminiscent of a suspenseful film or a dreamlike sequence, with a focus on the maze’s imposing structure and the enigmatic mood it creates.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:29.307096",
+  "word_count": 125,
+  "error_message": null
+}

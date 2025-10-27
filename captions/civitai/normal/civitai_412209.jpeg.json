@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_412209.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, classical portrait of a young woman in a serene, natural setting reminiscent of 18th or early 19th-century European art. The subject is depicted from the waist up, with her body turned slightly to the side but her head gently facing forward, gazing directly at the viewer with a calm, introspective expression. She has delicate, softly curled hair parted in the center, framing her face with subtle, natural waves. Her attire is a simple, elegant dress with a wide neckline, rendered in soft, flowing fabric that drapes gracefully over her shoulders.\n\nThe background features a tranquil, wooded landscape with softly rendered trees and foliage, creating a sense of depth and peacefulness. A leafy branch extends into the foreground beside the woman, its detailed leaves contrasting with the smoothness of her skin and the softness of her dress. The entire scene is executed in a monochromatic, graphite or charcoal style, emphasizing fine shading, subtle gradations of light and shadow, and meticulous attention to texture.\n\nThe lighting is gentle and diffuse, illuminating the woman’s face and upper body with a soft, even glow, while the background recedes into a misty, atmospheric haze. The overall composition is balanced and harmonious, with a classical sense of proportion and poise. The mood is contemplative and timeless, evoking the quiet elegance and refined beauty of traditional portraiture.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:00:44.145728",
+  "word_count": 224,
+  "error_message": null
+}

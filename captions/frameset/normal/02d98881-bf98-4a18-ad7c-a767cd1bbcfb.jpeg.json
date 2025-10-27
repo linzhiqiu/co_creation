@@ -1,0 +1,12 @@
+{
+  "image_filename": "02d98881-bf98-4a18-ad7c-a767cd1bbcfb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A mid-30s man with short dark hair sits at a desk in a modern office, captured in a candid moment as he turns to look over his shoulder with a slightly surprised or concerned expression. He wears a light gray dress shirt with the sleeves rolled up and a dark tie, giving a sense of business-casual professionalism. His posture is tense, as if he has just been interrupted while working. On the desk in front of him is a computer monitor displaying a colorful spreadsheet, along with a few office supplies and a wooden desk organizer, adding to the authentic workplace atmosphere.\n\nThe background features a glass-walled meeting room, softly out of focus, where several colleagues are engaged in conversation, their forms blurred to emphasize the subject in the foreground. The lighting is natural and diffused, likely from large windows out of frame, casting soft shadows and creating a realistic, slightly subdued color palette dominated by grays, beiges, and muted earth tones. The overall composition uses a shallow depth of field to draw attention to the man, while the glass and reflections add depth and a sense of modern corporate space. The camera angle is at eye level, enhancing the immediacy and relatability of the scene, reminiscent of a contemporary workplace drama or a documentary-style film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:43.929714",
+  "word_count": 216,
+  "error_message": null
+}

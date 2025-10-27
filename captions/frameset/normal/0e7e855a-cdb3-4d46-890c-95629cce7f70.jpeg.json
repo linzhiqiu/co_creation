@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e7e855a-cdb3-4d46-890c-95629cce7f70.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set in a high-tech surveillance control room with a cool, blue-toned color palette. The room is dominated by a massive wall of screens displaying hundreds of identical headshots of a person in a suit and sunglasses, evoking a sense of uniformity and surveillance. In the foreground, three women in formal attire—two in dark suits and one in a white blouse—are positioned around a sleek, futuristic control console filled with glowing buttons and digital displays. The women have composed, professional expressions, with two seated and one standing casually against the console. The lighting is crisp and artificial, casting soft highlights and subtle shadows that enhance the modern, slightly dystopian atmosphere. The camera angle is slightly low and wide, capturing both the imposing scale of the screen wall and the confident posture of the women, with a shallow depth of field that keeps the focus on the subjects while the background remains detailed but not distracting. The overall style is reminiscent of a stylish sci-fi thriller, blending elements of minimalism and high-tech intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:09.992429",
+  "word_count": 175,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e51bb1f-0db7-4d77-b45b-90f36e64dba6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young man with medium-length, dark hair, sitting outdoors against a backdrop of a cloudy sky and modern architectural elements. He wears a loose, blue-and-brown plaid flannel shirt layered over a white t-shirt, accessorized with a delicate chain necklace and a small earring. The subject is captured in a thoughtful, introspective moment, gazing downward with a soft, contemplative expression. He holds a pencil loosely in one hand, poised above a sketchbook or notebook that rests out of focus in the foreground, suggesting creative activity or deep thought. The color palette is cool and muted, dominated by soft blues, browns, and whites, with natural daylight providing gentle, diffuse lighting that enhances the serene and reflective mood. The composition uses a shallow depth of field to keep the focus on the subject’s face and upper body, while the background remains softly blurred, evoking a sense of quiet concentration and artistic inspiration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:08.192240",
+  "word_count": 154,
+  "error_message": null
+}

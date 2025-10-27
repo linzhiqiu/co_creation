@@ -1,0 +1,12 @@
+{
+  "image_filename": "012e6660-a062-479c-9977-c91ea1720423.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a digital tablet screen displaying a modern messaging or video call interface. The main focus is on a white chat window with a purple header labeled \"Ted's,\" featuring a loading animation and the text \"Starting video...\" in the center. Below, there is a text input field with the placeholder \"Send a message...\" and a small chat bubble icon in the lower right corner. The left side of the screen shows a blurred sidebar with faint text, suggesting a list of contacts or recent conversations. The color palette is clean and minimalistic, dominated by whites, soft grays, and accents of purple, evoking a contemporary, tech-savvy atmosphere. The lighting is soft and natural, with no harsh shadows, emphasizing the clarity of the digital interface. The composition is slightly angled, creating a sense of depth and realism, as if the viewer is about to interact with the device. The overall style is sleek, professional, and user-friendly, reminiscent of promotional imagery for modern communication apps.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:04.992105",
+  "word_count": 165,
+  "error_message": null
+}

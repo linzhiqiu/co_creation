@@ -1,0 +1,12 @@
+{
+  "image_filename": "09e4db99-b3da-4c37-995c-e287d00408aa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, wide-angle view of an empty, winding country road stretching into the distance beneath a dramatic, overcast sky. The scene is set at dawn or dusk, with soft, diffused natural light casting a muted, almost melancholic atmosphere. The road curves gently to the left, flanked by dry, golden-brown grasslands and sparse fencing on either side. To the right, a dense cluster of tall, dark trees stands silhouetted against the horizon, while low, misty clouds partially obscure a forested hill in the background, adding depth and a sense of mystery. The color palette is subdued, dominated by cool grays, soft blues, and earthy tones, with subtle hints of warm light breaking through the clouds. The composition emphasizes the vastness and solitude of the landscape, with the road serving as a leading line that draws the viewer’s eye toward the misty hills. The overall style is reminiscent of a contemplative road movie or a fine art landscape photograph, with a shallow depth of field and a serene, introspective mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:23.716615",
+  "word_count": 168,
+  "error_message": null
+}

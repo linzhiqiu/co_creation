@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_86043319.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cartoon-style farmyard scene featuring two anthropomorphic chickens; one white chicken holds a basket full of eggs, looking anxious, while a brown chicken gestures sternly, speaking in a speech bubble. The background shows a wooden coop, green fencing, and soft daylight, with warm, earthy tones and clean, expressive linework.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:23:52.672791",
+  "word_count": 49,
+  "error_message": null
+}

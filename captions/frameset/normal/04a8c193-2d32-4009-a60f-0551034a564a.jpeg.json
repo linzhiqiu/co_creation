@@ -1,0 +1,12 @@
+{
+  "image_filename": "04a8c193-2d32-4009-a60f-0551034a564a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand holding a wide, flat paintbrush with white paint on its bristles. The hand is positioned in the lower right of the frame, gripping the blue-handled brush firmly, with the thumb and fingers clearly visible. The background is softly blurred, featuring a patch of green grass and a strip of gray pavement, suggesting an outdoor setting. The lighting is natural and diffused, evoking a calm, daytime atmosphere. The color palette is dominated by muted greens, grays, and the cool blue of the brush handle, with the white paint providing a striking contrast. The composition uses shallow depth of field to keep the focus on the hand and brush, while the background remains unobtrusive and out of focus. The overall style is realistic and documentary-like, with a sense of immediacy and tactile detail, as if capturing a candid moment in the process of painting outdoors.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:17.711278",
+  "word_count": 150,
+  "error_message": null
+}

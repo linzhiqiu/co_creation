@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e745645-7323-4f9c-9368-2f19cfa0940d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone female athlete in a sleeveless sports top and shorts, wearing fingerless gloves, kneels over a heavy punching bag in the center of a vast, sunlit industrial warehouse. The space is defined by towering, grid-like windows that flood the scene with warm, golden light, casting dramatic shadows and illuminating dust particles in the air. The woman’s posture is intense and focused, her muscles taut as she grips the bag, suggesting exhaustion or determination after a rigorous workout. The floor is bare and slightly reflective, adding to the raw, gritty atmosphere. The overall color palette is muted and earthy, dominated by sepia tones and soft highlights, evoking a cinematic, almost nostalgic mood. The camera angle is low and slightly off-center, emphasizing the scale of the warehouse and the solitude of the subject, with a shallow depth of field that keeps the background softly blurred, drawing attention to the athlete’s form and the texture of the environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:05.880251",
+  "word_count": 156,
+  "error_message": null
+}

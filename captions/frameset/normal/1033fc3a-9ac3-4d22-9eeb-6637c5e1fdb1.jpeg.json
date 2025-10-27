@@ -1,0 +1,12 @@
+{
+  "image_filename": "1033fc3a-9ac3-4d22-9eeb-6637c5e1fdb1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sunlit breakfast table set near a large window overlooking a lush, green forest. The scene is bathed in warm, natural morning light, casting soft shadows and creating a tranquil, inviting atmosphere. On the round wooden table, there are neatly arranged ceramic bowls and plates in muted, earthy tones, with a few pieces of fresh fruit and a spoon resting on a plate in the foreground. A clear glass bottle filled with water stands upright, catching the sunlight and reflecting subtle highlights. In the background, a simple glass vase holds a small bouquet of yellow flowers, adding a touch of color and life to the composition. The overall style is minimalist and serene, with a shallow depth of field that gently blurs the leafy greenery outside, drawing focus to the intimate table setting. The color palette features warm browns, soft creams, and natural greens, evoking a peaceful, rustic morning in a countryside retreat. The camera angle is slightly above table level, capturing the scene with a cinematic, contemplative quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:40.952492",
+  "word_count": 169,
+  "error_message": null
+}

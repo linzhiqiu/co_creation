@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b8d8120-0616-43c7-98bf-6fe0fe30cd18.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply dressed man in a dark, tailored suit and tie stands in a sterile, minimalist room with pale greenish walls. He has slicked-back hair and a stern, emotionless expression, exuding an air of authority and cold detachment. An earpiece is visible in his right ear, hinting at surveillance or official duties. The lighting is dim and clinical, casting soft shadows and enhancing the green tint that permeates the entire scene, creating a surreal, almost digital atmosphere. The camera is positioned at a medium close-up, focusing on the man's upper body and face, with a shallow depth of field that blurs the background, drawing attention to his intense gaze and rigid posture. The overall style is cinematic, reminiscent of late-90s science fiction, with a color palette dominated by muted greens and grays, evoking a sense of unease and artificiality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:01.868992",
+  "word_count": 139,
+  "error_message": null
+}

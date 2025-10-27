@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ef4fbf0-bb07-406b-8da8-9fa86a9f76df.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern Formula 1 car sits in the center of a high-tech garage, its nose pointed directly at the viewer. The car is painted in a crisp white with bold red numbers \"44\" on the front, accented by subtle teal and black details. To the left, a large, articulated robotic arm with glowing orange lights hovers over the car, poised as if performing delicate maintenance. On the right, a young male engineer in a fitted black uniform leans over the cockpit, focused and intent, his profile illuminated by the cool, clinical overhead lighting. The background is a minimalist, futuristic workshop with clean lines, metallic surfaces, and a soft, diffused glow from a large ceiling light panel. The overall color palette is dominated by whites, greys, and blacks, punctuated by the car’s red and teal accents and the robot’s orange light. The composition is symmetrical and cinematic, with a shallow depth of field that draws attention to the car and the interaction between human and machine, evoking a mood of precision, innovation, and quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:21.305157",
+  "word_count": 175,
+  "error_message": null
+}

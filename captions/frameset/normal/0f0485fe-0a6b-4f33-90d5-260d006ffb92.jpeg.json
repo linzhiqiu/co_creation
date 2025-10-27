@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f0485fe-0a6b-4f33-90d5-260d006ffb92.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A serene forest scene at dawn, featuring two luxury SUVs parked side by side on a narrow dirt path surrounded by towering pine trees. The vehicles, one a soft metallic teal and the other a deep midnight blue, are positioned at a slight angle, their sleek, modern designs contrasting with the organic textures of the woodland. The forest is lush and dense, with sunlight filtering gently through the high canopy, casting dappled light and soft shadows across the mossy ground and the cars’ glossy surfaces. The background is a tapestry of rich greens and earthy browns, with hints of mist in the distance, evoking a tranquil, almost cinematic atmosphere. The composition is wide and immersive, with a low camera angle that emphasizes the grandeur of the trees and the elegance of the vehicles. The overall color palette is cool and natural, dominated by greens, browns, and the subtle hues of the cars, while the lighting is diffuse and naturalistic, enhancing the peaceful, contemplative mood of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:20.627138",
+  "word_count": 167,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d331347-c7d8-42f5-b88f-b702003565ce.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic landscape of a desolate, semi-arid terrain at dusk. In the foreground, a gnarled, leafless tree branch sprawls across dry, golden grasses, its twisted limbs stark and skeletal against the muted earth tones. The background features rolling hills fading into the distance, shrouded in a soft, atmospheric haze. The sky is overcast with heavy clouds, allowing only a faint, diffused light to filter through, casting a subdued, melancholic glow over the scene. The color palette is dominated by cool grays, muted browns, and soft golds, with subtle blue undertones in the distant hills. The overall style is reminiscent of fine art photography or a contemplative film still, with a shallow depth of field that blurs the background and draws focus to the intricate textures of the foreground branch. The composition evokes a sense of quiet solitude and the stark beauty of nature in its most barren form.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:36.790151",
+  "word_count": 149,
+  "error_message": null
+}

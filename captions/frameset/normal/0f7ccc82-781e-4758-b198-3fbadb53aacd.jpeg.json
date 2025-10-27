@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f7ccc82-781e-4758-b198-3fbadb53aacd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic, cinematic view of a massive waterfall cascading over a rugged cliff, captured from a slightly elevated, wide-angle perspective. The powerful torrents of water plunge downward, creating a thick, ethereal mist that rises and envelops the lower half of the scene, partially obscuring the base of the falls and adding a sense of mystery and grandeur. The color palette is dominated by cool, muted blues and grays in the water and rocks, contrasted with the soft, diffused whites and pale pinks of the mist, which catches the ambient light. The lighting is natural and subdued, suggesting an overcast sky or early morning, with gentle highlights on the water’s surface and a soft, atmospheric glow in the mist. The overall style is realistic yet poetic, with a shallow depth of field that keeps the focus on the texture and movement of the falling water, while the background fades into a dreamy haze. The composition emphasizes the sheer scale and raw power of nature, evoking a sense of awe and tranquility.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:29.677922",
+  "word_count": 171,
+  "error_message": null
+}

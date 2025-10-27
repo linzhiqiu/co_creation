@@ -1,0 +1,12 @@
+{
+  "image_filename": "09d9f21e-8945-47ed-a680-2bd44ec9046c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic scene set in a desaturated, overcast city park during late autumn or early winter. The central subject is a solitary man seen from behind, standing in the foreground with his back to the viewer. He wears a dark, tailored overcoat, and his hair is neatly combed. In his right hand, he holds a small revolver, raised slightly but not aimed, suggesting tension or contemplation. The background features bare, leafless trees and indistinct, blurred silhouettes of distant buildings, evoking a sense of urban isolation. A few figures walk away in the midground, their forms slightly out of focus, emphasizing the main subject’s solitude. The color palette is muted, dominated by cool grays, browns, and soft blues, with diffused, natural lighting that creates a somber, moody atmosphere. The composition uses a shallow depth of field, keeping the man and his gesture in sharp focus while the background remains soft and impressionistic. The overall style is reminiscent of a dramatic, introspective film scene, with a contemplative, almost melancholic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:25.159697",
+  "word_count": 170,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "08e581ad-f3f9-4a22-b0b5-a15bf71c49c9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young man stands outdoors in soft, natural daylight, his face gently covered by the hands of a smiling young woman standing behind him. The man has short brown hair and a trimmed beard, wearing a casual blue plaid shirt. The woman, partially visible, has long dark hair and a joyful expression, her face peeking out from behind his shoulder. The background is softly blurred, suggesting a park or open space with green trees and a clear blue sky, evoking a warm, relaxed atmosphere. The color palette is natural and vibrant, with cool blues and greens contrasting against the warm skin tones. The composition is intimate and playful, shot at eye level with a shallow depth of field that keeps the focus on the couple’s interaction. The overall style is cinematic and candid, capturing a spontaneous, affectionate moment between two people.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:58.683446",
+  "word_count": 141,
+  "error_message": null
+}

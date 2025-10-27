@@ -1,0 +1,12 @@
+{
+  "image_filename": "07c6b727-353f-4032-ae0f-e8714800cbb3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A 1970s NASA mission control room, filled with engineers in white shirts and headsets, intently monitoring consoles with glowing buttons and screens. American flags and paperwork scatter the desks. Fluorescent lighting casts a cool, clinical tone, evoking tense anticipation and historical significance. Medium-wide angle, documentary realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:30.251606",
+  "word_count": 46,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "08082c54-f28a-4de5-b011-ee0fea914297.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit pool hall with a strong neo-noir atmosphere. In the foreground, a tall, imposing man with long black hair and a wide-brimmed black hat stands confidently, dressed in a dramatic, all-black leather outfit with a long coat. He holds up an ornate, octagonal mirror at an angle, reflecting the image of another man across the room. The reflected man has a tense, wary expression, wearing a light blue, open-collared shirt over a dark undershirt, with a gold chain visible at his neck. The pool table in the lower left is scattered with colorful billiard balls, and the background is bathed in deep blues and reds from neon and ambient lighting, creating a stark contrast and a sense of heightened drama. The composition uses a shallow depth of field, focusing sharply on the mirror and the two men, while the rest of the bar fades into soft blur. The overall style is reminiscent of 1970s exploitation cinema, with bold colors, dramatic shadows, and a sense of suspenseful confrontation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:39.361056",
+  "word_count": 175,
+  "error_message": null
+}

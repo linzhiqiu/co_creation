@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f2e00d0-1ba1-4e57-a9ac-597252f25e2e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern Volkswagen sedan drives along a sunlit urban street, captured from a low, front three-quarter angle that emphasizes the car’s dynamic motion and glossy dark blue finish. The vehicle’s headlights are on, casting a subtle glow, while reflections of trees and sky ripple across the polished hood and windshield. Two figures are visible inside: the driver, focused on the road, and a passenger, both partially obscured by the windshield’s glare and the car’s interior shadows. The background features lush green trees and hints of contemporary city architecture, softly blurred to create a shallow depth of field that keeps the car as the central focus. The lighting is natural and warm, suggesting late afternoon, with sunlight filtering through the trees and creating gentle highlights and soft shadows. The overall style is cinematic and realistic, with a crisp, high-definition look and a color palette dominated by deep blues, greens, and warm golden tones, evoking a sense of movement, modernity, and everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:23.086895",
+  "word_count": 162,
+  "error_message": null
+}

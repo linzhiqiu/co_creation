@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e78fd00-a3dc-4b29-9ab9-df3faef439c3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime street scene featuring a male bicycle courier in profile, captured mid-motion as he rides through an urban environment. The subject wears an orange t-shirt and a black cycling helmet, with a large, boxy black and orange insulated delivery backpack securely strapped to his back. His expression is focused and determined, illuminated by the soft, diffused glow of city lights. The background is a blur of modern buildings and neon signage, with cool blue and white tones contrasting against the warm orange and red highlights from streetlights and passing vehicles. The composition uses a shallow depth of field, keeping the courier sharply in focus while the cityscape behind him is artfully blurred, evoking a sense of speed and movement. The overall style is reminiscent of a contemporary urban drama, with moody, atmospheric lighting and a dynamic, slightly low camera angle that emphasizes the energy and urgency of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:06.090208",
+  "word_count": 151,
+  "error_message": null
+}

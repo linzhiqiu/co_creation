@@ -1,0 +1,12 @@
+{
+  "image_filename": "00979150-d0ea-42fb-a197-8f26d6e2d035.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hands operating a rugged, industrial tablet device at night. The hands are holding a stylus and interacting with the touchscreen, which displays a faint, bluish interface with indistinct details. The tablet is encased in a durable, yellow-and-black protective shell, suggesting use in a field or technical environment. The background is softly blurred with a shallow depth of field, featuring warm, out-of-focus bokeh lights in gold and white, evoking a nighttime urban or worksite setting. The lighting is low and moody, with the tablet screen casting a cool glow on the hands, contrasting with the warm ambient lights behind. The overall style is modern and documentary-like, with a focus on the tactile interaction and the atmosphere of nighttime fieldwork. The composition emphasizes the hands and device, creating a sense of immediacy and technical engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:49.062087",
+  "word_count": 140,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_33681052.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a breathtaking, cinematic cityscape set in a sprawling steampunk metropolis at dusk. The scene is dominated by towering, ornate gothic cathedrals and elaborate Victorian architecture, with intricate domes, spires, and wrought-iron details. The city is shrouded in a soft, bluish twilight, with warm golden lights glowing from windows and street lamps, casting a gentle, inviting ambiance. In the sky, several large, streamlined airships and zeppelins float gracefully among the clouds, adding a sense of futuristic wonder. The composition is grand and layered, with a deep sense of scale and depth, leading the eye from the foreground’s detailed rooftops to the distant, misty silhouette of another majestic castle. The color palette is a harmonious blend of cool blues and greys, contrasted by the warm amber of artificial lights. The overall style is highly detailed, atmospheric, and reminiscent of epic fantasy or science fiction films, with a slightly elevated, wide-angle perspective that captures the city’s vastness and intricate beauty.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T02:57:10.420140",
+  "word_count": 159,
+  "error_message": null
+}

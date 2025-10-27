@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f629c11-0616-439c-ab3b-20aa2fd68926.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA solitary figure ascends a dimly lit industrial stairwell inside an old, utilitarian building. The subject, dressed in casual, slightly rugged clothing—cargo pants and a sleeveless top—carries a box and a tripod, suggesting a sense of purpose or transition. The lighting is natural and moody, streaming in through large, grid-like windows that cast geometric patterns of light and shadow across the concrete walls and metal railings. The stairwell itself is painted in muted, weathered tones of teal and gray, with exposed pipes and structural elements adding to the raw, urban atmosphere. The composition is cinematic, shot from a low angle that emphasizes the height and depth of the stairwell, with the subject partially silhouetted against the bright window. The overall style is reminiscent of a gritty, realistic drama, with a subdued color palette and a focus on texture, space, and the interplay of light and shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:29.176450",
+  "word_count": 147,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "116d2034-7872-4341-84ca-8fe5ec1a833a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a young woman with long, dark hair cascading over one shoulder, partially obscuring her face. She gazes intensely at the viewer with a slightly parted mouth, her expression a mix of vulnerability and defiance. Her bare shoulders are softly illuminated, suggesting she is unclothed or draped in something minimal, adding to the raw, intimate atmosphere. The background is abstract and painterly, with deep, muted earth tones fading into a hazy, greenish gradient, evoking a sense of mystery and emotional depth. The lighting is low and moody, with a soft, diffused glow highlighting the contours of her face and hair, creating dramatic shadows. The composition is tight, focusing on her upper body and face, with a shallow depth of field that blurs the background, drawing all attention to her striking presence. The overall style is reminiscent of a dark, romantic film still, with a subdued, almost surreal color palette and a sense of quiet intensity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:10.414406",
+  "word_count": 159,
+  "error_message": null
+}

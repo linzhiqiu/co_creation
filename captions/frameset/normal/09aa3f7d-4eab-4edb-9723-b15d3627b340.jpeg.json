@@ -1,0 +1,12 @@
+{
+  "image_filename": "09aa3f7d-4eab-4edb-9723-b15d3627b340.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, minimalist scene set in a dimly lit, empty office space. The central focus is a single, glossy, red, circular surveillance camera or sensor mounted on a stark white pillar, positioned perfectly in the middle of the frame. The camera’s red light glows intensely, casting a subtle, eerie red halo onto the pillar and faintly illuminating the immediate area. The background is shrouded in deep shadow, with only the faint outlines of ceiling tiles and fluorescent light fixtures barely visible, emphasizing the sense of isolation and surveillance. The color palette is dominated by cool blues and stark whites, contrasted sharply by the vivid red of the camera’s light. The composition is symmetrical and precise, with a shallow depth of field that keeps the focus tightly on the glowing red eye, evoking a sense of tension and unease. The overall style is reminiscent of classic science fiction cinematography, with clean lines, high contrast, and a cold, clinical atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:17.919101",
+  "word_count": 160,
+  "error_message": null
+}

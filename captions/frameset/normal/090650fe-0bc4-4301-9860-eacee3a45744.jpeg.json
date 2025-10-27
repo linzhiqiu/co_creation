@@ -1,0 +1,12 @@
+{
+  "image_filename": "090650fe-0bc4-4301-9860-eacee3a45744.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, nostalgic interior scene centered on an old CRT television displaying black-and-white static, evoking a sense of suspense and retro atmosphere. The TV sits on a low surface against a dark, wood-paneled wall, with a vintage VCR and a few VHS tapes stacked on top, their labels slightly worn. To the right of the TV, a round analog clock with a white face and black numbers is partially visible, surrounded by scattered household objects, hinting at a lived-in, slightly cluttered space. The left side of the frame includes a glimpse of a small framed photograph and a few figurines, adding personal touches and depth. The overall color palette is muted and subdued, dominated by earthy browns, grays, and the cold blue-white glow of the static screen. The lighting is low and moody, with soft shadows and minimal highlights, creating a cinematic, almost eerie ambiance. The composition is symmetrical and tightly framed, focusing attention on the television as the central subject, while the shallow depth of field subtly blurs the background, enhancing the sense of intimacy and quiet tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:02.704495",
+  "word_count": 180,
+  "error_message": null
+}

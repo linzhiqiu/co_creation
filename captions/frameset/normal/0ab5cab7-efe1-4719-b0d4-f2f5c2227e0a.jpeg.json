@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ab5cab7-efe1-4719-b0d4-f2f5c2227e0a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary older man with gray hair, dressed in a brown blazer, dark trousers, and black shoes, is captured mid-stride as he pushes open a glass door. He carries a briefcase in his left hand, his posture slightly leaning forward with intent. The scene is set against a modern, reflective glass facade, which creates multiple ghostly reflections of the man, stretching out in a rhythmic sequence that evokes a sense of repetition and movement. The reflections are slightly distorted, adding a surreal, dreamlike quality to the composition. The color palette is subdued and cool, dominated by grays, silvers, and muted browns, with soft, diffused daylight lending a gentle, overcast illumination. The camera angle is at eye level, parallel to the building, emphasizing the linearity and symmetry of the reflections. The overall style is cinematic and contemplative, with a shallow depth of field that keeps the man and his immediate reflections in sharp focus while the background remains softly blurred, enhancing the sense of isolation and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:41.476447",
+  "word_count": 166,
+  "error_message": null
+}

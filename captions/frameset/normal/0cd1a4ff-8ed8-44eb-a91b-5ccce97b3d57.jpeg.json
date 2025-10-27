@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cd1a4ff-8ed8-44eb-a91b-5ccce97b3d57.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A realistic, cinematic scene set in a prison common area, featuring two middle-aged men intently playing chess at a simple table. Both men wear crisp, white prison uniforms, their expressions serious and focused on the game. The man on the left, with short blond hair and glasses, leans forward, studying the chessboard, while the man on the right, with gray hair and a weathered face, contemplates his next move. The background reveals metal bars and a bench, evoking the institutional setting, with another inmate blurred in the distance, adding depth to the composition. The lighting is natural and soft, streaming in from the side, casting gentle shadows and highlighting the somber, contemplative mood. The color palette is muted, dominated by whites, grays, and cool blues, enhancing the stark, restrained atmosphere. The camera angle is at eye level, with a shallow depth of field that keeps the focus on the two men and the chessboard, while subtly blurring the background, creating an intimate, introspective tone reminiscent of classic prison dramas.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:26.319870",
+  "word_count": 169,
+  "error_message": null
+}

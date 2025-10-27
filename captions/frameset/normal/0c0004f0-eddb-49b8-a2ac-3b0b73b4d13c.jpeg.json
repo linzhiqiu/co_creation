@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c0004f0-eddb-49b8-a2ac-3b0b73b4d13c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a precision-machined metallic optical component, possibly a prism or beam splitter, mounted on a perforated metal baseplate. The object is illuminated by a focused, green laser point that glows vividly on its polished surface, casting subtle reflections and highlights. The background is softly blurred, rendered in deep, moody shades of green and yellow, creating a high-contrast, almost noir atmosphere. The lighting is low-key and directional, emphasizing the sharp edges and smooth surfaces of the metal, while the overall color palette is dominated by cool metallic tones and the ethereal green of the laser. The composition is tight and intimate, with a shallow depth of field that draws attention to the illuminated spot and the intricate details of the component, evoking a sense of scientific precision and technological sophistication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:13.530580",
+  "word_count": 133,
+  "error_message": null
+}

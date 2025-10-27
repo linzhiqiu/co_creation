@@ -1,0 +1,12 @@
+{
+  "image_filename": "01f24baa-df42-4e6d-8277-2bbfae973a9c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A warmly lit, vintage-inspired portrait of an elderly woman and a young girl standing side by side in a photography studio. The elderly woman wears a bright magenta denim jacket and matching pants, with a purple turtleneck underneath, exuding a cheerful and nostalgic 1980s or early 1990s fashion sense. Her hair is styled in soft curls, adorned with a pink hair accessory, and she smiles gently, radiating warmth and affection. The young girl, standing close to her, wears a light blue denim jacket over a lavender shirt, accessorized with a pink headband and a beaded necklace. She beams with a wide, joyful smile, holding two dolls dressed in colorful outfits, one in pink and the other in blue, echoing the playful innocence of childhood.\n\nThe background is a simple, muted blue backdrop, softly illuminated to create a gentle, even glow that highlights the subjects without harsh shadows. Studio equipment, such as a large light and a camera tripod, is partially visible at the edges of the frame, adding an authentic, behind-the-scenes feel. The color palette is dominated by vibrant pinks, purples, and blues, creating a harmonious and nostalgic atmosphere. The image is shot with a shallow depth of field, keeping the focus on the subjects while subtly blurring the background and studio elements. The overall style is reminiscent of a candid family portrait from a bygone era, with a touch of cinematic softness and a heartfelt, intimate mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:24.117916",
+  "word_count": 238,
+  "error_message": null
+}

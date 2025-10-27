@@ -1,0 +1,12 @@
+{
+  "image_filename": "080c5d27-b864-4124-b6cc-5c893d970a48.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary white camper van travels down a narrow, empty country road that stretches straight into the distance, bisecting a landscape of rolling, sunlit fields. The scene is captured from a high, aerial perspective, emphasizing the van’s smallness against the vast, open surroundings. On the left, the earth is plowed and brown, with gentle slopes and sparse, leafless bushes, while on the right, neat rows of bare vineyard trellises climb the hillside, their geometric lines adding structure to the composition. The color palette is dominated by warm, earthy tones—ochres, browns, and muted golds—suggesting late autumn or early winter. The lighting is soft and golden, casting long shadows and bathing the scene in a nostalgic, cinematic glow. The overall mood is tranquil and contemplative, evoking a sense of solitude and quiet journeying through the countryside. The image has a crisp, naturalistic style with a slight haze in the distance, enhancing the depth and atmosphere of the rural landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:39.452612",
+  "word_count": 157,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "09dda4d8-e33f-49a3-9863-518e29828bec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, close-up shot from behind the cockpit of a modern commercial airplane, focusing on the pilot’s arm as they grip the throttle controls. The pilot is dressed in a dark navy uniform with gold-striped cuffs, their hand confidently poised mid-action, suggesting the intensity and precision of flight operations. The cockpit is dimly lit, illuminated primarily by the soft, multicolored glow of digital instrument panels and displays, casting a cool blue and orange ambiance across the scene. The composition emphasizes the complexity of the control panel, with rows of illuminated switches and screens creating a sense of technological sophistication. The camera angle is slightly over-the-shoulder, drawing the viewer into the pilot’s perspective and heightening the immersive, dramatic atmosphere. The depth of field is shallow, keeping the pilot’s hand and the throttle levers in sharp focus while the background displays blur gently, enhancing the sense of focus and urgency. The overall style is reminiscent of a high-stakes aviation drama, with a realistic, documentary-like attention to detail and a moody, cinematic lighting scheme.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:22.785583",
+  "word_count": 172,
+  "error_message": null
+}

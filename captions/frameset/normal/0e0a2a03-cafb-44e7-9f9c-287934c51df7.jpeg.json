@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e0a2a03-cafb-44e7-9f9c-287934c51df7.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking cinematic portrait of a young woman standing confidently at the center of the frame. She has shoulder-length, softly tousled pink hair and a calm, assertive expression. She wears a stylish black cropped leather jacket with bold, fluffy blue fur trim at the collar and cuffs, paired with high-waisted, distressed denim shorts. Her pose is relaxed yet powerful, with one hand in her pocket and the other by her side. The background is a deep, moody gradient of dark reds and browns, filled with glowing, out-of-focus bokeh lights and floating embers, creating a sense of warmth and intensity. The lighting is dramatic, with a soft spotlight illuminating her face and upper body, casting gentle shadows and highlighting the textures of her clothing and hair. The overall style is modern and edgy, with a shallow depth of field that keeps the subject crisp and the background dreamlike, evoking the atmosphere of a high-fashion music video or a dynamic movie poster.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:54.386799",
+  "word_count": 161,
+  "error_message": null
+}

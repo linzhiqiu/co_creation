@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_98841110.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed prompt for generating this image:\n\n\"Two friendly robots sit side by side on a concrete ledge in a bustling, futuristic city alley at dusk. The robot on the left is large, rounded, and painted a weathered orange, with a single central eye and a slightly dented, industrial appearance. The robot on the right is smaller, boxier, and painted a faded magenta, with two glowing yellow eyes and a more angular design. The magenta robot gently places its hand on the orange robot’s shoulder, conveying a sense of camaraderie and comfort. Both robots have visible joints, bolts, and signs of wear, suggesting long use and a lived-in world. The background is filled with towering, densely packed buildings adorned with neon signs and cables, rendered in deep blues and purples, with warm orange and pink light spilling from windows and the sky above, evoking a cyberpunk atmosphere. The composition is intimate, with a shallow depth of field that keeps the focus on the robots while softly blurring the intricate cityscape behind them. The overall style is painterly and cinematic, with rich textures, dramatic lighting, and a mood that blends melancholy with hope.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:30:33.962553",
+  "word_count": 192,
+  "error_message": null
+}

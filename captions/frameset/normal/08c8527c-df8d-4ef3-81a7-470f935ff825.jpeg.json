@@ -1,0 +1,12 @@
+{
+  "image_filename": "08c8527c-df8d-4ef3-81a7-470f935ff825.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic close-up of a digital countdown timer on a bomb, reading \"00:28\" in bold red LED numbers. The device is cylindrical, with visible colored wires and metallic components, partially encased in a transparent housing. The foreground is dramatically out of focus, showing a dark, rough, and wet surface—possibly debris or a rock—adding to the sense of urgency and danger. The lighting is low and moody, with warm highlights reflecting off the timer and the foreground, creating a high-contrast, suspenseful atmosphere. The composition uses a shallow depth of field, drawing the viewer’s eye directly to the glowing numbers, while the background and edges remain blurred and mysterious. The overall style is reminiscent of a high-stakes action or thriller film, with a focus on tension and imminent danger.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:55.871663",
+  "word_count": 128,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "011440f7-065c-43b8-872a-3be8058673da.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person sitting at a desk, partially out of focus in the foreground, gazing at a computer monitor. On the screen, a video call interface is open, displaying a fantastical, goblin-like creature with mottled greenish-brown skin, pointed ears, and glowing yellow eyes. The creature’s face is expressive, with a mischievous or curious look, and it appears to be speaking or reacting to the person off-screen. The computer interface is rendered in cool blue and teal tones, with various windows and tabs open, suggesting a modern digital environment. The lighting in the room is soft and natural, casting gentle highlights on the person’s hair and the edge of the monitor, while the background remains blurred and indistinct, focusing attention on the interaction between human and creature. The overall mood is mysterious and slightly whimsical, blending elements of fantasy and technology. The composition uses shallow depth of field to emphasize the screen and the fantastical character, evoking a cinematic, slightly surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:01.327425",
+  "word_count": 165,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a460300-e6bf-4359-9cb0-11dd3f7fc709.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern Formula 1 race car speeds down a night-lit racetrack, captured from a low, dynamic rear three-quarter angle that emphasizes its aerodynamic form and sense of velocity. The car’s glossy black and metallic gold livery reflects the vibrant, neon-like streaks of red, orange, and white lights that blur past on both sides, creating a dramatic sense of motion and energy. The background features a fenced barrier and illuminated trackside panels, all rendered with a cinematic depth of field that keeps the car in sharp focus while the surroundings dissolve into motion blur. The lighting is intense and high-contrast, with the car’s surfaces catching highlights from the artificial lights above and around the track. The overall style is hyper-realistic with a futuristic, almost cyberpunk atmosphere, evoking the adrenaline and spectacle of high-speed night racing.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:27.439068",
+  "word_count": 135,
+  "error_message": null
+}

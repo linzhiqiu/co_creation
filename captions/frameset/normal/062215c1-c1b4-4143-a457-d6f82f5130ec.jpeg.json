@@ -1,0 +1,12 @@
+{
+  "image_filename": "062215c1-c1b4-4143-a457-d6f82f5130ec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene set in an urban waterfront environment. The composition is wide and symmetrical, with a large, modern apartment building dominating the background. The building’s facade is a grid of closed white shutters and beige panels, illuminated by cool, diffused artificial lighting that casts deep shadows and a subtle purple-blue tint across the scene. In the foreground, a calm body of water reflects the building and several small, moored boats, their details softened by the low light.\n\nA solitary figure, dressed in dark clothing, is captured mid-stride walking along a narrow path that runs parallel to the building, their shadow elongated on the wall behind them. The mood is quiet and contemplative, with a sense of isolation emphasized by the empty windows and the stillness of the water. The overall style is reminiscent of minimalist European cinema, with a static camera angle, deep depth of field, and a focus on geometric forms and atmospheric lighting. The color palette is muted, dominated by cool blues, purples, and neutral tones, enhancing the nocturnal, introspective ambiance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:01.337363",
+  "word_count": 177,
+  "error_message": null
+}

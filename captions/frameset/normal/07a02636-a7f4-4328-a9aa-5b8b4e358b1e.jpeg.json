@@ -1,0 +1,12 @@
+{
+  "image_filename": "07a02636-a7f4-4328-a9aa-5b8b4e358b1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural light, softly focused scene featuring two children sitting closely together, deeply engrossed in a book. The older boy, with tousled light brown hair and wearing a simple grey t-shirt, holds the book open on his lap, his gaze intent and absorbed. Beside him, a younger girl with long, curly brown hair and a sleeveless top leans in, her head almost touching his shoulder, her expression curious and attentive as she follows along. The background is a gentle blur of green foliage seen through a white metal fence, suggesting an outdoor or balcony setting. The color palette is warm and muted, with soft golden sunlight illuminating the children’s faces and hair, creating a serene, intimate atmosphere. The composition is tight and intimate, focusing on the children’s connection and shared moment, with a shallow depth of field that keeps the background unobtrusive. The overall style is naturalistic and tender, evoking a sense of quiet companionship and childhood wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:26.392254",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "05499b5f-4940-400e-84c6-9b3cf1d9da8a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, cinematic scene set in a modern, open-plan office with a moody, contemplative atmosphere. The main subject is a man with tousled, curly dark hair, wearing a muted blue shirt. He sits at his desk, leaning forward with his hand thoughtfully touching his lips, lost in deep concentration. His expression is pensive, suggesting he is absorbed in a challenging problem or creative process. The background is softly blurred, with another figure seated further back, also focused on their work, adding depth and a sense of quiet productivity. The foreground features out-of-focus office objects, creating a sense of immersion and realism. The color palette is subdued, dominated by cool blues, greys, and soft natural light filtering in, with gentle shadows and a shallow depth of field that draws attention to the main subject. The overall style is reminiscent of a dramatic film still, with a naturalistic, documentary feel and a focus on authentic human emotion in a contemporary workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:34.102117",
+  "word_count": 159,
+  "error_message": null
+}

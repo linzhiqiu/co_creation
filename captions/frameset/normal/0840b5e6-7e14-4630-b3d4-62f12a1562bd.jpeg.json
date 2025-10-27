@@ -1,0 +1,12 @@
+{
+  "image_filename": "0840b5e6-7e14-4630-b3d4-62f12a1562bd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, cinematic scene set inside the backseat of a modern car during daylight. Two young adults, a man and a woman, sit side by side, both wearing seatbelts. The man, with short dark hair and a light complexion, is dressed casually in a light-colored graphic t-shirt. He is holding a smartphone in his right hand, looking down at it with a focused yet relaxed expression, as if explaining or showing something to his companion. The woman, with long brown hair and a similarly light complexion, is dressed in a casual top and leans in slightly, her attention directed toward the phone, her face partially turned away from the camera.\n\nThe composition is intimate, shot from the front passenger side window, with a shallow depth of field that softly blurs the car interior and the cityscape outside the window, drawing attention to the subjects. The lighting is natural and diffused, suggesting a bright but overcast day, with soft highlights on their faces and hair. The color palette is muted and realistic, dominated by neutral tones of the car’s interior and the subdued colors of their clothing, creating a calm, everyday atmosphere. The overall style is reminiscent of an indie film, with a focus on authentic interaction and subtle emotion, capturing a quiet, genuine moment between the two characters.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:48.645654",
+  "word_count": 218,
+  "error_message": null
+}

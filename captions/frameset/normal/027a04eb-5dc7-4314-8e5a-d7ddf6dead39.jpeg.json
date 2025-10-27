@@ -1,0 +1,12 @@
+{
+  "image_filename": "027a04eb-5dc7-4314-8e5a-d7ddf6dead39.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic interrogation scene set in a stark, industrial room with concrete walls and exposed ventilation ducts. The composition is symmetrical, with a black table centered in the frame. On the left, a man in a dark suit sits rigidly, facing a woman on the right who wears a business-casual outfit, her posture alert and composed. Both subjects are illuminated by harsh, cold fluorescent lights overhead, casting sharp shadows and emphasizing the sterile, oppressive atmosphere. In the background, two uniformed military personnel stand watchfully near the wall, their presence adding to the sense of authority and surveillance. The color palette is dominated by cool blues and grays, enhancing the mood of isolation and seriousness. The camera angle is eye-level, with a wide lens that captures the entire room, creating a sense of distance and psychological tension between the characters. The overall style is reminiscent of a modern thriller or espionage film, with a focus on minimalism, symmetry, and dramatic lighting to heighten the emotional intensity of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:32.712938",
+  "word_count": 169,
+  "error_message": null
+}

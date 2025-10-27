@@ -1,0 +1,12 @@
+{
+  "image_filename": "10128298-4640-40df-b1a9-9c803c33a184.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a mesmerizing, abstract sci-fi scene that evokes the sensation of traveling through a cosmic portal or wormhole. The composition is dominated by swirling, iridescent colors—primarily electric pinks, purples, and blues—blending together in a fluid, almost liquid motion. At the center, a brilliant, radiant white light bursts forward, suggesting immense energy and speed, with streaks and beams of light trailing outward to convey rapid movement and dimensional distortion. The background is a kaleidoscopic tapestry of refracted light and shimmering, crystalline textures, giving the impression of a boundary between realities or the fabric of space being torn open. The overall style is highly cinematic, with a shallow depth of field that blurs the edges and enhances the sense of depth and immersion. Lighting is intense and otherworldly, casting glowing reflections and highlights throughout the scene. The mood is awe-inspiring, mysterious, and slightly disorienting, as if the viewer is being pulled into an unknown universe.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:42.396831",
+  "word_count": 154,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c5208d2-dfbf-4e15-a2db-b64e588359f8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A chaotic office scene set in a modern, open-plan workspace, captured with a shallow depth of field and a dynamic, slightly off-center composition. In the foreground, a young man with tousled dark hair and a weary expression sits at a cluttered desk overflowing with paperwork and folders. He wears a light blue dress shirt, sleeves rolled up, suggesting stress and exhaustion. Around him, papers are flying through the air, some blurred in motion, creating a sense of urgency and disorder. In the background, other office workers—dressed in business casual attire—are either frantically reaching for the airborne documents or frozen in surprise, adding to the atmosphere of chaos. The lighting is natural and cool, streaming in from large windows, illuminating the scene with a soft, diffused glow. The color palette is dominated by muted tones: whites, grays, pale blues, and the occasional pop of yellow from the folders. The overall style is cinematic, reminiscent of a workplace drama, with a focus on the overwhelming nature of modern office life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:30.822298",
+  "word_count": 168,
+  "error_message": null
+}

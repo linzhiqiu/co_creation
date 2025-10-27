@@ -1,0 +1,12 @@
+{
+  "image_filename": "0790f606-702b-4de1-a72b-80d7f300b79a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A natural language prompt to generate this image:\n\n\"Create a bright, candid scene inside a modern, upscale SUV with a panoramic sunroof, bathed in soft natural daylight. The camera is positioned from the back seat, capturing a wide-angle view of the front interior. In the driver’s seat, a woman with fair skin and dark shoulder-length hair wears a textured gray cardigan over a white top, her expression calm and focused as she looks ahead at the road. In the passenger seat, a man with medium-dark skin and short hair wears a light olive bomber jacket over a blue shirt, smiling and engaged in relaxed conversation, his body language open and comfortable. Both are wearing seatbelts. The interior is spacious, with light beige leather seats and sleek black accents. Sunlight streams through the large windows and sunroof, casting soft highlights and gentle shadows, creating a warm, inviting atmosphere. The overall style is clean, contemporary, and cinematic, with a shallow depth of field that keeps the focus on the two subjects while subtly blurring the background outside the vehicle.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:29.714012",
+  "word_count": 177,
+  "error_message": null
+}

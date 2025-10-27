@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_60101121.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone, cloaked figure stands atop a jagged, rocky ridge, gazing toward a colossal, glowing orange sun that dominates the sky, partially obscured by swirling, dramatic clouds. Towering, monolithic spires rise vertically from the misty, desolate landscape, their dark, smooth surfaces contrasting starkly with the ethereal atmosphere. The color palette is moody and cinematic, with deep blues and muted grays in the foreground and midground, while the sun radiates intense, fiery oranges and yellows, casting a surreal, otherworldly glow. The lighting is atmospheric, with soft, diffused shadows and a sense of vast scale and isolation. The composition is vertical and epic, with the camera positioned low behind the figure, emphasizing their smallness against the monumental environment. The overall style is reminiscent of high-concept science fiction or fantasy art, evoking a sense of mystery, awe, and solitude in an alien world.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:08:41.351336",
+  "word_count": 140,
+  "error_message": null
+}

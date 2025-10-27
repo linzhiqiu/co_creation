@@ -1,0 +1,12 @@
+{
+  "image_filename": "0fb02083-96bc-4ad9-8906-3def9adc2d69.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A female wildlife photographer in a wide-brimmed hat and white shirt photographs a lion standing against a stark, studio-like gray backdrop, incongruously placed in a sunlit, arid desert landscape. The scene features muted earth tones, sharp focus, and a surreal juxtaposition of natural and artificial elements, evoking a cinematic, contemplative mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:31.726089",
+  "word_count": 51,
+  "error_message": null
+}

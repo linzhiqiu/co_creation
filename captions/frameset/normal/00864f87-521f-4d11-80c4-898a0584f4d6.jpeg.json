@@ -1,0 +1,12 @@
+{
+  "image_filename": "00864f87-521f-4d11-80c4-898a0584f4d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a weathered metal street pole at an urban intersection, featuring two black-and-white \"ONE WAY\" street signs pointing in different directions. The signs are slightly askew, emphasizing a sense of urban grit and ambiguity. Below them, a red and white parking regulation sign is partially visible. The background is dominated by a textured, reddish-brown brick wall, slightly out of focus, with a hint of a dark, arched structure or overpass cutting across the frame. The lighting is natural and subdued, suggesting an overcast day, with soft, diffused shadows and a muted color palette of grays, browns, and off-whites. The composition is tight and intimate, with a shallow depth of field that draws attention to the signs while blurring the industrial cityscape behind. The overall mood is contemplative and cinematic, evoking themes of direction, choice, and urban complexity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:50.937124",
+  "word_count": 140,
+  "error_message": null
+}

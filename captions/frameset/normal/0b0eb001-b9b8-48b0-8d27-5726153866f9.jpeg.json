@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b0eb001-b9b8-48b0-8d27-5726153866f9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene set in a large, empty football stadium. The field is dimly lit, with only a few harsh floodlights casting dramatic pools of light and deep shadows across the lush green grass. In the foreground, a single goalpost stands illuminated, its white frame stark against the darkness. Nearby, a cluster of training equipment—cones and mannequins—suggests a practice session. Off to the left, a solitary figure in sportswear, possibly a coach or player, is captured mid-stride, their features obscured by the low light. The vast stands in the background are shrouded in darkness, their empty seats barely visible, evoking a sense of solitude and anticipation. The color palette is dominated by deep blues, greens, and blacks, with sharp contrasts created by the artificial lighting. The overall mood is moody and contemplative, with a strong sense of isolation and focus, reminiscent of a sports drama film. The camera angle is wide, emphasizing the scale of the stadium and the smallness of the lone figure, with a shallow depth of field that keeps the focus on the illuminated area while the rest fades into shadow.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:50.186352",
+  "word_count": 186,
+  "error_message": null
+}

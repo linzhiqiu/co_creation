@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d2201da-a15d-4e18-985f-f137e0c6aa3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands defiantly in the center of a stark white arena, surrounded by a menacing circle of black armored vehicles. Bold, graffiti-like \"BLAH BLAH\" text dominates the ground beneath them. High-contrast lighting, overhead perspective, and a monochrome palette evoke a sense of confrontation and societal critique.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:32.659238",
+  "word_count": 48,
+  "error_message": null
+}

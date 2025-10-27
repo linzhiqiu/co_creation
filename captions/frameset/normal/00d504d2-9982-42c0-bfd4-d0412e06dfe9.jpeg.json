@@ -1,0 +1,12 @@
+{
+  "image_filename": "00d504d2-9982-42c0-bfd4-d0412e06dfe9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an intimate, cinematic close-up portrait of a young woman with East Asian features, her face softly illuminated by warm, diffused lighting. The focus is on her serene, contemplative expression, with her eyes gazing slightly downward and her lips gently closed, conveying a sense of quiet introspection. Her skin appears smooth and natural, with subtle highlights and shadows enhancing the contours of her face. The background is softly blurred with a shallow depth of field, creating a dreamy, bokeh effect that draws all attention to her face. The color palette is warm and muted, dominated by gentle beige, cream, and soft brown tones, evoking a calm and reflective mood. The composition is tight, with her face filling most of the frame, and the camera angle is straight-on at eye level, emphasizing emotional connection and vulnerability. The overall style is reminiscent of art-house cinema or fine art portrait photography, with a focus on natural beauty and emotional subtlety.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:57.395556",
+  "word_count": 157,
+  "error_message": null
+}

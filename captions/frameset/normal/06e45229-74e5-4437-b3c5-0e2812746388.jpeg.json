@@ -1,0 +1,12 @@
+{
+  "image_filename": "06e45229-74e5-4437-b3c5-0e2812746388.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic scene viewed from the inside of a car trunk, looking outward at a young woman standing just outside. She is wearing a white collared shirt with a dark blue vest, name tag visible, and black-rimmed glasses, giving the impression of a friendly store employee. Her expression is warm and welcoming, as if she is engaging in cheerful conversation. The trunk is filled with blue reusable shopping bags brimming with fresh groceries—bananas, leafy greens, and other produce are visible. Among the groceries, add a playful touch: a small, realistic toy dinosaur peeking out, adding a whimsical element to the scene. The background is softly blurred, suggesting a parking lot with distant cars and a mountainous landscape under a clear, late afternoon sky. The lighting is natural and golden, evoking a pleasant, inviting atmosphere. Use a shallow depth of field to keep the focus on the woman and the groceries, with the edges of the trunk framing the composition, creating a sense of intimacy and narrative curiosity. The overall style should be bright, friendly, and slightly whimsical, reminiscent of a heartfelt commercial or family film.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:10.583521",
+  "word_count": 187,
+  "error_message": null
+}

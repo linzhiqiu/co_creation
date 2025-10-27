@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cb2fcb1-05b2-4f7b-b91f-4cda2009f716.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sleek, modern laptop floats in mid-air against a smooth, deep blue gradient background, creating a sense of minimalism and focus. The laptop is open at a slight angle, revealing a dark keyboard and a large, high-resolution screen. On the screen, a clean, professional website interface is displayed, featuring geometric header graphics in muted green and gray tones, with a central section showing a table or list of data. The lighting is soft and diffused, casting gentle shadows that enhance the contours of the laptop and give the scene a subtle, cinematic depth. The overall color palette is cool and understated, dominated by shades of blue, gray, and black, with the website’s interface providing a touch of contrast. The composition is centered and balanced, with the laptop appearing to float effortlessly, evoking a sense of modern technology, professionalism, and digital sophistication. The style is hyper-realistic with a touch of surrealism due to the floating effect, and the camera angle is slightly elevated, offering a clear, unobstructed view of both the keyboard and the screen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:24.432868",
+  "word_count": 174,
+  "error_message": null
+}

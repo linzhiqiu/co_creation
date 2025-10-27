@@ -1,0 +1,12 @@
+{
+  "image_filename": "03a12d27-42c1-42e1-b3ef-0518a218352f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene at a small, old-fashioned gas station, illuminated by harsh, fluorescent overhead lights that cast a cold, almost surreal glow on the surroundings. The gas station building is modest, with off-white siding and a slightly weathered appearance, featuring a sloped roof and a few posters or signs on the walls. Prominently displayed are two vintage gas pumps and a large white ice machine with bold red letters spelling \"ICE.\" A single classic car, its headlights on, is parked at the edge of the frame, partially under the canopy, adding a sense of narrative intrigue and isolation. The background is shrouded in darkness, with only faint hints of trees or distant lights, emphasizing the station as an island of light in the night. The color palette is dominated by cool whites, muted grays, and subtle hints of red, with the warm yellow of the car’s headlights providing a stark contrast. The composition is symmetrical and slightly wide-angled, with a shallow depth of field that keeps the focus on the gas station while the background fades into obscurity. The overall mood is quiet, lonely, and cinematic, reminiscent of a scene from a neo-noir film or a contemplative road movie.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:59.971117",
+  "word_count": 200,
+  "error_message": null
+}

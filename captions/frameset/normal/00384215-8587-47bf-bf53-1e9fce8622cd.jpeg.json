@@ -1,0 +1,12 @@
+{
+  "image_filename": "00384215-8587-47bf-bf53-1e9fce8622cd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, wide-angle shot inside a cluttered workshop or maker’s studio, with a strong focus on a blue self-healing cutting mat on a wooden workbench in the foreground. The scene is lit by natural daylight streaming in from the left, creating a warm, inviting atmosphere. In the midground, a person stands partially out of frame, visible from the chest down, wearing a plain white t-shirt and khaki pants. Their hands are raised, holding a large, black, mechanical or robotic glove, which is prominently in focus and occupies much of the upper center of the image, suggesting a sense of scale and craftsmanship.\n\nScattered across the workbench are various tools and materials: rolls of masking tape, a bright orange tape dispenser, and a few small, indistinct objects, all contributing to the sense of ongoing creative work. In the background, the workshop is filled with shelves, equipment, and a black helmet, adding depth and context to the scene. The overall color palette is a mix of warm wood tones, cool blues from the cutting mat, and neutral shades from the person’s clothing, with pops of color from the tape and tools. The composition emphasizes the hands-on, tactile nature of the workspace, with a shallow depth of field that keeps the focus on the glove and the immediate work area, while the background remains softly blurred, evoking a sense of industrious creativity and technical skill.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:44.717907",
+  "word_count": 232,
+  "error_message": null
+}

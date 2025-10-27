@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f1cbc75-bb10-43ab-aff9-507c4235e9ae.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person sitting at a wooden table, intently viewing a laptop screen. The laptop displays a vivid, high-resolution image of a picturesque coastal village with pastel-colored houses clustered along a steep shoreline, turquoise-blue water stretching out to the horizon, and lush green hills rising in the background beneath a clear sky. The viewer’s hand rests near the keyboard, suggesting engagement or contemplation. In the foreground, a white ceramic mug filled with coffee and a box of tissues add a lived-in, personal touch to the scene. The lighting is soft and natural, casting gentle highlights and subtle shadows, evoking a calm, introspective mood. The composition uses shallow depth of field, keeping the laptop screen and the viewer’s hand in sharp focus while the person’s face and background are softly blurred, drawing attention to the act of viewing and the vibrant landscape on the screen. The overall style is cinematic and intimate, with a warm, inviting color palette and a sense of quiet reflection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:22.301287",
+  "word_count": 167,
+  "error_message": null
+}

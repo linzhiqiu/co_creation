@@ -1,0 +1,12 @@
+{
+  "image_filename": "00173ab1-8e50-47c0-8033-1be9abceef7d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, macro shot of a person’s hands holding a modern smartphone, focusing on the side profile of the device. The phone is sleek and metallic, with a prominent camera bump and a clearly defined side button, possibly the power or volume button. The fingers are gently gripping the edges, with the thumb poised near the button, suggesting interaction or examination. The background is a soft, out-of-focus light gray, creating a minimalist and clean aesthetic that draws all attention to the device and hands. The lighting is soft and diffused, eliminating harsh shadows and giving the scene a high-tech, contemporary feel. The color palette is dominated by silvers, grays, and subtle skin tones, emphasizing the modernity and precision of the technology. The composition is tight, with a shallow depth of field that blurs the background and foreground edges, highlighting the tactile details of the phone and the natural texture of the skin. The overall style is crisp, clinical, and product-focused, reminiscent of high-end tech advertisements or product photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:42.739512",
+  "word_count": 168,
+  "error_message": null
+}

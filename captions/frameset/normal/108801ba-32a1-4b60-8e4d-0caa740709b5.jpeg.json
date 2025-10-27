@@ -1,0 +1,12 @@
+{
+  "image_filename": "108801ba-32a1-4b60-8e4d-0caa740709b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of five athletic runners, both men and women, are captured mid-stride as they run together at night. The scene is shot in dramatic black and white, emphasizing strong contrasts and deep shadows, with the runners illuminated by a single, harsh light source from the front, creating striking highlights on their faces and clothing. Each runner wears modern, sporty attire, including jackets and tops with prominent reflective Nike logos that catch the light, adding a sense of motion and energy. Their expressions are focused and determined, conveying intensity and camaraderie. The background is dark and indistinct, possibly an industrial or urban setting, with vertical lines suggesting a corrugated metal wall, but it remains out of focus to keep attention on the runners. The composition is dynamic, with the group tightly framed and slightly off-center, enhancing the sense of movement and unity. The overall style is cinematic and gritty, with a shallow depth of field that blurs the background, and a high-contrast monochrome palette that heightens the drama and athleticism of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:46.778489",
+  "word_count": 173,
+  "error_message": null
+}

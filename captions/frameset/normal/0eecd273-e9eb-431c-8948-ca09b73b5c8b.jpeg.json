@@ -1,0 +1,12 @@
+{
+  "image_filename": "0eecd273-e9eb-431c-8948-ca09b73b5c8b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling Parisian street scene during the day, filled with a dense crowd of people in casual, modern clothing, many of whom are slightly blurred in the foreground to create a sense of motion and energy. The focal point is a man dressed in a dark suit, perched precariously atop a traffic light with a bright red signal, drawing the viewer’s eye upward. Behind him, classic Haussmann-style Parisian apartment buildings with wrought-iron balconies and pale stone facades form an elegant urban backdrop, their windows and rooftops bathed in soft, overcast daylight. The color palette is muted and natural, dominated by neutral tones—grays, beiges, and subdued blues—evoking a realistic, cinematic atmosphere. The lighting is diffuse, with no harsh shadows, suggesting a cloudy sky. The composition uses a shallow depth of field, keeping the man and the traffic light in sharp focus while the crowd and background buildings are gently blurred, enhancing the sense of depth and drawing attention to the unusual action at the center. The overall style is reminiscent of a contemporary European film, with a documentary-like authenticity and a dynamic, immersive perspective at street level.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:20.218390",
+  "word_count": 186,
+  "error_message": null
+}

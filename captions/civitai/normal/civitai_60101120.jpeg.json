@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_60101120.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic fantasy portrait of a mysterious, hooded female warrior standing powerfully in the foreground. She wears intricately detailed, dark armor with gold accents, and her flowing black cloak is tattered at the edges, billowing in an unseen wind. Her face is mostly obscured by the deep hood, with only glowing, expressionless eyes visible, adding an enigmatic and intimidating aura. In each hand, she wields a large, glowing sword with fiery orange blades that emit a subtle, ethereal light. The background features a vast, desolate landscape with jagged rocks and a sky dominated by a massive, eclipsed sun, casting an intense orange glow and dramatic shadows across the scene. The color palette is rich in deep blacks, warm oranges, and muted earth tones, creating a high-contrast, cinematic atmosphere. The composition is dynamic, with a low-angle perspective that emphasizes the warrior’s imposing presence, and a shallow depth of field that keeps the focus on her while the background remains slightly blurred and atmospheric. The overall style is highly detailed, blending elements of dark fantasy illustration with epic, painterly lighting and a sense of mythic grandeur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:08:42.659554",
+  "word_count": 185,
+  "error_message": null
+}

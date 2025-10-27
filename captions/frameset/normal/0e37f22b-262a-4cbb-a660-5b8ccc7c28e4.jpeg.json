@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e37f22b-262a-4cbb-a660-5b8ccc7c28e4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, warmly lit kitchen countertop scene, captured in a shallow depth of field with a cinematic, naturalistic style. In the foreground, a modern smart display device sits angled on the counter, its screen vividly showing an image of a volcanic eruption with the text “Pompeii was destroyed by Mount Vesuvius.” The display glows softly, casting a subtle blue light on the dark, slightly reflective countertop. To the left, a wooden cutting board holds a sliced baguette, and behind it, a glass French press and a bottle of olive oil add to the lived-in, homey atmosphere. The background features a tiled backsplash with a retro floral pattern, blurred to emphasize the smart display as the focal point. Warm, golden ambient lighting creates gentle shadows and highlights, evoking a sense of comfort and everyday life. The overall color palette is earthy and inviting, with muted greens, browns, and yellows, and the composition balances modern technology with classic kitchen elements, suggesting a harmonious blend of past and present.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:58.644366",
+  "word_count": 166,
+  "error_message": null
+}

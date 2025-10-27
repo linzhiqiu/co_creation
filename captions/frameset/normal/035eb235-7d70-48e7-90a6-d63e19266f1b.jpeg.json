@@ -1,0 +1,12 @@
+{
+  "image_filename": "035eb235-7d70-48e7-90a6-d63e19266f1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of two people engaged in a digital payment transaction using smartphones. The foreground features a hand holding a black smartphone with a prominent QR code displayed on the screen, accompanied by Cyrillic text and a payment amount of 4000.00. In the background, another person holds a yellow-cased phone, its screen showing a payment confirmation interface. The scene is set indoors, with soft, natural daylight illuminating the hands and devices, casting gentle shadows on a tiled floor below. The color palette is warm and inviting, with subtle beige and tan tones in the background, contrasted by the vibrant yellow phone case and the crisp, high-contrast screens. The composition emphasizes the interaction and technology, with a shallow depth of field that keeps the focus on the hands and devices while softly blurring the background. The overall style is modern and clean, evoking a sense of convenience and contemporary urban life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:49.973808",
+  "word_count": 152,
+  "error_message": null
+}

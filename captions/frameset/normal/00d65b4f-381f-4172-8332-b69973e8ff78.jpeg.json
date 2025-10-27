@@ -1,0 +1,12 @@
+{
+  "image_filename": "00d65b4f-381f-4172-8332-b69973e8ff78.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary man sits in profile in a dimly lit, industrial-style office, his posture relaxed as he leans back in a chair, exhaling a thick plume of cigarette smoke that curls dramatically in the air. He is dressed in a crisp white shirt and dark trousers, the sleeves rolled up, suggesting late-night work or mounting tension. The room is sparsely furnished with utilitarian desks and chairs, scattered papers, and a few glowing desk lamps that cast pools of warm light, contrasting with the otherwise cool, shadowy ambiance. \n\nTo the left, a large, illuminated wall display or map glows with intricate lines and markings, its bluish-white light reflecting off the man’s face and the glass, adding a sense of technological intrigue and urgency. The background recedes into darkness, with shelves of books and equipment barely visible, evoking a sense of secrecy and depth. The overall color palette is subdued, dominated by deep blues, grays, and muted earth tones, punctuated by the stark white of the man’s shirt and the cold glow of the display.\n\nThe composition is cinematic, with a wide-angle perspective and a strong sense of depth, the camera positioned at a low angle to emphasize the isolation and introspection of the subject. The lighting is moody and atmospheric, with sharp contrasts between light and shadow, reminiscent of classic film noir or a tense espionage thriller. The scene conveys a mood of contemplation, tension, and late-night strategizing, set in a high-stakes, secretive environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:58.239286",
+  "word_count": 243,
+  "error_message": null
+}

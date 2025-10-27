@@ -1,0 +1,12 @@
+{
+  "image_filename": "05fbeeea-3e4a-4460-aa93-369caf32ceee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-tech surveillance interface scene viewed from a top-down perspective. The central focus is a large, semi-transparent red holographic display featuring a digital portrait of a young girl with intense, direct eye contact and a serious expression. The hologram is overlaid with futuristic text and data, including labels such as \"SUBJECTS: PROJECT ALICE, ADA WONG,\" \"UMBRELLA PRIME SECURITY - NEW YORK TIMES SQ,\" and \"INITIALIZE: NEW YORK SEQUENCE.\" The background consists of a dark, urban environment with the tops of parked cars visible, rendered in deep shadows and illuminated by the red glow of the holographic interface. The overall color palette is dominated by shades of red and black, creating a tense, cyberpunk atmosphere. The lighting is dramatic, with the red hologram casting a stark, artificial light over the scene. The composition is symmetrical and precise, evoking a sense of surveillance and control, with a sleek, digital aesthetic reminiscent of sci-fi thrillers.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:49.861854",
+  "word_count": 154,
+  "error_message": null
+}

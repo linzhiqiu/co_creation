@@ -1,0 +1,12 @@
+{
+  "image_filename": "08f13677-e68b-4ab9-aae3-5b5ea307e5cb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, action-packed scene featuring a determined woman in her late 20s to early 30s, captured in a close-up, low-angle shot as she leans forward with intensity. She wears clear protective goggles, a fitted gray long-sleeve shirt, black tactical gloves, and a tan backpack, suggesting she is engaged in an adventurous or high-stakes activity. Her hair is windswept, adding a sense of motion and urgency. She grips a stabilizer-mounted camera rig with an orange smartphone attached, focusing intently on her task. The background is a blurred, overcast sky with hints of motion blur, emphasizing speed and movement. The color palette is dominated by cool blues and grays, with the orange phone providing a striking accent. The lighting is natural and slightly diffused, evoking a cinematic, documentary-style realism. The overall composition conveys energy, focus, and the thrill of capturing action in the moment, with a shallow depth of field that keeps the subject sharply in focus against the dynamic, wind-swept backdrop.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:00.522506",
+  "word_count": 160,
+  "error_message": null
+}

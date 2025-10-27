@@ -1,0 +1,12 @@
+{
+  "image_filename": "0980ea58-b3b8-4af6-a983-0eb0589bc34a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, small framed painting hangs centered on a plain, softly textured wall. The painting depicts a tranquil rural landscape: a modest white cottage with a dark roof sits nestled among lush green trees, with a gentle stream or pond in the foreground and rolling, shadowy mountains rising in the background. The scene is rendered in muted, earthy tones—soft greens, browns, and ochres—evoking a sense of calm and nostalgia. The frame is simple, wooden, and slightly weathered, adding to the understated, vintage feel. The lighting in the room is dim and diffuse, casting a subtle shadow around the frame and creating a quiet, contemplative atmosphere. The composition is minimalistic, with the painting as the sole focal point against the empty wall, emphasizing solitude and stillness. The overall style is reminiscent of a quiet moment in a lived-in home, with a cinematic, almost melancholic mood, as if captured in a slow, lingering shot with a shallow depth of field and natural, low-key lighting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:13.797301",
+  "word_count": 162,
+  "error_message": null
+}

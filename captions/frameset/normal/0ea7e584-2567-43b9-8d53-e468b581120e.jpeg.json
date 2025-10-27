@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ea7e584-2567-43b9-8d53-e468b581120e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A collection of instant film photographs is scattered across a smooth, pale surface, arranged in a loose, organic grid. Each Polaroid features a similar subject: a person dressed in dark clothing, their face obscured by a realistic, detailed animal mask—most notably, a wolf or dog. The images are slightly desaturated, with a cool, bluish-gray color palette that evokes a sense of mystery and detachment. The lighting is soft and diffuse, eliminating harsh shadows and lending a gentle, almost clinical atmosphere to the scene. The camera angle is low and close, shot at a shallow diagonal, creating a sense of intimacy and drawing attention to the tactile quality of the photographs. The depth of field is shallow, with the foreground Polaroids in sharp focus while those further away blur softly, emphasizing the layered arrangement. The overall style is minimalist and contemplative, with a subtle cinematic quality reminiscent of psychological thrillers or art-house films, inviting the viewer to ponder the identity and story behind the masked figures.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:11.445065",
+  "word_count": 165,
+  "error_message": null
+}

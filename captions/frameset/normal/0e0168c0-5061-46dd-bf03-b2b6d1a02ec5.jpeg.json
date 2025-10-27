@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e0168c0-5061-46dd-bf03-b2b6d1a02ec5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic nighttime scene inside a modern car, featuring a young man with dark skin and short hair driving. He is dressed in a dark, stylish shirt, and his expression is focused and contemplative as he looks ahead at the road. The interior of the car is illuminated by soft, ambient blue and purple LED lights along the dashboard, creating a sleek, futuristic atmosphere. The steering wheel and instrument panel glow with subtle red and white highlights, adding to the high-tech feel. The background outside the car windows is dark and blurred, suggesting motion and the quiet isolation of night driving. The composition is intimate, shot from the passenger seat at a slight angle, with a shallow depth of field that keeps the driver in sharp focus while the background and car interior details gently fade. The overall color palette is cool and subdued, dominated by deep blues, blacks, and hints of neon, evoking a moody, introspective tone reminiscent of neo-noir films.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:56.221597",
+  "word_count": 162,
+  "error_message": null
+}

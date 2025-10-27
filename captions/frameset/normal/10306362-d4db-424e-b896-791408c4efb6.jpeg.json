@@ -1,0 +1,12 @@
+{
+  "image_filename": "10306362-d4db-424e-b896-791408c4efb6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic portrait of a young man seated in a modern office environment. The subject is positioned in the foreground, centered in the frame, and gazes slightly off-camera with a neutral, attentive expression. He has short brown hair and wears a dark, plaid button-up shirt over a white undershirt. The background features a softly blurred open-plan office with neutral-toned cubicle dividers and large windows, allowing diffused daylight to fill the space. Overhead fluorescent lights cast a gentle, even illumination, creating a calm and professional atmosphere. The color palette is subdued, with cool grays, soft whites, and muted earth tones dominating the scene. The depth of field is shallow, keeping the subject in sharp focus while the background remains softly out of focus, lending a sense of intimacy and drawing attention to the subject’s face. The overall style is naturalistic and documentary-like, with a slight cinematic quality reminiscent of an interview setup or a candid moment in a contemporary workplace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:40.015442",
+  "word_count": 161,
+  "error_message": null
+}

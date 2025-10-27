@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d4d4e74-80ee-4eb1-85e6-a1bd7afb5def.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic close-up portrait of a young man with sharp, defined facial features and a faint mustache, gazing intensely forward. His eyes glow with an unnatural, fiery red light, giving him an otherworldly or supernatural presence. The background is a solid, muted red, creating a stark contrast with his skin tone and emphasizing the drama of the scene. The lighting is low and moody, casting soft shadows across his face and highlighting the texture of his skin. The overall color palette is subdued, dominated by earthy tones and the striking red of the background and eyes. The composition is tight, focusing on the subject’s face and upper shoulders, with a shallow depth of field that blurs the background and draws attention to his intense expression and glowing eyes. The style is reminiscent of a psychological thriller or dark fantasy film, with a sense of tension and mystery conveyed through the subject’s piercing gaze and the minimalist, atmospheric setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:37.647067",
+  "word_count": 159,
+  "error_message": null
+}

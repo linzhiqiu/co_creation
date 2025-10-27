@@ -1,0 +1,12 @@
+{
+  "image_filename": "0776c2f9-a52d-412d-8ebf-bfffd7e2b9dd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A tense, cinematic close-up of two men in a dimly lit, high-tech control room. The foreground is dominated by a serious-looking Black man wearing round wire-rimmed glasses, a white lab coat, and a patterned tie, his face partially illuminated by the glow of off-screen monitors, casting dramatic shadows and highlighting his intense, focused expression. In the background, slightly out of focus, stands an older white man with a white beard and glasses, dressed in a light-colored shirt, his face etched with concern as he looks toward the foreground figure. The color palette is moody and subdued, with deep blues, blacks, and soft highlights from computer screens, creating a suspenseful, almost noir atmosphere. The composition uses a shallow depth of field to draw attention to the foreground subject, while the background figure adds narrative tension. The overall style is reminiscent of a 1990s thriller or science fiction film, with low-key lighting, a sense of urgency, and a dramatic, immersive perspective.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:23.433031",
+  "word_count": 159,
+  "error_message": null
+}

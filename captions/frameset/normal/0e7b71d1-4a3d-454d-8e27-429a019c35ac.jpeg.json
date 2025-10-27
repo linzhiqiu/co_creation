@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e7b71d1-4a3d-454d-8e27-429a019c35ac.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a children’s book held open by a person, with the focus on the colorful, illustrated cover and back. The book is titled in Polish, “Mogę zostać dociekliwym naukowcem,” and features playful cartoon portraits of three famous scientists—Rosalind Franklin, Maria Skłodowska-Curie, and Albert Einstein—each depicted with distinctive attributes: a DNA strand, a beaker, and a chalkboard with “E=mc².” The cover uses a soft pastel color palette, primarily mint green, light blue, and warm beige, with accents of black and pink. The background is softly blurred, revealing the interior of a bus or tram with purple and metallic seats, illuminated by cool, diffused lighting that creates a gentle, reflective ambiance. The composition centers the book, with the camera at eye level and a shallow depth of field, drawing attention to the book’s inviting illustrations and whimsical typography. The overall mood is cozy and curious, evoking a sense of wonder and discovery, as if inviting the viewer into a world of scientific exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:06.657219",
+  "word_count": 164,
+  "error_message": null
+}

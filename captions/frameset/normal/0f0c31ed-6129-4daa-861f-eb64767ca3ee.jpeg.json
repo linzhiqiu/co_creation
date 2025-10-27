@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f0c31ed-6129-4daa-861f-eb64767ca3ee.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, surreal architectural interior inspired by M.C. Escher’s impossible constructions, featuring a labyrinth of stone staircases that twist, turn, and intersect at impossible angles. The scene is devoid of people, emphasizing the overwhelming scale and complexity of the space. The walls, floors, and stairs are constructed from large, weathered stone blocks in muted earth tones—grays, beiges, and ochres—creating a sense of ancient, monolithic permanence. Soft, diffused light filters in from unseen sources, casting dramatic shadows and highlighting the geometric forms, while certain areas are plunged into deep shadow, enhancing the mysterious and disorienting atmosphere. The composition is shot from a low, wide-angle perspective, looking upward to capture the dizzying height and depth of the chamber, with a strong sense of three-dimensionality and spatial paradox. The overall mood is enigmatic and dreamlike, evoking a sense of wonder and unease, as if the viewer is trapped within an endless, logic-defying maze.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:20.681882",
+  "word_count": 150,
+  "error_message": null
+}

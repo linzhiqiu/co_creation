@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b7456c0-eda3-4259-bd49-b65c4737a66d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure dribbles a basketball on an outdoor court at dusk, captured from behind in a wide, cinematic shot. The subject, dressed in dark athletic wear and white sneakers, is mid-stride, moving toward a weathered hoop with a slightly bent rim. The court is enclosed by a tall chain-link fence, its silhouette stark against the fading twilight sky. In the background, city buildings and a distinctive cylindrical skyscraper rise, their windows aglow with warm, scattered lights. Street lamps cast a soft amber glow, creating pools of light on the slick, reflective court surface, hinting at recent rain. The color palette is moody and atmospheric, dominated by deep blues, muted grays, and golden highlights. The overall style is reminiscent of urban sports photography with a cinematic, almost melancholic tone—shallow depth of field subtly blurs the cityscape, drawing focus to the lone player and the quiet, contemplative energy of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:00.568014",
+  "word_count": 150,
+  "error_message": null
+}

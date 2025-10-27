@@ -1,0 +1,12 @@
+{
+  "image_filename": "0dbd75d9-f8c5-4466-b7aa-c8e7c2dd6d3f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand adjusting the dial on a vintage car radio at night. The hand, lit warmly, is in sharp focus, with the knuckles and fingers clearly defined as they grip the textured knob. The dashboard is bathed in a soft, amber glow, contrasting with the cool blue digital display reading “100.5.” The radio’s faceplate features retro buttons and illuminated green and yellow frequency indicators, evoking a nostalgic, analog feel. The background is softly blurred, with hints of other dashboard instruments and faint reflections, creating a shallow depth of field. The overall color palette is a moody mix of warm browns, oranges, and cool blues, with gentle, diffused lighting that suggests the scene is set during nighttime or dusk. The composition is intimate and immersive, capturing the tactile moment and evoking a sense of quiet anticipation or introspection, reminiscent of a neo-noir or 1980s-inspired film aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:47.669954",
+  "word_count": 151,
+  "error_message": null
+}

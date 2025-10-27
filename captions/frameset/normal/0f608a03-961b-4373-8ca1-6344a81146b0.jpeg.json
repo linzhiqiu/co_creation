@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f608a03-961b-4373-8ca1-6344a81146b0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA contemplative man sits alone at a wooden table, working on a laptop in a softly lit, modern interior. He is bald, with a neatly trimmed beard, and wears a fitted, dark gray henley shirt with the sleeves pushed up to his elbows. His expression is focused and slightly pensive as he looks at the laptop screen, his hands poised over the keyboard. The background features large windows with diffused daylight streaming in, casting a gentle, natural glow across the scene and creating subtle shadows. A small potted plant adds a touch of greenery on the windowsill, contributing to the calm, minimalist atmosphere. The color palette is muted and understated, dominated by cool grays, soft whites, and natural wood tones. The composition is intimate and cinematic, with a shallow depth of field that keeps the man and his workspace in sharp focus while the background remains softly blurred, enhancing the sense of quiet concentration and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:30.111581",
+  "word_count": 157,
+  "error_message": null
+}

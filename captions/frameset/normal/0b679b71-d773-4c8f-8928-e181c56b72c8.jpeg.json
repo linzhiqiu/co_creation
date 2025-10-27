@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b679b71-d773-4c8f-8928-e181c56b72c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A medium shot from behind of a window cleaner at work, captured in a sunlit, urban setting. The subject is a man wearing a white T-shirt with the word \"APEX\" and \"Window Cleaning\" printed on the back, along with a light gray baseball cap. He is reaching up with a long-handled squeegee, cleaning the upper edge of a large window. The lighting is natural and bright, casting soft shadows and creating a warm, slightly hazy atmosphere. The background features the blurred outlines of beige and tan buildings, visible through the glass, with a minimalist, almost washed-out color palette dominated by whites, grays, and muted earth tones. The composition emphasizes the act of cleaning, with the man’s arm extended and the squeegee in motion, while the fluorescent lights on the ceiling and the architectural lines of the window frame add a sense of structure. The overall style is realistic and documentary-like, with a shallow depth of field that keeps the focus on the worker and his task, evoking a sense of quiet diligence and everyday labor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:59.721478",
+  "word_count": 175,
+  "error_message": null
+}

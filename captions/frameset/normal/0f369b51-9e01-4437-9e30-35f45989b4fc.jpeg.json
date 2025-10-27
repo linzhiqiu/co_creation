@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f369b51-9e01-4437-9e30-35f45989b4fc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic aerial view of a train station nestled within a lush, vibrant forest at golden hour. The camera looks directly down from above, capturing the long, narrow form of a train stopped at the platform, its metallic roof reflecting the warm, late afternoon sunlight. The train tracks and platform run vertically through the center of the composition, flanked on both sides by dense, sunlit trees whose foliage glows in shades of vivid green and yellow. The sunlight filters through the leaves, casting dappled shadows and creating a rich interplay of light and dark across the scene. Small human figures are visible on the platform, their presence adding a sense of scale and quiet activity. The overall color palette is dominated by deep greens, golden yellows, and the cool grays of the train and platform. The image has a serene, almost dreamlike quality, with soft, natural lighting and a high vantage point that emphasizes the harmony between human infrastructure and the surrounding nature. The composition is balanced and immersive, evoking a sense of peaceful transit and the beauty of everyday moments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:23.601629",
+  "word_count": 181,
+  "error_message": null
+}

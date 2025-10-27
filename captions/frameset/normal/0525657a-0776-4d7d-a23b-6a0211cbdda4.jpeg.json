@@ -1,0 +1,12 @@
+{
+  "image_filename": "0525657a-0776-4d7d-a23b-6a0211cbdda4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, surreal scene viewed from a top-down perspective, featuring a bold, monochromatic orange background with subtle vertical stripes. In the center, place a man dressed in black, lying on his back with his knees bent and hands near his face, casting a sharp, elongated shadow. His shirt displays bold, turquoise text. Directly below him, mirror his image perfectly, as if reflected on a glassy surface, enhancing the surreal effect.\n\nTo the right, position another man standing upright, dressed in a vibrant yellow outfit, holding a large, metallic object slung over his shoulder. Mirror this figure as well, so his reflection appears below him, maintaining the symmetry and dreamlike quality. The overall color palette is dominated by vivid oranges and yellows, with deep shadows adding dramatic contrast. The lighting is strong and directional, emphasizing the crispness of the shadows and the clarity of the reflections. The composition is highly graphic and stylized, with a modern, editorial feel, evoking a sense of abstraction and visual intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:30.144915",
+  "word_count": 166,
+  "error_message": null
+}

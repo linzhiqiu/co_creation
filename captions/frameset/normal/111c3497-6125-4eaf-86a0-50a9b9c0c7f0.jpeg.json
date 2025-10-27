@@ -1,0 +1,12 @@
+{
+  "image_filename": "111c3497-6125-4eaf-86a0-50a9b9c0c7f0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, softly lit scene featuring two central figures standing face to face in close proximity. On the left, a young woman with blonde hair styled in a loose updo, wearing glasses and a dark top, gazes downward with a gentle, contemplative expression. On the right, a person dressed in a white outfit wears a large, cartoonish helmet shaped like a marshmallow, complete with a black, smiling face and X-shaped eyes, evoking a playful, surreal quality. The background is softly blurred, filled with cool blue and purple neon lights that create a dreamy, futuristic ambiance. The lighting is diffused and atmospheric, casting a soft glow on the subjects and enhancing the sense of intimacy and quiet emotion. The composition is tight, focusing on the upper bodies and faces of the characters, with a shallow depth of field that isolates them from the abstract, luminous backdrop. The overall style is reminiscent of a modern music video or a romantic sci-fi film, blending realism with whimsical, pop-culture elements.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:58.454782",
+  "word_count": 166,
+  "error_message": null
+}

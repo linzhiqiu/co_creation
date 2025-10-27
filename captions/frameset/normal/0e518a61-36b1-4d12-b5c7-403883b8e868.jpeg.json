@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e518a61-36b1-4d12-b5c7-403883b8e868.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph capturing a pair of hands typing on a vintage typewriter. The composition is intimate and focused, with the camera positioned at a low angle, almost level with the keys, emphasizing the tactile interaction between fingers and the round, raised typewriter buttons. The lighting is soft and directional, casting gentle shadows that accentuate the contours of the hands and the metallic sheen of the typewriter. The depth of field is shallow, rendering the background and some of the keys softly out of focus, drawing attention to the movement and texture of the hands in the foreground. The overall mood is nostalgic and contemplative, evoking a sense of quiet concentration and timeless creativity. The monochromatic palette enhances the classic, cinematic quality of the scene, reminiscent of old films or documentary photography.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:59.984118",
+  "word_count": 133,
+  "error_message": null
+}

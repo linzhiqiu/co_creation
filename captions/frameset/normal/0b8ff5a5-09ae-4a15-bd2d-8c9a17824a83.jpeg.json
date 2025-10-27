@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b8ff5a5-09ae-4a15-bd2d-8c9a17824a83.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A long, narrow corridor lined with towering shelves filled with countless brown paper file folders, each meticulously labeled and stacked, creates a sense of overwhelming bureaucracy and order. The shelves stretch into the distance, emphasizing the depth and scale of the archive. Two figures stand in the left third of the frame: a woman in a dark, mid-century dress and hat, and a man in a formal uniform, possibly an official or archivist. They face each other, engaged in quiet conversation, their body language reserved and formal. The lighting is soft and diffused, casting gentle shadows and lending a muted, almost sepia-toned color palette dominated by browns, beiges, and olive greens. Overhead, green signs with white lettering hang from the ceiling, adding to the institutional atmosphere. The camera angle is slightly low and off-center, drawing the viewer’s eye down the endless aisle and enhancing the sense of scale and confinement. The overall style is cinematic and reminiscent of classic film noir or mid-20th-century European cinema, with a focus on mood, atmosphere, and the oppressive weight of bureaucracy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:02.560184",
+  "word_count": 177,
+  "error_message": null
+}

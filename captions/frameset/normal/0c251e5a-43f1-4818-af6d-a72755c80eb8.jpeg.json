@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c251e5a-43f1-4818-af6d-a72755c80eb8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure of a young boy runs down the center of a winding, empty road that cuts through a dense forest. The scene is captured from a high, slightly distant vantage point, emphasizing the boy’s smallness against the vast, curving road and towering trees. The boy wears a simple white t-shirt and dark shorts, his limbs in mid-motion, casting a long, distinct shadow on the sunlit asphalt. The lighting is soft and diffused, with sunlight filtering through the trees, creating dappled patterns and a gentle interplay of light and shadow across the road and foliage. The color palette is muted and sepia-toned, evoking a nostalgic, timeless quality reminiscent of old photographs or classic cinema. The composition draws the viewer’s eye along the road’s curve, suggesting a journey or sense of longing. The overall mood is contemplative and slightly melancholic, with a cinematic depth of field that keeps the background softly blurred, focusing attention on the boy and the road ahead.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:15.644576",
+  "word_count": 161,
+  "error_message": null
+}

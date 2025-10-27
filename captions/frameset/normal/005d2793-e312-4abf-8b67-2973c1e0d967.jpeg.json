@@ -1,0 +1,12 @@
+{
+  "image_filename": "005d2793-e312-4abf-8b67-2973c1e0d967.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking urban cityscape featuring the reflective glass facade of a modern high-rise building. The main subject is the grid of blue-tinted windows, each pane catching subtle variations of light and shadow, creating a rhythmic, geometric pattern across the surface. Reflected in the glass is the distorted image of a neighboring building with a unique, wavy architectural design, its curves and balconies adding dynamic contrast to the otherwise orderly grid. The color palette is dominated by cool blues and grays, with hints of white and muted beige from the reflected structure. The lighting is natural daylight, soft and diffused, lending a calm, almost serene atmosphere to the scene. The composition is angled slightly upward, emphasizing the height and scale of the buildings, with a shallow depth of field that keeps the focus on the interplay between the glass facade and its reflection. The overall style is clean, modern, and architectural, evoking a sense of urban sophistication and quiet contemplation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:47.465649",
+  "word_count": 160,
+  "error_message": null
+}

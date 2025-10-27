@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_68092314.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a surreal, cinematic portrait of a young woman gazing directly at the viewer, her face filling the frame in a close-up shot. She wears large, round, reflective goggles and a dark aviator-style cap, evoking a sense of adventure and mystery. The goggles dominate the composition, reflecting a luminous, futuristic cityscape at night, with glowing lights, neon signs, and Japanese characters visible in the reflections. The city lights blend seamlessly into the upper part of her face, creating a double exposure effect that merges her identity with the urban environment.\n\nThe color palette is cool and ethereal, dominated by silvery whites, soft blues, and hints of gold from the city lights. The lighting is high-key and dreamlike, with a bright, almost blinding light source above her head, casting a halo effect and adding to the surreal atmosphere. The focus is soft, with a shallow depth of field that blurs the edges and enhances the sense of otherworldliness. The overall style is reminiscent of a science fiction film poster, blending elements of cyberpunk and fine art photography. The mood is introspective and enigmatic, inviting the viewer to contemplate the connection between the subject and the futuristic world reflected in her eyes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:13:23.529343",
+  "word_count": 200,
+  "error_message": null
+}

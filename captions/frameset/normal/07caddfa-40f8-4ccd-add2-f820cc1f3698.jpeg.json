@@ -1,0 +1,12 @@
+{
+  "image_filename": "07caddfa-40f8-4ccd-add2-f820cc1f3698.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a grid of twelve portraits arranged in three rows and four columns, each featuring the same young adult with straight, dark hair and pale skin. The subject is centered in every frame, wearing a crisp, buttoned-up, off-white shirt with a classic collar. The background is a deep, almost black shade, providing stark contrast and drawing focus to the subject. The lighting is dramatic and directional, illuminating the face and upper torso while casting subtle shadows that enhance the contours of the face and the folds of the shirt. The subject’s expression is neutral and calm, with only the slightest variations in gaze and mouth position across the grid, suggesting subtle shifts in mood or thought. The overall color palette is minimalistic, dominated by the interplay of creamy whites and deep shadows, evoking a sense of quiet introspection. The composition is formal and symmetrical, with each portrait tightly framed from the chest up, and a shallow depth of field that keeps the subject in sharp focus against the blurred, dark background. The style is reminiscent of fine art photography or a cinematic character study, with a contemplative, almost meditative atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:32.917840",
+  "word_count": 190,
+  "error_message": null
+}

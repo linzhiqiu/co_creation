@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cfcfec9-d608-42a2-a21b-c9fc19a71c86.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, documentary-style photograph of a person working at a cluttered wooden desk, focused on the task of managing finances or accounting. The main subject’s hands are visible: one hand holds a pen poised above a printed spreadsheet or financial document, while the other rests on the desk near a calculator and a roll of receipt paper. Scattered receipts and papers create a sense of busyness and realism, emphasizing the administrative or bookkeeping activity. The color palette is muted and natural, with soft, diffused lighting that casts gentle shadows, evoking a calm, contemplative mood. The composition uses a shallow depth of field, blurring the foreground and background to draw attention to the hands, documents, and tools, while the camera angle is slightly above and to the side, offering an intimate, candid perspective. The overall style is realistic and unembellished, with a focus on authenticity and the everyday details of office or home financial work.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:31.846274",
+  "word_count": 154,
+  "error_message": null
+}

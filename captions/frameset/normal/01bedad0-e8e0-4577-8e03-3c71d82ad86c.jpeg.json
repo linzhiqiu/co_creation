@@ -1,0 +1,12 @@
+{
+  "image_filename": "01bedad0-e8e0-4577-8e03-3c71d82ad86c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a digital travel booking interface displayed on a screen. The focus is on a dropdown menu under the “Destination” field, with “Paris” selected and highlighted in red, and several Paris-related options listed below, including “Paris Opera” and “Paris Tour Eiffel.” The left side of the screen shows blurred input fields for “Departing from,” “Departure date,” “Adults,” and “Children,” with sample data such as “Toronto” and “Sep-29-17.” The background is a cool blue gradient, evoking a modern, high-tech atmosphere. The lighting is soft and even, with a slight reflection on the screen surface, enhancing the digital, contemporary feel. The composition is tight and intimate, drawing attention to the act of planning a trip, and the overall style is clean, minimalistic, and professional, reminiscent of a commercial or promotional image for a travel website or app.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:17.000993",
+  "word_count": 140,
+  "error_message": null
+}

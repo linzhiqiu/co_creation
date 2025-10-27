@@ -1,0 +1,12 @@
+{
+  "image_filename": "0dd45f7e-3b6f-4f6d-b554-14f2f4e9c052.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vibrant, futuristic indoor setting bustling with activity, rendered in a highly polished 3D animated style. The scene is dominated by a sleek, glowing conveyor belt or moving walkway, upon which several rotund, humanoid robots and humans recline in floating, high-tech chairs. The characters are dressed in matching red and white uniforms, their expressions relaxed and passive, absorbed in personal holographic screens hovering in front of them. In the center, a small, expressive robot with binocular-like eyes (reminiscent of WALL-E) rides alongside the humans, adding a touch of curiosity and contrast to the otherwise complacent atmosphere.\n\nThe background is filled with vibrant neon advertisements and digital billboards in a kaleidoscope of pinks, yellows, blues, and purples, evoking a sense of consumerist excess. The lighting is bright and artificial, with reflections and glows accentuating the futuristic technology. The composition uses a low, dynamic camera angle, emphasizing the movement and depth of the scene, with a shallow depth of field that keeps the focus on the characters and their immediate environment while softly blurring the bustling backdrop. The overall mood is both whimsical and satirical, capturing a world of advanced technology and passive leisure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:50.162099",
+  "word_count": 192,
+  "error_message": null
+}

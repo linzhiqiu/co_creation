@@ -1,0 +1,12 @@
+{
+  "image_filename": "080f7115-a795-47e5-bbe0-ac939b4a0c70.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a modern, bustling tech office environment with an open-plan layout. In the foreground, place two young professionals at their desks, both focused on their laptops—one is a woman with braided hair, wearing a light-colored top, and the other is a person with short hair, seen from behind, dressed in dark clothing. The workspace is filled with natural light streaming through large windows, illuminating potted plants and contemporary office furniture. Overlay a semi-transparent digital interface in the center of the image, as if projected in augmented reality. This interface features a hand holding a smartphone displaying a pet-related app called \"woofwoof,\" with playful, pastel-colored UI elements. Include floating profile images of diverse users and a cute pug, along with bright icons like a blue dog bone. Prominently display the text \"One tap ordering is here!\" in a clean, modern font. The color palette is cool and neutral, with pops of blue, yellow, and pink from the digital overlay. The overall style is cinematic and polished, with a shallow depth of field that keeps the focus on the digital interface while maintaining the lively, collaborative atmosphere of the office.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:42.761200",
+  "word_count": 189,
+  "error_message": null
+}

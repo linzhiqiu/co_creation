@@ -1,0 +1,12 @@
+{
+  "image_filename": "011926f5-140f-4045-812e-69164eb80c4f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man is driving a modern car along an empty, sunlit road, viewed from the back seat. The camera angle is positioned directly behind the driver, capturing his hands firmly gripping the steering wheel and his focused gaze reflected in the rearview mirror. The interior of the car is sleek and contemporary, with a digital dashboard and subtle metallic accents. Outside, the road stretches ahead, flanked by minimalist streetlights and bordered by a low railing, with distant hills and a pale sky visible through the windshield. The color palette is warm and muted, dominated by soft beige and gray tones, with gentle sunlight casting a natural, slightly golden glow across the scene. The overall mood is calm and contemplative, evoking a sense of quiet journey or introspection. The composition uses shallow depth of field to keep the driver and car interior in sharp focus, while the background remains softly blurred, enhancing the cinematic and immersive quality of the image.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:01.255872",
+  "word_count": 159,
+  "error_message": null
+}

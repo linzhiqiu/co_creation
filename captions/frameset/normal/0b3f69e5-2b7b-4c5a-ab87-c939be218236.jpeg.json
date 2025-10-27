@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b3f69e5-2b7b-4c5a-ab87-c939be218236.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA cinematic, over-the-shoulder shot of a person photographing a striking architectural model with their smartphone. The subject stands in the right foreground, partially out of focus, dressed in a crisp white shirt and wearing glasses, their hair pulled back. Their hand holds up a phone, its screen clearly displaying the camera interface and capturing the intricate details of the model ahead. The background is dominated by a large, complex structure resembling a futuristic cityscape or a cluster of modern high-rise buildings, constructed from wood and glass-like materials. The model features geometric patterns, boxy windows, and reflective surfaces, creating a sense of depth and scale. The lighting is soft and diffused, with cool and neutral tones, lending a contemplative, almost ethereal atmosphere. The composition emphasizes vertical lines and symmetry, with a shallow depth of field that keeps the focus on the phone’s screen and the architectural forms beyond, evoking a sense of curiosity and admiration for design and urban innovation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:56.352112",
+  "word_count": 160,
+  "error_message": null
+}

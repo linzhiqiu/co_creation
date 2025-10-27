@@ -1,0 +1,12 @@
+{
+  "image_filename": "107742da-f030-4d5c-b1c2-b25e595fff1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, slightly desaturated photograph of a weathered metal street sign reading \"NO STOPPING Anytime\" in bold white letters on a faded red background, mounted on a dark green lamppost. The sign is slightly tilted, with white arrows pointing left and right, and is positioned in the foreground, dominating the left side of the frame. In the background, partially out of focus, loom the grand neoclassical columns and ornate pediment of a monumental government building, evoking the architecture of a courthouse or historic institution. The sky is overcast, casting a soft, diffuse light that mutes the colors and creates a somber, contemplative mood. The composition uses a shallow depth of field, with the sign in sharp focus and the architectural details blurred, emphasizing the contrast between the mundane urban signage and the imposing, timeless structure behind it. The overall style is reminiscent of a dramatic film still, with a subdued color palette of grays, off-whites, and muted reds, and a sense of quiet tension in the empty, static scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:46.505829",
+  "word_count": 169,
+  "error_message": null
+}

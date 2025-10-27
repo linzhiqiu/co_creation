@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b3f1ed8-2a25-47c9-ab68-a83f03ece80d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A striking, cinematic black-and-white close-up of a person’s face reflected in a shattered mirror. The composition is intimate and dramatic, with the subject’s eye and part of their face visible through the jagged shards, creating a fragmented, surreal effect. Two hands delicately touch the broken glass, their fingers tracing the cracks, adding a sense of tension and vulnerability. The lighting is moody and high-contrast, casting deep shadows and highlighting the sharp edges of the mirror, while soft light gently illuminates the subject’s skin. The overall style is evocative of film noir or psychological drama, with a shallow depth of field that blurs the background and focuses attention on the interplay between the face, hands, and broken glass. The mood is introspective and haunting, suggesting themes of identity, fragility, and self-examination.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:56.714948",
+  "word_count": 130,
+  "error_message": null
+}

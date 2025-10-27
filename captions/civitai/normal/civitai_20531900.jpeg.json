@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_20531900.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, whimsical scene featuring an adorable baby monkey as the main subject, riding a bright blue vintage scooter down a bustling city street. The monkey is dressed in a matching orange delivery uniform and helmet, with a small delivery box strapped to its back, evoking the look of a food courier. Its large, expressive eyes and soft fur give it a charming, animated quality. The background is a lively urban setting with traditional Asian architectural elements, including red lanterns and shop signs, slightly blurred to create a shallow depth of field and emphasize the subject. The color palette is vibrant, dominated by warm oranges and cool blues, with soft, natural daylight illuminating the scene and casting gentle shadows. The overall style is cinematic and playful, blending hyper-realistic textures with a touch of fantasy, as if captured by a high-end digital camera at street level, with a slight bokeh effect to enhance focus on the monkey and its scooter.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:50:58.487769",
+  "word_count": 160,
+  "error_message": null
+}

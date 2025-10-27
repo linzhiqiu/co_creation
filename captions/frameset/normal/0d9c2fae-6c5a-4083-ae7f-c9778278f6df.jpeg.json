@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d9c2fae-6c5a-4083-ae7f-c9778278f6df.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic, head-on view of a powerful red locomotive train barreling down the tracks through a lush, green landscape. The train’s front is centered in the frame, its bold maroon and yellow paintwork gleaming under diffused daylight. The locomotive’s number “777” is prominently displayed in bright white on both sides above the windshield, drawing immediate attention. Four intense headlights blaze outward, creating a striking starburst effect and casting a warm glow on the metal surfaces. The background is a blur of dense, verdant foliage and trees, with hints of industrial elements like power lines and a distant, curving line of tanker cars trailing behind. The overall color palette is rich and saturated, dominated by deep greens and the vibrant red of the train, with subtle golden highlights. The composition is symmetrical and cinematic, with a shallow depth of field that keeps the train in sharp focus while the background softly recedes, enhancing the sense of speed and momentum. The mood is intense and dynamic, evoking the unstoppable force of the locomotive as it charges forward through the wilderness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:46.166230",
+  "word_count": 179,
+  "error_message": null
+}

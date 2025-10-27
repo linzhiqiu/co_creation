@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_20100164.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA breathtaking fantasy landscape featuring an ancient, elven-inspired city seamlessly built into towering, mist-shrouded cliffs. The architecture is ornate and vertical, with slender spires, arched bridges, and intricate stonework, all partially overgrown with lush green foliage. Multiple cascading waterfalls tumble down the cliffs, their mist catching the soft, golden morning light that bathes the entire scene in a magical glow. The city’s structures are interconnected by delicate bridges and winding pathways, some spanning deep chasms and turquoise rivers below. The color palette is dominated by rich greens, earthy browns, and cool blues, with highlights of warm sunlight filtering through the mist. The composition is grand and cinematic, with a high vantage point that captures the sweeping scale and verticality of the city, while atmospheric perspective adds depth and a sense of wonder. The overall style is highly detailed and painterly, evoking the epic fantasy worlds of classic storybooks and films.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:50:42.311975",
+  "word_count": 151,
+  "error_message": null
+}

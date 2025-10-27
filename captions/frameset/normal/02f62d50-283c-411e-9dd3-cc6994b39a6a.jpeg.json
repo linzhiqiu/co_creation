@@ -1,0 +1,12 @@
+{
+  "image_filename": "02f62d50-283c-411e-9dd3-cc6994b39a6a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone motorcyclist rides down an empty, winding country road that stretches into the distance, flanked by open fields of green grass and scattered patches of earth. The rider, dressed in a black leather jacket and helmet, leans slightly forward, suggesting motion and a sense of freedom. The sky above is overcast, filled with dramatic, textured clouds that cast a muted, diffused light over the landscape, creating a moody and contemplative atmosphere. The color palette is dominated by earthy greens, browns, and grays, with subtle highlights on the chrome and white of the motorcycle. The composition uses a wide-angle perspective, with the road leading the viewer’s eye deep into the horizon, emphasizing the vastness and solitude of the scene. The camera angle is slightly elevated and positioned behind the rider, capturing both the sense of movement and the expansive rural setting. The overall style is cinematic, with a shallow depth of field that blurs the foreground and background, focusing attention on the motorcyclist and the road ahead, evoking themes of journey, solitude, and adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:44.901612",
+  "word_count": 174,
+  "error_message": null
+}

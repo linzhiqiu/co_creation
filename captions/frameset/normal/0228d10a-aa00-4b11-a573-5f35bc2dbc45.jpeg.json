@@ -1,0 +1,12 @@
+{
+  "image_filename": "0228d10a-aa00-4b11-a573-5f35bc2dbc45.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, high-resolution image of five astronauts inside a spacecraft, viewed from directly above with a wide-angle lens. The astronauts are arranged in a tight circle, their helmeted faces illuminated by the soft, golden glow of their suit lights, creating a sense of unity and anticipation. Each astronaut wears a detailed, futuristic space suit with orange and white accents, reflective visors, and visible communication devices. Their expressions are focused and serious, conveying determination and teamwork as they prepare for a critical mission.\n\nThe background features the metallic, utilitarian interior of the spacecraft, with panels, controls, and subtle blue and grey tones that contrast with the warm lighting on the astronauts’ faces. The composition emphasizes symmetry and depth, with the circular arrangement of the crew drawing the viewer’s eye to the center of the frame. The overall style is realistic and immersive, with a slight cinematic grain and high contrast, evoking the tension and camaraderie of a high-stakes space adventure.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:28.703702",
+  "word_count": 161,
+  "error_message": null
+}

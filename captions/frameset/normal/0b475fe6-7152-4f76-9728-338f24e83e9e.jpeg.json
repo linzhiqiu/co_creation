@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b475fe6-7152-4f76-9728-338f24e83e9e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person typing on a black computer keyboard, with the focus on their hands and fingers pressing the illuminated keys. The subject wears a long-sleeved, white, slightly textured blouse, with the fabric softly gathered at the wrist, adding a touch of vintage or delicate style. The lighting is moody and atmospheric, casting a cool, teal glow across the keyboard, with subtle reflections on the keys, creating a sense of technological intensity. The background is softly blurred, suggesting an office or workspace environment, with hints of paper and a wooden desk surface visible. The composition uses a shallow depth of field, drawing attention to the tactile interaction between the hands and the keyboard, while the angle is low and intimate, almost at desk level, enhancing the immersive, documentary feel. The overall color palette is a mix of cool blues and greens contrasted with the warm tones of the desk and the natural skin tones of the hands, evoking a focused, late-night work atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:55.188149",
+  "word_count": 167,
+  "error_message": null
+}

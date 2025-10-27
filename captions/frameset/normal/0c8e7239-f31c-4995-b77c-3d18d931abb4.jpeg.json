@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c8e7239-f31c-4995-b77c-3d18d931abb4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man is captured mid-gesture, demonstrating a basketball shooting form with his hands raised and fingers extended as if following through on a shot. He wears a dark blue Nike baseball cap, black-rimmed glasses, and a light gray t-shirt. His expression is focused and intent, suggesting he is either teaching or explaining a technique. The background is a deep blue gymnasium wall, creating a clean, uncluttered backdrop that emphasizes the subject. The lighting is soft and natural, with no harsh shadows, lending a candid, documentary feel to the scene. The composition is tight, with the man framed from the chest up and slightly off-center, drawing attention to his hands and facial expression. The color palette is dominated by cool blues and neutral grays, enhancing the calm, instructional mood. The overall style is realistic and intimate, with a shallow depth of field that subtly blurs the background, keeping the focus on the subject’s gesture and demeanor.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:21.329606",
+  "word_count": 156,
+  "error_message": null
+}

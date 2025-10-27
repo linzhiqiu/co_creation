@@ -1,0 +1,12 @@
+{
+  "image_filename": "00ac9d21-7430-4597-b631-69b20e5a6087.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit library or study hall at night, viewed from an elevated angle behind a row of empty desks in the foreground. The main focus is on three individual study cubicles, each softly illuminated by a warm desk lamp, creating cozy pools of light in an otherwise shadowy room. Two students are visible from behind, seated at their desks: one on the left wearing headphones and a dark jacket, hunched over their work, and another on the right with long hair, dressed in a light top, sitting upright and focused on their studies. The cubicles are cluttered with books, papers, and personal items, adding a sense of lived-in realism. The color palette is dominated by warm amber and brown tones, with deep shadows and gentle highlights, evoking a quiet, contemplative atmosphere. The composition uses a shallow depth of field, with the foreground slightly blurred, drawing the viewer’s eye to the illuminated students. The overall style is cinematic, reminiscent of a coming-of-age or academic drama, capturing the solitude and intensity of late-night studying.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:55.576693",
+  "word_count": 173,
+  "error_message": null
+}

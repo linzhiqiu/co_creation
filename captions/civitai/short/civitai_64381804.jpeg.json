@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_64381804.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A split-panel illustration: on the left, a proud white chicken with a vivid red comb and alert expression against a clean, pale background; on the right, a hand lifts a steaming, golden-brown fried drumstick from a heaping bowl of crispy chicken, set on a simple wooden table. Bright, natural lighting, crisp lines, and a playful, cartoon style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:11:06.882098",
+  "word_count": 57,
+  "error_message": null
+}

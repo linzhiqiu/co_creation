@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d0e5ad8-e61c-4bec-a8de-ee6da3b33f17.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bright, warmly lit classroom scene featuring a group of young students and a teacher. The students, mostly girls, stand in a row along one side of a long table covered with a plastic tablecloth, their hands placed over their hearts in a gesture of respect or pledge. The teacher, an adult woman with curly hair and glasses, stands at the head of the table, mirroring the students’ gesture, exuding a calm and encouraging presence. The children wear colorful sweaters in shades of turquoise, pink, and purple, adding vibrancy to the scene. The classroom walls are painted a cheerful sky blue, and large windows in the background let in abundant natural light, casting a soft, diffused glow across the room. The table is scattered with yellow folders and papers, suggesting an educational activity in progress. The overall composition is candid and documentary-style, with a shallow depth of field that keeps the focus on the interaction between teacher and students, while the background remains softly blurred. The mood is uplifting and communal, capturing a moment of unity and learning in a nurturing environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:35.729114",
+  "word_count": 182,
+  "error_message": null
+}

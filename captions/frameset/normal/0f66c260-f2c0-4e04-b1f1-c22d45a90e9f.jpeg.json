@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f66c260-f2c0-4e04-b1f1-c22d45a90e9f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, cinematic scene featuring a humanoid robot as the central subject, positioned in the foreground and facing directly toward the viewer. The robot has a smooth, pale metallic face with subtle, human-like features and expressive, luminous eyes that convey a sense of intelligence and emotion. Its neck and shoulders are composed of sleek, black and silver mechanical components, with glowing red lights illuminating its chest and throat area, casting a soft, eerie glow on its face. In the background, a large formation of identical robots stands in precise rows, their faces partially obscured by shadow but their chests glowing with the same red light, creating a sense of unity and silent anticipation. The setting is dark and futuristic, with a blurred, industrial cityscape and tall, indistinct structures in the distance. The color palette is dominated by cool blues, grays, and metallic silvers, contrasted by the striking red illumination. The lighting is moody and atmospheric, with a shallow depth of field that keeps the focus on the central robot while the background remains slightly out of focus. The overall style is reminiscent of a high-budget science fiction film, with a dramatic, almost ominous mood and a sense of technological advancement and underlying tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:28.935469",
+  "word_count": 204,
+  "error_message": null
+}

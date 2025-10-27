@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e0d3c5f-7103-4621-a5d8-c47b1cbcb8b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a smartphone in the foreground, with the phone’s screen displaying a digital map centered on Western Europe. The background features the iconic Tower Bridge in London, slightly out of focus to create a shallow depth of field and draw attention to the phone. The hand is positioned so that the phone is perfectly aligned with the bridge’s towers, creating a visual interplay between the digital and physical worlds. The lighting is natural daylight, with soft, diffused sunlight illuminating the scene, giving the colors a gentle, realistic tone. The river Thames is visible below the bridge, with subtle ripples and muted reflections. The overall color palette is cool and neutral, with the pale blue sky, greyish stone of the bridge, and the soft beige of the phone case. The composition is balanced and modern, evoking a sense of travel, navigation, and the blending of technology with classic urban landmarks. The camera angle is at eye level, with a slight focus on the hand and phone, creating an immersive, documentary-style feel.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:56.282972",
+  "word_count": 176,
+  "error_message": null
+}

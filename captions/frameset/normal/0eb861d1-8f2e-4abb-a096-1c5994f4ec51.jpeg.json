@@ -1,0 +1,12 @@
+{
+  "image_filename": "0eb861d1-8f2e-4abb-a096-1c5994f4ec51.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, emotionally charged scene set in a dimly lit, industrial-style gym. In the foreground, two athletes—one male and one female—embrace in a moment of camaraderie or consolation. The man, muscular and with a shaved head, wears a fitted grey t-shirt, black athletic shorts, and red boxing gloves, his posture protective and supportive. The woman, partially obscured, is dressed in a sports bra and athletic shorts, her gloved arms wrapped around the man’s torso. The lighting is cool and moody, with soft blue and white highlights casting gentle shadows across the concrete walls and floor, evoking a sense of intimacy and resilience. The background is blurred, featuring gym equipment and darkened doorways, enhancing the focus on the two figures. The composition is tight and slightly off-center, with a shallow depth of field that draws attention to the emotional connection between the subjects. The overall style is reminiscent of a sports drama film, with a subdued color palette dominated by greys, blues, and muted reds, and a contemplative, almost melancholic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:12.830767",
+  "word_count": 170,
+  "error_message": null
+}

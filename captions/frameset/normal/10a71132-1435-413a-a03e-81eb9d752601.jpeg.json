@@ -1,0 +1,12 @@
+{
+  "image_filename": "10a71132-1435-413a-a03e-81eb9d752601.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic, cinematic scene set in a dense urban environment, viewed from a low, upward-looking angle between tall, shadowy skyscrapers. The perspective emphasizes the towering buildings, their facades rendered in cool, muted tones of gray and blue, with sharp architectural lines leading the eye toward the sky. Above, massive, futuristic alien spacecraft dominate the scene—enormous, disc-shaped vessels with glowing concentric lights and intricate metallic textures, surrounded by several smaller, similarly designed ships. The sky is a pale, overcast blue, providing stark contrast to the dark buildings and the luminous, otherworldly technology. The lighting is natural daylight, but the looming ships cast subtle shadows and a sense of foreboding over the city. The overall mood is tense and awe-inspiring, blending science fiction spectacle with urban realism. The composition uses deep depth of field to keep both the foreground architecture and the distant ships in sharp focus, enhancing the sense of scale and immersion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:50.703521",
+  "word_count": 153,
+  "error_message": null
+}

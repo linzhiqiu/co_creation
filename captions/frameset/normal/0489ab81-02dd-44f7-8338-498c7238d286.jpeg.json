@@ -1,0 +1,12 @@
+{
+  "image_filename": "0489ab81-02dd-44f7-8338-498c7238d286.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, shallow depth-of-field shot of a metalworking process in action. The focal point is a copper welding or soldering tool making contact with the center of a thin, flower-shaped metal piece, its petals radiating outward in soft focus. A gloved hand, partially blurred, steadies the workpiece from the side, emphasizing the precision and craftsmanship involved. The lighting is warm and directional, casting gentle highlights and subtle shadows across the metallic surfaces, enhancing the textures and contours of both the tool and the metal flower. The background is softly blurred, with hints of workshop elements and muted earth tones, keeping the viewer’s attention on the intricate interaction between tool and material. The overall style is cinematic and intimate, evoking a sense of skilled manual labor and artisanal creation, with a focus on tactile detail and the artistry of the craft.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:14.634041",
+  "word_count": 140,
+  "error_message": null
+}

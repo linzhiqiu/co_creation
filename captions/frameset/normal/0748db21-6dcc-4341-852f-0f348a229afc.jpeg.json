@@ -1,0 +1,12 @@
+{
+  "image_filename": "0748db21-6dcc-4341-852f-0f348a229afc.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, cinematic scene featuring a simple round wall clock as the central subject, mounted on a smooth, matte dark teal wall. The clock is positioned slightly off-center to the right, creating a sense of negative space and visual tension. The clock face is white with bold black numerals and hands, and a small rectangular date window displaying \"MER 10\" in black text on a white background, suggesting a European setting. The time reads just after 2:00. The lighting is soft and moody, casting subtle shadows and giving the scene a subdued, contemplative atmosphere. The color palette is dominated by cool, muted tones—primarily deep teal and white—with high contrast between the clock and the wall. The overall style is reminiscent of a still from an art-house film, with a wide aspect ratio, shallow depth of field, and a sense of quiet anticipation. The composition emphasizes simplicity, isolation, and the passage of time, evoking a feeling of introspection and suspense.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:22.065583",
+  "word_count": 159,
+  "error_message": null
+}

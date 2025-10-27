@@ -1,0 +1,12 @@
+{
+  "image_filename": "101d9164-4ed5-41d9-9027-5cdb0ae6228c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a dramatic, cinematic underwater scene viewed from below the surface, looking up at two outstretched human hands pressed against the water. The hands are silhouetted in sharp contrast against a luminous, deep blue background, with light diffusing through the water to create a soft, ethereal glow. The fingers are splayed, and the palms are clearly visible, evoking a sense of urgency or desperation. Subtle ripples and bubbles distort the water around the hands, adding a sense of motion and tension. The overall color palette is dominated by rich blues and cool tones, with high contrast between the dark hands and the illuminated water. The composition is intimate and immersive, with a shallow depth of field that keeps the focus on the hands while the background remains softly blurred. The mood is intense and evocative, suggesting themes of struggle, isolation, or reaching for help, rendered in a visually striking, almost surreal style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:39.567760",
+  "word_count": 153,
+  "error_message": null
+}

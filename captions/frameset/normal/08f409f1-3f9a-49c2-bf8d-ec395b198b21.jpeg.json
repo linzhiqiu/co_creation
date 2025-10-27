@@ -1,0 +1,12 @@
+{
+  "image_filename": "08f409f1-3f9a-49c2-bf8d-ec395b198b21.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a moody, cinematic image of the facade of an old, mid-century apartment building. The composition is a tight, slightly angled shot that fills the frame with a repetitive grid of balconies and large, rectangular windows. The building’s exterior is constructed from weathered red brick, with each balcony bordered by rusted metal railings, showing signs of age and neglect. The windows are mostly dark, reflecting little light, with a few slightly ajar, hinting at subtle human presence but no visible occupants. The color palette is muted and desaturated, dominated by deep browns, grays, and hints of rust, evoking a somber, melancholic atmosphere. The lighting is subdued, as if captured on an overcast day or during the late afternoon, casting soft shadows and enhancing the sense of abandonment. The overall style is realistic with a touch of urban decay, emphasizing texture and repetition, and the camera angle creates a sense of depth and slight unease, reminiscent of a scene from a contemplative drama or a psychological thriller.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:02.721383",
+  "word_count": 166,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a9953ef-afbd-4e99-a522-fd0bec3ace15.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white cinematic scene set in a quiet, small-town neighborhood during the early 20th century. The central subject is a middle-aged man with neatly combed dark hair, dressed in a classic suit and tie, exuding a sense of calm authority and determination. He is positioned in the foreground, aiming a long rifle directly at the camera, his intense gaze focused down the barrel, creating a powerful sense of immediacy and tension. The man’s expression is serious and resolute, his posture steady and composed, suggesting a moment of high stakes or moral gravity.\n\nIn the background, slightly out of focus, is an old-fashioned automobile parked along a dirt road, with bare trees and modest wooden houses hinting at a rural or suburban setting. The lighting is natural and soft, casting gentle shadows that enhance the realism and emotional weight of the scene. The overall composition uses a shallow depth of field to keep the viewer’s attention on the man and his action, while the monochrome palette adds a timeless, classic quality reminiscent of mid-20th-century American cinema. The camera angle is at eye level, directly in line with the rifle, heightening the dramatic tension and drawing the viewer into the character’s perspective. The mood is somber, suspenseful, and deeply human, evoking themes of courage, responsibility, and moral resolve.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:39.516538",
+  "word_count": 216,
+  "error_message": null
+}

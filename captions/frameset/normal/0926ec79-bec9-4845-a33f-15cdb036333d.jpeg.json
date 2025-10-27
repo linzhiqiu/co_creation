@@ -1,0 +1,12 @@
+{
+  "image_filename": "0926ec79-bec9-4845-a33f-15cdb036333d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic dusk scene featuring a vintage neon motel sign as the central subject. The sign, prominently displaying the word \"AZTEC\" in bold, retro lettering, glows in vibrant shades of pink, green, and white, casting a soft, colorful illumination against the fading evening sky. Below the main text, smaller neon elements spell out \"MOTEL\" and \"VACANCY,\" adding to the nostalgic atmosphere. To the left, the silhouette of a palm tree rises, its fronds gently arching into the frame, while to the right, utility poles and wires subtly hint at an urban roadside setting. The background sky is a smooth gradient of pastel purples and pinks, evoking a tranquil twilight mood. The composition is slightly off-center, with the sign towering upward and dominating the right side of the image, creating a sense of verticality and space. The overall style is reminiscent of mid-century Americana, with a dreamy, almost cinematic quality, soft focus, and a gentle, ambient glow that enhances the retro aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:17.382061",
+  "word_count": 162,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b2ba00f-8db7-4c57-ba53-020eca0b1b8a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black and white photograph of a modern indoor golf driving range, captured from a slightly elevated, rear three-quarter angle. The central subject is a solitary golfer, mid-swing, facing away from the camera. The golfer wears dark pants and a light-colored hoodie, with a cap pulled low, obscuring their face. Their posture is dynamic, arms extended overhead in the follow-through of a powerful drive. To the left of the golfer, a golf bag rests on the ground, clubs visible, adding to the sense of realism and preparation.\n\nThe architecture of the range is striking, with a series of large, curved metal beams and transparent panels forming a tunnel-like structure that recedes into the background, creating strong leading lines and a sense of depth. Overhead monitors and signage hang from the beams, contributing to the modern, utilitarian atmosphere. The far end of the range opens to an outdoor field, visible through the structure, with soft, out-of-focus natural light illuminating the scene and casting gentle shadows.\n\nThe monochrome palette emphasizes contrasts and textures, lending a timeless, contemplative mood. The lighting is diffuse, likely from an overcast sky or early morning sun, creating a soft, cinematic quality without harsh highlights. The overall composition is balanced and immersive, with a shallow depth of field that keeps the golfer in sharp focus while subtly blurring the background, drawing the viewer’s eye to the action and the architectural rhythm of the space.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:54.432686",
+  "word_count": 236,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0fbebbd4-1daf-4a96-8d16-18a3fd726976.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A lone figure stands at the center of a vast, circular, futuristic stage, dramatically illuminated by intersecting beams of vibrant red and blue laser light that crisscross the space in sharp, geometric patterns. The person, dressed in dark, formal attire, is dwarfed by the scale of the environment, emphasizing a sense of isolation and grandeur. The background is shrouded in deep shadows and cool blue tones, with abstract, almost organic textures suggesting a high-tech or otherworldly setting. The lighting is stark and theatrical, with the lasers casting vivid reflections and creating a sense of depth and tension. The camera angle is wide and slightly elevated, capturing the full expanse of the stage and the intricate interplay of light. The overall mood is mysterious and cinematic, evoking a high-stakes, science fiction atmosphere with a focus on spectacle and dramatic contrast.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:34.586501",
+  "word_count": 139,
+  "error_message": null
+}

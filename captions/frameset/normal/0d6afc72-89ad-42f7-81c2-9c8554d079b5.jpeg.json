@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d6afc72-89ad-42f7-81c2-9c8554d079b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody aerial shot of a wide, multi-lane urban highway at dusk or early dawn, with a cool, desaturated blue-gray color palette that evokes a somber, almost melancholic atmosphere. The scene is largely empty, with only a few vehicles visible—most notably, a single car with headlights on, driving along the center of the highway, its lights casting a faint glow on the wet or reflective road surface. The cityscape surrounding the highway is dense with mid-rise buildings, some with flat rooftops and visible windows, and the urban environment feels slightly worn and lived-in. Large, illuminated billboards in both English and Arabic script dominate the foreground and sides of the frame, adding a sense of commercial urban life. The camera angle is high and directly overhead, emphasizing the emptiness and scale of the road, with a deep depth of field that keeps both the foreground and background in sharp focus. The overall style is reminiscent of a dramatic, atmospheric film still, with soft, diffused lighting and a sense of quiet isolation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:44.367595",
+  "word_count": 172,
+  "error_message": null
+}

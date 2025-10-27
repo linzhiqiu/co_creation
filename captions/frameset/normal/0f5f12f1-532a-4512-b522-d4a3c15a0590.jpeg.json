@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f5f12f1-532a-4512-b522-d4a3c15a0590.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a pair of hands gently breaking open a fortune cookie, revealing a small slip of paper inside. The hands are positioned in the foreground, with natural skin tones and subtle details like faint wrinkles and trimmed nails, conveying a sense of realism and intimacy. The fortune cookie is a pale golden color, its crisp texture clearly visible where it has been split. The slip of paper inside features text in a non-Latin script, possibly Greek, adding an element of intrigue and cultural specificity. The background is softly blurred, with hints of a green object and a light wooden surface, creating a shallow depth of field that keeps the focus on the hands and the cookie. The lighting is warm and diffuse, casting gentle shadows and enhancing the inviting, everyday atmosphere. The overall style is naturalistic, with a documentary or slice-of-life quality, and the composition draws the viewer’s eye directly to the moment of discovery within the fortune cookie.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:27.205409",
+  "word_count": 163,
+  "error_message": null
+}

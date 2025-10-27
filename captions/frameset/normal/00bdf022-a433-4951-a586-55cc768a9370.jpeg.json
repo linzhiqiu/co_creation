@@ -1,0 +1,12 @@
+{
+  "image_filename": "00bdf022-a433-4951-a586-55cc768a9370.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a vintage typewriter in use, with the camera positioned at a dramatic, low angle that emphasizes the curvature of the machine and the tactile details of its keys. The focus is shallow, drawing the viewer’s eye to the metallic typebars and the textured, slightly worn keys, while the background and foreground blur softly, creating a sense of depth and intimacy. A sheet of white paper is partially visible, already imprinted with lines of typed text, suggesting the act of writing in progress. The lighting is soft and diffused, casting gentle highlights on the metal and plastic surfaces, and evoking a nostalgic, almost sepia-toned atmosphere. The color palette is muted, dominated by shades of gray, cream, and off-white, with subtle hints of black and metallic sheen. The overall style is reminiscent of classic film or period drama, with a focus on tactile realism and a contemplative, almost poetic mood. The composition captures the motion and concentration of typing, with a hand just out of focus, suggesting human presence and creative energy without revealing the typist’s identity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:54.090844",
+  "word_count": 180,
+  "error_message": null
+}

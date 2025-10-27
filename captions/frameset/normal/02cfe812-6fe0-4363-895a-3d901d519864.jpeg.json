@@ -1,0 +1,12 @@
+{
+  "image_filename": "02cfe812-6fe0-4363-895a-3d901d519864.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cozy, warmly lit restaurant scene viewed from above, capturing an intimate moment at a wooden table. In the foreground, two hands are engaged in a contactless payment: one hand holds a modern smartphone with a white screen displaying a payment app, while the other hand hovers a blue Visa credit card above the device, ready to tap. The focus is sharp on the hands and the payment interaction, with a shallow depth of field gently blurring the background. On the table, two bowls of colorful, appetizing food—possibly rice or poke bowls topped with vegetables and seaweed—are partially visible, along with a pair of chopsticks in use by a person wearing a striped long-sleeve shirt. The overall color palette is warm and inviting, dominated by rich browns of the wooden table, soft golden lighting, and the vibrant hues of the food. The composition conveys a sense of modern convenience and everyday life, with a cinematic, documentary-style realism and a slight overhead camera angle that immerses the viewer in the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:39.697993",
+  "word_count": 170,
+  "error_message": null
+}

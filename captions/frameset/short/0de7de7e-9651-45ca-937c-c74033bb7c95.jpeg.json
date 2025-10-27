@@ -1,0 +1,12 @@
+{
+  "image_filename": "0de7de7e-9651-45ca-937c-c74033bb7c95.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Aerial view of three people in vibrant red outfits standing on a weathered, geometric brick surface. Their poses are dynamic and angular, creating a sense of movement and symmetry. The color palette contrasts earthy browns with bold reds, framed by a border of pale gravel, evoking a modern, abstract composition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:49.185253",
+  "word_count": 50,
+  "error_message": null
+}

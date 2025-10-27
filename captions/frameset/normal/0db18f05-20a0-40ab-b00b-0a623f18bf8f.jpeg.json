@@ -1,0 +1,12 @@
+{
+  "image_filename": "0db18f05-20a0-40ab-b00b-0a623f18bf8f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, symmetrical urban scene centered on a striking, modern architectural structure composed of interlocking staircases and platforms, reminiscent of a honeycomb or lattice. The image is shot from a straight-on, eye-level perspective, emphasizing perfect symmetry and geometric repetition. In the middle of the composition, an elevator with glass walls ascends, containing a single figure standing upright, their form slightly blurred by the glass. The surrounding staircases are sparsely populated, with a few small, distant figures walking, adding a sense of scale and quiet activity. The background features tall, glass-clad skyscrapers, their facades reflecting the overcast, diffused daylight. The color palette is cool and muted, dominated by shades of gray, steel blue, and soft metallic tones, with subtle highlights and gentle shadows. The overall mood is contemplative and futuristic, with crisp focus throughout, deep depth of field, and a sense of stillness and order.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:44.786941",
+  "word_count": 146,
+  "error_message": null
+}

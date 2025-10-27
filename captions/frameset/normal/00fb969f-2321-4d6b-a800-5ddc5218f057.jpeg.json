@@ -1,0 +1,12 @@
+{
+  "image_filename": "00fb969f-2321-4d6b-a800-5ddc5218f057.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, atmospheric night sky scene dominated by a dramatic bolt of lightning cutting through dense, moody clouds. The composition is minimalistic, with the lightning serving as the focal point, illuminating the surrounding clouds with a soft, golden glow. The color palette is muted and earthy, featuring deep charcoal grays, subtle olive greens, and warm amber highlights where the lightning diffuses through the mist. The lighting is low and mysterious, with the only source of brightness coming from the lightning itself, casting ethereal shadows and creating a sense of depth and movement in the clouds. The overall style is reminiscent of a film still, with a slightly grainy texture and a shallow depth of field that blurs the edges of the clouds, enhancing the dreamlike, almost surreal mood. The camera angle is tilted slightly upward, emphasizing the vastness of the sky and the raw power of the storm, evoking a sense of awe and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:01.617148",
+  "word_count": 156,
+  "error_message": null
+}

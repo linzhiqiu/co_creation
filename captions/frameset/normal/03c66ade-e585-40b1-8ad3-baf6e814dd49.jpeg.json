@@ -1,0 +1,12 @@
+{
+  "image_filename": "03c66ade-e585-40b1-8ad3-baf6e814dd49.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed close-up macro shot of the inner workings of a mechanical or electronic device, possibly a computer or server. The composition focuses on a metallic bracket, screws, and a fan blade, with a shallow depth of field that blurs the background and edges, drawing attention to the intricate textures and subtle dust on the components. The color palette is dominated by cool, desaturated blues and grays, creating a cold, technical, and slightly mysterious atmosphere. Soft, diffused lighting casts gentle highlights and shadows, emphasizing the industrial materials and giving the scene a cinematic, almost sci-fi quality. The camera angle is tight and intimate, as if peering into the machine’s interior, evoking a sense of precision engineering and hidden complexity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:58.380300",
+  "word_count": 120,
+  "error_message": null
+}

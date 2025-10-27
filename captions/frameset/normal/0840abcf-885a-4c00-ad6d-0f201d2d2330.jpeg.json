@@ -1,0 +1,12 @@
+{
+  "image_filename": "0840abcf-885a-4c00-ad6d-0f201d2d2330.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a high-contrast, monochromatic image featuring a grid of six nearly identical abstract panels arranged in two rows of three. Each panel displays a soft, blurred rectangular form in the center, rendered in deep charcoal or black, surrounded by a hazy, luminous white halo that gradually fades into a muted gray background. The rectangles have subtle vertical striations, suggesting a textured or brushed surface, while the surrounding light areas evoke a sense of depth and gentle diffusion. The overall composition is symmetrical and orderly, with a thin horizontal white line separating the two rows, enhancing the sense of structure. The lighting is even and diffuse, emphasizing the tonal gradations and the ethereal, almost dreamlike quality of the forms. The style is reminiscent of minimalist abstract art or experimental analog photography, with a focus on texture, repetition, and the interplay of light and shadow. The mood is contemplative and serene, inviting viewers to meditate on the subtle variations and the quiet intensity of the central shapes.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:45.678191",
+  "word_count": 165,
+  "error_message": null
+}

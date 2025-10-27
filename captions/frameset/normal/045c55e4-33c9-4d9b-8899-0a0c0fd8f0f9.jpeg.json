@@ -1,0 +1,12 @@
+{
+  "image_filename": "045c55e4-33c9-4d9b-8899-0a0c0fd8f0f9.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a tablet held in a person's hand, viewed through a slightly reflective glass window. The tablet screen displays a grid of video thumbnails, each showing different people in various settings—some in casual clothing, others in high-visibility safety vests and hard hats, suggesting a mix of everyday and industrial environments. The hand holding the tablet is partially visible, with soft natural light illuminating the device and creating subtle reflections and bokeh effects on the glass. The background is blurred, with hints of foliage and muted colors, emphasizing the focus on the tablet screen. The overall color palette is cool and subdued, with pops of orange and yellow from the safety vests. The composition uses a shallow depth of field, drawing attention to the digital interface and the diversity of faces, evoking a sense of connection and modern communication. The style is documentary-like, with a realistic, observational quality and a hint of narrative intrigue.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:13.613625",
+  "word_count": 157,
+  "error_message": null
+}

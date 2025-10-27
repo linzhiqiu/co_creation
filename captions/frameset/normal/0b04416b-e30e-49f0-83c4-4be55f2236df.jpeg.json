@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b04416b-e30e-49f0-83c4-4be55f2236df.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a person’s hand holding a modern smartphone, with the thumb poised to interact with the screen. The phone displays a minimalist app interface dominated by a large blue semi-circular button with the instruction “Press and hold to unlock” in white text, set against a subtle map background in grayscale. The hand is well-lit, with natural skin tones and visible texture, suggesting realism and immediacy. The background is softly blurred, rendered in cool, muted gray tones, creating a shallow depth of field that draws focus to the phone and hand. The lighting is soft and diffused, casting gentle shadows and highlighting the contours of the fingers and device. The overall style is clean and contemporary, evoking a sense of modern technology and user interaction, with a cinematic, documentary-like quality that emphasizes clarity and intent. The camera angle is slightly above and to the right of the hand, offering a clear view of both the device’s screen and the action of the thumb, capturing a moment of anticipation and engagement.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:49.153365",
+  "word_count": 172,
+  "error_message": null
+}

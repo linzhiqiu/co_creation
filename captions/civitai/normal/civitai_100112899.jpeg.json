@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_100112899.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A serious male news anchor sits at a modern news desk in a high-tech studio, delivering a breaking news report. He wears a dark suit and tie, his expression grave and focused, conveying the gravity of the situation. Behind him, large digital screens display a dramatic image of a warehouse engulfed in flames, with thick orange fire and black smoke billowing into the night sky. The TEMU company logo is prominently featured in the upper corner of the screen, alongside simple icons representing various products. The color palette is dominated by cool blues and grays of the studio, contrasted sharply by the vivid orange and yellow hues of the fire in the background image. The lighting is crisp and professional, highlighting the anchor’s face and creating a sense of urgency. Bold red and white graphics at the bottom of the screen announce the breaking news headline: “TEMU WAREHOUSE BURNS DOWN—CAUSING APPROXIMATELY $76 WORTH OF DAMAGES TO THE COMPANY.” The overall style is cinematic and polished, with a shallow depth of field that keeps the anchor in sharp focus while the background remains slightly blurred, emphasizing the immediacy and seriousness of the news broadcast.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:27:07.850383",
+  "word_count": 193,
+  "error_message": null
+}

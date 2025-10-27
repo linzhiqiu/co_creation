@@ -1,0 +1,12 @@
+{
+  "image_filename": "03f0f0b5-c8d7-4cf2-91a1-1b3981a3d342.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, high-resolution image of a modern electric SUV driving along a winding mountain road at sunset. The vehicle is viewed head-on, centered in the frame, with its sleek, futuristic LED headlights illuminated in a distinctive pattern. The car’s body is a metallic copper or bronze, reflecting the warm, golden hues of the setting sun. The background features a dramatic, shadowy mountainside on the right, with the sun low on the horizon to the left, casting long, soft rays and creating a glowing, atmospheric effect. The road curves gently, with subtle motion blur on the pavement to convey movement. The overall color palette is warm and moody, dominated by golds, ambers, and deep shadows, evoking a sense of adventure and innovation. The composition is dynamic, with a shallow depth of field that keeps the car sharply in focus while the background softly recedes, enhancing the sense of speed and cinematic drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:04.514954",
+  "word_count": 152,
+  "error_message": null
+}

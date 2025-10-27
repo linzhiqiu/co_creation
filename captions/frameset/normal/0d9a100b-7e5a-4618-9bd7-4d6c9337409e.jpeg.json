@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d9a100b-7e5a-4618-9bd7-4d6c9337409e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a realistic, cinematic close-up of a digital train station departure board in Germany. The screen prominently displays the destination \"Dortmund Hbf\" in large, bold white letters against a deep blue background, with additional stops such as \"K Messe/Deutz,\" \"Düsseldorf Hbf,\" \"Duisburg Hbf,\" and others listed below in smaller text. The time \"13:58\" is shown in white, with a highlighted box indicating the updated departure time \"14:08\" in black text on a pale background. The lower portion of the screen features a simple, schematic train car diagram labeled with letters A through F. The lighting is cool and subdued, with soft reflections and a slight metallic sheen suggesting an indoor, modern train station environment. The composition is tight, focusing on the screen with a shallow depth of field that blurs the industrial structure and ambient lights in the background, evoking a sense of anticipation and travel. The overall style is clean, documentary, and slightly moody, capturing the everyday rhythm of European transit with attention to detail and atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:45.430612",
+  "word_count": 168,
+  "error_message": null
+}

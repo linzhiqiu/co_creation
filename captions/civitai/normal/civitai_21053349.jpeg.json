@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_21053349.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed natural language prompt for generating this image:\n\n\"Create a fantasy-themed trading card featuring a large, green ogre standing in a lush, mystical swamp at dusk. The ogre is muscular, with broad shoulders, wearing a simple white tunic and brown vest, and holding a lit torch in his right hand. His expression is serious and contemplative, with a hint of determination. The background is filled with dense, dark green foliage, twisted trees, and a misty, reflective swamp, evoking a magical and slightly eerie atmosphere. The lighting is soft and moody, with the warm glow of the torch casting dramatic highlights and shadows on the ogre’s face and body, contrasting with the cool, muted tones of the environment. The card is bordered with ornate, medieval-inspired designs, and features stylized, fantasy text in various sections, including a nameplate at the top and descriptive text boxes below. The overall style is painterly and cinematic, with a shallow depth of field that keeps the ogre in sharp focus while the background is slightly blurred, enhancing the sense of depth and immersion. The color palette is dominated by deep greens, earthy browns, and warm torchlight yellows, creating a harmonious and immersive fantasy scene.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T02:51:15.373379",
+  "word_count": 199,
+  "error_message": null
+}

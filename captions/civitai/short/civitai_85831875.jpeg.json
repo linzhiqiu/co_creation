@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_85831875.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A futuristic city with towering spires glows beneath twin suns on a distant alien desert, flanked by colossal mushroom-shaped rock formations. The color palette is warm, with pink and orange sands, deep shadows, and a hazy, cinematic atmosphere. Wide-angle composition, dramatic lighting, and a sense of vast, otherworldly scale.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:23:45.467801",
+  "word_count": 49,
+  "error_message": null
+}

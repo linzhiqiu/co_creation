@@ -1,0 +1,12 @@
+{
+  "image_filename": "02d178cf-7727-4f07-9e5a-37ce41da2a1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a tranquil, sun-drenched scene of a traditional house exterior, focusing on a wall with classic capiz shell windows arranged in a row. The architecture should evoke a sense of heritage and nostalgia, with warm, weathered textures on the stone or stucco wall. Dappled sunlight filters through unseen foliage, casting soft, organic shadows and golden highlights across the surface, enhancing the serene, late afternoon atmosphere. In the foreground, out-of-focus leaves partially obscure the view, adding depth and a sense of intimacy, as if the viewer is peeking through a garden. The color palette is dominated by warm ochres, soft browns, and gentle yellows, with subtle green hints from the foliage. The lighting is natural and cinematic, with a shallow depth of field that blurs the foreground and sharpens the architectural details. The overall style is contemplative and painterly, capturing the quiet beauty and timelessness of the setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:38.794949",
+  "word_count": 148,
+  "error_message": null
+}

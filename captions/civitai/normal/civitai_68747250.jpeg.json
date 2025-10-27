@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_68747250.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, dreamlike portrait of a young woman with a short bob haircut, standing in profile and gazing downward. She is illuminated from behind by a powerful, ethereal light source, creating a glowing halo effect around her silhouette and casting her features into soft shadow. The scene is suffused with vibrant, prismatic colors—pinks, blues, and teals—blending together in a haze, with visible lens flares and light leaks that evoke a sense of surrealism and nostalgia. Dust particles float in the air, catching the light and adding texture to the atmosphere. The background is abstract and out of focus, with hints of geometric shapes and windows, suggesting an indoor setting. The overall style is reminiscent of retro-futuristic or synthwave aesthetics, with a shallow depth of field, high contrast, and a soft, grainy film texture. The mood is introspective and otherworldly, as if capturing a fleeting, magical moment suspended in time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:13:51.379958",
+  "word_count": 150,
+  "error_message": null
+}

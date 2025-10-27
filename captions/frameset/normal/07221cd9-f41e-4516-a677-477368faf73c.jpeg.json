@@ -1,0 +1,12 @@
+{
+  "image_filename": "07221cd9-f41e-4516-a677-477368faf73c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set in a vast, dimly lit industrial space with concrete pillars and a weathered, reflective floor. The main focus is on three figures dressed in dark, tactical clothing, their faces partially obscured by shadows. They are positioned close together, two of them gripping the arms of the third, who appears to be restrained or struggling. The entire scene is reflected perfectly on the glossy floor, creating an almost surreal, upside-down effect that blurs the line between reality and reflection. The color palette is dominated by cool, desaturated tones—blues, grays, and blacks—enhanced by dramatic, directional lighting that casts deep shadows and highlights the tension in the scene. A subtle haze or mist lingers in the background, adding depth and atmosphere. The camera angle is low and wide, emphasizing the scale of the space and the intensity of the moment, with a shallow depth of field that keeps the focus on the figures while the background fades into obscurity. The overall style is reminiscent of a neo-noir thriller, evoking a sense of suspense, danger, and psychological drama.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:16.000255",
+  "word_count": 180,
+  "error_message": null
+}

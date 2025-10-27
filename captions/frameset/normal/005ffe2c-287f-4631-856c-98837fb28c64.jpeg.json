@@ -1,0 +1,12 @@
+{
+  "image_filename": "005ffe2c-287f-4631-856c-98837fb28c64.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply focused, cinematic urban street scene is viewed through the circular reflection of a motorcycle side mirror, which dominates the foreground in soft blur. In the mirror’s center, a modern silver SUV drives toward the viewer along a sunlit city street lined with elegant, mid-rise buildings featuring large windows and classical architectural details. The vehicle’s headlights are on, and its license plate is clearly visible, adding realism. The background outside the mirror is intentionally out of focus, creating a strong depth of field effect that draws the eye to the reflected image. The color palette is naturalistic, with cool grays and whites from the buildings, the metallic sheen of the car, and subtle green hints from foliage at the edge of the frame. Lighting is bright and crisp, suggesting midday sun, with soft shadows and a sense of motion implied by the car’s position and the dynamic composition. The overall style is sophisticated and modern, reminiscent of a high-end car commercial or a still from a contemporary film, with a clever use of reflection to frame the subject and add visual interest.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:47.878666",
+  "word_count": 183,
+  "error_message": null
+}

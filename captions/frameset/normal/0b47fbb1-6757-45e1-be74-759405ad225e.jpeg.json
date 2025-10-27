@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b47fbb1-6757-45e1-be74-759405ad225e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A black-and-white photograph capturing a candid moment in a busy, modern copy room. The composition is horizontal, with a shallow depth of field that draws focus to a row of young adults standing side by side at large photocopiers. The foreground features two women: one in a casual denim jacket with chin-length hair, the other in a light, striped long-sleeve shirt with her hair tied back, both absorbed in their tasks, their expressions serious and contemplative. Behind them, more people—men and women—are similarly engaged, creating a sense of quiet concentration and routine. The background reveals a grid-patterned ceiling with fluorescent lights, softly illuminating the scene, and walls lined with posters and notices, adding to the institutional atmosphere. The overall mood is introspective and subdued, with a documentary, almost cinematic quality reminiscent of classic film photography. The grayscale palette emphasizes contrasts and textures, lending the image a timeless, contemplative feel. The camera angle is eye-level, parallel to the row of people, enhancing the sense of immersion and everyday realism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:55.816974",
+  "word_count": 168,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "105ea9c5-9832-437d-934f-ef0cf9b800ec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A vast, modern open-plan office filled with rows of workstations, each equipped with multiple computer monitors displaying data and charts. The scene is bustling with dozens of professionals, mostly men in business attire—white shirts, ties, and some in suit jackets—intensely focused on their screens or engaged in quiet conversation. The lighting is cool and fluorescent, casting a clinical, slightly bluish tone over the entire space, enhancing the sense of urgency and high-stakes activity. The camera angle is elevated and wide, capturing the sheer scale of the trading floor and the density of people and technology. The background is filled with more desks and monitors, receding into the distance, emphasizing the endless repetition and corporate atmosphere. The overall style is realistic and cinematic, reminiscent of a financial thriller, with a muted color palette dominated by grays, blues, and whites, and a shallow depth of field that keeps the foreground sharp while the background softly blurs, drawing the viewer’s eye to the intensity and concentration of the workers.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:43.447257",
+  "word_count": 166,
+  "error_message": null
+}

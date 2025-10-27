@@ -1,0 +1,12 @@
+{
+  "image_filename": "04f63b8f-3e48-42ae-8380-f87ae357c695.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic nighttime scene viewed from a high rear angle, looking down into the interior of a sleek, modern convertible car. Two people sit in the front seats, their backs to the viewer—one with short hair on the left, the other with long hair on the right. The car’s interior glows with a futuristic blue ambient light, illuminating the white leather seats and dashboard with a cool, ethereal hue. Outside, the car is parked in front of a contemporary glass building with dramatic, angular architecture, its entrance softly lit and reflecting the night. The background features a dark, open plaza with a few vertical, glowing streetlights and hints of greenery to the right. The overall color palette is dominated by deep blues, cool whites, and subtle metallic grays, evoking a sense of modern luxury and quiet anticipation. The composition emphasizes depth and symmetry, with the car centered in the frame and the environment receding into the distance, creating a sophisticated, almost futuristic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:26.424857",
+  "word_count": 165,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "02a9e429-63fd-4807-a68b-1f6d5e777d9e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist scene with a single hand delicately tilting an empty glass above a half-filled glass of water, set against a deep black background. Cool, soft lighting creates gentle shadows on a pale blue surface, evoking a calm, contemplative mood with cinematic clarity and focus.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:32.921374",
+  "word_count": 45,
+  "error_message": null
+}

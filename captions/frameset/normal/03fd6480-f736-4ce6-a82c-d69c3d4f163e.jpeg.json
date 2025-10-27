@@ -1,0 +1,12 @@
+{
+  "image_filename": "03fd6480-f736-4ce6-a82c-d69c3d4f163e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle cinematic shot set in a traditional Japanese courtyard, framed by the symmetrical lines of a wooden building with white plaster walls and a tiled roof. In the foreground, the back of a lone samurai is visible, his dark hair tied in a topknot, dressed in muted brown traditional robes. He faces another samurai standing at a distance in the midground, who is dressed in a blue kimono with a white headband, exuding a sense of readiness and tension. The lighting is natural and soft, casting gentle shadows that emphasize the calm before an impending confrontation. The composition is balanced and deliberate, with strong horizontal and vertical lines from the architecture, creating a sense of order and anticipation. The color palette is restrained, dominated by earthy browns, deep blues, and the stark contrast of white walls, evoking a classic, contemplative mood reminiscent of Japanese period films. The camera is positioned at eye level, with a shallow depth of field that keeps both figures in focus while subtly blurring the background, heightening the dramatic tension between the two characters.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:07.703828",
+  "word_count": 179,
+  "error_message": null
+}

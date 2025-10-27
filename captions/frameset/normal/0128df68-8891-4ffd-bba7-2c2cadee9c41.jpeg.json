@@ -1,0 +1,12 @@
+{
+  "image_filename": "0128df68-8891-4ffd-bba7-2c2cadee9c41.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, overhead shot of a tiled bathroom floor, composed almost entirely of pale, off-white hexagonal tiles. The tiles are slightly worn and stained, evoking a sense of age and subtle neglect. Among the uniform white tiles, a single dark hexagonal tile stands out starkly, breaking the pattern and drawing the viewer’s eye. In the lower right corner, the edge of a white fabric—possibly a towel or a piece of clothing—enters the frame, its soft folds contrasting with the hard geometry of the tiles. The lighting is cool and diffuse, casting minimal shadows and lending the scene a clinical, almost sterile atmosphere. The composition is minimalist and precise, with a strong sense of symmetry and negative space, reminiscent of a still from a psychological thriller or an art-house film. The overall mood is quiet, tense, and slightly unsettling, inviting the viewer to contemplate the significance of the single dark tile and the partial presence of the fabric.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:04.813190",
+  "word_count": 157,
+  "error_message": null
+}

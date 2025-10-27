@@ -1,0 +1,12 @@
+{
+  "image_filename": "0db83c51-bb9b-4445-9935-362830362297.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, cinematic close-up of an advanced automotive assembly line in action. The focus is on a complex robotic apparatus with multiple articulated arms and suction devices, precisely installing a large glass windshield onto a car chassis. The machinery is intricate, featuring exposed wiring, metallic components, and control boxes, all rendered with sharp clarity and industrial realism. Human workers’ arms are visible at the edges, guiding or monitoring the process, but the main emphasis is on the mechanical precision and technological sophistication of the equipment.\n\nThe color palette is dominated by cool metallic blues, silvers, and blacks, contrasted with the vivid reds and yellows of electrical wires and the subtle green of a worker’s sleeve. The lighting is bright and even, typical of a modern factory environment, highlighting the reflective surfaces of glass and metal. The composition uses a shallow depth of field, drawing attention to the machinery in the foreground while softly blurring the background, which hints at a busy, bustling production floor. The overall style is hyper-realistic with a slight cinematic edge, evoking the meticulous choreography and innovation of contemporary manufacturing.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:49.170121",
+  "word_count": 185,
+  "error_message": null
+}

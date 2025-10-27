@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c58e8ee-6dc2-4113-a8ce-71f15fc6bbaa.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A naturalistic, cinematic scene set in a school cafeteria during lunchtime. The composition is wide and slightly off-center, capturing a group of children seated at rectangular tables, absorbed in eating or quietly interacting. The children, aged around 8 to 12, wear casual, muted clothing—striped sweaters, hoodies, and simple tops in earthy tones like beige, olive, and soft pink. Their hair varies in texture and color, with some curly and others straight, adding to the realism and diversity of the group.\n\nThe lighting is soft and diffused, streaming in from large windows on the right, casting gentle natural light across the room and creating subtle shadows. The background features teal-tiled walls, educational posters, and a radiator with a row of oranges on top, adding authentic school details. The overall color palette is subdued, with cool blues and greens dominating the environment, contrasted by the warmer tones of the children’s clothing and the oranges.\n\nThe mood is quiet and contemplative, with most children focused on their trays, eating in silence or lost in thought. The camera angle is at eye level with the children, enhancing intimacy and realism, while a shallow depth of field keeps the foreground and central figures in focus, gently blurring the background. The style is reminiscent of European arthouse cinema, emphasizing everyday moments and understated emotion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:22.938219",
+  "word_count": 218,
+  "error_message": null
+}

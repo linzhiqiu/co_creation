@@ -1,0 +1,12 @@
+{
+  "image_filename": "080605cc-a2e2-4c11-a949-f3f4b2f67286.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic, cinematic close-up shot from the perspective of the backseat, focusing on a person driving a modern car. The driver is wearing a sleek, full-face helmet, adding a sense of speed, anonymity, and intensity to the scene. Their hands grip the steering wheel firmly, with the iconic Mustang logo clearly visible at the center, suggesting a powerful, high-performance vehicle. The driver’s clothing is dark, blending into the subdued, cool-toned interior of the car. The dashboard and digital display are softly illuminated, casting a gentle blue glow that contrasts with the otherwise muted, desaturated color palette. The background outside the car windows is blurred, emphasizing motion and creating a shallow depth of field that keeps the viewer’s focus on the driver and the steering wheel. The lighting is natural and diffused, possibly from an overcast day or shaded environment, contributing to a moody, suspenseful atmosphere. The overall style is modern and cinematic, with a sense of anticipation and controlled energy, reminiscent of a high-stakes driving sequence in a contemporary action film.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:38.365987",
+  "word_count": 171,
+  "error_message": null
+}

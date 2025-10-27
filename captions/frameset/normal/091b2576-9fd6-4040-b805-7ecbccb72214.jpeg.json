@@ -1,0 +1,12 @@
+{
+  "image_filename": "091b2576-9fd6-4040-b805-7ecbccb72214.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\n\"Create a cinematic, wide-angle shot from a low, upward-facing perspective on a city street, capturing the dramatic scale of a tall, early 20th-century high-rise building with a grid of windows and ornate architectural details. In the foreground, a silhouetted figure of a young boy stands with his back to the camera, arms raised as if shielding his eyes or pointing toward the sun, which blazes overhead and creates a striking lens flare across the image. The boy’s posture conveys curiosity and awe. The color palette is warm and sun-drenched, with golden sunlight washing over the pale stone facade of the building and casting deep shadows. The sky is a clear, soft blue, and the overall lighting is natural and bright, evoking a sense of summer midday heat. Elements of urban infrastructure, such as a streetlight and a section of an elevated structure, frame the composition, adding depth and context. The style is reminiscent of a coming-of-age film, with a shallow depth of field that keeps the focus on the boy and the towering building, emphasizing scale and wonder.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:07.030351",
+  "word_count": 179,
+  "error_message": null
+}

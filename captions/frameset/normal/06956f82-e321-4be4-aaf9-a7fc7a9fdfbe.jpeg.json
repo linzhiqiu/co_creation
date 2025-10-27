@@ -1,0 +1,12 @@
+{
+  "image_filename": "06956f82-e321-4be4-aaf9-a7fc7a9fdfbe.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic nighttime scene on a dimly lit outdoor soccer field. The main subject is a young male athlete in motion, captured mid-sprint as he cuts sharply to his left. He wears a fitted, dark navy athletic tracksuit and bright turquoise soccer cleats, which stand out against the muted green grass. His expression is focused and intense, emphasizing determination and athleticism. The background is softly blurred, featuring a goalpost with a net and a faintly illuminated fence, suggesting a quiet, empty sports facility. The lighting is cool and subdued, with a slight bluish tint, evoking the feel of late evening or early night. The composition uses a shallow depth of field to isolate the runner, and the camera angle is slightly low and off-center, enhancing the sense of speed and dynamic movement. The overall mood is moody and dramatic, with a realistic, documentary-style aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:02.957839",
+  "word_count": 145,
+  "error_message": null
+}

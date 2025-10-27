@@ -1,0 +1,12 @@
+{
+  "image_filename": "112618c6-8635-4fd2-9cc2-9e5df7d85764.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic, cinematic scene set inside a vast, dimly lit industrial warehouse with high ceilings, exposed steel beams, and large windows filtering in shafts of diffused daylight. In the foreground, a yellow crash test dummy stands with its back to the viewer, its glossy surface reflecting the ambient light. The dummy is positioned slightly off-center, creating a sense of anticipation and tension. Across the spacious, shadowy floor, a man dressed in dark clothing and sunglasses stands in a dynamic pose, holding a hose that sprays a powerful jet of water toward the dummy. The water stream is caught mid-air, illuminated by the cool, bluish light that dominates the color palette, contrasting with the warm yellow of the dummy. The overall mood is tense and surreal, with a shallow depth of field focusing attention on the interaction between the man and the dummy. The composition uses a low, slightly wide-angle perspective, enhancing the scale of the warehouse and the sense of isolation. The lighting is moody and atmospheric, with a mix of natural and artificial sources casting dramatic shadows and highlighting the industrial textures of the space. The style evokes a gritty, neo-noir aesthetic, blending realism with a touch of the uncanny.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:38:03.223442",
+  "word_count": 201,
+  "error_message": null
+}

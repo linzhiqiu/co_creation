@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ac82929-c4b3-4f19-ba0c-7ec180e02b1e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, kaleidoscopic scene viewed from above, featuring multiple reflections of a young girl with long dark braids, dressed in a blue and white striped dress with a bright red vest. She is kneeling on a geometric, faceted blue floor, her pose repeated and fragmented by the surrounding mirrored surfaces, creating a mesmerizing, almost infinite pattern. The lighting is soft and even, emphasizing the vivid contrast between the red vest and the cool blue tones of the floor and dress. The overall composition is symmetrical and disorienting, with the reflections forming a complex, prismatic visual effect. The style is cinematic and dreamlike, reminiscent of classic fantasy films, with a shallow depth of field that keeps the focus on the central figure while the mirrored duplicates fade slightly into abstraction. The mood is mysterious and otherworldly, evoking a sense of wonder and curiosity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:40.889751",
+  "word_count": 142,
+  "error_message": null
+}

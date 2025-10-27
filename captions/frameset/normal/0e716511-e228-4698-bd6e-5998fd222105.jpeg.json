@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e716511-e228-4698-bd6e-5998fd222105.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A group of three male dancers, dressed in sleek black suits and dark shirts, are captured mid-performance on a minimalist, modern staircase set against a deep black background. The composition is dynamic, with the dancers positioned in a diagonal line ascending the stairs, their bodies frozen in expressive, angular poses that suggest fluid motion and contemporary choreography. The lighting is dramatic and focused, casting sharp highlights on the dancers and the pale, matte steps, while leaving the background in complete darkness, creating a striking contrast and isolating the figures. There is a subtle motion blur effect on the dancers’ arms and torsos, emphasizing the energy and movement of the scene. The color palette is monochromatic, dominated by blacks, greys, and soft whites, lending a sophisticated, cinematic quality. The camera angle is slightly low and to the side, enhancing the sense of depth and progression up the stairs. The overall style is modern, avant-garde, and theatrical, with a strong emphasis on form, shadow, and the interplay between stillness and motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:06.448532",
+  "word_count": 169,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e666312-174c-4770-b659-39979a5c06b5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set in a sleek, modern garage at night. The main subject is a dark metallic blue station wagon parked in profile, its polished surface reflecting the soft, cool white glow of linear LED ceiling lights. The lighting is minimal and dramatic, casting sharp highlights and deep shadows that emphasize the car’s contours and the glossy, reflective floor beneath it. In the background, a high-end racing bicycle is mounted on the wall, and a heavy punching bag hangs nearby, suggesting an active, sophisticated lifestyle. The walls are smooth and dark, contributing to the overall minimalist, high-tech atmosphere. The composition is carefully framed through a large window or opening, creating a sense of voyeurism and depth. The color palette is dominated by deep blues, blacks, and subtle metallic tones, with crisp white light accents. The overall style is hyper-realistic with a touch of luxury, evoking a sense of exclusivity and modern elegance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:05.333110",
+  "word_count": 155,
+  "error_message": null
+}

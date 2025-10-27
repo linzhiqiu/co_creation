@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c63e84d-2ce5-4d18-8b97-85035faf1796.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary young girl in a light, flowing dress stands in a dramatic shaft of sunlight that cuts diagonally across a wooden floor, casting a long, sharply defined shadow behind her. The image is shot from a high, almost top-down angle, emphasizing the geometric interplay of light and darkness. Heavy curtains frame the scene from the upper and lower right corners, creating a sense of enclosure and theatricality. The color palette is stark black and white, with high contrast that accentuates the textures of the floor and the ethereal quality of the girl's dress. The lighting is crisp and directional, creating a cinematic, almost noir atmosphere. The composition is minimalist, with the girl positioned off-center, her delicate figure and elongated shadow becoming the focal point amidst the vast, empty space. The overall mood is contemplative and slightly surreal, evoking a sense of solitude and introspection.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:28.332324",
+  "word_count": 145,
+  "error_message": null
+}

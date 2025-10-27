@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d8e4195-4211-40d7-a49a-e604a48b78e0.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a haunting, close-up portrait of a child with an intense, unsettling expression. The child’s face fills the frame, mouth open in a silent scream or shout, eyes wide and fixed directly at the viewer, conveying a sense of fear or distress. The lighting is stark and dramatic, casting deep shadows that accentuate the contours of the face and create a high-contrast, almost monochromatic effect with muted tones of gray and black. The background is dark and indistinct, further isolating the subject and heightening the sense of unease. The overall style is reminiscent of psychological horror cinema, with a shallow depth of field that blurs the edges and draws all attention to the child’s face. The composition is tight and claustrophobic, evoking a feeling of being trapped or confronted. The image should have a grainy, cinematic texture, enhancing the eerie and surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:41.943741",
+  "word_count": 143,
+  "error_message": null
+}

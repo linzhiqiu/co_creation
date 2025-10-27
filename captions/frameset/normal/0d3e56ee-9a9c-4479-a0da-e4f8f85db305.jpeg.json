@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d3e56ee-9a9c-4479-a0da-e4f8f85db305.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure dressed in a crisp white shirt and dark trousers walks slowly across a stark, desolate desert landscape. The scene is dominated by two large, leafless, gnarled trees with twisted branches, their dark silhouettes standing in sharp contrast against the pale, sandy ground and the softly blurred, undulating dunes in the background. The composition is minimalist and spacious, evoking a sense of isolation and introspection. The color palette is monochromatic, rendered in high-contrast black and white, which heightens the dramatic, almost surreal atmosphere. The lighting is diffuse and even, with no harsh shadows, lending a dreamlike quality to the scene. The camera angle is eye-level, with a wide depth of field that keeps both the foreground and background in crisp focus. The overall style is cinematic and contemplative, reminiscent of fine art photography or a scene from an existential film, emphasizing the vast emptiness and the smallness of the human figure within the landscape.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:42.122699",
+  "word_count": 156,
+  "error_message": null
+}

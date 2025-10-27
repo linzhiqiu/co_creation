@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f5faf07-1aee-4658-a8ca-888ac9086875.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, top-down composition featuring three hands—two with darker skin on either side, one lighter hand in the center—interacting with black-and-white photographs taped to a stark white surface. The central hand grasps a vintage rotary phone, flanked by abstract, monochrome images, evoking a sense of connection and communication.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:24.368561",
+  "word_count": 48,
+  "error_message": null
+}

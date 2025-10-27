@@ -1,0 +1,12 @@
+{
+  "image_filename": "07ff5995-32db-476e-ae3c-18b794b654ad.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic scene set on a rooftop at dusk, with a moody, overcast blue color palette. Three young people sit around a small red table, sharing a casual meal. The group is dressed in relaxed, contemporary streetwear: one wears a blue track jacket and shorts, another in a black jacket with white stripes, and the third in an orange shirt layered under a dark jacket. Their expressions are natural and engaged, focused on eating and conversation, evoking a sense of quiet camaraderie.\n\nA large blue umbrella is positioned over the table, providing a focal point and a touch of whimsy. The rooftop is wet, reflecting the soft, diffused light, suggesting recent rain. Potted plants and urban details like a coiled hose and a patterned cushion add lived-in character to the scene. In the background, the cityscape stretches out with low buildings and green hills, partially obscured by mist, creating depth and atmosphere.\n\nThe composition is intimate, with a slight wide-angle perspective that captures both the group and their surroundings. The lighting is soft and natural, with cool tones dominating, enhancing the tranquil, contemplative mood. The overall style is reminiscent of an indie film, blending realism with subtle stylization, and emphasizing the quiet beauty of everyday moments.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:39.549025",
+  "word_count": 207,
+  "error_message": null
+}

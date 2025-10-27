@@ -1,0 +1,12 @@
+{
+  "image_filename": "0eb4c6a1-abb0-4f75-a304-34e06b0b463a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, shallow-focus shot set inside a sunlit gym during golden hour. In the extreme foreground, dominating the left side of the frame, is a large industrial fan, its black wire grille sharply in focus and catching the warm, slanting sunlight. The background is softly blurred, revealing the indistinct forms of gym equipment—dumbbells, benches, and weight racks—scattered across the floor. A group of people, out of focus, are gathered in conversation or training near the back, their figures bathed in a soft, amber glow from the sunlight streaming through high windows. The overall color palette is warm and muted, with deep shadows and rich golden highlights, evoking a nostalgic, almost dreamlike atmosphere. The composition uses a wide aspect ratio and a low angle, emphasizing the fan’s presence and creating a sense of depth and space. The mood is tranquil yet energetic, capturing the quiet anticipation of a gym before or after peak activity, with a strong sense of place and time.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:11.895829",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a03ef29-7b32-4e8f-baf2-f18427442527.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, high-key scene featuring two individuals—a man and a woman—seated at opposite ends of an exceptionally long, sleek table in a stark, white room. Both subjects are dressed in muted, professional attire: the man in a light gray suit and the woman in a gray blazer and pants, their outfits blending subtly with the monochromatic environment. The composition is symmetrical and balanced, with the table forming a strong horizontal line across the center of the frame, emphasizing the physical and emotional distance between the two figures. The background is pure white, devoid of any distractions, creating a sense of isolation and focus on the subjects. The lighting is soft and diffuse, eliminating harsh shadows and contributing to the clean, clinical atmosphere. The camera is positioned at eye level, directly facing the table, with a wide-angle lens that accentuates the expanse of empty space between the individuals. The overall mood is tense and contemplative, evoking themes of separation, negotiation, or confrontation within a modern, abstract setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:28.334994",
+  "word_count": 166,
+  "error_message": null
+}

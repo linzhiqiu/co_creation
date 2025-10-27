@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_39800230.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA dramatic seascape at sunset, captured with a wide-angle lens from a low vantage point near the shoreline. In the foreground, dark, rugged rocks are scattered across wet sand, their surfaces glistening with reflected light. The water is rendered silky and ethereal, suggesting a long exposure that blurs the motion of the waves, creating a tranquil, mist-like effect around the rocks. The sky dominates the upper half of the composition, filled with heavy, textured clouds that are illuminated from below by the fiery orange and gold hues of the setting sun. Subtle rays of sunlight break through the cloud cover, casting a warm glow on the water and wet sand, while cooler blue and gray tones deepen the mood. The overall style is cinematic and painterly, with high contrast and rich saturation, evoking a sense of awe and serenity. The depth of field is deep, keeping both the foreground rocks and the distant horizon in sharp focus, while the soft, diffused lighting enhances the dramatic atmosphere of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:59:58.836232",
+  "word_count": 170,
+  "error_message": null
+}

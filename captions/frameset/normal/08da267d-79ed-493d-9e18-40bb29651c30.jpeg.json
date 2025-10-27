@@ -1,0 +1,12 @@
+{
+  "image_filename": "08da267d-79ed-493d-9e18-40bb29651c30.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single, elegant human hand is raised gracefully against a clear, cloudless sky, captured in sharp focus from a slightly low angle. The hand is positioned vertically, fingers gently extended and relaxed, with subtle natural shadows accentuating the contours and veins. The skin tone is warm and natural, illuminated by soft, even daylight that creates a serene and tranquil atmosphere. The background is a smooth, gradient blue, evoking a sense of openness and calm. The composition is minimalist, with the hand occupying the center of the frame and no other objects or distractions present. The overall style is clean and modern, with a shallow depth of field that keeps the hand crisp while the sky remains a soft, unobtrusive backdrop. The mood is contemplative and peaceful, reminiscent of fine art photography or a cinematic still that emphasizes simplicity and human presence.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:57.929681",
+  "word_count": 141,
+  "error_message": null
+}

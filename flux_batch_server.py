@@ -1,8 +1,8 @@
 """
 Flask Server for FLUX Batch Image Generation and Captioning
-Enhanced version with 16-image batch generation using 4 captions x 2 models
+Fixed version with Server-Sent Events (SSE) to stream progress and avoid timeouts
 """
-from flask import Flask, render_template, request, jsonify, send_file
+from flask import Flask, render_template, request, jsonify, send_file, Response
 from werkzeug.utils import secure_filename
 import os
 import uuid
@@ -14,6 +14,7 @@ from PIL import Image
 import argparse
 from concurrent.futures import ThreadPoolExecutor
 import time
+import json
 
 # Import our modules (same as original flux_server.py)
 from flux_generator import generate_image_from_text_prompt as flux_generate
@@ -103,7 +104,7 @@ def generate_caption_with_model(image_path, prompt, model_name):
 def generate_image_with_model(prompt, model_type, width, height, seed, index):
     """
     Generate an image using a specific model
-    Returns: (image_path, model_type, caption_used, index)
+    Returns: (filename, model_type, prompt_used, index)
     """
     try:
         print(f"    Generating image {index} with {model_type}...")
@@ -143,19 +144,162 @@ def generate_image_with_model(prompt, model_type, width, height, seed, index):
         return (None, model_type, prompt, index)
 
 
-@app.route('/api/batch-generate', methods=['POST'])
-def batch_generate():
+def batch_generate_stream(folder, filename, caption_prompt, short_addition, width, height, seed):
     """
-    Generate 16 images from a selected image:
-    - Generate 4 captions (2 models x 2 prompt versions)
-    - Generate 16 images (4 captions x 2 image models)
+    Generator function that yields SSE events for streaming progress
     """
     try:
         print("\n" + "="*60)
-        print("BATCH GENERATION REQUEST")
+        print("BATCH GENERATION REQUEST (STREAMING)")
         print("="*60)
+        print(f"Folder: {folder}")
+        print(f"Image: {filename}")
+        print(f"Size: {width}x{height}")
+        print(f"Seed: {seed if seed else 'random'}")
         
-        # Get parameters
+        # Validate folder and get image path
+        if folder not in ['civitai', 'frameset']:
+            yield f"data: {json.dumps({'error': 'Invalid folder name'})}\n\n"
+            return
+        
+        image_path = Path(f'{folder}/images') / secure_filename(filename)
+        
+        if not image_path.exists():
+            yield f"data: {json.dumps({'error': 'Image not found'})}\n\n"
+            return
+        
+        # Send initial status
+        yield f"data: {json.dumps({'status': 'starting', 'message': 'Starting batch generation...'})}\n\n"
+        
+        # STEP 1: Generate 4 captions
+        yield f"data: {json.dumps({'status': 'captions', 'message': 'Generating 4 captions...'})}\n\n"
+        
+        print("\nSTEP 1: Generating 4 captions...")
+        print("-" * 60)
+        
+        caption_models = ['gemini-2.5-pro', 'gpt-4.1-2025-04-14']
+        caption_configs = [
+            (caption_prompt, 'normal'),
+            (f"{caption_prompt}\n\n{short_addition}", 'short')
+        ]
+        
+        captions = []
+        caption_details = []
+        
+        # Build list of (model, prompt, length_type) tuples to maintain order
+        caption_tasks = []
+        for model in caption_models:
+            for prompt, length_type in caption_configs:
+                caption_tasks.append((model, prompt, length_type))
+        
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            futures = []
+            for model, prompt, length_type in caption_tasks:
+                futures.append((executor.submit(generate_caption_with_model, str(image_path), prompt, model), model, length_type))
+            
+            for idx, (future, expected_model, length_type) in enumerate(futures, 1):
+                caption, model = future.result()
+                captions.append(caption)
+                word_count = len(caption.split())
+                
+                caption_detail = {
+                    'caption': caption,
+                    'model': model,
+                    'length_type': length_type,
+                    'word_count': word_count
+                }
+                caption_details.append(caption_detail)
+                
+                # Stream caption completion
+                yield f"data: {json.dumps({'status': 'caption_complete', 'caption_index': idx, 'detail': caption_detail})}\n\n"
+        
+        # STEP 2: Generate 16 images with progress updates
+        yield f"data: {json.dumps({'status': 'images', 'message': 'Generating 16 images...', 'total': 16})}\n\n"
+        
+        print("\nSTEP 2: Generating 16 images...")
+        print("-" * 60)
+        
+        results = []
+        
+        # Generate images SEQUENTIALLY to avoid memory issues
+        # FLUX loads large model on CPU and can't run multiple instances in parallel
+        image_index = 1
+        
+        for caption_idx, (caption, caption_detail) in enumerate(zip(captions, caption_details), 1):
+            print(f"\n  Processing caption {caption_idx}/4...")
+            print(f"    Model: {caption_detail['model']}, Type: {caption_detail['length_type']}")
+            
+            # Create caption label for display
+            caption_label = f"{caption_detail['model']} ({caption_detail['length_type']})"
+            
+            # Generate FLUX image
+            print(f"    Generating FLUX image {image_index}...")
+            filename_result, model_type, prompt_used, index = generate_image_with_model(
+                caption,
+                'flux',
+                width,
+                height,
+                seed,
+                image_index
+            )
+            
+            # ALWAYS add result, even if generation failed
+            image_data = {
+                'filename': filename_result,
+                'model': model_type,
+                'caption': prompt_used,
+                'caption_label': caption_label,
+                'index': image_index,
+                'url': f'/batch_outputs/{filename_result}' if filename_result else None,
+                'failed': filename_result is None
+            }
+            results.append(image_data)
+            yield f"data: {json.dumps({'status': 'image_complete', 'image_index': len(results), 'total': 16, 'image': image_data})}\n\n"
+            image_index += 1
+            
+            # Generate Nano Banana image
+            print(f"    Generating Nano Banana image {image_index}...")
+            filename_result, model_type, prompt_used, index = generate_image_with_model(
+                caption,
+                'nano_banana',
+                width,
+                height,
+                seed,
+                image_index
+            )
+            
+            # ALWAYS add result, even if generation failed
+            image_data = {
+                'filename': filename_result,
+                'model': model_type,
+                'caption': prompt_used,
+                'caption_label': caption_label,
+                'index': image_index,
+                'url': f'/batch_outputs/{filename_result}' if filename_result else None,
+                'failed': filename_result is None
+            }
+            results.append(image_data)
+            yield f"data: {json.dumps({'status': 'image_complete', 'image_index': len(results), 'total': 16, 'image': image_data})}\n\n"
+            image_index += 1
+        
+        # Send final completion
+        print(f"\n✓ Generated {len(results)} images successfully")
+        print("="*60 + "\n")
+        
+        yield f"data: {json.dumps({'status': 'complete', 'captions': caption_details, 'images': results, 'total_images': len(results)})}\n\n"
+        
+    except Exception as e:
+        print(f"\n✗ Error in batch generation: {str(e)}")
+        traceback.print_exc()
+        yield f"data: {json.dumps({'status': 'error', 'error': str(e)})}\n\n"
+
+
+@app.route('/api/batch-generate', methods=['POST'])
+def batch_generate():
+    """
+    Stream batch generation progress using Server-Sent Events (SSE)
+    """
+    try:
         data = request.get_json()
         folder = data.get('folder')
         filename = data.get('filename')
@@ -167,132 +311,17 @@ def batch_generate():
         if seed:
             seed = int(seed)
         
-        print(f"Folder: {folder}")
-        print(f"Image: {filename}")
-        print(f"Size: {width}x{height}")
-        print(f"Seed: {seed if seed else 'random'}")
-        
-        # Validate folder and get image path
-        if folder not in ['civitai', 'frameset']:
-            return jsonify({'error': 'Invalid folder name'}), 400
-        
-        image_path = Path(f'{folder}/images') / secure_filename(filename)
-        if not image_path.exists():
-            return jsonify({'error': 'Image file not found'}), 404
-        
-        # STEP 1: Generate 4 captions
-        print("\nSTEP 1: Generating 4 captions...")
-        print("-" * 60)
-        
-        # Prepare caption prompts
-        caption_prompt_long = caption_prompt
-        caption_prompt_short = f"{caption_prompt}\n\n{short_addition}"
-        
-        # Models to use for captioning (from llm.ALL_MODELS)
-        # Available: gemini-2.5-pro, gpt-4.1-2025-04-14, gpt-4o-2024-08-06
-        caption_models = ['gemini-2.5-pro', 'gpt-4.1-2025-04-14']
-        
-        captions = []
-        caption_details = []
-        
-        # Use ThreadPoolExecutor for parallel caption generation
-        with ThreadPoolExecutor(max_workers=4) as executor:
-            futures = []
-            
-            # Submit all caption generation tasks
-            for model in caption_models:
-                # Long version
-                futures.append(executor.submit(
-                    generate_caption_with_model,
-                    str(image_path),
-                    caption_prompt_long,
-                    model
-                ))
-                # Short version
-                futures.append(executor.submit(
-                    generate_caption_with_model,
-                    str(image_path),
-                    caption_prompt_short,
-                    model
-                ))
-            
-            # Collect results
-            for future in futures:
-                caption, model = future.result()
-                captions.append(caption)
-                caption_details.append({
-                    'caption': caption,
-                    'model': model,
-                    'length': len(caption.split())
-                })
-        
-        print(f"\n✓ Generated {len(captions)} captions")
-        for i, detail in enumerate(caption_details, 1):
-            print(f"  Caption {i} ({detail['model']}, {detail['length']} words):")
-            print(f"    {detail['caption'][:100]}...")
-        
-        # STEP 2: Generate 16 images (4 captions x 2 models x 2 images each)
-        print("\nSTEP 2: Generating 16 images...")
-        print("-" * 60)
-        
-        results = []
-        
-        # Use ThreadPoolExecutor for parallel image generation
-        # Limit workers to avoid overwhelming GPU/API
-        with ThreadPoolExecutor(max_workers=4) as executor:
-            futures = []
-            image_index = 1
-            
-            # For each caption, generate 2 images (flux + nano_banana)
-            for caption_idx, caption in enumerate(captions, 1):
-                # FLUX image
-                futures.append(executor.submit(
-                    generate_image_with_model,
-                    caption,
-                    'flux',
-                    width,
-                    height,
-                    seed,
-                    image_index
-                ))
-                image_index += 1
-                
-                # Nano Banana image
-                futures.append(executor.submit(
-                    generate_image_with_model,
-                    caption,
-                    'nano_banana',
-                    width,
-                    height,
-                    seed,
-                    image_index
-                ))
-                image_index += 1
-            
-            # Collect results
-            for future in futures:
-                filename, model_type, prompt_used, index = future.result()
-                if filename:
-                    results.append({
-                        'filename': filename,
-                        'model': model_type,
-                        'caption': prompt_used,
-                        'index': index,
-                        'url': f'/batch_outputs/{filename}'
-                    })
-        
-        print(f"\n✓ Generated {len(results)} images successfully")
-        print("="*60 + "\n")
-        
-        return jsonify({
-            'success': True,
-            'captions': caption_details,
-            'images': results,
-            'total_images': len(results)
-        })
+        return Response(
+            batch_generate_stream(folder, filename, caption_prompt, short_addition, width, height, seed),
+            mimetype='text/event-stream',
+            headers={
+                'Cache-Control': 'no-cache',
+                'X-Accel-Buffering': 'no'
+            }
+        )
         
     except Exception as e:
-        print(f"\n✗ Error in batch generation: {str(e)}")
+        print(f"\n✗ Error in batch generation endpoint: {str(e)}")
         traceback.print_exc()
         return jsonify({'error': str(e)}), 500
 
@@ -401,7 +430,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     print("\n" + "="*60)
-    print("FLUX Batch Image Generation Server")
+    print("FLUX Batch Image Generation Server (SSE Streaming)")
     print("="*60)
     print("\nStarting server...")
     print(f"Access the web interface at: http://localhost:{args.port}")
@@ -410,8 +439,9 @@ if __name__ == '__main__':
     print("  • 4 captions using Gemini 2.0 Flash & GPT-4o")
     print("  • 2 prompt versions (normal + short)")
     print("  • 2 image models per caption (FLUX + Nano Banana)")
+    print("  • Real-time progress streaming (no timeout!)")
     print("\nAPI Endpoints:")
-    print("  POST /api/batch-generate - Batch generate 16 images")
+    print("  POST /api/batch-generate - Stream batch generation progress")
     print("  GET  /api/images/<folder> - List images")
     print("  GET  /api/health   - Health check")
     print("\n" + "="*60 + "\n")

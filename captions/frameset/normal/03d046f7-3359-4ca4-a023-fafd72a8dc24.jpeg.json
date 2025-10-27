@@ -1,0 +1,12 @@
+{
+  "image_filename": "03d046f7-3359-4ca4-a023-fafd72a8dc24.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A candid, documentary-style classroom scene featuring a young boy seated at a wooden desk in the foreground, viewed from behind and slightly to the side. The boy wears a simple olive-green t-shirt, his short hair and posture suggesting quiet attentiveness or contemplation. The background is softly lit with natural daylight filtering in, casting gentle shadows and creating a calm, subdued atmosphere. To the right, an adult figure—partially out of frame—stands near a desk, dressed in a black-and-white striped sweater, their posture indicating they are engaged in an activity, perhaps preparing materials or assisting students. The classroom walls are painted a muted teal, adorned with educational posters and a chart, while a stack of chairs and a box add subtle context to the learning environment. The color palette is understated, dominated by cool greens and blues with warm, earthy accents. The composition uses a shallow depth of field, keeping the boy in soft focus while the background remains slightly blurred, evoking an intimate, observational mood reminiscent of independent cinema or photojournalism.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:02.923808",
+  "word_count": 170,
+  "error_message": null
+}

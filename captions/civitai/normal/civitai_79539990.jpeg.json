@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_79539990.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A detailed prompt for generating this image:\n\n\"Create a striking scene blending traditional Japanese architecture with a futuristic cyberpunk cityscape. In the foreground, feature a serene, well-maintained Japanese temple garden with lush greenery, stone lanterns, and a classic wooden pagoda. A solitary figure stands on the garden path, gazing upward. In the background, towering, monolithic skyscrapers with glowing neon accents dominate the skyline, their surfaces covered in digital billboards and illuminated windows. Several sleek, futuristic flying vehicles zip through the sky, leaving vibrant trails of colored light. The lighting is a dramatic mix of soft, natural sunset hues—pinks, oranges, and blues—contrasted with the cool, artificial glow of neon and holographic lights. The composition uses a wide-angle perspective, with a cinematic depth of field that keeps both the temple and the distant city in sharp focus. The overall mood is a harmonious juxtaposition of tranquility and technological advancement, evoking a sense of awe and wonder.\"",
+  "status": "success",
+  "timestamp": "2025-10-27T03:20:15.385140",
+  "word_count": 154,
+  "error_message": null
+}

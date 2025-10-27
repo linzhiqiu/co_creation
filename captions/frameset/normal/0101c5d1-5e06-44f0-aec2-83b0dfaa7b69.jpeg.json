@@ -1,0 +1,12 @@
+{
+  "image_filename": "0101c5d1-5e06-44f0-aec2-83b0dfaa7b69.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person holding a white smartphone in their left hand, with their right index finger poised to tap the screen. The phone displays a vibrant app interface, predominantly green and white, showing restaurant deals with enticing food images and bold text. The background is a rustic, painted green wooden table, partially covered by a green-and-white checkered cloth in the upper right corner, adding a cozy, casual dining atmosphere. The lighting is soft and natural, illuminating the hands and phone clearly while casting gentle shadows that enhance depth. The color palette is fresh and inviting, with greens, whites, and warm tones from the food photos on the screen. The composition centers the phone and hands, using a shallow depth of field to subtly blur the background, drawing focus to the interaction with the app. The overall style is clean, modern, and approachable, evoking a sense of everyday convenience and anticipation for a meal out.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:59.890683",
+  "word_count": 158,
+  "error_message": null
+}

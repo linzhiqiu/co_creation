@@ -1,0 +1,12 @@
+{
+  "image_filename": "0cb7606c-bbec-4879-b699-e13c59c60b3c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dense, misty forest scene captured with a cinematic, slightly tilted camera angle, evoking a sense of mystery and unease. Towering pine trees dominate the composition, their trunks stretching vertically and disappearing into a canopy of dark, needle-like foliage. The forest floor is lush and carpeted with deep green moss, dappled with soft, diffused light filtering through the branches above. Wisps of fog drift between the trees, adding an ethereal, dreamlike quality to the atmosphere. The color palette is cool and subdued, with rich greens, muted blues, and hints of gray, creating a moody, almost otherworldly ambiance. The lighting is natural and low, suggesting early morning or late afternoon, with shadows deepening the sense of depth and isolation. The overall style is reminiscent of a suspenseful film or a dark fairy tale, with a strong emphasis on vertical lines, natural textures, and an immersive, enveloping environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:26.175220",
+  "word_count": 146,
+  "error_message": null
+}

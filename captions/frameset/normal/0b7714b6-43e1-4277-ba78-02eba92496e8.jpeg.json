@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b7714b6-43e1-4277-ba78-02eba92496e8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic nighttime street scene viewed from an elevated, slightly off-center vantage point, as if peering through a window or from a hidden alcove. The narrow cobblestone street is lined with parked cars on both sides, their surfaces catching the soft, diffused glow of a few old-fashioned street lamps mounted on the facades of the buildings. The architecture is classic European, with multi-story residential buildings featuring shuttered windows, wrought-iron balconies, and flower boxes. The scene is enveloped in deep shadows, with the warm, yellowish streetlights creating pools of illumination that contrast with the surrounding darkness. The color palette is subdued and desaturated, dominated by cool blues, grays, and muted earth tones, evoking a sense of quiet solitude and mystery. The composition emphasizes depth, with the street receding into the distance and the buildings forming a canyon-like effect. The overall style is reminiscent of a film noir or a contemplative art film, with a strong sense of atmosphere, stillness, and anticipation.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:59.841631",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "029658cb-f900-4eb4-a290-c918bdd565f6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, softly lit classroom scene featuring two young children seated side by side at a desk, deeply focused on their schoolwork. The boy on the left has short hair and wears a white collared shirt, his expression intent as he looks down at his paper. Beside him, a girl in a white hijab and matching shirt is equally absorbed, her head slightly bowed as she writes. The background is softly blurred, with hints of other students and educational posters, evoking a sense of a busy but calm learning environment. The color palette is muted and natural, dominated by soft whites, beiges, and gentle grays, with diffused daylight streaming in from a barred window, casting a serene, almost ethereal glow across the scene. The camera angle is low and intimate, at desk level, with a shallow depth of field that keeps the focus tightly on the children while the foreground and background gently fade into softness. The overall mood is contemplative and tender, capturing a quiet moment of concentration and camaraderie in a school setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:34.778875",
+  "word_count": 175,
+  "error_message": null
+}

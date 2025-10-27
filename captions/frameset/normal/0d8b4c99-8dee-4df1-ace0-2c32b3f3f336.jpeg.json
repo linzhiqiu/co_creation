@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d8b4c99-8dee-4df1-ace0-2c32b3f3f336.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a dramatic, high-contrast image featuring the fragmented silhouettes of several human figures in motion, captured mid-stride. The scene is set against a deep black background, with the subjects only partially illuminated by sharp, narrow beams of warm, golden light that trace the contours of their bodies. The lighting accentuates the edges of their arms, torsos, and legs, creating a striking chiaroscuro effect and leaving the rest of their forms in deep shadow. The figures appear to be wearing athletic clothing, with visible shorts and short-sleeved tops, and their muscular legs are highlighted as they move forward. The composition is dynamic, with overlapping forms suggesting a sense of rhythm and repetition, as if capturing multiple frames of a runner in a single exposure. The overall mood is intense and energetic, with a cinematic quality reminiscent of sports photography or experimental film. The color palette is minimal, dominated by black and gold, emphasizing the interplay of light and shadow. The camera angle is at mid-height, focusing on the movement and anatomy of the figures, while the background remains completely dark, drawing all attention to the illuminated outlines and the sense of motion.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:45.685964",
+  "word_count": 191,
+  "error_message": null
+}

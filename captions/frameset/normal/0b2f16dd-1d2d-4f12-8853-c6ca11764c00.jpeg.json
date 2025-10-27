@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b2f16dd-1d2d-4f12-8853-c6ca11764c00.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern smartphone terminal displaying a digital payment screen. The device is positioned upright on a glossy white countertop, dominating the foreground with sharp focus. On the screen, a prominent black-and-white QR code is centered, framed by a green header with the \"Halyk\" logo and branding. Below the QR code, bold text in Russian indicates a payment amount of \"25 000₸\" (Kazakhstani tenge), with a status message in green reading \"Ожидание платежа\" (\"Awaiting payment\"). The background is softly blurred, hinting at a retail environment with indistinct shelves and products, possibly shoes, creating a sense of depth and context. The lighting is bright and even, with soft reflections on the countertop enhancing the clean, modern aesthetic. The overall color palette is neutral, with the green branding elements providing a fresh accent. The composition is straightforward and functional, evoking a contemporary, tech-savvy atmosphere suitable for a commercial or fintech setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:52.996574",
+  "word_count": 152,
+  "error_message": null
+}

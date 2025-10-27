@@ -1,0 +1,12 @@
+{
+  "image_filename": "06e72197-83cb-452c-aec6-2c58a5c3253c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic shot of a person’s hand delicately adjusting the spokes of a bicycle wheel. The composition is intimate and focused, with the hand and the metallic spokes sharply in the foreground, while the background is softly blurred, creating a shallow depth of field. The lighting is natural and moody, with warm, diffused sunlight streaming in from the side, casting gentle highlights and soft shadows across the hand and the rim of the wheel. The color palette is subdued and earthy, dominated by muted browns, silvers, and hints of green from the out-of-focus background. The overall style is reminiscent of an artful documentary or a contemplative indie film, evoking a sense of quiet concentration and craftsmanship. The camera angle is slightly oblique, emphasizing the tactile interaction between the hand and the bicycle, and capturing the texture of skin and metal in exquisite detail.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:10.001871",
+  "word_count": 144,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d313d26-41b0-4924-bd63-44d3711e3b19.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A middle-aged man sits at a modern workstation in the center of a high-tech server room, facing directly toward the camera. He is partially obscured by three large computer monitors arranged in a row on his desk, their sleek black frames and the prominent Dell logo visible. The man wears a business shirt, and his expression is focused and intent as he works. The background is dominated by tall, glossy blue server racks that stretch in parallel lines into the distance, creating a strong sense of depth and symmetry. The lighting is cool and even, with fluorescent overhead lights casting a clinical, slightly bluish tone across the scene. The overall color palette is composed of cool blues, grays, and whites, emphasizing the technological and sterile environment. The camera is positioned at eye level, directly facing the subject, with a wide aspect ratio that accentuates the orderly, almost cinematic composition. The image conveys a mood of concentration, precision, and the quiet intensity of a secure, high-stakes digital workspace.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:41.682997",
+  "word_count": 167,
+  "error_message": null
+}

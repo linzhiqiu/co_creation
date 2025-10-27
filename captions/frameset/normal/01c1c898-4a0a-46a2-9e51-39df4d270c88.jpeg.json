@@ -1,0 +1,12 @@
+{
+  "image_filename": "01c1c898-4a0a-46a2-9e51-39df4d270c88.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man in a dark suit, seen from behind and slightly to the side, stands outdoors in an urban environment, holding a tablet in both hands at chest height. The focus is on the tablet’s screen, which displays a video or live feed of several people running or moving quickly along a concrete surface, their shadows elongated by the light. The man’s head and shoulders are slightly out of focus, emphasizing the device and its contents. The background features a blurred, industrial-looking fence topped with barbed wire, graffiti on a concrete wall, and muted, overcast daylight that casts a cool, desaturated tone over the scene. The overall composition uses a shallow depth of field, drawing attention to the digital screen while the rest of the environment remains indistinct, evoking a sense of surveillance, tension, and modern urban isolation. The color palette is subdued, dominated by grays, blues, and neutral tones, with soft, natural lighting that enhances the cinematic, documentary-like realism of the moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:16.487048",
+  "word_count": 163,
+  "error_message": null
+}

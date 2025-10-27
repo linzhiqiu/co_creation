@@ -1,0 +1,12 @@
+{
+  "image_filename": "0df4086c-bea5-4f43-a3b3-f0352992a19a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman stands at the counter of a small convenience store, her expression tense and skeptical as she looks toward someone off-camera. She wears a casual outfit: a light blue denim jacket layered over a white t-shirt, her dark hair loosely styled and falling over one shoulder. The lighting is warm and slightly diffuse, casting soft highlights on her face and creating a natural, everyday atmosphere. The background is filled with shelves stocked with colorful snacks and products, slightly out of focus to draw attention to the woman as the central subject. The camera angle is at eye level, with a shallow depth of field that blurs the store’s details while keeping the woman and the edge of the checkout counter in sharp focus. The overall color palette is warm and inviting, with earthy tones from the store’s interior and pops of color from the packaging on the shelves. The composition feels cinematic, capturing a moment of subtle tension or confusion in an otherwise mundane setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:53.629997",
+  "word_count": 167,
+  "error_message": null
+}

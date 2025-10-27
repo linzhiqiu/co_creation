@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_88004515.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a vintage-style propaganda poster inspired by mid-20th-century design, featuring a bold warning message at the top in large, red, all-caps text: \"BEWARE THE JAWAS!\" The central figure is a stylized Jawa from the Star Wars universe, depicted in a simplified, graphic manner with a dark brown hooded robe, glowing yellow eyes, and holding a sci-fi blaster. The Jawa's face is obscured in shadow, emphasizing the glowing eyes and mysterious presence.\n\nBelow the main figure, divide the poster into three horizontal sections, each with a bold black slogan in all-caps: \"THEY STEAL,\" \"THEY SWINDLE,\" and \"THEY SMELL BAD.\" Each slogan is accompanied by a simple, iconic illustration: a BB-8 droid with a dollar sign for \"THEY STEAL,\" two unhappy faces exchanging goods for \"THEY SWINDLE,\" and a Jawa emitting wavy stink lines for \"THEY SMELL BAD.\"\n\nThe color palette is limited and striking, using muted tan for the background, deep brown and black for the figures and text, and bright orange-red for the warning text and accents. The overall style is flat, graphic, and reminiscent of wartime propaganda posters, with strong lines, minimal shading, and a sense of urgency. The composition is clean and balanced, with a focus on clarity and visual impact, evoking a playful yet cautionary mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:24:57.515829",
+  "word_count": 209,
+  "error_message": null
+}

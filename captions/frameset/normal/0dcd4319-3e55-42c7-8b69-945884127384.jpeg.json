@@ -1,0 +1,12 @@
+{
+  "image_filename": "0dcd4319-3e55-42c7-8b69-945884127384.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, atmospheric scene viewed from a low angle, looking up toward a rectangular opening in a dark ceiling. Through the opening, intense beams of blue and golden light stream downward, cutting through a hazy, dust-filled air and creating dramatic, radiant shafts. The source of the light is off-frame, adding a sense of mystery and intrigue. In the foreground, silhouetted against the light, is the faint outline of a person’s hand or head, barely discernible, adding a subtle human presence without revealing identity. The overall color palette is dominated by deep blacks, rich blues, and warm golds, with high contrast between the illuminated beams and the surrounding darkness. The composition emphasizes negative space and the interplay of light and shadow, evoking a moody, almost otherworldly atmosphere. The style is reminiscent of a suspenseful science fiction or neo-noir film, with soft focus and a shallow depth of field that enhances the ethereal quality of the light.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:51.035760",
+  "word_count": 157,
+  "error_message": null
+}

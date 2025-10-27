@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d6bae53-f813-4dae-ae8f-0f3ecae3b974.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic portrait of a smiling Black man standing outdoors in front of a modern, geometric concrete building with a grid of square windows. The subject is centered in the frame, facing the camera directly, exuding warmth and confidence with a gentle, genuine smile. He wears a light gray button-up shirt with the top button fastened, adding a touch of formality to his relaxed demeanor. The background is softly blurred, creating a shallow depth of field that draws attention to the subject’s face while subtly showcasing the repetitive architectural pattern behind him. The color palette is muted and neutral, dominated by soft grays and natural skin tones, with diffused, natural daylight providing even, flattering illumination. The overall style is clean and modern, with a slight cinematic quality achieved through the use of a wide aspect ratio and a gentle bokeh effect, evoking a sense of calm professionalism and approachability.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:40.098248",
+  "word_count": 150,
+  "error_message": null
+}

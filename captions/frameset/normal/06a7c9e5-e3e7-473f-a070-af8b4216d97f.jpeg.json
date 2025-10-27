@@ -1,0 +1,12 @@
+{
+  "image_filename": "06a7c9e5-e3e7-473f-a070-af8b4216d97f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist, cinematic close-up of a textured wall painted in a deep, muted brown color. In the center of the frame, a single, roughly square patch of light gray paint stands out, its edges uneven and brushstrokes visible, suggesting a test swatch or an unfinished painting process. The lighting is soft and diffuse, creating gentle shadows that emphasize the subtle variations in the wall’s surface. The composition is stark and symmetrical, with the gray patch perfectly centered, drawing the viewer’s eye. The overall mood is contemplative and subdued, evoking a sense of anticipation or transition. The color palette is restrained, dominated by earthy browns and cool gray, with a matte finish and no visible gloss. The style is reminiscent of art-house cinema or contemporary photography, with a shallow depth of field that keeps the focus entirely on the wall and the painted square, leaving the background abstract and unobtrusive.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:04.739538",
+  "word_count": 149,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "07dc8537-71b3-474f-8b03-02347af06c69.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A sharply dressed man in a dark, tailored suit and tie sits at a sleek, modern desk in a high-tech, futuristic office environment. He has a composed, focused expression, with his hands clasped in front of him, exuding authority and calm control. In front of him is a large, transparent holographic display screen filled with complex data, code, and digital interface elements, including a prominent notification reading \"Protocol Pending: Command.\" The background is softly blurred, revealing an expansive, industrial-style workspace with metallic structures and glass panels, contributing to the sense of scale and advanced technology. The color palette is cool and muted, dominated by shades of gray, blue, and metallic tones, with the holographic interface emitting a subtle, luminous glow. The lighting is even and slightly diffused, enhancing the clean, clinical atmosphere. The camera angle is at eye level, with a slight focus on the man’s face and the digital display, creating a sense of immediacy and immersion. The overall style is cinematic and polished, reminiscent of a science fiction thriller or a high-stakes corporate drama set in the near future.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:36.821687",
+  "word_count": 181,
+  "error_message": null
+}

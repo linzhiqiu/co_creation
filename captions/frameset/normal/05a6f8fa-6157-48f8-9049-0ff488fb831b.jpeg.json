@@ -1,0 +1,12 @@
+{
+  "image_filename": "05a6f8fa-6157-48f8-9049-0ff488fb831b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a man’s face, partially turned to the side, bathed in intense red lighting that casts dramatic shadows and highlights the contours of his cheek and jaw. His expression is serious and contemplative, with his eyes gazing off-frame, suggesting deep thought or tension. The background is softly blurred, featuring a neon green and yellow sign that adds a moody, urban atmosphere, but remains indistinct to keep the focus on the subject. The color palette is dominated by deep reds and dark shadows, contrasted by the out-of-focus neon glow, evoking a noir or neo-noir cinematic style. The lighting is low-key and directional, creating a sense of mystery and emotional intensity. The composition uses a shallow depth of field, with the man’s face sharply in focus while the background melts into abstraction, enhancing the sense of isolation and introspection. The overall mood is tense, stylish, and evocative of classic crime or thriller films, with a strong emphasis on atmosphere and psychological nuance.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:43.369898",
+  "word_count": 163,
+  "error_message": null
+}

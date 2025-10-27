@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_80421017.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A whimsical, hyper-realistic mouse sculpture crafted entirely from Oreo cookies and white cream, with detailed cookie textures forming the fur and ears, and delicate cream whiskers. Soft, warm lighting highlights the playful, inviting mood. The background is softly blurred, focusing attention on the charming, edible character in the center.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:20:46.826869",
+  "word_count": 49,
+  "error_message": null
+}

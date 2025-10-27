@@ -1,0 +1,12 @@
+{
+  "image_filename": "060dc546-251f-41a2-8787-f5136885d7f3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A softly lit classroom scene featuring two young children sitting side by side at a table, both wearing protective face masks. The child in the foreground, with light hair pulled back, is dressed in a bright blue shirt and is intently focused on stacking colorful plastic blocks, their small hands carefully arranging the pieces. The other child, with darker hair tied in a ponytail, is slightly out of focus, emphasizing the depth of field and drawing attention to the main subject. The background is blurred, with hints of classroom elements like an easel and shelves, creating a warm, inviting atmosphere. The color palette is dominated by soft blues, yellows, and reds from the children’s clothing and the blocks, contrasted against the neutral tones of the classroom. Natural light streams in from the side, casting gentle highlights and creating a serene, contemplative mood. The composition is intimate and candid, captured at a child’s eye level, evoking a sense of quiet concentration and the innocence of early learning.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:50.926748",
+  "word_count": 166,
+  "error_message": null
+}

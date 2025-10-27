@@ -1,0 +1,12 @@
+{
+  "image_filename": "0bfb3c40-e4de-4a5a-996d-2ce3fd6ec030.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A contemporary urban street scene captured in broad daylight, featuring three compact hatchback cars parked closely in a row along the curb. The central focus is a vibrant blue car, its sleek, modern design highlighted by clean lines and metallic reflections. The driver, a casually dressed man, is visible through the open window, his expression intent and focused as he maneuvers the vehicle into a tight parallel parking space. To the left, a white car with a distinctive red accent on its rear quarter panel is parked, while to the right, a dark gray car is already stationary. The background consists of a modern apartment building with large glass windows, muted beige and gray tones, and a balcony with minimalist railings, evoking a sense of urban sophistication. The color palette is cool and subdued, dominated by blues, grays, and whites, with natural daylight casting soft, even illumination across the scene. The composition is cinematic, shot at street level with a wide aspect ratio, creating a sense of depth and realism. The overall mood is calm and observational, with a focus on everyday city life and the subtle tension of precise parking.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:12.730422",
+  "word_count": 191,
+  "error_message": null
+}

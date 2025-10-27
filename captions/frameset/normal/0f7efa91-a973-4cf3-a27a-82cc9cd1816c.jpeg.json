@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f7efa91-a973-4cf3-a27a-82cc9cd1816c.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, black-and-white photograph capturing a moment of interaction with a digital tablet on a tabletop. The main subject is a human hand, gently extended with the index finger poised to tap a button on the tablet’s screen. The screen displays a simple, modern interface with a large circular icon showing the number “1” and the text “order needs to be confirmed,” along with a prominent “view order” button. The hand is partially illuminated by soft, natural light, creating subtle shadows and a sense of intimacy. In the blurred foreground, there is a piece of paper with handwritten notes and a partially visible bottle, while the background features indistinct shapes, possibly a bottle or container, rendered in soft focus. The overall composition uses shallow depth of field to draw attention to the interaction between the hand and the device, evoking a quiet, contemplative mood. The monochrome palette emphasizes contrasts and textures, lending the scene a documentary or cinematic quality, as if capturing a fleeting, everyday moment in a modern workspace or café.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:30.337793",
+  "word_count": 172,
+  "error_message": null
+}

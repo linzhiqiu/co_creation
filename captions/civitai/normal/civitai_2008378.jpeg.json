@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_2008378.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create an image that captures the visual effect of analog television static, also known as \"white noise\" or \"snow.\" The composition should be a dense, chaotic field of tiny, multicolored dots and speckles, distributed randomly across the entire frame. The color palette should include a mix of bright reds, greens, blues, yellows, and whites, interspersed with black and darker tones, creating a vibrant, high-contrast mosaic. The overall effect should evoke a sense of visual noise and randomness, with no discernible shapes, figures, or focal points. The style should be reminiscent of a close-up, high-resolution digital rendering of static, with a slightly grainy texture and a sense of movement or flicker, as if the image is frozen in a single frame of a rapidly shifting television screen. The lighting is uniform and flat, with no shadows or highlights, emphasizing the abstract, patternless quality of the scene. The mood is neutral and impersonal, focusing purely on the sensation of visual chaos and sensory overload.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:50:39.312527",
+  "word_count": 162,
+  "error_message": null
+}

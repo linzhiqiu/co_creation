@@ -1,0 +1,12 @@
+{
+  "image_filename": "06b14373-7636-45ca-8d2a-93cb4c60f6b3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, over-the-shoulder shot of a person holding a modern smartphone in their left hand, the screen clearly displaying a news article with the headline “Win on defense — or blow the whole thing up.” The article features a small profile photo of the author and a prominent image at the top showing a group of people, possibly a sports team, in blue uniforms gathered together. The hand holding the phone is relaxed, with natural skin tones and short, clean fingernails. The background is softly blurred, featuring a textured blue-and-white carpet and the edge of a patterned ottoman, creating a cozy, domestic atmosphere. The lighting is soft and natural, suggesting daylight filtering in from a nearby window, with gentle shadows and a warm, inviting color palette. The composition emphasizes the phone’s screen as the focal point, with a shallow depth of field that keeps the viewer’s attention on the article while subtly hinting at the surrounding environment. The overall style is realistic and cinematic, evoking a sense of quiet focus and everyday life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:08.426653",
+  "word_count": 173,
+  "error_message": null
+}

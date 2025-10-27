@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_106062110.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a vintage-style propaganda poster with a distressed, sepia-toned color palette reminiscent of mid-20th-century prints. The composition is vertically oriented, with bold, all-caps text dominating the upper half in a cream color against a muted red background. The text reads: \"FIRST THEY CAME FOR THE GOONERS, AND I DIDN'T SPEAK UP BECAUSE I WASN'T A GOONER. THEN THEY CAME FOR... UHM? THEN THEY CAME FOR... (I WASN'T PAYING ATTENTION BECAUSE I WAS GOONING) (I LIED ABOUT NOT BEING A GOONER).\"\n\nBelow the text, occupying the lower right quadrant, is an expressive, hand-drawn illustration of a distressed man in a collared shirt. His wide eyes, furrowed brow, and open mouth convey anxiety and confusion, with sweat beads accentuating his panic. The illustration style is reminiscent of classic comic book or propaganda art, with strong linework and subtle shading. The background is a solid, faded red, enhancing the retro aesthetic and focusing attention on the figure and text. The overall mood is tense and ironic, blending historical gravitas with contemporary internet humor. The lighting is flat, emphasizing the graphic, poster-like quality, and the composition is tightly framed to evoke urgency and immediacy.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:46:37.059872",
+  "word_count": 190,
+  "error_message": null
+}

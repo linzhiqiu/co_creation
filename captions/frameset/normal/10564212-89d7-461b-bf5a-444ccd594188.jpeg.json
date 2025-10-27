@@ -1,0 +1,12 @@
+{
+  "image_filename": "10564212-89d7-461b-bf5a-444ccd594188.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic aerial view at dusk, looking straight down a set of parallel railway tracks that cut through a dense, dark forest. The tracks stretch into the distance, converging toward the horizon where a distant city skyline is faintly visible under a moody, cloud-filled sky. The scene is bathed in cool, desaturated tones of deep blue and muted green, with the last light of sunset casting a soft, pinkish glow on the horizon. Sparse, industrial buildings and scattered lights are visible on the left side, contrasting with the vast, shadowy expanse of trees on the right. Several trains, some stationary and some in motion, occupy the tracks, their headlights and taillights providing small, warm points of illumination. The overall composition is symmetrical and cinematic, with a high vantage point and a strong sense of depth, evoking a contemplative, almost melancholic atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:42.518474",
+  "word_count": 141,
+  "error_message": null
+}

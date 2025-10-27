@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ffdae2c-7e2a-43fa-bfca-8fd0532553f6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A cinematic, golden-hour scene of a lone cyclist riding along a quiet rural road. The subject is a man wearing a white helmet, a dark short-sleeved shirt, and light-colored shorts, captured in profile as he pedals a modern road bike. The background features a rustic wooden barn with a metal roof, partially obscured by tall grass and trees, all softly bathed in the warm, diffused light of the setting sun. Sun flares and gentle haze create a dreamy, nostalgic atmosphere, with the sunlight filtering through the foliage and casting long shadows. The color palette is dominated by earthy greens, warm golds, and soft browns, evoking a tranquil, late-summer evening. The composition uses a shallow depth of field, keeping the cyclist in sharp focus while the background blurs slightly, enhancing the sense of motion and intimacy. The camera angle is low and parallel to the road, emphasizing the forward movement and serenity of the moment, reminiscent of an artful, contemplative film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:36.102343",
+  "word_count": 161,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "06791300-2615-4412-bd04-99d2b4f68819.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a close-up portrait of a teenage boy with a round face and thick, curly dark brown hair. He is looking directly at the camera with a gentle, subtle smile, exuding a sense of warmth and approachability. The boy is dressed in a bright red puffer vest layered over a dark gray zip-up jacket, which adds a pop of color and contrast to the otherwise muted background. The setting is outdoors in winter, with hints of frost and bare branches visible behind him, suggesting a cold, crisp day. The background is softly blurred, drawing focus to the subject’s face and creating a shallow depth of field. The lighting is natural and diffuse, likely from an overcast sky, giving the scene a soft, even illumination without harsh shadows. The overall color palette is cool and subdued, with the red vest providing a striking focal point. The composition is centered and intimate, capturing the boy’s expression and personality in a candid, documentary style reminiscent of a cinematic still.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:00.102698",
+  "word_count": 166,
+  "error_message": null
+}

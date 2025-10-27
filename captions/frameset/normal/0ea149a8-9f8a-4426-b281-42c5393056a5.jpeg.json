@@ -1,0 +1,12 @@
+{
+  "image_filename": "0ea149a8-9f8a-4426-b281-42c5393056a5.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic science fiction scene set in a dimly lit, futuristic control room. The central subject is a woman with short hair, standing confidently behind a sleek, curved console. She wears a loose, light-colored tunic adorned with layered necklaces, giving her an air of authority and understated elegance. Her expression is serious and focused, illuminated by the soft, cool glow of the console in front of her.\n\nBehind her, a large window or screen dominates the background, filled with vibrant, neon green diagonal lines that create a striking geometric pattern and cast an ambient glow throughout the room. The lighting is low-key, with most of the illumination coming from the console and the neon display, creating deep shadows and a sense of intrigue. The composition is symmetrical, with the woman centered and the console’s curves leading the viewer’s eye toward her.\n\nThe overall color palette is muted and cool, with shades of gray, white, and green dominating the scene. The style is sleek and minimalist, evoking a high-tech, dystopian atmosphere. The camera angle is at eye level, with a shallow depth of field that keeps the focus on the woman and the console, while the background remains slightly blurred, enhancing the sense of depth and isolation. The mood is tense and contemplative, as if a critical decision is about to be made.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:13.561532",
+  "word_count": 224,
+  "error_message": null
+}

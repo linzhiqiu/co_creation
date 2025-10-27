@@ -1,0 +1,12 @@
+{
+  "image_filename": "10bcaf19-7786-4a0b-8ae9-fa07dbf6f77d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nA close-up, first-person perspective of a hand holding a red TV remote, pointed directly at a large, flat-screen television. The hand is clad in a warm, ochre-colored long-sleeve shirt, with the focus sharply on the remote and the hand, while the background is softly blurred, creating a shallow depth of field. The television screen is mostly black, but prominently displays a glowing red icon with a white star in the center, suggesting the activation of a streaming or video app. The scene is set in a modern, minimalist living room with a wooden media console beneath the TV and a tall, softly lit floor lamp with a paper shade to the left, casting a gentle, ambient glow. The color palette is warm and muted, dominated by earthy tones and soft lighting, evoking a cozy, evening atmosphere. The composition centers the viewer’s gaze along the line of sight from the remote to the TV, creating a sense of anticipation and interaction, as if about to start watching something. The overall style is cinematic and intimate, with a focus on everyday life and technology.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:52.247904",
+  "word_count": 183,
+  "error_message": null
+}

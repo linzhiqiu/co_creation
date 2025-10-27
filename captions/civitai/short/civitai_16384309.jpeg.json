@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_16384309.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A whimsical, pastel-toned illustration of a cozy, two-story cat café under gentle rain. The building is adorned with string lights, potted flowers, and playful cat motifs. Several cute, cartoon cats lounge on the roof and around the entrance. Soft, diffused lighting and a charming, isometric perspective evoke a dreamy, inviting atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:49:00.408183",
+  "word_count": 51,
+  "error_message": null
+}

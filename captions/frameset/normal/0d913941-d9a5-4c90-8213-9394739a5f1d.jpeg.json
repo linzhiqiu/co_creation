@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d913941-d9a5-4c90-8213-9394739a5f1d.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, minimalist scene viewed from a perfect top-down, bird’s-eye perspective. Center the composition on two large, adjacent cubes—one deep blue, one vivid red—placed side by side on a vast, pale gray concrete surface. The cubes cast sharp, geometric shadows, enhancing the sense of depth and dimensionality. On the left, a solitary figure dressed in dark blue and white walks toward the cubes, while on the right, another figure in bright red approaches from the opposite direction. Both figures are small in scale compared to the cubes, emphasizing the monumental quality of the objects and the emptiness of the space. The color palette is dominated by cool grays, with bold, saturated blue and red as focal points. Lighting is even and diffuse, creating soft shadows and a calm, contemplative mood. The overall style is clean, modern, and abstract, with a strong sense of symmetry and balance, evoking a sense of quiet tension and visual harmony.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:44.256431",
+  "word_count": 156,
+  "error_message": null
+}

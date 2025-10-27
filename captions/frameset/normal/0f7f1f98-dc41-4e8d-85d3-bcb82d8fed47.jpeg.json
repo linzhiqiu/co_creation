@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f7f1f98-dc41-4e8d-85d3-bcb82d8fed47.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary young woman sits at a desk in a sparsely populated, open-plan office, viewed from a slightly elevated, medium-wide angle that emphasizes her isolation within the geometric arrangement of beige desks. She wears a light gray sweater over a crisp white collared shirt, her dark, straight hair cut in a neat bob that partially obscures her face as she focuses intently on typing at a computer keyboard. The lighting is soft and diffused, casting gentle shadows and creating a muted, almost melancholic atmosphere. The color palette is subdued, dominated by neutral tones—beige desks, pale wood flooring, and off-white papers scattered across the surfaces. A green ceramic mug and a few stacks of documents add subtle hints of color and realism. The composition is orderly and symmetrical, with empty desks and scattered paperwork reinforcing a sense of quiet routine and emotional distance. The overall style is cinematic, reminiscent of minimalist drama, with a shallow depth of field that keeps the woman in sharp focus while the background remains slightly blurred, heightening the sense of introspection and solitude.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:38.087134",
+  "word_count": 177,
+  "error_message": null
+}

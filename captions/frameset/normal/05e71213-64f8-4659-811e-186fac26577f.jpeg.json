@@ -1,0 +1,12 @@
+{
+  "image_filename": "05e71213-64f8-4659-811e-186fac26577f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up portrait of a young person with curly hair, their face painted in two distinct halves: the left side features the red and white maple leaf of the Canadian flag, while the right side displays the green, yellow, and blue of the Brazilian flag. The subject gazes directly into the camera with a calm, neutral expression, their eyes clear and reflective, conveying a sense of unity and multicultural identity. The background is softly blurred with warm, golden bokeh lights, creating a gentle, cinematic atmosphere that draws focus to the subject’s face. The lighting is soft and diffused, highlighting the texture of the face paint and the natural features of the subject without harsh shadows. The color palette is rich and saturated, emphasizing the vividness of the flag colors against the subject’s natural skin tone. The composition is symmetrical and centered, with a shallow depth of field that isolates the subject from the background, lending the image an intimate and contemplative mood. The overall style is reminiscent of a high-quality film still, with a subtle vignette and a sense of quiet dignity and cultural celebration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:51.563174",
+  "word_count": 185,
+  "error_message": null
+}

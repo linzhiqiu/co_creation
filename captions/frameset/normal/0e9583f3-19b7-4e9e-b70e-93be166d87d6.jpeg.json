@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e9583f3-19b7-4e9e-b70e-93be166d87d6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, cinematic scene set in a warmly lit, modern home interior. In the foreground, a sleek wooden table holds an open laptop displaying a car sales website, with a blue and white interface showing a car image, pricing details, and financing options in Spanish. To the right, a person’s hand, dressed in a blue suit jacket with a red and black checkered shirt cuff, extends a set of car keys above another open palm, suggesting the act of handing over the keys. The background is softly blurred, featuring a plate of lemons and nuts, and hints of a staircase and cozy furnishings, creating a welcoming, lived-in atmosphere. The color palette is rich and inviting, with warm wood tones, pops of yellow from the lemons, and the cool blue of the suit and website interface. The lighting is soft and natural, with gentle highlights and shadows adding depth. The composition uses a shallow depth of field to focus attention on the hands, keys, and laptop, evoking a sense of anticipation and the personal moment of a car purchase or handover.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:08.664473",
+  "word_count": 180,
+  "error_message": null
+}

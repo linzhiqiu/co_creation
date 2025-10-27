@@ -1,0 +1,12 @@
+{
+  "image_filename": "095cca51-00ba-4fb0-9f45-147c06904014.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A solitary figure stands in the distance at the edge of a sunlit clearing, framed by the dark, towering trunks of a dense forest. The person is dressed in dark, nondescript clothing, their back turned to the viewer, creating an air of mystery and isolation. The foreground is shadowy and softly blurred, with pine needles, undergrowth, and fallen branches adding texture and depth, while the midground trees form a natural frame that draws the eye toward the figure. Beyond the clearing, gentle hills rise under a pale, overcast sky, their muted earth tones contrasting with the deep greens and browns of the forest. The lighting is diffuse and natural, with soft sunlight filtering through the trees, casting subtle highlights and long shadows. The overall mood is contemplative and slightly eerie, evoking a sense of solitude and the unknown. The composition uses a shallow depth of field, with the background and figure in sharp focus while the foreground remains dreamlike and out of focus, lending a cinematic, almost painterly quality to the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:12.469934",
+  "word_count": 172,
+  "error_message": null
+}

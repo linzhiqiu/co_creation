@@ -1,0 +1,12 @@
+{
+  "image_filename": "0309b772-2fb5-4b48-aeab-137a76afda45.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dramatic Western scene set in a dusty, sunlit frontier town. The composition is dominated by a giant Ace of Spades playing card standing upright in the foreground, its white surface stark against the muted earth tones of the street and wooden buildings. A large bullet hole pierces the center of the spade symbol, perfectly framing a gunslinger in the distance, visible through the jagged opening. The gunslinger, dressed in classic Western attire with a wide-brimmed hat and dark clothing, is caught mid-action, aiming a revolver directly through the card. The background features weathered saloon facades and townsfolk in period dress, some watching the scene unfold. The color palette is warm and dusty, with golden sunlight casting long shadows and enhancing the gritty, cinematic atmosphere. The camera angle is low and slightly off-center, emphasizing the scale of the card and the tension of the standoff. The overall style is reminiscent of classic Spaghetti Westerns, with sharp contrasts, deep focus, and a sense of suspenseful stillness.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:44.459149",
+  "word_count": 165,
+  "error_message": null
+}

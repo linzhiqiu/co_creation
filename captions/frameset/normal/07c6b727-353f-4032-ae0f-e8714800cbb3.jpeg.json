@@ -1,0 +1,12 @@
+{
+  "image_filename": "07c6b727-353f-4032-ae0f-e8714800cbb3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A bustling 1960s NASA mission control room, filled with engineers and flight controllers seated at rows of vintage computer consoles. The men and women wear crisp white shirts, some with ties, and a few have headsets with microphones, intently monitoring their screens. One woman in the foreground, with long dark hair and a yellow sweater, leans forward with a look of concern or concentration, her hand to her face. The consoles are adorned with small American flags, coffee cups, and stacks of paperwork, evoking a sense of urgency and focus. The background features large wall-mounted monitors displaying grainy black-and-white footage of a spacecraft landing, alongside glowing data panels. The room is bathed in cool, fluorescent lighting, casting a slightly muted, documentary-style color palette of whites, grays, and soft yellows. The composition is immersive, with a slight grain and shallow depth of field, capturing the tense, historic atmosphere of a pivotal moment in space exploration. The camera angle is at desk level, drawing the viewer into the action and highlighting the teamwork and intensity of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:32.746403",
+  "word_count": 176,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0a226c4e-266e-4117-a9b9-9e5c0b08d905.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody urban scene set in a dimly lit, slightly run-down interior space that resembles an abandoned ticket booth or service window. The main focus is a large, grimy glass window set into a white, weathered wall, with peeling paint and visible stains. Above the window, bold black German text reads \"ES IST NOCH NICHT ALLES VERLOREN!\" (\"Not all is lost yet!\"), adding a sense of hope or defiance to the otherwise bleak environment. The window reflects faint, ghostly silhouettes and blue-tinged light, suggesting nighttime or early morning.\n\nIn the foreground, a metallic blue-gray trash bin labeled \"Abfall\" (waste) sits slightly off-center, its surface catching the cool, artificial light. The floor is dark, scuffed, and littered, contributing to the sense of neglect. On the wall, a faded stencil of a camera and a real security camera add a subtle sense of surveillance and unease. The color palette is dominated by cold blues, grays, and muted whites, with soft, diffused lighting that casts gentle reflections and shadows, enhancing the somber, contemplative mood. The composition is symmetrical and static, with a shallow depth of field that keeps the focus on the window and foreground elements, evoking the style of a European art-house film or a contemplative urban photograph.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:31.001317",
+  "word_count": 208,
+  "error_message": null
+}

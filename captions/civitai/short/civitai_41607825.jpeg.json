@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_41607825.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A stern, sharp-featured man in a black suit stands center frame, his head crowned with intricate mechanical devices and wires. Monochrome cityscape background, orange-clad figures in the distance, dramatic clouds, and high-contrast lighting evoke a surreal, dystopian atmosphere. Cinematic, graphic novel style, with bold lines and muted colors punctuated by vivid orange accents.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:00:50.267555",
+  "word_count": 53,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "0406b78f-d113-4e32-bbeb-3a8a1d613a1b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman with long, braided hair sits on a red bench in a modern gym, performing a seated cable row exercise. She wears a fitted, long-sleeve, deep plum athletic top and black leggings, her expression focused and determined as she grips the handles of the machine with both hands. The camera is positioned directly in front of her at eye level, with the cable machine’s vertical bars partially framing the foreground, creating a sense of depth and immersion. The background is softly blurred, revealing rows of dumbbells and gym equipment in a spacious, well-lit environment. The color palette features cool grays, blacks, and whites, punctuated by the red bench and subtle hints of plum and metallic silver from the equipment. The lighting is even and natural, highlighting the subject’s concentration and the clean, organized atmosphere of the gym. The overall style is cinematic and documentary-like, capturing the intensity and focus of a workout moment with a shallow depth of field and a sense of authenticity.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:08.392442",
+  "word_count": 166,
+  "error_message": null
+}

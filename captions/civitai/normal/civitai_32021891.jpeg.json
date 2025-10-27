@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_32021891.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A haunting, cinematic scene set in a narrow, dimly lit hallway with cracked, aged walls. The focal point is a large, ornate, metallic mask lying abandoned on the floor in the foreground, its hollow eyes staring upward, adorned with intricate filigree and dark ribbons trailing away. Wisps of mist or smoke curl around the mask, adding an eerie, supernatural atmosphere. The corridor recedes into shadow, illuminated only by a single flickering candle mounted on the far wall, casting long, dramatic shadows and a sepia-toned, desaturated color palette. On the walls, somber, old-fashioned portraits of unsmiling faces gaze out, their expressions grave and unsettling, contributing to the sense of unease. The composition uses a deep depth of field, drawing the viewer’s eye from the mask through the misty hallway to the distant candle, evoking a gothic, psychological horror aesthetic reminiscent of classic suspense films or dark fantasy art.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:56:11.662705",
+  "word_count": 147,
+  "error_message": null
+}

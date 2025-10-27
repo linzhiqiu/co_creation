@@ -1,0 +1,12 @@
+{
+  "image_filename": "02bf5f99-eae3-4e04-9161-8321d6328221.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide, cinematic aerial shot of a vast, arid desert landscape under a clear, pale blue sky. The horizon stretches endlessly, with distant, hazy mountain ranges barely visible in the background. The foreground is dominated by a flat, sandy expanse dotted with sparse, low-lying desert shrubs. Near the lower left of the frame, a single red car is parked on the barren ground, its vibrant color contrasting starkly with the muted earth tones of the desert. A few tall, thin utility poles cast long shadows across the sand, adding a sense of scale and emptiness. There is a small, nondescript structure or shed near the car, blending into the environment. The lighting is bright and harsh, typical of midday sun, creating crisp shadows and a sense of heat and isolation. The overall mood is one of solitude and vastness, evoking themes of journey, abandonment, or contemplation. The composition emphasizes negative space, with the car and structures appearing small and almost insignificant against the overwhelming expanse of the desert.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:39.541106",
+  "word_count": 168,
+  "error_message": null
+}

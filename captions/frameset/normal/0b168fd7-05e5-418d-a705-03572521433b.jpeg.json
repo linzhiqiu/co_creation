@@ -1,0 +1,12 @@
+{
+  "image_filename": "0b168fd7-05e5-418d-a705-03572521433b.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A wide-angle shot of a sunlit outdoor soccer field, captured in the early afternoon with clear blue skies and soft, natural lighting. In the foreground, a single soccer player dressed in dark athletic gear is poised to take a penalty kick, their body language focused and determined. The ball is mid-air, flying towards the goal. In the background, a goalkeeper in blue dives dramatically to the right, fully extended in an attempt to block the shot. Three yellow training mannequins stand upright near the penalty spot, adding a sense of practice and preparation to the scene. The lush green artificial turf contrasts with the white field markings, while tall trees with autumn foliage and a high stadium light pole frame the background, creating depth and a sense of open space. The overall composition is balanced and cinematic, with a shallow depth of field that keeps the action crisp while gently blurring the distant trees. The mood is tense and anticipatory, evoking the high stakes and concentration of a decisive moment in training or competition.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:49.579946",
+  "word_count": 174,
+  "error_message": null
+}

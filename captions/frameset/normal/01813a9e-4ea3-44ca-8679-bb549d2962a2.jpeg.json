@@ -1,0 +1,12 @@
+{
+  "image_filename": "01813a9e-4ea3-44ca-8679-bb549d2962a2.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, cinematic scene set in a dimly lit, high-tech studio. The central subject is a solitary figure seated at a desk, silhouetted against the glow of multiple computer monitors displaying complex software interfaces and digital waveforms. The person’s posture is focused and intent, suggesting deep concentration, with their hair tied up in a bun. The workspace is cluttered with electronic equipment, audio gear, and cables, evoking the atmosphere of a music producer or sound engineer’s creative environment. The background is awash with ethereal blue and purple light projections, casting abstract patterns across the walls and ceiling, adding a dreamlike, futuristic ambiance. The color palette is dominated by cool blues, purples, and soft neon highlights, contrasted by the warm, subtle illumination from the screens. The composition uses a wide-angle perspective with a shallow depth of field, keeping the subject in soft focus while the surrounding technology and ambient lighting create a sense of immersion and creative isolation. The overall style is reminiscent of a modern sci-fi film, blending realism with an artistic, atmospheric touch.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:10.772844",
+  "word_count": 174,
+  "error_message": null
+}

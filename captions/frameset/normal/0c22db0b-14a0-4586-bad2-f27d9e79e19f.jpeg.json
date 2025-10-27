@@ -1,0 +1,12 @@
+{
+  "image_filename": "0c22db0b-14a0-4586-bad2-f27d9e79e19f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A modern office meeting scene set in a minimalist, light-filled workspace with pale blue walls. In the foreground, a man with short hair and a beard, wearing glasses and a navy blue shirt, sits at a glass table, gesturing with a pen as he listens intently. To his right, a woman with long brown hair, dressed in a white blouse, sits at the table with an open laptop, her expression focused and engaged as she looks toward another colleague. Another woman with auburn hair, wearing a rust-colored top, sits beside her, partially turned toward the man standing at the whiteboard. The standing man, with dark curly hair and a beard, wears a dark sweater and light pants, and is actively presenting, gesturing toward a whiteboard filled with charts, graphs, and handwritten notes. The composition is dynamic, with a shallow depth of field that softly blurs the foreground, including a pair of red headphones resting on a white surface, adding a touch of color contrast. The lighting is natural and diffused, creating a calm, professional atmosphere. The overall style is cinematic, with a wide aspect ratio and a slight over-the-shoulder perspective that draws the viewer into the collaborative energy of the meeting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:19.679573",
+  "word_count": 201,
+  "error_message": null
+}

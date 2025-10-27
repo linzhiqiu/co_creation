@@ -1,0 +1,12 @@
+{
+  "image_filename": "03b465ea-f22f-4e97-945b-67d23444d523.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, late afternoon scene of two young people riding electric scooters side by side down a sunlit, paved walkway. The taller figure on the left wears a loose, vibrant purple hoodie and light blue jeans, while the shorter figure on the right sports a brown oversized t-shirt and baggy blue jeans. Both have curly hair and relaxed, focused expressions as they glide forward, their postures casual and natural. The background features a modern, light-colored building with geometric lines on the left, and lush green trees casting soft shadows on the right. The golden hour sunlight bathes the scene in warm, gentle tones, creating long shadows and a tranquil, inviting atmosphere. The camera angle is eye-level, with a shallow depth of field that keeps the riders in sharp focus while softly blurring the background, emphasizing the sense of motion and companionship. The overall style is naturalistic and contemporary, evoking a peaceful, youthful moment in an urban setting.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:56.942755",
+  "word_count": 158,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "022f0868-f8ad-4407-b64f-f01bcab99ca4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up of a frosty Astra beer glass with a thick foamy head, condensation glistening, set on a rustic wooden bar. A tattooed hand with red nails rests nearby, beside a lemon and a red coaster labeled “ZITRO-NIXE.” Warm, moody lighting, shallow depth of field, and a blurred figure in the background evoke a cozy pub atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:32:22.402745",
+  "word_count": 57,
+  "error_message": null
+}

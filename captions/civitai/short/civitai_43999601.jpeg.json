@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_43999601.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A surreal, cinematic image of a human skeleton standing upright against a deep black background, its skull replaced by a lush bouquet of white and silver leaves. Soft, dramatic lighting highlights the bones and foliage, creating a mysterious, dreamlike atmosphere with high contrast and a painterly, almost ethereal quality.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:02:02.356949",
+  "word_count": 49,
+  "error_message": null
+}

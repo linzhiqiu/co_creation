@@ -1,0 +1,12 @@
+{
+  "image_filename": "0975da35-6422-4eda-8f5d-867c9b2d7bfd.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Two men in futuristic Starfleet uniforms stand in a high-tech, metallic room filled with glowing vertical light panels and stacked storage units. One, in blue with sharp features and a stoic expression, faces the other, who wears gold. Cool, diffused lighting creates a sleek, sci-fi atmosphere with a sense of tension.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:09.852933",
+  "word_count": 51,
+  "error_message": null
+}

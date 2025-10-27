@@ -1,0 +1,12 @@
+{
+  "image_filename": "0666c062-4857-40cc-9fbf-2e69e485ae07.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a modern computer monitor dominates the foreground, its screen filled with a sleek, semi-transparent user interface for a business or sales management application. The interface features rounded buttons labeled with categories like \"Buyer,\" \"Graph,\" \"Pending,\" and \"Help,\" while a list of email addresses and deal statuses is visible on the left. Floating blue pop-up windows with white text highlight specific deals, such as \"$50 Deal #253215\" and \"$150 Deal,\" adding a sense of layered digital activity. The color palette is cool and professional, with soft blues, whites, and subtle grays, evoking a high-tech, corporate atmosphere. The lighting is natural yet slightly moody, with a gentle daylight glow reflecting off the screen and a softly blurred office environment in the background, including a large wall-mounted monitor displaying indistinct blue graphics. The composition uses a shallow depth of field, keeping the computer screen in sharp focus while the background remains out of focus, emphasizing the digital workspace and creating a cinematic, immersive feel. The camera angle is slightly off-center, as if viewed from the perspective of someone seated at the desk, enhancing the sense of realism and immediacy.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:07.099569",
+  "word_count": 190,
+  "error_message": null
+}

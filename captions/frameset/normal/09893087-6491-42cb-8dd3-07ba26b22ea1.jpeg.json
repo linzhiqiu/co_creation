@@ -1,0 +1,12 @@
+{
+  "image_filename": "09893087-6491-42cb-8dd3-07ba26b22ea1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a striking, futuristic scene featuring a humanoid robot as the central subject. The robot stands in the foreground, its sleek white body and black mechanical joints highlighted by soft, diffused lighting. Its arms are raised in an expressive gesture, with articulated black hands open and slightly apart, suggesting a moment of triumph, curiosity, or communication. The robot’s head is rounded and helmet-like, with a transparent visor revealing subtle internal mechanisms, and a dark, featureless faceplate that adds an enigmatic quality.\n\nThe background is minimalist and modern, composed of smooth, pale panels with clean lines and subtle geometric divisions, evoking a high-tech laboratory or advanced research facility. The color palette is dominated by cool whites, silvers, and soft grays, creating a clinical, almost ethereal atmosphere. The lighting is even and natural, with no harsh shadows, enhancing the sense of clarity and precision.\n\nThe composition is slightly low-angle, lending the robot a sense of presence and importance within the frame. The depth of field is moderate, keeping the robot in sharp focus while gently blurring the background, drawing attention to the intricate details of its design. The overall style is cinematic and polished, with a sense of optimism and wonder about technology and the future.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:35:19.532563",
+  "word_count": 204,
+  "error_message": null
+}

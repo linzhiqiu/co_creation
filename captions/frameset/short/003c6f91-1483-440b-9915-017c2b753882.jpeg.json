@@ -1,0 +1,12 @@
+{
+  "image_filename": "003c6f91-1483-440b-9915-017c2b753882.jpeg",
+  "dataset": "frameset",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A single futuristic sneaker floats against a seamless white background, spotlighted with soft, even lighting. The shoe features a dynamic design with black mesh, reflective white overlays, and intricate lacing. The composition is minimalist, emphasizing the shoe’s sculptural form and technical details, evoking a high-end product photography aesthetic.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:31:38.869578",
+  "word_count": 48,
+  "error_message": null
+}

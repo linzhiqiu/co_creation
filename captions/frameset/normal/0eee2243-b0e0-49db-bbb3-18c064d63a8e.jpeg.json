@@ -1,0 +1,12 @@
+{
+  "image_filename": "0eee2243-b0e0-49db-bbb3-18c064d63a8e.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A young woman sits comfortably in the back seat of a modern, upscale SUV, gazing thoughtfully out the window at a scenic mountain landscape. She wears a casual yet stylish outfit: a fitted olive green utility jacket, tan rolled-up cargo pants, and beige lace-up boots, blending practicality with a sense of adventure. Her dark hair is loosely tied back, and her relaxed posture suggests she is enjoying a peaceful moment of reflection. The car’s interior features luxurious brown leather seats with visible stitching, and the soft natural light streaming in through the large windows bathes the scene in a warm, inviting glow. The background outside the window reveals distant blue mountains under a partly cloudy sky, adding depth and a sense of freedom to the composition. The camera angle is positioned from the front passenger side, capturing the woman in profile and emphasizing the spaciousness and comfort of the vehicle. The overall style is cinematic, with a shallow depth of field that keeps the focus on the woman and the immediate interior, while the landscape outside is slightly blurred, evoking a mood of calm introspection and understated luxury.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:17.073888",
+  "word_count": 188,
+  "error_message": null
+}

@@ -1,0 +1,12 @@
+{
+  "image_filename": "08a55243-0392-401f-ad42-a7c2520058c8.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a hand holding a modern smartphone, displaying an insurance app interface. The phone screen is in sharp focus, showing a friendly welcome message, a cartoon mascot in a military helmet, and clear details about the next payment amount ($67.53) with a prominent green button labeled \"View ID Card.\" The background is softly blurred, suggesting an indoor office or professional environment with neutral tones and subtle bokeh, drawing all attention to the phone. The lighting is natural and even, highlighting the hand and device without harsh shadows. The overall color palette is clean and professional, dominated by whites, greens, and muted grays, evoking a sense of trust and clarity. The composition uses a shallow depth of field and a slight over-the-shoulder perspective, creating an intimate, documentary-style feel as if inviting the viewer to interact with the app themselves.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:53.683338",
+  "word_count": 141,
+  "error_message": null
+}

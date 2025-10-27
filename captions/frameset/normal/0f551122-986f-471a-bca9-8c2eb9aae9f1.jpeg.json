@@ -1,0 +1,12 @@
+{
+  "image_filename": "0f551122-986f-471a-bca9-8c2eb9aae9f1.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A large, realistic elephant occupies the majority of a dimly lit, old-fashioned living room, its massive body sprawled across a richly patterned red carpet. The elephant’s textured gray skin is rendered with lifelike detail, its form casting deep shadows that blend into the dark, wood-paneled walls. Two tall windows with sheer, slightly tattered curtains allow soft, diffused daylight to filter in, illuminating dust motes in the air and casting a gentle glow on the cluttered room. The background features shelves filled with books and small objects, adding to the sense of a lived-in, slightly neglected space. The overall color palette is muted and earthy, dominated by browns, grays, and faded reds, evoking a somber, introspective mood. The composition is cinematic, with a low, wide camera angle that emphasizes the surreal scale of the elephant in the confined domestic setting. The lighting is naturalistic, with high contrast between the bright window light and the shadowy interior, creating a moody, contemplative atmosphere. The scene is imbued with a sense of quiet absurdity and melancholy, as the elephant’s presence is both incongruous and strangely poignant within the intimate, everyday environment.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:29.709978",
+  "word_count": 187,
+  "error_message": null
+}

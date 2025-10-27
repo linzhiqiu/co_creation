@@ -1,0 +1,12 @@
+{
+  "image_filename": "05c5e338-b3f6-4151-a1a9-4656510a0dec.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, softly lit scene of a child sitting cross-legged on a patterned, warm-toned bedspread, holding an open notebook filled with handwritten text. The child’s hands gently rest on either side of the notebook, suggesting a moment of quiet reflection or study. The child wears loose blue pants and a dark t-shirt featuring a realistic tiger illustration, adding a playful yet naturalistic touch. The background is softly blurred, with sunlight streaming in from the left, casting a gentle, golden glow across the scene and enhancing the cozy, intimate atmosphere. The color palette is dominated by earthy reds, oranges, and browns from the bedding, contrasted with the cool blue of the pants. The composition uses a shallow depth of field, focusing on the notebook and hands, while the rest of the environment fades into a soft bokeh, evoking a sense of calm and introspection. The overall style is cinematic and naturalistic, reminiscent of a quiet moment in an indie film, with a warm, nostalgic mood.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:44.609380",
+  "word_count": 164,
+  "error_message": null
+}

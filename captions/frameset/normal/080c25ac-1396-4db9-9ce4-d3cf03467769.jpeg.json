@@ -1,0 +1,12 @@
+{
+  "image_filename": "080c25ac-1396-4db9-9ce4-d3cf03467769.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Prompt:\n\nCreate a cinematic, dystopian sci-fi scene set in a vast, dimly lit industrial chamber. The camera angle is low and wide, emphasizing the scale and depth of the environment. In the center of the composition, a solitary humanoid figure stands, bathed in a cold blue light that contrasts with the warm, vertical yellow-orange lights embedded in the surrounding pillars. The figure appears small and isolated, adding a sense of vulnerability and tension. Overhead, a large, jagged hole in the ceiling reveals a glimpse of a futuristic cityscape above, with neon pink and cyan lights spilling through, casting a surreal glow onto the scene below. The atmosphere is heavy with shadows and mist, with subtle reflections on the metallic floor and textured industrial surfaces. The overall color palette is dominated by deep blues, blacks, and muted metallic tones, punctuated by the stark artificial lighting. The mood is mysterious and foreboding, evoking a sense of anticipation and unease, as if something significant is about to happen.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:40.554281",
+  "word_count": 165,
+  "error_message": null
+}

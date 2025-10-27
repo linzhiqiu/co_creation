@@ -1,0 +1,12 @@
+{
+  "image_filename": "05b4505e-a129-4719-b8d5-c659a2e37b8f.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A moody, introspective scene set indoors at a wooden desk, illuminated by soft, natural daylight filtering through a window in the background. The main subject, partially visible from behind and slightly to the side, reaches out with a gentle, contemplative gesture to touch the screen of a sleek black laptop. The screen is dark, reflecting the subject’s face with a pensive expression, and faintly displaying a few thin, white diagonal lines, suggesting a digital drawing or music notation. The subject’s hand is delicately poised, fingers splayed, emphasizing a sense of longing or connection. \n\nOn the desk, a clear glass of water, an open book, and a closed notebook add to the lived-in, intellectual atmosphere. A leafy green plant in the background and a stack of books to the right further enrich the setting, hinting at a personal, creative workspace. The color palette is subdued and cool, dominated by deep shadows, muted browns, and soft blues, with highlights catching on the glass and the subject’s hand. The lighting is natural and diffused, creating a cinematic, contemplative mood with a shallow depth of field that keeps the focus on the hand and the laptop, while the background softly blurs. The overall style is realistic and intimate, evoking a quiet moment of reflection or inspiration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:45.609758",
+  "word_count": 212,
+  "error_message": null
+}

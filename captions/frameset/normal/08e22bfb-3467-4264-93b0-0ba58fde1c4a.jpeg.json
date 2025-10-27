@@ -1,0 +1,12 @@
+{
+  "image_filename": "08e22bfb-3467-4264-93b0-0ba58fde1c4a.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A highly detailed, close-up macro shot of a molecular model, focusing on a twisting double helix structure reminiscent of DNA. The model is composed of small, glossy spheres in vibrant colors—predominantly red, with accents of blue, yellow, and green—connected by thin metallic rods. The foreground is sharply in focus, revealing the intricate arrangement and reflective surfaces of the spheres, while the background and edges dissolve into a soft, dreamy bokeh, creating a sense of depth and abstraction. The lighting is dramatic and cinematic, with a cool, bluish cast that contrasts with the warm hues of the spheres, highlighting their glossy texture and casting subtle reflections. The background is dark and unobtrusive, allowing the colorful molecular structure to stand out as the central subject. The overall composition is dynamic and immersive, with a shallow depth of field and a slight diagonal tilt, evoking a sense of scientific wonder and microscopic exploration.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:34:58.668985",
+  "word_count": 150,
+  "error_message": null
+}

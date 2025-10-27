@@ -1,0 +1,12 @@
+{
+  "image_filename": "04b95d21-43e7-486e-84d0-3380f8e7f7a3.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A man in his early thirties, with short dark hair and a focused expression, is leaning over a modern kitchen counter, intently interacting with a touchscreen laptop. He wears a light gray jacket over a dark shirt, his posture slightly hunched as he reaches out with his right hand to tap the screen. The laptop displays a colorful, tile-based interface reminiscent of early Windows 8, with vibrant blues, purples, and reds dominating the display. The background features a bright, softly lit kitchen with white cabinetry and open shelves, some filled with books and children’s artwork, adding a lived-in, personal touch. The lighting is natural and diffused, likely from a nearby window, casting gentle shadows and creating a calm, everyday atmosphere. The composition is intimate and slightly off-center, with a shallow depth of field that keeps the man and the laptop in sharp focus while the background remains softly blurred, emphasizing the subject’s engagement with technology in a domestic setting. The overall style is realistic and cinematic, capturing a candid moment of concentration and modern life.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:18.672543",
+  "word_count": 175,
+  "error_message": null
+}

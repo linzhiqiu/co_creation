@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e5b33e9-6922-440d-b226-3374625421e6.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dynamic urban street scene captured with a cinematic, shallow depth of field. In the foreground, a woman rides a bicycle along a busy city street, wearing a blue helmet, a green and white jacket, and blue pants. She has a focused expression and a brown wicker basket attached to the front of her bike. The motion blur of passing cars—one white, one red, and one blue—emphasizes the sense of movement and the bustling city atmosphere. The background features a sidewalk café with green umbrellas, glass windows reflecting the street, and several pedestrians, some seated and some walking. The color palette is naturalistic, with cool blues and greens contrasting against the warmer tones of the cars and the neutral cityscape. The lighting is soft and diffused, suggesting an overcast day or late afternoon, lending a realistic, almost documentary feel to the composition. The camera angle is at street level, slightly panning to follow the cyclist, enhancing the immersive, in-the-moment quality of the scene.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:05.989709",
+  "word_count": 163,
+  "error_message": null
+}

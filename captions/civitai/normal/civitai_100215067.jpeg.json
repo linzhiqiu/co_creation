@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_100215067.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, cinematic anime-style scene set in a dimly lit, mysterious room. The central subject is a young girl with striking purple hair styled in a ponytail and blunt bangs, her wide, glowing magenta eyes radiating an eerie light. She wears a loose, lavender button-up shirt, the collar slightly open, and a delicate choker necklace. The girl leans forward over a wooden table, gripping a flashlight that casts a dramatic, focused beam, illuminating her face and the immediate area with a cool, bluish-white glow.\n\nHer expression is a mix of fear and curiosity, lips parted as if caught mid-gasp. In the foreground, a large, realistic black spider crawls across the table, its presence adding tension and a sense of unease. Delicate cobwebs stretch across the corners of the room and frame the upper part of the composition, catching the light and enhancing the spooky atmosphere.\n\nThe background features a shadowy, old-fashioned room with framed pictures on the wall and a window with sheer curtains, through which faint moonlight filters, casting soft, diffused shadows. The overall color palette is dominated by purples, deep blues, and muted grays, with sharp highlights from the flashlight and the girl's glowing eyes. The lighting is moody and atmospheric, with a strong sense of depth created by the interplay of light and shadow. The camera angle is slightly low and close, intensifying the girl's emotional state and drawing the viewer into the suspenseful, supernatural moment.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:29:29.613606",
+  "word_count": 241,
+  "error_message": null
+}

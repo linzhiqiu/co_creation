@@ -1,0 +1,12 @@
+{
+  "image_filename": "0d4849cf-5823-4e37-ac0a-f034eb7e99cb.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a cinematic, moody scene set in a dark, nearly black studio environment. The composition features several small, glowing monitors or screens suspended at varying heights and distances, their soft, bluish-purple light casting faint reflections and subtle glows in the surrounding darkness. The screens are the only sources of illumination, creating a mysterious, almost otherworldly atmosphere. In the foreground, a larger monitor is visible, its display more detailed and colorful, with the faint silhouette of a seated figure partially discernible beside it, shrouded in shadow. The overall color palette is dominated by deep blacks and muted purples, with occasional hints of green and red indicator lights. The lighting is extremely low-key, emphasizing negative space and the isolation of each illuminated screen. The camera angle is straight-on, at eye level, with a wide depth of field that keeps all the monitors in focus while the background remains impenetrably dark. The mood is enigmatic and contemplative, evoking the feeling of a behind-the-scenes look at a film set or a high-tech surveillance room, with a minimalist, almost abstract visual style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:37.837507",
+  "word_count": 177,
+  "error_message": null
+}

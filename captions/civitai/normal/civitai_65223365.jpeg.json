@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_65223365.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A grand, cinematic scene set in a sprawling, post-apocalyptic city with a majestic, weathered cathedral dominating the background. The cathedral features intricate baroque architecture, soaring domes, ornate spires, and a large, circular stained-glass window at its center, partially cracked and glowing with diffused sunlight. The surrounding buildings are dilapidated, their facades crumbling and overgrown with wild vegetation, lanterns hanging from broken beams, and debris scattered along the cobblestone street.\n\nIn the foreground, a group of armored riders on horseback moves cautiously down the street, their faces obscured by helmets and cloaks, exuding an air of vigilance and tension. Behind them, more figures on foot, similarly armored, advance in formation, partially shrouded by swirling dust and mist. The color palette is rich and dramatic, dominated by warm ochres, deep rusts, and muted earth tones, contrasted by the cool blue of the distant sky and the snow-capped mountain peeking through the haze.\n\nThe lighting is golden and atmospheric, with long shadows and shafts of sunlight filtering through the clouds, creating a sense of both hope and desolation. The composition is dynamic, with a low, slightly off-center camera angle that emphasizes the scale of the cathedral and the vulnerability of the travelers. The overall style blends epic fantasy with post-apocalyptic realism, evoking a mood of awe, mystery, and the enduring resilience of humanity amidst ruin.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:11:42.649578",
+  "word_count": 222,
+  "error_message": null
+}

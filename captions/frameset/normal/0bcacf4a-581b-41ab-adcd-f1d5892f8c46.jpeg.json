@@ -1,0 +1,12 @@
+{
+  "image_filename": "0bcacf4a-581b-41ab-adcd-f1d5892f8c46.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A dimly lit, close-up shot of an old, bulky laptop sitting on a stand against a plain, yellowish wall. The laptop screen dominates the composition, displaying a grainy black-and-white security camera feed labeled \"CAMERA 2.\" The surveillance footage shows a narrow corridor lined with tall server racks, illuminated by harsh overhead lighting that casts stark shadows. In the center of the feed, a solitary figure crouches or kneels on the floor, partially obscured by the darkness and the equipment, creating a sense of secrecy and tension. The laptop’s keyboard and lower casing are visible, rendered in muted, shadowy tones, while the screen glows with a cold, bluish tint, contrasting with the warmer hues of the surrounding environment. The overall mood is suspenseful and clandestine, evoking the atmosphere of a thriller or heist film. The camera angle is eye-level, with a shallow depth of field that keeps the focus on the laptop screen and its contents, blurring the background to heighten the sense of isolation and urgency.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:36:06.104707",
+  "word_count": 166,
+  "error_message": null
+}

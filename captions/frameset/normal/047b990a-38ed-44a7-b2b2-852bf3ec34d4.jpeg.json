@@ -1,0 +1,12 @@
+{
+  "image_filename": "047b990a-38ed-44a7-b2b2-852bf3ec34d4.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up shot of a medical ultrasound monitor displaying a detailed 3D sonogram image of a fetus in the womb. The fetus’s face is clearly visible, with closed eyes, a small nose, and lips, rendered in warm, sepia-toned hues that evoke a sense of intimacy and anticipation. The background is dark, allowing the softly illuminated features of the fetus to stand out with gentle highlights and subtle shadows, creating a sculptural, almost ethereal quality. The monitor’s frame is visible at the edges, with faint blue and white medical text and data along the top and right side, adding authenticity and context to the scene. The overall lighting is low and clinical, with a cinematic focus on the glowing screen, drawing the viewer’s attention to the delicate, lifelike details of the unborn child. The composition is centered and symmetrical, emphasizing the emotional and scientific significance of the moment, with a shallow depth of field that blurs the monitor’s edges and background, heightening the sense of intimacy and wonder.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:33:15.259340",
+  "word_count": 167,
+  "error_message": null
+}

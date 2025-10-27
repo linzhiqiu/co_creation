@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_20090410.jpeg",
+  "dataset": "civitai",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "Create a highly detailed, cinematic portrait of a young woman with strikingly large, expressive blue eyes and delicate features. She has wavy, dark hair that frames her face, and her expression is a mix of wonder and quiet intensity. She wears an elegant, flowing blue cloak with intricate patterns, the fabric draped gracefully over her shoulders and forming a hood that partially covers her head. The hood is semi-translucent, adorned with ethereal, watercolor-like splashes of orange and white, evoking a sense of magic or celestial energy. In the background, a faint silhouette of a distant castle emerges through a dreamy, abstract wash of deep blues and inky blacks, enhancing the mystical atmosphere. The lighting is soft and luminous, casting gentle highlights on her face and cloak, while the overall color palette is dominated by cool blues, accented with warm golds and oranges. The composition is intimate, with a shallow depth of field that keeps the focus on the subject, and the style blends hyperrealistic detail with painterly, fantasy-inspired elements, reminiscent of a storybook illustration or a high-fantasy film still.",
+  "status": "success",
+  "timestamp": "2025-10-27T02:50:42.344058",
+  "word_count": 179,
+  "error_message": null
+}

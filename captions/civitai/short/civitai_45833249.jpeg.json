@@ -1,0 +1,12 @@
+{
+  "image_filename": "civitai_45833249.jpeg",
+  "dataset": "civitai",
+  "caption_type": "short",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A whimsical, life-sized Totoro character stands on a rain-soaked street, holding a bright red umbrella. The background features lush greenery and misty hills, with soft, diffused daylight. The scene evokes a gentle, magical atmosphere, blending realism with fantasy, reminiscent of Studio Ghibli’s cinematic style.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:02:50.252011",
+  "word_count": 44,
+  "error_message": null
+}

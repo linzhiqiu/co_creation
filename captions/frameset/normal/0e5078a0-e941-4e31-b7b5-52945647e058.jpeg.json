@@ -1,0 +1,12 @@
+{
+  "image_filename": "0e5078a0-e941-4e31-b7b5-52945647e058.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A close-up, high-contrast black and white photograph of an old-fashioned typewriter keyboard, viewed from directly above. The circular keys are arranged in neat rows, each with bold, white letters and numbers on a dark background, encircled by metallic rims that catch the light. The focus is sharp on the keys, with a single finger poised above the \"M\" key, suggesting imminent action and adding a sense of anticipation. The lighting is soft but directional, creating subtle highlights and gentle shadows that emphasize the texture and age of the typewriter. The overall mood is nostalgic and cinematic, evoking a sense of vintage mystery or classic noir. The composition is tight and intimate, with a shallow depth of field that keeps the viewer’s attention on the tactile details of the keys and the poised finger, while the background fades into gentle blur.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:00.718392",
+  "word_count": 140,
+  "error_message": null
+}

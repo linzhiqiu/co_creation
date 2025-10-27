@@ -1,0 +1,12 @@
+{
+  "image_filename": "101f949d-3216-447b-b0a6-d77df4d36070.jpeg",
+  "dataset": "frameset",
+  "caption_type": "normal",
+  "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.",
+  "llm_model": "gpt-4.1-2025-04-14",
+  "caption": "A minimalist digital advertisement with a clean, white background, evoking a sense of simplicity and security. Centered near the top is a blue shield icon with a white \"G\" inside, symbolizing Google’s security. To the right of the icon, in large, modern sans-serif font, is the Spanish phrase “La forma más segura de pagar.” The word “pagar” is highlighted in blue, drawing attention and adding a subtle pop of color. Below the text, evenly spaced in a single horizontal row, are colorful, easily recognizable icons for various Google services: Google Search, Chrome, Gmail, Maps, YouTube, Photos, and Wallet. Each icon is vibrant, rendered in Google’s signature palette of red, blue, yellow, and green, standing out crisply against the white background. The overall composition is balanced and uncluttered, with generous negative space, conveying trust, modernity, and ease of use. The lighting is even and soft, with no shadows, enhancing the flat, contemporary aesthetic typical of tech branding.",
+  "status": "success",
+  "timestamp": "2025-10-27T03:37:39.079411",
+  "word_count": 156,
+  "error_message": null
+}
