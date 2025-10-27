@@ -1,12 +1,12 @@
 {
-  "image_filename": "civitai_50942809.jpeg",
+  "image_filename": "civitai_99903232.jpeg",
   "dataset": "civitai",
   "caption_type": "short",
   "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
   "llm_model": "gpt-4.1-2025-04-14",
-  "caption": null,
-  "status": "failed",
-  "timestamp": "2025-10-27T13:19:04.923040",
-  "word_count": 0,
-  "error_message": "BadRequestError: Error code: 400 - {'error': {'message': 'Invalid base64 image_url.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_base64'}}"
+  "caption": "A pale-skinned anime girl with long silver-blue hair and striking golden eyes stands against a neutral background, wearing a black lace mask, black gloves, and a Victorian-inspired dress with a blue gem brooch. She holds a cardboard sign reading \"I need buzzz!\" Her expression is earnest, lighting soft and even, style crisp and detailed.",
+  "status": "success",
+  "timestamp": "2025-10-27T13:19:13.013822",
+  "word_count": 54,
+  "error_message": null
 }
