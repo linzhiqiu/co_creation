@@ -20,7 +20,7 @@ class CivitaiScraper:
     
     def __init__(self, api_key: Optional[str] = None, config_name: Optional[str] = None, 
                  target_images: int = 10000, target_videos: int = 10000, min_votes: int = 200,
-                 max_pages: int = 100):
+                 max_pages: int = 100, skip_existing: bool = False, random_videos: bool = False):
         """
         Initialize the scraper
         
@@ -31,10 +31,14 @@ class CivitaiScraper:
             target_videos: Target number of videos
             min_votes: Minimum vote/reaction count
             max_pages: Maximum API pages to fetch
+            skip_existing: Skip downloading files that already exist on disk
+            random_videos: Use random/newest sort instead of Most Reactions
         """
         self.base_url = "https://civitai.com/api/v1"
         self.api_key = api_key
         self.session = requests.Session()
+        self.skip_existing = skip_existing
+        self.random_videos = random_videos
         
         # Set up headers
         self.headers = {
@@ -52,6 +56,8 @@ class CivitaiScraper:
             "target_videos": target_videos,
             "min_votes": min_votes,
             "max_pages": max_pages,
+            "skip_existing": skip_existing,
+            "random_videos": random_videos,
             "start_time": datetime.now().isoformat(),
             "api_key_used": bool(api_key)
         }
@@ -81,6 +87,7 @@ class CivitaiScraper:
             "videos_downloaded": 0,
             "images_skipped": 0,
             "videos_skipped": 0,
+            "files_skipped_existing": 0,
             "errors": 0
         }
     
@@ -117,6 +124,28 @@ class CivitaiScraper:
         
         print(f"\n✓ Configuration saved to: {self.config_file}")
     
+    def _file_exists(self, item_id: str, is_video: bool) -> bool:
+        """
+        Check if a file already exists on disk (any extension)
+        
+        Args:
+            item_id: The Civitai item ID
+            is_video: Whether the item is a video
+        
+        Returns:
+            True if file exists, False otherwise
+        """
+        if not self.skip_existing:
+            return False
+        
+        media_dir = self.video_dir if is_video else self.image_dir
+        
+        # Check for any file that starts with civitai_{item_id}
+        pattern = f"civitai_{item_id}.*"
+        existing_files = list(media_dir.glob(f"civitai_{item_id}.*"))
+        
+        return len(existing_files) > 0
+    
     def fetch_images(self, limit_per_request: int = 200, max_requests: int = 100) -> List[Dict]:
         """
         Fetch images from Civitai API with minimum reaction count
@@ -134,14 +163,18 @@ class CivitaiScraper:
         request_count = 0
         consecutive_low_votes = 0
         
+        # Determine sort order based on random_videos flag
+        sort_order = "Newest" if self.random_videos else "Most Reactions"
+        
         print(f"Fetching items with {min_reactions}+ reactions...")
+        print(f"Sort order: {sort_order}")
         print(f"Note: Will fetch up to {max_requests} pages to find enough content\n")
         
         while request_count < max_requests:
             # Build URL with parameters
             params = {
                 "limit": limit_per_request,
-                "sort": "Most Reactions",  # Sort by reactions to get highly-voted content first
+                "sort": sort_order,
                 "period": "AllTime"
             }
             
@@ -218,6 +251,7 @@ class CivitaiScraper:
         
         print(f"\nTotal items fetched: {len(all_items)}")
         print(f"API requests made: {request_count}/{max_requests}")
+        
         return all_items
     
     def _is_video(self, url: str, item: Dict) -> bool:
@@ -267,13 +301,25 @@ class CivitaiScraper:
             print(f"⚠ Skipping item {item_id or 'unknown'}: missing URL or ID")
             return None
         
-        # Skip if already downloaded
+        # Skip if already downloaded (ID tracker)
         if str(item_id) in self.downloaded_ids:
             return None
         
         try:
             # Determine if video or image
             is_video = self._is_video(url, item)
+            
+            # Check if file already exists on disk (when skip_existing is enabled)
+            if self._file_exists(str(item_id), is_video):
+                print(f"⊘ Skipping {item_id}: File already exists on disk")
+                self.stats["files_skipped_existing"] += 1
+                if is_video:
+                    self.stats["videos_skipped"] += 1
+                else:
+                    self.stats["images_skipped"] += 1
+                # Still add to downloaded_ids to track it
+                self.downloaded_ids.add(str(item_id))
+                return None
             
             # Set directory and update stats
             if is_video:
@@ -350,6 +396,8 @@ class CivitaiScraper:
         print(f"Minimum votes: {min_votes}")
         print(f"Max pages: {self.config['max_pages']} (~{self.config['max_pages'] * 200} items)")
         print(f"API Key configured: {bool(self.api_key)}")
+        print(f"Skip existing files: {'Yes' if self.skip_existing else 'No'}")
+        print(f"Random/newest videos: {'Yes' if self.random_videos else 'No (Most Reactions)'}")
         print(f"Output directories:")
         print(f"  - Images: ./{self.image_dir}")
         print(f"  - Videos: ./{self.video_dir}")
@@ -398,6 +446,8 @@ class CivitaiScraper:
                 print(f"Images: {self.stats['images_downloaded']}/{target_images}")
                 print(f"Videos: {self.stats['videos_downloaded']}/{target_videos}")
                 print(f"Errors: {self.stats['errors']}")
+                if self.skip_existing:
+                    print(f"Skipped (existing): {self.stats['files_skipped_existing']}")
                 print("-" * 40 + "\n")
             
             # Save progress periodically
@@ -427,6 +477,8 @@ class CivitaiScraper:
         print(f"\nSkipped:")
         print(f"  - Images: {self.stats['images_skipped']}")
         print(f"  - Videos: {self.stats['videos_skipped']}")
+        if self.skip_existing:
+            print(f"  - Files already on disk: {self.stats['files_skipped_existing']}")
         print(f"\nErrors: {self.stats['errors']}")
         print(f"\nFiles saved to:")
         print(f"  - Images: {self.image_dir}")
@@ -448,6 +500,12 @@ def parse_args():
 Examples:
   # Download 5000 images and 2000 videos with 150+ votes
   python civitai_scraper.py --images 5000 --videos 2000 --min-votes 150
+  
+  # Skip files that already exist on disk
+  python civitai_scraper.py --skip-existing --images 5000 --videos 2000
+  
+  # Get random/newest videos instead of most popular
+  python civitai_scraper.py --random-videos --videos 1000
   
   # Use a custom configuration name
   python civitai_scraper.py --name my_dataset --images 1000 --videos 500 --min-votes 100
@@ -503,6 +561,18 @@ Examples:
         help='Maximum API pages to fetch (default: 50000, ~200 items per page)'
     )
     
+    parser.add_argument(
+        '--skip-existing',
+        action='store_true',
+        help='Skip downloading files that already exist on disk (checks filesystem, not just ID tracker)'
+    )
+    
+    parser.add_argument(
+        '--random-videos',
+        action='store_true',
+        help='Browse and save random/newest videos instead of most popular (sorts by "Newest" instead of "Most Reactions")'
+    )
+    
     return parser.parse_args()
 
 
@@ -546,6 +616,8 @@ def main():
     else:
         print(f"Configuration name: (auto-generated)")
     print(f"API key: {'✓ Provided' if api_key else '✗ Not provided'}")
+    print(f"Skip existing files: {'✓ Enabled' if args.skip_existing else '✗ Disabled'}")
+    print(f"Random videos mode: {'✓ Enabled' if args.random_videos else '✗ Disabled (Most Reactions)'}")
     print("="*60)
     
     # Confirm to proceed
@@ -561,7 +633,9 @@ def main():
         target_images=args.images,
         target_videos=args.videos,
         min_votes=args.min_votes,
-        max_pages=args.max_pages
+        max_pages=args.max_pages,
+        skip_existing=args.skip_existing,
+        random_videos=args.random_videos
     )
     
     # Run scraper

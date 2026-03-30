@@ -1,12 +1,12 @@
 {
-  "image_filename": "civitai_71797043.jpeg",
+  "image_filename": "civitai_46547722.png",
   "dataset": "civitai",
   "caption_type": "short",
   "prompt_used": "You are given an image. Write a detailed natural language prompt that could have been used to generate this image. Focus on the most salient and unique visual elements such as the subjects, their clothing, expressions, actions, background, and composition. Describe the color palette, lighting, and overall style, including any cinematic or artistic qualities like camera angle, depth of field, or motion. Make the description as accurate and faithful to the image as possible. If small details are uncertain or ambiguous, omit them and prioritize capturing the overall scene, mood, and visual impression. The final prompt should be coherent, evocative, written as if by an expert visual artist or filmmaker recreating the exact scene.\n\nKeep your response to at most 30 to 60 words.",
   "llm_model": "gpt-4.1-2025-04-14",
-  "caption": null,
-  "status": "failed",
-  "timestamp": "2025-10-27T13:48:19.287926",
-  "word_count": 0,
-  "error_message": "BadRequestError: Error code: 400 - {'error': {'message': 'Invalid base64 image_url.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_base64'}}"
+  "caption": "A hyper-realistic, wide-angle shot of a life-sized Pikachu mascot with unnaturally large, diamond-studded teeth, holding a pink polka-dotted lollipop. The setting is a brightly lit, modern candy store with colorful shelves in the background, marble flooring, and a playful, surreal atmosphere.",
+  "status": "success",
+  "timestamp": "2025-10-27T13:46:54.652461",
+  "word_count": 41,
+  "error_message": null
 }
